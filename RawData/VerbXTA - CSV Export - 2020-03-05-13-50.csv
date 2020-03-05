@@ -1,0 +1,143 @@
+﻿__PK,Language name,Language sub-family,AFFIX (Verb),AFFIX (Lg.),TONE (Verb),TONE (Lg.),STEM (Verb),STEM (Lg.),Citation form,English,Spanish,Transitivity,Stem phonology,Inflected form (IRR),Inflected form (CPL),Inflected form (INCPL),Prefix (IRR),Prefix (CPL),Prefix (INCPL),Tone (IRR),Tone (CPL),Tone (INCPL),Inflectional class by affixation,Stem alternation
+3693,Xochapa Mixtec,Amuzgo-Mixtecan,False,True,True,,False,True,cha⁴ʔvi⁴,pay,pagar,tr,Bimoraic,cha³ʔvi³,cha²ʔvi²,cha⁴ʔvi⁴,,,,33,22,44,I.a,Invariant
+3694,Xochapa Mixtec,Amuzgo-Mixtecan,False,True,True,,False,True,chi⁴chin⁴,breastfeed,mamar,intr,Bimoraic,chi³chin⁴,chi²chin⁴,chi⁴chin⁴,,,,34,24,44,I.a,Invariant
+3695,Xochapa Mixtec,Amuzgo-Mixtecan,False,True,True,,False,True,chi⁴i⁴,wet,mojar,intr,Bimoraic,chi³i³,chi²i²,chi⁴i⁴,,,,33,22,44,I.a,Invariant
+3696,Xochapa Mixtec,Amuzgo-Mixtecan,False,True,True,,False,True,chi⁴ʔi⁴,sow,sembrar,tr,Bimoraic,chi³ʔi³,chi²ʔi²,chi⁴ʔi⁴,,,,33,22,44,I.a,Invariant
+3697,Xochapa Mixtec,Amuzgo-Mixtecan,False,True,True,,False,True,chi⁴ka⁴a¹,throw out,echar,tr,Trimoraic,chi³ka¹a¹,chi¹ka²a²,chi⁴ka⁴a¹,,,,311,122,441,I.a,Invariant
+3698,Xochapa Mixtec,Amuzgo-Mixtecan,False,True,True,,False,True,chi⁴kwi⁴ti³,join,juntar,tr,Trimoraic,chi³kwi⁴ti³,chi¹kwi⁴ti³,chi⁴kwi⁴ti³,,,,343,143,443,I.a,Invariant
+3699,Xochapa Mixtec,Amuzgo-Mixtecan,False,True,True,,False,True,chi⁴nde³e⁴,help,ayudar,tr,Trimoraic,chi³nde³e⁴,chi¹nde³e⁴,chi⁴nde³e⁴,,,,334,134,434,I.a,Invariant
+3700,Xochapa Mixtec,Amuzgo-Mixtecan,False,True,True,,False,True,chi⁴ndo³o³,put,poner,tr,Trimoraic,chi³ndo³o³,chi¹ndo³o³,chi⁴ndo³o³,,,,333,133,433,I.a,Invariant
+3701,Xochapa Mixtec,Amuzgo-Mixtecan,False,True,True,,False,True,chi⁴ndu⁴ʔu⁴,put,poner,tr,Trimoraic,chi³ndu⁴ʔu⁴,chi¹ndu⁴ʔu⁴,chi⁴ndu⁴ʔu⁴,,,,344,144,444,I.a,Invariant
+3702,Xochapa Mixtec,Amuzgo-Mixtecan,False,True,True,,False,True,chi⁴nu⁴u⁴,put on top,poner encima,tr,Trimoraic,chi³nu⁴u⁴,chi¹nu⁴u⁴,chi⁴nu⁴u⁴,,,,344,144,444,I.a,Invariant
+3703,Xochapa Mixtec,Amuzgo-Mixtecan,True,True,True,,False,True,chi⁴²ʔyo⁴,"cook, boil",cocer,intr,Bimoraic,chi¹ʔyo⁴,ndi¹-chi¹ʔyo⁴,chi⁴²ʔyo⁴,,ndi¹,,14,14,{4↓}4,I.b,Invariant
+3704,Xochapa Mixtec,Amuzgo-Mixtecan,False,True,True,,False,True,i⁴kan⁴,"make, do",hacer,tr,Bimoraic,i³kan⁴,i²kan⁴,i⁴kan⁴,,,,34,24,44,I.a,Invariant
+3705,Xochapa Mixtec,Amuzgo-Mixtecan,False,True,True,,False,True,ka⁴a⁴,bathe (in a temazcal),bañar (en temazcal),intr,Bimoraic,ka³a³,ka²a²,ka⁴a⁴,,,,33,22,44,I.a,Invariant
+3706,Xochapa Mixtec,Amuzgo-Mixtecan,True,True,True,,False,True,ka⁴ʔan¹,speak,hablar,intr,Bimoraic,ka¹ʔan¹,ndi¹-ka¹ʔan¹,ka⁴ʔan¹,,ndi¹,,11,11,41,I.b,Invariant
+3707,Xochapa Mixtec,Amuzgo-Mixtecan,False,True,True,,False,True,ka⁴chi³,say,decir,tr,Bimoraic,ka³chi³,ka²chi²,ka⁴chi³,,,,33,22,43,I.a,Invariant
+3708,Xochapa Mixtec,Amuzgo-Mixtecan,False,True,True,,True,True,xi⁴ka⁴,walk,andar,intr,Bimoraic,ka³ka³,xi²ka²,xi⁴ka⁴,,,,33,22,44,I.a,ka+
+3709,Xochapa Mixtec,Amuzgo-Mixtecan,False,True,True,,True,True,xa⁴kin³,position,colocar,tr,Bimoraic,ka³kin³,xa²kin²,xa⁴kin³,,,,33,22,43,I.a,ka+
+3710,Xochapa Mixtec,Amuzgo-Mixtecan,False,True,True,,False,True,ka⁴ku⁴,be born,nacer,intr,Bimoraic,ka³ku³,ka²ku²,ka⁴ku⁴,,,,33,22,44,I.a,Invariant
+3711,Xochapa Mixtec,Amuzgo-Mixtecan,True,True,True,,False,True,ka⁴²ku³,get away,escapar,intr,Bimoraic,ka¹ku³,ndi¹-ka¹ku³,ka⁴²ku³,,ndi¹,,13,13,{4↓}3,I.b,Invariant
+3712,Xochapa Mixtec,Amuzgo-Mixtecan,False,True,True,,True,True,xa⁴ʔmi⁴,burn,quemar,tr,Bimoraic,ka³ʔmi³,xa²ʔmi²,xa⁴ʔmi⁴,,,,33,22,44,I.a,ka+
+3713,Xochapa Mixtec,Amuzgo-Mixtecan,False,True,True,,False,True,ka⁴na⁴,call,llamar,intr/tr,Bimoraic,ka³na³,ka²na²,ka⁴na⁴,,,,33,22,44,I.a,Invariant
+3714,Xochapa Mixtec,Amuzgo-Mixtecan,True,True,True,,False,True,ka⁴nda¹,move,mover,intr,Bimoraic,ka¹nda¹,ndi¹-ka¹nda¹,ka⁴nda¹,,ndi¹,,11,11,41,I.b,Invariant
+3715,Xochapa Mixtec,Amuzgo-Mixtecan,False,True,True,,True,True,xa⁴ʔnda³,cut,cortar,tr,Bimoraic,ka³ʔnda³,xa²ʔnda²,xa⁴ʔnda³,,,,33,22,43,I.a,ka+
+3716,Xochapa Mixtec,Amuzgo-Mixtecan,True,True,True,,False,True,ka⁴ʔndi¹,exploit,explotar,intr,Bimoraic,ka¹ʔndi¹,ndi¹-ka¹ʔndi¹,ka⁴ʔndi¹,,ndi¹,,11,11,41,I.b,Invariant
+3717,Xochapa Mixtec,Amuzgo-Mixtecan,False,True,True,,False,True,ka⁴ndi⁴chi³,stop,parar,tr,Trimoraic,ka³ndi³chi³,ka¹ndi²chi²,ka⁴ndi⁴chi³,,,,333,122,443,I.a,Invariant
+3718,Xochapa Mixtec,Amuzgo-Mixtecan,False,True,True,,False,True,ka⁴ndi⁴ta⁴,stop,parar,tr,Trimoraic,ka³ndi³ta³,ka¹ndi²ta²,ka⁴ndi⁴ta⁴,,,,333,122,444,I.a,Invariant
+3719,Xochapa Mixtec,Amuzgo-Mixtecan,False,True,True,,False,True,ka⁴ndi⁴xa⁴,believe,creer,tr,Trimoraic,ka³ndi⁴xa⁴,ka¹ndi²xa²,ka⁴ndi⁴xa⁴,,,,344,122,444,I.a,Invariant
+3720,Xochapa Mixtec,Amuzgo-Mixtecan,False,True,True,,False,True,ka⁴ni⁴,hit,pegar,tr,Bimoraic,ka³ni³,ka²ni²,ka⁴ni⁴,,,,33,22,44,I.a,Invariant
+3721,Xochapa Mixtec,Amuzgo-Mixtecan,False,True,True,,True,True,xa⁴ʔni⁴,kill,matar,tr,Bimoraic,ka³ʔni⁴,xa²ʔni⁴,xa⁴ʔni⁴,,,,34,24,44,I.a,ka+
+3722,Xochapa Mixtec,Amuzgo-Mixtecan,True,True,True,,True,True,xa⁴ʔnu¹,break,quebrar,tr,Bimoraic,ka¹ʔnu¹,ndi¹-xa¹ʔnu¹,xa⁴ʔnu¹,,ndi¹,,11,11,41,I.b,ka+
+3723,Xochapa Mixtec,Amuzgo-Mixtecan,False,True,True,,True,True,xa⁴ta³,dig,escarbar,tr,Bimoraic,ka³ta³,xa²ta²,xa⁴ta³,,,,33,22,43,I.a,ka+
+3724,Xochapa Mixtec,Amuzgo-Mixtecan,False,True,True,,True,True,xi⁴ta⁴,sing,cantar,intr,Bimoraic,ka³ta³,xi²ta²,xi⁴ta⁴,,,,33,22,44,I.a,ka+
+3725,Xochapa Mixtec,Amuzgo-Mixtecan,False,True,True,,False,True,ka⁴tun⁴,tie up,amarrar,tr,Bimoraic,ka³tun⁴,ka²tun⁴,ka⁴tun⁴,,,,34,24,44,I.a,Invariant
+3726,Xochapa Mixtec,Amuzgo-Mixtecan,True,True,True,,False,True,ka⁴²ʔun³,"smart, burn",arder,intr,Bimoraic,ka¹ʔun³,ndi¹-ka¹ʔun³,ka⁴²ʔun³,,ndi¹,,13,13,{4↓}3,I.b,Invariant
+3727,Xochapa Mixtec,Amuzgo-Mixtecan,False,True,True,,False,True,ka⁴ʔvi⁴,study,estudiar,tr,Bimoraic,ka³ʔvi³,ka²ʔvi²,ka⁴ʔvi⁴,,,,33,22,44,I.a,Invariant
+3728,Xochapa Mixtec,Amuzgo-Mixtecan,False,True,True,,True,True,xa⁴xi⁴/ya⁴xi⁴,eat,comer,intr/tr,Bimoraic,ka³xi⁴,xa²xi⁴/ya²xi⁴,xa⁴xi⁴/ya⁴xi⁴,,,,34,24,44,I.a,ka+
+3729,Xochapa Mixtec,Amuzgo-Mixtecan,False,True,True,,False,True,ke⁴e⁴,leave,salir,intr,Bimoraic,ke³e³,ke²e²,ke⁴e⁴,,,,33,22,44,I.a,Invariant
+3730,Xochapa Mixtec,Amuzgo-Mixtecan,True,True,True,,False,True,ke⁴²e³,enter,entrar,intr,Bimoraic,ke¹e³,ndi¹-ke¹e³,ke⁴²e³,,ndi¹,,13,13,{4↓}3,I.b,Invariant
+3731,Xochapa Mixtec,Amuzgo-Mixtecan,False,True,True,,False,True,ke⁴ta⁴,leave,salir,intr,Bimoraic,ke³ta³,ke²ta²,ke⁴ta⁴,,,,33,22,44,I.a,Invariant
+3732,Xochapa Mixtec,Amuzgo-Mixtecan,True,True,True,,False,True,ke⁴²ta³,enter,entrar,intr,Bimoraic,ke¹ta³,ndi¹-ke¹ta³,ke⁴²ta³,,ndi¹,,13,13,{4↓}3,I.b,Invariant
+3733,Xochapa Mixtec,Amuzgo-Mixtecan,False,True,True,,False,True,ki⁴ʔin⁴,receive,recibir,tr,Bimoraic,ki³ʔin³,ki²ʔin²,ki⁴ʔin⁴,,,,33,22,44,I.a,Invariant
+3734,Xochapa Mixtec,Amuzgo-Mixtecan,False,True,True,,False,True,ki⁴nda⁴a³,remove,quitar,tr,Trimoraic,ki³nda³a³,ki¹nda²a²,ki⁴nda⁴a³,,,,333,122,443,I.a,Invariant
+3735,Xochapa Mixtec,Amuzgo-Mixtecan,False,True,True,,False,True,ki⁴nda⁴a³,soothe,calmar,intr,Trimoraic,ki³nda³a³,ki¹nda²a²,ki⁴nda⁴a³,,,,333,122,443,I.a,Invariant
+3736,Xochapa Mixtec,Amuzgo-Mixtecan,True,True,True,,False,True,ki⁴²ʔvi³,enter,entrar,intr,Bimoraic,ki¹ʔvi³,ndi¹-ki¹ʔvi³,ki⁴²ʔvi³,,ndi¹,,13,13,{4↓}3,I.b,Invariant
+3737,Xochapa Mixtec,Amuzgo-Mixtecan,False,True,True,,False,True,ki⁴xa⁴a⁴,start,empezar,tr,Trimoraic,ki³xa⁴a⁴,ki¹xa²a⁴,ki⁴xa⁴a⁴,,,,344,124,444,I.a,Invariant
+3738,Xochapa Mixtec,Amuzgo-Mixtecan,False,True,True,,False,True,ki⁴xa⁴a⁴,"make, do",hacer,tr,Trimoraic,ki³xa³a³,ki¹xa²a²,ki⁴xa⁴a⁴,,,,333,122,444,I.a,Invariant
+3739,Xochapa Mixtec,Amuzgo-Mixtecan,False,True,True,,False,True,ki⁴xa⁴a¹,arrive,llegar,intr,Trimoraic,ki³xa¹a¹,ki¹xa²a²,ki⁴xa⁴a¹,,,,311,122,441,I.a,Invariant
+3740,Xochapa Mixtec,Amuzgo-Mixtecan,False,True,True,,True,True,va¹xi³,come,venir,intr,Bimoraic,ki³xi³,ki²xi²,va¹xi³,,,,33,22,44,I.a,ka+
+3741,Xochapa Mixtec,Amuzgo-Mixtecan,False,True,True,,False,True,ko⁴ko⁴,swallow,tragar,tr,Bimoraic,ko³ko⁴,ko²ko⁴,ko⁴ko⁴,,,,34,24,44,I.a,Invariant
+3742,Xochapa Mixtec,Amuzgo-Mixtecan,True,True,True,,True,True,i⁴yo³,live,vivir,intr,Bimoraic,ko³o³,ndi¹-xi¹yo³,i⁴yo³,,ndi¹,,33,13,43,Irregular,Suppletive
+3743,Xochapa Mixtec,Amuzgo-Mixtecan,False,True,True,,True,True,xi⁴ʔi⁴,drink,beber,intr/tr,Bimoraic,ko³ʔo³,xi²ʔi²,xi⁴ʔi⁴,,,,33,22,44,I.a,Suppletive
+3744,Xochapa Mixtec,Amuzgo-Mixtecan,False,True,True,,True,True,xi⁴to⁴,watch,mirar,tr,Bimoraic,ko³to³,xi²to²,xi⁴to⁴,,,,33,22,44,I.a,ku+
+3745,Xochapa Mixtec,Amuzgo-Mixtecan,True,True,True,,False,True,ko⁴²yo³,fall,caer,intr,Bimoraic,ko¹yo³,ndi¹-ko¹yo³,ko⁴²yo³,,ndi¹,,13,13,{4↓}3,I.b,Invariant
+3746,Xochapa Mixtec,Amuzgo-Mixtecan,False,True,True,,True,True,xa⁴ku⁴,cry,llorar,intr,Bimoraic,kwa³ku³,xa²ku²,xa⁴ku⁴,,,,33,22,44,I.a,ku+
+3747,Xochapa Mixtec,Amuzgo-Mixtecan,True,True,True,,True,True,xa⁴ku¹,laugh,reírse,intr,Bimoraic,kwa¹ku¹,ndi¹-xa¹ku¹,xa⁴ku¹,,ndi¹,,11,11,41,I.b,ku+
+3748,Xochapa Mixtec,Amuzgo-Mixtecan,False,True,True,,True,True,chi⁴chi⁴,bathe,bañar,intr,Bimoraic,ku³chi³,chi²chi²,chi⁴chi⁴,,,,33,22,44,I.a,ku+
+3749,Xochapa Mixtec,Amuzgo-Mixtecan,True,True,True,,True,True,si⁴so¹,boil,hervir,intr,Bimoraic,kwi¹so¹,ndi¹-si¹so¹,si⁴so¹,,ndi¹,,11,11,41,I.b,ku+
+3750,Xochapa Mixtec,Amuzgo-Mixtecan,False,True,True,,False,True,xu⁴na⁴,open,abrir,tr,Bimoraic,xu³na⁴,xu²na⁴,xu⁴na⁴,,,,34,24,44,I.a,Invariant
+3751,Xochapa Mixtec,Amuzgo-Mixtecan,True,True,False,,False,True,na³ni⁴,be called,llamarse,intr,Bimoraic,ku³na³ni⁴,xi¹na³ni⁴,na³ni⁴,ku³,xi¹,,34,34,34,II,Invariant
+3752,Xochapa Mixtec,Amuzgo-Mixtecan,True,True,True,,False,True,nda⁴a³,take care of,cuidar,tr,Bimoraic,ku³nda³a³,xi¹nda²a²,nda⁴a³,ku³,xi¹,,33,22,43,II,Invariant
+3753,Xochapa Mixtec,Amuzgo-Mixtecan,True,True,True,,False,True,nda⁴tu⁴,wait,esperar,tr,Bimoraic,ku³nda³tu³,xi¹nda²tu²,nda⁴tu⁴,ku³,xi¹,,33,22,44,II,Invariant
+3754,Xochapa Mixtec,Amuzgo-Mixtecan,False,True,True,,False,True,ku⁴nde³e⁴ (i³ni³),tolerate,aguantar,tr,Trimoraic,ku³nde³e⁴ (i³ni³),ku¹nde²e⁴ (i³ni³),ku⁴nde³e⁴ (i³ni³),,,,334,124,434,I.a,Invariant
+3755,Xochapa Mixtec,Amuzgo-Mixtecan,True,True,True,,False,True,ndi⁴chi³,stand up,pararse,intr,Bimoraic,ku³ndi³chi³,xi¹ndi²chi²,ndi⁴chi³,ku³,xi¹,,33,22,43,II,Invariant
+3756,Xochapa Mixtec,Amuzgo-Mixtecan,True,True,True,,False,True,ndi⁴so⁴,load,cargar,tr,Bimoraic,ku³ndi³so³,xi¹ndi²so²,ndi⁴so⁴,ku³,xi¹,,33,22,44,II,Invariant
+3757,Xochapa Mixtec,Amuzgo-Mixtecan,True,True,True,,False,True,ndi⁴ta⁴,stand up,pararse,intr,Bimoraic,ku³ndi³ta³,xi¹ndi²ta²,ndi⁴ta⁴,ku³,xi¹,,33,22,44,II,Invariant
+3758,Xochapa Mixtec,Amuzgo-Mixtecan,True,True,True,,False,True,ndi⁴xi⁴,get dressed,vestirse,intr/tr,Bimoraic,ku³ndi³xi³,xi¹ndi²xi²,ndi⁴xi⁴,ku³,xi¹,,33,22,44,II,Invariant
+3759,Xochapa Mixtec,Amuzgo-Mixtecan,True,True,True,,False,True,ndo⁴o⁴,be,estar,intr,Bimoraic,ku³ndo³o³,xi¹ndo²o²,ndo⁴o⁴,ku³,xi¹,,33,22,44,II,Invariant
+3760,Xochapa Mixtec,Amuzgo-Mixtecan,True,True,False,,False,True,ndo⁴so⁴,be on top,estar encima,intr,Bimoraic,ku³ndo⁴so⁴,xi¹ndo⁴so⁴,ndo⁴so⁴,ku³,xi¹,,44,44,44,II,Invariant
+3761,Xochapa Mixtec,Amuzgo-Mixtecan,True,True,True,,False,True,i⁴ndu⁴ʔu⁴,be (sitting or lying),estar (sentado o acostado),intr,Bimoraic,ku³ndu⁴ʔu⁴,xi¹ndu²ʔu⁴,i⁴ndu⁴ʔu⁴,ku³,xi¹,i⁴,44,24,44,III,Invariant
+3762,Xochapa Mixtec,Amuzgo-Mixtecan,False,True,True,,False,True,ku⁴ni³,feel,sentir,intr,Bimoraic,ku³ni³,ku²ni²,ku⁴ni³,,,,33,22,43,I.a,Invariant
+3763,Xochapa Mixtec,Amuzgo-Mixtecan,False,True,True,,True,True,xi⁴ni⁴,see,ver,tr,Bimoraic,ku³ni³,xi²ni²,xi⁴ni⁴,,,,33,22,44,I.a,ku+
+3764,Xochapa Mixtec,Amuzgo-Mixtecan,True,True,True,,False,True,ku⁴ni¹,want,querer,tr,Bimoraic,ku¹ni¹,ndi¹-ku¹ni¹,ku⁴ni¹,,ndi¹,,11,11,41,I.b,Invariant
+3765,Xochapa Mixtec,Amuzgo-Mixtecan,True,True,True,,False,True,ni⁴ʔi⁴,load,cargar,tr,Bimoraic,ku³ni³ʔi³,xi¹ni²ʔi²,ni⁴ʔi⁴,ku³,xi¹,,33,22,44,II,Invariant
+3766,Xochapa Mixtec,Amuzgo-Mixtecan,False,True,True,,True,True,xi⁴nu⁴,run,correr,intr,Bimoraic,ku³nu³,xi²nu²,xi⁴nu⁴,,,,33,22,44,I.a,ku+
+3767,Xochapa Mixtec,Amuzgo-Mixtecan,True,True,True,,False,True,i⁴nu⁴u⁴,be on top,estar encima,intr,Bimoraic,ku³nu⁴u⁴,xi¹nu²u²,i⁴nu⁴u⁴,ku³,xi¹,i⁴,44,22,44,III,Invariant
+3768,Xochapa Mixtec,Amuzgo-Mixtecan,True,True,True,,True,True,ki⁴xi¹,sleep,dormir,intr,Bimoraic,ku¹sun¹,ndi¹-ki¹xi¹,ki⁴xi¹,,ndi¹,,11,11,41,I.b,Suppletive
+3769,Xochapa Mixtec,Amuzgo-Mixtecan,True,True,True,,False,True,ta⁴ku³,survive,sobrevivir,intr,Bimoraic,ku³ta³ku³,xi¹ta²ku²,ta⁴ku³,ku³,xi¹,,33,22,43,II,Invariant
+3770,Xochapa Mixtec,Amuzgo-Mixtecan,False,True,True,,True,True,chu⁴tu⁴,fill,llenarse,intr,Bimoraic,ku³tu⁴,chu²tu⁴,chu⁴tu⁴,,,,34,24,44,I.a,ku+
+3771,Xochapa Mixtec,Amuzgo-Mixtecan,False,True,True,,False,True,ku⁴u⁴,be,ser,intr,Bimoraic,ku³u³,ku²u²,ku⁴u⁴,,,,33,22,44,I.a,Invariant
+3772,Xochapa Mixtec,Amuzgo-Mixtecan,False,True,True,,False,True,ku⁴un⁴,produce,producir,intr,Bimoraic,ku³un³,ku²un²,ku⁴un⁴,,,,33,22,44,I.a,Invariant
+3773,Xochapa Mixtec,Amuzgo-Mixtecan,True,True,True,,True,True,kwa¹ʔan¹,go,ir,intr,Bimoraic,ku¹ʔun¹,ndi¹-xa¹ʔan¹,kwa¹ʔan¹,,ndi¹,,11,11,41,I.b,Suppletive
+3774,Xochapa Mixtec,Amuzgo-Mixtecan,True,True,True,,True,True,xi⁴ʔi³,die,morir,intr,Bimoraic,ku³vi³,ndi¹-xi¹ʔi³,xi⁴ʔi³,,ndi¹,,33,13,43,I.b,Suppletive
+3775,Xochapa Mixtec,Amuzgo-Mixtecan,True,True,True,,False,True,ku⁴ʔvi¹,hurt,doler,intr,Bimoraic,ku¹ʔvi¹,ndi¹-ku¹ʔvi¹,ku⁴ʔvi¹,,ndi¹,,11,11,41,I.b,Invariant
+3776,Xochapa Mixtec,Amuzgo-Mixtecan,True,True,True,,False,True,xa⁴ʔan¹,smell,oler,intr,Bimoraic,ku¹xa¹ʔan¹,ndi¹-xa¹ʔan¹,xa⁴ʔan¹,ku¹,ndi¹,,11,11,41,Irregular,Invariant
+3777,Xochapa Mixtec,Amuzgo-Mixtecan,False,True,True,,True,True,xi⁴xi⁴,eat,comer,intr/tr,Bimoraic,ku³xi³,xi²xi²,xi⁴xi⁴,,,,33,22,44,I.a,ku+
+3778,Xochapa Mixtec,Amuzgo-Mixtecan,True,True,True,,False,True,na⁴ma⁴,change,cambiar,tr,Bimoraic,na³ma³,ndi¹-na²ma²,na⁴ma⁴,,ndi¹,,33,22,44,I.b,Invariant
+3779,Xochapa Mixtec,Amuzgo-Mixtecan,False,True,True,,False,True,nda⁴a⁴,go up,subir,tr,Bimoraic,nda³a³,nda²a²,nda⁴a⁴,,,,33,22,44,I.a,Invariant
+3780,Xochapa Mixtec,Amuzgo-Mixtecan,False,True,True,,False,True,nda⁴ʔa³,improve,mejorarse,intr,Bimoraic,nda³ʔa³,nda²ʔa²,nda⁴ʔa³,,,,33,22,43,I.a,Invariant
+3781,Xochapa Mixtec,Amuzgo-Mixtecan,False,True,True,,False,True,nda⁴chi⁴,fly,volar,intr,Bimoraic,nda³chi⁴,nda²chi⁴,nda⁴chi⁴,,,,34,24,44,I.a,Invariant
+3782,Xochapa Mixtec,Amuzgo-Mixtecan,False,True,True,,False,True,nda⁴i⁴,pound,martajar,tr,Bimoraic,nda³i⁴,nda²i⁴,nda⁴i⁴,,,,34,24,44,I.a,Invariant
+3783,Xochapa Mixtec,Amuzgo-Mixtecan,True,True,True,,False,True,nda⁴ʔi¹,scold,regañar,intr,Bimoraic,nda¹ʔi¹,ndi¹-nda¹ʔi¹,nda⁴ʔi¹,,ndi¹,,11,11,41,I.b,Invariant
+3784,Xochapa Mixtec,Amuzgo-Mixtecan,True,True,True,,False,True,nda⁴kan¹,"ask, request",pedir,tr,Bimoraic,nda¹kan¹,ndi¹-nda¹kan¹,nda⁴kan¹,,ndi¹,,11,11,41,I.b,Invariant
+3785,Xochapa Mixtec,Amuzgo-Mixtecan,False,True,True,,False,True,nda⁴ʔva³,turn off,apagar,tr,Bimoraic,nda³ʔva³,nda²ʔva²,nda⁴ʔva³,,,,33,22,43,I.a,Invariant
+3786,Xochapa Mixtec,Amuzgo-Mixtecan,False,True,True,,False,True,nda⁴xin⁴,untie,desamarrar,tr,Bimoraic,nda³xin⁴,nda²xin⁴,nda⁴xin⁴,,,,34,24,44,I.a,Invariant
+3787,Xochapa Mixtec,Amuzgo-Mixtecan,False,True,True,,False,True,nda⁴xin⁴,get wet,mojarse,intr,Bimoraic,nda³xin³,nda²xin²,nda⁴xin⁴,,,,33,22,44,I.a,Invariant
+3788,Xochapa Mixtec,Amuzgo-Mixtecan,False,True,True,,False,True,ndi⁴ka⁴ʔan⁴ (i³ni³),remember,acordarse,intr,Trimoraic,ndi³ka³ʔan⁴ (i³ni³),ndi¹ka²ʔan⁴ (i³ni³),ndi⁴ka⁴ʔan⁴ (i³ni³),,,,334,124,444,I.a,Invariant
+3789,Xochapa Mixtec,Amuzgo-Mixtecan,False,True,True,,False,True,ndi⁴ka⁴ʔi⁴,paint,pintar,intr/tr,Trimoraic,ndi³ka³ʔi⁴,ndi¹ka²ʔi⁴,ndi⁴ka⁴ʔi⁴,,,,334,124,444,I.a,Invariant
+3790,Xochapa Mixtec,Amuzgo-Mixtecan,False,True,True,,False,True,ndi⁴ka⁴si³,close,cerrar,tr,Trimoraic,ndi³ka³si³,ndi¹-ka²si²,ndi⁴ka⁴si³,,,,333,122,443,I.a,Invariant
+3791,Xochapa Mixtec,Amuzgo-Mixtecan,False,True,True,,False,True,ndi⁴ka⁴va⁴,sink,hundirse,intr,Trimoraic,ndi³ka³va³,ndi¹-ka²va²,ndi⁴ka⁴va⁴,,,,333,122,444,I.a,Invariant
+3792,Xochapa Mixtec,Amuzgo-Mixtecan,False,True,True,,False,True,ndi⁴ki⁴ta⁴ʔan⁴,join,juntarse,intr,Quadrimoraic,ndi³ki³ta⁴ʔan⁴,ndi¹ki¹ta⁴ʔan⁴,ndi⁴ki⁴ta⁴ʔan⁴,,,,3344,1144,4444,I.a,Invariant
+3793,Xochapa Mixtec,Amuzgo-Mixtecan,False,True,True,,False,True,ndi⁴ko⁴,return,regresar,intr,Bimoraic,ndi³ko⁴,ndi²ko⁴,ndi⁴ko⁴,,,,34,24,44,I.a,Invariant
+3794,Xochapa Mixtec,Amuzgo-Mixtecan,False,True,True,,False,True,ndi⁴ko⁴,grind,moler,tr,Bimoraic,ndi³ko³,ndi²ko²,ndi⁴ko⁴,,,,33,22,44,I.a,Invariant
+3795,Xochapa Mixtec,Amuzgo-Mixtecan,True,True,True,,False,True,ndi⁴²ko³,get cold,enfriarse,intr,Bimoraic,ndi¹-ko³,ndi¹-ndi¹-ko³,ndi⁴²ko³,,ndi¹,,13,13,{4↓}3,I.b,Invariant
+3796,Xochapa Mixtec,Amuzgo-Mixtecan,False,True,True,,False,True,ndi⁴ko⁴²o³,get up (in the morning),levantarse (en la mañana),intr,Trimoraic,ndi³ko¹o³,ndi¹-ko²o²,ndi⁴ko⁴²o³,,,,311,122,4{4↓}3,I.a,Invariant
+3797,Xochapa Mixtec,Amuzgo-Mixtecan,False,True,True,,False,True,ndi⁴ku⁴ʔun⁴,sharpen,afilar,tr,Trimoraic,ndi³ku³ʔun⁴,ndi¹ku²ʔun⁴,ndi⁴ku⁴ʔun⁴,,,,334,124,444,I.a,Invariant
+3798,Xochapa Mixtec,Amuzgo-Mixtecan,False,True,True,,False,True,ndi⁴ndo⁴so⁴ (i³ni³),forget,olvidar,intr,Trimoraic,ndi³ndo³so⁴ (i³ni³),ndi¹ndo²so⁴ (i³ni³),ndi⁴ndo⁴so⁴ (i³ni³),,,,334,124,444,I.a,Invariant
+3799,Xochapa Mixtec,Amuzgo-Mixtecan,False,True,True,,False,True,ndi⁴ti⁴vi⁴,clean (maize and beans),limpiar (maíz o frijol),tr,Trimoraic,ndi³ti³vi³,ndi¹ti²vi²,ndi⁴ti⁴vi⁴,,,,333,122,444,I.a,Invariant
+3800,Xochapa Mixtec,Amuzgo-Mixtecan,False,True,True,,False,True,ndi⁴tu⁴ʔun⁴,chat,platicar,intr,Trimoraic,ndi³tu⁴ʔun⁴,ndi¹-tu⁴ʔun⁴,ndi⁴tu⁴ʔun⁴,,,,344,144,444,I.a,Invariant
+3801,Xochapa Mixtec,Amuzgo-Mixtecan,False,True,True,,False,True,ndi⁴tu⁴²vi³,have high fever,tener mucha calentura,intr,Trimoraic,ndi³tu¹vi³,ndi¹-tu¹vi³,ndi⁴tu⁴²vi³,,,,311,113,4{4↓}3,I.a,Invariant
+3802,Xochapa Mixtec,Amuzgo-Mixtecan,True,True,True,,False,True,ndo⁴²o³,stay,quedar,intr,Bimoraic,ndo¹o³,ndi¹-ndo¹o³,ndo⁴²o³,,ndi¹,,13,13,{4↓}3,I.b,Invariant
+3803,Xochapa Mixtec,Amuzgo-Mixtecan,False,True,True,,False,True,ndo⁴ʔo⁴,suffer,sufrir,intr/tr,Bimoraic,ndo³ʔo³,ndo²ʔo²,ndo⁴ʔo⁴,,,,33,22,44,I.a,Invariant
+3804,Xochapa Mixtec,Amuzgo-Mixtecan,False,True,True,,False,True,ndu⁴ku⁴,look for,buscar,tr,Bimoraic,ndu³ku⁴,ndu²ku⁴,ndu⁴ku⁴,,,,34,24,44,I.a,Invariant
+3805,Xochapa Mixtec,Amuzgo-Mixtecan,False,True,True,,False,True,ndu⁴va³,fall,caerse,intr,Bimoraic,ndu³va³,ndu²va²,ndu⁴va³,,,,33,22,43,I.a,Invariant
+3806,Xochapa Mixtec,Amuzgo-Mixtecan,False,True,True,,False,True,ndu⁴va⁴²ʔa³,improve,mejorarse,intr,Trimoraic,ndu³va¹ʔa³,ndu¹va²ʔa²,ndu⁴va⁴²ʔa³,,,,311,122,4{4↓}3,I.a,Invariant
+3807,Xochapa Mixtec,Amuzgo-Mixtecan,True,True,True,,False,True,ni⁴²ʔi³,thunder,tronar,intr,Bimoraic,ni¹ʔi³,ndi¹-ni¹ʔi³,ni⁴²ʔi³,,ndi¹,,13,13,{4↓}3,I.b,Invariant
+3808,Xochapa Mixtec,Amuzgo-Mixtecan,True,True,True,,False,True,nu⁴²na⁴,open,abrirse,intr,Bimoraic,nu¹na⁴,ndi¹-nu¹na⁴,nu⁴²na⁴,,ndi¹,,14,14,{4↓}4,I.b,Invariant
+3809,Xochapa Mixtec,Amuzgo-Mixtecan,False,True,True,,False,True,nu⁴u⁴,"reduce, lower",bajar,intr,Bimoraic,nu³u³,nu²u²,nu⁴u⁴,,,,33,22,44,I.a,Invariant
+3810,Xochapa Mixtec,Amuzgo-Mixtecan,True,True,True,,False,True,sa⁴²a⁴,get warm,calentarse,intr,Bimoraic,sa¹a⁴,ndi¹-sa¹a⁴,sa⁴²a⁴,,ndi¹,,14,14,{4↓}4,I.b,Invariant
+3811,Xochapa Mixtec,Amuzgo-Mixtecan,False,True,True,,False,True,sa⁴ka⁴,mix,mezclar,tr,Bimoraic,sa³ka⁴,sa²ka⁴,sa⁴ka⁴,,,,34,24,44,I.a,Invariant
+3812,Xochapa Mixtec,Amuzgo-Mixtecan,False,True,True,,False,True,sa⁴ña⁴,release,soltar,tr,Bimoraic,sa³ña⁴,sa²ña⁴,sa⁴ña⁴,,,,34,24,44,I.a,Invariant
+3813,Xochapa Mixtec,Amuzgo-Mixtecan,False,True,True,,False,True,sa⁴ta⁴,buy,comprar,tr,Bimoraic,sa³ta⁴,sa²ta⁴,sa⁴ta⁴,,,,34,24,44,I.a,Invariant
+3814,Xochapa Mixtec,Amuzgo-Mixtecan,False,True,True,,False,True,si⁴kwa⁴ʔa⁴,learn,aprender,tr,Trimoraic,si³kwa⁴ʔa⁴,si¹kwa⁴ʔa⁴,si⁴kwa⁴ʔa⁴,,,,344,144,444,I.a,Invariant
+3815,Xochapa Mixtec,Amuzgo-Mixtecan,False,True,True,,False,True,ta⁴a⁴,write,escribir,tr,Bimoraic,ta³a³,ta²a²,ta⁴a⁴,,,,33,22,44,I.a,Invariant
+3816,Xochapa Mixtec,Amuzgo-Mixtecan,False,True,True,,False,True,ta⁴an⁴,put,poner,tr,Bimoraic,ta³an⁴,ta²an⁴,ta⁴an⁴,,,,34,24,44,I.a,Invariant
+3817,Xochapa Mixtec,Amuzgo-Mixtecan,True,True,True,,False,True,ta⁴²an³,tremble (the ground),temblar (la tierra),intr,Bimoraic,ta¹an³,ndi¹-ta¹an³,ta⁴²an³,,ndi¹,,13,13,{4↓}3,I.b,Invariant
+3818,Xochapa Mixtec,Amuzgo-Mixtecan,True,True,True,,False,True,ta⁴ʔi¹,rot,pudrirse,intr,Bimoraic,ta¹ʔi¹,ndi¹-ta¹ʔi¹,ta⁴ʔi¹,,ndi¹,,11,11,41,I.b,Invariant
+3819,Xochapa Mixtec,Amuzgo-Mixtecan,False,True,True,,False,True,ta⁴ʔmi⁴,smell,oler,tr,Bimoraic,ta³ʔmi³,ta²ʔmi²,ta⁴ʔmi⁴,,,,33,22,44,I.a,Invariant
+3820,Xochapa Mixtec,Amuzgo-Mixtecan,True,True,True,,False,True,ta⁴ʔnda¹,break,romperse,intr,Bimoraic,ta¹ʔnda¹,ndi¹-ta¹ʔnda¹,ta⁴ʔnda¹,,ndi¹,,11,11,41,I.b,Invariant
+3821,Xochapa Mixtec,Amuzgo-Mixtecan,True,True,True,,False,True,ta⁴ʔnu¹,break (long object),quebrarse (algo largo),intr,Bimoraic,ta¹ʔnu¹,ndi¹-ta¹ʔnu¹,ta⁴ʔnu¹,,ndi¹,,11,11,41,I.b,Invariant
+3822,Xochapa Mixtec,Amuzgo-Mixtecan,False,True,True,,False,True,ta⁴va⁴,take out,sacar,tr,Bimoraic,ta³va⁴,ta²va⁴,ta⁴va⁴,,,,34,24,44,I.a,Invariant
+3823,Xochapa Mixtec,Amuzgo-Mixtecan,False,True,True,,False,True,ta⁴ʔvi⁴,break,quebrar,tr,Bimoraic,ta³ʔvi⁴,ta²ʔvi⁴,ta⁴ʔvi⁴,,,,34,24,44,I.a,Invariant
+3824,Xochapa Mixtec,Amuzgo-Mixtecan,False,True,True,,False,True,ta⁴xi⁴,allow,permitir,tr,Bimoraic,ta³xi³,ta²xi²,ta⁴xi⁴,,,,33,22,44,I.a,Invariant
+3825,Xochapa Mixtec,Amuzgo-Mixtecan,False,True,True,,False,True,ta⁴ya³,loosen up,aflojarse,intr,Bimoraic,ta³ya³,ta²ya²,ta⁴ya³,,,,33,22,43,I.a,Invariant
+3826,Xochapa Mixtec,Amuzgo-Mixtecan,False,True,True,,False,True,ti⁴in⁴,grab,agarrar,tr,Bimoraic,ti³in³,ti²in²,ti⁴in⁴,,,,33,22,44,I.a,Invariant
+3827,Xochapa Mixtec,Amuzgo-Mixtecan,False,True,True,,False,True,ti⁴nda¹ʔa⁴,get married,casarse,intr,Trimoraic,ti³nda¹ʔa⁴,ti¹nda¹ʔa⁴,ti⁴nda¹ʔa⁴,,,,314,114,414,Irregular,Invariant
+3828,Xochapa Mixtec,Amuzgo-Mixtecan,False,True,True,,False,True,ti⁴so⁴,put on top,poner encima,tr,Bimoraic,ti³so⁴,ti²so⁴,ti⁴so⁴,,,,34,24,44,I.a,Invariant
+3829,Xochapa Mixtec,Amuzgo-Mixtecan,False,True,True,,False,True,ti⁴ʔvi⁴,sweep,barrer,tr,Bimoraic,ti³ʔvi⁴,ti²ʔvi⁴,ti⁴ʔvi⁴,,,,34,24,44,I.a,Invariant
+3830,Xochapa Mixtec,Amuzgo-Mixtecan,False,True,True,,False,True,ti⁴ʔvi⁴,send,enviar,tr,Bimoraic,ti³ʔvi⁴,ti²ʔvi⁴,ti⁴ʔvi⁴,,,,34,24,44,I.a,Invariant
+3831,Xochapa Mixtec,Amuzgo-Mixtecan,True,True,True,,False,True,tu⁴²vi³,get light,amanecer,intr,Bimoraic,tu¹vi³,ndi¹-tu¹vi³,tu⁴²vi³,,ndi¹,,13,13,{4↓}3,I.b,Invariant
+3832,Xochapa Mixtec,Amuzgo-Mixtecan,True,True,True,,False,True,xa⁴²ni³,be paid,ser pagado,intr,Bimoraic,xa¹ni³,ndi¹-xa¹ni³,xa⁴²ni³,,ndi¹,,13,13,{4↓}3,I.b,Invariant
+3833,Xochapa Mixtec,Amuzgo-Mixtecan,False,True,True,,False,True,xi⁴ko⁴,sell,vender,tr,Bimoraic,xi³ko⁴,xi²ko⁴,xi⁴ko⁴,,,,34,24,44,I.a,Invariant
+3834,Xochapa Mixtec,Amuzgo-Mixtecan,True,True,True,,False,True,ya⁴²ʔa³,pass,pasar,intr/tr,Bimoraic,ya¹ʔa³,ndi¹-ya¹ʔa³,ya⁴²ʔa³,,ndi¹,,13,13,{4↓}3,I.b,Invariant
