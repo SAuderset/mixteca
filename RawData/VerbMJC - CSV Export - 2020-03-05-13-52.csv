@@ -1,0 +1,238 @@
+﻿__PK,Language name,Language sub-family,AFFIX (Verb),AFFIX (Lg.),TONE (Verb),TONE (Lg.),STEM (Verb),STEM (Lg.),Citation form,English,Spanish,Transitivity,Stem phonology,Inflectional class by affixation,Stem alternation,Inflected form (IRR),Inflected form (CPL),Inflected form (INCPL),Prefix (IRR),Prefix (CPL),Prefix (INCPL),Tone (IRR),Tone (CPL),Tone (INCPL),Tone of IRR=CPL,Tone of CPL=INCPL
+3835,San Juan Colorado Mixtec,Amuzgo-Mixtecan,False,True,True,,False,True,ka¹an¹,bite,morder,tr,Bimoraic,n/a,—,ka¹an¹,ka¹an¹,ka³an³,—,—,—,11,11,33,True,False
+3836,San Juan Colorado Mixtec,Amuzgo-Mixtecan,False,True,True,,False,True,ja¹ku²bi²,"make, do",hacer,tr,Trimoraic,n/a,—,ja¹ku²bi²,ja¹ku²bi²,ja³ku³bi³,—,—,—,122,122,333,True,False
+3837,San Juan Colorado Mixtec,Amuzgo-Mixtecan,False,True,True,,False,True,na¹ka²tyi¹,report,relatar,tr,Trimoraic,n/a,—,na¹ka²tyi¹,na¹ka²tyi¹,na²ka³tyi²,—,—,—,121,121,232,True,False
+3838,San Juan Colorado Mixtec,Amuzgo-Mixtecan,False,True,True,,False,True,na¹ñi²,hit,golpear,tr,Bimoraic,n/a,—,na¹ñi²,na¹ñi²,na³ñi¹,—,—,—,12,12,31,True,False
+3839,San Juan Colorado Mixtec,Amuzgo-Mixtecan,False,True,True,,False,True,na¹so²ko²,bless,bendecir,tr,Trimoraic,n/a,—,na¹so²ko²,na¹so²ko²,na³so³ko¹,—,—,—,122,122,331,True,False
+3840,San Juan Colorado Mixtec,Amuzgo-Mixtecan,False,True,True,,False,True,na¹tu¹tsi²,caulk,retacar,tr,Trimoraic,n/a,—,na¹tu¹tsi²,na¹tu¹tsi²,na³tu³tsi³,—,—,—,112,112,333,True,False
+3841,San Juan Colorado Mixtec,Amuzgo-Mixtecan,False,True,True,,False,True,na¹tu¹bi²,roll,enrollar,tr,Trimoraic,n/a,—,na¹tu¹bi²,na¹tu¹bi²,na³tu³bi³,—,—,—,112,112,333,True,False
+3842,San Juan Colorado Mixtec,Amuzgo-Mixtecan,False,True,True,,False,True,na²tya²a²,mend,remendar,tr,Trimoraic,n/a,—,na²tya²a²,na²tya²a²,na³tya³a³,—,—,—,222,222,333,True,False
+3843,San Juan Colorado Mixtec,Amuzgo-Mixtecan,False,True,True,,False,True,nu²ña²,open,abrir,tr,Bimoraic,n/a,—,nu²ña²,nu²ña²,nu³ña³,—,—,—,22,22,33,True,False
+3844,San Juan Colorado Mixtec,Amuzgo-Mixtecan,False,True,True,,False,True,nu²u²,"reduce, lower",bajar,tr,Bimoraic,n/a,—,nu²u²,nu²u²,nu³u³,—,—,—,22,22,33,True,False
+3845,San Juan Colorado Mixtec,Amuzgo-Mixtecan,False,True,True,,False,True,nda²a²,go up,subir,tr,Bimoraic,n/a,—,nda²a²,nda²a²,nda³a³,—,—,—,22,22,33,True,False
+3846,San Juan Colorado Mixtec,Amuzgo-Mixtecan,False,True,True,,False,True,ndaʔ²ba¹,turn off,apagar,tr,Bimoraic,n/a,—,ndaʔ²ba¹,ndaʔ²ba¹,ndaaʔ²ba³,—,—,—,21,21,23,True,False
+3847,San Juan Colorado Mixtec,Amuzgo-Mixtecan,True,True,True,,False,True,ku¹ndaʔ²a²,carry by hand,llevar en la mano,tr,Bimoraic,Class II,—,ku¹ndaʔ²a²,tsi¹ndaʔ²a²,ndaʔ³a³,ku-,tsi-,—,122,122,33,True,False
+3848,San Juan Colorado Mixtec,Amuzgo-Mixtecan,False,True,True,,False,True,nda¹ta²,crack,rajar,tr,Bimoraic,n/a,—,nda¹ta²,nda¹ta²,nda³ta³,—,—,—,12,12,33,True,False
+3849,San Juan Colorado Mixtec,Amuzgo-Mixtecan,False,True,True,,True,True,kua¹tu¹,wait,esperar,tr,Bimoraic,n/a,ku+,kua¹tu¹,nda¹tu¹,nda²tu³,—,—,—,11,11,23,True,False
+3850,San Juan Colorado Mixtec,Amuzgo-Mixtecan,False,True,True,,False,True,nda¹tsi²,untie,desatar,tr,Bimoraic,n/a,—,nda¹tsi²,nda¹tsi²,nda³tsi³,—,—,—,12,12,33,True,False
+3851,San Juan Colorado Mixtec,Amuzgo-Mixtecan,False,True,True,,False,True,ndi¹ka¹,open,abrir,tr,Bimoraic,n/a,—,ndi¹ka¹,ndi¹ka¹,ndi²ka³,—,—,—,11,11,23,True,False
+3852,San Juan Colorado Mixtec,Amuzgo-Mixtecan,True,True,True,,False,True,ku²ndi²tsi²,get dressed,vestirse,tr,Bimoraic,Class II,—,ku²ndi²tsi²,tsi²ndi²tsi²,ndi³tsi³,ku-,tsi-,—,222,222,33,True,False
+3853,San Juan Colorado Mixtec,Amuzgo-Mixtecan,False,True,True,,False,True,ndo¹yo¹,tolerate,aguantar,tr,Bimoraic,n/a,—,ndo¹yo¹,ndo¹yo¹,ndo³yo³,—,—,—,11,11,33,True,False
+3854,San Juan Colorado Mixtec,Amuzgo-Mixtecan,False,True,True,,False,True,ndu¹ku²,look for,buscar,tr,Bimoraic,n/a,—,ndu¹ku²,ndu¹ku²,ndu³ku³,—,—,—,12,12,33,True,False
+3855,San Juan Colorado Mixtec,Amuzgo-Mixtecan,False,True,True,,False,True,ntyeʔ¹e²,see,ver,tr,Bimoraic,n/a,—,ntyeʔ¹e²,ntyeʔ¹e²,ntyeʔ³e³,—,—,—,12,12,33,True,False
+3856,San Juan Colorado Mixtec,Amuzgo-Mixtecan,False,True,True,,False,True,ntyi²ko²,grind,moler,tr,Bimoraic,n/a,—,ntyi²ko²,ntyi²ko²,ntyi³ko³,—,—,—,22,22,33,True,False
+3857,San Juan Colorado Mixtec,Amuzgo-Mixtecan,False,True,True,,True,True,ku²ntyi¹kun¹,follow,seguir,tr,Bimoraic,n/a,ku+,ku²ntyi¹kun¹,ntyi¹kun¹,ntyi²kun³,—,—,—,211,11,23,False,False
+3858,San Juan Colorado Mixtec,Amuzgo-Mixtecan,False,True,True,,False,True,ntyi²i²,prepare the loom,preparar el telar,tr,Bimoraic,n/a,—,ntyi²i²,ntyi²i²,ntyi³i³,—,—,—,22,22,33,True,False
+3859,San Juan Colorado Mixtec,Amuzgo-Mixtecan,False,True,True,,True,True,kui¹so²,load,cargar,tr,Bimoraic,n/a,ku+,kui¹so²,ntyi¹so²,ntyi³so³,—,—,—,12,12,33,True,False
+3860,San Juan Colorado Mixtec,Amuzgo-Mixtecan,False,True,True,,False,True,ñiʔ²i²,find,encontrar,tr,Bimoraic,n/a,—,ñiʔ²i²,ñiʔ²i²,ñiʔ³i²,—,—,—,22,22,32,True,False
+3861,San Juan Colorado Mixtec,Amuzgo-Mixtecan,False,True,True,,False,True,ñɨʔ²ɨ²,scratch,rascar,tr,Bimoraic,n/a,—,ñɨʔ²ɨ²,ñɨʔ²ɨ²,ñɨʔ³ɨ³,—,—,—,22,22,33,True,False
+3862,San Juan Colorado Mixtec,Amuzgo-Mixtecan,False,True,True,,False,True,kuʔ¹un²,get dressed,vestirse,tr,Bimoraic,n/a,—,kuʔ¹un²,ñuʔ²u²,ñuʔ³u³,—,—,—,12,22,33,False,False
+3863,San Juan Colorado Mixtec,Amuzgo-Mixtecan,False,True,True,,False,True,ñu²u²,stir,revolver,tr,Bimoraic,n/a,—,ñu²u²,ñu²u²,ñu³u³,—,—,—,22,22,33,True,False
+3864,San Juan Colorado Mixtec,Amuzgo-Mixtecan,False,True,True,,False,True,kiʔ²in²,take,tomar,tr,Bimoraic,n/a,—,kiʔ²in²,kiʔ²in²,kiʔ³in³,—,—,—,22,22,33,True,False
+3865,San Juan Colorado Mixtec,Amuzgo-Mixtecan,False,True,True,,False,True,kɨʔ²bɨ²,enter,entrar,tr,Bimoraic,n/a,—,kɨʔ²bɨ²,kɨʔ²bɨ²,kɨʔ³bɨ²,—,—,—,22,22,32,True,False
+3866,San Juan Colorado Mixtec,Amuzgo-Mixtecan,False,True,True,,False,True,kɨ¹tɨ²,water,regar,tr,Bimoraic,n/a,—,kɨ¹tɨ²,kɨ¹tɨ²,kɨ³tɨ³,—,—,—,12,12,33,True,False
+3867,San Juan Colorado Mixtec,Amuzgo-Mixtecan,False,True,True,,False,True,sa²ma²,change,cambiar,tr,Bimoraic,n/a,—,sa²ma²,sa²ma²,sa³ma³,—,—,—,22,22,33,True,False
+3868,San Juan Colorado Mixtec,Amuzgo-Mixtecan,False,True,True,,False,True,suʔ¹u²,steal,robar,tr,Bimoraic,n/a,—,suʔ¹u²,suʔ¹u²,suʔ³u³,—,—,—,12,12,33,True,False
+3869,San Juan Colorado Mixtec,Amuzgo-Mixtecan,False,True,True,,False,True,taʔ¹an¹,bump into,topar,tr,Bimoraic,n/a,—,taʔ¹an¹,taʔ¹an¹,taaʔ²an³,—,—,—,11,11,23,True,False
+3870,San Juan Colorado Mixtec,Amuzgo-Mixtecan,False,True,True,,False,True,ta²an²,knead,amasar,tr,Bimoraic,n/a,—,ta²an²,ta²an²,ta³an³,—,—,—,22,22,33,True,False
+3871,San Juan Colorado Mixtec,Amuzgo-Mixtecan,False,True,True,,False,True,taʔ²ñi²,smell,oler,tr,Bimoraic,n/a,—,taʔ²ñi²,taʔ²ñi²,taʔ³ñi³,—,—,—,22,22,33,True,False
+3872,San Juan Colorado Mixtec,Amuzgo-Mixtecan,False,True,True,,False,True,taʔ¹bi²,break,quebrar,tr,Bimoraic,n/a,—,taʔ¹bi²,taʔ¹bi²,taʔ³bi³,—,—,—,12,12,33,True,False
+3873,San Juan Colorado Mixtec,Amuzgo-Mixtecan,False,True,True,,False,True,ta¹ndaʔ¹a²,push,empujar,tr,Trimoraic,n/a,—,ta¹ndaʔ¹a²,ta¹ndaʔ¹a²,ta³ndaʔ³a³,—,—,—,112,112,333,True,False
+3874,San Juan Colorado Mixtec,Amuzgo-Mixtecan,False,True,True,,False,True,ta¹tu²,roll,enrollar,tr,Bimoraic,n/a,—,ta¹tu²,ta¹tu²,ta³tu³,—,—,—,12,12,33,True,False
+3875,San Juan Colorado Mixtec,Amuzgo-Mixtecan,False,True,True,,False,True,ta²tsi²,send,mandar,tr,Bimoraic,n/a,—,ta²tsi²,ta²tsi²,ta³tsi³,—,—,—,22,22,33,True,False
+3876,San Juan Colorado Mixtec,Amuzgo-Mixtecan,False,True,True,,False,True,ta¹tsi¹,sow,sembrar,tr,Bimoraic,n/a,—,ta¹tsi¹,ta¹tsi¹,ta³tsi³,—,—,—,11,11,33,True,False
+3877,San Juan Colorado Mixtec,Amuzgo-Mixtecan,False,True,True,,False,True,ta²ba²,take out,sacar,tr,Bimoraic,n/a,—,ta²ba²,ta²ba²,ta³ba³,—,—,—,22,22,33,True,False
+3878,San Juan Colorado Mixtec,Amuzgo-Mixtecan,False,True,True,,False,True,ta²bi²,spin,hilar,tr,Bimoraic,n/a,—,ta²bi²,ta²bi²,ta³bi³,—,—,—,22,22,33,True,False
+3879,San Juan Colorado Mixtec,Amuzgo-Mixtecan,False,True,True,,False,True,ti²ka²a²,hang,colgar,tr,Trimoraic,n/a,—,ti²ka²a²,ti²ka²a²,ti³ka³a³,—,—,—,222,222,333,True,False
+3880,San Juan Colorado Mixtec,Amuzgo-Mixtecan,False,True,True,,False,True,ti²ntyi²i²,put,poner,tr,Trimoraic,n/a,—,ti²ntyi²i²,ti²ntyi²i²,ti³ntyi³i³,—,—,—,222,222,333,True,False
+3881,San Juan Colorado Mixtec,Amuzgo-Mixtecan,False,True,True,,False,True,tɨʔ¹bɨ²,suck,chupar,tr,Bimoraic,n/a,—,tɨʔ¹bɨ²,tɨʔ¹bɨ²,tɨʔ²bɨ³,—,—,—,12,12,23,True,False
+3882,San Juan Colorado Mixtec,Amuzgo-Mixtecan,False,True,True,,False,True,tɨ²ɨn²,grab,agarrar,tr,Bimoraic,n/a,—,tɨ²ɨn²,tɨ²ɨn²,tɨ³ɨn³,—,—,—,22,22,33,True,False
+3883,San Juan Colorado Mixtec,Amuzgo-Mixtecan,False,True,True,,False,True,tɨ²bɨ¹,blow,soplar,tr,Bimoraic,n/a,—,tɨ²bɨ¹,tɨ²bɨ¹,tɨ²bɨ³,—,—,—,21,21,23,True,False
+3884,San Juan Colorado Mixtec,Amuzgo-Mixtecan,False,True,True,,False,True,tuʔ²un²,pull up,arrancar,tr,Bimoraic,n/a,—,tuʔ²un²,tuʔ²un²,tuʔ³un³,—,—,—,22,22,33,True,False
+3885,San Juan Colorado Mixtec,Amuzgo-Mixtecan,False,True,True,,False,True,tu¹tsi²,peck,picotear,tr,Bimoraic,n/a,—,tu¹tsi²,tu¹tsi²,tu³tsi³,—,—,—,12,12,33,True,False
+3886,San Juan Colorado Mixtec,Amuzgo-Mixtecan,False,True,True,,False,True,tu¹tsi²,shoot,disparar,tr,Bimoraic,n/a,—,tu¹tsi²,tu¹tsi²,tu³tsi³,—,—,—,12,12,33,True,False
+3887,San Juan Colorado Mixtec,Amuzgo-Mixtecan,False,True,True,,True,True,kaʔ²ntya¹,break,romper,tr,Bimoraic,n/a,ka+,kaʔ²ntya¹,tsaʔ²ntya¹,tsaaʔ²ntya³,—,—,—,21,21,23,True,False
+3888,San Juan Colorado Mixtec,Amuzgo-Mixtecan,False,True,True,,True,True,kuʔ²ñi¹,tie up,amarrar,tr,Bimoraic,n/a,ku+,kuʔ²ñi¹,tsaʔ²ñi¹,tsaaʔ²ñi³,—,—,—,21,21,23,True,False
+3889,San Juan Colorado Mixtec,Amuzgo-Mixtecan,False,True,True,,True,True,ba¹ka¹,scratch,rayar,tr,Bimoraic,n/a,ba+,ba¹ka¹,tsa²ka²,tsa³ka³,—,—,—,11,22,33,False,False
+3890,San Juan Colorado Mixtec,Amuzgo-Mixtecan,False,True,True,,True,True,kuʔ¹ba¹,allow,permitir,tr,Bimoraic,n/a,ku+,kuʔ¹ba¹,tsaʔ¹a¹,tsaʔ³a²,—,—,—,11,11,32,True,False
+3891,San Juan Colorado Mixtec,Amuzgo-Mixtecan,False,True,True,,True,True,kaʔ²mi²,burn,quemar,tr,Bimoraic,n/a,ka+,kaʔ²mi²,tsaʔ²mi²,tsaʔ³mi³,—,—,—,22,22,33,True,False
+3892,San Juan Colorado Mixtec,Amuzgo-Mixtecan,False,True,True,,True,True,kaʔ¹ñi²,kill,matar,tr,Bimoraic,n/a,ka+,kaʔ¹ñi²,tsaʔ¹ñi²,tsaʔ³ñi³,—,—,—,12,12,33,True,False
+3893,San Juan Colorado Mixtec,Amuzgo-Mixtecan,False,True,True,,True,True,ka²nɨ¹,destroy,destruir,tr,Bimoraic,n/a,ka+,ka²nɨ¹,tsa²nɨ¹,tsa²nɨ³,—,—,—,21,21,23,True,False
+3894,San Juan Colorado Mixtec,Amuzgo-Mixtecan,False,True,True,,True,True,kua²ñi²,step on,pisar,tr,Bimoraic,n/a,ku+,kua²ñi²,tsa²ñi²,tsa²ñi³,—,—,—,22,22,23,True,False
+3895,San Juan Colorado Mixtec,Amuzgo-Mixtecan,False,True,True,,True,True,ka²kin¹,position,colocar,tr,Bimoraic,n/a,ka+,ka²kin¹,tsa²kin¹,tsa²kin³,—,—,—,21,21,23,True,False
+3896,San Juan Colorado Mixtec,Amuzgo-Mixtecan,False,True,True,,True,True,ka²tɨ²,throw,tirar,tr,Bimoraic,n/a,ka+,ka²tɨ²,tsa²tɨ²,tsa³tɨ³,—,—,—,22,22,33,True,False
+3897,San Juan Colorado Mixtec,Amuzgo-Mixtecan,False,True,True,,True,True,ka²tya¹,dig,excavar,tr,Bimoraic,n/a,ka+,ka²tya¹,tsa²tya¹,tsa²tya³,—,—,—,21,21,23,True,False
+3898,San Juan Colorado Mixtec,Amuzgo-Mixtecan,False,True,True,,True,True,nda¹kan¹,"ask, request",pedir,tr,Bimoraic,n/a,Irregular,nda¹kan¹,tsi¹kan¹,tsi²kan³,—,—,—,11,11,23,True,False
+3899,San Juan Colorado Mixtec,Amuzgo-Mixtecan,False,True,True,,True,True,koʔ¹o¹,take,tomar,tr,Bimoraic,n/a,ku+,koʔ¹o¹,tsiʔ¹i¹,tsiʔ³i³,—,—,—,11,11,33,True,False
+3900,San Juan Colorado Mixtec,Amuzgo-Mixtecan,False,True,True,,True,True,ku¹ñi¹,understand,entender,tr,Bimoraic,n/a,ku+,ku¹ñi¹,tsi¹ñi¹,tsi³ñi³,—,—,—,11,11,33,True,False
+3901,San Juan Colorado Mixtec,Amuzgo-Mixtecan,False,True,True,,True,True,ko²to²,know,conocer,tr,Bimoraic,n/a,ku+,ko²to²,tsi²to²,tsi³to³,—,—,—,22,22,33,True,False
+3902,San Juan Colorado Mixtec,Amuzgo-Mixtecan,False,True,True,,True,True,ka²ta²,sing,cantar,tr,Bimoraic,n/a,ka+,ka²ta²,tsi²ta²,tsi³ta³,—,—,—,22,22,33,True,False
+3903,San Juan Colorado Mixtec,Amuzgo-Mixtecan,False,True,True,,False,True,tya²a²,put,poner,tr,Bimoraic,n/a,—,tya²a²,tya²a²,tya³a³,—,—,—,22,22,33,True,False
+3904,San Juan Colorado Mixtec,Amuzgo-Mixtecan,False,True,True,,False,True,tyaʔ²bi²,pay,pagar,tr,Bimoraic,n/a,—,tyaʔ²bi²,tyaʔ²bi²,tyaʔ³bi²,—,—,—,22,22,32,True,False
+3905,San Juan Colorado Mixtec,Amuzgo-Mixtecan,False,True,True,,False,True,tya¹ndaʔ¹a²,push,empujar,tr,Trimoraic,n/a,—,tya¹ndaʔ¹a²,tya¹ndaʔ¹a²,tya³ndaʔ³a³,—,—,—,112,112,333,True,False
+3906,San Juan Colorado Mixtec,Amuzgo-Mixtecan,False,True,True,,True,True,ka²sɨ¹,close,cerrar,tr,Bimoraic,n/a,ka+,ka²sɨ¹,tya²sɨ¹,tya²sɨ³,—,—,—,21,21,23,True,False
+3907,San Juan Colorado Mixtec,Amuzgo-Mixtecan,False,True,True,,False,True,tya¹soʔ¹o¹,listen,escuchar,tr,Trimoraic,n/a,—,tya¹soʔ¹o¹,tya¹soʔ¹o¹,tya³soʔ³o²,—,—,—,111,111,332,True,False
+3908,San Juan Colorado Mixtec,Amuzgo-Mixtecan,False,True,True,,True,True,ka²xin²,breastfeed,mamar,tr,Bimoraic,n/a,ka+,ka²xin²,tya²xin²,tya³xin³,—,—,—,22,22,33,True,False
+3909,San Juan Colorado Mixtec,Amuzgo-Mixtecan,False,True,True,,True,True,kua²xin²,put,meter,tr,Bimoraic,n/a,ku+,kua²xin²,tya²xin²,tya³xin²,—,—,—,22,22,32,True,False
+3910,San Juan Colorado Mixtec,Amuzgo-Mixtecan,False,True,True,,True,True,ka²xin²,flatten,achatar,tr,Bimoraic,n/a,ka+,ka²xin²,tya²xin²,tya²xin³,—,—,—,22,22,23,True,False
+3911,San Juan Colorado Mixtec,Amuzgo-Mixtecan,False,True,True,,False,True,tya¹ya¹a¹,lick,lamer,tr,Trimoraic,n/a,—,tya¹ya¹a¹,tya¹ya¹a¹,tya³ya³a³,—,—,—,111,111,333,True,False
+3912,San Juan Colorado Mixtec,Amuzgo-Mixtecan,False,True,True,,False,True,tya¹yuʔ¹u²,kiss,besar,tr,Trimoraic,n/a,—,tya¹yuʔ¹u²,tya¹yuʔ¹u²,tya³yuʔ³u³,—,—,—,112,112,333,True,False
+3913,San Juan Colorado Mixtec,Amuzgo-Mixtecan,False,True,True,,False,True,tyi¹kuʔ²ba¹,measure,medir,tr,Trimoraic,n/a,—,tyi¹kuʔ²ba¹,tyi¹kuʔ²ba¹,tyi³kuʔ³ba²,—,—,—,121,121,332,True,False
+3914,San Juan Colorado Mixtec,Amuzgo-Mixtecan,False,True,True,,False,True,tyi¹kuʔ²ba¹,correct,corregir,tr,Trimoraic,n/a,—,tyi¹kuʔ²ba¹,tyi¹kuʔ²ba¹,tyi³kuʔ³ba²,—,—,—,121,121,332,True,False
+3915,San Juan Colorado Mixtec,Amuzgo-Mixtecan,False,True,True,,False,True,tyiʔ²i²,put,meter,tr,Bimoraic,n/a,—,tyiʔ²i²,tyiʔ²i²,tyiʔ³i³,—,—,—,22,22,33,True,False
+3916,San Juan Colorado Mixtec,Amuzgo-Mixtecan,False,True,True,,True,True,kui²so²,sting,picar,tr,Bimoraic,n/a,ku+,kui²so²,tyi²so²,tyi³so²,—,—,—,22,22,32,True,False
+3917,San Juan Colorado Mixtec,Amuzgo-Mixtecan,False,True,True,,False,True,tyi¹so²,put on,poner sobre,tr,Bimoraic,n/a,—,tyi¹so²,tyi¹so²,tyi²so³,—,—,—,12,12,23,True,False
+3918,San Juan Colorado Mixtec,Amuzgo-Mixtecan,False,True,True,,False,True,tyi¹tu¹bi²,roll,enrollar,tr,Trimoraic,n/a,—,tyi¹tu¹bi²,tyi¹tu¹bi²,tyi³tu³bi³,—,—,—,112,112,333,True,False
+3919,San Juan Colorado Mixtec,Amuzgo-Mixtecan,False,True,True,,False,True,tyi²tsaʔ¹a²,obey,obedecer,tr,Trimoraic,n/a,—,tyi²tsaʔ¹a²,tyi²tsaʔ¹a²,tyi³tsaʔ³a³,—,—,—,212,212,333,True,False
+3920,San Juan Colorado Mixtec,Amuzgo-Mixtecan,False,True,True,,True,True,ko¹so¹,water,regar,tr,Bimoraic,n/a,ku+,ko¹so¹,tyo¹so¹,tyo²so³,—,—,—,11,11,23,True,False
+3921,San Juan Colorado Mixtec,Amuzgo-Mixtecan,False,True,True,,False,True,xa¹tya²,sharpen,sacar punta,tr,Bimoraic,n/a,—,xa¹tya²,xa¹tya²,xa³tya³,—,—,—,12,12,33,True,False
+3922,San Juan Colorado Mixtec,Amuzgo-Mixtecan,False,True,True,,False,True,xi²ko³,sell,vender,tr,Bimoraic,n/a,—,xi²ko³,xi¹ko³,xi³ko³,—,—,—,23,13,33,False,False
+3923,San Juan Colorado Mixtec,Amuzgo-Mixtecan,False,True,True,,False,True,yaʔ²a²,pass,pasar,tr,Bimoraic,n/a,—,yaʔ²a²,yaʔ²a²,yaʔ³a²,—,—,—,22,22,32,True,False
+3924,San Juan Colorado Mixtec,Amuzgo-Mixtecan,False,True,True,,False,True,kaʔ²ndɨ¹,burst,reventarse,intr,Bimoraic,n/a,—,kaʔ²ndɨ¹,kaʔ²ndɨ¹,kaaʔ²ndɨ³,—,—,—,21,21,23,True,False
+3925,San Juan Colorado Mixtec,Amuzgo-Mixtecan,False,True,True,,False,True,ka¹an¹,get used to,acostumbrar,intr,Bimoraic,n/a,—,ka¹an¹,ka¹an¹,ka³an²,—,—,—,11,11,32,True,False
+3926,San Juan Colorado Mixtec,Amuzgo-Mixtecan,False,True,True,,False,True,ka²ku²,be born,nacer,intr,Bimoraic,n/a,—,ka²ku²,ka¹ku¹,ka³ku³,—,—,—,22,11,33,False,False
+3927,San Juan Colorado Mixtec,Amuzgo-Mixtecan,False,True,True,,False,True,ka¹ku¹,be saved,estar salvado,intr,Bimoraic,n/a,—,ka¹ku¹,ka¹ku¹,ka³ku²,—,—,—,11,11,32,True,False
+3928,San Juan Colorado Mixtec,Amuzgo-Mixtecan,False,True,True,,False,True,kaʔ²yɨ¹,put on make-up,pintarse,intr,Bimoraic,n/a,—,kaʔ²yɨ¹,kaʔ²yɨ¹,kaʔ³yɨ¹,—,—,—,21,21,31,True,False
+3929,San Juan Colorado Mixtec,Amuzgo-Mixtecan,False,True,True,,False,True,ka²nda¹,move,moverse,intr,Bimoraic,n/a,—,ka²nda¹,ka²nda¹,ka²nda³,—,—,—,21,21,23,True,False
+3930,San Juan Colorado Mixtec,Amuzgo-Mixtecan,False,True,True,,False,True,ka²na²,get out,salirse,intr,Bimoraic,n/a,—,ka²na²,ka²na²,ka³na³,—,—,—,22,22,33,True,False
+3931,San Juan Colorado Mixtec,Amuzgo-Mixtecan,False,True,True,,False,True,ka¹tsaʔ²a²,start,empezar,intr,Trimoraic,n/a,—,ka¹tsaʔ²a²,ka¹tsaʔ²a²,ka³tsaʔ³a³,—,—,—,122,122,333,True,False
+3932,San Juan Colorado Mixtec,Amuzgo-Mixtecan,False,True,True,,False,True,ka²tyin¹,buzz,zumbar,intr,Bimoraic,n/a,—,ka²tyin¹,ka²tyin¹,ka²tyin³,—,—,—,21,21,23,True,False
+3933,San Juan Colorado Mixtec,Amuzgo-Mixtecan,False,True,True,,False,True,ka²ba¹,grind,moler,intr,Bimoraic,n/a,—,ka²ba¹,ka²ba¹,ka²ba³,—,—,—,21,21,23,True,False
+3934,San Juan Colorado Mixtec,Amuzgo-Mixtecan,False,True,True,,False,True,ka¹yu²,cough,toser,intr,Bimoraic,n/a,—,ka¹yu²,ka¹yu²,ka³yu³,—,—,—,12,12,33,True,False
+3935,San Juan Colorado Mixtec,Amuzgo-Mixtecan,False,True,True,,False,True,ka¹yu¹,burn,quemarse,intr,Bimoraic,n/a,—,ka¹yu¹,ka¹yu¹,ka²yu³,—,—,—,11,11,23,True,False
+3936,San Juan Colorado Mixtec,Amuzgo-Mixtecan,False,True,True,,False,True,ko²ko²,grow,crecer,intr,Bimoraic,n/a,—,ko²ko²,ko²ko²,ko³ko²,—,—,—,22,22,32,True,False
+3937,San Juan Colorado Mixtec,Amuzgo-Mixtecan,False,True,True,,False,True,ko²yo²,fall,caerse,intr,Bimoraic,n/a,—,ko²yo²,ko²yo²,ko³yo²,—,—,—,22,22,32,True,False
+3938,San Juan Colorado Mixtec,Amuzgo-Mixtecan,False,True,True,,False,True,kua¹a²,be blind,estar ciego,intr,Bimoraic,n/a,—,kua¹a²,kua¹a²,kua³a³,—,—,—,12,12,33,True,False
+3939,San Juan Colorado Mixtec,Amuzgo-Mixtecan,True,True,False,,False,True,kuʔ¹un¹,go,ir,intr,Bimoraic,Class III,—,kuʔ¹un¹,tsaʔ¹an¹,kuaʔ¹an¹,ku-,tsi-,ku-,11,11,11,True,True
+3940,San Juan Colorado Mixtec,Amuzgo-Mixtecan,True,True,True,,False,True,ku¹nuʔ²u²,return,regresar,intr,Bimoraic,Class III,—,ku¹nuʔ²u²,tsi¹nuʔ²u²,kua²nuʔ³u³,ku-,tsi-,ku-,122,122,233,True,False
+3941,San Juan Colorado Mixtec,Amuzgo-Mixtecan,False,True,True,,False,True,ku¹ku¹tu³,be decorated,adornarse,intr,Trimoraic,n/a,—,ku¹ku¹tu³,ku¹ku¹tu³,ku³ku³tu³,—,—,—,113,113,333,True,False
+3942,San Juan Colorado Mixtec,Amuzgo-Mixtecan,False,True,True,,False,True,ku¹ma¹ñi¹,be required,hacer falta,intr,Trimoraic,n/a,—,ku¹ma¹ñi¹,ku¹ma¹ñi¹,ku³ma²ñi¹,—,—,—,111,111,321,True,False
+3943,San Juan Colorado Mixtec,Amuzgo-Mixtecan,False,True,False,,False,True,ku²naaʔ²a³,fall (night),entrar la noche,intr,Bimoraic,n/a,—,ku²naaʔ²a³,ku²naaʔ²a³,ku²naaʔ²a³,—,—,—,23,23,23,True,True
+3944,San Juan Colorado Mixtec,Amuzgo-Mixtecan,False,True,True,,False,True,ku²nu²,weave,tejer,intr,Bimoraic,n/a,—,ku²nu²,ku¹nu¹,ku³nu³,—,—,—,22,11,33,False,False
+3945,San Juan Colorado Mixtec,Amuzgo-Mixtecan,False,True,True,,False,True,ku²nda¹a¹,get ready,arreglarse,intr,Trimoraic,n/a,—,ku²nda¹a¹,ku²nda¹a¹,ku²nda³a¹,—,—,—,211,211,231,True,False
+3946,San Juan Colorado Mixtec,Amuzgo-Mixtecan,False,True,True,,False,True,ku¹ndi²tsin¹,get light,amanecer,intr,Trimoraic,n/a,—,ku¹ndi²tsin¹,ku¹ndi²tsin¹,ku³ndi³tsin²,—,—,—,121,121,332,True,False
+3947,San Juan Colorado Mixtec,Amuzgo-Mixtecan,False,True,True,,False,True,ku²ntyiʔ¹i²,grind,moler,intr,Trimoraic,n/a,—,ku²ntyiʔ¹i²,ku¹ntyiʔ¹i²,ku³ntyiʔ²i¹,—,—,—,212,112,321,False,False
+3948,San Juan Colorado Mixtec,Amuzgo-Mixtecan,False,True,True,,False,True,ku¹ñi¹,sit down,sentarse,intr,Bimoraic,n/a,—,ku¹ñi¹,ku¹ñi¹,ku²ñi³,—,—,—,11,11,23,True,False
+3949,San Juan Colorado Mixtec,Amuzgo-Mixtecan,False,True,True,,False,True,ku¹ñi¹,be necessary,ser necesario,intr,Bimoraic,n/a,—,ku¹ñi¹,ku¹ñi¹,ku²ñi³,—,—,—,11,11,23,True,False
+3950,San Juan Colorado Mixtec,Amuzgo-Mixtecan,False,True,True,,False,True,ku¹sa¹ma²,eat food,comer comida,intr,Trimoraic,n/a,—,ku¹sa¹ma²,ku¹sa¹ma²,ku³sa²ma³,—,—,—,112,112,323,True,False
+3951,San Juan Colorado Mixtec,Amuzgo-Mixtecan,False,True,True,,False,True,ku¹ta²xin²,shut up,callarse,intr,Trimoraic,n/a,—,ku¹ta²xin²,ku¹ta²xin²,ku³ta³xin³,—,—,—,122,122,333,True,False
+3952,San Juan Colorado Mixtec,Amuzgo-Mixtecan,False,True,True,,False,True,kuʔ¹bi¹,be sick,estar enfermo,intr,Bimoraic,n/a,—,kuʔ¹bi¹,kuʔ¹bi¹,kuuʔ²bi³,—,—,—,11,11,23,True,False
+3953,San Juan Colorado Mixtec,Amuzgo-Mixtecan,False,True,True,,False,True,ku²un²,"reduce, lower",bajarse,intr,Bimoraic,n/a,—,ku²un²,ku¹un²,ku³un³,—,—,—,22,12,33,False,False
+3954,San Juan Colorado Mixtec,Amuzgo-Mixtecan,False,True,True,,False,True,ku²bi²,be,ser,intr,Bimoraic,n/a,—,ku²bi²,ku²bi²,ku³bi³/ku³u³,—,—,—,22,22,33,True,False
+3955,San Juan Colorado Mixtec,Amuzgo-Mixtecan,False,True,True,,False,True,ku²xa¹an¹,get angry,enojarse,intr,Trimoraic,n/a,—,ku²xa¹an¹,ku²xa¹an¹,ku³xa³an²,—,—,—,211,211,332,True,False
+3956,San Juan Colorado Mixtec,Amuzgo-Mixtecan,False,True,True,,False,True,ku¹xi²,rust,enmohecerse,intr,Bimoraic,n/a,—,ku¹xi²,ku¹xi²,ku³xi²,—,—,—,12,12,32,True,False
+3957,San Juan Colorado Mixtec,Amuzgo-Mixtecan,False,True,True,,False,True,ku²xi²ñi³,dine,cenar,intr,Trimoraic,n/a,—,ku²xi²ñi³,ku²xi²ñi³,ku³xi³ñi³,—,—,—,223,223,333,True,False
+3958,San Juan Colorado Mixtec,Amuzgo-Mixtecan,False,True,True,,False,True,ku¹yaʔ¹bi²,sell,vender,intr,Trimoraic,n/a,—,ku¹yaʔ¹bi²,ku¹yaʔ¹bi²,ku³yaʔ³bi²,—,—,—,112,112,332,True,False
+3959,San Juan Colorado Mixtec,Amuzgo-Mixtecan,False,True,True,,False,True,ku²ya¹tyi¹,have time,tener tiempo,intr,Trimoraic,n/a,—,ku²ya¹tyi¹,ku¹ya¹tyi¹,ku³ya³tyi²,—,—,—,211,111,332,False,False
+3960,San Juan Colorado Mixtec,Amuzgo-Mixtecan,True,True,True,,False,True,kui¹ñi¹,be in,estar en,intr,Bimoraic,Class II,—,kui¹ñi¹,tsi¹ñi¹,i³ñi³,ku-,tsi-,—,11,11,33,True,False
+3961,San Juan Colorado Mixtec,Amuzgo-Mixtecan,True,True,True,,False,True,ko²o²,be (there is),haber,intr,Bimoraic,Class I,—,ko²o²,tsi¹ko²o²,i²yo³,—,tsi-,tsi-,22,122,23,False,False
+3962,San Juan Colorado Mixtec,Amuzgo-Mixtecan,False,True,True,,False,True,ja¹sɨ²kɨ²,play,jugar,intr,Trimoraic,n/a,—,ja¹sɨ²kɨ²,ja¹sɨ²kɨ²,ja³sɨ³kɨ³,—,—,—,122,122,333,True,False
+3963,San Juan Colorado Mixtec,Amuzgo-Mixtecan,False,True,True,,False,True,na¹a¹,disappear,desaparecer,intr,Bimoraic,n/a,—,na¹a¹,na¹a¹,na³a³,—,—,—,11,11,33,True,False
+3964,San Juan Colorado Mixtec,Amuzgo-Mixtecan,False,True,True,,False,True,na¹ka²nda¹,move,moverse,intr,Trimoraic,n/a,—,na¹ka²nda¹,na¹ka²nda¹,na³ka³nda²,—,—,—,121,121,332,True,False
+3965,San Juan Colorado Mixtec,Amuzgo-Mixtecan,False,True,True,,False,True,na¹kua²tu²,pray,rezar,intr,Trimoraic,n/a,—,na¹kua²tu²,na¹kua²tu²,na³kua³tu³,—,—,—,122,122,333,True,False
+3966,San Juan Colorado Mixtec,Amuzgo-Mixtecan,False,True,True,,False,True,na¹kuʔ²ba²,shake,sacudir,intr,Trimoraic,n/a,—,na¹kuʔ²ba²,na¹kuʔ²ba²,na²kuʔ³ba²,—,—,—,122,122,232,True,False
+3967,San Juan Colorado Mixtec,Amuzgo-Mixtecan,False,True,True,,False,True,na¹kuʔ¹bi²,rub,frotar,intr,Trimoraic,n/a,—,na¹kuʔ¹bi²,na¹kuʔ¹bi²,na³kuʔ³bi³,—,—,—,112,112,333,True,False
+3968,San Juan Colorado Mixtec,Amuzgo-Mixtecan,False,True,True,,False,True,na¹kuʔ²bi¹,get ill,enfermarse,intr,Trimoraic,n/a,—,na¹kuʔ²bi¹,na¹kuʔ²bi¹,na³kuʔ³bi¹,—,—,—,121,121,331,True,False
+3969,San Juan Colorado Mixtec,Amuzgo-Mixtecan,False,True,True,,False,True,na¹i²tyi¹,dry,secarse,intr,Bimoraic,n/a,—,na¹i²tyi¹,na¹i²tyi¹,na²i³tyi¹,—,—,—,1,1,2,True,False
+3970,San Juan Colorado Mixtec,Amuzgo-Mixtecan,False,True,True,,False,True,na¹ndi²ka¹,open,abrirse,intr,Trimoraic,n/a,—,na¹ndi²ka¹,na¹ndi²ka¹,na²ndi³ka¹,—,—,—,121,121,231,True,False
+3971,San Juan Colorado Mixtec,Amuzgo-Mixtecan,False,True,True,,False,True,na¹ndɨ¹yɨ²,shrink,encojerse,intr,Trimoraic,n/a,—,na¹ndɨ¹yɨ²,na¹ndɨ¹yɨ²,na³ndɨ³yɨ³,—,—,—,112,112,333,True,False
+3972,San Juan Colorado Mixtec,Amuzgo-Mixtecan,False,True,True,,False,True,na¹ndo²to²,revive,revivir,intr,Trimoraic,n/a,—,na¹ndo²to²,na¹ndo²to²,na²ndo³to³,—,—,—,122,122,233,True,False
+3973,San Juan Colorado Mixtec,Amuzgo-Mixtecan,False,True,True,,False,True,na¹ndu²tyi²,graze,despellejarse,intr,Trimoraic,n/a,—,na¹ndu²tyi²,na¹ndu²tyi²,na³ndu³tyi³,—,—,—,122,122,333,True,False
+3974,San Juan Colorado Mixtec,Amuzgo-Mixtecan,False,True,True,,False,True,na²ndu²bi²,become,convertirse,intr,Trimoraic,n/a,—,na²ndu²bi²,na²ndu²bi²,na³ndu³bi³,—,—,—,222,222,333,True,False
+3975,San Juan Colorado Mixtec,Amuzgo-Mixtecan,True,True,True,,False,True,ku²na¹ñi¹,be called,llamarse,intr,Bimoraic,Class II,—,ku²na¹ñi¹,tsi¹na¹ñi¹,na³ñi³,ku-,tsi-,—,211,111,33,False,False
+3976,San Juan Colorado Mixtec,Amuzgo-Mixtecan,False,True,True,,False,True,na¹ta¹nɨ¹,uncoil,desenrollarse,intr,Trimoraic,n/a,—,na¹ta¹nɨ¹,na¹ta¹nɨ¹,na²ta³nɨ¹,—,—,—,111,111,231,True,False
+3977,San Juan Colorado Mixtec,Amuzgo-Mixtecan,False,True,True,,False,True,na¹tɨʔ²bɨ³,sweep,barrer,intr,Trimoraic,n/a,—,na¹tɨʔ²bɨ³,na¹tɨʔ²bɨ³,na²tɨʔ³bɨ³,—,—,—,123,123,233,True,False
+3978,San Juan Colorado Mixtec,Amuzgo-Mixtecan,False,True,True,,False,True,na²tuʔ²un²,chat,platicar,intr,Trimoraic,n/a,—,na²tuʔ²un²,na²tuʔ²un²,na³tuʔ³un¹,—,—,—,222,222,331,True,False
+3979,San Juan Colorado Mixtec,Amuzgo-Mixtecan,False,True,True,,False,True,na²tuʔ²ba²,get close,acercarse,intr,Trimoraic,n/a,—,na²tuʔ²ba²,na²tuʔ²ba²,na³tuʔ³ba³,—,—,—,222,222,333,True,False
+3980,San Juan Colorado Mixtec,Amuzgo-Mixtecan,False,True,True,,False,True,na²tu²bi²,appear,aparecer,intr,Trimoraic,n/a,—,na²tu²bi²,na²tu²bi²,na³tu³bi¹,—,—,—,222,222,331,True,False
+3981,San Juan Colorado Mixtec,Amuzgo-Mixtecan,False,True,True,,False,True,na¹bi¹ko²,whirl,dar vueltas,intr,Trimoraic,n/a,—,na¹bi¹ko²,na¹bi¹ko²,na³bi³ko³,—,—,—,112,112,333,True,False
+3982,San Juan Colorado Mixtec,Amuzgo-Mixtecan,False,True,True,,False,True,nu²ña²,open,abrirse,intr,Bimoraic,n/a,—,nu²ña²,nu²ña²,nu³ña³,—,—,—,22,22,33,True,False
+3983,San Juan Colorado Mixtec,Amuzgo-Mixtecan,False,True,True,,False,True,nda²a²,swell,hincharse,intr,Bimoraic,n/a,—,nda²a²,nda²a²,nda³a³,—,—,—,22,22,33,True,False
+3984,San Juan Colorado Mixtec,Amuzgo-Mixtecan,False,True,True,,False,True,ndaʔ²a¹,heal,sanarse,intr,Bimoraic,n/a,—,ndaʔ²a¹,ndaʔ²a¹,ndaaʔ²a³,—,—,—,21,21,23,True,False
+3985,San Juan Colorado Mixtec,Amuzgo-Mixtecan,False,True,True,,False,True,nda²ba²,jump,brincar,intr,Bimoraic,n/a,—,nda²ba²,nda²ba²,nda³ba³,—,—,—,22,22,33,True,False
+3986,San Juan Colorado Mixtec,Amuzgo-Mixtecan,False,True,True,,False,True,nda¹ta¹,split,rajarse,intr,Bimoraic,n/a,—,nda¹ta¹,nda¹ta¹,nda³ta¹,—,—,—,11,11,31,True,False
+3987,San Juan Colorado Mixtec,Amuzgo-Mixtecan,False,True,True,,False,True,nda²tsi²,fade,despintarse,intr,Bimoraic,n/a,—,nda²tsi²,nda²tsi²,nda³tsi³,—,—,—,22,22,33,True,False
+3988,San Juan Colorado Mixtec,Amuzgo-Mixtecan,False,True,True,,False,True,nda¹tsi¹,be untied,desatarse,intr,Bimoraic,n/a,—,nda¹tsi¹,nda¹tsi¹,nda³tsi¹,—,—,—,11,11,31,True,False
+3989,San Juan Colorado Mixtec,Amuzgo-Mixtecan,False,True,True,,True,True,ku²ndɨʔ²ɨ²,finish,acabarse,intr,Trimoraic,n/a,ku+,ku²ndɨʔ²ɨ²,tsi²ndɨʔ²ɨ²,tsi²ndɨʔ³ɨ²,—,—,—,222,222,232,True,False
+3990,San Juan Colorado Mixtec,Amuzgo-Mixtecan,False,True,True,,False,True,ndɨ¹yɨ¹,scorch,chamuscarse,intr,Bimoraic,n/a,—,ndɨ¹yɨ¹,ndɨ¹yɨ¹,ndɨ³yɨ²,—,—,—,11,11,32,True,False
+3991,San Juan Colorado Mixtec,Amuzgo-Mixtecan,False,True,True,,False,True,ndo²ko²,dry,secarse,intr,Bimoraic,n/a,—,ndo²ko²,ndo²ko²,ndo³ko³,—,—,—,22,22,33,True,False
+3992,San Juan Colorado Mixtec,Amuzgo-Mixtecan,False,True,True,,False,True,ndoʔ¹o¹,be punished,estar castigado,intr,Bimoraic,n/a,—,ndoʔ¹o¹,ndoʔ¹o¹,ndoʔ³o³,—,—,—,11,11,33,True,False
+3993,San Juan Colorado Mixtec,Amuzgo-Mixtecan,False,True,True,,False,True,ndo¹o¹,wash,lavar,intr,Bimoraic,n/a,—,ndo¹o¹,ndo¹o¹,ndo³o³,—,—,—,11,11,33,True,False
+3994,San Juan Colorado Mixtec,Amuzgo-Mixtecan,False,True,True,,False,True,ndo¹o¹,fade,despintarse,intr,Bimoraic,n/a,—,ndo¹o¹,ndo¹o¹,ndo³o³,—,—,—,11,11,33,True,False
+3995,San Juan Colorado Mixtec,Amuzgo-Mixtecan,False,True,True,,False,True,ndo²o²,stay,quedar,intr,Bimoraic,n/a,—,ndo²o²,ndo²o²,ndo³o²,—,—,—,22,22,32,True,False
+3996,San Juan Colorado Mixtec,Amuzgo-Mixtecan,False,True,True,,False,True,ndo²to²,wake up,despertarse,intr,Bimoraic,n/a,—,ndo²to²,ndo²to²,ndo³to³,—,—,—,22,22,33,True,False
+3997,San Juan Colorado Mixtec,Amuzgo-Mixtecan,False,True,True,,False,True,ndo²yo²,get rid of,deshacerse,intr,Bimoraic,n/a,—,ndo²yo²,ndo²yo²,ndo³yo²,—,—,—,22,22,32,True,False
+3998,San Juan Colorado Mixtec,Amuzgo-Mixtecan,False,True,True,,False,True,ndu¹ntye¹e¹,fatten,engordarse,intr,Trimoraic,n/a,—,ndu¹ntye¹e¹,ndu¹ntye¹e¹,ndu²ntye³e³,—,—,—,111,111,233,True,False
+3999,San Juan Colorado Mixtec,Amuzgo-Mixtecan,False,True,True,,False,True,ndu²tu²mi¹,fray,deshilarcharse,intr,Trimoraic,n/a,—,ndu²tu²mi¹,ndu²tu²mi¹,ndu²tu³mi¹,—,—,—,221,221,231,True,False
+4000,San Juan Colorado Mixtec,Amuzgo-Mixtecan,False,True,True,,False,True,ndu¹tsan¹,vomit,vomitar,intr,Bimoraic,n/a,—,ndu¹tsan¹,ndu¹tsan¹,ndu³tsan³,—,—,—,11,11,33,True,False
+4001,San Juan Colorado Mixtec,Amuzgo-Mixtecan,False,True,True,,False,True,ndu²tya²,get crushed,machucarse,intr,Bimoraic,n/a,—,ndu²tya²,ndu²tya²,ndu³tya³,—,—,—,22,22,33,True,False
+4002,San Juan Colorado Mixtec,Amuzgo-Mixtecan,False,True,True,,False,True,ndu²ba¹,fall,caerse,intr,Bimoraic,n/a,—,ndu²ba¹,ndu²ba¹,ndu²ba³,—,—,—,21,21,23,True,False
+4003,San Juan Colorado Mixtec,Amuzgo-Mixtecan,False,True,True,,False,True,ndu¹baʔ²a¹,heal,sanarse,intr,Trimoraic,n/a,—,ndu¹baʔ²a¹,ndu¹baʔ²a¹,ndu²baʔ³a²,—,—,—,121,121,232,True,False
+4004,San Juan Colorado Mixtec,Amuzgo-Mixtecan,False,True,True,,False,True,nduʔ²ba¹,boil,hervirse,intr,Bimoraic,n/a,—,nduʔ²ba¹,nduʔ²ba¹,nduuʔ²ba³,—,—,—,21,21,23,True,False
+4005,San Juan Colorado Mixtec,Amuzgo-Mixtecan,False,True,True,,False,True,ndu²bi²ta²,get up,levantarse,intr,Trimoraic,n/a,—,ndu²bi²ta²,ndu²bi²ta²,ndu²bi³ta²,—,—,—,222,222,232,True,False
+4006,San Juan Colorado Mixtec,Amuzgo-Mixtecan,False,True,True,,False,True,ndu²xa¹an¹,get angry,enojarse,intr,Trimoraic,n/a,—,ndu²xa¹an¹,ndu²xa¹an¹,ndu²xa³an¹,—,—,—,211,211,231,True,False
+4007,San Juan Colorado Mixtec,Amuzgo-Mixtecan,True,True,True,,False,True,ku¹ntya¹a¹,sit down,sentarse,intr,Bimoraic,Class II,—,ku¹ntya¹a¹,tsi¹ntya¹a¹,ntya²a³,ku-,tsi-,—,111,111,23,True,False
+4008,San Juan Colorado Mixtec,Amuzgo-Mixtecan,True,True,True,,False,True,ku²ntye¹ku¹,be here already,ya estar aquí,intr,Bimoraic,Class II,—,ku²ntye¹ku¹,tsi²ntye¹ku¹,ntye³ku³,ku-,tsi-,—,211,211,33,True,False
+4009,San Juan Colorado Mixtec,Amuzgo-Mixtecan,False,True,True,,False,True,ntye¹e¹,sink,hundirse,intr,Bimoraic,n/a,—,ntye¹e¹,ntye¹e¹,ntye³e²,—,—,—,11,11,32,True,False
+4010,San Juan Colorado Mixtec,Amuzgo-Mixtecan,False,True,True,,False,True,ntyi²ko²,get cold,enfriarse,intr,Bimoraic,n/a,—,ntyi²ko²,ntyi²ko²,ntyi³ko²,—,—,—,22,22,32,True,False
+4011,San Juan Colorado Mixtec,Amuzgo-Mixtecan,True,True,True,,False,True,ku²ntyi²i²,be (in a place),estar (en un lugar),intr,Bimoraic,Class II,—,ku²ntyi²i²,tsi²ntyi²i²,ntyi³i³,ku-,tsi-,—,222,222,33,True,False
+4012,San Juan Colorado Mixtec,Amuzgo-Mixtecan,False,True,True,,False,True,ke²e²,come out (on purpose),salir (a propósito),intr,Bimoraic,n/a,—,ke²e²,ke²e²,ke³e³,—,—,—,22,22,33,True,False
+4013,San Juan Colorado Mixtec,Amuzgo-Mixtecan,False,True,True,,False,True,ki²ta²,leave,salir,intr,Bimoraic,n/a,—,ki²ta²,ki²ta²,ki³ta³,—,—,—,22,22,33,True,False
+4014,San Juan Colorado Mixtec,Amuzgo-Mixtecan,False,True,True,,False,True,ki¹ta²tu¹,rest,descansar,intr,Trimoraic,n/a,—,ki¹ta²tu¹,ki¹ta²tu¹,ki³ta³tu³,—,—,—,121,121,333,True,False
+4015,San Juan Colorado Mixtec,Amuzgo-Mixtecan,False,True,True,,False,True,ki¹tu²bi²,appear,aparecer,intr,Trimoraic,n/a,—,ki¹tu²bi²,ki¹tu²bi²,ki³tu³bi²,—,—,—,122,122,332,True,False
+4016,San Juan Colorado Mixtec,Amuzgo-Mixtecan,False,True,True,,True,True,ku¹su¹,sleep,dormir,intr,Bimoraic,n/a,Suppletive,ku¹su¹,ki¹xi¹,ki²xi³,—,—,—,11,11,23,True,False
+4017,San Juan Colorado Mixtec,Amuzgo-Mixtecan,False,True,True,,False,True,su¹tya²,swim,nadar,intr,Bimoraic,n/a,—,su¹tya²,su¹tya²,su³tya³,—,—,—,12,12,33,True,False
+4018,San Juan Colorado Mixtec,Amuzgo-Mixtecan,False,True,True,,False,True,taʔ¹an¹,pass,pasar,intr,Bimoraic,n/a,—,taʔ¹an¹,taʔ¹an¹,taaʔ²an³,—,—,—,11,11,23,True,False
+4019,San Juan Colorado Mixtec,Amuzgo-Mixtecan,False,True,True,,True,True,kaʔ¹nu¹,break,quebrarse,intr,Bimoraic,n/a,ka+,kaʔ¹nu¹,taʔ¹nu¹,taaʔ²nu³,—,—,—,11,11,23,True,False
+4020,San Juan Colorado Mixtec,Amuzgo-Mixtecan,False,True,True,,False,True,ta²an²,tremble,temblar,intr,Bimoraic,n/a,—,ta²an²,ta²an²,ta³an²,—,—,—,22,22,32,True,False
+4021,San Juan Colorado Mixtec,Amuzgo-Mixtecan,False,True,True,,False,True,taʔ¹bi¹,break,quebrarse,intr,Bimoraic,n/a,—,taʔ¹bi¹,taʔ¹bi¹,taʔ³bi¹,—,—,—,11,11,31,True,False
+4022,San Juan Colorado Mixtec,Amuzgo-Mixtecan,False,True,True,,False,True,ta²na²,moan,gemir,intr,Bimoraic,n/a,—,ta²na²,ta²na²,ta³na³,—,—,—,22,22,33,True,False
+4023,San Juan Colorado Mixtec,Amuzgo-Mixtecan,False,True,True,,False,True,ta¹nɨ¹,be destroyed,estar destruido,intr,Bimoraic,n/a,—,ta¹nɨ¹,ta¹nɨ¹,ta²nɨ³,—,—,—,11,11,23,True,False
+4024,San Juan Colorado Mixtec,Amuzgo-Mixtecan,False,True,True,,False,True,ta¹tsi¹,sow,sembrar,tr,Bimoraic,n/a,—,ta¹tsi¹,ta¹tsi¹,ta³tsi³,—,—,—,11,11,33,True,False
+4025,San Juan Colorado Mixtec,Amuzgo-Mixtecan,False,True,True,,False,True,ta¹xin¹,flatten,achatarse,tr,Bimoraic,n/a,—,ta¹xin¹,ta¹xin¹,ta²xin³,—,—,—,11,11,23,True,False
+4026,San Juan Colorado Mixtec,Amuzgo-Mixtecan,False,True,True,,False,True,ti²ka²a²,be hanging,estar colgado,intr,Trimoraic,n/a,—,ti²ka²a²,ti²ka²a²,ti³ka³a³,—,—,—,222,222,333,True,False
+4027,San Juan Colorado Mixtec,Amuzgo-Mixtecan,False,True,True,,False,True,tɨ²ɨn²,hold onto,agarrarse,intr,Bimoraic,n/a,—,tɨ²ɨn²,tɨ²ɨn²,tɨ³ɨn²,—,—,—,22,22,32,True,False
+4028,San Juan Colorado Mixtec,Amuzgo-Mixtecan,False,True,True,,False,True,to²o²,drip,gotear,intr,Bimoraic,n/a,—,to²o²,to²o²,to³o²,—,—,—,22,22,32,True,False
+4029,San Juan Colorado Mixtec,Amuzgo-Mixtecan,False,True,True,,False,True,tɨ¹bɨ²,throw out,echar a perder,intr,Bimoraic,n/a,—,tɨ¹bɨ²,tɨ¹bɨ²,tɨ³bɨ³,—,—,—,12,12,33,True,False
+4030,San Juan Colorado Mixtec,Amuzgo-Mixtecan,False,True,True,,False,True,tu¹tu²,whistle,chiflar,intr,Bimoraic,n/a,—,tu¹tu²,tu¹tu²,tu³tu³,—,—,—,12,12,33,True,False
+4031,San Juan Colorado Mixtec,Amuzgo-Mixtecan,False,True,True,,False,True,tu²bi²,get food poisoning,intoxicarse,intr,Bimoraic,n/a,—,tu²bi²,tu²bi²,tu³bi²,—,—,—,22,22,32,True,False
+4032,San Juan Colorado Mixtec,Amuzgo-Mixtecan,False,True,True,,False,True,tsa²a²,flourish,florecer,intr,Bimoraic,n/a,—,tsa²a²,tsa²a²,tsa³a³,—,—,—,22,22,33,True,False
+4033,San Juan Colorado Mixtec,Amuzgo-Mixtecan,False,True,True,,False,True,tsa¹a¹,arrive,llegar,intr,Bimoraic,n/a,—,tsa¹a¹,tsa¹a¹,tsa²a³,—,—,—,11,11,23,True,False
+4034,San Juan Colorado Mixtec,Amuzgo-Mixtecan,False,True,True,,True,True,ba¹ku¹,cry,llorar,intr,Bimoraic,n/a,ba+,ba¹ku¹,tsa¹ku¹,tsa³ku³,—,—,—,11,11,33,True,False
+4035,San Juan Colorado Mixtec,Amuzgo-Mixtecan,False,True,True,,True,True,kuaʔ²nu²,grow,crecer,intr,Bimoraic,n/a,ku+,kuaʔ²nu²,tsaʔ²nu²,tsaʔ³nu³,—,—,—,22,22,33,True,False
+4036,San Juan Colorado Mixtec,Amuzgo-Mixtecan,False,True,True,,True,True,kua²ñi²,dance,bailar,intr,Bimoraic,n/a,ku+,kua²ñi²,tsa²ñi²,tsa²ñi³,—,—,—,22,22,23,True,False
+4037,San Juan Colorado Mixtec,Amuzgo-Mixtecan,False,True,True,,True,True,ka²tɨ²,be intimidated,acobardarse,intr,Bimoraic,n/a,ka+,ka²tɨ²,tsa²tɨ²,tsa³tɨ³,—,—,—,22,22,33,True,False
+4038,San Juan Colorado Mixtec,Amuzgo-Mixtecan,False,True,True,,True,True,ka²tsi²,hurt,doler,intr,Bimoraic,n/a,ka+,ka²tsi²,tsa²tsi²,tsa³tsi³,—,—,—,22,22,33,True,False
+4039,San Juan Colorado Mixtec,Amuzgo-Mixtecan,False,True,True,,True,True,ka²ka²,walk,andar,intr,Bimoraic,n/a,ka+,ka²ka²,tsi²ka²,tsi³ka³,—,—,—,22,22,33,True,False
+4040,San Juan Colorado Mixtec,Amuzgo-Mixtecan,True,True,True,,False,True,ka²ba²,lie down,acostarse,intr,Bimoraic,Class I,—,ka²ba²,tsi¹ka¹ba¹,tsi²ka³ba²,—,tsi-,tsi-,22,111,232,False,False
+4041,San Juan Colorado Mixtec,Amuzgo-Mixtecan,False,True,True,,True,True,bi¹ko¹,rock,mecer,tr,Bimoraic,n/a,ba+,bi¹ko¹,tsi¹ko¹,tsi³ko³,—,—,—,11,11,33,True,False
+4042,San Juan Colorado Mixtec,Amuzgo-Mixtecan,True,True,True,,False,True,kui²ta²,bow,inclinarse,intr,Bimoraic,Class I,—,kui²ta²,tsi²kui²ta²,tsi²kui³ta²,—,tsi-,tsi-,22,222,232,False,False
+4043,San Juan Colorado Mixtec,Amuzgo-Mixtecan,False,True,True,,True,True,ku²kuɨ¹ñɨ¹,stand up,pararse,intr,Trimoraic,n/a,ku+,ku²kuɨ¹ñɨ¹,tsi²kuɨ¹ñɨ¹,tsi²kuɨ³ñɨ²,—,—,—,211,211,232,True,False
+4044,San Juan Colorado Mixtec,Amuzgo-Mixtecan,False,True,True,,True,True,bi²kun²,get stuck,atorarse,intr,Bimoraic,n/a,ba+,bi²kun²,tsi²kun²,tsi²kun³,—,—,—,22,22,23,True,False
+4045,San Juan Colorado Mixtec,Amuzgo-Mixtecan,False,True,True,,False,True,tsiʔ²in²,drip,gotear,intr,Bimoraic,n/a,—,tsiʔ²in²,tsiʔ²in²,tsiʔ³in²,—,—,—,22,22,32,True,False
+4046,San Juan Colorado Mixtec,Amuzgo-Mixtecan,False,True,True,,True,True,"ku¹bi¹, ku¹u¹",die,morir,intr,Bimoraic,n/a,ku+,"ku¹bi¹,  ku¹u¹",tsiʔ¹i¹,tsiiʔ²i³,—,—,—,11,11,23,True,False
+4047,San Juan Colorado Mixtec,Amuzgo-Mixtecan,False,True,True,,True,True,ku²na²a²,lose,perderse,intr,Trimoraic,n/a,ku+,ku²na²a²,tsi²na²a²,tsi¹na²a²,—,—,—,222,222,122,True,False
+4048,San Juan Colorado Mixtec,Amuzgo-Mixtecan,False,True,True,,True,True,ku²nu²,run,correr,intr,Bimoraic,n/a,ku+,ku²nu²,tsi²nu²,tsi³nu³,—,—,—,22,22,33,True,False
+4049,San Juan Colorado Mixtec,Amuzgo-Mixtecan,False,True,True,,False,True,tsi²nu²,build,construir,tr,Bimoraic,n/a,—,tsi²nu²,tsi²nu²,tsi³nu²,—,—,—,22,22,32,True,False
+4050,San Juan Colorado Mixtec,Amuzgo-Mixtecan,False,True,True,,True,True,ku¹nuʔ²ñi³,tie up,amarrarse,intr,Trimoraic,n/a,ku+,ku¹nuʔ²ñi³,tsi¹nuʔ²ñi¹,tsi²nuʔ³ñi¹,—,—,—,123,121,231,False,False
+4051,San Juan Colorado Mixtec,Amuzgo-Mixtecan,False,True,True,,True,True,ku²nda²sɨ¹,close,cerrarse,intr,Trimoraic,n/a,ku+,ku²nda²sɨ¹,tsi¹nda²sɨ¹,tsi²nda³sɨ¹,—,—,—,221,121,231,False,False
+4052,San Juan Colorado Mixtec,Amuzgo-Mixtecan,False,True,True,,True,True,ku¹ña¹,breed (animals),reproducir (animales),intr,Bimoraic,n/a,ku+,ku¹ña¹,tsi¹ña¹,tsi²ña³,—,—,—,11,11,23,True,False
+4053,San Juan Colorado Mixtec,Amuzgo-Mixtecan,False,True,True,,True,True,ku¹ñi²,get drunk,emborracharse,intr,Bimoraic,n/a,ku+,ku¹ñi²,tsi¹ñi²,tsi³ñi²,—,—,—,12,12,32,True,False
+4054,San Juan Colorado Mixtec,Amuzgo-Mixtecan,False,True,True,,True,True,kui²ta²,bow,inclinarse,intr,Bimoraic,n/a,ku+,kui²ta²,tsi²ta²,tsi³ta²,—,—,—,22,22,32,True,False
+4055,San Juan Colorado Mixtec,Amuzgo-Mixtecan,False,True,True,,True,True,ku¹tu²,be full,estar lleno,intr,Bimoraic,n/a,ku+,ku¹tu²,tsi¹tu²,tsi³tu³,—,—,—,12,12,33,True,False
+4056,San Juan Colorado Mixtec,Amuzgo-Mixtecan,False,True,True,,True,True,ku²tsa²,get solid,macizarse,intr,Bimoraic,n/a,ku+,ku²tsa²,tsi¹tsa²,tsi³tsa³,—,—,—,22,12,33,False,False
+4057,San Juan Colorado Mixtec,Amuzgo-Mixtecan,False,True,True,,True,True,ku¹tyi²,ripen,madurar,intr,Bimoraic,n/a,ku+,ku¹tyi²,tsi¹tyi²,tsi³tyi²,—,—,—,12,12,32,True,False
+4058,San Juan Colorado Mixtec,Amuzgo-Mixtecan,False,True,True,,False,True,tsi¹yo²,have diarrhea,tener diarrea,intr,Bimoraic,n/a,—,tsi¹yo²,tsi¹yo²,tsi³yo²,—,—,—,12,12,32,True,False
+4059,San Juan Colorado Mixtec,Amuzgo-Mixtecan,False,True,True,,False,True,tyaʔ²ntya¹,cut,cortarse,intr,Bimoraic,n/a,—,tyaʔ²ntya¹,tyaʔ²ntya¹,tyaaʔ²ntya³,—,—,—,21,21,23,True,False
+4060,San Juan Colorado Mixtec,Amuzgo-Mixtecan,False,True,True,,False,True,tyaʔ²yu¹,rot,pudrirse,intr,Bimoraic,n/a,—,tyaʔ²yu¹,tyaʔ²yu¹,tyaaʔ²yu³,—,—,—,21,21,23,True,False
+4061,San Juan Colorado Mixtec,Amuzgo-Mixtecan,False,True,True,,False,True,tya²ku¹,hear,oír,tr,Bimoraic,n/a,—,tya²ku¹,tya²ku¹,tya²ku³,—,—,—,21,21,23,True,False
+4062,San Juan Colorado Mixtec,Amuzgo-Mixtecan,False,True,True,,False,True,tya¹tya²,urinate,orinar,intr,Bimoraic,n/a,—,tya¹tya²,tya¹tya²,tya³tya³,—,—,—,12,12,33,True,False
+4063,San Juan Colorado Mixtec,Amuzgo-Mixtecan,False,True,True,,True,True,kua²xin²,"go into, meddle",meterse,intr,Bimoraic,n/a,ku+,kua²xin²,tya²xin²,tya³xin²,—,—,—,22,22,32,True,False
+4064,San Juan Colorado Mixtec,Amuzgo-Mixtecan,False,True,True,,False,True,tyiʔ¹yo¹,"cook, boil",cocer,tr,Bimoraic,n/a,—,tyiʔ¹yo¹,tyiʔ¹yo¹,tyiʔ³yo¹,—,—,—,11,11,31,True,False
+4065,San Juan Colorado Mixtec,Amuzgo-Mixtecan,False,True,True,,False,True,tyi¹i¹,get wet,mojarse,intr,Bimoraic,n/a,—,tyi¹i¹,tyi¹i¹,tyi³i³,—,—,—,11,11,33,True,False
+4066,San Juan Colorado Mixtec,Amuzgo-Mixtecan,False,True,True,,True,True,kui¹so¹,boil,hervirse,intr,Bimoraic,n/a,ku+,kui¹so¹,tyi¹so¹,tyi²so³,—,—,—,11,11,23,True,False
+4067,San Juan Colorado Mixtec,Amuzgo-Mixtecan,False,True,False,,True,True,ki²tsi²,come,venir,intr,Bimoraic,n/a,Irregular,ki²tsi²,ki²tsi²,ba²tsi²,—,—,—,22,22,22,True,True
+4068,San Juan Colorado Mixtec,Amuzgo-Mixtecan,False,True,True,,False,True,ya²tan²,toast,tostarse,intr,Bimoraic,n/a,—,ya²tan²,ya²tan²,ya³tan³,—,—,—,22,22,33,True,False
+4069,San Juan Colorado Mixtec,Amuzgo-Mixtecan,False,True,True,,True,True,kɨʔ²ɨ²,be inside,estar adentro,intr,Bimoraic,n/a,ku+,kɨʔ²ɨ²,yɨʔ¹ɨ¹/tsi¹kɨʔ¹ɨ¹,yɨʔ³ɨ³,—,—,—,22,11,33,False,False
+4070,San Juan Colorado Mixtec,Amuzgo-Mixtecan,False,True,True,,True,True,ko¹so¹,be mounted,estar montado,intr,Bimoraic,n/a,ku+,ko¹so¹,yo¹so¹,yo³so³,—,—,—,11,11,33,True,False
+4071,San Juan Colorado Mixtec,Amuzgo-Mixtecan,True,True,True,,False,True,ku¹yu¹ku¹,be somewhere,estar en un lugar,intr,Bimoraic,Class II,—,ku¹yu¹ku¹,tsi¹yu¹ku¹,yu³ku³,ku-,tsi-,—,111,111,33,True,False
