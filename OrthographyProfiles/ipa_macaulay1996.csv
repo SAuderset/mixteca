@@ -1,0 +1,64 @@
+Right,Grapheme,Left,IPA,Class,Status,Comments
+,t,,t,consonant,,"phonetically t̪"
+,k,,k,consonant,,"free variation with kʰ"
+,kʷ,,kʷ,consonant,,
+,nd,,ⁿd,consonant,,unit
+,ŋg,,ᵑg,consonant,,unit
+,b,,β,consonant,,"occasionally w between vowels"
+#,b,,ᵐb,consonant,,
+,s,,s,consonant,,
+,š,,ʃ,consonant,,
+,x,,x,consonant,,"free variation with h"
+,x,"i, ɨ",ç,consonant,,
+,nž,,ⁿʒ,consonant,rare,"only in the speech of some people"
+,ð,,ð,consonant,rare,"only appears in one form, could be treated as an allophone of [r]"
+,ž,,ʒ,consonant,,"I think what she writes as [y] is IPA j, but I’m not totally sure"
+ʔ,ž,,j,consonant,,"not always"
+,č,,tʃ͡,consonant,,
+,nč,,ntʃ͡,consonant,rare,
+,m,,m,consonant,,
+,n,,n,consonant,,
+,ñ,,ɲ,consonant,,
+,l,,l,consonant,,
+#,r,,ɾ,consonant,rare,"limited occurrence"
+,r,,r,consonant,rare,
+,w,,w,consonant,rare,"very rare, two words only"
+,p,,p,consonant,loan,
+,ɣ,,ɣ,consonant,loan,
+,ʔ,,ʔ,consonant,,
+,a,,a3,"vowel and tone",,
+,e,,e3,"vowel and tone",,"free variation ɛ"
+,i,,i3,"vowel and tone",,"free variation ɪ"
+,ɨ,,ɨ3,"vowel and tone",,
+,o,,o3,"vowel and tone",,"free variation ɔ"
+,u,,u3,"vowel and tone",,
+,à,,a1,"vowel and tone",,
+,è,,e1,"vowel and tone",,
+,ì,,i1,"vowel and tone",,
+,ɨ̀,,ɨ1,"vowel and tone",,
+,ò,,o1,"vowel and tone",,
+,ù,,u1,"vowel and tone",,
+,á,,a5,"vowel and tone",,
+,é,,e5,"vowel and tone",,
+,í,,i5,"vowel and tone",,
+,ɨ́,,ɨ5,"vowel and tone",,
+,ó,,o5,"vowel and tone",,
+,ú,,u5,"vowel and tone",,
+,ã,,ã3,"vowel and tone",,
+,ẽ,,ẽ3,"vowel and tone",,
+,ĩ,,ĩ3,"vowel and tone",,
+,ɨ̃,,ɨ̃3,"vowel and tone",,
+,õ,,õ3,"vowel and tone",,
+,ũ,,ũ3,"vowel and tone",,
+,ã̀,,ã1,"vowel and tone",,
+,ẽ̀,,ẽ1,"vowel and tone",,
+,ĩ̀,,ĩ1,"vowel and tone",,
+,ɨ̃̀,,ɨ̃1,"vowel and tone",,
+,õ̀,,õ1,"vowel and tone",,
+,ũ̀,,ũ1,"vowel and tone",,
+,ã́,,ã5,"vowel and tone",,
+,ẽ́,,ẽ5,"vowel and tone",,
+,ĩ́,,ĩ5,"vowel and tone",,
+,ɨ̃̀́,,ɨ̃5,"vowel and tone",,
+,ṍ,,õ5,"vowel and tone",,
+,ṹ,,ũ5,"vowel and tone",,
