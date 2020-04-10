@@ -1,12 +1,12 @@
 # An archive of Mixtec materials and tools
 
-This a collection of materials on Mixtec languages and tools to explore and analyze this data.
+This a collection of materials on Mixtecan languages and tools to explore and analyze this data mainly from a diachronic point of view.
 It is managed by me (Sandra Auderset), as part of my PhD thesis.
 
 
 
 
-Shield: [![CC BY-SA 4.0][cc-by-sa-shield]][cc-by-sa]
+[![CC BY-SA 4.0][cc-by-sa-shield]][cc-by-sa]
 
 This work is licensed under a [Creative Commons Attribution-ShareAlike 4.0
 International License][cc-by-sa].
