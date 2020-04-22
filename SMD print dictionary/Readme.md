@@ -8,8 +8,8 @@ The live version database of the database lives on Box in xlsx-format.This is be
 
 ## Part 1: Clean, subset, and convert to csv
 
-1. download the database files (in my case:[lexical entries](https://github.com/SAuderset/mixteca/blob/master/SMD%20print%20dictionary/SMD-Base_de_datos_lexica.csv) and [verbs](https://github.com/SAuderset/mixteca/blob/master/SMD%20print%20dictionary/SMD-Base_de_datos_verbal.csv))
-1. create the sort order for the entries in a separate csv-file; this is especially important if you have diacritics and di-/trigraphs and/or do not want to sort according to the English alphabetical sorting convention
+1. download the database files (in my case: [lexical entries](SMD-Base_de_datos_lexica.xlsx) and [verbs](SMD-Base_de_datos_verbal.xlsx))
+1. create the sort order for the entries in a separate [csv-file](smd_sortorder.csv); this is especially important if you have diacritics and di-/trigraphs and/or do not want to sort according to the English alphabetical sorting convention
 1. read all of that into R, clean, subset and write to csv.
 
 ## Part 2: Import to LaTeX and make it look pretty
