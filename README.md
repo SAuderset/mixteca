@@ -2,7 +2,8 @@
 ## A collection of materials of Mixtecan languages and tools to explore them
 
 Hi! 
-This repository is in its initial stages and thus a bit chaotic as of now. It is managed by me (Sandra Auderset), as part of my PhD thesis.
+This repository is in its initial stages and thus a bit chaotic as of now. Everything's in flux and more info will be provided later on. 
+It is managed by me (Sandra Auderset), as part of my PhD thesis. Feel free to ask me about any of this.
 
 
 
