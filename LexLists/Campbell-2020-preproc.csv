@@ -1,0 +1,341 @@
+X.,English,Spanish
+1,corn,"maíz,en grano"
+2,cornfield ,milpa
+3,sun,sol
+4,moon,luna
+5,water,agua
+6,bean,s
+7,fire,"lumbre,fuego"
+8,tortilla,NA
+9,wood,madera
+10,nombrede la lengua ,e.g.mixteco
+11,ant,hormiga
+12,bird,pájarito*
+13,egg,"blanquillo,huevo*"
+14,fish,"pez,pescado"
+15,leaf,hojade árbol
+16,dirt,tierra
+17,lightning,"rayo,relámpago"
+18,word,palabra
+19,centuryplant ,maguey
+20,night,noche
+21,ash,ceniza
+22,chilipepper ,chile
+23,rain,lluvia
+24,salt,sal
+25,house,casa
+26,squash,calabaza
+27,louse,piojo
+28,rock,piedra
+29,snake,"culebra,serpiente"
+30,smoke,humo
+31,tomato,tomate
+32,seed,semilla
+33,"meat,flesh ",carne
+34,mountain,cerro
+35,star,estrella
+36,root,raíz
+37,quern,metate
+38,sand,arena
+39,flower,flor
+40,village,pueblo
+41,air,aire
+42,person,gente
+43,griddle,comal
+44,rope,mecate
+45,frog,rana
+46,"jaguar,tiger ",tigre
+47,pot,olla
+48,vine,"bejuco,liana"
+49,thorn,espina
+50,charcoal,carbón
+51,bed,"cama,lecho"
+52,bag,bolsa
+53,mouse,ratón
+54,spider,araña
+55,"day,date ","día,fecha"
+56,,quicklime
+57,freshear of corn ,elote
+58,mirror,espejo
+59,dog,perro
+60,toad,sapo
+61,scorpion,alacrán
+62,sky,cielo
+63,festival,fiesta
+64,sleepingmat ,petate
+65,path,camino
+66,animal,NA
+67,vulture,zopilote
+68,cloud,nube
+69,corncob ,olote
+70,bat,murciélago
+71,corndough ,masa
+72,bee,abeja
+73,deer,venado
+74,grasshopper,chapulín
+75,earthquake,temblor
+76,cayman,lagarto
+77,river,río
+78,,opossum
+79,sugarcane ,caña
+80,broom,escoba
+81,avocado,aguacate
+82,comb,peine
+83,"net,mesh ","rede,red"
+84,flour,harina
+85,"pimple,rash ",grano
+86,grass,"zacate,pasto"
+87,metal,fierro
+88,paper,papel
+89,honey,miel
+90,magueyfiber ,"ixtle,fibra de maguey"
+91,"tuber,sweet potato ",camote
+92,armadillo,NA
+93,pus,"pus,materia"
+94,crab,cangrejo
+95,wax,cera
+96,fox,"zorro,zorra"
+97,money,dinero
+98,light,luz
+99,cacao,NA
+100,incense,copal
+101,feather,pluma
+102,tree,"palo,árbol"
+103,"fat,lard, ","grasa,manteca"
+104,"fault,blame ",culpa
+105,mud,lodo
+106,thread,hilo
+107,foam,espuma
+108,gourd,jícara
+109,work,trabajo
+110,pants,pantalón
+111,sandal,huarache
+112,raccoon,mapache
+113,cotton,algodón
+114,woman,mujer
+115,man,hombre
+116,oven,horno
+117,year,año
+118,"demon,devil ",demonio
+119,greenbean ,ejote
+120,banana,plátano
+121,lime,limón
+122,"mezcal,liquor ","mezcal,aguardiente"
+123,picklypear cactus ,nopal
+124,"dust,powder ",polvo
+125,swelling,hinchazón
+126,"plain,flat land ",llanura
+127,cockroach,cucaracha
+128,custardapple ,mamey
+129,chayotesquash ,chayote
+130,tomorrow,mañana
+131,dayafter tomorrow ,pasadomañana
+132,yesterday,ayer
+133,daybefore yesterday ,"antier,ante ayer"
+134,today,hoy
+135,dew,"rocío,sereno"
+136,herbaceousplant ,hierba
+137,squirrel,ardilla
+138,cigarro,cigarette
+139,reed,carrizo
+140,shawl,rebozo
+141,turtle,tortuga
+142,flea,pulga
+143,tortillabasket ,tenate
+144,needle,aguja
+145,corngruel ,atole
+146,weapon,arma
+147,basket,canasta
+148,hammock,hamaca
+149,thief,ladrón
+150,mushroom,hongo
+151,hot,estácaliente
+152,cold,frío
+153,small,"pequeño,chico"
+154,big,grande
+155,good,bueno
+156,bad,malo
+157,black,negro
+158,white,blanco
+159,red,rojo
+160,green,verde
+161,yellow,amarillo
+162,"old,elder ",anciano
+163,young,joven
+164,wide,ancho
+165,thin,delgado
+166,sweet,dulce
+167,bitter,amargo
+168,salty,salado
+169,sour,"agrio,de limón"
+170,long,largo
+171,short,corto
+172,tall,alto
+173,dark,oscuro
+174,clear,claro
+175,sick,enfermo
+176,1,uno
+177,2,dos
+178,3,tres
+179,4,cuatro
+180,5,cinco
+181,6,seis
+182,7,siete
+183,8,ocho
+184,9,nueve
+185,10,diez
+186,11,once
+187,12,doce
+188,13,trece
+189,14,catorce
+190,15,quince
+191,16,dieciséis
+192,17,diecisiete
+193,18,dieciocho
+194,19,diecinueve
+195,20,veinte
+196,40,cuarenta
+197,60,sesenta
+198,80,ochenta
+199,400,cuatrocientos
+200,"8,000",ochomil
+201,"arm,",subrazo
+202,"hand,",sumano
+203,"back,",suespalda
+204,"eye,",suojo
+205,"ear,",suoreja
+206,"mouth,",suboca
+207,"nose,",sunariz
+208,"hair,","sucabello, "
+209,"blood,",susangre
+210,"bone,",suhueso
+211,"chest,",supecho
+212,"skin,",supiel 
+213,"navel,",suombligo
+214,"neck,",sucuello
+215,"face,",sucara
+216,"foot,",supie
+217,"leg,",supierna
+218,"tongue,",sulengua 
+219,"tooth,",sudiente
+220,"liver,",suhígado
+221,"finger,",sudedo
+222,"belly,",supanza
+223,"heart,being, ",sucorazón 
+224,"knee,",surodilla
+225,"elbow,",sucodo
+226,"butt,",sussentaderas 
+227,"name,",sunombre
+228,"horn,",sucuerno
+229,"wing,",suala
+230,"tail,",sucola
+231,"clothes,",suropa
+232,"hat,",susombrero
+233,"mother,",sumadre
+234,"father,",supadre
+235,brother,"ofmale, "
+236,sister,"ofmale, "
+237,brother,"offemale, "
+238,sister,"offemale, "
+239,"grandmother,",suabuela
+240,"grandfather,",suabuelo
+241,"son,",suhijo
+242,"daughter,",suhija
+243,"uncle,",sutío
+244,"aunt,",sutía
+245,"grandson,",sunieto
+246,"granddaughter,",sunieta
+247,cousin,"female,"
+248,cousin,"male,"
+249,"co-father,",sucompadre
+250,"co-mother,",sucomadre
+251,flat,estáparejo
+252,strong,fuerte
+253,weak,débil
+254,tasty,sabroso
+255,heavy,pesado
+256,full,lleno
+257,empty,vacío
+258,clean,limpio
+259,dirty,sucio
+260,poor,pobre
+261,rich,rico
+262,closed,cerrado
+263,open,abierto
+264,dry,seco
+265,wet,mojado
+266,raw,crudo
+267,toasted,tostado
+268,soft,blando
+269,hard,duro
+270,new,nuevo
+271,"old,used ",ofthing 
+272,alive,vivo
+273,sharp,filoso
+274,rough,rasposo
+275,rotten,podrido
+276,crooked,chueco
+277,lazy,flojo
+278,ugly,feo
+279,pretty,bonito
+280,,estácerca 
+281,,estálejos 
+282,round,redondo
+283,below,abajo
+284,above,arriba
+285,slowly,despacio
+286,quickly,rápido
+287,early,temprano
+288,trash,basura
+289,wovenblouse/dress ,huipil
+290,hawk,gavilán
+291,cat,gato
+292,smell,olor
+293,urine,orina
+294,wall,pared
+295,clearedfield ,rastrojo
+296,plantingrow ,surco
+297,ditch,zanja
+298,,maizespike 
+299,"owner,boss ",dueño
+300,illnes,enfermedad
+301,priest,secerdote
+302,glue,pegamento
+303,housepost,horcón
+304,hole,agujero
+305,rainbow,arcoiris
+306,"stool,seat ",banquito
+307,half,mitad
+308,handspan,cuartade mano
+309,"husband,",sumarido
+310,"wife,",suesposa
+311,"fingernail,",suuña
+312,tripe,tripas
+313,"eyebrow,",suceja
+314,tendon,tendón
+315,armpit,sobaco
+316,wise,sabio
+317,mosquito,zancudo
+318,smooth,liso
+319,"trunk,box ","baúl,cajón"
+320,lizard,lagartija
+321,rabbit,conejo
+322,eagle,águila
+323,flint,pedernal
+324,monkey,"chango,mono"
+325,arrow,flecha
+326,shadow,sombra
+327,dream,sueño
+328,leafcutterant ,arriera
+329,queenleafcutter ant ,chicatana
+330,goosefoot,epazote
+331,coati,tejón
+332,skunk,zorrillo
+333,gallo,rooster
+334,pig,marrano
+335,horse,caballo
+336,fussy,delicado
+337,shiny,brillante
+338,happy,alegre
+339,"nut,pecan ",nuez
+340,pinetorch ,ocote
