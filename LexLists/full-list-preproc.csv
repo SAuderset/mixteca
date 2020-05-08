@@ -353,6 +353,7 @@ NA,NA,DELICADO,336,283,NA,NA,NA,NA,delicado,delicado,NA,NA,NA,fussy,delicate,NA,
 NA,NA,BRILLANTE,337,NA,NA,NA,NA,NA,brillante,NA,NA,NA,NA,shiny,NA,NA,NA,NA,1
 1495,HAPPY,NA,338,195,NA,NA,NA,NA,alegre,"feliz, contento, alegre",NA,NA,NA,happy,"happy, glad, cheerful",NA,NA,NA,2
 191,NUT,NA,339,NA,NA,NA,NA,NA,nuez,NA,NA,NA,NA,"nut, pecan",NA,NA,NA,NA,1
+NA,NA,OCOTE,340,84,NA,NA,NA,NA,ocote,ocote,NA,NA,NA,pine torch,ocote,NA,NA,NA,2
 NA,NA,OCOTE,340,232,NA,NA,NA,NA,ocote,ocote,NA,NA,NA,pine torch,ocote,NA,NA,NA,2
 1107,GO OUT,NA,NA,1,140,NA,NA,NA,NA,salir,salir,NA,NA,NA,go out,go out,NA,NA,2
 1494,DIE,NA,NA,2,NA,NA,NA,NA,NA,morir,NA,NA,NA,NA,die,NA,NA,NA,1
@@ -421,7 +422,6 @@ NA,NA,ASI,NA,59,NA,NA,NA,NA,NA,así,NA,NA,NA,NA,thus,NA,NA,NA,1
 NA,NA,VIGA,NA,73,NA,NA,NA,NA,NA,viga,NA,NA,NA,NA,"beam, rafter, girder",NA,NA,NA,1
 502,NAIL (TOOL),NA,NA,74,NA,NA,NA,NA,NA,clavo,NA,NA,NA,NA,nail,NA,NA,NA,1
 NA,NA,RUEDO O CIRCULO,NA,83,NA,NA,NA,NA,NA,"rueda, círculo",NA,NA,NA,NA,"wheel, circle",NA,NA,NA,1
-NA,NA,NA,NA,84,NA,NA,NA,NA,NA,ocote,NA,NA,NA,NA,ocote,NA,NA,NA,1
 1193,STEAM,NA,NA,85,NA,NA,NA,94,NA,vapor,NA,NA,vapor,NA,steam,NA,NA,vapor/steam,2
 NA,NA,SEMILLA O GRANO,NA,88,NA,NA,NA,NA,NA,"semilla, grano",NA,NA,NA,NA,"seed, grain",NA,NA,NA,1
 NA,NA,HUARACHE,NA,89,NA,NA,32,NA,NA,huarache,NA,huarache,NA,NA,sandal,NA,NA,NA,2
@@ -544,7 +544,7 @@ NA,NA,DEBAJO,NA,253,NA,NA,NA,NA,NA,"debajo de, dentro de",NA,NA,NA,NA,"in, withi
 1100,COOK (SOMETHING),NA,NA,257,NA,NA,NA,NA,NA,cocer,NA,NA,NA,NA,cook,NA,NA,NA,1
 2629,TRAY,NA,NA,258,NA,NA,NA,NA,NA,bandeja,NA,NA,NA,NA,tray,NA,NA,NA,1
 NA,NA,SEMILLA DE CALABAZA,NA,259,NA,NA,NA,NA,NA,semilla de calabaza,NA,NA,NA,NA,seed of calabash,NA,NA,NA,1
-NA,NA,NA,NA,260,NA,NA,NA,NA,NA,mano del metate,NA,NA,NA,NA,handle of grindstone,NA,NA,NA,1
+NA,NA,MANO DEL METATE,NA,260,NA,NA,NA,NA,NA,mano del metate,NA,NA,NA,NA,handle of grindstone,NA,NA,NA,1
 1227,BOARD,NA,NA,262,NA,NA,NA,NA,NA,tabla,NA,NA,NA,NA,board,NA,NA,NA,1
 2043,PEACH,NA,NA,263,NA,NA,NA,NA,NA,durazno,NA,NA,NA,NA,peach,NA,NA,NA,1
 1845,BALL,NA,NA,265,NA,NA,NA,NA,NA,"pelota, bola",NA,NA,NA,NA,ball,NA,NA,NA,1

@@ -17,8 +17,8 @@ Josserand-1983-188-15	15	tortilla	tortilla			TORTILLA
 Josserand-1983-188-16	16	vomita	vomits	1278	VOMIT	
 Josserand-1983-188-17	17	flojo	lazy	1564	LAZY	
 Josserand-1983-188-18	18	cama	bed	1663	BED	
-Josserand-1983-188-19	19	comal	griddle	31	PAN	
-Josserand-1983-188-20	20	culpa	sin	2971	SIN	
+Josserand-1983-188-19	19	comal	griddle			COMAL
+Josserand-1983-188-20	20	culpa		 		CULPA
 Josserand-1983-188-21	21	frijol	bean	832	BEAN	
 Josserand-1983-188-22	22	agua	water	948	WATER	
 Josserand-1983-188-23	23	río	river	3311	FLOWING BODY OF WATER	
@@ -40,7 +40,7 @@ Josserand-1983-188-38	38	espuma	foam	1768	FOAM
 Josserand-1983-188-39	39	sangre	blood	946	BLOOD	
 Josserand-1983-188-40	40	marido	husband	1200	HUSBAND	
 Josserand-1983-188-41	41	sal	salt	1274	SALT	
-Josserand-1983-188-42	42	red	net bag	293	NETBAG	
+Josserand-1983-188-42	42	red	net bag	2963	NET	
 Josserand-1983-188-43	43	jícara	gourd	411	GOURD	
 Josserand-1983-188-44	44	calabaza	squash	864	PUMPKIN	
 Josserand-1983-188-45	45	tejón coatí	coati	2389	COATI (COATIMUNDI)	
@@ -53,7 +53,7 @@ Josserand-1983-188-51	51	viento 	wind	960	WIND
 Josserand-1983-188-52	52	hombre	man	1554	MAN	
 Josserand-1983-188-53	53	redondo	round	1395	ROUND	
 Josserand-1983-188-54	54	horno	oven	1143	OVEN	
-Josserand-1983-188-55	55	cajón	box, drawer	1465	BOX	
+Josserand-1983-188-55	55	cajón	box, drawer	3150	BOX OR CHEST	
 Josserand-1983-188-56	56	zancudo	mosquito	1509	MOSQUITO	
 Josserand-1983-188-57	57	esperar	wait for	1590	WAIT (FOR)	
 Josserand-1983-188-58	58	podrido	rotten	1728	ROTTEN	
@@ -69,7 +69,7 @@ Josserand-1983-188-67	67	va a venir	will come	1446	COME
 Josserand-1983-188-68	68	cuerno	horn	1393	HORN (ANATOMY)	
 Josserand-1983-188-69	69	culebra	snake	730	SNAKE	
 Josserand-1983-188-70	70	feo	ugly	1548	UGLY	
-Josserand-1983-188-71	71	cerro	hill	614	HILL	
+Josserand-1983-188-71	71	cerro	hill	2118	MOUNTAIN OR HILL	
 Josserand-1983-188-72	72	armadillo	armadillo	1885	ARMADILLO	
 Josserand-1983-188-73	73	chueco	crooked	297	CROOKED	
 Josserand-1983-188-74	74	año	year	1226	YEAR	
@@ -123,7 +123,7 @@ Josserand-1983-188-121	121	quince	fifteen	1709	FIFTEEN
 Josserand-1983-188-122	122	tripas	guts	1334	GUTS	
 Josserand-1983-188-123	123	diez	ten	1515	TEN	
 Josserand-1983-188-124	124	frio	cold	1287	COLD	
-Josserand-1983-188-125	125	huarache	sandal	1381	SHOE	
+Josserand-1983-188-125	125	huarache	sandal			HUARACHE
 Josserand-1983-188-126	126	horcon	housepost	281	POST	
 Josserand-1983-188-127	127	nombre	name	1405	NAME	
 Josserand-1983-188-128	128	cacao	cacao	2442	COCOA BEAN	
@@ -158,7 +158,7 @@ Josserand-1983-188-156	156	llano	plain	652	PLAIN
 Josserand-1983-188-157	157	como	how	1239	HOW	
 Josserand-1983-188-158	158	cargar	carry	700	CARRY	
 Josserand-1983-188-159	159	cucaracha	cockroach	1575	COCKROACH	
-Josserand-1983-188-160	160	pegameuto	glue	1069	GLUE	
+Josserand-1983-188-160	160	pegamento	glue	1069	GLUE	
 Josserand-1983-188-161	161	enfermedad	sickness	1986	DISEASE	
 Josserand-1983-188-162	162	ver	see	1409	SEE	
 Josserand-1983-188-163	163	despacio	slow	701	SLOW	
@@ -181,7 +181,7 @@ Josserand-1983-188-179	179	hierba	brush	1821	BRUSH
 Josserand-1983-188-180	180	surco	furrow	1794	FURROW	
 Josserand-1983-188-181	181	calzon	trousers	809	TROUSERS	
 Josserand-1983-188-182	182	sacerdote	priest	852	PRIEST	
-Josserand-1983-188-183	183	fierro	brand	621	IRON	
+Josserand-1983-188-183	183	fierro	brand	2244	METAL	
 Josserand-1983-188-184	184	sabra	will know	1410	KNOW (SOMETHING)	
 Josserand-1983-188-185	185	ardilla	squirrel	1628	SQUIRREL	
 Josserand-1983-188-186	186	floja	loose	2506	LOOSE	

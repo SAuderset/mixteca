@@ -32,7 +32,7 @@ NUMBER	ENGLISH	SPANISH	CONCEPTICON_ID	CONCEPTICON_GLOSS	ADD_CONCEPT
 31	tomato	tomate	986	TOMATO	
 32	seed	semilla	714	SEED	
 33	meat, flesh	carne	2615	FLESH OR MEAT	
-34	mountain	cerro	639	MOUNTAIN	
+34	mountain	cerro	2118	MOUNTAIN OR HILL	
 35	star	estrella	1430	STAR	
 36	root	raíz	670	ROOT	
 37	quern	metate			METATE
@@ -41,7 +41,7 @@ NUMBER	ENGLISH	SPANISH	CONCEPTICON_ID	CONCEPTICON_GLOSS	ADD_CONCEPT
 40	village	pueblo	930	VILLAGE	
 41	air	aire	27	AIR	
 42	person	gente	683	PERSON	
-43	griddle	comal	31	PAN	
+43	griddle	comal			COMAL
 44	rope	mecate	1218	ROPE	
 45	frog	rana	503	FROG	
 46	jaguar, tiger	tigre			TIGRE O JAGUAR
@@ -63,7 +63,7 @@ NUMBER	ENGLISH	SPANISH	CONCEPTICON_ID	CONCEPTICON_GLOSS	ADD_CONCEPT
 62	sky	cielo	1732	SKY	
 63	festival	fiesta	131	FESTIVAL	
 64	sleeping mat	petate	195	MAT	
-65	path	camino	2252	PATH	
+65	path	camino	2457	PATH OR ROAD	
 66	animal	animal	619	ANIMAL	
 67	vulture	zopilote	1185	VULTURE	
 68	cloud	nube	1489	CLOUD	
@@ -76,7 +76,7 @@ NUMBER	ENGLISH	SPANISH	CONCEPTICON_ID	CONCEPTICON_GLOSS	ADD_CONCEPT
 75	earthquake	temblor	6	EARTHQUAKE	
 76	cayman	lagarto	2438	CAIMAN	
 77	river	río	3311	FLOWING BODY OF WATER	
-78	(o)possum	tlacuache	470	POSSUM	
+78	(o)possum	tlacuache	309	OPOSSUM	
 79	sugar cane	caña	146	SUGAR CANE	
 80	broom	escoba	245	BROOM	
 81	avocado	aguacate	3725	AVOCADO	
@@ -109,7 +109,7 @@ NUMBER	ENGLISH	SPANISH	CONCEPTICON_ID	CONCEPTICON_GLOSS	ADD_CONCEPT
 108	gourd	jícara	411	GOURD	
 109	work	trabajo	1086	WORK (ACTIVITY)	
 110	pants	pantalón	809	TROUSERS	
-111	sandal	huarache	1381	SHOE	
+111	sandal	huarache			HUARACHE
 112	raccoon	mapache	828	RACCOON	
 113	cotton	algodón	1850	COTTON	
 114	woman	mujer	962	WOMAN	
@@ -206,7 +206,7 @@ NUMBER	ENGLISH	SPANISH	CONCEPTICON_ID	CONCEPTICON_GLOSS	ADD_CONCEPT
 205	ear	oreja	1247	EAR	
 206	mouth	boca	674	MOUTH	
 207	nose	nariz	1221	NOSE	
-208	hair	cabello	2648	HAIR (HEAD)	
+208	hair	cabello	1040	HAIR	
 209	blood	sangre	946	BLOOD	
 210	bone	hueso	1394	BONE	
 211	chest	pecho	1592	CHEST	

@@ -7,7 +7,7 @@ NUMBER	SPANISH	ENGLISH	CONCEPTICON_ID	CONCEPTICON_GLOSS	ADD_CONCEPT
 6	quemarse	burn	141	BURN (SOMETHING)	
 7	estar frio	be cold	1287	COLD	
 8	cuándo	when	1238	WHEN	
-9	llover	rain	2108	RAINING OR RAIN	
+9	llover	rain	1253	RAIN (RAINING)	
 10	limpiar	clear (corn field)	3127	RAKE (SOMETHING)	
 11	esperar	wait	1590	WAIT (FOR)	
 12	lavarse la cara	wash face			LAVARSE CARA
@@ -97,7 +97,7 @@ NUMBER	SPANISH	ENGLISH	CONCEPTICON_ID	CONCEPTICON_GLOSS	ADD_CONCEPT
 96	corteza	bark	1204	BARK	
 97	masa	batter	273	DOUGH	
 98	veinte	twenty	1710	TWENTY	
-99	hierba	herb	606	GRASS	
+99	hierba	herb			HIERBA
 100	guajolote	turkey	2386	TURKEY	
 101	medicina, remedio	medicine, remedy	1372	MEDICINE	
 102	domingo	Sunday	1699	SUNDAY	
@@ -192,7 +192,7 @@ NUMBER	SPANISH	ENGLISH	CONCEPTICON_ID	CONCEPTICON_GLOSS	ADD_CONCEPT
 191	y entonces	and then			Y ENTONCES
 192	zapato	shoe	1381	SHOE	
 193	grave	grave (sound)			GRAVE
-194	sudor	sweat	125	SUBSTANCE	
+194	sudor	sweat	125	SWEAT (SUBSTANCE)	
 195	feliz, contento, alegre	happy, glad, cheerful	1495	HAPPY	
 196	aquí	here	136	HERE	
 197	este	this	1214	THIS	
@@ -251,7 +251,7 @@ NUMBER	SPANISH	ENGLISH	CONCEPTICON_ID	CONCEPTICON_GLOSS	ADD_CONCEPT
 250	cara	face	1560	FACE	
 251	sobre, encima de	ontop of			SOBRE
 252	barriga	belly	1251	BELLY	
-253	debajo de, dentro de	in, within, under			DEBAJO
+253	debajo de, dentro de	in, within, under	1485	BELOW OR UNDER	
 254	dar	give	1447	GIVE	
 255	gemir	groan, moan	716	GROAN	
 256	obtener, conseguir	get, obtain	694	GET	
@@ -283,7 +283,7 @@ NUMBER	SPANISH	ENGLISH	CONCEPTICON_ID	CONCEPTICON_GLOSS	ADD_CONCEPT
 282	duro	hard	1884	HARD	
 283	delicado	delicate			DELICADO
 284	costra	crust			COSTRA
-285	copal, resina	copal, resin			COPAL
+285	copal, resina	copal, resin	3356		INCENSE
 286	panza, estómago	belly, stomach	819	STOMACH	
 287	rincón	corner	192	CORNER	
 288	falda	skirt	1600	SKIRT	
@@ -300,7 +300,7 @@ NUMBER	SPANISH	ENGLISH	CONCEPTICON_ID	CONCEPTICON_GLOSS	ADD_CONCEPT
 299	marrano, puerco, cerdo	pig	1337	PIG	
 300	comprar	buy, purchase	1869	BUY	
 301	alto	tall	1265	HIGH	
-302	abejorro	bumblebee	665	BEE	
+302	abejorro	bumblebee			BUMBLEBEE
 303	águila	eagle	1905	EAGLE	
 304	pájaro	bird	937	BIRD	
 305	arriba	up, upward	1591	UP	
@@ -423,11 +423,11 @@ NUMBER	SPANISH	ENGLISH	CONCEPTICON_ID	CONCEPTICON_GLOSS	ADD_CONCEPT
 422	cangrejo	crab	2348	CRAB	
 423	sabroso, delicioso	tasty, delicious	1813	TASTY	
 424	siete	seven	1704	SEVEN	
-425	cerca	fence	1942	NEAR	
+425	cerca	fence	1690	FENCE	
 426	comal	comal			COMAL
 427	diez	ten	1515	TEN	
 428	malo	bad	1292	BAD	
-429	enfermedad	sickness, illness	1847	SICK	
+429	enfermedad	sickness, illness	1986	DISEASE	
 430	excremento	excrement	675	FEACES (EXCREMENT)	
 431	perro	dog	2009	DOG	
 432	doce	twelve	1707	TWELVE	
@@ -447,7 +447,7 @@ NUMBER	SPANISH	ENGLISH	CONCEPTICON_ID	CONCEPTICON_GLOSS	ADD_CONCEPT
 446	grillo	cricket	2354	CRICKET	
 447	listo, preparado	ready, prepared	790	READY	
 448	leña, árbol, palo	tree, pole			ARBOL O MADERA O PALO
-449	caja, cajón	box	1465	BOX	
+449	caja, cajón	box	3150	BOX OR CHEST	
 450	correr	run	1519	RUN	
 451	oír, entender	hear, understand			OIR O ENTENDER
 452	pelear	fight	1423	FIGHT	
@@ -504,7 +504,7 @@ NUMBER	SPANISH	ENGLISH	CONCEPTICON_ID	CONCEPTICON_GLOSS	ADD_CONCEPT
 503	escondido	hidden			ESCONDIDO
 504	maguey	maguey			MAGUEY
 505	petate	mat	195	MAT	
-506	roca, peña	rock	2125	STONE OR ROCK	
+506	roca, peña	rock	668	 ROCK	
 507	camote	camote	159	SWEET POTATO	
 508	puente	bridge	1011	BRIDGE	
 509	jabón	soap	788	SOAP	
