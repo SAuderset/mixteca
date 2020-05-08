@@ -1,524 +1,524 @@
-NUMBER	SPANISH	ENGLISH	CONCEPTICON_ID	CONCEPTICON_GLOSS
-1	salir	go out	1107	GO OUT
-2	morir	die	1494	DIE
-3	gritar	shout, cry out	715	SHOUT
-4	ya	already	2576	ALREADY
-5	cortar	cut hair, weed	1432	CUT
-6	quemarse	burn	141	BURN (SOMETHING)
-7	estar frio	be cold	1287	COLD
-8	cuándo	when	1238	WHEN
-9	llover	rain	2108	RAINING OR RAIN
-10	limpiar	clear (corn field)	3127	RAKE (SOMETHING)
-11	esperar	wait	1590	WAIT (FOR)
-12	lavarse la cara	wash face		
-13	tejer	weave	133	WEAVE
-14	bañarse	bathe	138	BATHE
-15	masticar, mascar	chew	321	CHEW
-16	exprimir, ordeñar, ahorcar	squeeze, milk, hang to kill		
-17	usar	use	2072	USE (VERB)
-18	o	or	1014	OR
-19	desde	from	693	FROM
-20	cargar	carry	700	CARRY
-21	infecund	infertile		
-22	dormir	sleep	1585	SLEEP
-23	entrar	enter	749	ENTER
-24	tentar	touch	1892	TOUCH
-25	caminar, andar	walk	1443	WALK
-26	crecer	grow	479	GROW
-27	pasar, cruzar	pass, cross	574	TRANSIT
-28	faltar	lack, be lacking, be missing	2329	LACK (NOT HAVE)
-29	pedir	ask	1828	ASK (REQUEST)
-30	enterrar	bury	1719	BURY
-31	cantar	sing	1261	SING
-32	untar, regar	smear, anoint, irrigate		
-33	toser	cough	879	COUGH
-34	año próximo	next year	515	NEXT YEAR
-35	caer	fall	1280	FALL
-36	hablar	speak	1623	SPEAK
-37	quitar	remove		
-38	nacer	beborn	1090	BE BORN
-39	reír	laugh	1355	LAUGH
-40	soñar	dream	1920	DREAM (SOMETHING)
-41	cortar	cut	1432	CUT
-42	soplar	blow		
-43	mañana	tomorrow	1329	TOMORROW
-44	pelar	peel	275	PEEL
-45	existir, hay	exist		
-46	existir, hay	exist		
-47	moler	grind, crush	1033	GRIND
-48	seis	six	1703	SIX
-49	hilar	spin thread	121	SPIN
-50	tres	three	492	THREE
-51	escarbar	dig	1418	DIG
-52	si	yes	1459	IF
-53	y entonces	and then		
-54	saltar, brincar	jump, leap	1829	JUMP
-55	casa	house	1252	HOUSE
-56	dos	two	1498	TWO
-57	rubio	blond		
-58	delicioso, sabroso	delicious, tasty	1813	TASTY
-59	así	thus		
-60	cómo	how	1239	HOW
-61	animal	animal	619	ANIMAL
-62	ese, aquel	that	78	THAT
-63	ése, aquél	that	78	THAT
-64	usted	you	1215	THOU
-65	quieto	quiet, calm	1314	QUIET
-66	más	more	1992	MORE
-67	algunos, pocos, menos	a few, a little, less	1242	FEW
-68	lejos	far	1406	FAR
-69	tibio	tepid, lukewarm	1232	WARM
-70	año pasado	last year	514	LAST YEAR
-71	día, sol	day, sun	1225	DAY (NOT NIGHT)
-72	metal, botella	metal, bottle	1321	BOTTLE
-73	viga	beam, rafter, girder		
-74	clavo	nail	502	NAIL (TOOL)
-75	pecado, culpa	sin, blame		
-76	delgado, flaco	thin, skinny	2308	THIN
-77	humo	smoke	778	SMOKE (EXHAUST)
-78	blanco	white	1335	WHITE
-79	miel	honey	942	HONEY
-80	algodón	cotton	1850	COTTON
-81	sombra	shadow, shade	1388	SHADE
-82	ancho	wide	1243	WIDE
-83	rueda, círculo	wheel, circle		
-84	ocote	ocote		
-85	vapor	steam	1193	STEAM
-86	cuatro	four	1500	FOUR
-87	calabaza	calabash	864	PUMPKIN
-88	semilla, grano	seed, grain		
-89	huarache	sandal		
-90	tuna	prickly pear		
-91	peine	comb	1475	COMB
-92	viernes	Friday	1692	FRIDAY
-93	zacate	grass of milpa		
-94	malo	bad	1292	BAD
-95	montaña	mountain	639	MOUNTAIN
-96	corteza	bark	1204	BARK
-97	masa	batter	273	DOUGH
-98	veinte	twenty	1710	TWENTY
-99	hierba	herb	606	GRASS
-100	guajolote	turkey	2386	TURKEY
-101	medicina, remedio	medicine, remedy	1372	MEDICINE
-102	domingo	Sunday	1699	SUNDAY
-103	lunes	Monday	1697	MONDAY
-104	beber, tomar	drink	1401	DRINK
-105	plato	plate	480	PLATE
-106	martes	Tuesday	1695	TUESDAY
-107	ayer	yesterday	1174	YESTERDAY
-108	lluvia	rain	658	RAIN (PRECIPITATION)
-109	hondo	deep	1593	DEEP
-110	mono, chango	monkey	1350	MONKEY
-111	puño	fist	1473	FIST
-112	horno	oven	1143	OVEN
-113	pudrirse	rot (wood)		
-114	hueso	bone	1394	BONE
-115	hinchazón	swelling	1903	SWELLING
-116	llamarse	be called, be named	180	CALL BY NAME
-117	pus	pus	1808	PUS
-118	sábado	Saturday	1700	SATURDAY
-119	miércoles	Wednesday	1694	WEDNESDAY
-120	jueves	Thursday	1693	THURSDAY
-121	moco	mucus	208	NASAL MUCUS (SNOT)
-122	México	Mexico		
-123	verde	green	1425	GREEN
-124	rojo	red	156	RED
-125	negro	black	163	BLACK
-126	borrego, oveja	sheep	1331	SHEEP
-127	mono, chango	monkey	1350	MONKEY
-128	mismo	self	1993	SELF
-129	existir, hay	exist		
-130	solamente	only	1580	ONLY
-131	grueso	thick	1244	THICK
-132	agua	water	948	WATER
-133	tiempo pasado, tiempo anterior	past time, anterior time		
-134	milpa	cornfield	449	CORN FIELD
-135	sombrero	hat	771	HAT
-136	salamandra	salamander		
-137	nuevo	new	1231	NEW
-138	recoger	gather, collect	7	GATHER
-139	componer	fix, repair	2243	REPAIR
-140	atole	atole		
-141	llamar	NA	1084	CALL
-142	seco	dry	1398	DRY
-143	secarse	dry	1786	DRY UP
-144	pesadilla	nightmare		
-145	manteca, grasa	fat, grease	1282	FAT (FROM ANIMALS)
-146	viento, aire, voz	wind, air, voice		
-147	despacio	slowly	701	SLOW
-148	reconocer	recognize	2022	ADMIT
-149	rebajar	lower		
-150	escaparse	escape	1615	ESCAPE
-151	contar, narrar	tell	1711	TELL
-152	remendar	mend	2243	REPAIR
-153	casarse	get married	203	MARRY
-154	hallar, encontrar	find, meet		
-155	borrar	erase		
-156	repagar, liquidar	repay, pay back, refund, liquidate		
-157	llegar	arrive, reach	1387	ARRIVE
-158	ejote	string bean		
-159	plátano	banana	868	BANANA
-160	cambiar	change	1264	CHANGE
-161	jitomate, tomate	tomato	986	TOMATO
-162	desatar, soltar	untie, unleash, let go	352	UNTIE
-163	espinilla	pimple	186	SHIN
-164	leer	read	724	READ
-165	arder, escocer, picar	sting		
-166	cal	lime	2540	LIME (MATERIAL)
-167	limpiar	clean	2235	CLEAN (SOMETHING)
-168	no querer	be unwilling		
-169	fruta cítrica	citrus fruit		
-170	abrir	open	1156	OPEN
-171	lavar	wash (cloth)	1453	WASH
-172	tupido, denso	dense		
-173	cigarro	cigarette	969	CIGARETTE
-174	red	net	2963	NET
-175	regresar	return	581	COME BACK
-176	hasta	until	2753	UNTIL
-177	vivir, sentarse	live, sit		
-178	y	and	1577	AND
-179	desnudo	naked	590	NAKED
-180	carne	meat, flesh	2615	FLESH OR MEAT
-181	arado	plow	2154	PLOUGH
-182	sueño	dream	2374	DREAM
-183	tijeras	scissors	356	SHEARS
-184	mecate, cuerda	rope, cord	1218	ROPE
-185	nosotros	we in	1212	WE
-186	bebé, nene	baby	1289	BABY
-187	ver, saber	see, know		
-188	con	with	1340	WITH
-189	nube	cloud	1489	CLOUD
-190	cuando	when	1238	WHEN
-191	y entonces	and then		
-192	zapato	shoe	1381	SHOE
-193	grave	grave (sound)		
-194	sudor	sweat	125	SUBSTANCE
-195	feliz, contento, alegre	happy, glad, cheerful	1495	HAPPY
-196	aquí	here	136	HERE
-197	este	this	1214	THIS
-198	éste	this	1214	THIS
-199	caer	fall	1280	FALL
-200	madre, mamá	mother, mama	1216	MOTHER
-201	recto, derecho	straight	1019	RIGHT
-202	esposa, esposo	spouse, consort	2514	SPOUSE
-203	tener, llevar	have, take, carry		
-204	pobre	poor	1674	POOR
-205	mucho	many, much	1198	MANY
-206	seguir	follow	1085	FOLLOW
-207	cansado	tired	1757	TIRED
-208	diferente, aparte	different, apart		
-209	chayote	chayote		
-210	lleno	full, filled	1429	FULL
-211	pegajoso	sticky, gluey	3703	STICKY
-212	cerca de	near	1942	NEAR
-213	nixtamal	nixtamal		
-214	rasposo, áspero	rough, coarse	1923	ROUGH
-215	vivo	alive	1422	BE ALIVE
-216	mirar	look	1819	LOOK
-217	olvidar	forget	1523	FORGET
-218	piel, cuero	skin, hide, leather		
-219	todo	all	98	ALL
-220	ella	she	1834	SHE
-221	frio	cold	1287	COLD
-222	no estar	not be present		
-223	grano	pimple	1809	PIMPLE
-224	fuerte	strong	3188	MIGHTY OR POWERFUL OR STRONG
-225	juntos, juntamente	together	2482	TOGETHER
-226	regresarse	return	581	COME BACK
-227	tamal	tamal		
-228	liso	smooth	1234	SMOOTH
-229	desgranar	shell, shuck		
-230	desplumar	pluck		
-231	cosa	thing	738	THING
-232	ocote	ocote		
-233	pan	bread	1368	BREAD
-234	mano	hand	1277	HAND
-235	hongo	mushroom	641	MUSHROOM
-236	bailar	dance	1879	DANCE
-237	rapido	rapid	3365	QUICKLY
-238	firme, apretado	firm, tight		
-239	comprar	buy, purchase	1869	BUY
-240	ramita	branch	1531	BRANCH
-241	astilla	splinter, chip		
-242	rama	branch	1531	BRANCH
-243	chirimoya	custard apple		
-244	coa	hoe	284	HOE
-245	cobija	blanket	806	BLANKET
-246	orinar	urinate	592	PISS
-247	tirar	throw	1456	THROW
-248	carrizo	reed	659	REED
-249	disparar	shoot, fire	1172	SHOOT
-250	cara	face	1560	FACE
-251	sobre, encima de	ontop of		
-252	barriga	belly	1251	BELLY
-253	debajo de, dentro de	in, within, under		
-254	dar	give	1447	GIVE
-255	gemir	groan, moan	716	GROAN
-256	obtener, conseguir	get, obtain	694	GET
-257	cocer	cook	1100	COOK (SOMETHING)
-258	bandeja	tray	2629	TRAY
-259	semilla de calabaza	seed of calabash		
-260	mano del metate	handle of grindstone		
-261	olla	pot	1462	POT
-262	tabla	board	1227	BOARD
-263	durazno	peach	2043	PEACH
-264	perezoso	lazy	1564	LAZY
-265	pelota, bola	ball	1845	BALL
-266	oscuro	dark	706	DARK
-267	aguacate	avocado	3725	AVOCADO
-268	frijol 	bean	832	BEAN
-269	vara	pole, stick	1295	STICK
-270	carbón	charcoal	1188	CHARCOAL
-271	nudo	knot of a rope	760	KNOT
-272	pero	but		
-273	problema, cosa difícil, accidente	difficulty, accident		
-274	bueno	good	1035	GOOD
-275	dinero	money	1559	MONEY
-276	no	not (in potential aspect)	1240	NOT
-277	ropa, trapo, tela	clothing, cloth, fabric		
-278	anillo	ring	1374	RING
-279	puntiagudo, filoso	sharp	1396	SHARP
-280	lodo	mud	640	MUD
-281	chicle	chewing gum		
-282	duro	hard	1884	HARD
-283	delicado	delicate		
-284	costra	crust		
-285	copal, resina	copal, resin		
-286	panza, estómago	belly, stomach	819	STOMACH
-287	rincón	corner	192	CORNER
-288	falda	skirt	1600	SKIRT
-289	macho	male	2263	MALE (OF ANIMAL)
-290	vosotros, ustedes	you pl	1213	YOU
-291	él	he	1211	HE
-292	tú	you sg	1215	THOU
-293	sordo	deaf	996	DEAF
-294	tigre	tiger	846	TIGER
-295	favor	favor		
-296	muñeca	doll	1659	DOLL
-297	trabajo	work	984	WORK (LABOUR)
-298	cuervo	crow	913	CROW
-299	marrano, puerco, cerdo	pig	1337	PIG
-300	comprar	buy, purchase	1869	BUY
-301	alto	tall	1265	HIGH
-302	abejorro	bumblebee	665	BEE
-303	águila	eagle	1905	EAGLE
-304	pájaro	bird	937	BIRD
-305	arriba	up, upward	1591	UP
-306	zopilote	zapilote		
-307	grande	big, large	1202	BIG
-308	abuelo	grandfather	1383	GRANDFATHER
-309	catorce	fourteen	2451	FOURTEEN
-310	alacrán, escorpión	scorpion	1538	SCORPION
-311	celoso	jealous	2821	JEALOUS
-312	hombro	shoulder	1482	SHOULDER
-313	gato	cat	1208	CAT
-314	gusano	worm	1219	WORM
-315	picoso	spicy, hot	544	SPICY
-316	red	net	2963	NET
-317	zanja	ditch, trench	2002	DITCH
-318	quince	fifteen	1709	FIFTEEN
-319	lagartija	lizard	632	LIZARD
-320	cucaracha	cockroach	1575	COCKROACH
-321	chapulín	grasshopper	607	GRASSHOPPER
-322	rana	frog	503	FROG
-323	renacuajo	tadpole		
-324	costilla	rib	801	RIB
-325	espalda	back	1291	BACK
-326	encima de	on top of, over		
-327	intestino	intestine	1991	INTESTINES
-328	pantalones	trousers	809	TROUSERS
-329	cachete	cheek	1730	CHEEK
-330	hambre	hunger	1864	HUNGER
-331	abundar	abound		
-332	lado	side	682	SIDE
-333	junto a, al lado de	next to, beside	1816	BESIDE
-334	trampa	trap	1075	TRAP (PITFALL)
-335	tortuga	turtle	112	TURTLE
-336	sobrino	nephew	1063	NEPHEW
-337	animal	animal	619	ANIMAL
-338	hormiga	ant	587	ANT
-339	culebra	snake	730	SNAKE
-340	pescado, pez	fish	227	FISH
-341	abuela	grandmother	1496	GRANDMOTHER
-342	garza	heron	758	HERON
-343	venado, ciervo	deer	1936	DEER
-344	abeja	bee	665	BEE
-345	mosca	fly	1504	FLY (INSECT)
-346	rata, ratón	rat, mouse	2139	MUROID (MOUSE OR RAT)
-347	llano	plain	652	PLAIN
-348	estar encima	be on top		
-349	decir	say	1458	SAY
-350	loma	hill	614	HILL
-351	nariz	nose	1221	NOSE
-352	pie	foot	1301	FOOT
-353	codo	elbow	981	ELBOW
-354	bajar	lower	2014	GO DOWN (DESCEND)
-355	entre, en medio de	between, among, in the middle of		
-356	pulmón	lung	688	LUNG
-357	alimentar	feed, nourish	739	FEED
-358	agarrar, coger	grab, grasp, catch	855	SEIZE
-359	mitad	half, middle	816	HALF
-360	gallo	rooster	1511	ROOSTER
-361	seña	sign, signal	1720	SIGN
-362	repartir	allocate		
-363	hija, hijo	child	1801	CHILD (DESCENDANT)
-364	tío	uncle	1327	UNCLE
-365	espina	thorn	124	THORN
-366	mazorca	ear of corn		
-367	meter	put in	998	PUT
-368	matar, asesinar	kill, murder		
-369	calentar	heat, warm	1341	HEAT UP
-370	apagar	turn off, shut off	127	EXTINGUISH
-371	nopal	nopal (a kind of cactus)		
-372	hermano	brother	1262	BROTHER
-373	pellizcar	pinch	378	PINCH
-374	maíz	corn	506	MAIZE
-375	ocho	eight	1705	EIGHT
-376	metate	grindstone	2459	GRINDSTONE
-377	colgar	hang, put up	357	HANG UP
-378	hacer beber	make somebody drink		
-379	leche	milk	635	MILK
-380	jugar	play	1413	PLAY
-381	pegar	glue, stick		
-382	mojar	wet, moisten	28	MOISTEN
-383	nombrar, dar nombre	name	180	CALL BY NAME
-384	casa	house	1252	HOUSE
-385	bañar	bathe	138	BATHE
-386	hacer caminar	make somebody walk		
-387	criar, adoptar	raise, rear, breed, adopt		
-388	sobrina	niece	1642	NIECE
-389	hacer pasar	pass		
-390	hacer reír	make somebody laugh		
-391	surco, linea	groove, furrow, rut, line	1794	FURROW
-392	dejar, abandonar	leave, abandon	1097	ABANDON
-393	cola	tail	1220	TAIL
-394	hacer completar	complete, finish	1766	FINISH
-395	espantar, sorprender	scare, frighten, surprise		
-396	ciego	blind	1653	BLIND
-397	boca, orilla	mouth, edge		
-398	tía	aunt	1272	AUNT
-399	caro	expensive	1426	EXPENSIVE
-400	vender	sell	1571	SELL
-401	sangre	blood	946	BLOOD
-402	elote	elote		
-403	duro	hard meat	1884	HARD
-404	dulce	sweet	717	SWEET
-405	comer	eat	1336	EAT
-406	lamer	lick	319	LICK
-407	mariposa, dibujo	butterfly, drawing	1791	BUTTERFLY
-408	tragar	swallow	897	SWALLOW
-409	mujer	woman	962	WOMAN
-410	de veras	truly, really		
-411	piña	pineapple	2440	PINEAPPLE
-412	colibrí, chupamirto	hummingbird	1589	HUMMINGBIRD
-413	paloma	dove	1853	DOVE
-414	zorrillo	skunk		
-415	liendre	nit	267	NIT
-416	mosco	gnat		
-417	trece	thirteen	1708	THIRTEEN
-418	búho	owl	735	OWL
-419	coyote	coyote	912	COYOTE
-420	pie	foot	1301	FOOT
-421	cuello, pescuezo	neck	1333	NECK
-422	cangrejo	crab	2348	CRAB
-423	sabroso, delicioso	tasty, delicious	1813	TASTY
-424	siete	seven	1704	SEVEN
-425	cerca	fence	1942	NEAR
-426	comal	comal		
-427	diez	ten	1515	TEN
-428	malo	bad	1292	BAD
-429	enfermedad	sickness, illness	1847	SICK
-430	excremento	excrement	675	FEACES (EXCREMENT)
-431	perro	dog	2009	DOG
-432	doce	twelve	1707	TWELVE
-433	pueblo	town, village	930	VILLAGE
-434	lechuza	barn owl	735	OWL
-435	zorro	fox	1312	FOX
-436	gallina	hen	1514	HEN
-437	piojo	louse	1392	LOUSE
-438	tener miedo, espantarse	be scared, be frightened	3033	SCARED
-439	tortilla	tortilla		
-440	canción, música	song, music		
-441	camino	road	2252	PATH
-442	pasto	pasture	606	GRASS
-443	tizne	soot	830	SOOT
-444	ocupado, angosto, reducido	busy, narrow, reduced		
-445	fruta, huevo	fruit, egg		
-446	grillo	cricket	2354	CRICKET
-447	listo, preparado	ready, prepared	790	READY
-448	leña, árbol, palo	tree, pole		
-449	caja, cajón	box	1465	BOX
-450	correr	run	1519	RUN
-451	oír, entender	hear, understand		
-452	pelear	fight	1423	FIGHT
-453	sembrar	sow	748	SOW SEEDS
-454	poner encima	place on top		
-455	chupar	suck	1421	SUCK
-456	despedazar, gastar	tear apart, cut to pieces, use up, consume		
-457	mamar	suckle		
-458	llegar	arrive	1387	ARRIVE
-459	vomitar	vomit	1278	VOMIT
-460	poner	put, place	998	PUT
-461	olfatear	sniff	1586	SMELL (PERCEIVE)
-462	cinco	five	493	FIVE
-463	lengua	tongue	1205	TONGUE
-464	mes	month	1370	MONTH
-465	luna	moon	1313	MOON
-466	ahora	now	1376	NOW
-467	ceniza	ash	646	ASH
-468	flor	flower	239	FLOWER
-469	Oaxaca	Oaxaca		
-470	cama	bed	1663	BED
-471	zarzamora	blackberry		
-472	espuma	foam	1768	FOAM
-473	estrella	star	1430	STAR
-474	ropa, trapo, tela	clothing, cloth, fabric		
-475	polvo	powder, dust	2	DUST
-476	jícara	gourd	411	GOURD
-477	raíz	root	670	ROOT
-478	cepillo, escobilla	brush	1821	BRUSH
-479	chile	chili	919	CHILI PEPPER
-480	fuego, luz	fire, light		
-481	caliente	hot	2272	HOT OR WARM
-482	dios	god	1944	GOD
-483	instrumento musical	musical instrument		
-484	plaza, mercado	plaza, market	633	MARKET
-485	tierno	tender	1207	YOUNG
-486	abono	fertilizer		
-487	donde	where	1237	WHERE
-488	soltero	single, unmarried		
-489	cicatriz	scar	497	SCAR
-490	sal	salt	1274	SALT
-491	olote	olote		
-492	papel	paper	648	PAPER
-493	cera	wax	1931	BEESWAX
-494	diente	tooth	1380	TOOTH
-495	piedra	stone	857	STONE
-496	ligero	light (weight)	1052	LIGHT (WEIGHT)
-497	rápido	quickly	1631	FAST
-498	tenate	basket	1539	BASKET
-499	caña	cane	146	SUGAR CANE
-500	año	year	1226	YEAR
-501	tierra	earth, ground	1228	EARTH (SOIL)
-502	bravo, feroz	fierce, ferocious		
-503	escondido	hidden		
-504	maguey	maguey		
-505	petate	mat	195	MAT
-506	roca, peña	rock	2125	STONE OR ROCK
-507	camote	camote	159	SWEET POTATO
-508	puente	bridge	1011	BRIDGE
-509	jabón	soap	788	SOAP
-510	agrio	sour	1906	SOUR
-511	crudo	raw, uncooked	1959	RAW
-512	hilo	thread	1161	THREAD
-513	nieve, hielo	snow, ice	3322	SNOW OR ICE
-514	hoyo	hole	1667	HOLE
-515	yo	I	1209	I
-516	palma	palm	1811	PALM TREE
-517	vez	time, occasion		
-518	nueve	nine	1483	NINE
-519	venir	come	1446	COME
-520	uno	one	1493	ONE
-521	maíz	corn	506	MAIZE
-522	hacer, construir, causar	do, make, construct, cause		
-523	húmedo	humid	143	HUMID
+NUMBER	SPANISH	ENGLISH	CONCEPTICON_ID	CONCEPTICON_GLOSS	ADD_CONCEPT
+1	salir	go out	1107	GO OUT	
+2	morir	die	1494	DIE	
+3	gritar	shout, cry out	715	SHOUT	
+4	ya	already	2576	ALREADY	
+5	cortar	cut hair, weed	1432	CUT	
+6	quemarse	burn	141	BURN (SOMETHING)	
+7	estar frio	be cold	1287	COLD	
+8	cuándo	when	1238	WHEN	
+9	llover	rain	2108	RAINING OR RAIN	
+10	limpiar	clear (corn field)	3127	RAKE (SOMETHING)	
+11	esperar	wait	1590	WAIT (FOR)	
+12	lavarse la cara	wash face			LAVARSE CARA
+13	tejer	weave	133	WEAVE	
+14	bañarse	bathe	138	BATHE	
+15	masticar, mascar	chew	321	CHEW	
+16	exprimir, ordeñar, ahorcar	squeeze, milk, hang to kill			EXPRIMIR
+17	usar	use	2072	USE (VERB)	
+18	o	or	1014	OR	
+19	desde	from	693	FROM	
+20	cargar	carry	700	CARRY	
+21	infecundo	infertile			INFECUNDO
+22	dormir	sleep	1585	SLEEP	
+23	entrar	enter	749	ENTER	
+24	tentar	touch	1892	TOUCH	
+25	caminar, andar	walk	1443	WALK	
+26	crecer	grow	479	GROW	
+27	pasar, cruzar	pass, cross	574	TRANSIT	
+28	faltar	lack, be lacking, be missing	2329	LACK (NOT HAVE)	
+29	pedir	ask	1828	ASK (REQUEST)	
+30	enterrar	bury	1719	BURY	
+31	cantar	sing	1261	SING	
+32	untar, regar	smear, anoint, irrigate			CANTAR
+33	toser	cough	879	COUGH	
+34	año próximo	next year	515	NEXT YEAR	
+35	caer	fall	1280	FALL	
+36	hablar	speak	1623	SPEAK	
+37	quitar	remove			QUITAR
+38	nacer	beborn	1090	BE BORN	
+39	reír	laugh	1355	LAUGH	
+40	soñar	dream	1920	DREAM (SOMETHING)	
+41	cortar	cut	1432	CUT	
+42	soplar	blow			SOPLAR
+43	mañana	tomorrow	1329	TOMORROW	
+44	pelar	peel	275	PEEL	
+45	existir, hay	exist			EXISTIR
+46	existir, hay	exist			EXISTIR
+47	moler	grind, crush	1033	GRIND	
+48	seis	six	1703	SIX	
+49	hilar	spin thread	121	SPIN	
+50	tres	three	492	THREE	
+51	escarbar	dig	1418	DIG	
+52	si	yes	1459	IF	
+53	y entonces	and then			YES
+54	saltar, brincar	jump, leap	1829	JUMP	
+55	casa	house	1252	HOUSE	
+56	dos	two	1498	TWO	
+57	rubio	blond			RUBIO
+58	delicioso, sabroso	delicious, tasty	1813	TASTY	
+59	así	thus			ASI
+60	cómo	how	1239	HOW	
+61	animal	animal	619	ANIMAL	
+62	ese, aquel	that	78	THAT	
+63	ése, aquél	that	78	THAT	
+64	usted	you	1215	THOU	
+65	quieto	quiet, calm	1314	QUIET	
+66	más	more	1992	MORE	
+67	algunos, pocos, menos	a few, a little, less	1242	FEW	
+68	lejos	far	1406	FAR	
+69	tibio	tepid, lukewarm	1232	WARM	
+70	año pasado	last year	514	LAST YEAR	
+71	día, sol	day, sun	1225	DAY (NOT NIGHT)	
+72	metal, botella	metal, bottle	1321	BOTTLE	
+73	viga	beam, rafter, girder			VIGA
+74	clavo	nail	502	NAIL (TOOL)	
+75	pecado, culpa	sin, blame			CULPA
+76	delgado, flaco	thin, skinny	2308	THIN	
+77	humo	smoke	778	SMOKE (EXHAUST)	
+78	blanco	white	1335	WHITE	
+79	miel	honey	942	HONEY	
+80	algodón	cotton	1850	COTTON	
+81	sombra	shadow, shade	1388	SHADE	
+82	ancho	wide	1243	WIDE	
+83	rueda, círculo	wheel, circle			RUEDO O CIRCULO
+84	ocote	ocote			OCOTE
+85	vapor	steam	1193	STEAM	
+86	cuatro	four	1500	FOUR	
+87	calabaza	calabash	864	PUMPKIN	
+88	semilla, grano	seed, grain			SEMILLA O GRANO
+89	huarache	sandal			HUARACHE
+90	tuna	prickly pear			TUNA
+91	peine	comb	1475	COMB	
+92	viernes	Friday	1692	FRIDAY	
+93	zacate	grass of milpa			ZACATE
+94	malo	bad	1292	BAD	
+95	montaña	mountain	639	MOUNTAIN	
+96	corteza	bark	1204	BARK	
+97	masa	batter	273	DOUGH	
+98	veinte	twenty	1710	TWENTY	
+99	hierba	herb	606	GRASS	
+100	guajolote	turkey	2386	TURKEY	
+101	medicina, remedio	medicine, remedy	1372	MEDICINE	
+102	domingo	Sunday	1699	SUNDAY	
+103	lunes	Monday	1697	MONDAY	
+104	beber, tomar	drink	1401	DRINK	
+105	plato	plate	480	PLATE	
+106	martes	Tuesday	1695	TUESDAY	
+107	ayer	yesterday	1174	YESTERDAY	
+108	lluvia	rain	658	RAIN (PRECIPITATION)	
+109	hondo	deep	1593	DEEP	
+110	mono, chango	monkey	1350	MONKEY	
+111	puño	fist	1473	FIST	
+112	horno	oven	1143	OVEN	
+113	pudrirse	rot (wood)			PODRIRSE
+114	hueso	bone	1394	BONE	
+115	hinchazón	swelling	1903	SWELLING	
+116	llamarse	be called, be named	180	CALL BY NAME	
+117	pus	pus	1808	PUS	
+118	sábado	Saturday	1700	SATURDAY	
+119	miércoles	Wednesday	1694	WEDNESDAY	
+120	jueves	Thursday	1693	THURSDAY	
+121	moco	mucus	208	NASAL MUCUS (SNOT)	
+122	México	Mexico			MEXICO
+123	verde	green	1425	GREEN	
+124	rojo	red	156	RED	
+125	negro	black	163	BLACK	
+126	borrego, oveja	sheep	1331	SHEEP	
+127	mono, chango	monkey	1350	MONKEY	
+128	mismo	self	1993	SELF	
+129	existir, hay	exist			EXISTIR
+130	solamente	only	1580	ONLY	
+131	grueso	thick	1244	THICK	
+132	agua	water	948	WATER	
+133	tiempo pasado, tiempo anterior	past time, anterior time			TIEMPO PASADO
+134	milpa	cornfield	449	CORN FIELD	
+135	sombrero	hat	771	HAT	
+136	salamandra	salamander			SALAMANDRA
+137	nuevo	new	1231	NEW	
+138	recoger	gather, collect	7	GATHER	
+139	componer	fix, repair	2243	REPAIR	
+140	atole	atole			ATOLE
+141	llamar	NA	1084	CALL	
+142	seco	dry	1398	DRY	
+143	secarse	dry	1786	DRY UP	
+144	pesadilla	nightmare			PESADILLA
+145	manteca, grasa	fat, grease	1282	FAT (FROM ANIMALS)	
+146	viento, aire, voz	wind, air, voice			AIRE
+147	despacio	slowly	701	SLOW	
+148	reconocer	recognize	2022	ADMIT	
+149	rebajar	lower			RECONOCER
+150	escaparse	escape	1615	ESCAPE	
+151	contar, narrar	tell	1711	TELL	
+152	remendar	mend	2243	REPAIR	
+153	casarse	get married	203	MARRY	
+154	hallar, encontrar	find, meet			ENCONTRAR
+155	borrar	erase			BORRAR
+156	repagar, liquidar	repay, pay back, refund, liquidate			REPAGAR
+157	llegar	arrive, reach	1387	ARRIVE	
+158	ejote	string bean			EJOTE
+159	plátano	banana	868	BANANA	
+160	cambiar	change	1264	CHANGE	
+161	jitomate, tomate	tomato	986	TOMATO	
+162	desatar, soltar	untie, unleash, let go	352	UNTIE	
+163	espinilla	pimple	186	SHIN	
+164	leer	read	724	READ	
+165	arder, escocer, picar	sting			ARDER
+166	cal	lime	2540	LIME (MATERIAL)	
+167	limpiar	clean	2235	CLEAN (SOMETHING)	
+168	no querer	be unwilling			NO QUERER
+169	fruta cítrica	citrus fruit			FRUTA CITRICA
+170	abrir	open	1156	OPEN	
+171	lavar	wash (cloth)	1453	WASH	
+172	tupido, denso	dense			DENSO
+173	cigarro	cigarette	969	CIGARETTE	
+174	red	net	2963	NET	
+175	regresar	return	581	COME BACK	
+176	hasta	until	2753	UNTIL	
+177	vivir, sentarse	live, sit			VIVIR O SENTARSE
+178	y	and	1577	AND	
+179	desnudo	naked	590	NAKED	
+180	carne	meat, flesh	2615	FLESH OR MEAT	
+181	arado	plow	2154	PLOUGH	
+182	sueño	dream	2374	DREAM	
+183	tijeras	scissors	356	SHEARS	
+184	mecate, cuerda	rope, cord	1218	ROPE	
+185	nosotros	we in	1212	WE	
+186	bebé, nene	baby	1289	BABY	
+187	ver, saber	see, know			VER OR SABER
+188	con	with	1340	WITH	
+189	nube	cloud	1489	CLOUD	
+190	cuando	when	1238	WHEN	
+191	y entonces	and then			Y ENTONCES
+192	zapato	shoe	1381	SHOE	
+193	grave	grave (sound)			GRAVE
+194	sudor	sweat	125	SUBSTANCE	
+195	feliz, contento, alegre	happy, glad, cheerful	1495	HAPPY	
+196	aquí	here	136	HERE	
+197	este	this	1214	THIS	
+198	éste	this	1214	THIS	
+199	caer	fall	1280	FALL	
+200	madre, mamá	mother, mama	1216	MOTHER	
+201	recto, derecho	straight	1019	RIGHT	
+202	esposa, esposo	spouse, consort	2514	SPOUSE	
+203	tener, llevar	have, take, carry			TENER O LLEVAR
+204	pobre	poor	1674	POOR	
+205	mucho	many, much	1198	MANY	
+206	seguir	follow	1085	FOLLOW	
+207	cansado	tired	1757	TIRED	
+208	diferente, aparte	different, apart			DIFERENTE O APARTE
+209	chayote	chayote			CHAYOTE
+210	lleno	full, filled	1429	FULL	
+211	pegajoso	sticky, gluey	3703	STICKY	
+212	cerca de	near	1942	NEAR	
+213	nixtamal	nixtamal			NIXTAMAL
+214	rasposo, áspero	rough, coarse	1923	ROUGH	
+215	vivo	alive	1422	BE ALIVE	
+216	mirar	look	1819	LOOK	
+217	olvidar	forget	1523	FORGET	
+218	piel, cuero	skin, hide, leather			PIEL O CUERO
+219	todo	all	98	ALL	
+220	ella	she	1834	SHE	
+221	frio	cold	1287	COLD	
+222	no estar	not be present			NO ESTAR
+223	grano	pimple	1809	PIMPLE	
+224	fuerte	strong	3188	MIGHTY OR POWERFUL OR STRONG	
+225	juntos, juntamente	together	2482	TOGETHER	
+226	regresarse	return	581	COME BACK	
+227	tamal	tamal			TAMAL
+228	liso	smooth	1234	SMOOTH	
+229	desgranar	shell, shuck			DESGRANAR
+230	desplumar	pluck			DESPLUMAR
+231	cosa	thing	738	THING	
+232	ocote	ocote			OCOTE
+233	pan	bread	1368	BREAD	
+234	mano	hand	1277	HAND	
+235	hongo	mushroom	641	MUSHROOM	
+236	bailar	dance	1879	DANCE	
+237	rápido	rapid	3365	QUICKLY	
+238	firme, apretado	firm, tight			RAPIDO
+239	comprar	buy, purchase	1869	BUY	
+240	ramita	branch	1531	BRANCH	
+241	astilla	splinter, chip			ASTILLA
+242	rama	branch	1531	BRANCH	
+243	chirimoya	custard apple			CHIRIMOYA
+244	coa	hoe	284	HOE	
+245	cobija	blanket	806	BLANKET	
+246	orinar	urinate	592	PISS	
+247	tirar	throw	1456	THROW	
+248	carrizo	reed	659	REED	
+249	disparar	shoot, fire	1172	SHOOT	
+250	cara	face	1560	FACE	
+251	sobre, encima de	ontop of			SOBRE
+252	barriga	belly	1251	BELLY	
+253	debajo de, dentro de	in, within, under			DEBAJO
+254	dar	give	1447	GIVE	
+255	gemir	groan, moan	716	GROAN	
+256	obtener, conseguir	get, obtain	694	GET	
+257	cocer	cook	1100	COOK (SOMETHING)	
+258	bandeja	tray	2629	TRAY	
+259	semilla de calabaza	seed of calabash			SEMILLA DE CALABAZA
+260	mano del metate	handle of grindstone			MANO DEL METATE
+261	olla	pot	1462	POT	
+262	tabla	board	1227	BOARD	
+263	durazno	peach	2043	PEACH	
+264	perezoso	lazy	1564	LAZY	
+265	pelota, bola	ball	1845	BALL	
+266	oscuro	dark	706	DARK	
+267	aguacate	avocado	3725	AVOCADO	
+268	frijol 	bean	832	BEAN	
+269	vara	pole, stick	1295	STICK	
+270	carbón	charcoal	1188	CHARCOAL	
+271	nudo	knot of a rope	760	KNOT	
+272	pero	but			PERO
+273	problema, cosa difícil, accidente	difficulty, accident			PROBLEMA
+274	bueno	good	1035	GOOD	
+275	dinero	money	1559	MONEY	
+276	no	not (in potential aspect)	1240	NOT	
+277	ropa, trapo, tela	clothing, cloth, fabric			ROPA O TELA
+278	anillo	ring	1374	RING	
+279	puntiagudo, filoso	sharp	1396	SHARP	
+280	lodo	mud	640	MUD	
+281	chicle	chewing gum			CHICLE
+282	duro	hard	1884	HARD	
+283	delicado	delicate			DELICADO
+284	costra	crust			COSTRA
+285	copal, resina	copal, resin			COPAL
+286	panza, estómago	belly, stomach	819	STOMACH	
+287	rincón	corner	192	CORNER	
+288	falda	skirt	1600	SKIRT	
+289	macho	male	2263	MALE (OF ANIMAL)	
+290	vosotros, ustedes	you pl	1213	YOU	
+291	él	he	1211	HE	
+292	tú	you sg	1215	THOU	
+293	sordo	deaf	996	DEAF	
+294	tigre	tiger	846	TIGER	
+295	favor	favor			FAVOR
+296	muñeca	doll	1659	DOLL	
+297	trabajo	work	984	WORK (LABOUR)	
+298	cuervo	crow	913	CROW	
+299	marrano, puerco, cerdo	pig	1337	PIG	
+300	comprar	buy, purchase	1869	BUY	
+301	alto	tall	1265	HIGH	
+302	abejorro	bumblebee	665	BEE	
+303	águila	eagle	1905	EAGLE	
+304	pájaro	bird	937	BIRD	
+305	arriba	up, upward	1591	UP	
+306	zopilote	zapilote			ZOPILOTE
+307	grande	big, large	1202	BIG	
+308	abuelo	grandfather	1383	GRANDFATHER	
+309	catorce	fourteen	2451	FOURTEEN	
+310	alacrán, escorpión	scorpion	1538	SCORPION	
+311	celoso	jealous	2821	JEALOUS	
+312	hombro	shoulder	1482	SHOULDER	
+313	gato	cat	1208	CAT	
+314	gusano	worm	1219	WORM	
+315	picoso	spicy, hot	544	SPICY	
+316	red	net	2963	NET	
+317	zanja	ditch, trench	2002	DITCH	
+318	quince	fifteen	1709	FIFTEEN	
+319	lagartija	lizard	632	LIZARD	
+320	cucaracha	cockroach	1575	COCKROACH	
+321	chapulín	grasshopper	607	GRASSHOPPER	
+322	rana	frog	503	FROG	
+323	renacuajo	tadpole			RENACUAJO
+324	costilla	rib	801	RIB	
+325	espalda	back	1291	BACK	
+326	encima de	on top of, over			ENCIMA
+327	intestino	intestine	1991	INTESTINES	
+328	pantalones	trousers	809	TROUSERS	
+329	cachete	cheek	1730	CHEEK	
+330	hambre	hunger	1864	HUNGER	
+331	abundar	abound			ABUNDAR
+332	lado	side	682	SIDE	
+333	junto a, al lado de	next to, beside	1816	BESIDE	
+334	trampa	trap	1075	TRAP (PITFALL)	
+335	tortuga	turtle	112	TURTLE	
+336	sobrino	nephew	1063	NEPHEW	
+337	animal	animal	619	ANIMAL	
+338	hormiga	ant	587	ANT	
+339	culebra	snake	730	SNAKE	
+340	pescado, pez	fish	227	FISH	
+341	abuela	grandmother	1496	GRANDMOTHER	
+342	garza	heron	758	HERON	
+343	venado, ciervo	deer	1936	DEER	
+344	abeja	bee	665	BEE	
+345	mosca	fly	1504	FLY (INSECT)	
+346	rata, ratón	rat, mouse	2139	MUROID (MOUSE OR RAT)	
+347	llano	plain	652	PLAIN	
+348	estar encima	be on top			ESTAR ENCIMA
+349	decir	say	1458	SAY	
+350	loma	hill	614	HILL	
+351	nariz	nose	1221	NOSE	
+352	pie	foot	1301	FOOT	
+353	codo	elbow	981	ELBOW	
+354	bajar	lower	2014	GO DOWN (DESCEND)	
+355	entre, en medio de	between, among, in the middle of			ENTRE
+356	pulmón	lung	688	LUNG	
+357	alimentar	feed, nourish	739	FEED	
+358	agarrar, coger	grab, grasp, catch	855	SEIZE	
+359	mitad	half, middle	816	HALF	
+360	gallo	rooster	1511	ROOSTER	
+361	seña	sign, signal	1720	SIGN	
+362	repartir	allocate			REPARTIR
+363	hija, hijo	child	1801	CHILD (DESCENDANT)	
+364	tío	uncle	1327	UNCLE	
+365	espina	thorn	124	THORN	
+366	mazorca	ear of corn			MAZORCA
+367	meter	put in	998	PUT	
+368	matar, asesinar	kill, murder			MATAR
+369	calentar	heat, warm	1341	HEAT UP	
+370	apagar	turn off, shut off	127	EXTINGUISH	
+371	nopal	nopal (a kind of cactus)			APAGAR
+372	hermano	brother	1262	BROTHER	
+373	pellizcar	pinch	378	PINCH	
+374	maíz	corn	506	MAIZE	
+375	ocho	eight	1705	EIGHT	
+376	metate	grindstone	2459	GRINDSTONE	
+377	colgar	hang, put up	357	HANG UP	
+378	hacer beber	make somebody drink			HACER BEBER
+379	leche	milk	635	MILK	
+380	jugar	play	1413	PLAY	
+381	pegar	glue, stick			PEGAR
+382	mojar	wet, moisten	28	MOISTEN	
+383	nombrar, dar nombre	name	180	CALL BY NAME	
+384	casa	house	1252	HOUSE	
+385	bañar	bathe	138	BATHE	
+386	hacer caminar	make somebody walk			HACER CAMINAR
+387	criar, adoptar	raise, rear, breed, adopt			CRIAR
+388	sobrina	niece	1642	NIECE	
+389	hacer pasar	pass			HACER PASAR
+390	hacer reír	make somebody laugh			HACER REIR
+391	surco, linea	groove, furrow, rut, line	1794	FURROW	
+392	dejar, abandonar	leave, abandon	1097	ABANDON	
+393	cola	tail	1220	TAIL	
+394	hacer completar	complete, finish	1766	FINISH	
+395	espantar, sorprender	scare, frighten, surprise			ESPANTAR O SORPRENDER
+396	ciego	blind	1653	BLIND	
+397	boca, orilla	mouth, edge			BOCA O ORILLA
+398	tía	aunt	1272	AUNT	
+399	caro	expensive	1426	EXPENSIVE	
+400	vender	sell	1571	SELL	
+401	sangre	blood	946	BLOOD	
+402	elote	elote			ELOTE
+403	duro	hard meat	1884	HARD	
+404	dulce	sweet	717	SWEET	
+405	comer	eat	1336	EAT	
+406	lamer	lick	319	LICK	
+407	mariposa, dibujo	butterfly, drawing	1791	BUTTERFLY	
+408	tragar	swallow	897	SWALLOW	
+409	mujer	woman	962	WOMAN	
+410	de veras	truly, really			DE VERAS
+411	piña	pineapple	2440	PINEAPPLE	
+412	colibrí, chupamirto	hummingbird	1589	HUMMINGBIRD	
+413	paloma	dove	1853	DOVE	
+414	zorrillo	skunk			ZORRILLO
+415	liendre	nit	267	NIT	
+416	mosco	gnat			MOSCO
+417	trece	thirteen	1708	THIRTEEN	
+418	búho	owl	735	OWL	
+419	coyote	coyote	912	COYOTE	
+420	pie	foot	1301	FOOT	
+421	cuello, pescuezo	neck	1333	NECK	
+422	cangrejo	crab	2348	CRAB	
+423	sabroso, delicioso	tasty, delicious	1813	TASTY	
+424	siete	seven	1704	SEVEN	
+425	cerca	fence	1942	NEAR	
+426	comal	comal			COMAL
+427	diez	ten	1515	TEN	
+428	malo	bad	1292	BAD	
+429	enfermedad	sickness, illness	1847	SICK	
+430	excremento	excrement	675	FEACES (EXCREMENT)	
+431	perro	dog	2009	DOG	
+432	doce	twelve	1707	TWELVE	
+433	pueblo	town, village	930	VILLAGE	
+434	lechuza	barn owl	735	OWL	
+435	zorro	fox	1312	FOX	
+436	gallina	hen	1514	HEN	
+437	piojo	louse	1392	LOUSE	
+438	tener miedo, espantarse	be scared, be frightened	3033	SCARED	
+439	tortilla	tortilla			TORTILLA
+440	canción, música	song, music			CANCION O MUSICA
+441	camino	road	2252	PATH	
+442	pasto	pasture	606	GRASS	
+443	tizne	soot	830	SOOT	
+444	ocupado, angosto, reducido	busy, narrow, reduced			OCUPADO O ANGOSTO
+445	fruta, huevo	fruit, egg			FRUTA O HUEVO
+446	grillo	cricket	2354	CRICKET	
+447	listo, preparado	ready, prepared	790	READY	
+448	leña, árbol, palo	tree, pole			ARBOL O MADERA O PALO
+449	caja, cajón	box	1465	BOX	
+450	correr	run	1519	RUN	
+451	oír, entender	hear, understand			OIR O ENTENDER
+452	pelear	fight	1423	FIGHT	
+453	sembrar	sow	748	SOW SEEDS	
+454	poner encima	place on top			PONER ENCIMA
+455	chupar	suck	1421	SUCK	
+456	despedazar, gastar	tear apart, cut to pieces, use up, consume			DESPEDAZAR
+457	mamar	suckle			MAMAR
+458	llegar	arrive	1387	ARRIVE	
+459	vomitar	vomit	1278	VOMIT	
+460	poner	put, place	998	PUT	
+461	olfatear	sniff	1586	SMELL (PERCEIVE)	
+462	cinco	five	493	FIVE	
+463	lengua	tongue	1205	TONGUE	
+464	mes	month	1370	MONTH	
+465	luna	moon	1313	MOON	
+466	ahora	now	1376	NOW	
+467	ceniza	ash	646	ASH	
+468	flor	flower	239	FLOWER	
+469	Oaxaca	Oaxaca			OAXACA
+470	cama	bed	1663	BED	
+471	zarzamora	blackberry			ZARZAMORA
+472	espuma	foam	1768	FOAM	
+473	estrella	star	1430	STAR	
+474	ropa, trapo, tela	clothing, cloth, fabric			ROPA O TELA
+475	polvo	powder, dust	2	DUST	
+476	jícara	gourd	411	GOURD	
+477	raíz	root	670	ROOT	
+478	cepillo, escobilla	brush	1821	BRUSH	
+479	chile	chili	919	CHILI PEPPER	
+480	fuego, luz	fire, light			FUEGO O LUZ
+481	caliente	hot	2272	HOT OR WARM	
+482	dios	god	1944	GOD	
+483	instrumento musical	musical instrument			INSTRUMENTO MUSICAL
+484	plaza, mercado	plaza, market	633	MARKET	
+485	tierno	tender	1207	YOUNG	
+486	abono	fertilizer			ABONO
+487	donde	where	1237	WHERE	
+488	soltero	single, unmarried			SOLTERO
+489	cicatriz	scar	497	SCAR	
+490	sal	salt	1274	SALT	
+491	olote	olote			OLOTE
+492	papel	paper	648	PAPER	
+493	cera	wax	1931	BEESWAX	
+494	diente	tooth	1380	TOOTH	
+495	piedra	stone	857	STONE	
+496	ligero	light (weight)	1052	LIGHT (WEIGHT)	
+497	rápido	quickly	1631	FAST	
+498	tenate	basket	1539	BASKET	
+499	caña	cane	146	SUGAR CANE	
+500	año	year	1226	YEAR	
+501	tierra	earth, ground	1228	EARTH (SOIL)	
+502	bravo, feroz	fierce, ferocious			BRAVO
+503	escondido	hidden			ESCONDIDO
+504	maguey	maguey			MAGUEY
+505	petate	mat	195	MAT	
+506	roca, peña	rock	2125	STONE OR ROCK	
+507	camote	camote	159	SWEET POTATO	
+508	puente	bridge	1011	BRIDGE	
+509	jabón	soap	788	SOAP	
+510	agrio	sour	1906	SOUR	
+511	crudo	raw, uncooked	1959	RAW	
+512	hilo	thread	1161	THREAD	
+513	nieve, hielo	snow, ice	3322	SNOW OR ICE	
+514	hoyo	hole	1667	HOLE	
+515	yo	I	1209	I	
+516	palma	palm	1811	PALM TREE	
+517	vez	time, occasion			VEZ
+518	nueve	nine	1483	NINE	
+519	venir	come	1446	COME	
+520	uno	one	1493	ONE	
+521	maíz	corn	506	MAIZE	
+522	hacer, construir, causar	do, make, construct, cause			HACER O CAUSAR
+523	húmedo	humid	143	HUMID	

@@ -1,341 +1,341 @@
-NUMBER	ENGLISH	SPANISH	CONCEPTICON_ID	CONCEPTICON_GLOSS
-1	corn	maíz en grano	506	MAIZE
-2	cornfield	milpa	449	CORN FIELD
-3	sun	sol	1343	SUN
-4	moon	luna	1313	MOON
-5	water	agua	948	WATER
-6	bean(s)	frijol(es)	832	BEAN
-7	fire	lumbre, fuego	221	FIRE
-8	tortilla	tortilla		
-9	wood	madera	1803	WOOD
-10	Mixtec	mixteco		
-11	ant	hormiga	587	ANT
-12	bird	pájaro	937	BIRD
-13	egg	blanquillo, huevo	744	EGG
-14	fish	pez, pescado	227	FISH
-15	leaf	hoja de árbol	628	LEAF
-16	dirt	tierra	25	DIRT
-17	lightning	rayo, relámpago	1654	LIGHTNING
-18	word	palabra	1599	WORD
-19	century plant	maguey		
-20	night	noche	1233	NIGHT
-21	ash	ceniza	646	ASH
-22	chili pepper	chile	919	CHILI PEPPER
-23	rain	lluvia	658	RAIN (PRECIPITATION)
-24	salt	sal	1274	SALT
-25	house	casa	1252	HOUSE
-26	squash	calabaza		
-27	louse	piojo	1392	LOUSE
-28	rock	piedra	857	STONE
-29	snake	culebra, serpiente	730	SNAKE
-30	smoke	humo	778	SMOKE (EXHAUST)
-31	tomato	tomate	986	TOMATO
-32	seed	semilla	714	SEED
-33	meat, flesh	carne	2615	FLESH OR MEAT
-34	mountain	cerro	639	MOUNTAIN
-35	star	estrella	1430	STAR
-36	root	raíz	670	ROOT
-37	quern	metate		
-38	sand	arena	671	SAND
-39	flower	flor	239	FLOWER
-40	village	pueblo	930	VILLAGE
-41	air	aire	27	AIR
-42	person	gente	683	PERSON
-43	griddle	comal	31	PAN
-44	rope	mecate	1218	ROPE
-45	frog	rana	503	FROG
-46	jaguar, tiger	tigre		
-47	pot	olla	1462	POT
-48	vine	bejuco, liana	343	VINE
-49	thorn	espina	124	THORN
-50	charcoal	carbón	1188	CHARCOAL
-51	bed	cama, lecho	1663	BED
-52	bag	bolsa	2468	BAG
-53	mouse	ratón	2139	MUROID (MOUSE OR RAT)
-54	spider	araña	843	SPIDER
-55	day, date	día, fecha	1260	DAY (24 HOURS)
-56	(quick)lime	cal	2540	LIME (MATERIAL)
-57	fresh ear of corn 	elote		
-58	mirror	espejo	1171	MIRROR
-59	dog	perro	2009	DOG
-60	toad	sapo	894	TOAD
-61	scorpion	alacrán	1538	SCORPION
-62	sky	cielo	1732	SKY
-63	festival	fiesta	131	FESTIVAL
-64	sleeping mat	petate	195	MAT
-65	path	camino	2252	PATH
-66	animal	animal	619	ANIMAL
-67	vulture	zopilote	1185	VULTURE
-68	cloud	nube	1489	CLOUD
-69	corncob	olote		
-70	bat	murciélago	1793	BAT
-71	corn dough	masa		
-72	bee	abeja	665	BEE
-73	deer	venado	1936	DEER
-74	grasshopper	chapulín	607	GRASSHOPPER
-75	earthquake	temblor	6	EARTHQUAKE
-76	cayman	lagarto	2438	CAIMAN
-77	river	río	3311	FLOWING BODY OF WATER
-78	(o)possum	tlacuache	470	POSSUM
-79	sugar cane	caña	146	SUGAR CANE
-80	broom	escoba	245	BROOM
-81	avocado	aguacate	3725	AVOCADO
-82	comb	peine	1475	COMB
-83	net, mesh	rede,red	2963	NET
-84	flour	harina	1594	FLOUR
-85	pimple, rash	grano	1809	PIMPLE
-86	grass	zacate, pasto	606	GRASS
-87	metal	fierro	2244	METAL
-88	paper	papel	648	PAPER
-89	honey	miel	942	HONEY
-90	maguey fiber	ixtle, fibra de maguey		
-91	tuber, sweet potato	camote	159	SWEET POTATO
-92	armadillo	armadillo	1885	ARMADILLO
-93	pus	pus, materia	1808	PUS
-94	crab	cangrejo	2348	CRAB
-95	wax	cera	1931	BEESWAX
-96	fox	zorro, zorra	1312	FOX
-97	money	dinero	1559	MONEY
-98	light	luz	630	LIGHT (RADIATION)
-99	cacao	cacao	2442	COCOA BEAN
-100	incense	copal	3356	INCENSE
-101	feather	pluma	1201	FEATHER
-102	tree	palo, árbol	906	TREE
-103	fat, lard	grasa, manteca	1282	FAT (FROM ANIMALS)
-104	fault, blame	culpa		
-105	mud	lodo	640	MUD
-106	thread	hilo	1161	THREAD
-107	foam	espuma	1768	FOAM
-108	gourd	jícara	411	GOURD
-109	work	trabajo	1086	WORK (ACTIVITY)
-110	pants	pantalón	809	TROUSERS
-111	sandal	huarache	1381	SHOE
-112	raccoon	mapache	828	RACCOON
-113	cotton	algodón	1850	COTTON
-114	woman	mujer	962	WOMAN
-115	man	hombre	1554	MAN
-116	oven	horno	1143	OVEN
-117	year	año	1226	YEAR
-118	demon, devil	demonio	1973	DEMON
-119	green bean	ejote		
-120	banana	plátano	868	BANANA
-121	lime	limón	982	LIME (FRUIT)
-122	mezcal, liquor	mezcal, aguardiente	842	LIQUOR
-123	pickly pear cactus	nopal		
-124	dust, powder	polvo	2	DUST
-125	swelling	hinchazón	1903	SWELLING
-126	plain, flatland	llanura	652	PLAIN
-127	cockroach	cucaracha	1575	COCKROACH
-128	custard apple	mamey		
-129	chayote squash	chayote		
-130	tomorrow	mañana	1329	TOMORROW
-131	day after tomorrow	pasado mañana	1179	DAY AFTER TOMORROW
-132	yesterday	ayer	1174	YESTERDAY
-133	day before yesterday	antier, ante ayer	1180	DAY BEFORE YESTERDAY
-134	today	hoy	1283	TODAY
-135	dew	rocío,sereno	1977	DEW
-136	herbaceous plant	hierba		
-137	squirrel	ardilla	1628	SQUIRREL
-138	cigarette	cigarro	969	CIGARETTE
-139	reed	carrizo	659	REED
-140	shawl	rebozo	2771	SHAWL
-141	turtle	tortuga	112	TURTLE
-142	flea	pulga	232	FLEA
-143	tortilla basket	tenate		
-144	needle	aguja	1382	NEEDLE (FOR SEWING)
-145	corn gruel	atole		
-146	weapon	arma	951	WEAPONS
-147	basket	canasta	1539	BASKET
-148	hammock	hamaca	2019	HAMMOCK
-149	thief	ladrón	1160	THIEF
-150	mushroom	hongo	641	MUSHROOM
-151	hot	está caliente	1286	HOT
-152	cold	frío	1287	COLD
-153	small	pequeño, chico	1246	SMALL
-154	big	grande	1202	BIG
-155	good	bueno	1035	GOOD
-156	bad	malo	1292	BAD
-157	black	negro	163	BLACK
-158	white	blanco	1335	WHITE
-159	red	rojo	156	RED
-160	green	verde	1425	GREEN
-161	yellow	amarillo	1424	YELLOW
-162	old, elder	anciano	2112	OLD (AGED)
-163	young	joven	1207	YOUNG
-164	wide	ancho	1243	WIDE
-165	thin	delgado	2308	THIN
-166	sweet	dulce	717	SWEET
-167	bitter	amargo	887	BITTER
-168	salty	salado	1091	SALTY
-169	sour	agrio, delimón	1906	SOUR
-170	long	largo	1203	LONG
-171	short	corto	1645	SHORT
-172	tall	alto	1265	HIGH
-173	dark	oscuro	706	DARK
-174	clear	claro	3710	CLEAR (TO SEE)
-175	sick	enfermo	1847	SICK
-176	one	uno	1493	ONE
-177	two	dos	1498	TWO
-178	three	tres	492	THREE
-179	four	cuatro	1500	FOUR
-180	five	cinco	493	FIVE
-181	six	seis	1703	SIX
-182	seven	siete	1704	SEVEN
-183	eight	ocho	1705	EIGHT
-184	nine	nueve	1483	NINE
-185	ten	diez	1515	TEN
-186	eleven	once	1706	ELEVEN
-187	twelve	doce	1707	TWELVE
-188	thirteen	trece	1708	THIRTEEN
-189	fourteen	catorce	2451	FOURTEEN
-190	fifteen	quince	1709	FIFTEEN
-191	sixteen	dieciséis	2454	SIXTEEN
-192	seventeen	diecisiete	2453	SEVENTEEN
-193	eighteen	dieciocho	1713	EIGHTEEN
-194	nineteen	diecinueve	1714	NINETEEN
-195	twenty	veinte	1710	TWENTY
-196	forty	cuarenta	1716	FORTY
-197	sixty	sesenta	1718	SIXTY
-198	eighty	ochenta	1722	EIGHTY
-199	four hundred	cuatrocientos	3515	FOUR HUNDRED
-200	eight thousand	ocho mil		
-201	arm	brazo	1673	ARM
-202	hand	mano	1277	HAND
-203	back	espalda	1291	BACK
-204	eye	ojo	1248	EYE
-205	ear	oreja	1247	EAR
-206	mouth	boca	674	MOUTH
-207	nose	nariz	1221	NOSE
-208	hair	cabello	2648	HAIR (HEAD)
-209	blood	sangre	946	BLOOD
-210	bone	hueso	1394	BONE
-211	chest	pecho	1592	CHEST
-212	skin	piel	763	SKIN
-213	navel	ombligo	1838	NAVEL
-214	neck	cuello	1333	NECK
-215	face	cara	1560	FACE
-216	foot	pie	1301	FOOT
-217	leg	pierna	1297	LEG
-218	tongue	lengua	1205	TONGUE
-219	tooth	diente	1380	TOOTH
-220	liver	hígado	1224	LIVER
-221	finger	dedo	1303	FINGER
-222	belly	panza	1251	BELLY
-223	heart, being	corazón	1223	HEART
-224	knee	rodilla	1371	KNEE
-225	elbow	codo	981	ELBOW
-226	butt	sentaderas	834	BUTTOCKS
-227	name	nombre	1405	NAME
-228	horn	cuerno	1393	HORN (ANATOMY)
-229	wing	ala	1257	WING
-230	tail	cola	1220	TAIL
-231	clothes	ropa	1895	CLOTHES
-232	hat	sombrero	771	HAT
-233	mother	madre	1216	MOTHER
-234	father	padre	1217	FATHER
-235	brother of male	hermano de hombre	559	BROTHER (OF MAN)
-236	sister of male	hermana de hombre		
-237	brother of female	hermano de mujer		
-238	sister of female	hermana de mujer		
-239	grandmother	abuela	1496	GRANDMOTHER
-240	grandfather	abuelo	1383	GRANDFATHER
-241	son	hijo	1620	SON
-242	daughter	hija	1357	DAUGHTER
-243	uncle	tío	1327	UNCLE
-244	aunt	tía	1272	AUNT
-245	grandson	nieto	1618	GRANDSON
-246	granddaughter	nieta	1619	GRANDDAUGHTER
-247	female cousin	prima		
-248	male cousin	primo		
-249	co-father	compadre		
-250	co-mother	comadre		
-251	flat	está parejo	1633	FLAT
-252	strong	fuerte	785	STRONG
-253	weak	débil	1601	WEAK
-254	tasty	sabroso	1813	TASTY
-255	heavy	pesado	1210	HEAVY
-256	full	lleno	1429	FULL
-257	empty	vacío	1624	EMPTY
-258	clean	limpio	704	CLEAN
-259	dirty	cio	1230	DIRTY
-260	poor	pobre	1674	POOR
-261	rich	rico	712	RICH
-262	closed	cerrado	589	CLOSED
-263	open	abierto	3235	OPEN (STATE)
-264	dry	seco	1398	DRY
-265	wet	mojado	1726	WET
-266	raw	crudo	1959	RAW
-267	toasted	tostado		
-268	soft	blando	1856	SOFT
-269	hard	duro	1884	HARD
-270	new	nuevo	1231	NEW
-271	old, used (of things)	viejo, vieja (de cosa)	2113	OLD (USED)
-272	alive	vivo	1422	BE ALIVE
-273	sharp	filoso	1396	SHARP
-274	rough	rasposo	1923	ROUGH
-275	rotten	podrido	1728	ROTTEN
-276	crooked	chueco	297	CROOKED
-277	lazy	flojo	1564	LAZY
-278	ugly	feo	1548	UGLY
-279	pretty	bonito	1427	BEAUTIFUL
-280	close	está cerca	3735	NEAR (IN SPACE)
-281	far	está lejos	1406	FAR
-282	round	redondo	1395	ROUND
-283	below	abajo	1485	BELOW OR UNDER
-284	above	arriba	1741	ABOVE
-285	slowly	despacio	2165	SLOWLY
-286	quickly	rápido	3365	QUICKLY
-287	early	temprano	672	EARLY
-288	trash	basura	909	GARBAGE
-289	woven blouse, dress	huipil		
-290	hawk	gavilán	307	HAWK
-291	cat	gato	1208	CAT
-292	smell	olor	1586	SMELL (PERCEIVE)
-293	urine	orina	1142	URINE
-294	wall	pared	933	WALL (OF HOUSE)
-295	cleared field	rastrojo		
-296	planting row	surco	1794	FURROW
-297	ditch	zanja	2002	DITCH
-298	maize spike 	espiga		
-299	owner, boss	dueño	1036	OWNER
-300	illness	enfermedad	1986	DISEASE
-301	priest	secerdote	852	PRIEST
-302	glue	pegamento	1069	GLUE
-303	housepost	horcón	281	POST
-304	hole	agujero	1667	HOLE
-305	rainbow	arcoiris	1733	RAINBOW
-306	stool, seat	banquito	2058	STOOL
-307	half	mitad	816	HALF
-308	handspan	cuarta de mano		
-309	husband 	marido	1200	HUSBAND
-310	wife 	esposa	1199	WIFE
-311	fingernail 	uña	1258	FINGERNAIL
-312	tripe	tripas	1991	INTESTINES
-313	eyebrow 	ceja	1173	EYEBROW
-314	tendon	tendón	1137	TENDON
-315	armpit	sobaco	1886	ARMPIT
-316	wise	sabio	698	WISE
-317	mosquito	zancudo	1509	MOSQUITO
-318	smooth	liso	1234	SMOOTH
-319	trunk, box	baúl, cajón	3150	BOX OR CHEST
-320	lizard	lagartija	632	LIZARD
-321	rabbit	conejo	1136	RABBIT
-322	eagle	águila	1905	EAGLE
-323	flint	pedernal		
-324	monkey	chango, mono	1350	MONKEY
-325	arrow	flecha	977	ARROW
-326	shadow	sombra	1388	SHADE
-327	dream	sueño	2374	DREAM
-328	leafcutter ant	arriera		
-329	queen leafcutter ant	chicatana		
-330	goosefoot	epazote		
-331	coati	tejón	2389	COATI (COATIMUNDI)
-332	skunk	zorrillo		
-333	rooster	gallo	1511	ROOSTER
-334	pig	marrano	1337	PIG
-335	horse	caballo	615	HORSE
-336	fussy	delicado		
-337	shiny	brillante		
-338	happy	alegre	1495	HAPPY
-339	nut, pecan	nuez	191	NUT
-340	pine torch	ocote		
+NUMBER	ENGLISH	SPANISH	CONCEPTICON_ID	CONCEPTICON_GLOSS	ADD_CONCEPT
+1	corn	maíz en grano	506	MAIZE	
+2	cornfield	milpa	449	CORN FIELD	
+3	sun	sol	1343	SUN	
+4	moon	luna	1313	MOON	
+5	water	agua	948	WATER	
+6	bean(s)	frijol(es)	832	BEAN	
+7	fire	lumbre, fuego	221	FIRE	
+8	tortilla	tortilla			TORTILLA
+9	wood	madera	1803	WOOD	
+10	Mixtec	mixteco			MIXTECO
+11	ant	hormiga	587	ANT	
+12	bird	pájaro	937	BIRD	
+13	egg	blanquillo, huevo	744	EGG	
+14	fish	pez, pescado	227	FISH	
+15	leaf	hoja de árbol	628	LEAF	
+16	dirt	tierra	25	DIRT	
+17	lightning	rayo, relámpago	1654	LIGHTNING	
+18	word	palabra	1599	WORD	
+19	century plant	maguey			MAGUEY
+20	night	noche	1233	NIGHT	
+21	ash	ceniza	646	ASH	
+22	chili pepper	chile	919	CHILI PEPPER	
+23	rain	lluvia	658	RAIN (PRECIPITATION)	
+24	salt	sal	1274	SALT	
+25	house	casa	1252	HOUSE	
+26	squash	calabaza	864	PUMPKIN	
+27	louse	piojo	1392	LOUSE	
+28	rock	piedra	857	STONE	
+29	snake	culebra, serpiente	730	SNAKE	
+30	smoke	humo	778	SMOKE (EXHAUST)	
+31	tomato	tomate	986	TOMATO	
+32	seed	semilla	714	SEED	
+33	meat, flesh	carne	2615	FLESH OR MEAT	
+34	mountain	cerro	639	MOUNTAIN	
+35	star	estrella	1430	STAR	
+36	root	raíz	670	ROOT	
+37	quern	metate			METATE
+38	sand	arena	671	SAND	
+39	flower	flor	239	FLOWER	
+40	village	pueblo	930	VILLAGE	
+41	air	aire	27	AIR	
+42	person	gente	683	PERSON	
+43	griddle	comal	31	PAN	
+44	rope	mecate	1218	ROPE	
+45	frog	rana	503	FROG	
+46	jaguar, tiger	tigre			TIGRE O JAGUAR
+47	pot	olla	1462	POT	
+48	vine	bejuco, liana	343	VINE	
+49	thorn	espina	124	THORN	
+50	charcoal	carbón	1188	CHARCOAL	
+51	bed	cama, lecho	1663	BED	
+52	bag	bolsa	2468	BAG	
+53	mouse	ratón	2139	MUROID (MOUSE OR RAT)	
+54	spider	araña	843	SPIDER	
+55	day, date	día, fecha	1260	DAY (24 HOURS)	
+56	(quick)lime	cal	2540	LIME (MATERIAL)	
+57	fresh ear of corn 	elote			ELOTE
+58	mirror	espejo	1171	MIRROR	
+59	dog	perro	2009	DOG	
+60	toad	sapo	894	TOAD	
+61	scorpion	alacrán	1538	SCORPION	
+62	sky	cielo	1732	SKY	
+63	festival	fiesta	131	FESTIVAL	
+64	sleeping mat	petate	195	MAT	
+65	path	camino	2252	PATH	
+66	animal	animal	619	ANIMAL	
+67	vulture	zopilote	1185	VULTURE	
+68	cloud	nube	1489	CLOUD	
+69	corncob	olote			OLOTE
+70	bat	murciélago	1793	BAT	
+71	corn dough	masa			MASA
+72	bee	abeja	665	BEE	
+73	deer	venado	1936	DEER	
+74	grasshopper	chapulín	607	GRASSHOPPER	
+75	earthquake	temblor	6	EARTHQUAKE	
+76	cayman	lagarto	2438	CAIMAN	
+77	river	río	3311	FLOWING BODY OF WATER	
+78	(o)possum	tlacuache	470	POSSUM	
+79	sugar cane	caña	146	SUGAR CANE	
+80	broom	escoba	245	BROOM	
+81	avocado	aguacate	3725	AVOCADO	
+82	comb	peine	1475	COMB	
+83	net, mesh	rede,red	2963	NET	
+84	flour	harina	1594	FLOUR	
+85	pimple, rash	grano	1809	PIMPLE	
+86	grass	zacate, pasto	606	GRASS	
+87	metal	fierro	2244	METAL	
+88	paper	papel	648	PAPER	
+89	honey	miel	942	HONEY	
+90	maguey fiber	ixtle, fibra de maguey			IXTLE
+91	tuber, sweet potato	camote	159	SWEET POTATO	
+92	armadillo	armadillo	1885	ARMADILLO	
+93	pus	pus, materia	1808	PUS	
+94	crab	cangrejo	2348	CRAB	
+95	wax	cera	1931	BEESWAX	
+96	fox	zorro, zorra	1312	FOX	
+97	money	dinero	1559	MONEY	
+98	light	luz	630	LIGHT (RADIATION)	
+99	cacao	cacao	2442	COCOA BEAN	
+100	incense	copal	3356	INCENSE	
+101	feather	pluma	1201	FEATHER	
+102	tree	palo, árbol	906	TREE	
+103	fat, lard	grasa, manteca	1282	FAT (FROM ANIMALS)	
+104	fault, blame	culpa			CULPA
+105	mud	lodo	640	MUD	
+106	thread	hilo	1161	THREAD	
+107	foam	espuma	1768	FOAM	
+108	gourd	jícara	411	GOURD	
+109	work	trabajo	1086	WORK (ACTIVITY)	
+110	pants	pantalón	809	TROUSERS	
+111	sandal	huarache	1381	SHOE	
+112	raccoon	mapache	828	RACCOON	
+113	cotton	algodón	1850	COTTON	
+114	woman	mujer	962	WOMAN	
+115	man	hombre	1554	MAN	
+116	oven	horno	1143	OVEN	
+117	year	año	1226	YEAR	
+118	demon, devil	demonio	1973	DEMON	
+119	green bean	ejote			EJOTE
+120	banana	plátano	868	BANANA	
+121	lime	limón	982	LIME (FRUIT)	
+122	mezcal, liquor	mezcal, aguardiente	842	LIQUOR	
+123	pickly pear cactus	nopal			NOPAL
+124	dust, powder	polvo	2	DUST	
+125	swelling	hinchazón	1903	SWELLING	
+126	plain, flatland	llanura	652	PLAIN	
+127	cockroach	cucaracha	1575	COCKROACH	
+128	custard apple	mamey			MAMEY
+129	chayote squash	chayote			CHAYOTE
+130	tomorrow	mañana	1329	TOMORROW	
+131	day after tomorrow	pasado mañana	1179	DAY AFTER TOMORROW	
+132	yesterday	ayer	1174	YESTERDAY	
+133	day before yesterday	antier, ante ayer	1180	DAY BEFORE YESTERDAY	
+134	today	hoy	1283	TODAY	
+135	dew	rocío,sereno	1977	DEW	
+136	herbaceous plant	hierba			HIERBA
+137	squirrel	ardilla	1628	SQUIRREL	
+138	cigarette	cigarro	969	CIGARETTE	
+139	reed	carrizo	659	REED	
+140	shawl	rebozo	2771	SHAWL	
+141	turtle	tortuga	112	TURTLE	
+142	flea	pulga	232	FLEA	
+143	tortilla basket	tenate			TENATE
+144	needle	aguja	1382	NEEDLE (FOR SEWING)	
+145	corn gruel	atole			ATOLE
+146	weapon	arma	951	WEAPONS	
+147	basket	canasta	1539	BASKET	
+148	hammock	hamaca	2019	HAMMOCK	
+149	thief	ladrón	1160	THIEF	
+150	mushroom	hongo	641	MUSHROOM	
+151	hot	está caliente	1286	HOT	
+152	cold	frío	1287	COLD	
+153	small	pequeño, chico	1246	SMALL	
+154	big	grande	1202	BIG	
+155	good	bueno	1035	GOOD	
+156	bad	malo	1292	BAD	
+157	black	negro	163	BLACK	
+158	white	blanco	1335	WHITE	
+159	red	rojo	156	RED	
+160	green	verde	1425	GREEN	
+161	yellow	amarillo	1424	YELLOW	
+162	old, elder	anciano	2112	OLD (AGED)	
+163	young	joven	1207	YOUNG	
+164	wide	ancho	1243	WIDE	
+165	thin	delgado	2308	THIN	
+166	sweet	dulce	717	SWEET	
+167	bitter	amargo	887	BITTER	
+168	salty	salado	1091	SALTY	
+169	sour	agrio, delimón	1906	SOUR	
+170	long	largo	1203	LONG	
+171	short	corto	1645	SHORT	
+172	tall	alto	1265	HIGH	
+173	dark	oscuro	706	DARK	
+174	clear	claro	3710	CLEAR (TO SEE)	
+175	sick	enfermo	1847	SICK	
+176	one	uno	1493	ONE	
+177	two	dos	1498	TWO	
+178	three	tres	492	THREE	
+179	four	cuatro	1500	FOUR	
+180	five	cinco	493	FIVE	
+181	six	seis	1703	SIX	
+182	seven	siete	1704	SEVEN	
+183	eight	ocho	1705	EIGHT	
+184	nine	nueve	1483	NINE	
+185	ten	diez	1515	TEN	
+186	eleven	once	1706	ELEVEN	
+187	twelve	doce	1707	TWELVE	
+188	thirteen	trece	1708	THIRTEEN	
+189	fourteen	catorce	2451	FOURTEEN	
+190	fifteen	quince	1709	FIFTEEN	
+191	sixteen	dieciséis	2454	SIXTEEN	
+192	seventeen	diecisiete	2453	SEVENTEEN	
+193	eighteen	dieciocho	1713	EIGHTEEN	
+194	nineteen	diecinueve	1714	NINETEEN	
+195	twenty	veinte	1710	TWENTY	
+196	forty	cuarenta	1716	FORTY	
+197	sixty	sesenta	1718	SIXTY	
+198	eighty	ochenta	1722	EIGHTY	
+199	four hundred	cuatrocientos	3515	FOUR HUNDRED	
+200	eight thousand	ocho mil			8000
+201	arm	brazo	1673	ARM	
+202	hand	mano	1277	HAND	
+203	back	espalda	1291	BACK	
+204	eye	ojo	1248	EYE	
+205	ear	oreja	1247	EAR	
+206	mouth	boca	674	MOUTH	
+207	nose	nariz	1221	NOSE	
+208	hair	cabello	2648	HAIR (HEAD)	
+209	blood	sangre	946	BLOOD	
+210	bone	hueso	1394	BONE	
+211	chest	pecho	1592	CHEST	
+212	skin	piel	763	SKIN	
+213	navel	ombligo	1838	NAVEL	
+214	neck	cuello	1333	NECK	
+215	face	cara	1560	FACE	
+216	foot	pie	1301	FOOT	
+217	leg	pierna	1297	LEG	
+218	tongue	lengua	1205	TONGUE	
+219	tooth	diente	1380	TOOTH	
+220	liver	hígado	1224	LIVER	
+221	finger	dedo	1303	FINGER	
+222	belly	panza	1251	BELLY	
+223	heart, being	corazón	1223	HEART	
+224	knee	rodilla	1371	KNEE	
+225	elbow	codo	981	ELBOW	
+226	butt	sentaderas	834	BUTTOCKS	
+227	name	nombre	1405	NAME	
+228	horn	cuerno	1393	HORN (ANATOMY)	
+229	wing	ala	1257	WING	
+230	tail	cola	1220	TAIL	
+231	clothes	ropa	1895	CLOTHES	
+232	hat	sombrero	771	HAT	
+233	mother	madre	1216	MOTHER	
+234	father	padre	1217	FATHER	
+235	brother of male	hermano de hombre	559	BROTHER (OF MAN)	
+236	sister of male	hermana de hombre			SISTER OF MAN
+237	brother of female	hermano de mujer			BROTHER OF WOMAN
+238	sister of female	hermana de mujer			SISTER OF WOMAN
+239	grandmother	abuela	1496	GRANDMOTHER	
+240	grandfather	abuelo	1383	GRANDFATHER	
+241	son	hijo	1620	SON	
+242	daughter	hija	1357	DAUGHTER	
+243	uncle	tío	1327	UNCLE	
+244	aunt	tía	1272	AUNT	
+245	grandson	nieto	1618	GRANDSON	
+246	granddaughter	nieta	1619	GRANDDAUGHTER	
+247	female cousin	prima			COUSIN FEMALE
+248	male cousin	primo			COUSIN MALE
+249	co-father	compadre			COMPADRE
+250	co-mother	comadre			COMADRE
+251	flat	está parejo	1633	FLAT	
+252	strong	fuerte	785	STRONG	
+253	weak	débil	1601	WEAK	
+254	tasty	sabroso	1813	TASTY	
+255	heavy	pesado	1210	HEAVY	
+256	full	lleno	1429	FULL	
+257	empty	vacío	1624	EMPTY	
+258	clean	limpio	704	CLEAN	
+259	dirty	cio	1230	DIRTY	
+260	poor	pobre	1674	POOR	
+261	rich	rico	712	RICH	
+262	closed	cerrado	589	CLOSED	
+263	open	abierto	3235	OPEN (STATE)	
+264	dry	seco	1398	DRY	
+265	wet	mojado	1726	WET	
+266	raw	crudo	1959	RAW	
+267	toasted	tostado			TOSTADO
+268	soft	blando	1856	SOFT	
+269	hard	duro	1884	HARD	
+270	new	nuevo	1231	NEW	
+271	old, used (of things)	viejo, vieja (de cosa)	2113	OLD (USED)	
+272	alive	vivo	1422	BE ALIVE	
+273	sharp	filoso	1396	SHARP	
+274	rough	rasposo	1923	ROUGH	
+275	rotten	podrido	1728	ROTTEN	
+276	crooked	chueco	297	CROOKED	
+277	lazy	flojo	1564	LAZY	
+278	ugly	feo	1548	UGLY	
+279	pretty	bonito	1427	BEAUTIFUL	
+280	close	está cerca	3735	NEAR (IN SPACE)	
+281	far	está lejos	1406	FAR	
+282	round	redondo	1395	ROUND	
+283	below	abajo	1485	BELOW OR UNDER	
+284	above	arriba	1741	ABOVE	
+285	slowly	despacio	2165	SLOWLY	
+286	quickly	rápido	3365	QUICKLY	
+287	early	temprano	672	EARLY	
+288	trash	basura	909	GARBAGE	
+289	woven blouse, dress	huipil			HUIPIL
+290	hawk	gavilán	307	HAWK	
+291	cat	gato	1208	CAT	
+292	smell	olor	1586	SMELL (PERCEIVE)	
+293	urine	orina	1142	URINE	
+294	wall	pared	933	WALL (OF HOUSE)	
+295	cleared field	rastrojo			RASTROJO
+296	planting row	surco	1794	FURROW	
+297	ditch	zanja	2002	DITCH	
+298	maize spike 	espiga			ESPIGA
+299	owner, boss	dueño	1036	OWNER	
+300	illness	enfermedad	1986	DISEASE	
+301	priest	secerdote	852	PRIEST	
+302	glue	pegamento	1069	GLUE	
+303	housepost	horcón	281	POST	
+304	hole	agujero	1667	HOLE	
+305	rainbow	arcoiris	1733	RAINBOW	
+306	stool, seat	banquito	2058	STOOL	
+307	half	mitad	816	HALF	
+308	handspan	cuarta de mano			CUARTA DE MANO
+309	husband 	marido	1200	HUSBAND	
+310	wife 	esposa	1199	WIFE	
+311	fingernail 	uña	1258	FINGERNAIL	
+312	tripe	tripas	1991	INTESTINES	
+313	eyebrow 	ceja	1173	EYEBROW	
+314	tendon	tendón	1137	TENDON	
+315	armpit	sobaco	1886	ARMPIT	
+316	wise	sabio	698	WISE	
+317	mosquito	zancudo	1509	MOSQUITO	
+318	smooth	liso	1234	SMOOTH	
+319	trunk, box	baúl, cajón	3150	BOX OR CHEST	
+320	lizard	lagartija	632	LIZARD	
+321	rabbit	conejo	1136	RABBIT	
+322	eagle	águila	1905	EAGLE	
+323	flint	pedernal			PEDERNAL
+324	monkey	chango, mono	1350	MONKEY	
+325	arrow	flecha	977	ARROW	
+326	shadow	sombra	1388	SHADE	
+327	dream	sueño	2374	DREAM	
+328	leafcutter ant	arriera			ARRIERA
+329	queen leafcutter ant	chicatana			CHICATANA
+330	goosefoot	epazote			EPAZOTE
+331	coati	tejón	2389	COATI (COATIMUNDI)	
+332	skunk	zorrillo			ZORRILLO
+333	rooster	gallo	1511	ROOSTER	
+334	pig	marrano	1337	PIG	
+335	horse	caballo	615	HORSE	
+336	fussy	delicado			DELICADO
+337	shiny	brillante			BRILLANTE
+338	happy	alegre	1495	HAPPY	
+339	nut, pecan	nuez	191	NUT	
+340	pine torch	ocote			OCOTE
