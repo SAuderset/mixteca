@@ -1,0 +1,205 @@
+ID,CATEGORY,CONCEPTICON_ID,CONCEPTICON_GLOSS,ADD_CONCEPT,ENGLISH,SPANISH,COVERAGE,ID_EWC,ID_MAT,ID_JOSS,ID_DURR,ID_SWME,ID_PADG,SPANISH_EWC,SPANISH_MAT,SPANISH_JOSS,SPANISH_SWME,SPANISH_PADG,ENGLISH_EWC,ENGLISH_MAT,ENGLISH_JOSS,ENGLISH_DURR,ENGLISH_PADG
+001,kinship,1216,MOTHER,NA,MOTHER,madre,2,233,200,NA,NA,NA,NA,madre,"madre, mamá",NA,NA,NA,mother,"mother, mama",NA,NA,NA
+002,kinship,,FATHER,,FATHER,padre,,,,,,,,,,,,,,,,,
+003,kinship,1801,CHILD (DESCENDANT),NA,SON/DAUGHTER,hijo/hija,3,NA,363,110,54,NA,NA,NA,"hija, hijo",hijo,NA,NA,NA,child,child,child,NA
+004,kinship,NA,NA,CROSS-SEX SIBLING,CROSS-SEX SIBLING,,1,NA,NA,NA,52,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,cross-sex sibling,NA
+005,kinship,559,BROTHER (OF MAN),NA,BROTHER OF MAN,hermano de hombre,4,235,NA,25,40,22,NA,hermano de hombre,NA,hermano de hombre,hermano de hombre,NA,brother of male,NA,brother of man,brother,NA
+006,kinship,NA,NA,SISTER OF WOMAN,SISTER OF WOMAN,hermana de mujer,2,238,NA,NA,78,NA,NA,hermana de mujer,NA,NA,NA,NA,sister of female,NA,NA,sister,NA
+007,kinship,1272,AUNT,NA,AUNT,tía,4,244,398,NA,35,NA,91,tía,tía,NA,NA,tía,aunt,aunt,NA,aunt,aunt
+008,kinship,1327,UNCLE,NA,UNCLE,tío,3,243,364,NA,34,NA,NA,tío,tío,NA,NA,NA,uncle,uncle,NA,uncle,NA
+009,person,1554,MAN,NA,MAN,hombre,4,115,NA,52,47,NA,53,hombre,NA,hombre,NA,hombre,man,NA,man,man,man
+010,person,962,WOMAN,NA,WOMAN,mujer,3,114,409,NA,13,NA,NA,mujer,mujer,NA,NA,NA,woman,woman,NA,woman,NA
+011,person,1036,OWNER,NA,"OWNER, BOSS",dueño,2,299,NA,63,NA,NA,NA,dueño,NA,dueño,NA,NA,"owner, boss",NA,owner,NA,NA
+012,person,852,PRIEST,NA,PRIEST,sacerdote,2,301,NA,182,NA,NA,NA,sacerdote,NA,sacerdote,NA,NA,priest,NA,priest,NA,NA
+013,body,946,BLOOD,NA,BLOOD,sangre,4,209,401,39,NA,30,NA,sangre,sangre,sangre,sangre,NA,blood,blood,blood,NA,NA
+014,body,1394,BONE,NA,BONE,hueso,3,210,114,NA,11,NA,NA,hueso,hueso,NA,NA,NA,bone,bone,NA,bone,NA
+015,body,1040,HAIR,NA,HAIR,"cabello, pelo",3,208,NA,NA,NA,2,15,cabello,NA,NA,pelo,cabello,hair,NA,NA,NA,hair
+016,body,1560,FACE,NA,FACE,cara,3,215,250,NA,72,NA,NA,cara,cara,NA,NA,NA,face,face,NA,face,NA
+017,body,1205,TONGUE,NA,TONGUE,lengua,4,218,463,NA,110,67,NA,lengua,lengua,NA,lengua,NA,tongue,tongue,NA,tongue,NA
+018,body,1380,TOOTH,NA,TOOTH,diente,4,219,494,27,57,NA,NA,diente,diente,diente,NA,NA,tooth,tooth,tooth,tooth,NA
+019,body,674,MOUTH,NA,MOUTH,boca,3,206,NA,176,10,NA,NA,boca,NA,boca,NA,NA,mouth,NA,mouth,mouth,NA
+020,body,1247,EAR,NA,EAR,oreja,3,205,NA,129,56,NA,NA,oreja,NA,oreja,NA,NA,ear,NA,ear,ear,NA
+021,body,1221,NOSE,NA,NOSE,nariz,3,207,351,8,NA,NA,NA,nariz,nariz,nariz,NA,NA,nose,nose,nose,NA,NA
+022,body,1333,NECK,NA,NECK,cuello,3,214,421,66,NA,NA,NA,cuello,"cuello, pescuezo",cuello,NA,NA,neck,neck,neck,NA,NA
+023,body,1277,HAND,NA,HAND,mano,3,202,234,NA,5,NA,NA,mano,mano,NA,NA,NA,hand,hand,NA,hand,NA
+024,body,1258,FINGERNAIL,NA,FINGERNAIL,uña,4,311,NA,107,91,69,NA,uña,NA,uña,uña,NA,fingernail ,NA,fingernail,fingernail,NA
+025,body,1291,BACK,NA,BACK,espalda,2,203,325,NA,NA,NA,NA,espalda,espalda,NA,NA,NA,back,back,NA,NA,NA
+026,body,,,STOMACH OR BELLY,STOMACH OR BELLY,panza,2,222,252,NA,NA,NA,NA,panza,"panza, estómago",NA,NA,NA,belly,"belly, stomach",NA,stomach,NA
+027,body,1991,INTESTINES,,"intestine, guts","tripa, tripas",2,312,327,NA,NA,NA,NA,tripas,intestino,NA,NA,NA,tripe,intestine,NA,NA,NA
+028,body,1301,FOOT,NA,FOOT,pie,4,216,352; 420,119,84,NA,NA,pie,pie,pie,NA,NA,foot,foot,foot,foot,NA
+029,body,1986,DISEASE,NA,DISEASE,enfermedad,4,300,429,161,NA,NA,40,enfermedad,enfermedad,enfermedad,NA,enfermedad,illness,"sickness, illness",sickness,NA,illness
+030,body,1372,MEDICINE,NA,MEDICINE,medicina,2,NA,101,NA,61,NA,NA,NA,"medicina, remedio",NA,NA,NA,NA,"medicine, remedy",NA,medicine,NA
+031,body,1903,SWELLING,NA,SWELLING,hinchazón,3,125,115,143,NA,NA,NA,hinchazón,hinchazón,hinchazon,NA,NA,swelling,swelling,swelling,NA,NA
+032,body,1809,PIMPLE,NA,PIMPLE,grano,3,85,223,144,NA,NA,NA,grano,grano,grano,NA,NA,"pimple, rash",pimple,pimple,NA,NA
+033,body,1808,PUS,NA,PUS,"pus, materia",3,93,117,76,NA,NA,NA,"pus, materia",pus,pus,NA,NA,pus,pus,pus,NA,NA
+034,body,1142,URINE,NA,URINE,orina,2,293,286,150,46,NA,NA,orina,NA,orina,NA,NA,urine,NA,urine,NA,NA
+035,clothes,1895,CLOTHES,NA,CLOTHES,ropa,2,231,NA,NA,6,NA,NA,ropa,NA,NA,NA,NA,clothes,NA,NA,clothes,NA
+036,clothes,NA,NA,HUARACHE,sandal,huarache,5,111,89,125,66,32,NA,huarache,huarache,huarache,huarache,NA,sandal,sandal,sandal,sandal,NA
+037,clothes,809,TROUSERS,PANTS,PANTS,pantalón,3,110,328,181,NA,NA,NA,pantalón,pantalones,calzon,NA,NA,pants,trousers,trousers,NA,NA
+038,clothes,NA,NA,HUIPIL,blouse,huipil,3,289,NA,48,NA,40,NA,huipil,NA,huipil,huipil,NA,"woven blouse, dress",NA,blouse,NA,NA
+039,house,930,VILLAGE,NA,VILLAGE,pueblo,5,40,433,100,39,23,NA,pueblo,pueblo,pueblo,pueblo,NA,village,"town, village",town,town,NA
+040,house,1252,HOUSE,NA,HOUSE,casa,5,25,55; 384,164,28,NA,23,casa,casa,casa,NA,casa,house,house,house,house,house
+041,house,2457,PATH OR ROAD,NA,PATH OR ROAD,camino,3,65,NA,NA,15,3,NA,camino,NA,NA,camino,NA,path,NA,NA,road,NA
+042,house,933,WALL (OF HOUSE),NA,WALL (OF HOUSE),pared,3,294,NA,86,38,NA,NA,pared,NA,pared,NA,NA,wall,NA,wall,wall,NA
+043,house,281,POST,NA,POST,horcón,2,303,NA,126,NA,NA,NA,horcón,NA,horcon,NA,NA,housepost,NA,housepost,NA,NA
+044,house,195,MAT,SLEEPING MAT,MAT,petate,5,64,505,3,9,8,NA,petate,petate,petate,petate,NA,sleeping mat,mat,straw mat,straw mat,NA
+045,house,1663,BED,NA,BED,"cama, lecho",3,51,470,18,NA,NA,NA,"cama, lecho",cama,cama,NA,NA,bed,bed,bed,NA,NA
+046,house,2058,STOOL,NA,STOOL,banquito,3,306,NA,168,32,NA,NA,banquito,NA,banquito,NA,NA,"stool, seat",NA,stool,stool,NA
+047,animal,619,ANIMAL,NA,ANIMAL,animal,5,66,61; 337,35,1,10,NA,animal,animal,animal,animal,NA,animal,animal,animal,animal,NA
+048,animal,937,BIRD,NA,BIRD,pájaro,4,12,304,147,37,NA,NA,pájaro,pájaro,pajaro,NA,NA,bird,bird,bird,bird,NA
+049,animal,227,FISH,NA,FISH,"pez, pescado",3,14,340,NA,94,NA,NA,"pez, pescado","pescado, pez",NA,NA,NA,fish,fish,NA,fish,NA
+050,animal,730,SNAKE,NA,SNAKE,"culebra, serpiente",5,29,339,69,65,NA,87,"culebra, serpiente",culebra,culebra,NA,serpiente,snake,snake,snake,snake,snake
+051,animal,503,FROG,NA,FROG,rana,4,45,322,148,36,NA,NA,rana,rana,rana,NA,NA,frog,frog,frog,frog,NA
+052,animal,307,HAWK,NA,HAWK,gavilán,2,290,NA,103,NA,NA,NA,gavilán,NA,gavilan,NA,NA,hawk,NA,hawk,NA,NA
+053,animal,1538,SCORPION,NA,SCORPION,alacrán,3,61,310,139,NA,NA,NA,alacrán,"alacrán, escorpión",alacran,NA,NA,scorpion,scorpion,scorpion,NA,NA
+054,animal,1575,COCKROACH,NA,COCKROACH,cucaracha,3,127,320,159,NA,NA,NA,cucaracha,cucaracha,cucaracha,NA,NA,cockroach,cockroach,cockroach,NA,NA
+055,animal,607,GRASSHOPPER,NA,GRASSHOPPER,chapulín,3,74,321,NA,NA,86,NA,chapulín,chapulín,NA,chapulín,NA,grasshopper,grasshopper,NA,NA,NA
+056,animal,665,BEE,NA,BEE,abeja,3,72,344,NA,NA,NA,1,abeja,abeja,NA,NA,abeja,bee,bee,NA,NA,bee
+057,animal,2139,MUROID (MOUSE OR RAT),NA,MOUSE OR RAT,"ratón, rata",5,53,346,142,92,NA,NA,ratón,"rata, ratón",rata,NA,NA,mouse,"rat, mouse",rat,rat,NA
+058,animal,1936,DEER,NA,DEER,venado,4,73,343,12,43,NA,NA,venado,"venado, ciervo",venado,NA,NA,deer,deer,deer,deer,NA
+059,animal,1628,SQUIRREL,NA,SQUIRREL,ardilla,3,137,NA,185,NA,59,NA,ardilla,NA,ardilla,ardilla,NA,squirrel,NA,squirrel,NA,NA
+060,animal,NA,NA,ZORRILLO,skunk,zorrillo,3,332,414,NA,NA,NA,98,zorrillo,zorrillo,NA,NA,zorrillo,skunk,skunk,NA,NA,skunk
+061,animal,309,OPOSSUM,NA,OPOSSUM,tlacuache,2,78,NA,NA,NA,NA,92,tlacuache,NA,NA,NA,tlacuache,(o)possum,NA,NA,NA,opossum
+062,animal,2389,COATI (COATIMUNDI),NA,COATI (COATIMUNDI),tejón,2,331,NA,45,NA,NA,NA,tejón,NA,tejón coatí,NA,NA,coati,NA,coati,NA,NA
+063,animal,1885,ARMADILLO,NA,ARMADILLO,armadillo,2,92,NA,72,NA,NA,NA,armadillo,NA,armadillo,NA,NA,armadillo,NA,armadillo,NA,NA
+064,animal,2009,DOG,NA,DOG,perro,5,59,431,NA,45,85,77,perro,perro,NA,perro,perro,dog,dog,NA,dog,dog
+065,animal,1208,CAT,NA,CAT,gato,3,291,313,117,NA,NA,NA,gato,gato,gato,NA,NA,cat,cat,cat,NA,NA
+066,animal,1511,ROOSTER,NA,ROOSTER,gallo,3,333,360,NA,NA,NA,47,gallo,gallo,NA,NA,gallo,rooster,rooster,NA,NA,rooster
+067,animal,1514,HEN,NA,HEN,gallina,3,NA,436,NA,93,NA,46,NA,gallina,NA,NA,gallina,NA,hen,NA,(turkey) hen,hen
+068,animal,1337,PIG,NA,PIG,"marrano, puerco, cerdo",3,334,299,NA,NA,NA,26,marrano,"marrano, puerco, cerdo",NA,NA,cerdo,pig,pig,NA,NA,pig
+069,animal,615,HORSE,NA,HORSE,caballo,2,335,NA,NA,NA,NA,14,caballo,NA,NA,NA,caballo,horse,NA,NA,NA,horse
+070,animal,1331,SHEEP,NA,SHEEP,"borrego, oveja",2,NA,126,NA,NA,NA,11,NA,"borrego, oveja",NA,NA,borrego,NA,sheep,NA,NA,sheep
+071,animal,587,ANT,NA,ANT,hormiga,2,11,338,NA,NA,NA,NA,hormiga,hormiga,NA,NA,NA,ant,ant,NA,NA,NA
+072,animal,1393,HORN (ANATOMY),NA,HORN (ANATOMY),cuerno,2,228,NA,68,NA,NA,NA,cuerno,NA,cuerno,NA,NA,horn,NA,horn,NA,NA
+073,animal,1201,FEATHER,NA,FEATHER,pluma,3,101,NA,5,NA,74,NA,pluma,NA,pluma,pluma,NA,feather,NA,feather,NA,NA
+074,animal,1257,WING,NA,WING,ala,3,229,NA,167,NA,NA,3,ala,NA,ala,NA,ala,wing,NA,wing,NA,wing
+075,animal,1220,TAIL,NA,TAIL,cola,3,230,393,6,NA,NA,NA,cola,cola,cola,NA,NA,tail,tail,tail,NA,NA
+076,plant,906,TREE,NA,TREE,"árbol, palo",5,102,NA,11,7,7,9,"palo, árbol",NA,árbol,árbol,árbol,tree,NA,tree,tree,tree
+077,plant,NA,NA,HIERBA,herb,hierba,4,136,99,NA,85,36,NA,hierba,hierba,NA,hierba,NA,herbaceous plant,herb,NA,herb/ bush,NA
+078,plant,239,FLOWER,NA,FLOWER,flor,5,39,468,NA,42,18,43,flor,flor,NA,flor,flor,flower,flower,NA,flower,flower
+079,plant,NA,NA,MAGUEY,maguey,maguey,3,19,504,2,NA,NA,NA,maguey,maguey,maguey,NA,NA,century plant,maguey,agave,NA,NA
+080,plant,670,ROOT,NA,ROOT,raíz,3,36,477,NA,NA,NA,81,raíz,raíz,NA,NA,raíz,root,root,NA,NA,root
+081,plant,124,THORN,NA,THORN,espina,3,49,365,NA,NA,1,NA,espina,espina,NA,espina,NA,thorn,thorn,NA,NA,NA
+082,corn,506,MAIZE,CORN GRAIN,grain of corn,maíz en grano,5,1,374; 521,85,73,31,NA,maíz en grano,maíz,maíz,maíz,NA,corn,corn,grain of corn,corn,NA
+083,corn,449,CORN FIELD,NA,cornfield,milpa,3,2,134,169,NA,NA,NA,milpa,milpa,milpa,NA,NA,cornfield,cornfield,cornfield,NA,NA
+084,corn,NA,NA,ELOTE,fresh ear of corn,elote,3,57,402,NA,NA,NA,39,elote,elote,NA,NA,elote,fresh ear of corn ,elote,NA,NA,ear of corn
+085,corn,NA,NA,NIXTAMAL,NIXTAMAL,NIXTAMAL,2,NA,213,NA,NA,65,NA,NA,nixtamal,NA,nixtamal,NA,NA,nixtamal,NA,NA,NA
+086,corn,NA,NA,MASA,cornmeal,masa,2,71,NA,109,NA,NA,NA,masa,NA,masa,NA,NA,corn dough,NA,cornmeal,NA,NA
+087,corn,NA,NA,TORTILLA,tortilla,tortilla,5,8,439,15,68,NA,93,tortilla,tortilla,tortilla,NA,tortilla,tortilla,tortilla,tortilla,tortilla,tortilla
+088,corn,NA,NA,RASTROJO,cornstalk,rastrojo,2,295,NA,108,NA,NA,NA,rastrojo,NA,rastrojo,NA,NA,cleared field,NA,cornstalk,NA,NA
+089,corn,1794,FURROW,NA,furrow,surco,3,296,391,180,NA,NA,NA,surco,"surco, linea",surco,NA,NA,planting row,"groove, furrow, rut, line",furrow,NA,NA
+090,corn,NA,NA,ESPIGA,tassel,espiga,2,298,NA,98,NA,NA,NA,espiga,NA,espiga,NA,NA,maize spike ,NA,tassel,NA,NA
+091,food,832,BEAN,BEAN,bean,frijol(es),5,6,268,21,3,NA,45,frijol(es),frijol,frijol,NA,frijol,bean(s),bean,bean,beans,bean
+092,food,NA,NA,EJOTE,green bean,ejote,3,119,158,91,NA,NA,NA,ejote,ejote,ejote,NA,NA,green bean,string bean,green bean,NA,NA
+093,food,919,CHILI PEPPER,NA,chili,chile,5,22,479,NA,12,4,28,chile,chile,NA,chile,chile,chili pepper,chili,NA,chile,chili pepper
+094,food,1274,SALT,NA,salt,sal,4,24,490,41,NA,NA,86,sal,sal,sal,NA,sal,salt,salt,salt,NA,salt
+095,food,864,PUMPKIN,SQUASH,squash,calabaza,4,26,87,44,NA,NA,17,calabaza,calabaza,calabaza,NA,calabaza,squash,calabash,squash,NA,squash
+096,food,NA,NA,CHAYOTE,chayote squash,chayote,3,129,209,NA,NA,NA,27,chayote,chayote,NA,NA,chayote,chayote squash,chayote,NA,NA,chayote
+097,food,146,SUGAR CANE,NA,cane,caña,4,79,499,93,67,NA,NA,caña,caña,caña,NA,NA,sugar cane,cane,cane,cane,NA
+098,food,942,HONEY,NA,honey,miel,4,89,79,96,NA,NA,64,miel,miel,miel,NA,miel,honey,honey,honey,NA,honey
+099,food,1282,FAT (FROM ANIMALS),NA,lard,"grasa, manteca",5,103,145,13,NA,79,62,"grasa, manteca","manteca, grasa",manteca,manteca,manteca,"fat, lard","fat, grease",lard,NA,lard
+100,food,744,EGG,NA,egg,"blanquillo, huevo",3,13,NA,37,NA,33,NA,"blanquillo, huevo",NA,blanquillo,huevo,NA,egg,NA,egg,NA,NA
+101,food,986,TOMATO,NA,tomato,tomate,3,31,161,90,NA,NA,NA,tomate,"jitomate, tomate",jitomate,NA,NA,tomato,tomato,tomato,NA,NA
+102,food,159,SWEET POTATO,NA,sweet potato,camote,3,91,507,NA,NA,21,NA,camote,camote,NA,camote,NA,"tuber, sweet potato",camote,NA,NA,NA
+103,food,3725,AVOCADO,NA,avocado,aguacate,2,81,267,NA,NA,NA,NA,aguacate,aguacate,NA,NA,NA,avocado,avocado,NA,NA,NA
+104,food,868,BANANA,NA,banana,plátano,2,120,159,NA,NA,NA,NA,plátano,plátano,NA,NA,NA,banana,banana,NA,NA,NA
+105,food,NA,NA,NOPAL,prickly pear cactus,nopal,2,123,NA,118,NA,NA,NA,nopal,NA,nopal,NA,NA,pickly pear cactus,NA,prickly pear cactus,NA,NA
+106,food,NA,NA,MAMEY,mamey,mamey,2,128,NA,165,NA,NA,NA,mamey,NA,mamey,NA,NA,custard apple,NA,mamey,NA,NA
+107,food,641,MUSHROOM,NA,mushroom,hongo,2,150,235,NA,NA,NA,NA,hongo,hongo,NA,NA,NA,mushroom,mushroom,NA,NA,NA
+108,food,2615,FLESH OR MEAT,,meat,carne,6,33,180,30,51,76,22,carne,carne,carne,carne,carne,"meat, flesh","meat, flesh",meat,meat,meat
+109,cooking,NA,NA,COMAL,griddle,comal,6,43,426,19,70,34,32,comal,comal,comal,comal,comal,griddle,comal,griddle,comal,comal (tortilla griddle)
+110,cooking,1462,POT,NA,POT,olla,5,47,261,94,49,45,NA,olla,olla,olla,olla,NA,pot,pot,clay pot,clay pot,NA
+111,cooking,1143,OVEN,NA,OVEN,horno,4,116,112,54,NA,43,NA,horno,horno,horno,horno,NA,oven,oven,oven,NA,NA
+112,cooking,221,FIRE,NA,FIRE,"lumbre, fuego",2,7,NA,105,NA,NA,NA,"lumbre, fuego",NA,lumbre,NA,NA,fire,NA,fire,NA,NA
+113,cooking,646,ASH,NA,ASH,ceniza,2,21,467,NA,NA,NA,NA,ceniza,ceniza,NA,NA,NA,ash,ash,NA,NA,NA
+114,cooking,1188,CHARCOAL,NA,CHARCOAL,carbón,2,50,270,NA,NA,NA,NA,carbón,carbón,NA,NA,NA,charcoal,charcoal,NA,NA,NA
+115,cooking,778,SMOKE (EXHAUST),NA,SMOKE,humo,4,30,77,101,NA,38,NA,humo,humo,humo,humo,NA,smoke,smoke,smoke,NA,NA
+116,cooking,909,GARBAGE,NA,GARBAGE,basura,2,288,NA,116,NA,NA,NA,basura,NA,basura,NA,NA,trash,NA,trash,NA,NA
+117,cooking,480,PLATE,NA,PLATE,plato,2,NA,105,NA,NA,NA,78,NA,plato,NA,NA,plato,NA,plate,NA,NA,plate
+118,container,411,GOURD,NA,GOURD,jícara,4,108,476,43,NA,5,NA,jícara,jícara,jícara,jícara,NA,gourd,gourd,gourd,NA,NA
+119,container,1539,BASKET,NA,BASKET,canasta,3,147,498,NA,NA,NA,20,canasta,tenate,NA,NA,canasta,basket,basket,NA,NA,basket
+120,container,3150,BOX OR CHEST,NA,BOX OR CHEST,"caja, cajón",3,319,449,55,NA,NA,NA,"baúl, cajón","caja, cajón",cajón,NA,NA,"trunk, box",box,"box, drawer",NA,NA
+121,thing,1161,THREAD,,THREAD,hilo,6,106,512,34,86,37,52,hilo,hilo,hilo,hilo,hilo,thread,thread,thread,thread,string
+122,thing,1475,COMB,NA,COMB,peine,5,82,91,172,77,NA,75,peine,peine,peine,NA,peine,comb,comb,comb,comb,comb
+123,thing,1218,ROPE,NA,ROPE,"mecate, cuerda",4,44,184,NA,14,6,NA,mecate,"mecate, cuerda",NA,mecate,NA,rope,"rope, cord",NA,rope,NA
+124,thing,1667,HOLE,NA,HOLE,hoyo,4,304,514,135,41,NA,NA,agujero,hoyo,agujero,NA,NA,hole,hole,hole,hole,NA
+125,thing,2963,NET,NA,NET,red,3,83,174; 316,42,NA,NA,NA,"rede,red",red,red,NA,NA,"net, mesh",net,net bag,NA,NA
+126,thing,788,SOAP,NA,SOAP,jabón,3,NA,509,NA,71,NA,54,NA,jabón,NA,NA,jabón,NA,soap,NA,soap,soap
+127,thing,1374,RING,NA,RING,anillo,2,NA,278,NA,NA,NA,8,NA,anillo,NA,NA,anillo,NA,ring,NA,NA,ring
+128,nature,1313,MOON,,MOON,luna,5,4,465,NA,75,27,60,luna,luna,NA,luna,luna,moon,moon,NA,moon,moon
+129,nature,1489,CLOUD,NA,CLOUD,nube,2,68,189,NA,NA,NA,NA,nube,nube,NA,NA,NA,cloud,cloud,NA,NA,NA
+130,nature,1654,LIGHTNING,NA,LIGHTNING,"rayo, relámpago",2,17,NA,NA,NA,14,NA,"rayo, relámpago",NA,NA,rayo,NA,lightning,NA,NA,NA,NA
+131,nature,948,WATER,NA,WATER,agua,4,5,132,22,4,NA,NA,agua,agua,agua,NA,NA,water,water,water,water,NA
+132,nature,658,RAIN (PRECIPITATION),NA,RAIN (PRECIPITATION),lluvia,4,23,108,1,NA,NA,59,lluvia,lluvia,lluvia,NA,lluvia,rain,rain,rain,NA,rain
+133,nature,3311,FLOWING BODY OF WATER,,RIVER,río,5,77,NA,23,58,44,83,río,NA,río,río,río,river,NA,river,river,river
+134,nature,1977,DEW,NA,DEW,rocío,3,135,NA,178,NA,52,NA,"rocío,sereno",NA,rocio,rocío,NA,dew,NA,dew,NA,NA
+135,nature,2118,MOUNTAIN OR HILL,NA,MOUNTAIN OR HILL,cerro,4,34,NA,71,8,NA,25,cerro,NA,cerro,NA,cerro,mountain,NA,hill,mountain,mountain
+136,nature,652,PLAIN,NA,PLAIN,llanura,3,126,347,156,NA,NA,NA,llanura,llano,llano,NA,NA,"plain, flatland",plain,plain,NA,NA
+137,nature,606,GRASS,NA,GRASS,"zacate, pasto",4,86,442,NA,NA,19,72,"zacate, pasto",pasto,NA,pasto,pasto,grass,pasture,NA,NA,grass
+138,nature,857,STONE,NA,STONE,piedra,5,28,495,175,74,28,NA,piedra,piedra,piedra,piedra,NA,rock,stone,stone,stone,NA
+139,material,1850,COTTON,NA,COTTON,algodón,5,113,80,50,64,29,NA,algodón,algodón,algodón,algodón,NA,cotton,cotton,cotton,cotton,NA
+140,material,2244,METAL,NA,METAL,fierro,4,87,NA,183,50,72,NA,fierro,NA,fierro,metal,NA,metal,NA,brand,metal,NA
+141,material,648,PAPER,NA,PAPER,papel,4,88,492,NA,31,25,NA,papel,papel,NA,papel,NA,paper,paper,NA,paper,NA
+142,material,2540,LIME (MATERIAL),NA,LIME (MATERIAL),cal,3,56,166,NA,33,NA,NA,cal,cal,NA,NA,NA,(quick)lime,lime,NA,lime,NA
+143,material,1931,BEESWAX,NA,BEESWAX,cera,3,95,493,7,NA,NA,NA,cera,cera,cera,NA,NA,wax,wax,wax,NA,NA
+144,material,640,MUD,NA,MUD,lodo,3,105,280,24,NA,NA,NA,lodo,lodo,lodo,NA,NA,mud,mud,mud,NA,NA
+145,material,1768,FOAM,NA,FOAM,espuma,3,107,472,38,NA,NA,NA,espuma,espuma,espuma,NA,NA,foam,foam,foam,NA,NA
+146,material,2,DUST,NA,DUST,polvo,3,124,475,NA,NA,NA,80,polvo,polvo,NA,NA,polvo,"dust, powder","powder, dust",NA,NA,dust
+147,color,156,RED,,RED,rojo,6,159,124,31,102,61,85,rojo,rojo,rojo,"rojo, colorado",rojo,red,red,red,red,red
+148,color,1425,GREEN,NA,GREEN,verde,5,160,123,NA,100,68,97,verde,verde,NA,verde,verde,green,green,NA,green,green
+149,color,1424,YELLOW,NA,YELLOW,amarillo,5,161,NA,78,103,60,5,amarillo,NA,amarillo,amarillo,amarillo,yellow,NA,yellow,yellow,yellow
+150,color,163,BLACK,NA,BLACK,negro,4,157,125,NA,95,NA,67,negro,negro,NA,NA,negro,black,black,NA,black,black
+151,color,1335,WHITE,NA,WHITE,blanco,4,158,78,NA,99,NA,10,blanco,blanco,NA,NA,blanco,white,white,NA,white,white
+152,number,1493,ONE,NA,ONE,uno,3,176,520,NA,30,NA,NA,uno,uno,NA,NA,NA,one,one,NA,one,NA
+153,number,1498,TWO,,TWO,dos,6,177,56,138,89,42,37,dos,dos,dos,dos,dos,two,two,two,two,two
+154,number,492,THREE,NA,THREE,tres,3,178,50,26,NA,NA,NA,tres,tres,tres,NA,NA,three,three,three,NA,NA
+155,number,1500,FOUR,NA,FOUR,cuatro,5,179,86,4,62,NA,36,cuatro,cuatro,cuatro,NA,cuatro,four,four,four,four,four
+156,number,493,FIVE,NA,FIVE,cinco,5,180,462,28,90,39,NA,cinco,cinco,cinco,cinco,NA,five,five,five,five,NA
+157,number,1703,SIX,NA,SIX,seis,4,181,48,106,NA,35,NA,seis,seis,seis,seis,NA,six,six,six,NA,NA
+158,number,1704,SEVEN,NA,SEVEN,siete,4,182,424,33,NA,NA,89,siete,siete,siete,NA,siete,seven,seven,seven,NA,seven
+159,number,1705,EIGHT,NA,EIGHT,ocho,3,183,375,89,NA,NA,NA,ocho,ocho,ocho,NA,NA,eight,eight,eight,NA,NA
+160,number,1483,NINE,NA,NINE,nueve,4,184,518,NA,88,NA,69,nueve,nueve,NA,NA,nueve,nine,nine,NA,nine,nine
+161,number,1515,TEN,NA,TEN,diez,3,185,427,123,NA,NA,NA,diez,diez,diez,NA,NA,ten,ten,ten,NA,NA
+162,number,1709,FIFTEEN,NA,FIFTEEN,quince,3,190,318,121,NA,NA,NA,quince,quince,quince,NA,NA,fifteen,fifteen,fifteen,NA,NA
+163,number,1710,TWENTY,NA,TWENTY,veinte,2,195,98,NA,NA,NA,NA,veinte,veinte,NA,NA,NA,twenty,twenty,NA,NA,NA
+164,property,1674,POOR,,POOR,pobre,6,260,204,137,104,64,79,pobre,pobre,pobre,pobre,pobre,poor,poor,poor,poor,poor
+165,property,712,RICH,NA,RICH,rico,2,261,NA,NA,NA,NA,84,rico,NA,NA,NA,rico,rich,NA,NA,NA,rich
+166,property,1287,COLD,NA,COLD,frío,5,152,7; 221,124,59,51,NA,frío,estar frio,frio,frio,NA,cold,be cold,cold,cold,NA
+167,property,1286,HOT,NA,HOT,está caliente,2,151,NA,84,NA,NA,NA,está caliente,NA,caliente,NA,NA,hot,NA,hot,NA,NA
+168,property,1202,BIG,NA,BIG,grande,5,154,307,65,98,58,NA,grande,grande,grande (sg.),grande,NA,big,"big, large",big (sg.),big (sg),NA
+169,property,1246,SMALL,NA,SMALL,"pequeño, chico",3,153,NA,153,108,NA,NA,"pequeño, chico",NA,chico,NA,NA,small,NA,little,little,NA
+170,property,1035,GOOD,NA,GOOD,bueno,5,155,274,112,60,NA,13,bueno,bueno,bueno,NA,bueno,good,good,good,good,good
+171,property,717,SWEET,NA,SWEET,dulce,5,166,404,133,87,NA,38,dulce,dulce,dulce,NA,dulce,sweet,sweet,sweet,sweet,sweet
+172,property,1091,SALTY,NA,SALTY,salado,2,168,NA,47,NA,NA,NA,salado,NA,salado,NA,NA,salty,NA,salty,NA,NA
+173,property,887,BITTER,NA,BITTER,amargo,2,167,NA,29,NA,NA,NA,amargo,NA,amargo,NA,NA,bitter,NA,bitter,NA,NA
+174,property,1813,TASTY,NA,TASTY,sabroso,3,254,58; 423,130,NA,NA,NA,sabroso,"delicioso, sabroso",sabroso,NA,NA,tasty,"delicious, tasty",tasty,NA,NA
+175,property,1243,WIDE,NA,WIDE,ancho,4,164,82,NA,NA,71,7,ancho,ancho,NA,"amplio, muy abierto",ancho,wide,wide,NA,NA,wide
+176,property,1231,NEW,NA,NEW,nuevo,4,270,137,NA,107,NA,70,nuevo,nuevo,NA,NA,nuevo,new,new,NA,new,new
+177,property,1564,LAZY,NA,LAZY,flojo,4,277,264,17,NA,56,NA,flojo,perezoso,flojo,flojo,NA,lazy,lazy,lazy,NA,NA
+178,property,1548,UGLY,NA,UGLY,feo,2,278,NA,70,NA,NA,NA,feo,NA,feo,NA,NA,ugly,NA,ugly,NA,NA
+179,property,2821,JEALOUS,NA,JEALOUS,celoso,2,NA,311,NA,NA,63,NA,NA,celoso,NA,celoso,NA,NA,jealous,NA,NA,NA
+180,property,1942,NEAR,NA,NEAR,"cerca de, está cerca",4,NA,212,10,NA,13,24,NA,cerca de,está cerca,cerca,cerca,NA,near,near,NA,nearby
+181,property,1406,FAR,NA,FAR,"está lejos, lejos",3,281,68,NA,NA,NA,57,está lejos,lejos,NA,NA,lejos,far,far,NA,NA,far away
+182,property,1203,LONG,NA,LONG,largo,3,170,NA,NA,97,NA,56,largo,NA,NA,NA,largo,long,NA,NA,long,long
+183,property,1210,HEAVY,NA,HEAVY,pesado,3,255,NA,187,NA,50,NA,pesado,NA,pesado,pesado,NA,heavy,NA,heavy,NA,NA
+184,property,1959,RAW,NA,RAW,crudo,3,266,511,NA,NA,54,NA,crudo,crudo,NA,crudo,NA,raw,"raw, uncooked",NA,NA,NA
+185,property,1234,SMOOTH,NA,SMOOTH,liso,3,318,228,152,NA,NA,NA,liso,liso,liso,NA,NA,smooth,smooth,smooth,NA,NA
+186,property,701,SLOW,NA,SLOW,despacio,3,NA,147,163,NA,62,NA,NA,despacio,despacio,despacio,NA,NA,slowly,slow,NA,NA
+187,time,1174,YESTERDAY,NA,YESTERDAY,ayer,5,132,107,170,29,12,NA,ayer,ayer,ayer,ayer,NA,yesterday,yesterday,yesterday,yesterday,NA
+188,time,1226,YEAR,NA,YEAR,año,4,117,500,74,81,NA,NA,año,año,año,NA,NA,year,year,year,year,NA
+189,time,1376,NOW,NA,NOW,ahora,4,NA,466,134,27,17,NA,NA,ahora,abora,ahora,NA,NA,now,now,now,NA
+190,time,1233,NIGHT,NA,NIGHT,noche,3,20,NA,83,NA,NA,68,noche,NA,toda la noche,NA,noche,night,NA,all night,NA,night
+191,time,1225,DAY (NOT NIGHT),NA,DAY (NOT NIGHT),día,3,NA,71,154,63,NA,NA,NA,"día, sol",dia,NA,NA,NA,"day, sun",day,day,NA
+192,measure,816,HALF,NA,HALF,mitad,3,307,359,92,NA,NA,NA,mitad,mitad,mitad,NA,NA,half,"half, middle",half,NA,NA
+193,measure,NA,NA,CUARTA DE MANO,handspan,cuarta de mano,3,308,NA,62,17,NA,NA,cuarta de mano,NA,cuarta,NA,NA,handspan,NA,handspan,handspan,NA
+194,abstract,1559,MONEY,,money,dinero,2,97,275,NA,NA,NA,NA,dinero,dinero,NA,NA,NA,money,money,NA,NA,NA
+195,abstract,984,WORK (LABOUR),NA,work,trabajo,5,109,297,49,16,15,NA,trabajo,trabajo,trabajo,trabajo,NA,NA,work,work,work,NA
+196,abstract,1599,WORD,NA,WORD,palabra,5,18,NA,9,48,49,73,palabra,NA,palabra,palabra,palabra,word,NA,word,word,word
+197,abstract,NA,NA,CULPA,"fault, blame",culpa,4,104,75,20,NA,46,NA,culpa,"pecado, culpa",culpa,culpa,NA,"fault, blame","sin, blame",NA,NA,NA
+198,abstract,2374,DREAM,NA,dream,sueño,3,327,182,NA,NA,78,NA,sueño,sueño,NA,sueño,NA,dream,dream,NA,NA,NA
+199,abstract,1238,WHEN,NA,when,cuando,3,NA,8; 190,155,NA,11,NA,NA,cuando,cuando,cuándo,NA,NA,when,when,NA,NA
+200,abstract,NA,NA,CANCION O MUSICA,"song, music","canción, música",2,NA,440,NA,NA,20,NA,NA,"canción, música",NA,"canción, música",NA,NA,"song, music",NA,NA,NA
+,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,2,,,,
