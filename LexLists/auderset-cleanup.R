@@ -19,3 +19,4 @@ aud2 <- aud1 %>% select(ID, CATEGORY, SPANISH, ENGLISH, CONCEPTICON_ID, CONCEPTI
 glimpse(aud2)
 
 # export for final cleanup
+write_csv(aud2, "/Users/auderset/Documents/GitHub/mixteca/LexLists/Auderset-2020-200-out.csv")
