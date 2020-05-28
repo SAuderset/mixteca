@@ -1,0 +1,136 @@
+Code,VarietyLocation,Group,JosserandGroup,Sources
+prom01,Proto-Mixtec,Mixtec,NA,"\citealt{josserand1983mixtec}, \citealt{durr1987preliminary}, \citealt{swanton2020observaciones}, \citealt{longacre1957proto-mixtecan}"
+abas11,Abasolo del Valle,Mixtec,NA,\citealt{galindo-sanchez2009vocabulario}
+amat11,San Miguel Amatitlán,Mixtec,Central Baja,\citealt{josserand1983mixtec}
+aten11,San Agustín Atenango,Mixtec,Central Baja,\citealt{josserand1983mixtec}
+flor11,San Francisco de las Flores,Mixtec,Central Baja,\citealt{josserand1983mixtec}
+guad11,Guadalupe Villahermosa (El Portesuelo),Mixtec,Central Baja,\citealt{josserand1983mixtec}
+mont12,San Sebastián del Monte,Mixtec,Central Baja,"\citealt{josserand1983mixtec}, \citealt{solano2020san-sebastian}"
+more11,San Luis Morelia,Mixtec,Central Baja,\citealt{josserand1983mixtec}
+nuch11,San Jorge Nuchita,Mixtec,Central Baja,\citealt{josserand1983mixtec}
+acat11,Santa María Acatepec,Mixtec,Coast,\citealt{josserand1983mixtec}
+atoy11,San Pedro Atoyac,Mixtec,Coast,\citealt{josserand1983mixtec}
+chay11,San Agustín Chayuco,Mixtec,Coast,"\citealt{pensinger1974diccionario}, \citealt{josserand1983mixtec}, \citealt{durr1987preliminary}"
+colo11,San Juan Colorado,Mixtec,Coast,"\citealt{campbell1986diccionario}, \citealt{josserand1983mixtec}"
+huaz11,Santa María Huazolotitlán,Mixtec,Coast,\citealt{josserand1983mixtec}
+ixta11,Santiago Ixtayutla,Mixtec,Coast,\citealt{josserand1983mixtec}
+jami11,Santiago Jamiltepec,Mixtec,Coast,\citealt{josserand1983mixtec}
+jica11,Santa María Jicaltepec,Mixtec,Coast,"\citealt{josserand1983mixtec}, \citealt{durr1987preliminary}"
+jica12,San Pedro Jicayán,Mixtec,Coast,\citealt{josserand1983mixtec}
+lore11,San Lorenzo,Mixtec,Coast,\citealt{josserand1983mixtec}
+mech11,Santa Catarina Mechoacán,Mixtec,Coast,\citealt{josserand1983mixtec}
+nuti11,Santa María Nutio,Mixtec,Coast,\citealt{josserand1983mixtec}
+pino11,Santiago Pinotepa Nacional,Mixtec,Coast,\citealt{josserand1983mixtec}
+pino12,Pinotepa de Don Luis,Mixtec,Coast,\citealt{josserand1983mixtec}
+sayu11,San Francisco Sayultepec,Mixtec,Coast,\citealt{josserand1983mixtec}
+tepe12,San Antonio Tepetlapa,Mixtec,Coast,\citealt{josserand1983mixtec}
+tutu11,Villa de Tututepec de Melchor Ocampo,Mixtec,Coast,\citealt{josserand1983mixtec}
+zaca11,Santa María Zacatepec,Mixtec,Coast,"\citealt{josserand1983mixtec}, \citealt{towne2011gramatica}"
+diux11,San Juan Diuxi,Mixtec,Eastern Alta,"\citealt{josserand1983mixtec}, \citealt{durr1987preliminary}"
+este11,Santa Catarina Estetla,Mixtec,Eastern Alta,\citealt{josserand1983mixtec}
+huit11,San Antonio Huitepec,Mixtec,Eastern Alta,\citealt{josserand1983mixtec}
+nuxa11,Santo Domingo Nuxaá,Mixtec,Eastern Alta,\citealt{josserand1983mixtec}
+nuxi11,San Andrés Nuxiño,Mixtec,Eastern Alta,\citealt{josserand1983mixtec}
+peno11,Santa María Peñoles,Mixtec,Eastern Alta,"\citealt{josserand1983mixtec}, \citealt{durr1987preliminary}, \citealt{daly1977mixteco}"
+pied11,San Miguel Piedras,Mixtec,Eastern Alta,\citealt{josserand1983mixtec}
+sind11,San Mateo Sindihui,Mixtec,Eastern Alta,\citealt{josserand1983mixtec}
+tama11,San Juan Tamazola,Mixtec,Eastern Alta,\citealt{josserand1983mixtec}
+tepo01,San Pedro y San Pablo Teposcolula 1600,Mixtec,Eastern Alta,"\citealt{reyes1890arte}, \citealt{alvarado1593vocabulario}"
+tepo11,San Pedro y San Pablo Teposcolula,Mixtec,Eastern Alta,\citealt{josserand1983mixtec}
+tida11,San Pedro Tidaá,Mixtec,Eastern Alta,\citealt{josserand1983mixtec}
+tila11,Santiago Tilantongo,Mixtec,Eastern Alta,\citealt{josserand1983mixtec}
+tlaz11,Santiago Tlazoyaltepec,Mixtec,Eastern Alta,\citealt{josserand1983mixtec}
+yucu14,San Pedro Yucunama,Mixtec,Eastern Alta,\citealt{josserand1983mixtec}
+yuta11,Yutanduchi de Guerrero,Mixtec,Eastern Alta,\citealt{josserand1983mixtec}
+yuta12,San Juan Yuta,Mixtec,Eastern Alta,\citealt{josserand1983mixtec}
+nund13,Santo Domingo Nundo,Mixtec,Eastern Alta/Tezoatlan,\citealt{josserand1983mixtec}
+alac11,Alacatlatzala,Mixtec,Guerrero,"\citealt{anderson2006vocabulario}, \citealt{josserand1983mixtec}, \citealt{durr1987preliminary}"
+alco11,Alcozáuca de Guerrero,Mixtec,Guerrero,"\citealt{josserand1983mixtec}, \citealt{swanton2020observaciones}"
+brav11,Santa Cruz de Bravo,Mixtec,Guerrero,\citealt{josserand1983mixtec}
+cahu11,Cahuatache,Mixtec,Guerrero,"\citealt{josserand1983mixtec}, \citealt{durr1987preliminary}"
+cuat11,Cuatzoquitengo,Mixtec,Guerrero,\citealt{josserand1983mixtec}
+yolo12,Yoloxochitl,Mixtec,Guerrero,\citealt{josserand1983mixtec}
+tlah11,Tlahuapa,Mixtec,Guerrero*,\citealt{reyes-basurto2020tlahuapa}
+xoch11,Xochapa,Mixtec,Guerrero*,\citealt{gonzalez-de-guzman2013diccionario}
+mixt11,San Juan Mixtepec,Mixtec,Mixtepec,"\citealt{josserand1983mixtec}, \citealt{durr1987preliminary}"
+tejo11,Los Tejocotes,Mixtec,Mixtepec,\citealt{josserand1983mixtec}
+yucu15,Santa María Yucunicoco,Mixtec,Mixtepec,\citealt{josserand1983mixtec}
+adeq11,Santa Catarina Adequez,Mixtec,Northeastern Alta,\citealt{josserand1983mixtec}
+apas11,Santa María Apazco,Mixtec,Northeastern Alta,\citealt{josserand1983mixtec}
+apoa11,Santiago Apoala,Mixtec,Northeastern Alta,\citealt{josserand1983mixtec}
+chic11,San Miguel Chicahua,Mixtec,Northeastern Alta,\citealt{josserand1983mixtec}
+coxc11,San Pedro Coxcaltepec Cántaros,Mixtec,Northeastern Alta,\citealt{josserand1983mixtec}
+cuil11,Cuilapam de Guerrero,Mixtec,Northeastern Alta,\citealt{josserand1983mixtec}
+ixta12,Santiago Ixtaltepec,Mixtec,Northeastern Alta,\citealt{josserand1983mixtec}
+joco11,San Pedro Jocotipac,Mixtec,Northeastern Alta,\citealt{josserand1983mixtec}
+mont14,San Agustín Monte Lobos,Mixtec,Northeastern Alta,\citealt{josserand1983mixtec}
+ndua11,San Antonio Nduayaco,Mixtec,Northeastern Alta,\citealt{josserand1983mixtec}
+soso11,San Jerónimo Sosola,Mixtec,Northeastern Alta,\citealt{josserand1983mixtec}
+soya11,San Bartolo Soyaltepec,Mixtec,Northeastern Alta,\citealt{josserand1983mixtec}
+jate11,San Francisco Jaltepetongo,Mixtec,Northeastern Alta/Eastern Alta,\citealt{josserand1983mixtec}
+coat11,San Juan Coatzóspam,Mixtec,Northern Alta,\citealt{durr1987preliminary}
+cuau11,Santa Ana Cuauhtémoc,Mixtec,Northern Alta,\citealt{josserand1983mixtec}
+cuya11,Cuyamecalco Villa de Zaragoza,Mixtec,Northern Alta,\citealt{josserand1983mixtec}
+chaz11,Santiago Chazumba,Mixtec,Northern Baja,\citealt{josserand1983mixtec}
+chig11,Chigmecatitlán,Mixtec,Northern Baja,\citealt{josserand1983mixtec}
+coso11,Cosoltepec,Mixtec,Northern Baja,\citealt{josserand1983mixtec}
+ixta13,San Miguel Ixtapam,Mixtec,Northern Baja,\citealt{josserand1983mixtec}
+mica11,El Rosario Micaltepec,Mixtec,Northern Baja,\citealt{josserand1983mixtec}
+tepe11,Tepejillo,Mixtec,Northern Baja,\citealt{josserand1983mixtec}
+tlal11,Santa Catarina Tlaltempan,Mixtec,Northern Baja,\citealt{josserand1983mixtec}
+tona11,Santa María Tonahuixtla,Mixtec,Northern Baja,\citealt{josserand1983mixtec}
+toto12,Totoltepec de Guerrero,Mixtec,Northern Baja,\citealt{josserand1983mixtec}
+xaya11,San Jerónimo Xayacatlán,Mixtec,Northern Baja,"\citealt{josserand1983mixtec}, \citealt{durr1987preliminary}"
+xaya12,Xayacatlán de Bravo,Mixtec,Northern Baja,\citealt{josserand1983mixtec}
+zapo11,Zapotitlán Palmas,Mixtec,Northern Baja,\citealt{josserand1983mixtec}
+ayut11,Ayutla de los Libres,Mixtec,Southern Baja,"\citealt{campos2004diccionario}, \citealt{josserand1983mixtec}, \citealt{durr1987preliminary}"
+chay12,San Pedro Chayuco,Mixtec,Southern Baja,\citealt{josserand1983mixtec}
+coic11,Coicoyán de las Flores,Mixtec,Southern Baja,\citealt{josserand1983mixtec}
+dura11,San Martín Duraznos,Mixtec,Southern Baja,"\citealt{hernandez2020san-martin}, \citealt{josserand1983mixtec}"
+ixpa11,Ixpantepec Nieves,Mixtec,Southern Baja,\citealt{josserand1983mixtec}
+juxt11,Santiago Juxtlahuaca,Mixtec,Southern Baja,\citealt{josserand1983mixtec}
+metl11,Metlatónoc,Mixtec,Southern Baja,"\citealt{josserand1983mixtec}, \citealt{durr1987preliminary}"
+pera11,San Martín Peras,Mixtec,Southern Baja,\citealt{josserand1983mixtec}
+prog12,San Jerónimo Progreso,Mixtec,Southern Baja,"\citealt{josserand1983mixtec}, \citealt{durr1987preliminary}"
+reye11,Santos Reyes Tepejillo,Mixtec,Southern Baja,\citealt{josserand1983mixtec}
+teco11,San Sebastián Tecomaxtlahuaca,Mixtec,Southern Baja,\citealt{josserand1983mixtec}
+tlac12,San Miguel Tlacotepec,Mixtec,Southern Baja,\citealt{josserand1983mixtec}
+asun11,Santa María Asunción,Mixtec,Southern Baja*,\citealt{carrasco2020santa}
+flor12,San Marcos de la Flor,Mixtec,Southern Baja*,pending
+pied12,Piedra Azul,Mixtec,Southern Baja*,\citealt{mendoza2020piedra}
+caca11,Santiago Cacaloxtepec,Mixtec,Tezoatlan,"\citealt{josserand1983mixtec}, \citealt{durr1987preliminary}"
+yucu13,Yucuñuti de Benito Juárez,Mixtec,Tezoatlan,\citealt{josserand1983mixtec}
+yucu16,Yucuquimi de Ocampo,Mixtec,Tezoatlan,\citealt{josserand1983mixtec}
+yuta13,San Andrés Yutatío,Mixtec,Tezoatlan*,"\citealt{williams2007gramatica}, \citealt{williams2017diccionario}"
+achi11,San Miguel Achiutla,Mixtec,Western Alta,\citealt{josserand1983mixtec}
+atat11,San Esteban Atatlahuca,Mixtec,Western Alta,"\citealt{alexander1980gramatica}, \citealt{josserand1983mixtec}, \citealt{durr1987preliminary}"
+chal11,Chalcatongo de Hidalgo,Mixtec,Western Alta,"\citealt{macaulay1990grammar}, \citealt{josserand1983mixtec}"
+gran11,San Miguel El Grande,Mixtec,Western Alta,"\citealt{josserand1983mixtec}, \citealt{josserand1983mixtec}, \citealt{durr1987preliminary}, \citealt{durr1987preliminary}, \citealt{dyk1951vocabulario}, \citealt{dyk1951vocabulario}"
+itun11,Santa Cruz Itundujia,Mixtec,Western Alta,\citealt{josserand1983mixtec}
+moli11,San Pedro Molinos,Mixtec,Western Alta,"\citealt{josserand1983mixtec}, \citealt{durr1987preliminary}"
+mont13,Santa Lucía Monteverde,Mixtec,Western Alta,"\citealt{josserand1983mixtec}, \citealt{solano2020verbs}"
+numi11,San Juan Ñumi,Mixtec,Western Alta,"\citealt{josserand1983mixtec}, \citealt{gittlen2016gramatica}"
+nund11,Santa Cruz Nundaco,Mixtec,Western Alta,\citealt{josserand1983mixtec}
+nuyo11,Santiago Nuyoó,Mixtec,Western Alta,\citealt{josserand1983mixtec}
+ocot11,Santo Tomás Ocotepec,Mixtec,Western Alta,"\citealt{josserand1983mixtec}, \citealt{durr1987preliminary}"
+pena11,Magdalena Peñasco,Mixtec,Western Alta,\citealt{hollenbach2013gramatica}
+pena12,San Mateo Peñasco,Mixtec,Western Alta,\citealt{josserand1983mixtec}
+prog11,San Miguel Progreso,Mixtec,Western Alta,\citealt{josserand1983mixtec}
+sini11,San José (San José Sinicahua),Mixtec,Western Alta,\citealt{josserand1983mixtec}
+tata11,Santa María Tataltepec,Mixtec,Western Alta,\citealt{josserand1983mixtec}
+teit11,San Juan Teita,Mixtec,Western Alta,\citealt{josserand1983mixtec}
+tlac11,San Agustín Tlacotepec,Mixtec,Western Alta,\citealt{josserand1983mixtec}
+yolo11,Santa María Yolotepec,Mixtec,Western Alta,"\citealt{josserand1983mixtec}, \citealt{amith2020yoloxochitl}"
+yoso11,Santiago Yosondúa,Mixtec,Western Alta,"\citealt{josserand1983mixtec}, \citealt{farris2012diccionario}"
+yucu11,San Bartolomé Yucuañe,Mixtec,Western Alta,\citealt{josserand1983mixtec}
+yucu12,Santa María Yucuhiti,Mixtec,Western Alta,\citealt{josserand1983mixtec}
+ahue11,San Miguel Ahuehuetitlán,Mixtec,Western Baja,\citealt{josserand1983mixtec}
+esta11,San Martín del Estado,Mixtec,Western Baja,\citealt{josserand1983mixtec}
+tama12,Santiago Tamazola,Mixtec,Western Baja,\citealt{josserand1983mixtec}
+prot01,Proto-Trique,Triqui,NA,\citealt{longacre1957proto-mixtecan}
+chic02,San Andrés Chicahuaxtla 1890,Triqui,NA,\citealt{belmar1897ensayo}
+chic12,San Andrés Chicahuaxtla,Triqui,NA,\citealt{good1978diccionario}
+copa11,San Juan Copala,Triqui,NA,\citealt{hollenbach2008gramatica}
+itun12,San Martín Itunyoso,Triqui,NA,pending
+papa11,Santa María Pápalo,Cuicatec,NA,\citealt{anderson1983diccionario}
+tepe03,San Juan Tepeuxila 1900,Cuicatec,NA,\citealt{belmar1902el-cuicateco}

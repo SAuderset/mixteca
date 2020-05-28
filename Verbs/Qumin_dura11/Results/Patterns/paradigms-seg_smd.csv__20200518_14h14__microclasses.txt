@@ -1,0 +1,106 @@
+
+
+V328_kuntaya (1) 
+	V328_kuntaya
+
+V005_kusi (1) 
+	V005_kusi
+
+V049_koan (1) 
+	V049_koan
+
+V185_kukuiti (1) 
+	V185_kukuiti
+
+V020_kusiki (1) 
+	V020_kusiki
+
+V278_kuntxita (1) 
+	V278_kuntxita
+
+V029_kivi (1) 
+	V029_kivi
+
+V241_kununu (1) 
+	V241_kununu
+
+V030_ko'o (1) 
+	V030_ko'o
+
+V056_kashi (1) 
+	V056_kashi
+
+V059_kuchi (1) 
+	V059_kuchi
+
+V276_kuxiva'a (1) 
+	V276_kuxiva'a
+
+V063_kutxiya'a (1) 
+	V063_kutxiya'a
+
+V007_koso (1) 
+	V007_koso
+
+V094_kotuntxe'e (1) 
+	V094_kotuntxe'e
+
+V052_kasini (1) 
+	V052_kasini
+
+V250_kuxiva'a (1) 
+	V250_kuxiva'a
+
+V055_kuni (1) 
+	V055_kuni
+
+V082_koo (1) 
+	V082_koo
+
+V102_ku'un (1) 
+	V102_ku'un
+
+V192_kuka'nu (1) 
+	V192_kuka'nu
+
+V202_ntaa (1) 
+	V202_ntaa
+
+V165_koso (1) 
+	V165_koso
+
+V166_vaxi (1) 
+	V166_vaxi
+
+V288_koso (2) 
+	V288_koso, V321_kasi
+
+V211_saya'a (2) 
+	V211_saya'a, V219_ntakaa
+
+V149_kutaka (2) 
+	V098_kunti'i, V149_kutaka
+
+V103_ntikue'e (2) 
+	V103_ntikue'e, V153_ntikua'a
+
+V331_yoso (5) 
+	V152_kuya'a, V249_kukuaan, V251_kukuii, V267_kunte'i, V331_yoso
+
+V002_kaka (6) 
+	V001_kaxa'an, V002_kaka, V027_kakan, V139_kataxa'a, V175_kata, V333_kakanuu
+
+V330_xiti (8) 
+	V019_kuaki, V026_kuati, V028_kua'a, V036_kuiin, V047_kua'nu, V107_kuixa, V205_kuitxa, V330_xiti
+
+V114_koto (9) 
+	V046_kuniñu'u, V076_kotontoso, V113_kotoini, V114_koto, V117_kotoni'ni, V147_kunu, V162_kutuntxe'e, V194_koko, V271_kukuiin
+
+V109_kee (13) 
+	V008_ka'ntxa, V013_kaki, V034_ka'mi, V045_ka'ni, V072_kuna, V108_kaxi, V109_kee, V132_kuna, V204_katxa, V212_ku'ni, V242_kakintxaa, V290_ka'nu, V322_katxa
+
+V178_ (15) 
+	V010_kuntxati, V044_kuntxaa, V060_kunani, V069_kuñu'un, V081_kutxaki, V133_kukumi, V141_kukii, V154_ntasi, V156_kuntaa, V178_, V200_kontoo, V225_kuntakaa, V283_kuna'a, V332_kunii, V334_kuntxaka
+
+V124_nuu (247) 
+	V003_kuunsavi, V004_ka'an, V006_txiin, V009_kikin, V011_ntxiko, V012_ntaka'vi, V014_kana, V015_kaki, V016_txivi, V017_ntixan, V018_kayi, V021_lala, V022_kasha, V023_sayo'va, V024_yi'i, V025_kitxi, V031_chi'i, V032_ntachi, V033_sakusivi, V035_nte'e, V037_sakana, V038_chiti, V039_kaita'an, V040_ntikani, V041_ki'vi, V042_kukuachiini, V043_sa'a, V048_kunii, V050_ichi, V051_tu'un, V053_suva'a, V054_ntikoo, V057_tashi, V058_sakuchi, V061_saka, V062_chikaa, V064_tava, V065_ntikatxa, V066_koxoo, V067_taan, V068_ntova, V070_yakua, V071_nuna, V073_kixa'a, V074_ntantoso, V075_kuntxi'i, V077_kumani, V078_kotoo, V079_kasun, V080_sakasun, V083_txe'i, V084_kagua, V085_ntataka, V086_santuvi, V087_kuchuun, V088_ntiki, V089_saka'a, V090_ntika'nu, V091_kachi, V092_ntachinuu, V093_santoko, V095_ntiyaa, V096_txitxiin, V097_txiin, V099_nu'un, V100_ntake'e, V101_taan, V104_ntxi'i, V105_tivi, V106_ka'mu, V110_ke'e, V111_xani, V112_kusiiini, V115_nto'o, V116_ntikua'a, V118_ntakan, V119_ntakatu'un, V120_kana, V121_chintxee, V122_ki'in, V123_txatxa, V124_nuu, V125_nuuse'e, V126_keta, V127_koyo, V128_xaa, V129_satatan, V130_kini, V131_ntashita, V134_tavi, V135_si'vi, V136_ntava, V137_kani'i, V138_chiñu'u, V140_ki'vi, V142_ntakatxa, V143_katun, V144_ntikaxi, V145_txivintxaa, V146_ntakoto, V148_chinii, V150_kataka, V151_ntata, V155_soo, V157_kantxaa, V158_ya'a, V159_ntixaa, V160_txaso'o, V161_ntuta'an, V163_chintoo, V164_chitivintxaa, V167_tanta'a, V168_ka'an, V169_sa'antxiva'a, V170_kanii, V171_kontoo, V172_ntikintxee, V174_tivi, V176_ntxikoni'i, V177_chinuu, V179_sakua'a, V180_kantakava, V181_kanta, V182_xaa, V183_ntani'i, V184_ntativi, V186_sakutxiya'a, V187_sakukunuo, V188_koto'va, V189_ntoo, V190_ntaki'in, V191_ni'i, V193_xaa, V195_tivi, V196_santxi'i, V197_tase'e, V198_kaa, V199_santoo, V201_ntañuu, V203_xinu, V206_yakun, V207_katei, V208_nañu, V209_nuntxa'a, V210_ntiku'unini, V213_kaan, V214_yata, V215_ka'ntxi, V216_xuun, V217_tuun, V218_chikava'a, V220_chikanii, V221_yivintxaa, V222_chikili, V223_txa'ntxa, V224_kuntasi, V226_cho'o, V227_kuva'a, V228_kee, V229_kai, V230_ka'a, V231_sakuachi, V232_shita, V233_ntakaxi, V234_txaa, V235_sana'a, V236_ntuva'a, V237_saka, V238_chita'an, V239_ntakuni, V240_sanuntxa'a, V243_ta'vi, V244_kavanuu, V245_ntisaka, V246_saa, V247_kuntaa, V248_ntxikokoo, V252_kuita, V253_kuntxee, V254_shu'un, V255_sana, V256_ntatava, V257_chintxaa, V258_xixin, V259_chiko'va, V260_sakee, V261_sakoyo, V262_kuntxitxa, V263_numi, V264_ntantiki, V265_sante'i, V266_ntasaa, V268_tana, V269_txañu, V270_txian, V272_ntakasi, V273_sakitxi, V274_saketa, V275_ntiko'o, V277_ni'i, V279_ntxiko, V280_santxiko, V281_ntachikaa, V282_nta'ava, V284_ntikua'a, V285_kunaa, V286_ñani, V287_ntaka'nu, V289_titi, V291_kutatxi, V292_takue'e, V293_kutatan, V294_shatxa, V295_chichi, V296_ntaxin, V297_ñu'ma, V298_kava, V299_kaan, V300_kaya, V301_kantxaa, V302_ka'vi, V303_kata, V304_kuun, V305_kisi, V306_kuya'vi, V307_kokonii, V308_kokona'na, V309_kuchuun, V310_sama, V311_ntasama, V312_nana, V313_nta'a, V314_xaxan, V315_ntxitxa, V316_sayaa, V317_ta'ni, V318_kuyatxi, V319_xo'o, V320_xini, V323_kuchishi, V324_ntichishi, V325_ntxii, V326_kukiniini, V327_xi'in, V329_sakua'na, V335_ntxee, V336_shiko
