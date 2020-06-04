@@ -1,4 +1,4 @@
-(install xlsx2csv with pip 3)
+(install xlsx2csv with pip3)
 
 ```
 xlsx2csv -a -d 'tab' filetosplit.xlsx OUTPUTFOLDER

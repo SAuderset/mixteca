@@ -1,0 +1,1155 @@
+ID,ID_Durr,Doculect,Concept,Form,PMCouplet,ToneMod,IPA,IPAtok
+1,1,diux11,animal,kɨ̀tɨ̀,HHʔ,no,kɨ1tɨ1,k ɨ1 t ɨ1
+2,11,diux11,bone,žɨ̀kɨ̀,HHʔ,no,ʒɨ1kɨ1,ʒ ɨ1 k ɨ1
+3,12,diux11,chile,žàʔà,HHʔ,no,ʒa1ʔa1,ʒ a1 ʔ a1
+4,30,diux11,one,ɨ̧̀ɨ̧̀,HH,no,ɨ̃1ɨ̃1,ɨ̃1 ɨ̃1
+5,31,diux11,paper,tútú,HL,no,tu5tu5,t u5 t u5
+6,34,diux11,uncle,đìtò,HL,no,ði1to1,ð i1 t o1
+7,35,diux11,aunt,đìđí,HL,no,ði1ði5,ð i1 ð i5
+8,40,diux11,brother,ñànì,HL,no,ña1ni1,ñ a1 n i1
+9,52,diux11,cross-sex sibling,kúʔá,LH,no,ku5ʔa5,k u5 ʔ a5
+10,54,diux11,child,đáʔžá,LH,no,ða5ʔʒa5,ð a5 ʔ ʒ a5
+11,55,diux11,sibling's wife,šànú,LH,no,ʃa1nu5,ʃ a1 n u5
+12,56,diux11,ear,đòʔó,LH,no,ðo1ʔo5,ð o1 ʔ o5
+13,60,diux11,good,ƀàʔá,LH,no,βa1ʔa5,β a1 ʔ a5
+14,61,diux11,medicine,tátná̧,LLʔ,no,ta5tnã5,t a5 t n ã5
+15,62,diux11,four,kó̧ó̧,LLʔ,no,kõ5õ5,k õ5 õ5
+16,63,diux11,day,kɨ́ú,LLʔ,no,kɨ5u5,k ɨ5 u5
+17,67,diux11,cane,ndóó,LLʔ,no,ⁿdo5o5,ⁿd o5 o5
+18,74,diux11,stone,žúú,LLʔ,no,ʒu5u5,ʒ u5 u5
+19,78,diux11,sister,kúʔú,LL,no,ku5ʔu5,k u5 ʔ u5
+20,82,diux11,niece,đíkú,LL,no,ði5ku5,ð i5 k u5
+21,83,diux11,nephew,đàší,LL,no,ða1ʃi5,ð a1 ʃ i5
+22,84,diux11,foot,šéʔé,LL,no,ʃe5ʔe5,ʃ e5 ʔ e5
+23,86,diux11,thread,žúʔá,LL,no,ʒu5ʔa5,ʒ u5 ʔ a5
+24,88,diux11,nine,ɨ̧́ɨ̧́,LL,no,ɨ̃5ɨ̃5,ɨ̃5 ɨ̃5
+25,89,diux11,two,úú,LL,no,u5u5,u5 u5
+26,94,diux11,fish,čákà,MT,no,t͡ʃa5ka1,t͡ʃ a5 k a1
+27,96,diux11,sibling's husband,kàđá,MT,no,ka1ða5,k a1 ð a5
+28,98,diux11,big (sg),kà̧ʔnù̧,MT,no,kã1ʔnũ1,k ã1 ʔ n ũ1
+29,103,diux11,yellow,kwà̧à̧,MT,no,kʷã1ã1,kʷ ã1 ã1
+30,108,diux11,little,lùčì,MT,no,lu1t͡ʃi1,l u1 t͡ʃ i1
+31,1,peno11,animal,kɨ̀tɨ̀,HHʔ,no,kɨ1tɨ1,k ɨ1 t ɨ1
+32,2,peno11,to eat,kàšì,HHʔ,no,ka1ʃi1,k a1 ʃ i1
+33,3,peno11,beans,ndùčì,HHʔ,no,ⁿdu1t͡ʃi1,ⁿd u1 t͡ʃ i1
+34,4,peno11,water,ndùtè,HHʔ,no,ⁿdu1te1,ⁿd u1 t e1
+35,5,peno11,hand,ndàʔà,HHʔ,no,ⁿda1ʔa1,ⁿd a1 ʔ a1
+36,7,peno11,tree,žùtù̧,HHʔ,no,ʒu1tũ1,ʒ u1 t ũ1
+37,8,peno11,mountain,žùkù,HHʔ,no,ʒu1ku1,ʒ u1 k u1
+38,9,peno11,straw mat,žùù,HHʔ,no,ʒu1u1,ʒ u1 u1
+39,10,peno11,mouth,žùʔù,HHʔ,no,ʒu1ʔu1,ʒ u1 ʔ u1
+40,11,peno11,bone,žɨ̀kɨ̀,HHʔ,no,ʒɨ1kɨ1,ʒ ɨ1 k ɨ1
+41,12,peno11,chile,žàʔà,HHʔ,no,ʒa1ʔa1,ʒ a1 ʔ a1
+42,14,peno11,rope,žòʔò,HHʔ,no,ʒo1ʔo1,ʒ o1 ʔ o1
+43,15,peno11,road,ìčì,HHʔ,no,i1t͡ʃi1,i1 t͡ʃ i1
+44,16,peno11,work,čî̧ù̧,HH,no,t͡ʃĩ2ũ1,t͡ʃ ĩ2 ũ1
+45,17,peno11,handspan,tòò,HH,no,to1o1,t o1 o1
+46,18,peno11,to come,kìšì,HH,no,ki1ʃi1,k i1 ʃ i1
+47,19,peno11,to run,kùnù,HH,no,ku1nu1,k u1 n u1
+48,20,peno11,to be,kùù,HH,no,ku1u1,k u1 u1
+49,21,peno11,to sing,kàtà,HH,no,ka1ta1,k a1 t a1
+50,22,peno11,to be born,kàkù,HH,no,ka1ku1,k a1 k u1
+51,23,peno11,to burn,kàʔmì,HH,no,ka1ʔmi1,k a1 ʔ m i1
+52,24,peno11,to look,kòtò,HH,no,ko1to1,k o1 t o1
+53,25,peno11,to drink,kòʔò,HH,no,ko1ʔo1,k o1 ʔ o1
+54,26,peno11,to buy,kwà̧à̧,HH,no,kʷã1ã1,kʷ ã1 ã1
+55,27,peno11,now,ƀìtà̧,HH,no,βi1tã1,β i1 t ã1
+56,28,peno11,house,ƀèʔè,HH,no,βe1ʔe1,β e1 ʔ e1
+57,29,peno11,yesterday,ìkù,HH,no,i1ku1,i1 k u1
+58,30,peno11,one,ɨ̧̀ɨ̧̀,HH,no,ɨ̃1ɨ̃1,ɨ̃1 ɨ̃1
+59,31,peno11,paper,tùtú,HL,no,tu1tu5,t u1 t u5
+60,32,peno11,stool,tèžú,HL,no,te1ʒu5,t e1 ʒ u5
+61,33,peno11,lime,kàkà,HL,no,ka1ka1,k a1 k a1
+62,34,peno11,uncle,đìtó,HL,no,ði1to5,ð i1 t o5
+63,35,peno11,aunt,đìđí,HL,no,ði1ði5,ð i1 ð i5
+64,36,peno11,frog,làʔƀá,HL,no,la1ʔβa5,l a1 ʔ β a5
+65,37,peno11,bird,tɨ́-làá,HL,no,tɨ5+la1a5,t ɨ5 + l a1 a5
+66,39,peno11,town,ñùú,HL,no,ñu1u5,ñ u1 u5
+67,40,peno11,brother,ñàní,HL,no,ña1ni5,ñ a1 n i5
+68,41,peno11,hole,žàú,HL,no,ʒa1u5,ʒ a1 u5
+69,42,peno11,flower,ìtá,HL,no,i1ta5,i1 t a5
+70,43,peno11,deer,ìđú,HL,no,i1ðu5,i1 ð u5
+71,44,peno11,inside,ìní,HL,no,i1ni5,i1 n i5
+72,45,peno11,dog,ìná,HL,no,i1na5,i1 n a5
+73,46,peno11,stomach,šɨ̀tɨ́,LH,no,ʃɨ1tɨ5,ʃ ɨ1 t ɨ5
+74,47,peno11,man,téè,LH,no,te5e1,t e5 e1
+75,48,peno11,word,túʔù̧,LH,no,tu5ʔũ1,t u5 ʔ ũ1
+76,49,peno11,clay pot,kɨ́đɨ̀,LH,no,kɨ5ðɨ1,k ɨ5 ð ɨ1
+77,51,peno11,meat,kùñú,LH,no,ku1ñu5,k u1 ñ u5
+78,52,peno11,cross-sex sibling,kúʔà,LH,no,ku5ʔa1,k u5 ʔ a1
+79,53,peno11,adobe,ndóʔò,LH,no,ⁿdo5ʔo1,ⁿd o5 ʔ o1
+80,54,peno11,child,đéʔè,LH,no,ðe5ʔe1,ð e5 ʔ e1
+81,55,peno11,sibling's wife,sánù,LH,no,sa5nu1,s a5 n u1
+82,56,peno11,ear,đóʔò,LH,no,ðo5ʔo1,ð o5 ʔ o1
+83,57,peno11,tooth,nú̧ʔù̧,LH,no,nũ5ʔũ1,n ũ5 ʔ ũ1
+84,58,peno11,river,žútè,LH,no,ʒu5te1,ʒ u5 t e1
+85,59,peno11,cold,ƀíšì̧,LH,no,βi5ʃĩ1,β i5 ʃ ĩ1
+86,60,peno11,good,ƀáʔà,LH,no,βa5ʔa1,β a5 ʔ a1
+87,62,peno11,four,kúmí,LLʔ,no,ku5mi5,k u5 m i5
+88,65,peno11,snake,kóó,LLʔ,no,ko5o5,k o5 o5
+89,67,peno11,cane,tù-žòò,LLʔ,no,tu1+ʒo1o1,t u1 + ʒ o1 o1
+90,68,peno11,tortilla,đítá,LLʔ,no,ði5ta5,ð i5 t a5
+91,69,peno11,head,dɨ́kɨ́,LLʔ,no,ðɨ5kɨ5,ð ɨ5 k ɨ5
+92,70,peno11,comal,šíó,LLʔ,no,ʃi5o5,ʃ i5 o5
+93,71,peno11,soap,námá,LLʔ,no,na5ma5,n a5 m a5
+94,72,peno11,face,núú,LLʔ,no,nu5u5,n u5 u5
+95,73,peno11,corn,núní,LLʔ,no,nu5ni5,n u5 n i5
+96,74,peno11,stone,žúú,LLʔ,no,ʒu5u5,ʒ u5 u5
+97,75,peno11,moon,žóó,LLʔ,no,ʒo5o5,ʒ o5 o5
+98,76,peno11,to go,kɨ̧́ʔɨ̧́,LL,no,kɨ̃5ʔɨ̃5,k ɨ̃5 ʔ ɨ̃5
+99,77,peno11,comb,kúká,LL,no,ku5ka5,k u5 k a5
+100,78,peno11,sister,kúʔú,LL,no,ku5ʔu5,k u5 ʔ u5
+101,79,peno11,to cut,kèʔndé,LL,no,ke1ʔⁿde5,k e1 ʔ ⁿd e5
+102,80,peno11,to speak,ká̧ʔá̧,LL,no,kã5ʔã5,k ã5 ʔ ã5
+103,81,peno11,year,kwíá,LL,no,kʷi5a5,kʷ i5 a5
+104,82,peno11,niece,đíkú,LL,no,ði5ku5,ð i5 k u5
+105,83,peno11,nephew,đáší̧,LL,no,ða5ʃĩ5,ð a5 ʃ ĩ5
+106,84,peno11,foot,sáʔá,LL,no,sa5ʔa5,s a5 ʔ a5
+107,85,peno11,"herb, bush",žúkú,LL,no,ʒu5ku5,ʒ u5 k u5
+108,86,peno11,thread,žúʔá,LL,no,ʒu5ʔa5,ʒ u5 ʔ a5
+109,87,peno11,sweet,sá-ƀìdí,LL,no,sa5+βi1ði5,s a5 + β i1 ð i5
+110,88,peno11,nine,ɨ̧́ɨ̧́,LL,no,ɨ̃5ɨ̃5,ɨ̃5 ɨ̃5
+111,89,peno11,two,úú,LL,no,u5u5,u5 u5
+112,90,peno11,five,ú̧ʔú̧,LL,no,ũ5ʔũ5,ũ5 ʔ ũ5
+113,92,peno11,rat,tɨ̀ñɨ̀,MT,no,tɨ1ñɨ1,t ɨ1 ñ ɨ1
+114,94,peno11,fish,čáká,MT,no,t͡ʃa5ka5,t͡ʃ a5 k a5
+115,95,peno11,black,tù̧ù̧,MT,no,tũ1ũ1,t ũ1 ũ1
+116,96,peno11,sibling's husband,kàđà,MT,no,ka1ða1,k a1 ð a1
+117,97,peno11,long,kâní,MT,no,ka2ni5,k a2 n i5
+118,98,peno11,big (sg),kâʔnù,MT,no,ka2ʔnu1,k a2 ʔ n u1
+119,99,peno11,white,kwîší̧,MT,no,kʷi2ʃĩ5,kʷ i2 ʃ ĩ5
+120,100,peno11,green,kwîì,MT,no,kʷi2i1,kʷ i2 i1
+121,102,peno11,red,tɨ̀-kwêʔé,MT,no,tɨ1+kʷe2ʔe5,t ɨ1 + kʷ e2 ʔ e5
+122,103,peno11,yellow,kwâ̧á̧,MT,no,kʷã2ã5,kʷ ã2 ã5
+123,104,peno11,poor,ndâʔú,MT,no,ⁿda2ʔu5,ⁿd a2 ʔ u5
+124,105,peno11,to sell,đìkò,MT,no,ði1ko1,ð i1 k o1
+125,106,peno11,precious metal,đí̧ʔú̧,MT,no,ðĩ5ʔũ5,ð ĩ5 ʔ ũ5
+126,107,peno11,new,sàà,MT,no,sa1a1,s a1 a1
+127,108,peno11,little,líʔlì,MT,no,li5ʔli1,l i5 ʔ l i1
+128,109,peno11,people,ñá-žɨ̀ù,MT,no,ña5+ʒɨ1u1,ñ a5 + ʒ ɨ1 u1
+129,110,peno11,tongue,žâá,MT,no,ʒa2a5,ʒ a2 a5
+130,2,coat11,to eat,káʔší,HHʔ,no,ka5ʔʃi5,k a5 ʔ ʃ i5
+131,3,coat11,beans,ndùʔȼì,HHʔ,no,ⁿdu1ʔt͡si1,ⁿd u1 ʔ t͡s i1
+132,4,coat11,water,ndùʔtè,HHʔ,no,ⁿdu1ʔte1,ⁿd u1 ʔ t e1
+133,5,coat11,hand,ndàʔà,HHʔ,no,ⁿda1ʔa1,ⁿd a1 ʔ a1
+134,6,coat11,clothes,đàʔmà̧,HHʔ,no,ða1ʔmã1,ð a1 ʔ m ã1
+135,10,coat11,mouth,šùʔù,HHʔ,no,ʃu1ʔu1,ʃ u1 ʔ u1
+136,12,coat11,chile,šàʔà,HHʔ,no,ʃa1ʔa1,ʃ a1 ʔ a1
+137,14,coat11,rope,šòʔò,HHʔ,no,ʃo1ʔo1,ʃ o1 ʔ o1
+138,16,coat11,work,ȼìñù,HH,no,t͡si1ñu1,t͡s i1 ñ u1
+139,20,coat11,to be,kùƀì,HH,no,ku1βi1,k u1 β i1
+140,21,coat11,to sing,kàʔtà,HH,no,ka1ʔta1,k a1 ʔ t a1
+141,23,coat11,to burn,kàʔmì̧,HH,no,ka1ʔmĩ1,k a1 ʔ m ĩ1
+142,24,coat11,to look,kòʔtò,HH,no,ko1ʔto1,k o1 ʔ t o1
+143,25,coat11,to drink,kòʔò,HH,no,ko1ʔo1,k o1 ʔ o1
+144,26,coat11,to buy,kwì̧ì̧,HH,no,kʷĩ1ĩ1,kʷ ĩ1 ĩ1
+145,28,coat11,house,ƀìʔì,HH,no,βi1ʔi1,β i1 ʔ i1
+146,31,coat11,paper,túʔtú,HL,no,tu5ʔtu5,t u5 ʔ t u5
+147,34,coat11,uncle,đító,HL,no,ði5to5,ð i5 t o5
+148,35,coat11,aunt,đíđí,HL,no,ði5ði5,ð i5 ð i5
+149,36,coat11,frog,ȼàʔƀá,HL,no,t͡sa1ʔβa5,t͡s a1 ʔ β a5
+150,37,coat11,bird,làá,HL,no,la1a5,l a1 a5
+151,39,coat11,town,ñù̧ú̧,HL,no,ñũ1ũ5,ñ ũ1 ũ5
+152,40,coat11,brother,éní̧,HL,no,e5nĩ5,e5 n ĩ5
+153,41,coat11,hole,šáƀǐ,HL,no,ʃa5βi4,ʃ a5 β i4
+154,42,coat11,flower,làà,HL,no,la1a1,l a1 a1
+155,43,coat11,horse,íđú,HL,no,i5ðu5,i5 ð u5
+156,45,coat11,dog,t-ìná̧,HL,no,t+i1nã5,t + i1 n ã5
+157,48,coat11,word,tù̧ʔú̧,LH,no,tũ1ʔũ5,t ũ1 ʔ ũ5
+158,49,coat11,clay pot,kɨ̀đɨ́,LH,no,kɨ1ðɨ5,k ɨ1 ð ɨ5
+159,50,coat11,metal,kàá,LH,no,ka1a5,k a1 a5
+160,51,coat11,meat,kùñú̧,LH,no,ku1ñũ5,k u1 ñ ũ5
+161,53,coat11,adobe,ndòʔó,LH,no,ⁿdo1ʔo5,ⁿd o1 ʔ o5
+162,54,coat11,child,íʔšá,LH,no,i5ʔʃa5,i5 ʔ ʃ a5
+163,55,coat11,sibling's wife,ènú,LH,no,e1nu5,e1 n u5
+164,57,coat11,tooth,nù̧ʔú̧,LH,no,nũ1ʔũ5,n ũ1 ʔ ũ5
+165,59,coat11,cold,ƀíʔšǐ̧,LH,no,βi5ʔʃĩ4,β i5 ʔ ʃ ĩ4
+166,60,coat11,good,ƀáʔǎ,LH,no,βa5ʔa4,β a5 ʔ a4
+167,62,coat11,four,kɨ́mǐ̧,LLʔ,no,kɨ5mĩ4,k ɨ5 m ĩ4
+168,64,coat11,cotton,káʔȼǐ,LLʔ,no,ka5ʔt͡si4,k a5 ʔ t͡s i4
+169,65,coat11,snake,kóǒ,LLʔ,no,ko5o4,k o5 o4
+170,66,coat11,sandal,ndíʔšȩ̌,LLʔ,no,ⁿdi5ʔʃẽ4,ⁿd i5 ʔ ʃ ẽ4
+171,68,coat11,tortilla,íʔtǎ,LLʔ,no,i5ʔta4,i5 ʔ t a4
+172,70,coat11,comal,šíǒ,LLʔ,no,ʃi5o4,ʃ i5 o4
+173,72,coat11,face,nú̧ǔ̧,LLʔ,no,nũ5ũ4,n ũ5 ũ4
+174,74,coat11,stone,šúǔ,LLʔ,no,ʃu5u4,ʃ u5 u4
+175,75,coat11,moon,šóǒ,LLʔ,no,ʃo5o4,ʃ o5 o4
+176,76,coat11,to go,kɨ̧́ʔɨ̧̌,LL,no,kɨ̃5ʔɨ̃4,k ɨ̃5 ʔ ɨ̃4
+177,79,coat11,to cut,káʔndé,LL,no,ka5ʔⁿde5,k a5 ʔ ⁿd e5
+178,81,coat11,year,kwíǎ,LL,no,kʷi5a4,kʷ i5 a4
+179,86,coat11,thread,šúʔƀé,LL,no,ʃu5ʔβe5,ʃ u5 ʔ β e5
+180,87,coat11,sweet,ƀí̧dǐ̧,LL,no,βĩ5ðĩ4,β ĩ5 ð ĩ4
+181,89,coat11,two,úƀǐ,LL,no,u5βi4,u5 β i4
+182,90,coat11,five,ú̧ʔǔ̧,LL,no,ũ5ʔũ4,ũ5 ʔ ũ4
+183,91,coat11,fingernail,ȼì̧ì̧,MT,no,t͡sĩ1ĩ1,t͡s ĩ1 ĩ1
+184,93,coat11,turkey hen,ȼú̧ǔ̧,MT,no,t͡sũ5ũ4,t͡s ũ5 ũ4
+185,94,coat11,fish,ȼàʔká,MT,no,t͡sa1ʔka5,t͡s a1 ʔ k a5
+186,96,coat11,sibling's husband,kàđá,MT,no,ka1ða5,k a1 ð a5
+187,97,coat11,long,kànì̧,MT,no,ka1nĩ1,k a1 n ĩ1
+188,98,coat11,big (sg),kàʔnù̧,MT,no,ka1ʔnũ1,k a1 ʔ n ũ1
+189,99,coat11,white,kwìʔší̧,MT,no,kʷi1ʔʃĩ5,kʷ i1 ʔ ʃ ĩ5
+190,100,coat11,green,kwìì,MT,no,kʷi1i1,kʷ i1 i1
+191,101,coat11,small (in pieces),kwèčì,MT,no,kʷe1t͡ʃi1,kʷ e1 t͡ʃ i1
+192,102,coat11,red,kwèʔé,MT,no,kʷe1ʔe5,kʷ e1 ʔ e5
+193,103,coat11,yellow,kwà̧á̧,MT,no,kʷã1ã5,kʷ ã1 ã5
+194,104,coat11,poor,ndàʔƀí,MT,no,ⁿda1ʔβi5,ⁿd a1 ʔ β i5
+195,106,coat11,precious metal,đyúʔǔ,MT,no,ðʒu5ʔu4,ð ʒ u5 ʔ u4
+196,107,coat11,new,šèě,MT,no,ʃe1e4,ʃ e1 e4
+197,108,coat11,little,lùʔndí,MT,no,lu1ʔⁿdi5,l u1 ʔ ⁿd i5
+198,1,moli11,animal,kītī,HHʔ,no,ki3ti3,k i3 t i3
+199,2,moli11,to eat,kāā,HHʔ,yes,ka3a3,k a3 a3
+200,3,moli11,beans,ndūčī,HHʔ,no,ⁿdu3t͡ʃi3,ⁿd u3 t͡ʃ i3
+201,4,moli11,water,ndūtē,HHʔ,yes,ⁿdu3te3,ⁿd u3 t e3
+202,5,moli11,hand,ndāʔā,HHʔ,yes,ⁿda3ʔa3,ⁿd a3 ʔ a3
+203,6,moli11,clothes,sāʔmā,HHʔ,yes,sa3ʔma3,s a3 ʔ m a3
+204,7,moli11,tree,žūtū̧,HHʔ,yes,ʒu3tũ3,ʒ u3 t ũ3
+205,8,moli11,mountain,žūkū,HHʔ,yes,ʒu3ku3,ʒ u3 k u3
+206,10,moli11,mouth,žūʔū,HHʔ,yes,ʒu3ʔu3,ʒ u3 ʔ u3
+207,12,moli11,chile,žāʔā,HHʔ,yes,ʒa3ʔa3,ʒ a3 ʔ a3
+208,13,moli11,woman,ñā̧ʔā̧,HHʔ,no,ñã3ʔã3,ñ ã3 ʔ ã3
+209,14,moli11,rope,žōʔō,HHʔ,no,ʒo3ʔo3,ʒ o3 ʔ o3
+210,15,moli11,road,īčī,HHʔ,no,i3t͡ʃi3,i3 t͡ʃ i3
+211,16,moli11,work,tī̧ñū̧,HH,no,tĩ3ñũ3,t ĩ3 ñ ũ3
+212,18,moli11,to come,kīī,HH,no,ki3i3,k i3 i3
+213,19,moli11,to run,kūnū,HH,no,ku3nu3,k u3 n u3
+214,20,moli11,to be,kūū,HH,no,ku3u3,k u3 u3
+215,21,moli11,to sing,kātā,HH,no,ka3ta3,k a3 t a3
+216,24,moli11,to look,kōtō,HH,no,ko3to3,k o3 t o3
+217,25,moli11,to drink,kōʔō,HH,no,ko3ʔo3,k o3 ʔ o3
+218,26,moli11,to buy,kwā̧ā̧,HH,no,kʷã3ã3,kʷ ã3 ã3
+219,27,moli11,now,ƀītā̧,HH,no,βi3tã3,β i3 t ã3
+220,28,moli11,house,ƀēʔē,HH,no,βe3ʔe3,β e3 ʔ e3
+221,29,moli11,yesterday,īkū,HH,no,i3ku3,i3 k u3
+222,30,moli11,one,ī̧ī̧,HH,no,ĩ3ĩ3,ĩ3 ĩ3
+223,31,moli11,paper,tūtù,HL,no,tu3tu1,t u3 t u1
+224,34,moli11,uncle,stōò,HL,no,sto3o1,s t o3 o1
+225,35,moli11,aunt,sīsì,HL,no,si3si1,s i3 s i1
+226,39,moli11,town,ñùù,HL,no,ñu1u1,ñ u1 u1
+227,42,moli11,flower,ītà,HL,no,i3ta1,i3 t a1
+228,43,moli11,deer,īsù,HL,no,i3su1,i3 s u1
+229,44,moli11,inside,īnì,HL,no,i3ni1,i3 n i1
+230,45,moli11,dog,īnà,HL,no,i3na1,i3 n a1
+231,46,moli11,stomach,čìī,LH,no,t͡ʃi1i3,t͡ʃ i1 i3
+232,47,moli11,man,tèē,LH,no,te1e3,t e1 e3
+233,49,moli11,clay pot,kìsī,LH,no,ki1si3,k i1 s i3
+234,50,moli11,metal,kàā,LH,no,ka1a3,k a1 a3
+235,52,moli11,cross-sex sibling,kwàʔā,LH,no,kʷa1ʔa3,kʷ a1 ʔ a3
+236,54,moli11,child,sèʔē,LH,no,se1ʔe3,s e1 ʔ e3
+237,57,moli11,tooth,nù̧ʔū̧,LH,no,nũ1ʔũ3,n ũ1 ʔ ũ3
+238,58,moli11,river,žùtē,LH,no,ʒu1te3,ʒ u1 t e3
+239,59,moli11,cold,ƀìxī̧,LH,no,βi1ʃĩ3,β i1 ʃ ĩ3
+240,60,moli11,good,ƀàʔā,LH,no,βa1ʔa3,β a1 ʔ a3
+241,61,moli11,medicine,tàtà̧,LLʔ,no,ta1tã1,t a1 t ã1
+242,62,moli11,four,kù̧ù̧,LLʔ,yes,kũ1ũ1,k ũ1 ũ1
+243,63,moli11,day,kìƀì,LLʔ,no,ki1βi1,k i1 β i1
+244,64,moli11,cotton,kàčì,LLʔ,no,ka1t͡ʃi1,k a1 t͡ʃ i1
+245,65,moli11,snake,kòò,LLʔ,yes,ko1o1,k o1 o1
+246,68,moli11,tortilla,stàà,LLʔ,yes,sta1a1,s t a1 a1
+247,69,moli11,head,šìnì,LLʔ,yes,ʃi1ni1,ʃ i1 n i1
+248,71,moli11,soap,nàmà,LLʔ,yes,na1ma1,n a1 m a1
+249,72,moli11,face,nùù,LLʔ,no,nu1u1,n u1 u1
+250,73,moli11,corn,nùnì,LLʔ,no,nu1ni1,n u1 n i1
+251,75,moli11,moon,žòò,LLʔ,yes,ʒo1o1,ʒ o1 o1
+252,76,moli11,to go,kí̧ʔì̧,LL,no,kĩ5ʔĩ1,k ĩ5 ʔ ĩ1
+253,78,moli11,sister,kùʔù,LL,no,ku1ʔu1,k u1 ʔ u1
+254,80,moli11,to speak,kà̧ʔà̧,LL,no,kã1ʔã1,k ã1 ʔ ã1
+255,81,moli11,year,kwìžà,LL,no,kʷi1ʒa1,kʷ i1 ʒ a1
+256,85,moli11,"herb, bush",žùkù,LL,no,ʒu1ku1,ʒ u1 k u1
+257,87,moli11,sweet,ƀìšì,LL,no,βi1ʃi1,β i1 ʃ i1
+258,88,moli11,nine,ì̧ì̧,LL,no,ĩ1ĩ1,ĩ1 ĩ1
+259,89,moli11,two,ùù,LL,no,u1u1,u1 u1
+260,90,moli11,five,ù̧ʔù̧,LL,no,ũ1ʔũ1,ũ1 ʔ ũ1
+261,94,moli11,fish,čākā,MT,no,t͡ʃa3ka3,t͡ʃ a3 k a3
+262,95,moli11,black,tū̧ū̧,MT,no,tũ3ũ3,t ũ3 ũ3
+263,97,moli11,long,kání,MT,no,ka5ni5,k a5 n i5
+264,101,moli11,small (in pieces),kwéčì,MT,no,kʷe5t͡ʃi1,kʷ e5 t͡ʃ i1
+265,104,moli11,poor,ndáʔƀí,MT,no,ⁿda5ʔβi5,ⁿd a5 ʔ β i5
+266,105,moli11,to sell,šìkō,MT,no,ʃi1ko3,ʃ i1 k o3
+267,106,moli11,precious metal,šù̧ʔū̧,MT,no,ʃũ1ʔũ3,ʃ ũ1 ʔ ũ3
+268,108,moli11,little,lūlī,MT,no,lu3li3,l u3 l i3
+269,109,moli11,people,ñà-žīƀī,MT,no,ña1+ʒi3βi3,ñ a1 + ʒ i3 β i3
+270,1,ocot11,animal,kītī,HHʔ,no,ki3ti3,k i3 t i3
+271,4,ocot11,water,ndūtē,HHʔ,no,ⁿdu3te3,ⁿd u3 t e3
+272,5,ocot11,hand,ndāʔá,HHʔ,no,ⁿda3ʔa5,ⁿd a3 ʔ a5
+273,6,ocot11,clothes,sāʔmā,HHʔ,no,sa3ʔma3,s a3 ʔ m a3
+274,7,ocot11,tree,ñū̧tū̧,HHʔ,no,ñũ3tũ3,ñ ũ3 t ũ3
+275,8,ocot11,mountain,žūkū,HHʔ,no,ʒu3ku3,ʒ u3 k u3
+276,9,ocot11,straw mat,žūū,HHʔ,no,ʒu3u3,ʒ u3 u3
+277,10,ocot11,mouth,žūʔú,HHʔ,no,ʒu3ʔu5,ʒ u3 ʔ u5
+278,15,ocot11,road,īčī,HHʔ,no,i3t͡ʃi3,i3 t͡ʃ i3
+279,16,ocot11,work,tīñū,HH,no,ti3ñu3,t i3 ñ u3
+280,17,ocot11,handspan,tōō,HH,no,to3o3,t o3 o3
+281,21,ocot11,to sing,kātā,HH,no,ka3ta3,k a3 t a3
+282,22,ocot11,to be born,kākū,HH,no,ka3ku3,k a3 k u3
+283,28,ocot11,house,ƀēʔē,HH,no,βe3ʔe3,β e3 ʔ e3
+284,29,ocot11,yesterday,īkū,HH,no,i3ku3,i3 k u3
+285,34,ocot11,uncle,šītò,HL,no,ʃi3to1,ʃ i3 t o1
+286,35,ocot11,aunt,šīšì,HL,no,ʃi3ʃi1,ʃ i3 ʃ i1
+287,37,ocot11,bird,sāà,HL,no,sa3a1,s a3 a1
+288,39,ocot11,town,ñūù,HL,no,ñu3u1,ñ u3 u1
+289,40,ocot11,brother,ñānì,HL,no,ña3ni1,ñ a3 n i1
+290,42,ocot11,flower,ītà,HL,no,i3ta1,i3 t a1
+291,43,ocot11,deer,īsù,HL,no,i3su1,i3 s u1
+292,44,ocot11,inside,īnì,HL,no,i3ni1,i3 n i1
+293,45,ocot11,dog,t-īnà,HL,no,t+i3na1,t + i3 n a1
+294,46,ocot11,stomach,čìhī,LH,no,t͡ʃi1hi3,t͡ʃ i1 h i3
+295,47,ocot11,man,tèē,LH,no,te1e3,t e1 e3
+296,50,ocot11,metal,kàā,LH,no,ka1a3,k a1 a3
+297,51,ocot11,meat,kùñū,LH,no,ku1ñu3,k u1 ñ u3
+298,52,ocot11,cross-sex sibling,kwàʔā,LH,no,kʷa1ʔa3,kʷ a1 ʔ a3
+299,54,ocot11,child,sèʔē,LH,no,se1ʔe3,s e1 ʔ e3
+300,55,ocot11,sibling's wife,xànū,LH,no,ʃa1nu3,ʃ a1 n u3
+301,58,ocot11,river,žùtē,LH,no,ʒu1te3,ʒ u1 t e3
+302,60,ocot11,good,ƀàʔā,LH,no,βa1ʔa3,β a1 ʔ a3
+303,61,ocot11,medicine,tà̧tà̧,LLʔ,no,tã1tã1,t ã1 t ã1
+304,62,ocot11,four,kùmì,LLʔ,no,ku1mi1,k u1 m i1
+305,68,ocot11,tortilla,šìtà,LLʔ,no,ʃi1ta1,ʃ i1 t a1
+306,69,ocot11,head,šìnì,LLʔ,no,ʃi1ni1,ʃ i1 n i1
+307,72,ocot11,face,nùù,LLʔ,no,nu1u1,n u1 u1
+308,73,ocot11,corn,nùnì,LLʔ,no,nu1ni1,n u1 n i1
+309,74,ocot11,stone,žùù,LLʔ,no,ʒu1u1,ʒ u1 u1
+310,76,ocot11,to go,kí̧ʔì̧,LL,no,kĩ5ʔĩ1,k ĩ5 ʔ ĩ1
+311,78,ocot11,sister,kùʔù,LL,no,ku1ʔu1,k u1 ʔ u1
+312,80,ocot11,to speak,kà̧ʔà̧,LL,no,kã1ʔã1,k ã1 ʔ ã1
+313,82,ocot11,niece,šìkù,LL,no,ʃi1ku1,ʃ i1 k u1
+314,83,ocot11,nephew,sàxì̧,LL,no,sa1ʃĩ1,s a1 ʃ ĩ1
+315,84,ocot11,foot,xèʔè,LL,no,ʃe1ʔe1,ʃ e1 ʔ e1
+316,85,ocot11,"herb, bush",žùkù,LL,no,ʒu1ku1,ʒ u1 k u1
+317,93,ocot11,turkey hen,čù̧ú̧,MT,no,t͡ʃũ1ũ5,t͡ʃ ũ1 ũ5
+318,96,ocot11,sibling's husband,kàsá,MT,no,ka1sa5,k a1 s a5
+319,97,ocot11,long,kání,MT,no,ka5ni5,k a5 n i5
+320,98,ocot11,big (sg),káʔnū,MT,no,ka5ʔnu3,k a5 ʔ n u3
+321,99,ocot11,white,kwīxí̧,MT,no,kʷi3ʃĩ5,kʷ i3 ʃ ĩ5
+322,104,ocot11,poor,ndáʔƀí,MT,no,ⁿda5ʔβi5,ⁿd a5 ʔ β i5
+323,105,ocot11,to sell,šìkó,MT,no,ʃi1ko5,ʃ i1 k o5
+324,106,ocot11,precious metal,šù̧ʔú̧,MT,no,ʃũ1ʔũ5,ʃ ũ1 ʔ ũ5
+325,107,ocot11,new,xēé,MT,no,ʃe3e5,ʃ e3 e5
+326,108,ocot11,little,lūlí,MT,no,lu3li5,l u3 l i5
+327,109,ocot11,people,nǰīƀì,MT,no,nd͡ʒi3βi1,n d͡ʒ i3 β i1
+328,110,ocot11,tongue,žáá,MT,no,ʒa5a5,ʒ a5 a5
+329,1,atat11,animal,kɨ̄tɨ̄,HHʔ,no,kɨ3tɨ3,k ɨ3 t ɨ3
+330,2,atat11,to eat,kāxī,HHʔ,no,ka3ʃi3,k a3 ʃ i3
+331,3,atat11,beans,ndūčī,HHʔ,no,ⁿdu3t͡ʃi3,ⁿd u3 t͡ʃ i3
+332,4,atat11,water,ndūtē,HHʔ,no,ⁿdu3te3,ⁿd u3 t e3
+333,5,atat11,hand,ndāʔā,HHʔ,no,ⁿda3ʔa3,ⁿd a3 ʔ a3
+334,6,atat11,clothes,sāʔmā,HHʔ,no,sa3ʔma3,s a3 ʔ m a3
+335,7,atat11,tree,žūNū,HHʔ,no,ʒu3n̥u3,ʒ u3 n̥ u3
+336,8,atat11,mountain,žūkū,HHʔ,no,ʒu3ku3,ʒ u3 k u3
+337,9,atat11,straw mat,žūū,HHʔ,no,ʒu3u3,ʒ u3 u3
+338,10,atat11,mouth,žūʔū,HHʔ,no,ʒu3ʔu3,ʒ u3 ʔ u3
+339,11,atat11,bone,žɨ̄kɨ̄,HHʔ,no,ʒɨ3kɨ3,ʒ ɨ3 k ɨ3
+340,12,atat11,chile,žāʔā,HHʔ,no,ʒa3ʔa3,ʒ a3 ʔ a3
+341,13,atat11,woman,ñā̧ʔā̧,HHʔ,no,ñã3ʔã3,ñ ã3 ʔ ã3
+342,14,atat11,rope,žōʔō,HHʔ,no,ʒo3ʔo3,ʒ o3 ʔ o3
+343,15,atat11,road,īčī,HHʔ,no,i3t͡ʃi3,i3 t͡ʃ i3
+344,16,atat11,work,Nīñū,HH,no,n̥i3ñu3,n̥ i3 ñ u3
+345,17,atat11,handspan,tōō,HH,no,to3o3,t o3 o3
+346,18,atat11,to come,kīxī,HH,no,ki3ʃi3,k i3 ʃ i3
+347,19,atat11,to run,kūnū,HH,no,ku3nu3,k u3 n u3
+348,20,atat11,to be,kūū,HH,no,ku3u3,k u3 u3
+349,21,atat11,to sing,kātā,HH,no,ka3ta3,k a3 t a3
+350,22,atat11,to be born,kākū,HH,no,ka3ku3,k a3 k u3
+351,23,atat11,to burn,kāʔmū,HH,no,ka3ʔmu3,k a3 ʔ m u3
+352,24,atat11,to look,kōtō,HH,no,ko3to3,k o3 t o3
+353,25,atat11,to drink,kōʔō,HH,no,ko3ʔo3,k o3 ʔ o3
+354,26,atat11,to buy,kwā̧ā̧,HH,no,kʷã3ã3,kʷ ã3 ã3
+355,27,atat11,now,ƀīNā,HH,no,βi3n̥a3,β i3 n̥ a3
+356,28,atat11,house,ƀēʔē,HH,no,βe3ʔe3,β e3 ʔ e3
+357,29,atat11,yesterday,īkū,HH,no,i3ku3,i3 k u3
+358,30,atat11,one,ī̧ī̧,HH,no,ĩ3ĩ3,ĩ3 ĩ3
+359,31,atat11,paper,tūtū,HL,no,tu3tu3,t u3 t u3
+360,33,atat11,lime,kākā,HL,no,ka3ka3,k a3 k a3
+361,34,atat11,uncle,stōō,HL,no,sto3o3,s t o3 o3
+362,35,atat11,aunt,sīsī,HL,no,si3si3,s i3 s i3
+363,37,atat11,bird,sāā,HL,no,sa3a3,s a3 a3
+364,39,atat11,town,ñūū,HL,no,ñu3u3,ñ u3 u3
+365,40,atat11,brother,ñānī,HL,no,ña3ni3,ñ a3 n i3
+366,41,atat11,hole,žāū,HL,no,ʒa3u3,ʒ a3 u3
+367,41,atat11,hole,žāƀū,HL,no,ʒa3βu3,ʒ a3 β u3
+368,42,atat11,flower,ītā,HL,no,i3ta3,i3 t a3
+369,44,atat11,inside,īnī,HL,no,i3ni3,i3 n i3
+370,45,atat11,dog,īnā,HL,no,i3na3,i3 n a3
+371,46,atat11,stomach,čìhī,LH,no,t͡ʃi1hi3,t͡ʃ i1 h i3
+372,47,atat11,man,tèē,LH,no,te1e3,t e1 e3
+373,48,atat11,word,Nù̧ʔū̧,LH,no,n̥ũ1ʔũ3,n̥ ũ1 ʔ ũ3
+374,49,atat11,clay pot,kɨ̀sɨ̄,LH,no,kɨ1sɨ3,k ɨ1 s ɨ3
+375,50,atat11,metal,kàā,LH,no,ka1a3,k a1 a3
+376,51,atat11,meat,kùñū,LH,no,ku1ñu3,k u1 ñ u3
+377,52,atat11,cross-sex sibling,kwàʔā,LH,no,kʷa1ʔa3,kʷ a1 ʔ a3
+378,54,atat11,child,sèʔē,LH,no,se1ʔe3,s e1 ʔ e3
+379,55,atat11,sibling's wife,xènū,LH,no,ʃe1nu3,ʃ e1 n u3
+380,56,atat11,ear,sòʔō,LH,no,so1ʔo3,s o1 ʔ o3
+381,57,atat11,tooth,Nù̧ʔū̧,LH,no,n̥ũ1ʔũ3,n̥ ũ1 ʔ ũ3
+382,58,atat11,river,žùtē,LH,no,ʒu1te3,ʒ u1 t e3
+383,59,atat11,cold,mìxī̧,LH,no,mi1ʃĩ3,m i1 ʃ ĩ3
+384,60,atat11,good,ƀàʔā,LH,no,βa1ʔa3,β a1 ʔ a3
+385,61,atat11,medicine,tāNà,LLʔ,no,ta3n̥a1,t a3 n̥ a1
+386,62,atat11,four,kū̧ù̧,LLʔ,no,kũ3ũ1,k ũ3 ũ1
+387,63,atat11,day,kɨ̄ƀɨ̀,LLʔ,no,kɨ3βɨ1,k ɨ3 β ɨ1
+388,65,atat11,snake,kōò,LLʔ,no,ko3o1,k o3 o1
+389,66,atat11,sandal,ndīxȩ̀,LLʔ,no,ⁿdi3ʃẽ1,ⁿd i3 ʃ ẽ1
+390,67,atat11,cane,ndōò,LLʔ,no,ⁿdo3o1,ⁿd o3 o1
+391,68,atat11,tortilla,stāà,LLʔ,no,sta3a1,s t a3 a1
+392,69,atat11,head,šīnì,LLʔ,no,ʃi3ni1,ʃ i3 n i1
+393,70,atat11,comal,xīžò,LLʔ,no,ʃi3ʒo1,ʃ i3 ʒ o1
+394,71,atat11,soap,nāmà,LLʔ,no,na3ma1,n a3 m a1
+395,72,atat11,face,nūù,LLʔ,no,nu3u1,n u3 u1
+396,73,atat11,corn,nūnì,LLʔ,no,nu3ni1,n u3 n i1
+397,74,atat11,stone,žūù,LLʔ,no,ʒu3u1,ʒ u3 u1
+398,75,atat11,moon,žōò,LLʔ,no,ʒo3o1,ʒ o3 o1
+399,76,atat11,to go,kɨ̧̄ʔɨ̧̀,LL,no,kɨ̃3ʔɨ̃1,k ɨ̃3 ʔ ɨ̃1
+400,77,atat11,comb,kūkà,LL,no,ku3ka1,k u3 k a1
+401,78,atat11,sister,kùʔù,LL,no,ku1ʔu1,k u1 ʔ u1
+402,79,atat11,to cut,kāʔndè,LL,no,ka3ʔⁿde1,k a3 ʔ ⁿd e1
+403,80,atat11,to speak,kā̧ʔà̧,LL,no,kã3ʔã1,k ã3 ʔ ã1
+404,82,atat11,niece,šīkù,LL,no,ʃi3ku1,ʃ i3 k u1
+405,83,atat11,nephew,sāxì̧,LL,no,sa3ʃĩ1,s a3 ʃ ĩ1
+406,84,atat11,foot,xēʔè,LL,no,ʃe3ʔe1,ʃ e3 ʔ e1
+407,85,atat11,"herb, bush",žūkù,LL,no,ʒu3ku1,ʒ u3 k u1
+408,86,atat11,thread,žūʔƀà,LL,no,ʒu3ʔβa1,ʒ u3 ʔ β a1
+409,87,atat11,sweet,ƀīšì,LL,no,βi3ʃi1,β i3 ʃ i1
+410,88,atat11,nine,ɨ̧̄ɨ̧̀,LL,no,ɨ̃3ɨ̃1,ɨ̃3 ɨ̃1
+411,89,atat11,two,ūù,LL,no,u3u1,u3 u1
+412,90,atat11,five,ū̧ʔù̧,LL,no,ũ3ʔũ1,ũ3 ʔ ũ1
+413,91,atat11,fingernail,Ní̧í̧,MT,no,n̥ĩ5ĩ5,n̥ ĩ5 ĩ5
+414,92,atat11,rat,Nɨ́ñɨ́,MT,no,n̥ɨ5ñɨ5,n̥ ɨ5 ñ ɨ5
+415,93,atat11,turkey hen,čù̧ú̧,MT,no,t͡ʃũ1ũ5,t͡ʃ ũ1 ũ5
+416,94,atat11,fish,čàká,MT,no,t͡ʃa1ka5,t͡ʃ a1 k a5
+417,95,atat11,black,Nú̧ú̧,MT,no,n̥ũ5ũ5,n̥ ũ5 ũ5
+418,96,atat11,sibling's husband,kàsá,MT,no,ka1sa5,k a1 s a5
+419,97,atat11,long,kánī,MT,no,ka5ni3,k a5 n i3
+420,98,atat11,big (sg),káʔnū,MT,no,ka5ʔnu3,k a5 ʔ n u3
+421,99,atat11,white,kwíxí̧,MT,no,kʷi5ʃĩ5,kʷ i5 ʃ ĩ5
+422,103,atat11,yellow,kwá̧á̧,MT,no,kʷã5ã5,kʷ ã5 ã5
+423,104,atat11,poor,ndáʔú,MT,no,ⁿda5ʔu5,ⁿd a5 ʔ u5
+424,105,atat11,to sell,šìkó,MT,no,ʃi1ko5,ʃ i1 k o5
+425,106,atat11,precious metal,šù̧ʔú̧,MT,no,ʃũ1ʔũ5,ʃ ũ1 ʔ ũ5
+426,107,atat11,new,xēé,MT,no,ʃe3e5,ʃ e3 e5
+427,108,atat11,little,lùlí,MT,no,lu1li5,l u1 l i5
+428,109,atat11,people,ñà-žūū,MT,no,ña1+ʒu3u3,ñ a1 + ʒ u3 u3
+429,110,atat11,tongue,žáá,MT,no,ʒa5a5,ʒ a5 a5
+430,1,gran11,animal,kɨ̄tɨ̄,HHʔ,yes,kɨ3tɨ3,k ɨ3 t ɨ3
+431,2,gran11,to eat,kāxī,HHʔ,yes,ka3ʃi3,k a3 ʃ i3
+432,3,gran11,beans,ndūčī,HHʔ,yes,ⁿdu3t͡ʃi3,ⁿd u3 t͡ʃ i3
+433,4,gran11,water,ndūčā,HHʔ,yes,ⁿdu3t͡ʃa3,ⁿd u3 t͡ʃ a3
+434,5,gran11,hand,ndāʔā,HHʔ,yes,ⁿda3ʔa3,ⁿd a3 ʔ a3
+435,6,gran11,clothes,sāʔmā,HHʔ,yes,sa3ʔma3,s a3 ʔ m a3
+436,7,gran11,tree,žūnū,HHʔ,yes,ʒu3nu3,ʒ u3 n u3
+437,8,gran11,mountain,žūkū,HHʔ,yes,ʒu3ku3,ʒ u3 k u3
+438,9,gran11,straw mat,žūū,HHʔ,yes,ʒu3u3,ʒ u3 u3
+439,10,gran11,mouth,žūʔū,HHʔ,yes,ʒu3ʔu3,ʒ u3 ʔ u3
+440,11,gran11,bone,žɨ̄kɨ̄,HHʔ,yes,ʒɨ3kɨ3,ʒ ɨ3 k ɨ3
+441,12,gran11,chile,žāʔā,HHʔ,yes,ʒa3ʔa3,ʒ a3 ʔ a3
+442,13,gran11,woman,ñā̧ʔā̧,HHʔ,yes,ñã3ʔã3,ñ ã3 ʔ ã3
+443,14,gran11,rope,žōʔō,HHʔ,yes,ʒo3ʔo3,ʒ o3 ʔ o3
+444,15,gran11,road,īčī,HHʔ,yes,i3t͡ʃi3,i3 t͡ʃ i3
+445,16,gran11,work,tīñū,HH,no,ti3ñu3,t i3 ñ u3
+446,17,gran11,handspan,tōō,HH,no,to3o3,t o3 o3
+447,18,gran11,to come,kīī,HH,no,ki3i3,k i3 i3
+448,19,gran11,to run,kūnū,HH,no,ku3nu3,k u3 n u3
+449,20,gran11,to be,kūū,HH,no,ku3u3,k u3 u3
+450,21,gran11,to sing,kātā,HH,no,ka3ta3,k a3 t a3
+451,22,gran11,to be born,kākū,HH,no,ka3ku3,k a3 k u3
+452,23,gran11,to burn,kāʔmū,HH,no,ka3ʔmu3,k a3 ʔ m u3
+453,24,gran11,to look,kōtō,HH,no,ko3to3,k o3 t o3
+454,25,gran11,to drink,kōʔō,HH,no,ko3ʔo3,k o3 ʔ o3
+455,26,gran11,to buy,kwā̧ā̧,HH,no,kʷã3ã3,kʷ ã3 ã3
+456,27,gran11,now,ƀīnā,HH,no,βi3na3,β i3 n a3
+457,27,gran11,now,ƀītā̧,HH,no,βi3tã3,β i3 t ã3
+458,28,gran11,house,ƀēʔē,HH,no,βe3ʔe3,β e3 ʔ e3
+459,29,gran11,yesterday,īkū,HH,yes,i3ku3,i3 k u3
+460,30,gran11,one,ī̧ī̧,HH,no,ĩ3ĩ3,ĩ3 ĩ3
+461,31,gran11,paper,tūtù,HL,no,tu3tu1,t u3 t u1
+462,32,gran11,stool,tēžù,HL,no,te3ʒu1,t e3 ʒ u1
+463,33,gran11,lime,kākà,HL,no,ka3ka1,k a3 k a1
+464,34,gran11,uncle,stōò,HL,no,sto3o1,s t o3 o1
+465,35,gran11,aunt,šīì,HL,no,ʃi3i1,ʃ i3 i1
+466,36,gran11,frog,sāʔƀà,HL,no,sa3ʔβa1,s a3 ʔ β a1
+467,37,gran11,bird,sāà,HL,no,sa3a1,s a3 a1
+468,38,gran11,wall,nāmà,HL,no,na3ma1,n a3 m a1
+469,39,gran11,town,ñūù,HL,no,ñu3u1,ñ u3 u1
+470,40,gran11,brother,ñānì,HL,no,ña3ni1,ñ a3 n i1
+471,41,gran11,hole,žāù,HL,no,ʒa3u1,ʒ a3 u1
+472,42,gran11,flower,ītā,HL,no,i3ta3,i3 t a3
+473,43,gran11,deer,īsù,HL,no,i3su1,i3 s u1
+474,44,gran11,inside,īnì,HL,no,i3ni1,i3 n i1
+475,45,gran11,dog,īnà,HL,no,i3na1,i3 n a1
+476,46,gran11,stomach,čìī,LH,no,t͡ʃi1i3,t͡ʃ i1 i3
+477,47,gran11,man,čàā,LH,no,t͡ʃa1a3,t͡ʃ a1 a3
+478,48,gran11,word,tù̧ʔū̧,LH,no,tũ1ʔũ3,t ũ1 ʔ ũ3
+479,49,gran11,clay pot,kɨ̀sɨ̄,LH,no,kɨ1sɨ3,k ɨ1 s ɨ3
+480,50,gran11,metal,kàā,LH,no,ka1a3,k a1 a3
+481,51,gran11,meat,kùñū,LH,no,ku1ñu3,k u1 ñ u3
+482,52,gran11,cross-sex sibling,kwàʔā,LH,no,kʷa1ʔa3,kʷ a1 ʔ a3
+483,53,gran11,adobe,ndòʔō,LH,no,ⁿdo1ʔo3,ⁿd o1 ʔ o3
+484,54,gran11,child,sèʔē,LH,no,se1ʔe3,s e1 ʔ e3
+485,55,gran11,sibling's wife,xànū,LH,no,ʃa1nu3,ʃ a1 n u3
+486,56,gran11,ear,sòʔō,LH,no,so1ʔo3,s o1 ʔ o3
+487,57,gran11,tooth,nù̧ʔū̧,LH,no,nũ1ʔũ3,n ũ1 ʔ ũ3
+488,58,gran11,river,žùčā,LH,no,ʒu1t͡ʃa3,ʒ u1 t͡ʃ a3
+489,59,gran11,cold,ƀìxī̧,LH,no,βi1ʃĩ3,β i1 ʃ ĩ3
+490,60,gran11,good,ƀàʔā,LH,no,βa1ʔa3,β a1 ʔ a3
+491,61,gran11,medicine,tānà,LLʔ,no,ta3na1,t a3 n a1
+492,62,gran11,four,kū̧ù̧,LLʔ,yes,kũ3ũ1,k ũ3 ũ1
+493,63,gran11,day,kɨ̄ƀɨ̀,LLʔ,no,kɨ3βɨ1,k ɨ3 β ɨ1
+494,64,gran11,cotton,kāčì,LLʔ,no,ka3t͡ʃi1,k a3 t͡ʃ i1
+495,65,gran11,snake,kōò,LLʔ,yes,ko3o1,k o3 o1
+496,66,gran11,sandal,ndīxà̧,LLʔ,yes,ⁿdi3ʃã1,ⁿd i3 ʃ ã1
+497,67,gran11,cane,ndōò,LLʔ,no,ⁿdo3o1,ⁿd o3 o1
+498,68,gran11,tortilla,stāà,LLʔ,yes,sta3a1,s t a3 a1
+499,69,gran11,head,šīnì,LLʔ,yes,ʃi3ni1,ʃ i3 n i1
+500,70,gran11,comal,xīò,LLʔ,no,ʃi3o1,ʃ i3 o1
+501,71,gran11,soap,nāmà,LLʔ,no,na3ma1,n a3 m a1
+502,72,gran11,face,nūù,LLʔ,yes,nu3u1,n u3 u1
+503,73,gran11,corn,nūnì,LLʔ,no,nu3ni1,n u3 n i1
+504,74,gran11,stone,žūù,LLʔ,no,ʒu3u1,ʒ u3 u1
+505,75,gran11,moon,žōò,LLʔ,no,ʒo3o1,ʒ o3 o1
+506,76,gran11,to go,kɨ̧̄ʔɨ̧̀,LL,no,kɨ̃3ʔɨ̃1,k ɨ̃3 ʔ ɨ̃1
+507,77,gran11,comb,kūkà,LL,no,ku3ka1,k u3 k a1
+508,78,gran11,sister,kùʔù,LL,no,ku1ʔu1,k u1 ʔ u1
+509,79,gran11,to cut,kāʔnǰà,LL,no,ka3ʔnd͡ʒa1,k a3 ʔ n d͡ʒ a1
+510,80,gran11,to speak,kā̧ʔà̧,LL,no,kã3ʔã1,k ã3 ʔ ã1
+511,81,gran11,year,kwīà,LL,no,kʷi3a1,kʷ i3 a1
+512,82,gran11,niece,šīkù,LL,no,ʃi3ku1,ʃ i3 k u1
+513,83,gran11,nephew,sāxì̧,LL,no,sa3ʃĩ1,s a3 ʃ ĩ1
+514,84,gran11,foot,xāʔà,LL,no,ʃa3ʔa1,ʃ a3 ʔ a1
+515,85,gran11,"herb, bush",žūkù,LL,no,ʒu3ku1,ʒ u3 k u1
+516,86,gran11,thread,žūʔà,LL,no,ʒu3ʔa1,ʒ u3 ʔ a1
+517,87,gran11,sweet,ƀīšì,LL,no,βi3ʃi1,β i3 ʃ i1
+518,88,gran11,nine,ɨ̧̄ɨ̧̀,LL,no,ɨ̃3ɨ̃1,ɨ̃3 ɨ̃1
+519,89,gran11,two,ūù,LL,no,u3u1,u3 u1
+520,90,gran11,five,ū̧ʔù̧,LL,no,ũ3ʔũ1,ũ3 ʔ ũ1
+521,91,gran11,fingernail,tíñū,MT,no,ti5ñu3,t i5 ñ u3
+522,92,gran11,rat,tɨ̄ní,MT,no,tɨ3ni5,t ɨ3 n i5
+523,93,gran11,turkey hen,čù̧ú̧,MT,no,t͡ʃũ1ũ5,t͡ʃ ũ1 ũ5
+524,93,gran11,turkey hen,tī-ñùú,MT,no,ti3+ñu1u5,t i3 + ñ u1 u5
+525,94,gran11,fish,čáká,MT,no,t͡ʃa5ka5,t͡ʃ a5 k a5
+526,94,gran11,fish,tɨ̄-žáká,MT,no,tɨ3+ʒa5ka5,t ɨ3 + ʒ a5 k a5
+527,95,gran11,black,tú̧ú̧,MT,no,tũ5ũ5,t ũ5 ũ5
+528,96,gran11,sibling's husband,kàsá,MT,no,ka1sa5,k a1 s a5
+529,97,gran11,long,kánī,MT,no,ka5ni3,k a5 n i3
+530,98,gran11,big (sg),káʔnū,MT,no,ka5ʔnu3,k a5 ʔ n u3
+531,99,gran11,white,kwíxí̧,MT,no,kʷi5ʃĩ5,kʷ i5 ʃ ĩ5
+532,100,gran11,green,kwíì,MT,no,kʷi5i1,kʷ i5 i1
+533,101,gran11,small (in pieces),kwáčí,MT,no,kʷa5t͡ʃi5,kʷ a5 t͡ʃ i5
+534,102,gran11,red,kwáʔá,MT,no,kʷa5ʔa5,kʷ a5 ʔ a5
+535,103,gran11,yellow,kwá̧á̧,MT,no,kʷã5ã5,kʷ ã5 ã5
+536,104,gran11,poor,ndáʔú,MT,no,ⁿda5ʔu5,ⁿd a5 ʔ u5
+537,105,gran11,to sell,šìkó,MT,no,ʃi1ko5,ʃ i1 k o5
+538,106,gran11,precious metal,šù̧ʔú̧,MT,no,ʃũ1ʔũ5,ʃ ũ1 ʔ ũ5
+539,107,gran11,new,xáá,MT,no,ʃa5a5,ʃ a5 a5
+540,108,gran11,little,lúlí,MT,no,lu5li5,l u5 l i5
+541,109,gran11,people,ñà-žɨ̄ƀɨ̄,MT,no,ña1+ʒɨ3βɨ3,ñ a1 + ʒ ɨ3 β ɨ3
+542,110,gran11,tongue,žáā,MT,no,ʒa5a3,ʒ a5 a3
+543,1,caca11,animal,kītì,HHʔ,yes,ki3ti1,k i3 t i1
+544,2,caca11,to eat,kāà,HHʔ,yes,ka3a1,k a3 a1
+545,3,caca11,beans,ndūčī,HHʔ,yes,ⁿdu3t͡ʃi3,ⁿd u3 t͡ʃ i3
+546,6,caca11,clothes,đāʔmà̧,HHʔ,yes,ða3ʔmã1,ð a3 ʔ m ã1
+547,7,caca11,tree,žītò̧,HHʔ,no,ʒi3tõ1,ʒ i3 t õ1
+548,9,caca11,straw mat,žūù,HHʔ,yes,ʒu3u1,ʒ u3 u1
+549,10,caca11,mouth,žūʔū,HHʔ,yes,ʒu3ʔu3,ʒ u3 ʔ u3
+550,14,caca11,rope,žōʔò,HHʔ,no,ʒo3ʔo1,ʒ o3 ʔ o1
+551,16,caca11,work,čō̧ō̧,HH,no,t͡ʃõ3õ3,t͡ʃ õ3 õ3
+552,18,caca11,to come,kīšī,HH,no,ki3ʃi3,k i3 ʃ i3
+553,21,caca11,to sing,kātā,HH,no,ka3ta3,k a3 t a3
+554,23,caca11,to burn,kāʔmā̧,HH,no,ka3ʔmã3,k a3 ʔ m ã3
+555,27,caca11,now,ƀīčī,HH,no,βi3t͡ʃi3,β i3 t͡ʃ i3
+556,28,caca11,house,ƀēʔē,HH,no,βe3ʔe3,β e3 ʔ e3
+557,30,caca11,one,ī̧ī̧,HH,no,ĩ3ĩ3,ĩ3 ĩ3
+558,31,caca11,paper,tūtù,HL,no,tu3tu1,t u3 t u1
+559,32,caca11,stool,tēì,HL,no,te3i1,t e3 i1
+560,34,caca11,uncle,đītò,HL,no,ði3to1,ð i3 t o1
+561,35,caca11,aunt,đīđì,HL,no,ði3ði1,ð i3 ð i1
+562,37,caca11,bird,tì-lāà,HL,no,ti1+la3a1,t i1 + l a3 a1
+563,38,caca11,wall,nā̧mà̧,HL,no,nã3mã1,n ã3 m ã1
+564,39,caca11,town,ñō̧ò̧,HL,no,ñõ3õ1,ñ õ3 õ1
+565,40,caca11,brother,ñāñī̧,HL,no,ña3ñĩ3,ñ a3 ñ ĩ3
+566,45,caca11,dog,t-ì̧nā̧,HL,no,t+ĩ1nã3,t + ĩ1 n ã3
+567,46,caca11,stomach,tìšī,LH,no,ti1ʃi3,t i1 ʃ i3
+568,49,caca11,clay pot,kìđī,LH,no,ki1ði3,k i1 ð i3
+569,50,caca11,metal,kàā,LH,no,ka1a3,k a1 a3
+570,51,caca11,meat,kò̧ñō̧,LH,no,kõ1ñõ3,k õ1 ñ õ3
+571,54,caca11,child,đèʔē,LH,no,ðe1ʔe3,ð e1 ʔ e3
+572,56,caca11,ear,đòʔō,LH,no,ðo1ʔo3,ð o1 ʔ o3
+573,57,caca11,tooth,nò̧ʔō̧,LH,no,nõ1ʔõ3,n õ1 ʔ õ3
+574,59,caca11,cold,ƀìšī,LH,no,βi1ʃi3,β i1 ʃ i3
+575,60,caca11,good,ƀàʔā,LH,no,βa1ʔa3,β a1 ʔ a3
+576,61,caca11,medicine,tàtà,LLʔ,yes,ta1ta1,t a1 t a1
+577,62,caca11,four,kòmì̧,LLʔ,yes,ko1mĩ1,k o1 m ĩ1
+578,64,caca11,cotton,kàčì,LLʔ,no,ka1t͡ʃi1,k a1 t͡ʃ i1
+579,65,caca11,snake,kòò,LLʔ,no,ko1o1,k o1 o1
+580,66,caca11,sandal,ndìsà,LLʔ,no,ⁿdi1sa1,ⁿd i1 s a1
+581,67,caca11,cane,ndòò,LLʔ,yes,ⁿdo1o1,ⁿd o1 o1
+582,68,caca11,tortilla,đìtà,LLʔ,yes,ði1ta1,ð i1 t a1
+583,69,caca11,head,đìnì,LLʔ,yes,ði1ni1,ð i1 n i1
+584,70,caca11,comal,šòò,LLʔ,yes,ʃo1o1,ʃ o1 o1
+585,71,caca11,soap,nàmà,LLʔ,yes,na1ma1,n a1 m a1
+586,74,caca11,stone,žùù,LLʔ,no,ʒu1u1,ʒ u1 u1
+587,77,caca11,comb,kùkà,LL,no,ku1ka1,k u1 k a1
+588,78,caca11,sister,kùʔù,LL,no,ku1ʔu1,k u1 ʔ u1
+589,79,caca11,to cut,tèʔndè,LL,no,te1ʔⁿde1,t e1 ʔ ⁿd e1
+590,80,caca11,to speak,kà̧ʔà̧,LL,no,kã1ʔã1,k ã1 ʔ ã1
+591,81,caca11,year,kùà,LL,no,ku1a1,k u1 a1
+592,84,caca11,foot,sàʔà,LL,no,sa1ʔa1,s a1 ʔ a1
+593,86,caca11,thread,žùʔà,LL,no,ʒu1ʔa1,ʒ u1 ʔ a1
+594,87,caca11,sweet,ƀìđì,LL,no,βi1ði1,β i1 ð i1
+595,88,caca11,nine,ì̧ì̧,LL,no,ĩ1ĩ1,ĩ1 ĩ1
+596,91,caca11,fingernail,čí̧ì̧,MT,no,t͡ʃĩ5ĩ1,t͡ʃ ĩ5 ĩ1
+597,93,caca11,turkey hen,čò̧ò̧,MT,no,t͡ʃõ1õ1,t͡ʃ õ1 õ1
+598,94,caca11,fish,tì-žākā,MT,no,ti1+ʒa3ka3,t i1 + ʒ a3 k a3
+599,97,caca11,long,kánì̧,MT,no,ka5nĩ1,k a5 n ĩ1
+600,99,caca11,white,kúší,MT,no,ku5ʃi5,k u5 ʃ i5
+601,100,caca11,green,kwíì,MT,no,kʷi5i1,kʷ i5 i1
+602,102,caca11,red,kwàʔá,MT,no,kʷa1ʔa5,kʷ a1 ʔ a5
+603,103,caca11,yellow,kwà̧á̧,MT,no,kʷã1ã5,kʷ ã1 ã5
+604,105,caca11,to sell,đìkò,MT,no,ði1ko1,ð i1 k o1
+605,107,caca11,new,sàà,MT,no,sa1a1,s a1 a1
+606,108,caca11,little,līlūū,MT,no,li3lu3u3,l i3 l u3 u3
+607,110,caca11,tongue,žáà,MT,no,ʒa5a1,ʒ a5 a1
+608,1,xaya11,animal,kīsì,HHʔ,yes,ki3si1,k i3 s i1
+609,5,xaya11,hand,ndāʔà,HHʔ,yes,ⁿda3ʔa1,ⁿd a3 ʔ a1
+610,6,xaya11,clothes,đāʔmà̧,HHʔ,yes,ða3ʔmã1,ð a3 ʔ m ã1
+611,9,xaya11,straw mat,yūì,HHʔ,no,ʒu3i1,ʒ u3 i1
+612,13,xaya11,woman,ñā̧ʔà̧,HHʔ,no,ñã3ʔã1,ñ ã3 ʔ ã1
+613,14,xaya11,rope,yōʔò,HHʔ,no,ʒo3ʔo1,ʒ o3 ʔ o1
+614,16,xaya11,work,čū̧ū̧,HH,no,t͡ʃũ3ũ3,t͡ʃ ũ3 ũ3
+615,17,xaya11,handspan,tōō,HH,no,to3o3,t o3 o3
+616,20,xaya11,to be,kūū,HH,no,ku3u3,k u3 u3
+617,27,xaya11,now,ƀīčī,HH,no,βi3t͡ʃi3,β i3 t͡ʃ i3
+618,28,xaya11,house,ƀēʔē,HH,no,βe3ʔe3,β e3 ʔ e3
+619,29,xaya11,yesterday,īkū,HH,no,i3ku3,i3 k u3
+620,30,xaya11,one,ī̧ī̧,HH,no,ĩ3ĩ3,ĩ3 ĩ3
+621,31,xaya11,paper,tūtū,HL,no,tu3tu3,t u3 t u3
+622,34,xaya11,uncle,đītò,HL,no,ði3to1,ð i3 t o1
+623,35,xaya11,aunt,đīđī,HL,no,ði3ði3,ð i3 ð i3
+624,38,xaya11,wall,nāmā,HL,no,na3ma3,n a3 m a3
+625,40,xaya11,brother,ñānī,HL,no,ña3ni3,ñ a3 n i3
+626,41,xaya11,hole,yāƀī,HL,no,ʒa3βi3,ʒ a3 β i3
+627,43,xaya11,horse,īđū,HL,no,i3ðu3,i3 ð u3
+628,45,xaya11,dog,sì-īnà,HL,no,si1+i3na1,s i1 + i3 n a1
+629,47,xaya11,man,tyàā,LH,no,tʲa1a3,tʲ a1 a3
+630,50,xaya11,metal,kàā,LH,no,ka1a3,k a1 a3
+631,52,xaya11,cross-sex sibling,kùʔā,LH,no,ku1ʔa3,k u1 ʔ a3
+632,53,xaya11,adobe,ndòʔō,LH,no,ⁿdo1ʔo3,ⁿd o1 ʔ o3
+633,54,xaya11,child,đèʔē,LH,no,ðe1ʔe3,ð e1 ʔ e3
+634,55,xaya11,sibling's wife,sànū,LH,no,sa1nu3,s a1 n u3
+635,59,xaya11,cold,ƀìšī̧,LH,no,βi1ʃĩ3,β i1 ʃ ĩ3
+636,60,xaya11,good,ƀàʔā,LH,no,βa1ʔa3,β a1 ʔ a3
+637,62,xaya11,four,kùmì,LLʔ,yes,ku1mi1,k u1 m i1
+638,65,xaya11,snake,kòò,LLʔ,no,ko1o1,k o1 o1
+639,66,xaya11,sandal,ndìsà̧,LLʔ,no,ⁿdi1sã1,ⁿd i1 s ã1
+640,68,xaya11,tortilla,đìtà,LLʔ,yes,ði1ta1,ð i1 t a1
+641,72,xaya11,face,nùù,LLʔ,no,nu1u1,n u1 u1
+642,74,xaya11,stone,yùù,LLʔ,yes,ʒu1u1,ʒ u1 u1
+643,78,xaya11,sister,kùʔù,LL,no,ku1ʔu1,k u1 ʔ u1
+644,79,xaya11,to cut,tàʔndè,LL,no,ta1ʔⁿde1,t a1 ʔ ⁿd e1
+645,82,xaya11,niece,đīkū,LL,no,ði3ku3,ð i3 k u3
+646,83,xaya11,nephew,đášì,LL,no,ða5ʃi1,ð a5 ʃ i1
+647,86,xaya11,thread,yùʔà,LL,no,ʒu1ʔa1,ʒ u1 ʔ a1
+648,87,xaya11,sweet,ƀìđì,LL,no,βi1ði1,β i1 ð i1
+649,88,xaya11,nine,ì̧ì̧,LL,no,ĩ1ĩ1,ĩ1 ĩ1
+650,89,xaya11,two,ùì,LL,no,u1i1,u1 i1
+651,91,xaya11,fingernail,čī̧ī̧,MT,no,t͡ʃĩ3ĩ3,t͡ʃ ĩ3 ĩ3
+652,94,xaya11,fish,s-yākā,MT,no,s+ʒa3ka3,s + ʒ a3 k a3
+653,96,xaya11,sibling's husband,kāđà,MT,no,ka3ða1,k a3 ð a1
+654,101,xaya11,small (in pieces),kwātī,MT,no,kʷa3ti3,kʷ a3 t i3
+655,102,xaya11,red,kwàʔá,MT,no,kʷa1ʔa5,kʷ a1 ʔ a5
+656,103,xaya11,yellow,kwà̧á̧,MT,no,kʷã1ã5,kʷ ã1 ã5
+657,104,xaya11,poor,ndàʔƀí,MT,no,ⁿda1ʔβi5,ⁿd a1 ʔ β i5
+658,110,xaya11,tongue,yàá,MT,no,ʒa1a5,ʒ a1 a5
+659,2,ayut11,to eat,kàšìʔ,HHʔ,no,ka1ʃi1ʔ,k a1 ʃ i1 ʔ
+660,3,ayut11,beans,ndùčíʔ,HHʔ,no,ⁿdu1t͡ʃi5ʔ,ⁿd u1 t͡ʃ i5 ʔ
+661,4,ayut11,water,tikwii,HHʔ,no,tikʷii,t i kʷ i i
+662,5,ayut11,hand,ndàʔáʔ,HHʔ,no,ⁿda1ʔa5ʔ,ⁿd a1 ʔ a5 ʔ
+663,6,ayut11,clothes,sàʔmáʔ,HHʔ,no,sa1ʔma5ʔ,s a1 ʔ m a5 ʔ
+664,7,ayut11,tree,ìtú̧ʔ,HHʔ,no,i1tũ5ʔ,i1 t ũ5 ʔ
+665,9,ayut11,straw mat,yìwìʔ,HHʔ,no,ʒi1wi1ʔ,ʒ i1 w i1 ʔ
+666,10,ayut11,mouth,yùʔúʔ,HHʔ,no,ʒu1ʔu5ʔ,ʒ u1 ʔ u5 ʔ
+667,11,ayut11,bone,ìkìʔ,HHʔ,no,i1ki1ʔ,i1 k i1 ʔ
+668,16,ayut11,work,čù̧ù̧,HH,no,t͡ʃũ1ũ1,t͡ʃ ũ1 ũ1
+669,17,ayut11,handspan,tòò,HH,no,to1o1,t o1 o1
+670,18,ayut11,to come,kìšì,HH,no,ki1ʃi1,k i1 ʃ i1
+671,19,ayut11,to run,kùnù,HH,no,ku1nu1,k u1 n u1
+672,24,ayut11,to look,kòtò,HH,no,ko1to1,k o1 t o1
+673,27,ayut11,now,wìtì̧,HH,no,wi1tĩ1,w i1 t ĩ1
+674,28,ayut11,house,wìʔè,HH,no,wi1ʔe1,w i1 ʔ e1
+675,30,ayut11,one,ì̧ì̧,HH,no,ĩ1ĩ1,ĩ1 ĩ1
+676,31,ayut11,paper,tùtù,HL,no,tu1tu1,t u1 t u1
+677,33,ayut11,lime,kàkà,HL,no,ka1ka1,k a1 k a1
+678,34,ayut11,uncle,šìtò,HL,no,ʃi1to1,ʃ i1 t o1
+679,35,ayut11,aunt,šìšì,HL,no,ʃi1ʃi1,ʃ i1 ʃ i1
+680,37,ayut11,bird,sàà,HL,no,sa1a1,s a1 a1
+681,38,ayut11,wall,nāmà,HL,no,na3ma1,n a3 m a1
+682,39,ayut11,town,ñùù,HL,no,ñu1u1,ñ u1 u1
+683,40,ayut11,brother,ñànì,HL,no,ña1ni1,ñ a1 n i1
+684,42,ayut11,flower,ìtà,HL,no,i1ta1,i1 t a1
+685,44,ayut11,inside,ìnì,HL,no,i1ni1,i1 n i1
+686,47,ayut11,man,tyāà,LH,no,tʲa3a1,tʲ a3 a1
+687,48,ayut11,word,tù̧ʔù̧,LH,no,tũ1ʔũ1,t ũ1 ʔ ũ1
+688,49,ayut11,clay pot,kìsì,LH,no,ki1si1,k i1 s i1
+689,50,ayut11,metal,kàà,LH,no,ka1a1,k a1 a1
+690,53,ayut11,adobe,ndòʔò,LH,no,ⁿdo1ʔo1,ⁿd o1 ʔ o1
+691,54,ayut11,child,sīʔè,LH,no,si3ʔe1,s i3 ʔ e1
+692,55,ayut11,sibling's wife,šànù,LH,no,ʃa1nu1,ʃ a1 n u1
+693,56,ayut11,ear,sōʔò,LH,no,so3ʔo1,s o3 ʔ o1
+694,59,ayut11,cold,wìšì̧,LH,no,wi1ʃĩ1,w i1 ʃ ĩ1
+695,60,ayut11,good,wàʔà,LH,no,wa1ʔa1,w a1 ʔ a1
+696,62,ayut11,four,kùmíʔ,LLʔ,no,ku1mi5ʔ,k u1 m i5 ʔ
+697,64,ayut11,cotton,kāčìʔ,LLʔ,no,ka3t͡ʃi1ʔ,k a3 t͡ʃ i1 ʔ
+698,65,ayut11,snake,kōòʔ,LLʔ,no,ko3o1ʔ,k o3 o1 ʔ
+699,66,ayut11,sandal,ndīšà̧ʔ,LLʔ,no,ⁿdi3ʃã1ʔ,ⁿd i3 ʃ ã1 ʔ
+700,68,ayut11,tortilla,štāʔ,LLʔ,no,ʃta3ʔ,ʃ t a3 ʔ
+701,69,ayut11,head,šīnìʔ,LLʔ,no,ʃi3ni1ʔ,ʃ i3 n i1 ʔ
+702,71,ayut11,soap,nāmàʔ,LLʔ,no,na3ma1ʔ,n a3 m a1 ʔ
+703,73,ayut11,corn,nūnìʔ,LLʔ,no,nu3ni1ʔ,n u3 n i1 ʔ
+704,74,ayut11,stone,yūùʔ,LLʔ,no,ʒu3u1ʔ,ʒ u3 u1 ʔ
+705,76,ayut11,to go,kū̧ʔù̧,LL,no,kũ3ʔũ1,k ũ3 ʔ ũ1
+706,78,ayut11,sister,kūʔwà,LL,no,ku3ʔwa1,k u3 ʔ w a1
+707,79,ayut11,to cut,kāʔndyà,LL,no,ka3ʔⁿdʒa1,k a3 ʔ ⁿd ʒ a1
+708,80,ayut11,to speak,kā̧ʔà̧,LL,no,kã3ʔã1,k ã3 ʔ ã1
+709,82,ayut11,niece,sīkù,LL,no,si3ku1,s i3 k u1
+710,83,ayut11,nephew,sāšì̧,LL,no,sa3ʃĩ1,s a3 ʃ ĩ1
+711,85,ayut11,leaf,yūkù,LL,no,ʒu3ku1,ʒ u3 k u1
+712,89,ayut11,two,ūwì,LL,no,u3wi1,u3 w i1
+713,93,ayut11,turkey hen,tyù̧ù̧ʔ,MT,no,tʲũ1ũ1ʔ,tʲ ũ1 ũ1 ʔ
+714,94,ayut11,fish,tyàkáʔ,MT,no,tʲa1ka5ʔ,tʲ a1 k a5 ʔ
+715,95,ayut11,black,tù̧ú̧ʔ,MT,no,tũ1ũ5ʔ,t ũ1 ũ5 ʔ
+716,96,ayut11,sibling's husband,kàsáʔ,MT,no,ka1sa5ʔ,k a1 s a5 ʔ
+717,97,ayut11,long,kánìʔ,MT,no,ka5ni1ʔ,k a5 n i1 ʔ
+718,98,ayut11,important,káʔnúʔ,MT,no,ka5ʔnu5ʔ,k a5 ʔ n u5 ʔ
+719,100,ayut11,green,kwíìʔ,MT,no,kʷi5i1ʔ,kʷ i5 i1 ʔ
+720,101,ayut11,small (in pieces),kwáčí,MT,no,kʷa5t͡ʃi5,kʷ a5 t͡ʃ i5
+721,102,ayut11,red,kwáʔá,MT,no,kʷa5ʔa5,kʷ a5 ʔ a5
+722,103,ayut11,yellow,kwá̧á̧,MT,no,kʷã5ã5,kʷ ã5 ã5
+723,104,ayut11,poor,ndàʔwí,MT,no,ⁿda1ʔwi5,ⁿd a1 ʔ w i5
+724,105,ayut11,to sell,šìkòʔ,MT,no,ʃi1ko1ʔ,ʃ i1 k o1 ʔ
+725,106,ayut11,precious metal,šù̧ʔú̧ʔ,MT,no,ʃũ1ʔũ5ʔ,ʃ ũ1 ʔ ũ5 ʔ
+726,108,ayut11,little,lúlú,MT,no,lu5lu5,l u5 l u5
+727,109,ayut11,people,nè-yíwìʔ,MT,no,ne1+ʒi5wi1ʔ,n e1 + ʒ i5 w i1 ʔ
+728,110,ayut11,tongue,yáà,MT,no,ʒa5a1,ʒ a5 a1
+729,3,alac11,beans,ndūčù,HHʔ,no,ⁿdu3t͡ʃu1,ⁿd u3 t͡ʃ u1
+730,5,alac11,hand,ndàʔā,HHʔ,no,ⁿda1ʔa3,ⁿd a1 ʔ a3
+731,10,alac11,mouth,yūʔù,HHʔ,no,ʒu3ʔu1,ʒ u3 ʔ u1
+732,16,alac11,work,čīñō̧,HH,no,t͡ʃi3ñõ3,t͡ʃ i3 ñ õ3
+733,27,alac11,now,ƀītī̧,HH,no,βi3tĩ3,β i3 t ĩ3
+734,28,alac11,house,ƀēʔē,HH,no,βe3ʔe3,β e3 ʔ e3
+735,32,alac11,stool,tāyì,HL,no,ta3ʒi1,t a3 ʒ i1
+736,39,alac11,town,ñō̧ō̧,HL,no,ñõ3õ3,ñ õ3 õ3
+737,41,alac11,hole,yāƀì,HL,no,ʒa3βi1,ʒ a3 β i1
+738,43,alac11,deer,yūsū,HL,no,ʒu3su3,ʒ u3 s u3
+739,45,alac11,dog,īnā̧,HL,no,i3nã3,i3 n ã3
+740,49,alac11,clay pot,kìsī,LH,no,ki1si3,k i1 s i3
+741,51,alac11,meat,kùñō̧,LH,no,ku1ñõ3,k u1 ñ õ3
+742,53,alac11,adobe,ndòʔō,LH,no,ⁿdo1ʔo3,ⁿd o1 ʔ o3
+743,56,alac11,ear,sòʔō,LH,no,so1ʔo3,s o1 ʔ o3
+744,59,alac11,cold,ƀìšī,LH,no,βi1ʃi3,β i1 ʃ i3
+745,60,alac11,good,ƀàʔā,LH,no,βa1ʔa3,β a1 ʔ a3
+746,63,alac11,day,kìƀì,LLʔ,no,ki1βi1,k i1 β i1
+747,65,alac11,snake,kòò,LLʔ,no,ko1o1,k o1 o1
+748,68,alac11,tortilla,sìtà,LLʔ,no,si1ta1,s i1 t a1
+749,70,alac11,comal,šìyò,LLʔ,no,ʃi1ʒo1,ʃ i1 ʒ o1
+750,74,alac11,stone,yùù,LLʔ,no,ʒu1u1,ʒ u1 u1
+751,75,alac11,moon,yòò,LLʔ,no,ʒo1o1,ʒ o1 o1
+752,76,alac11,to go,kò̧ʔò̧,LL,no,kõ1ʔõ1,k õ1 ʔ õ1
+753,77,alac11,comb,kwìkà,LL,no,kʷi1ka1,kʷ i1 k a1
+754,84,alac11,foot,šàʔà,LL,no,ʃa1ʔa1,ʃ a1 ʔ a1
+755,86,alac11,thread,yìʔƀà,LL,no,ʒi1ʔβa1,ʒ i1 ʔ β a1
+756,91,alac11,fingernail,číì,MT,no,t͡ʃi5i1,t͡ʃ i5 i1
+757,93,alac11,turkey hen,tì̧ú̧,MT,no,tĩ1ũ5,t ĩ1 ũ5
+758,94,alac11,fish,tiáká,MT,no,tia5ka5,t i a5 k a5
+759,95,alac11,black,tò̧ó̧,MT,no,tõ1õ5,t õ1 õ5
+760,97,alac11,long,kánì,MT,no,ka5ni1,k a5 n i1
+761,102,alac11,red,kwáʔá,MT,no,kʷa5ʔa5,kʷ a5 ʔ a5
+762,103,alac11,yellow,kwá̧á̧,MT,no,kʷã5ã5,kʷ ã5 ã5
+763,107,alac11,new,šāá,MT,no,ʃa3a5,ʃ a3 a5
+764,109,alac11,people,nì̧ƀī,MT,no,nĩ1βi3,n ĩ1 β i3
+765,110,alac11,tongue,láà,MT,no,la5a1,l a5 a1
+766,1,metl11,animal,kītí,HHʔ,no,ki3ti5,k i3 t i5
+767,2,metl11,to eat,kāšī,HHʔ,no,ka3ʃi3,k a3 ʃ i3
+768,5,metl11,hand,ndàʔā,HHʔ,no,ⁿda1ʔa3,ⁿd a1 ʔ a3
+769,7,metl11,tree,yūtú̧,HHʔ,no,ʒu3tũ5,ʒ u3 t ũ5
+770,9,metl11,straw mat,yūƀì,HHʔ,yes,ʒu3βi1,ʒ u3 β i1
+771,10,metl11,mouth,yùʔū,HHʔ,no,ʒu1ʔu3,ʒ u1 ʔ u3
+772,11,metl11,bone,īkí,HHʔ,no,i3ki5,i3 k i5
+773,14,metl11,rope,yōʔó,HHʔ,no,ʒo3ʔo5,ʒ o3 ʔ o5
+774,15,metl11,road,īčí,HHʔ,no,i3t͡ʃi5,i3 t͡ʃ i5
+775,19,metl11,to run,kūnū,HH,no,ku3nu3,k u3 n u3
+776,20,metl11,to be,kūƀī,HH,no,ku3βi3,k u3 β i3
+777,21,metl11,to sing,kātā,HH,no,ka3ta3,k a3 t a3
+778,24,metl11,to look,kōtō,HH,no,ko3to3,k o3 t o3
+779,28,metl11,house,ƀēʔē,HH,no,βe3ʔe3,β e3 ʔ e3
+780,30,metl11,one,ī̧ī̧,HH,no,ĩ3ĩ3,ĩ3 ĩ3
+781,31,metl11,paper,tūtū,HL,no,tu3tu3,t u3 t u3
+782,32,metl11,stool,tyāyù,HL,no,tʲa3ʒu1,tʲ a3 ʒ u1
+783,33,metl11,lime,kākā,HL,no,ka3ka3,k a3 k a3
+784,34,metl11,uncle,šītò,HL,no,ʃi3to1,ʃ i3 t o1
+785,35,metl11,aunt,šīšī,HL,no,ʃi3ʃi3,ʃ i3 ʃ i3
+786,37,metl11,bird,sāā,HL,no,sa3a3,s a3 a3
+787,38,metl11,wall,nāmà,HL,no,na3ma1,n a3 m a1
+788,40,metl11,brother,yānī,HL,no,ʒa3ni3,ʒ a3 n i3
+789,42,metl11,flower,ītā,HL,no,i3ta3,i3 t a3
+790,44,metl11,inside,īnī,HL,no,i3ni3,i3 n i3
+791,46,metl11,stomach,tīšī,LH,no,ti3ʃi3,t i3 ʃ i3
+792,47,metl11,man,tyàā,LH,no,tʲa1a3,tʲ a1 a3
+793,48,metl11,word,tù̧ʔū̧,LH,no,tũ1ʔũ3,t ũ1 ʔ ũ3
+794,49,metl11,clay pot,kìsī,LH,no,ki1si3,k i1 s i3
+795,50,metl11,metal,kàà,LH,no,ka1a1,k a1 a1
+796,51,metl11,meat,kùñù,LH,no,ku1ñu1,k u1 ñ u1
+797,52,metl11,cross-sex sibling,kūʔƀā,LH,no,ku3ʔβa3,k u3 ʔ β a3
+798,54,metl11,child,sēʔē,LH,no,se3ʔe3,s e3 ʔ e3
+799,55,metl11,sibling's wife,sānù,LH,no,sa3nu1,s a3 n u1
+800,58,metl11,river,ítyā,LH,no,i5tʲa3,i5 tʲ a3
+801,59,metl11,cold,ƀìšī̧,LH,no,βi1ʃĩ3,β i1 ʃ ĩ3
+802,60,metl11,good,ƀàʔā,LH,no,βa1ʔa3,β a1 ʔ a3
+803,61,metl11,medicine,tàtà̧,LLʔ,yes,ta1tã1,t a1 t ã1
+804,61,metl11,medicine,tàtā̧,LLʔ,yes,ta1tã3,t a1 t ã3
+805,62,metl11,four,kùmī,LLʔ,yes,ku1mi3,k u1 m i3
+806,63,metl11,day,kìƀì,LLʔ,no,ki1βi1,k i1 β i1
+807,63,metl11,day,kìƀī,LLʔ,no,ki1βi3,k i1 β i3
+808,65,metl11,snake,kōò,LLʔ,yes,ko3o1,k o3 o1
+809,68,metl11,tortilla,sītà,LLʔ,no,si3ta1,s i3 t a1
+810,69,metl11,head,šìnī,LLʔ,no,ʃi1ni3,ʃ i1 n i3
+811,71,metl11,soap,nàmà,LLʔ,yes,na1ma1,n a1 m a1
+812,71,metl11,soap,nàmā,LLʔ,yes,na1ma3,n a1 m a3
+813,73,metl11,corn,nùnì,LLʔ,yes,nu1ni1,n u1 n i1
+814,73,metl11,corn,nùnī,LLʔ,yes,nu1ni3,n u1 n i3
+815,74,metl11,stone,yùū,LLʔ,no,ʒu1u3,ʒ u1 u3
+816,78,metl11,sister,kūʔƀī,LL,no,ku3ʔβi3,k u3 ʔ β i3
+817,79,metl11,to cut,kāʔndyā,LL,no,ka3ʔⁿdʒa3,k a3 ʔ ⁿd ʒ a3
+818,80,metl11,to speak,kā̧ʔā̧,LL,no,kã3ʔã3,k ã3 ʔ ã3
+819,82,metl11,niece,šīkū,LL,no,ʃi3ku3,ʃ i3 k u3
+820,83,metl11,nephew,sāšī̧,LL,no,sa3ʃĩ3,s a3 ʃ ĩ3
+821,84,metl11,foot,šàʔā,LL,no,ʃa1ʔa3,ʃ a1 ʔ a3
+822,87,metl11,sweet,ƀìšì,LL,no,βi1ʃi1,β i1 ʃ i1
+823,91,metl11,fingernail,čí̧ì̧,MT,no,t͡ʃĩ5ĩ1,t͡ʃ ĩ5 ĩ1
+824,92,metl11,rat,tì̧ī̧,MT,no,tĩ1ĩ3,t ĩ1 ĩ3
+825,94,metl11,fish,tyàká,MT,no,tʲa1ka5,tʲ a1 k a5
+826,96,metl11,sibling's husband,kāsā,MT,no,ka3sa3,k a3 s a3
+827,98,metl11,big (sg),káʔnū,MT,no,ka5ʔnu3,k a5 ʔ n u3
+828,101,metl11,small (in pieces),kwàčī,MT,no,kʷa1t͡ʃi3,kʷ a1 t͡ʃ i3
+829,102,metl11,red,kwáʔā,MT,no,kʷa5ʔa3,kʷ a5 ʔ a3
+830,103,metl11,yellow,kwá̧á̧,MT,no,kʷã5ã5,kʷ ã5 ã5
+831,109,metl11,people,yūúƀī,MT,no,ʒu3u5βi3,ʒ u3 u5 β i3
+832,1,cahu11,animal,kītī,HHʔ,no,ki3ti3,k i3 t i3
+833,2,cahu11,to eat,kāšī,HHʔ,no,ka3ʃi3,k a3 ʃ i3
+834,3,cahu11,beans,ndǜčǜ,HHʔ,no,ⁿdʉ1t͡ʃʉ1,ⁿd ʉ1 t͡ʃ ʉ1
+835,4,cahu11,water,takwiyi,HHʔ,no,takʷiʒi,t a kʷ i ʒ i
+836,5,cahu11,hand,ndāʔā,HHʔ,no,ⁿda3ʔa3,ⁿd a3 ʔ a3
+837,7,cahu11,tree,yītnō,HHʔ,no,ʒi3tno3,ʒ i3 t n o3
+838,8,cahu11,mountain,yǖkǜ,HHʔ,no,ʒʉ3kʉ1,ʒ ʉ3 k ʉ1
+839,9,cahu11,straw mat,yīwí,HHʔ,no,ʒi3wi5,ʒ i3 w i5
+840,10,cahu11,mouth,yǖʔǖ,HHʔ,no,ʒʉ3ʔʉ3,ʒ ʉ3 ʔ ʉ3
+841,11,cahu11,bone,yīkī,HHʔ,no,ʒi3ki3,ʒ i3 k i3
+842,12,cahu11,chile,yāʔā,HHʔ,no,ʒa3ʔa3,ʒ a3 ʔ a3
+843,13,cahu11,woman,ñāʔà,HHʔ,no,ña3ʔa1,ñ a3 ʔ a1
+844,15,cahu11,road,yīčī,HHʔ,no,ʒi3t͡ʃi3,ʒ i3 t͡ʃ i3
+845,16,cahu11,work,čīñō,HH,no,t͡ʃi3ño3,t͡ʃ i3 ñ o3
+846,18,cahu11,to come,kísī,HH,no,ki5si3,k i5 s i3
+847,22,cahu11,to be born,kākū,HH,no,ka3ku3,k a3 k u3
+848,23,cahu11,to burn,kāʔmī,HH,no,ka3ʔmi3,k a3 ʔ m i3
+849,25,cahu11,to drink,kōʔō,HH,no,ko3ʔo3,k o3 ʔ o3
+850,27,cahu11,now,wītnī,HH,no,wi3tni3,w i3 t n i3
+851,28,cahu11,house,wēʔē,HH,no,we3ʔe3,w e3 ʔ e3
+852,30,cahu11,one,í̧í̧,HH,no,ĩ5ĩ5,ĩ5 ĩ5
+853,32,cahu11,stool,tāyī,HL,no,ta3ʒi3,t a3 ʒ i3
+854,33,cahu11,lime,kākā,HL,no,ka3ka3,k a3 k a3
+855,34,cahu11,uncle,sītō,HL,no,si3to3,s i3 t o3
+856,35,cahu11,aunt,sīsī,HL,no,si3si3,s i3 s i3
+857,37,cahu11,bird,sáá,HL,no,sa5a5,s a5 a5
+858,39,cahu11,town,ñó̧ō̧,HL,no,ñõ5õ3,ñ õ5 õ3
+859,40,cahu11,brother,ñānī,HL,no,ña3ni3,ñ a3 n i3
+860,41,cahu11,hole,yāwī,HL,no,ʒa3wi3,ʒ a3 w i3
+861,42,cahu11,flower,yītā,HL,no,ʒi3ta3,ʒ i3 t a3
+862,43,cahu11,deer,tn-ǖsǖ,HL,no,tn+ʉ3sʉ3,t n + ʉ3 s ʉ3
+863,44,cahu11,inside,īnī,HL,no,i3ni3,i3 n i3
+864,45,cahu11,dog,īnā,HL,no,i3na3,i3 n a3
+865,45,cahu11,dog,ñīnā,HL,no,ñi3na3,ñ i3 n a3
+866,46,cahu11,stomach,tīšī,LH,no,ti3ʃi3,t i3 ʃ i3
+867,48,cahu11,word,tnō̧ʔō̧,LH,no,tnõ3ʔõ3,t n õ3 ʔ õ3
+868,50,cahu11,metal,kàà,LH,no,ka1a1,k a1 a1
+869,51,cahu11,meat,kùñū̧,LH,no,ku1ñũ3,k u1 ñ ũ3
+870,53,cahu11,adobe,ndōʔō,LH,no,ⁿdo3ʔo3,ⁿd o3 ʔ o3
+871,54,cahu11,child,sāʔyā,LH,no,sa3ʔʒa3,s a3 ʔ ʒ a3
+872,55,cahu11,sibling's wife,šānō,LH,no,ʃa3no3,ʃ a3 n o3
+873,56,cahu11,ear,sòʔō,LH,no,so1ʔo3,s o1 ʔ o3
+874,57,cahu11,tooth,nò̧ʔō̧,LH,no,nõ1ʔõ3,n õ1 ʔ õ3
+875,58,cahu11,river,yǜtā,LH,no,ʒʉ1ta3,ʒ ʉ1 t a3
+876,59,cahu11,cold,wìšī̧,LH,no,wi1ʃĩ3,w i1 ʃ ĩ3
+877,60,cahu11,good,wāʔā,LH,no,wa3ʔa3,w a3 ʔ a3
+878,62,cahu11,four,kūmī,LLʔ,no,ku3mi3,k u3 m i3
+879,63,cahu11,day,kìwì,LLʔ,no,ki1wi1,k i1 w i1
+880,64,cahu11,cotton,kàčì,LLʔ,no,ka1t͡ʃi1,k a1 t͡ʃ i1
+881,66,cahu11,sandal,ndǜsà,LLʔ,no,ⁿdʉ1sa1,ⁿd ʉ1 s a1
+882,67,cahu11,cane,ndòò,LLʔ,no,ⁿdo1o1,ⁿd o1 o1
+883,68,cahu11,tortilla,sītā,LLʔ,no,si3ta3,s i3 t a3
+884,69,cahu11,head,sìnì,LLʔ,no,si1ni1,s i1 n i1
+885,70,cahu11,comal,šìyò,LLʔ,no,ʃi1ʒo1,ʃ i1 ʒ o1
+886,72,cahu11,face,nò̧ò̧,LLʔ,no,nõ1õ1,n õ1 õ1
+887,73,cahu11,corn,nònì,LLʔ,no,no1ni1,n o1 n i1
+888,74,cahu11,stone,yǜǜ,LLʔ,no,ʒʉ1ʉ1,ʒ ʉ1 ʉ1
+889,75,cahu11,moon,yòò,LLʔ,no,ʒo1o1,ʒ o1 o1
+890,79,cahu11,to cut,kāʔndā,LL,no,ka3ʔⁿda3,k a3 ʔ ⁿd a3
+891,80,cahu11,to speak,kā̧ʔā̧,LL,no,kã3ʔã3,k ã3 ʔ ã3
+892,81,cahu11,year,kwīyā,LL,no,kʷi3ʒa3,kʷ i3 ʒ a3
+893,83,cahu11,nephew,sāšī̧,LL,no,sa3ʃĩ3,s a3 ʃ ĩ3
+894,84,cahu11,foot,šāʔā,LL,no,ʃa3ʔa3,ʃ a3 ʔ a3
+895,85,cahu11,"herb, bush",yǜkǜ,LL,no,ʒʉ1kʉ1,ʒ ʉ1 k ʉ1
+896,87,cahu11,sweet,wīsī,LL,no,wi3si3,w i3 s i3
+897,88,cahu11,nine,ì̧ì̧,LL,no,ĩ1ĩ1,ĩ1 ĩ1
+898,89,cahu11,two,ōwī,LL,no,o3wi3,o3 w i3
+899,90,cahu11,five,ō̧ʔō̧,LL,no,õ3ʔõ3,õ3 ʔ õ3
+900,91,cahu11,fingernail,čī̧ī̧,MT,no,t͡ʃĩ3ĩ3,t͡ʃ ĩ3 ĩ3
+901,93,cahu11,turkey hen,tyó̧ó̧,MT,no,tʲõ5õ5,tʲ õ5 õ5
+902,94,cahu11,fish,tyāká,MT,no,tʲa3ka5,tʲ a3 k a5
+903,95,cahu11,black,tnō̧ó̧,MT,no,tnõ3õ5,t n õ3 õ5
+904,98,cahu11,big (sg),kāʔnō,MT,no,ka3ʔno3,k a3 ʔ n o3
+905,100,cahu11,green,kwíí,MT,no,kʷi5i5,kʷ i5 i5
+906,101,cahu11,small (in pieces),kwāčí,MT,no,kʷa3t͡ʃi5,kʷ a3 t͡ʃ i5
+907,102,cahu11,red,kwáʔá,MT,no,kʷa5ʔa5,kʷ a5 ʔ a5
+908,103,cahu11,yellow,kwá̧á̧,MT,no,kʷã5ã5,kʷ ã5 ã5
+909,104,cahu11,poor,ndāʔwī,MT,no,ⁿda3ʔwi3,ⁿd a3 ʔ w i3
+910,105,cahu11,to sell,síkò,MT,no,si5ko1,s i5 k o1
+911,108,cahu11,little,lōʔō,MT,no,lo3ʔo3,l o3 ʔ o3
+912,110,cahu11,tongue,yáá,MT,no,ʒa5a5,ʒ a5 a5
+913,5,mixt11,hand,ndāʔá,HHʔ,no,ⁿda3ʔa5,ⁿd a3 ʔ a5
+914,6,mixt11,clothes,sàʔmǎ,HHʔ,no,sa1ʔma4,s a1 ʔ m a4
+915,9,mixt11,straw mat,yùƀǐ,HHʔ,no,ʒu1βi4,ʒ u1 β i4
+916,10,mixt11,mouth,yūʔú,HHʔ,no,ʒu3ʔu5,ʒ u3 ʔ u5
+917,12,mixt11,chile,yāʔá,HHʔ,no,ʒa3ʔa5,ʒ a3 ʔ a5
+918,13,mixt11,woman,ñā̧ʔá̧,HHʔ,no,ñã3ʔã5,ñ ã3 ʔ ã5
+919,14,mixt11,rope,yōʔó,HHʔ,no,ʒo3ʔo5,ʒ o3 ʔ o5
+920,16,mixt11,work,čī̧ū̧,HH,no,t͡ʃĩ3ũ3,t͡ʃ ĩ3 ũ3
+921,28,mixt11,house,ƀēʔē,HH,no,βe3ʔe3,β e3 ʔ e3
+922,30,mixt11,one,ī̧ī̧,HH,no,ĩ3ĩ3,ĩ3 ĩ3
+923,31,mixt11,paper,tūtù,HL,no,tu3tu1,t u3 t u1
+924,33,mixt11,lime,kākà,HL,no,ka3ka1,k a3 k a1
+925,34,mixt11,uncle,šītò,HL,no,ʃi3to1,ʃ i3 t o1
+926,36,mixt11,frog,sàʔƀà,HL,no,sa1ʔβa1,s a1 ʔ β a1
+927,39,mixt11,town,ñūù,HL,no,ñu3u1,ñ u3 u1
+928,41,mixt11,hole,yàƀì,HL,no,ʒa1βi1,ʒ a1 β i1
+929,42,mixt11,flower,ītà,HL,no,i3ta1,i3 t a1
+930,45,mixt11,dog,t-i᷅nā,HL,no,t+i8na3,t + i8 n a3
+931,46,mixt11,stomach,tīȼī,LH,no,ti3t͡si3,t i3 t͡s i3
+932,47,mixt11,man,čàā,LH,no,t͡ʃa1a3,t͡ʃ a1 a3
+933,48,mixt11,word,tù̧ʔū̧,LH,no,tũ1ʔũ3,t ũ1 ʔ ũ3
+934,49,mixt11,clay pot,kìsī,LH,no,ki1si3,k i1 s i3
+935,50,mixt11,metal,kàā,LH,no,ka1a3,k a1 a3
+936,53,mixt11,adobe,ndòʔō,LH,no,ⁿdo1ʔo3,ⁿd o1 ʔ o3
+937,54,mixt11,child,sèʔē,LH,no,se1ʔe3,s e1 ʔ e3
+938,58,mixt11,river,yùčā,LH,no,ʒu1t͡ʃa3,ʒ u1 t͡ʃ a3
+939,59,mixt11,cold,ƀìȼī,LH,no,βi1t͡si3,β i1 t͡s i3
+940,60,mixt11,good,ƀàʔā,LH,no,βa1ʔa3,β a1 ʔ a3
+941,61,mixt11,medicine,tàtǎ,LLʔ,no,ta1ta4,t a1 t a4
+942,62,mixt11,four,kùmǐ,LLʔ,no,ku1mi4,k u1 m i4
+943,64,mixt11,cotton,kàčǐ,LLʔ,no,ka1t͡ʃi4,k a1 t͡ʃ i4
+944,65,mixt11,snake,kòó,LLʔ,no,ko1o5,k o1 o5
+945,66,mixt11,sandal,nzìȼǎ,LLʔ,no,nd͡zi1t͡sa4,n d͡z i1 t͡s a4
+946,67,mixt11,cane,ndòó,LLʔ,no,ⁿdo1o5,ⁿd o1 o5
+947,68,mixt11,tortilla,stàá,LLʔ,no,sta1a5,s t a1 a5
+948,71,mixt11,soap,nàmǎ,LLʔ,no,na1ma4,n a1 m a4
+949,72,mixt11,face,nùú,LLʔ,no,nu1u5,n u1 u5
+950,74,mixt11,stone,yùú,LLʔ,no,ʒu1u5,ʒ u1 u5
+951,75,mixt11,moon,yòó,LLʔ,no,ʒo1o5,ʒ o1 o5
+952,77,mixt11,comb,kwìkà,LL,no,kʷi1ka1,kʷ i1 k a1
+953,81,mixt11,year,kwìà,LL,no,kʷi1a1,kʷ i1 a1
+954,88,mixt11,nine,ì̧ì̧,LL,no,ĩ1ĩ1,ĩ1 ĩ1
+955,90,mixt11,five,ù̧ʔù̧,LL,no,ũ1ʔũ1,ũ1 ʔ ũ1
+956,91,mixt11,fingernail,čî̧í̧,MT,no,t͡ʃĩ2ĩ5,t͡ʃ ĩ2 ĩ5
+957,93,mixt11,turkey hen,čù̧ū̧,MT,no,t͡ʃũ1ũ3,t͡ʃ ũ1 ũ3
+958,98,mixt11,big (sg),káʔnū,MT,no,ka5ʔnu3,k a5 ʔ n u3
+959,99,mixt11,white,kwíȼì,MT,no,kʷi5t͡si1,kʷ i5 t͡s i1
+960,100,mixt11,green,kwîí,MT,no,kʷi2i5,kʷ i2 i5
+961,102,mixt11,red,kwáʔà,MT,no,kʷa5ʔa1,kʷ a5 ʔ a1
+962,103,mixt11,yellow,kwá̧à̧,MT,no,kʷã5ã1,kʷ ã5 ã1
+963,106,mixt11,precious metal,šǔ̧ʔū̧,MT,no,ʃũ4ʔũ3,ʃ ũ4 ʔ ũ3
+964,107,mixt11,new,ȼǎā,MT,no,t͡sa4a3,t͡s a4 a3
+965,108,mixt11,little,lūū,MT,no,lu3u3,l u3 u3
+966,110,mixt11,tongue,yâá,MT,no,ʒa2a5,ʒ a2 a5
+967,1,prog12,animal,kítì,HHʔ,no,ki5ti1,k i5 t i1
+968,2,prog12,to eat,kāší,HHʔ,no,ka3ʃi5,k a3 ʃ i5
+969,3,prog12,beans,ndǘčǜ,HHʔ,no,ⁿdʉ5t͡ʃʉ1,ⁿd ʉ5 t͡ʃ ʉ1
+970,5,prog12,hand,ndáʔà,HHʔ,no,ⁿda5ʔa1,ⁿd a5 ʔ a1
+971,6,prog12,clothes,háʔmà,HHʔ,no,ha5ʔma1,h a5 ʔ m a1
+972,7,prog12,tree,žítò,HHʔ,no,ʒi5to1,ʒ i5 t o1
+973,8,prog12,mountain,žǘkǜ,HHʔ,no,ʒʉ5kʉ1,ʒ ʉ5 k ʉ1
+974,10,prog12,mouth,žǘʔǜ,HHʔ,no,ʒʉ5ʔʉ1,ʒ ʉ5 ʔ ʉ1
+975,12,prog12,chile,žáʔà,HHʔ,no,ʒa5ʔa1,ʒ a5 ʔ a1
+976,13,prog12,woman,ñá̧ʔà̧,HHʔ,no,ñã5ʔã1,ñ ã5 ʔ ã1
+977,14,prog12,rope,žóʔò,HHʔ,no,ʒo5ʔo1,ʒ o5 ʔ o1
+978,15,prog12,road,íčì,HHʔ,no,i5t͡ʃi1,i5 t͡ʃ i1
+979,16,prog12,work,čū̧ū̧,HH,no,t͡ʃũ3ũ3,t͡ʃ ũ3 ũ3
+980,20,prog12,to be,kūū,HH,no,ku3u3,k u3 u3
+981,21,prog12,to sing,kātā,HH,no,ka3ta3,k a3 t a3
+982,26,prog12,to buy,kwȩ̄ȩ̀,HH,no,kʷẽ3ẽ1,kʷ ẽ3 ẽ1
+983,27,prog12,now,ƀītī,HH,no,βi3ti3,β i3 t i3
+984,28,prog12,house,ƀēʔē,HH,no,βe3ʔe3,β e3 ʔ e3
+985,30,prog12,one,ī̧ī̧,HH,no,ĩ3ĩ3,ĩ3 ĩ3
+986,31,prog12,paper,tǖtǖ,HL,no,tʉ3tʉ3,t ʉ3 t ʉ3
+987,34,prog12,uncle,hìtò,HL,no,hi1to1,h i1 t o1
+988,35,prog12,aunt,hìhì,HL,no,hi1hi1,h i1 h i1
+989,36,prog12,frog,láʔƀà,HL,no,la5ʔβa1,l a5 ʔ β a1
+990,37,prog12,bird,lāā,HL,no,la3a3,l a3 a3
+991,39,prog12,town,ñūū,HL,no,ñu3u3,ñ u3 u3
+992,40,prog12,brother,ñànì,HL,no,ña1ni1,ñ a1 n i1
+993,41,prog12,hole,žáƀì,HL,no,ʒa5βi1,ʒ a5 β i1
+994,43,prog12,deer,ǖhǖ,HL,no,ʉ3hʉ3,ʉ3 h ʉ3
+995,44,prog12,inside,īnī,HL,no,i3ni3,i3 n i3
+996,45,prog12,dog,t-ìnā,HL,no,t+i1na3,t + i1 n a3
+997,46,prog12,stomach,tìšī,LH,no,ti1ʃi3,t i1 ʃ i3
+998,47,prog12,man,tàà,LH,no,ta1a1,t a1 a1
+999,48,prog12,word,tù̧ʔū̧,LH,no,tũ1ʔũ3,t ũ1 ʔ ũ3
+1000,50,prog12,metal,kàà,LH,no,ka1a1,k a1 a1
+1001,52,prog12,cross-sex sibling,kyàʔƀà,LH,no,kʲa1ʔβa1,kʲ a1 ʔ β a1
+1002,53,prog12,adobe,ndòʔō,LH,no,ⁿdo1ʔo3,ⁿd o1 ʔ o3
+1003,54,prog12,child,hàʔžī,LH,no,ha1ʔʒi3,h a1 ʔ ʒ i3
+1004,55,prog12,sibling's wife,sànù,LH,no,sa1nu1,s a1 n u1
+1005,58,prog12,river,žǜtā,LH,no,ʒʉ1ta3,ʒ ʉ1 t a3
+1006,59,prog12,cold,ƀīšī,LH,no,βi3ʃi3,β i3 ʃ i3
+1007,60,prog12,good,ƀàʔā,LH,no,βa1ʔa3,β a1 ʔ a3
+1008,61,prog12,medicine,tàtà,LLʔ,no,ta1ta1,t a1 t a1
+1009,62,prog12,four,kòmì,LLʔ,no,ko1mi1,k o1 m i1
+1010,63,prog12,day,kìƀì,LLʔ,no,ki1βi1,k i1 β i1
+1011,64,prog12,cotton,kàčì,LLʔ,no,ka1t͡ʃi1,k a1 t͡ʃ i1
+1012,65,prog12,snake,kòò,LLʔ,no,ko1o1,k o1 o1
+1013,66,prog12,sandal,ndǜsà,LLʔ,no,ⁿdʉ1sa1,ⁿd ʉ1 s a1
+1014,67,prog12,cane,ndòò,LLʔ,no,ⁿdo1o1,ⁿd o1 o1
+1015,68,prog12,tortilla,hìtà,LLʔ,no,hi1ta1,h i1 t a1
+1016,69,prog12,head,hìnì,LLʔ,no,hi1ni1,h i1 n i1
+1017,70,prog12,comal,šòò,LLʔ,no,ʃo1o1,ʃ o1 o1
+1018,71,prog12,soap,nà̧mà̧,LLʔ,no,nã1mã1,n ã1 m ã1
+1019,72,prog12,face,nùù,LLʔ,no,nu1u1,n u1 u1
+1020,73,prog12,corn,nù̧nì̧,LLʔ,no,nũ1nĩ1,n ũ1 n ĩ1
+1021,75,prog12,moon,žòò,LLʔ,no,ʒo1o1,ʒ o1 o1
+1022,76,prog12,to go,kù̧ʔù̧,LL,no,kũ1ʔũ1,k ũ1 ʔ ũ1
+1023,78,prog12,sister,kìʔƀì,LL,no,ki1ʔβi1,k i1 ʔ β i1
+1024,79,prog12,broken,tàʔndà,LL,no,ta1ʔⁿda1,t a1 ʔ ⁿd a1
+1025,80,prog12,to speak,kà̧ʔà̧,LL,no,kã1ʔã1,k ã1 ʔ ã1
+1026,81,prog12,year,kwyàà,LL,no,kʷʒa1a1,kʷ ʒ a1 a1
+1027,82,prog12,niece,hǜkǜ,LL,no,hʉ1kʉ1,h ʉ1 k ʉ1
+1028,83,prog12,nephew,hàšì,LL,no,ha1ʃi1,h a1 ʃ i1
+1029,84,prog12,foot,šàʔà,LL,no,ʃa1ʔa1,ʃ a1 ʔ a1
+1030,85,prog12,weeds,žǜkǜ,LL,no,ʒʉ1kʉ1,ʒ ʉ1 k ʉ1
+1031,87,prog12,sweet,ƀìhì,LL,no,βi1hi1,β i1 h i1
+1032,88,prog12,nine,ì̧ì̧,LL,no,ĩ1ĩ1,ĩ1 ĩ1
+1033,89,prog12,two,ìƀì,LL,no,i1βi1,i1 β i1
+1034,90,prog12,five,ù̧ʔù̧,LL,no,ũ1ʔũ1,ũ1 ʔ ũ1
+1035,91,prog12,fingernail,čí̧ì̧,MT,no,t͡ʃĩ5ĩ1,t͡ʃ ĩ5 ĩ1
+1036,92,prog12,rat,tì̧í̧,MT,no,tĩ1ĩ5,t ĩ1 ĩ5
+1037,94,prog12,fish,tī-žàká,MT,no,ti3+ʒa1ka5,t i3 + ʒ a1 k a5
+1038,95,prog12,black,tù̧ú̧,MT,no,tũ1ũ5,t ũ1 ũ5
+1039,96,prog12,sibling's husband,kàhá,MT,no,ka1ha5,k a1 h a5
+1040,98,prog12,big (sg),káʔnū,MT,no,ka5ʔnu3,k a5 ʔ n u3
+1041,100,prog12,green,kwíī,MT,no,kʷi5i3,kʷ i5 i3
+1042,102,prog12,red,kwáʔá,MT,no,kʷa5ʔa5,kʷ a5 ʔ a5
+1043,103,prog12,yellow,kwá̧á̧,MT,no,kʷã5ã5,kʷ ã5 ã5
+1044,105,prog12,to sell,hìkó,MT,no,hi1ko5,h i1 k o5
+1045,106,prog12,precious metal,hyù̧ʔú̧,MT,no,hʒũ1ʔũ5,h ʒ ũ1 ʔ ũ5
+1046,107,prog12,new,sàá,MT,no,sa1a5,s a1 a5
+1047,108,prog12,little,lōʔō,MT,no,lo3ʔo3,l o3 ʔ o3
+1048,109,prog12,people,žīƀī,MT,no,ʒi3βi3,ʒ i3 β i3
+1049,110,prog12,tongue,žáà,MT,no,ʒa5a1,ʒ a5 a1
+1050,1,jica11,animal,kìtì,HHʔ,no,ki1ti1,k i1 t i1
+1051,2,jica11,to eat,káčì,HHʔ,no,ka5t͡ʃi1,k a5 t͡ʃ i1
+1052,4,jica11,water,ndùtà,HHʔ,no,ⁿdu1ta1,ⁿd u1 t a1
+1053,5,jica11,hand,ndàʔà,HHʔ,no,ⁿda1ʔa1,ⁿd a1 ʔ a1
+1054,6,jica11,clothes,sàʔmà,HHʔ,no,sa1ʔma1,s a1 ʔ m a1
+1055,7,jica11,tree,yùtù̧,HHʔ,no,ʒu1tũ1,ʒ u1 t ũ1
+1056,9,jica11,straw mat,yùƀì,HHʔ,no,ʒu1βi1,ʒ u1 β i1
+1057,13,jica11,woman,ñà̧ʔà̧,HHʔ,no,ñã1ʔã1,ñ ã1 ʔ ã1
+1058,14,jica11,rope,yòʔò,HHʔ,no,ʒo1ʔo1,ʒ o1 ʔ o1
+1059,15,jica11,road,ìtì,HHʔ,no,i1ti1,i1 t i1
+1060,18,jica11,to come,kíčì,HH,no,ki5t͡ʃi1,k i5 t͡ʃ i1
+1061,19,jica11,to run,kúnú,HH,no,ku5nu5,k u5 n u5
+1062,27,jica11,now,ƀìtì̧,HH,no,βi1tĩ1,β i1 t ĩ1
+1063,28,jica11,house,ƀèʔè,HH,no,βe1ʔe1,β e1 ʔ e1
+1064,29,jica11,yesterday,ìkù,HH,no,i1ku1,i1 k u1
+1065,30,jica11,one,ì̧ì̧,HH,no,ĩ1ĩ1,ĩ1 ĩ1
+1066,31,jica11,paper,tūtū,HL,no,tu3tu3,t u3 t u3
+1067,32,jica11,stool,tāyū,HL,no,ta3ʒu3,t a3 ʒ u3
+1068,33,jica11,lime,kākā,HL,no,ka3ka3,k a3 k a3
+1069,34,jica11,uncle,šītō,HL,no,ʃi3to3,ʃ i3 t o3
+1070,35,jica11,aunt,čīšī,HL,no,t͡ʃi3ʃi3,t͡ʃ i3 ʃ i3
+1071,36,jica11,frog,sāʔƀā,HL,no,sa3ʔβa3,s a3 ʔ β a3
+1072,37,jica11,bird,sāā,HL,no,sa3a3,s a3 a3
+1073,38,jica11,wall,nāmā,HL,no,na3ma3,n a3 m a3
+1074,39,jica11,town,ñū̧ū̧,HL,no,ñũ3ũ3,ñ ũ3 ũ3
+1075,42,jica11,flower,ītā,HL,no,i3ta3,i3 t a3
+1076,45,jica11,dog,īnā,HL,no,i3na3,i3 n a3
+1077,46,jica11,stomach,tíčí,LH,no,ti5t͡ʃi5,t i5 t͡ʃ i5
+1078,48,jica11,word,tú̧ʔú̧,LH,no,tũ5ʔũ5,t ũ5 ʔ ũ5
+1079,49,jica11,clay pot,kísí,LH,no,ki5si5,k i5 s i5
+1080,50,jica11,metal,káā,LH,no,ka5a3,k a5 a3
+1081,53,jica11,adobe,ndóʔō,LH,no,ⁿdo5ʔo3,ⁿd o5 ʔ o3
+1082,54,jica11,child,séʔé,LH,no,se5ʔe5,s e5 ʔ e5
+1083,55,jica11,sibling's wife,čánū,LH,no,t͡ʃa5nu3,t͡ʃ a5 n u3
+1084,56,jica11,ear,sóʔó,LH,no,so5ʔo5,s o5 ʔ o5
+1085,58,jica11,river,yútá,LH,no,ʒu5ta5,ʒ u5 t a5
+1086,60,jica11,good,ƀáʔá,LH,no,βa5ʔa5,β a5 ʔ a5
+1087,62,jica11,four,kúmí,LLʔ,no,ku5mi5,k u5 m i5
+1088,64,jica11,cotton,kátí,LLʔ,no,ka5ti5,k a5 t i5
+1089,65,jica11,snake,kóó,LLʔ,no,ko5o5,k o5 o5
+1090,67,jica11,cane,ndóó,LLʔ,no,ⁿdo5o5,ⁿd o5 o5
+1091,68,jica11,tortilla,šítá,LLʔ,no,ʃi5ta5,ʃ i5 t a5
+1092,69,jica11,head,šíní,LLʔ,no,ʃi5ni5,ʃ i5 n i5
+1093,72,jica11,face,nú̧ú̧,LLʔ,no,nũ5ũ5,n ũ5 ũ5
+1094,73,jica11,corn,núní,LLʔ,no,nu5ni5,n u5 n i5
+1095,74,jica11,stone,yúú,LLʔ,no,ʒu5u5,ʒ u5 u5
+1096,75,jica11,moon,yóó,LLʔ,no,ʒo5o5,ʒ o5 o5
+1097,79,jica11,to cut,kàʔndà,LL,no,ka1ʔⁿda1,k a1 ʔ ⁿd a1
+1098,80,jica11,to speak,kà̧ʔā̧,LL,no,kã1ʔã3,k ã1 ʔ ã3
+1099,86,jica11,thread,yūʔƀā,LL,no,ʒu3ʔβa3,ʒ u3 ʔ β a3
+1100,88,jica11,nine,í̧í̧,LL,no,ĩ5ĩ5,ĩ5 ĩ5
+1101,89,jica11,two,úƀí,LL,no,u5βi5,u5 β i5
+1102,90,jica11,five,ú̧ʔú̧,LL,no,ũ5ʔũ5,ũ5 ʔ ũ5
+1103,91,jica11,fingernail,tìñì,MT,no,ti1ñi1,t i1 ñ i1
+1104,92,jica11,rat,tɨ̄ñɨ́,MT,no,tɨ3ñɨ5,t ɨ3 ñ ɨ5
+1105,95,jica11,black,tù̧ù̧,MT,no,tũ1ũ1,t ũ1 ũ1
+1106,100,jica11,green,kwìì,MT,no,kʷi1i1,kʷ i1 i1
+1107,101,jica11,small (in pieces),kwàtì,MT,no,kʷa1ti1,kʷ a1 t i1
+1108,103,jica11,it is yellow,kwà̧ā̧-čí,MT,no,kʷã1ã3+t͡ʃi5,kʷ ã1 ã3 + t͡ʃ i5
+1109,105,jica11,to sell,šíkò,MT,no,ʃi5ko1,ʃ i5 k o1
+1110,106,jica11,precious metal,šú̧ʔú̧,MT,no,ʃũ5ʔũ5,ʃ ũ5 ʔ ũ5
+1111,107,jica11,new,čàà,MT,no,t͡ʃa1a1,t͡ʃ a1 a1
+1112,108,jica11,little,lùʔù,MT,no,lu1ʔu1,l u1 ʔ u1
+1113,109,jica11,people,ñíƀí,MT,no,ñi5βi5,ñ i5 β i5
+1114,1,chay11,animal,kɨ̄tɨ̄,HHʔ,no,kɨ3tɨ3,k ɨ3 t ɨ3
+1115,3,chay11,beans,ndūtyī,HHʔ,no,ⁿdu3tʲi3,ⁿd u3 tʲ i3
+1116,8,chay11,mountain,yūkū,HHʔ,no,ʒu3ku3,ʒ u3 k u3
+1117,9,chay11,straw mat,yūū,HHʔ,no,ʒu3u3,ʒ u3 u3
+1118,10,chay11,mouth,yūʔū,HHʔ,no,ʒu3ʔu3,ʒ u3 ʔ u3
+1119,14,chay11,rope,yōʔō,HHʔ,no,ʒo3ʔo3,ʒ o3 ʔ o3
+1120,15,chay11,road,ītyī,HHʔ,no,i3tʲi3,i3 tʲ i3
+1121,27,chay11,now,ƀītyī,HH,no,βi3tʲi3,β i3 tʲ i3
+1122,28,chay11,house,ƀēʔē,HH,no,βe3ʔe3,β e3 ʔ e3
+1123,30,chay11,one,ī̧ī̧,HH,no,ĩ3ĩ3,ĩ3 ĩ3
+1124,31,chay11,paper,tūtù,HL,no,tu3tu1,t u3 t u1
+1125,32,chay11,stool,tēì,HL,no,te3i1,t e3 i1
+1126,38,chay11,wall,nāmà,HL,no,na3ma1,n a3 m a1
+1127,39,chay11,town,ñūù,HL,no,ñu3u1,ñ u3 u1
+1128,41,chay11,hole,yāƀì,HL,no,ʒa3βi1,ʒ a3 β i1
+1129,42,chay11,flower,ītà,HL,no,i3ta1,i3 t a1
+1130,48,chay11,word,tù̧ʔū̧,LH,no,tũ1ʔũ3,t ũ1 ʔ ũ3
+1131,52,chay11,cross-sex sibling,kùʔƀā,LH,no,ku1ʔβa3,k u1 ʔ β a3
+1132,53,chay11,adobe,ndòʔō,LH,no,ⁿdo1ʔo3,ⁿd o1 ʔ o3
+1133,54,chay11,child,θèʔē,LH,no,θe1ʔe3,θ e1 ʔ e3
+1134,60,chay11,good,ƀàʔā,LH,no,βa1ʔa3,β a1 ʔ a3
+1135,61,chay11,medicine,tàtà,LLʔ,no,ta1ta1,t a1 t a1
+1136,62,chay11,four,kùmì,LLʔ,no,ku1mi1,k u1 m i1
+1137,63,chay11,day,kɨ̀ƀɨ̀,LLʔ,no,kɨ1βɨ1,k ɨ1 β ɨ1
+1138,65,chay11,snake,kòò,LLʔ,no,ko1o1,k o1 o1
+1139,68,chay11,tortilla,šìtà,LLʔ,no,ʃi1ta1,ʃ i1 t a1
+1140,69,chay11,head,šìnì,LLʔ,no,ʃi1ni1,ʃ i1 n i1
+1141,70,chay11,comal,sìyò,LLʔ,no,si1ʒo1,s i1 ʒ o1
+1142,71,chay11,soap,nàmà,LLʔ,no,na1ma1,n a1 m a1
+1143,72,chay11,face,nùù,LLʔ,no,nu1u1,n u1 u1
+1144,74,chay11,stone,yùù,LLʔ,no,ʒu1u1,ʒ u1 u1
+1145,75,chay11,moon,yòò,LLʔ,no,ʒo1o1,ʒ o1 o1
+1146,81,chay11,year,kwìyà,LL,no,kʷi1ʒa1,kʷ i1 ʒ a1
+1147,84,chay11,foot,šàʔà,LL,no,ʃa1ʔa1,ʃ a1 ʔ a1
+1148,85,chay11,"herb, bush",yùkù,LL,no,ʒu1ku1,ʒ u1 k u1
+1149,97,chay11,long,káñí,MT,no,ka5ñi5,k a5 ñ i5
+1150,98,chay11,big (sg),kàʔnū,MT,no,ka1ʔnu3,k a1 ʔ n u3
+1151,104,chay11,poor,ndāʔƀí,MT,no,ⁿda3ʔβi5,ⁿd a3 ʔ β i5
+1152,107,chay11,new,sāá,MT,no,sa3a5,s a3 a5
+1153,108,chay11,little,lúʔlū,MT,no,lu5ʔlu3,l u5 ʔ l u3
+1154,109,chay11,people,ñì-yɨ̄ƀɨ̄,MT,no,ñi1+ʒɨ3βɨ3,ñ i1 + ʒ ɨ3 β ɨ3
