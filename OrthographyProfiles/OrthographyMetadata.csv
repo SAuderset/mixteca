@@ -1,12 +1,26 @@
-"Sourcefile","Pages","Varieties","Notes",,
-"auderset-hernandez2020"," NA"," dura11"," ",,
-"daly1977","20-26"," peno11",,,
-"durr1987",,,,,
-"farris1992",8,"yoso11",,,"  "
-"johnson1988",18,"jami11","basic tones marked",,
-"josserand1983","472-474",,,,
-"macaulay1996","17-32","chal11",,,"  "
-"north-shields1976","5-9","sila11",,,"  "
-"shields1988",312,"sila11",,,"  "
-"zylstra1991",8,"alac11",,,"  "
-
+File,Citekey,Pages,Varieties,Notes,,
+alexander1980_alac11,alexander1980gramatica,3-8,alac11,,,
+auderset-hernandez2020_dura11,auderset-hernandez2020, NA,dura11,no write-up yet,,
+bradley1970_jami11,bradley1970a-linguistic,4-17,jica11,,,
+daly1977_peno11,daly1977mixteco,20-26,peno11,,,
+dyk-stoudt1965_gran11,dyk1965vocabulario,117-121,gran11,,,
+farris1992_yoso11,farris1992syntactic,8,yoso11,,,  
+good1978_chic12,good1978diccionario,7,chic12,complemented with elliott2016chicahuaxtla,,
+johnson1988_jami11,johnson1988syntactic,18,jami11,basic tones marked,,
+josserand1983,josserand1983,472-474,,,,  
+macaulay1996_chal11,macaulay1996grammar,17-32,chal11,,,  
+mak1953_gran11-atat11,mak1953comparison,85-86,gran11~atat11,,,
+mak1958_ocot11,mak1958tonal,62,ocot11,,,
+north-shields1976_prog12,north1976gramatica,5-9,prog12,,,  
+overholt1961_metl11,overholt1961tonemic,,metl11,,,
+pankratz-pike1967_ayut11,pankratz1967phonology,,ayut11,,,
+pensinger1974_jami11,pensinger1974diccionario,,jami11,,,
+pike-cowan1967_huaj11,pike1967huajuapan,,huaj11,,,
+pike-ibach1978_mixt11,pike1978phonology,,mixt11,,,
+pike-oram1976_diux11,pike1976stress,,diux11,,,
+pike-small1974_coat11,pike1974downstepping,,coat11,,,
+schultze-jena1938_cahu11,schultze-jena1938azteken,,cahu11,,,
+shields1988_prog12,shields1988syntactic,312,prog12,,,  
+zylstra1980_alac11,zylstra1980phonology,,alac11,,,
+zylstra1991_alac11,zylstra1991syntactic,8,alac11,,,
+johnson1986_colo11,,"viii, 145-149",colo11,,,
