@@ -1,7 +1,7 @@
 
 library(tidyverse)
 
-gt <- read_lines(file = "/Users/auderset/Desktop/good1979_preproc.txt")
+gt <- read_lines(file = "/Users/auderset/Documents/GitHub/mixteca/Dictionaries/Good1978/good1978_preproc.txt")
 head(gt)
 class(gt)
 
@@ -20,21 +20,22 @@ head(gtdf1)
 gtdf2 <- gtdf1 %>% filter_all(any_vars(str_detect(., "^[yv][^aeo]$")))
 unique(gtdf2$X2)
 
-# split into parts depending on where the verb class is noted
-v1 <- gtdf2 %>% filter(str_detect(X2, "^[yv][^aeo]$")) %>% 
-  unite("Description", X3:X66, sep = " ", na.rm = TRUE) %>% 
-  rename(Verb = X1, VerbClass = X2)
-v2 <- gtdf2 %>% filter(str_detect(X3, "^[yv][^aeo]$")) %>% 
-  unite("Description", X4:X66, sep = " ", na.rm = TRUE) %>% 
-  unite("Verb", X1:X2) %>% 
-  rename(VerbClass = X3)
+verbsplitting <- function(x) {
+  dfout <- gtdf2 %>% filter(str_detect(.[[x]], "^[yv][^aeo]$")) %>% 
+    unite("Description", (x+1):66, sep = " ", na.rm = TRUE) %>% 
+    unite("Verb", 1:(x-1)) 
+}
 
-# merge together
-gdverbs <- bind_rows(v1, v2)
-gdverbs <- arrange(gdverbs, Verb)
+# apply to df
+v <- map_df(1:(ncol(gtdf2)-1), verbsplitting)
+glimpse(v)
+# collate collumns with verb class in them
+vf <- v %>%  unite("VerbClass", X2:X65, sep = "", na.rm = TRUE) %>%
+  select(Verb, VerbClass, Description)
+glimpse(vf)
 
 # export to csv
-write_csv(gdverbs, "/Users/auderset/Desktop/good1979_verbs.csv")
+write_csv(vf, "/Users/auderset/Documents/GitHub/mixteca/Dictionaries/Good1978/good1979_verbs.csv")
 
 
 
