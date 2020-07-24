@@ -1,0 +1,212 @@
+IDlist,CONCEPT,FORM,ID,NOTES,DOCULECT
+1,mother,náná,614,,prog12
+2,"mother!, mom!",naá,615,,prog12
+3,father,tátá,616,,prog12
+4,"father!, dad!",taá,617,,prog12
+5,"son/daughter, child",xahyī,618,,prog12
+6,son,xahyī taā,619,,prog12
+7,daughter,$,,,prog12
+8,cross-sex sibling,kyahvā,620,,prog12
+9,brother of man,ñānī,621,,prog12
+10,sister of woman,kihvi,622,,prog12
+11,aunt,xixi,623,,prog12
+12,uncle,xito,624,,prog12
+11,man,taā,625,,prog12
+12,woman,ñáha,626,,prog12
+13,"owner, boss",$,,,prog12
+14,priest,xutu,627,,prog12
+15,blood,$,,,prog12
+16,bone,yīkí,628,,prog12
+17,hair,íxi,629,,prog12
+18,face,nuu,630,,prog12
+19,tongue,$,,,prog12
+20,tooth,$,,,prog12
+21,mouth,yúhu,631,,prog12
+22,ear,xohō,632,,prog12
+23,nose,$,,,prog12
+24,neck,xíkó,633,,prog12
+25,hand,ndāha,634,,prog12
+26,fingernail,chíin,635,,prog12
+27,back,xata,636,,prog12
+28,stomach,tishī,637,,prog12
+29,"intestine, guts",$,,,prog12
+30,foot,saha,638,,prog12
+31,"disease, illness, sickness",kwehe,639,,prog12
+32,medicine,tata,640,,prog12
+33,swelling,$,,,prog12
+34,pimple,$,,,prog12
+35,pus,$,,,prog12
+36,urine,$,,,prog12
+37,cloth,xáhma,641,,prog12
+38,"sandal, sandals",ndusa,642,,prog12
+39,pants,sātī,643,,prog12
+40,"blouse, woven blouse",$,,,prog12
+41,"village, town",ñūū,644,,prog12
+42,house,vēhē,645,,prog12
+43,"road, trail",íchi,646,,prog12
+44,post,$,,,prog12
+45,"mat, sleeping mat, straw mat",$,,,prog12
+46,bed,$,,,prog12
+47,"stool, chair",$,,,prog12
+48,animal,kíti,647,,prog12
+49,bird,lāā,648,,prog12
+50,fish,ti-yāká,649,,prog12
+51,snake,koō,650,,prog12
+52,frog,$,,,prog12
+53,hawk,$,,,prog12
+54,scorpion,$,,,prog12
+55,cockroach,$,,,prog12
+56,grasshopper,tikā,651,,prog12
+57,bee,$,,,prog12
+58,mouse,tiín,652,,prog12
+59,deer,uxu,653,,prog12
+60,squirrel,ndíkwání,654,,prog12
+61,skunk,ti-n̄ihí,655,,prog12
+62,(o)possum,$,,,prog12
+63,raccoon,$,,,prog12
+64,rabbit,kāñāxún,656,Sp. conejo,prog12
+65,vulture,$,,,prog12
+66,dog,tinā,657,,prog12
+67,cat,chító,658,,prog12
+68,rooster,$,,,prog12
+69,hen,$,,,prog12
+70,pig,kóchí,659,,prog12
+71,horse,kwáyi,660,,prog12
+72,sheep,lānchī,661,,prog12
+72,sheep,ndī-kāchī,662,,prog12
+73,ant,$,,,prog12
+74,horn (anatomy),ndiki,663,,prog12
+75,feather,$,,,prog12
+76,wing,$,,,prog12
+77,tail,ndóho,664,,prog12
+78,tree,yíto,665,,prog12
+79,herb,$,,,prog12
+80,grass,ītā,666,,prog12
+81,flower,ītā,667,,prog12
+82,"maguey, century plant",$,,,prog12
+83,root,$,,,prog12
+84,thorn,$,,,prog12
+85,grain of corn,nuni,668,,prog12
+86,cornfield,ūtū,669,,prog12
+87,fresh ear of corn,$,,,prog12
+88,nixtamal,$,,,prog12
+89,tortilla dough,yúsa,670,,prog12
+90,tortilla,xita,671,,prog12
+91,"cleared field, cornstalk",$,,,prog12
+92,"furrow, planting row",$,,,prog12
+93,"tassel, maize spike",$,,,prog12
+94,bean,ndúchu,672,,prog12
+95,green bean,$,,,prog12
+96,chili pepper,yáha,673,,prog12
+97,salt,ñii,674,,prog12
+98,squash,$,,,prog12
+99,chayote squash,$,,,prog12
+100,sugar cane,$,,,prog12
+101,honey,$,,,prog12
+102,lard,xahan,675,,prog12
+103,egg,ndivi,676,,prog12
+104,tomato,ti-nānā,677,,prog12
+105,edible tuber,$,,,prog12
+106,avocado,tichí,678,,prog12
+107,banana,ndíka,679,,prog12
+108,prickly pear cactus,$,,,prog12
+109,mamey,$,,,prog12
+110,custard apple,$,,,prog12
+111,mushroom,$,,,prog12
+112,meat,$,,,prog12
+113,griddle,$,,,prog12
+114,cooking pot,kixī,680,,prog12
+115,oven,$,,,prog12
+116,fire,$,,,prog12
+117,ash,$,,,prog12
+118,charcoal,$,,,prog12
+119,smoke,nihma,681,,prog12
+119,smoke,ñihma,682,,prog12
+120,"garbage, trash",shehe,683,,prog12
+121,plate,$,,,prog12
+122,"gourd, gourd bowl",$,,,prog12
+123,basket,$,,,prog12
+124,box,sato,684,,prog12
+125,thread,$,,,prog12
+126,comb,$,,,prog12
+127,rope,yóho,685,,prog12
+128,hole,yáve,686,,prog12
+129,net,$,,,prog12
+130,soap,$,,,prog12
+131,ring,$,,,prog12
+132,moon,yoo,687,,prog12
+133,cloud,$,,,prog12
+134,lightning,$,,,prog12
+135,water,tikwií,688,,prog12
+136,rain god,xavi,689,,prog12
+137,river,yutā,690,,prog12
+138,dew,$,,,prog12
+139,mountain,yúku,691,,prog12
+140,"plain, flatland, lowland",$,,,prog12
+141,stone,yuu,692,,prog12
+142,cotton,kāchī,693,,prog12
+143,metal,kaā,694,,prog12
+144,paper,tūtū,695,,prog12
+145,lime (material),$,,,prog12
+146,wax,ñima,696,,prog12
+147,mud,ndahyi,697,,prog12
+148,foam,$,,,prog12
+149,dust,$,,,prog12
+150,red,kwáhá,698,only as part of a verb ndī-kwáhá ‘become red’,prog12
+151,green,kwíi,699,,prog12
+152,yellow,kwáán,700,,prog12
+153,black,$,,,prog12
+154,white,yāā,701,,prog12
+155,one,īn,702,,prog12
+156,two,ivi,703,,prog12
+157,three,uni,704,,prog12
+158,four,komi,705,,prog12
+159,five,uhun,706,,prog12
+160,six,iñu,707,,prog12
+161,seven,usa,708,,prog12
+162,eight,una,709,,prog12
+163,nine,in,710,,prog12
+164,ten,ushu,711,,prog12
+165,fifteen,sahun,712,,prog12
+166,twenty,oko,713,,prog12
+167,poor,ndahví,714,,prog12
+168,rich,kwiká,715,,prog12
+169,cold,$,,,prog12
+170,hot,xáā,716,,prog12
+171,big.SG,káhnū,717,,prog12
+172,big.PL,náhnū,718,,prog12
+173,small.SG,lōhō,719,,prog12
+174,small.PL,válí,720,,prog12
+175,long.SG,kānī,721,,prog12
+176,long.PL,nānī,722,,prog12
+177,good,vahā,723,,prog12
+178,sweet,vixi,724,only as part of tó-vixi ‘soda pop’,prog12
+179,salty,$,,,prog12
+180,bitter,$,,,prog12
+181,"tasty, delicious",axyā,725,,prog12
+182,wide,$,,,prog12
+183,new,$,,,prog12
+184,lazy,xúsá,726,,prog12
+185,ugly,kīnī,727,,prog12
+186,jealous,$,,,prog12
+187,near,yātī,728,,prog12
+188,far,shíká,729,,prog12
+189,heavy,$,,,prog12
+190,raw,$,,,prog12
+191,smooth,vīí,730,,prog12
+192,slow,$,,,prog12
+193,yesterday,kūnī,731,,prog12
+194,year,kwyaa,732,,prog12
+195,"now, today",vītī,733,,prog12
+196,night,ñūú,734,,prog12
+197,night time,ñūú,735,,prog12
+198,day,ndīví,736,,prog12
+199,day time,ndūú,737,,prog12
+200,"half, middle",xāvā,738,,prog12
+201,money,xyuhún,739,,prog12
+202,work,chūūn,740,,prog12
+203,word,tuhūn,741,,prog12
+204,"fault, blame, sin",$,,,prog12
+205,dream,$,,,prog12
+206,when,ndáhmā,742,,prog12
+207,"song, music",$,,,prog12

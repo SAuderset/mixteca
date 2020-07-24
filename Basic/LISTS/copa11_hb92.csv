@@ -1,0 +1,219 @@
+IDlist,CONCEPT,FORM,ID,NOTES,DOCULECT
+1,mother,nii3,1489,,copa11
+2,"mother!, mom!",'na3nii3,1490,,copa11
+3,father,rex3,1491,,copa11
+4,"father!, dad!",'a3tax1,1492,Sp. tata,copa11
+5,"son/daughter, child",tahnii5,1493,,copa11
+6,son,$,,,copa11
+7,daughter,$,,,copa11
+8,cross-sex sibling,rahwix32,1494,only translated as ‘brother of female’,copa11
+9,brother of man,tinuu5,1495,,copa11
+10,sister of woman,shuhwix32,1496,,copa11
+11,aunt,tuhwe3,1497,,copa11
+12,uncle,tahnuh3,1498,,copa11
+13,man,chii3,1499,,copa11
+14,woman,sha3na1,1500,,copa11
+15,"owner, boss",$,,there are multiple terms depending on what is owned,copa11
+16,priest,shrex3,1501,,copa11
+17,blood,ton32,1502,,copa11
+18,bone,kuu5,1503,,copa11
+19,hair,$,,,copa11
+20,face,riaan32,1504,,copa11
+21,tongue,yaa32,1505,,copa11
+22,tooth,$,,,copa11
+23,mouth,tuhwa3,1506,,copa11
+24,ear,shree5,1507,,copa11
+25,nose,takuun5,1508,,copa11
+26,neck,shia4,1509,,copa11
+27,hand,raha3,1510,,copa11
+28,fingernail,$,,,copa11
+29,back,shraa5,1511,,copa11
+30,stomach,rke3,1512,,copa11
+31,"intestine, guts",$,,,copa11
+32,foot,takoo5,1513,,copa11
+32,feet,shehe4,1514,,copa11
+33,sickness,shihii31,1515,,copa11
+34,remedy,konoho4,1516,,copa11
+35,swelling,$,,,copa11
+36,pimple,$,,,copa11
+37,pus,$,,,copa11
+38,urine,$,,,copa11
+39,clothing,sa3ganh1,1517,,copa11
+39,"clothing, garment",yatsex5,1518,,copa11
+39,"clothing, garment",yatsix5,1519,,copa11
+40,"sandal, sandals",kanx3,1520,,copa11
+41,pants,$,,,copa11
+42,tunic,rohno4,1521,,copa11
+43,town,shumanh3,1522,,copa11
+44,house,weh3,1523,,copa11
+45,trail,chrex32,1524,,copa11
+46,post,$,,,copa11
+47,"mat, sleeping mat, straw mat",$,,,copa11
+48,bed,$,,,copa11
+49,"stool, chair",$,,,copa11
+50,animal,shkuu3,1525,,copa11
+51,bird,shtax32,1526,"probably a compound with wax32 ‘move’, see fish",copa11
+52,fish,shkw-ax32,1527,"animal-move, with wax32 ‘move’",copa11
+53,snake,shkw-aa5,1528,"animal-root, with yaa5 ‘root’",copa11
+54,frog,ri3kix13,1529,,copa11
+55,nighthawk,kuwix5,1530,,copa11
+56,scorpion,$,,,copa11
+57,cockroach,$,,,copa11
+58,grasshopper,$,,,copa11
+59,bumblebee,shongo4,1531,,copa11
+60,"mouse, rat",sh-tuu32,1532,"animal-stealing, with ituu32 ‘stealing’",copa11
+61,deer,shtax3,1533,,copa11
+62,squirrel,$,,,copa11
+63,skunk,$,,,copa11
+64,(o)possum,neko4,1534,,copa11
+65,raccoon,kahux3,1535,,copa11
+66,rabbit,tuku3ya32,1536,,copa11
+67,vulture,$,,,copa11
+68,dog,shu-wee3,1537,animal-?,copa11
+69,cat,$,,,copa11
+70,rooster,tohloo3,1538,,copa11
+71,"hen, chicken",shuchee32,1539,,copa11
+72,pig,$,,,copa11
+73,horse,kwa3yo4,1540,Sp. caballo,copa11
+74,sheep,matsinx32,1541,,copa11
+75,ant,shkw-aa3,1542,animal-?,copa11
+76,horn (anatomy),$,,,copa11
+77,feather,$,,,copa11
+78,wing,$,,,copa11
+79,tail,tuneh4,1543,"not sure about basic tone, also appears as tuneh3",copa11
+80,"tree, wood, pole",chruun3,1544,,copa11
+81,herb,$,,,copa11
+82,grass,$,,,copa11
+83,flower,yax32,1545,,copa11
+84,"maguey, century plant",$,,,copa11
+85,root,yaa5,1546,,copa11
+86,thorn,tanx32,1547,,copa11
+87,corn,hnuu5,1548,,copa11
+88,cornfield,naa31,1549,,copa11
+89,ear of corn,tanh3,1550,,copa11
+90,nixtamal,$,,,copa11
+91,"cornmeal, corn dough",$,,,copa11
+92,tortilla,chraa3,1551,,copa11
+93,"cleared field, cornstalk",$,,,copa11
+94,"furrow, planting row",$,,,copa11
+95,"tassel, maize spike",$,,,copa11
+96,bean,rnee32,1552,,copa11
+97,green bean,$,,,copa11
+98,chili pepper,yahax3,1553,,copa11
+99,salt,yaan32,1554,,copa11
+100,squash,$,,,copa11
+101,chayote squash,$,,,copa11
+102,sugar cane,$,,,copa11
+103,honey,katsih3,1555,,copa11
+104,"fat, lard, grease",$,,,copa11
+105,"egg, fruit",chrux3,1556,,copa11
+106,tomato,$,,,copa11
+107,tuber,yume32,1557,,copa11
+108,avocado,$,,,copa11
+109,banana,nato32,1558,,copa11
+110,prickly pear cactus,$,,,copa11
+111,mamey,$,,,copa11
+112,custard apple,rkoo32,1559,,copa11
+113,mushroom,$,,,copa11
+114,"meat, flesh",nee31,1560,,copa11
+115,griddle,$,,,copa11
+116,(clay) pot,shrux3,1561,,copa11
+117,"oven, box",chruun5,1562,,copa11
+118,fire,yahan32,1563,,copa11
+119,ash,yax3,1564,,copa11
+120,charcoal,ruhwih3,1565,,copa11
+121,smoke,katseh3,1566,,copa11
+122,"garbage, trash",$,,,copa11
+123,plate,$,,,copa11
+124,gourd,yachruh3,1567,,copa11
+125,palm basket,yoo4,1568,,copa11
+126,"box, oven",chruun5,1569,"same as oven, see 117",copa11
+127,thread,yuhwex32,1570,,copa11
+128,comb,$,,,copa11
+129,rope,neh3,1571,,copa11
+130,hole,$,,,copa11
+131,net bag,nanx3,1572,,copa11
+132,soap,yumih3,1573,,copa11
+133,ring,$,,,copa11
+134,moon,yawii3,1574,,copa11
+135,cloud,$,,,copa11
+136,lightning,$,,,copa11
+137,water,na32,1575,,copa11
+138,rain (precipitation),maan31,1576,,copa11
+139,river,chraa5,1577,,copa11
+140,dew,$,,,copa11
+141,mountain,kix32,1578,,copa11
+142,plain,taa3,1579,,copa11
+143,"rock, cliff",yuwex32,1580,,copa11
+144,cotton,kachix32,1581,,copa11
+145,metal,agah3,1582,,copa11
+146,paper,yanx3,1583,,copa11
+147,lime (material),$,,,copa11
+148,wax,yanx5,1584,,copa11
+149,mud,sigih3,1585,,copa11
+150,foam,$,,,copa11
+151,dust,$,,,copa11
+152,red,maree13,1586,,copa11
+153,green,maree31,1587,,copa11
+154,yellow,mii5,1588,,copa11
+155,black,maruu31,1589,,copa11
+156,white,katsii1,1590,,copa11
+157,one,yoho2,1591,,copa11
+157,one,ho2,1592,,copa11
+158,two,wix1,1593,,copa11
+159,three,wahnux1,1594,,copa11
+160,four,kahanx13,1595,,copa11
+161,five,uhunh1,1596,,copa11
+161,five,hunh1,1597,,copa11
+162,six,watanh1,1598,,copa11
+163,seven,ichix2,1599,,copa11
+163,seven,chix2,1600,,copa11
+164,eight,itunx2,1601,,copa11
+164,eight,tunx2,1602,,copa11
+165,nine,uun2,1603,,copa11
+166,ten,ichih2,1604,,copa11
+166,ten,chih2,1605,,copa11
+167,fifteen,shnuh2,1606,,copa11
+168,twenty,iko2,1607,,copa11
+168,twenty,ko2,1608,,copa11
+169,poor,nike13,1609,,copa11
+170,rich person,ruhwee32,1610,I think this a tone-derived form of the stative verb,copa11
+171,cold,$,,,copa11
+172,hot,yahaan13,1611,,copa11
+173,big,shix1,1612,not marked for number,copa11
+173,big,kahaan1,1613,don’t know what the difference is to the other one,copa11
+175,small.SG,nii3,1614,not marked for number,copa11
+176,small.PL,$,,,copa11
+177,long.SG,$,,,copa11
+178,long.PL,$,,,copa11
+179,good,zah1,1615,,copa11
+180,sweet,tsih1,1616,,copa11
+181,salty,$,,,copa11
+182,bitter,eh1,1617,,copa11
+183,"tasty, pleasing",shianh1,1618,,copa11
+184,wide,kashrah1,1619,,copa11
+185,new,naka1,1620,,copa11
+186,lazy person,rmii31,1621,could also be a tone-derived form from the stative verb,copa11
+187,"ugly, bad",nix32,1622,,copa11
+188,jealous,$,,,copa11
+189,near,nichrunh1,1623,,copa11
+190,far,ganh1,1624,,copa11
+191,heavy,hee1,1625,,copa11
+192,raw,$,,,copa11
+193,smooth,nuhwe13,1626,,copa11
+194,slow,$,,,copa11
+195,yesterday,kii3,1627,,copa11
+196,year,yoh3,1628,,copa11
+197,"now, today",yax13,1629,,copa11
+198,night,nii31,1630,,copa11
+199,night time,$,,,copa11
+200,day,gwii3,1631,,copa11
+201,day time,$,,,copa11
+202,"half, side, part",yanex1,1632,,copa11
+203,money,sahanx32,1633,,copa11
+204,work,zuun32,1634,,copa11
+205,word,na3na1,1635,,copa11
+206,blame,kakunh3,1636,,copa11
+207,dream,$,,,copa11
+208,when,$,,,copa11
+209,"song, music",$,,,copa11

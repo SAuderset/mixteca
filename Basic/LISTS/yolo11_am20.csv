@@ -1,0 +1,213 @@
+IDlist,CONCEPT,FORM,ID,NOTES,DOCULECT
+1,madre,si'3i4,173,,yolo11
+2,mamá!,$,,,yolo11
+3,padre,yu3ba4,174,,yolo11
+4,papá!,$,,,yolo11
+5,hijo/hija,se'1e3,175,,yolo11
+6,hijo,$,,,yolo11
+7,hija,$,,,yolo11
+8,hermana/hermano de otro genero,ku'1ba3,176,check with Jonathan about exact meaning,yolo11
+9,hermano de hombre,ya3ni2,177,check with Jonathan about exact meaning,yolo11
+10,hermana de mujer,ku'1bi1,178,check with Jonathan about exact meaning,yolo11
+11,tía,xi3xi2,179,,yolo11
+12,tío,xi3to2,180,,yolo11
+11,hombre,ta1a3,181,,yolo11
+12,mujer,ña'3a4,182,,yolo11
+13,dueño,is1to'3o2,183,,yolo11
+14,sacerdote,su1tu1,184,,yolo11
+15,sangre,ni1i4,185,,yolo11
+16,hueso,i3ki4,186,,yolo11
+17,cabello,i3xi4,187,,yolo11
+18,cara,nu14u3,188,,yolo11
+19,lengua,ya4a24,189,,yolo11
+20,diente,nu'1u3,190,,yolo11
+21,boca,yu'3u4,191,,yolo11
+22,oreja,so'1o3,192,de un animal,yolo11
+23,nariz,is1tin4,193,,yolo11
+24,cuello,su1kun4,194,,yolo11
+25,mano,nda'3a4,195,,yolo11
+26,uña,chi4in24,196,,yolo11
+27,espalda,sa1ta4,197,,yolo11
+28,barriga,ti1xin3,198,,yolo11
+29,"tripa, tripas",si3ti2,199,,yolo11
+30,pie,xa'1a4,200,,yolo11
+31,enfermedad,kwe'1e1,201,,yolo11
+32,medicina,ta1tan4,202,,yolo11
+33,hinchazón,kwi3ñu3,203,,yolo11
+34,grano pequeño,ndi'1i3,204,also: granos de la piel,yolo11
+34,grano relativamente grande,ndu1xa1,205,also: grano de la piel,yolo11
+35,"pus, materia",nda3kwa4,206,,yolo11
+36,orina,$,,,yolo11
+37,servilleta,sa'3ma4,207,,yolo11
+38,huarache,ndi1xan4,208,,yolo11
+39,pantalón,$,,,yolo11
+40,huipil,xi1kun1,209,,yolo11
+41,pueblo,ñu3u2,210,,yolo11
+42,casa,be'3e3,211,,yolo11
+43,camino,i3chi4,212,,yolo11
+44,horcón,tu4-si'1in1,213,wood-horqueta,yolo11
+45,petate,yu3bi4,214,,yolo11
+46,cama,is1to3,215,,yolo11
+47,silla,ta3yu2,216,,yolo11
+48,animal,ki3ti4,217,,yolo11
+49,pájaro,sa3a2,218,,yolo11
+50,pez,tia1ka4,219,,yolo11
+51,serpiente,ko1o4,220,,yolo11
+52,rana,sa'3ba2,221,,yolo11
+53,gavilán,ta1su'4u4,222,,yolo11
+54,alacrán,ti1su'3ma2,223,,yolo11
+55,cucaracha,ti1te'1e4,224,,yolo11
+56,chapulín,ti1ka32,225,,yolo11
+57,abeja,ñu1ñu4,226,"término general para abejas que no pican, esto es, de la tribu Meliponini",yolo11
+58,"ratón, rata",ti14in3,227,,yolo11
+59,venado,i3su2,228,,yolo11
+60,ardilla,ndi3kwa4ñu3,229,,yolo11
+61,zorrillo,ti'1in4,230,,yolo11
+62,tlacuache,xa1ko32,231,,yolo11
+63,mapache,ti1ma'4a2,232,,yolo11
+64,conejo,ku3ni4jo2,233,from Sp. conejo,yolo11
+65,zopilote,pi3lo4,234,from Nahuatl tsopi:lo:tl,yolo11
+66,perro,i3na2,235,,yolo11
+67,gato,mis4tun2,236,domestico,yolo11
+68,gallo,ndu3xi4 che4e13,237,gallina macho,yolo11
+69,gallina,ndu3xi4,238,,yolo11
+70,marrano,ki3ni2,239,,yolo11
+71,caballo,kwa4yu2,240,,yolo11
+72,borrego,ndi3ka3chi3,241,,yolo11
+73,hormiga,tio1ko4,242,,yolo11
+74,cuerno,ndi3ki4,243,,yolo11
+75,pluma,tu1mi32,244,,yolo11
+76,ala,ndi1xin4,245,,yolo11
+77,cola,su'1ma4,246,,yolo11
+78,árbol,i3tun4,247,,yolo11
+79,hierba,$,,,yolo11
+80,"sacate, pasto",i3ta2,248,same as 80,yolo11
+81,flor,i3ta2,249,same as 79,yolo11
+82,maguey,$,,,yolo11
+83,raíz,tio'1o3,250,,yolo11
+84,espina,i3ñu4,251,,yolo11
+85,maíz desgranado,nu1ni4,252,,yolo11
+86,milpa,i3tu2,253,,yolo11
+87,elote,ndi3xi4,254,,yolo11
+88,nixtamal,xa'4a2,255,,yolo11
+89,masa,yu3xan4,256,,yolo11
+90,tortilla,is1ta4,257,,yolo11
+91,rastrojo,ya1ma4,258,"guamile, terreno de sembrado después de haberse levantado la cosecha quedando el puro rastrojo",yolo11
+92,surco,yu3kun2,259,,yolo11
+93,espiga,yo3ko4,260,,yolo11
+94,frijol(es),ndu3chi4,261,,yolo11
+95,"ejote, vaina",ndi3chi2,262,,yolo11
+96,chile,ya'3a4,263,,yolo11
+97,sal,i1in4,264,,yolo11
+98,calabaza,i3kin4,265,,yolo11
+99,chayote,$,,,yolo11
+100,caña dulce,ndo1o4,267,,yolo11
+101,miel,ñu1ñu4,268,,yolo11
+102,manteca,xa'3an2,269,,yolo11
+103,huevo,ndi1bi4,270,,yolo11
+104,tomate,ti1na3na4,271,,yolo11
+105,camote,ya'3mi2,272,,yolo11
+106,aguacate,ti14chi3,273,,yolo11
+107,plátano,chi3ta2,274,see also 109,yolo11
+108,nopal,mi'1nda4,275,,yolo11
+109,"mamey, zapote",ndi3ka4,276,in other pueblos: plátano,yolo11
+110,chirimoya,$,,,yolo11
+111,hongo,xi'1i4,277,,yolo11
+112,carne,ku3ñu2,278,,yolo11
+113,comal,xi1yo4,279,,yolo11
+114,olla,ki1si3,280,,yolo11
+115,horno,$,,,yolo11
+116,"lumbre, fuego",ñu'3u2,281,,yolo11
+117,ceniza,ya1a4,282,,yolo11
+118,carbón,tu1un4,283,,yolo11
+119,humo,yu'1ma1,284,,yolo11
+120,basura,mi'14i4,285,,yolo11
+121,plato,ko'1o4,286,,yolo11
+122,jícara redonda,ya3xin4,287,,yolo11
+123,tenate,ndo'1o4,288,canastita en que se sirven las tortillas calientes,yolo11
+124,cajón,xa1tun4,289,,yolo11
+125,hilo,yu'1ba1,290,,yolo11
+126,peine,bi1ka1,291,,yolo11
+127,mecate,yo'3o4,292,,yolo11
+128,hoyo,ya3bi2,293,,yolo11
+129,red,yu3nu4,294,,yolo11
+130,jabón,na1ma4,295,,yolo11
+131,anillo,xe'3e4,296,,yolo11
+132,luna,yo1o4,297,,yolo11
+133,nube,bi1ko4,298,,yolo11
+134,"rayo, relámpago",ñu'3u2 sa1bi4,299,fuego lluvia,yolo11
+135,agua,ta1kwi42,300,,yolo11
+136,lluvia,sa1bi4,301,,yolo11
+137,río,i1ta3,302,,yolo11
+138,rocío,yu4yu4,303,,yolo11
+139,cerro,yu3ku4,304,,yolo11
+140,llanura,i14ni3,305,,yolo11
+140,llano,yo3so4,306,,yolo11
+141,piedra,yu1u4,307,,yolo11
+142,algodón,ka1chi4,308,,yolo11
+143,metal,ka3a2,309,,yolo11
+144,papel,tu3tu2,310,,yolo11
+145,cal,ka3ka2,311,,yolo11
+146,cera,yu1ma4,312,,yolo11
+147,lodo,nda'1yu1,313,,yolo11
+148,espuma,ñu1ñu1,314,"de jabón, de cacao",yolo11
+148,espuma,pe1le1,315,de agua etc.,yolo11
+149,polvo,yu3chi4,316,,yolo11
+150,rojo,kwa'4a1,317,,yolo11
+151,verde,kwi4i24,318,,yolo11
+152,amarillo,kwa4an2,319,,yolo11
+153,negro,nda4a4,320,,yolo11
+154,blanco,ya3a3,321,also: limpio,yolo11
+155,uno,i3in3,322,,yolo11
+156,dos,u1bi1,323,,yolo11
+157,tres,u1ni1,324,,yolo11
+158,cuatro,ku1mi4,325,,yolo11
+159,cinco,u'1un1,326,,yolo11
+160,seis,i1ñu1,327,,yolo11
+161,siete,u1xa1,328,,yolo11
+162,ocho,u1na1,329,,yolo11
+163,nueve,i1in1,330,,yolo11
+164,diez,u1xi1,331,,yolo11
+165,quince,xa'1un1,332,,yolo11
+166,veinte,o1ko1,333,,yolo11
+167,pobre,nda'4bi2,334,,yolo11
+168,rico,bi4ka3,335,,yolo11
+169,frío,bi1xin3,336,,yolo11
+170,caliente,ni'3ni4,337,,yolo11
+171,grande.SG,ka'4nu3,338,,yolo11
+172,grande.PL,na'4nu3,339,,yolo11
+173,pequeño.SG,lu3lu3,340,,yolo11
+174,pequeño.PL,ba4li4,341,,yolo11
+175,largo.SG,ka4ni24,342,,yolo11
+176,largo.PL,na4ni24,343,,yolo11
+177,bueno,ba'1a3,344,,yolo11
+178,dulce,bi1xi1,345,,yolo11
+179,salado,u'1ba1,346,,yolo11
+180,amargo,u1ba1,347,,yolo11
+181,sabroso,ya1sin4,348,,yolo11
+182,ancho,ndi4ka1,349,,yolo11
+183,nuevo,xa14a3,350,,yolo11
+184,flojo,xu4xan3,351,,yolo11
+185,feo,ki3ni3,352,,yolo11
+186,celoso,kwi4ñu2,353,,yolo11
+187,cerca,ya3tin3,354,,yolo11
+188,lejos,xi4ka3,355,,yolo11
+189,pesado,be1e3,356,,yolo11
+190,crudo,i'4i3,357,,yolo11
+191,liso,ndi3i4,358,,yolo11
+192,despacio,kwe4e2,359,,yolo11
+193,ayer,i3ku3,360,,yolo11
+194,año,kwi1ya1,361,,yolo11
+195,ahora,bi3tin3,362,,yolo11
+196,noche,ñu3u42,363,,yolo11
+197,"de noche, toda la noche",ni3ñu2u2,364,,yolo11
+198,día,ki1bi4,365,,yolo11
+199,de día,ndu3bi4,366,,yolo11
+200,mitad,sa3ba3,367,,yolo11
+201,dinero,xu'14un4,368,,yolo11
+202,trabajo,chi3ñu3,369,,yolo11
+203,palabra,tu'1un3,370,,yolo11
+204,culpa,kwa1chi3,371,,yolo11
+205,sueño,xa13ni2,372,,yolo11
+206,cuándo,a3ma3,373,,yolo11
+207,canción,ya3a2,374,,yolo11

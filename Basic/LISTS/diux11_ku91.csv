@@ -1,0 +1,213 @@
+IDlist,CONCEPT,FORM,ID,NOTES,DOCULECT
+1,mother,ðɨ́hî,1139,,diux11
+2,"mother!, mom!",nána,1140,,diux11
+3,father,taā,1141,,diux11
+4,"father!, dad!",táta,1142,,diux11
+5,"son/daughter, child",ðichí,1143,,diux11
+6,"son/daughter, child",ðahyá,1144,,diux11
+7,son,$,,,diux11
+8,daughter,$,,,diux11
+9,cross-sex sibling,$,,,diux11
+10,brother of man,ñá’ní,1145,,diux11
+11,sister of woman,kú’hú,1146,,diux11
+12,aunt,ðíðî,1147,,diux11
+10,uncle,ðítô,1148,,diux11
+11,man,té-yɨ̄ɨ,1149,,diux11
+12,woman,ña-ðíhî,1150,,diux11
+13,"owner, boss",shtóho,1151,,diux11
+14,priest,ðutú,1152,,diux11
+15,blood,ñí’ñí,1153,"tones are not basic form, only appears in one example",diux11
+16,bone,$,,,diux11
+17,hair,íðí,1154,,diux11
+18,face,nūú,1155,,diux11
+19,tongue,$,,,diux11
+20,tooth,$,,,diux11
+21,mouth,yūhu,1156,,diux11
+22,ear,ðóho,1157,,diux11
+23,nose,ðínhni,1158,,diux11
+24,neck,$,,,diux11
+25,hand,ndāha,1159,not sure about basic tones,diux11
+26,fingernail,tnɨ́ñɨ,1160,only as part of tɨ-tnɨ́ñɨ ‘mouse’,diux11
+27,back,yátâ,1161,,diux11
+28,stomach,shiti,1162,,diux11
+29,"intestine, guts",$,,,diux11
+30,foot,shéhê,1163,,diux11
+31,"illness, sickness",kwehe,1164,not sure about tones,diux11
+32,medicine,tátná,1165,not sure about tones,diux11
+33,swelling,$,,,diux11
+34,pimple,$,,,diux11
+35,pus,$,,,diux11
+36,urine,$,,,diux11
+37,"cloth, clothes, clothing",ðanhma,1166,,diux11
+38,"sandal, sandals",ndíshâ,1167,,diux11
+39,pants,shá’tú,1168,not basic tones,diux11
+40,blouse,ðún’hnú,1169,not basic tones,diux11
+41,town,ñûû,1170,,diux11
+42,house,vēhe,1171,,diux11
+43,road,īchi,1172,,diux11
+44,post,$,,,diux11
+45,"mat, sleeping mat, straw mat",yúú,1173,not basic tones,diux11
+46,bed,$,,,diux11
+47,chair,siyá,1174,Sp. silla,diux11
+48,animal,kɨ̄tɨ,1175,,diux11
+49,bird,chiliðáá,1176,not basic tones; looks like a compound,diux11
+50,fish,chāka,1177,not basic tones probably,diux11
+51,snake,kó’ó,1178,not basic tones probably,diux11
+52,frog,$,,,diux11
+53,hawk,$,,,diux11
+54,scorpion,$,,,diux11
+55,cockroach,$,,,diux11
+56,grasshopper,$,,,diux11
+57,bee,tndáka,1179,don’t know what the difference is to the other one,diux11
+57,bee,ñú’ñú,1180,don’t know what the difference is to the other one,diux11
+58,mouse,tɨ-tnɨ́ñɨ,1181,animal-fingernail,diux11
+59,deer,í’ðú,1182,,diux11
+60,squirrel,$,,,diux11
+61,skunk,$,,,diux11
+62,(o)possum,$,,,diux11
+63,raccoon,$,,,diux11
+64,rabbit,konexó,1183,Sp. conejo,diux11
+65,turkey vulture,chó’kó,1184,not basic tones,diux11
+66,dog,í’ná,1185,,diux11
+66,dog,ti-hînâ,1186,animal-dog; not sure what the difference is to the other one,diux11
+67,cat,vílu,1187,,diux11
+68,rooster,lihí,1188,,diux11
+69,chicken,chūún,1189,,diux11
+70,pig,$,,,diux11
+71,horse,$,,,diux11
+72,sheep,t-káchi,1190,animal-cotton,diux11
+73,ant,$,,,diux11
+74,horn (anatomy),$,,,diux11
+75,feather,$,,,diux11
+76,wing,$,,,diux11
+77,tail,ðú’hán,1191,not basic tones,diux11
+78,tree,yūtnu,1192,basic tones,diux11
+79,herb,$,,,diux11
+80,grass,$,,,diux11
+81,flower,ita,1193,,diux11
+82,"maguey, century plant",yáú,1194,,diux11
+83,root,yoho,1195,,diux11
+84,thorn,íñú,1196,not basic tones,diux11
+85,corn,núnî,1197,,diux11
+86,cornfield,ítû,1198,,diux11
+87,ear of corn,ñɨ́ñɨ́,1199,,diux11
+88,nixtamal,$,,,diux11
+89,"corn dough, tortilla dough",yūsha,1200,,diux11
+90,tortilla,ðítâ,1201,,diux11
+91,"cleared field, cornstalk",$,,,diux11
+92,"furrow, planting row",$,,,diux11
+93,"tassel, maize spike",$,,,diux11
+94,legume,nduchi,1202,,diux11
+95,green bean,ndí’chí,1203,not basic tones,diux11
+96,chili pepper,yáhá,1204,,diux11
+97,salt,ñɨ́’ɨ́,1205,not basic tones,diux11
+98,squash,$,,,diux11
+99,chayote squash,$,,,diux11
+100,sugar cane,$,,,diux11
+101,honey,$,,,diux11
+102,"lard, grease",ðé’hén,1206,not basic tones,diux11
+103,egg,ndɨu,1207,,diux11
+104,tomato,t-nána,1208,spherical-?,diux11
+105,edible tuber,$,,,diux11
+106,avocado,tɨ́chɨ,1209,only in tnu-tɨ́chɨ ‘avocado tree’,diux11
+107,banana,kwí’hí,1210,not basic tones,diux11
+108,prickly pear cactus,víhndê,1211,,diux11
+109,mamey,$,,,diux11
+110,custard apple,$,,,diux11
+111,mushroom,$,,,diux11
+112,meat,kú’ñú,1212,not basic tones,diux11
+113,griddle,$,,,diux11
+114,pot,kɨ́ðɨ̂,1213,,diux11
+115,oven,$,,,diux11
+116,fire,ñúhû,1214,,diux11
+117,ash,$,,,diux11
+118,charcoal,$,,,diux11
+119,smoke,$,,,diux11
+120,"garbage, trash",mí’hí,1215,,diux11
+121,plate,kóhô,1216,not basic tones,diux11
+122,"gourd, gourd bowl",$,,,diux11
+123,basket,yɨ̄ka,1217,,diux11
+124,"box, trunk",shá’tnú,1218,not basic tones,diux11
+125,thread,$,,,diux11
+126,comb,$,,,diux11
+127,rope,yóhó,1219,,diux11
+128,hole,yɨ́hɨ,1220,only in compound yu-yau-yɨ́hɨ mouth-hole-tiger ‘edge of the tiger’s hole’,diux11
+129,"net, net bag",ñúnú,1221,,diux11
+130,soap,ná’má,1222,,diux11
+131,ring,$,,,diux11
+132,moon,yôô,1223,,diux11
+133,cloud,víkô,1224,,diux11
+134,lightning,$,,,diux11
+135,water,ndūte,1225,,diux11
+136,rain (precipitation),ðá’ú,1226,,diux11
+137,river,yūte,1227,,diux11
+138,dew,$,,,diux11
+139,mountain,yūku,1228,,diux11
+140,"plain, flatland, lowland",$,,,diux11
+141,"stone, rock",yûû,1229,,diux11
+142,cotton,káchi,1230,only as part of t-káchi ‘sheep’,diux11
+143,metal,kaa,1231,,diux11
+144,paper,tūtû,1232,,diux11
+145,lime (material),$,,,diux11
+146,wax,ñú’á,1233,,diux11
+147,mud,ndehyû,1234,,diux11
+148,foam,$,,,diux11
+149,dust,$,1235,,diux11
+150,red,kwéhe,1236,not basic tones,diux11
+151,green,kwīī,1237,not basic tones,diux11
+152,yellow,kwāan,1238,not basic tones,diux11
+153,black,tnúū,1239,,diux11
+154,white,kwishí,1240,,diux11
+155,one,ɨ̄ɨ̄n,1241,basic tones,diux11
+156,two,úû,1242,basic tones,diux11
+157,three,únî,1243,basic tones,diux11
+158,four,kóôn,1244,basic tones,diux11
+159,five,óhôn,1245,basic tones,diux11
+160,six,íñû,1246,basic tones,diux11
+161,seven,úshâ,1247,basic tones,diux11
+162,eight,únâ,1248,basic tones,diux11
+163,nine,ɨ́ɨ̂n,1249,basic tones,diux11
+164,ten,úshî,1250,basic tones,diux11
+165,fifteen,shánhûn,1251,basic tones,diux11
+166,twenty,ókô,1252,basic tones,diux11
+167,poor,ndahú,1253,,diux11
+168,rich,$,,,diux11
+169,cold,víshî,1254,,diux11
+170,hot,ínhní,1255,not basic tones,diux11
+171,big.SG,kánhnu,1256,basic tones,diux11
+172,big.PL,nánhnu,1257,basic tones,diux11
+173,small.SG,luchī,1258,basic tones,diux11
+174,small.PL,kwechī,1259,basic tones,diux11
+175,long.SG,kaní,1260,basic tones,diux11
+176,long.PL,naní,1261,basic tones,diux11
+177,good,váhâ,1262,,diux11
+178,sweet,víðî,1263,,diux11
+179,salty,$,,,diux11
+180,bitter,$,,only verb kúhvâ ‘be bitter’ ,diux11
+181,"tasty, delicious",aðɨ̄,1264,not basic tones,diux11
+182,wide,nunu,1265,basic tones,diux11
+183,new,$,,,diux11
+184,lazy,kúðí,1266,not basic tones,diux11
+185,ugly,kwihá,1267,,diux11
+186,jealous,kwiñā,1268,,diux11
+187,near,yátní,1269,,diux11
+188,far,shíká,1270,,diux11
+189,heavy,vēé,1271,not basic tones,diux11
+190,raw,$,,,diux11
+191,smooth,$,,,diux11
+192,slow,kweē,1272,,diux11
+193,yesterday,íkú,1273,,diux11
+194,year,kwi’á,1274,,diux11
+195,"now, today",vítna,1275,,diux11
+196,"night, blind",kwaá,1276,"the gloss is ‘blind’, but in the free translation ‘night’ in all examples",diux11
+197,"night time, at night",niu,1277,,diux11
+198,day,kɨ̄ú,1278,,diux11
+199,day time,ndúú,1279,,diux11
+200,"half, middle",ðáva,1280,,diux11
+201,money,tviní,1281,from Old Sp. tomín,diux11
+202,work,tniū,1282,,diux11
+203,word,tnúhû,1283,,diux11
+204,"fault, sin",kwéchí,1284,not basic tones,diux11
+205,dream,$,,verb is listed,diux11
+206,when,ná,1285,not sure if this used as a question too,diux11
+207,"song, music",yáa,1286,only as part of tnu-yáa wood-music ‘oak’,diux11

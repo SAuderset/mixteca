@@ -1,0 +1,210 @@
+IDlist,CONCEPT,FORM,ID,NOTES,DOCULECT
+1,mother,nāná,495,,ocot11
+2,"mother!, mom!",nāná,496,,ocot11
+3,father,tātá,497,,ocot11
+4,"father!, dad!",$,,,ocot11
+5,"son/daughter, child",sehē,498,,ocot11
+6,son,$,,,ocot11
+7,daughter,sehē síhi,499,child female,ocot11
+8,cross-sex sibling,kwahā,500,,ocot11
+9,brother of man,ñāni,501,,ocot11
+10,sister of woman,kuhu,502,,ocot11
+11,aunt,shīshi,503,,ocot11
+12,uncle,shīto,504,,ocot11
+13,man,tēe,505,,ocot11
+14,woman,ñāhān,506,,ocot11
+15,owner,xe-tōho,507,,ocot11
+16,priest,sutu,508,,ocot11
+17,blood,$,,,ocot11
+18,bone,$,,,ocot11
+19,hair,īshī,509,,ocot11
+20,face,nuu,510,,ocot11
+21,tongue,$,,,ocot11
+22,tooth,$,,,ocot11
+23,mouth,yūhú,511,,ocot11
+24,ear,shitin,512,,ocot11
+25,nose,$,,,ocot11
+26,neck,sukun,513,,ocot11
+27,hand,ndāha,514,,ocot11
+28,fingernail,$,,,ocot11
+29,back,yata,515,,ocot11
+30,stomach,chixīn,516,,ocot11
+31,"intestine, guts",$,,,ocot11
+32,foot,xehe,517,,ocot11
+33,sickness,kwehe,518,,ocot11
+34,medicine,tatan,519,,ocot11
+35,swelling,$,,,ocot11
+36,pimple,$,,,ocot11
+37,pus,$,,,ocot11
+38,urine,$,,,ocot11
+39,cloth,sāhmā,520,,ocot11
+40,"sandal, sandals",nixan,521,,ocot11
+41,pants,$,,,ocot11
+42,"blouse, woven blouse",$,,,ocot11
+43,"village, town",ñūu,522,,ocot11
+44,house,vēhē,523,,ocot11
+45,path,īchī,524,,ocot11
+46,post,$,,,ocot11
+47,"mat, sleeping mat, straw mat",$,,,ocot11
+48,bed,$,,,ocot11
+49,"stool, chair",$,,,ocot11
+50,animal,kītī,525,,ocot11
+51,bird,sāa,526,,ocot11
+52,fish,t-yaká,527,,ocot11
+53,snake,$,,,ocot11
+54,frog,$,,,ocot11
+55,hawk,$,,,ocot11
+56,scorpion,ti-sūhma,528,,ocot11
+57,cockroach,$,,,ocot11
+58,grasshopper,$,,,ocot11
+59,bee,$,,,ocot11
+60,mouse,tí:n̄í,529,,ocot11
+61,deer,$,,,ocot11
+62,squirrel,$,,,ocot11
+63,skunk,$,,,ocot11
+64,(o)possum,$,,,ocot11
+65,raccoon,$,,,ocot11
+66,rabbit,lēxō,530,,ocot11
+67,vulture,$,,,ocot11
+68,dog,tīna,531,,ocot11
+69,cat,chílū,532,,ocot11
+70,rooster,$,,,ocot11
+71,hen,n̄īhín,533,,ocot11
+72,pig,$,,,ocot11
+73,horse,kwáyu,534,,ocot11
+74,sheep,ti-kachí,535,,ocot11
+75,ant,$,,,ocot11
+76,horn (anatomy),$,,,ocot11
+77,feather,$,,,ocot11
+78,wing,$,,,ocot11
+79,tail,suhma,536,,ocot11
+80,tree,n̄ūtūn,537,,ocot11
+81,herb,$,,,ocot11
+82,grass,īte,538,,ocot11
+83,flower,īta,539,,ocot11
+84,"maguey, century plant",$,,,ocot11
+85,root,$,,,ocot11
+86,thorn,$,,,ocot11
+87,grain of corn,nuni,540,,ocot11
+88,cornfield,ītu,541,,ocot11
+89,fresh ear of corn,ndīshī,542,,ocot11
+90,nixtamal,$,,,ocot11
+91,"cornmeal, corn dough",$,,,ocot11
+92,tortilla,staa,543,,ocot11
+93,"cleared field, cornstalk",$,,,ocot11
+94,"furrow, planting row",$,,,ocot11
+95,"tassel, maize spike",$,,,ocot11
+96,bean,ndūchī,544,,ocot11
+97,green bean,$,,,ocot11
+98,chili pepper,yāhā,545,,ocot11
+99,salt,ñii,546,,ocot11
+100,squash,$,,,ocot11
+101,chayote squash,$,,,ocot11
+102,sugar cane,$,,,ocot11
+103,honey,$,,,ocot11
+104,lard,shehēn,547,,ocot11
+105,egg,ndivi,548,,ocot11
+106,tomato,ti-nāna,549,,ocot11
+107,edible tuber,$,,,ocot11
+108,avocado,tichí,550,,ocot11
+109,banana,ndīkā,551,,ocot11
+110,prickly pear cactus,$,,,ocot11
+111,mamey,$,,,ocot11
+112,custard apple,ndōkō,552,,ocot11
+113,mushroom,$,,,ocot11
+114,meat,kuñū,553,,ocot11
+115,griddle,$,,,ocot11
+116,cooking pot,kisī,554,,ocot11
+117,oven,$,,,ocot11
+118,fire,ñúhun,555,,ocot11
+119,ash,$,,,ocot11
+120,charcoal,ti-kayī,556,,ocot11
+121,smoke,$,,,ocot11
+122,"garbage, trash",$,,,ocot11
+123,plate,$,,,ocot11
+124,gourd bowl,n̄āxīn,557,,ocot11
+125,basket,ndoho,558,,ocot11
+126,"box, chest, trunk",$,,,ocot11
+127,thread,$,,,ocot11
+128,comb,$,,,ocot11
+129,rope,yōhō,559,,ocot11
+130,hole,$,,,ocot11
+131,net bag,ñūnū,560,,ocot11
+132,soap,$,,,ocot11
+133,ring,$,,,ocot11
+134,moon,yoo,561,,ocot11
+135,cloud,viko,562,,ocot11
+136,lightning,$,,,ocot11
+137,water,ndūtē,563,,ocot11
+138,rain (precipitation),sávi,564,,ocot11
+139,river,yutē,565,,ocot11
+140,dew,$,,,ocot11
+141,mountain,yūkū,566,,ocot11
+142,"plain, flatland, lowland",$,,,ocot11
+143,"stone, rock",$,,,ocot11
+144,cotton,kachi,567,,ocot11
+145,metal,kaā,568,,ocot11
+146,paper,tūtu,569,,ocot11
+147,lime (material),$,,,ocot11
+148,wax,ñuma,570,,ocot11
+149,mud,ndehyu,571,,ocot11
+150,foam,$,,,ocot11
+151,dust,$,,,ocot11
+152,red,kwáhá,572,,ocot11
+153,green,$,,,ocot11
+154,yellow,$,,,ocot11
+155,black,tūún,573,only as part of a verb kū-tūún,ocot11
+156,white,$,,,ocot11
+157,one,īīn,574,,ocot11
+158,two,uu,575,,ocot11
+159,three,uni,576,,ocot11
+160,four,kumi,577,,ocot11
+161,five,uhun,578,,ocot11
+162,six,iñu,579,,ocot11
+163,seven,uxa,580,,ocot11
+164,eight,una,581,,ocot11
+165,nine,iin,582,,ocot11
+166,ten,ushi,583,,ocot11
+167,fifteen,shahun,584,,ocot11
+168,twenty,oko,585,,ocot11
+169,poor,ndahví,586,,ocot11
+170,rich,kwiká,587,,ocot11
+171,cold,$,,,ocot11
+172,hot,īhní,588,,ocot11
+173,big.SG,káhnú,589,,ocot11
+174,big.PL,náhnú,590,,ocot11
+175,little,lūlí,591,,ocot11
+176,small.PL,$,,,ocot11
+177,long.SG,kání,592,,ocot11
+178,long.PL,nání,593,,ocot11
+179,good,vahā,594,,ocot11
+180,sweet,vishi,595,,ocot11
+181,salty,$,,,ocot11
+182,bitter,$,,,ocot11
+183,delicious,āsin,596,,ocot11
+184,wide,$,,,ocot11
+185,new,$,,,ocot11
+186,lazy,kúshí,597,only as part of kū-kúshí ‘be lazy’,ocot11
+187,ugly,$,,,ocot11
+188,jealous,$,,,ocot11
+189,near,ñātīn,598,,ocot11
+190,far,xíká,599,,ocot11
+191,heavy,$,,,ocot11
+192,raw,yíhí,600,,ocot11
+193,smooth,$,,,ocot11
+194,slow,$,,,ocot11
+195,yesterday,īkū,601,,ocot11
+196,year,kwíya,602,,ocot11
+197,"now, today",mītān,603,,ocot11
+198,night,xā-kwáa,604,,ocot11
+199,night time,ñūú,605,,ocot11
+200,day,kivi,606,,ocot11
+201,day time,ndūú,607,,ocot11
+202,"half, middle",savá,608,,ocot11
+203,money,shuhún,609,only with the causative sā-tín̄ú,ocot11
+204,work,tíñú,610,,ocot11
+205,word,tuhūn,611,,ocot11
+206,sin,kwachī,612,,ocot11
+207,dream,$,,,ocot11
+208,when,nāmā,613,,ocot11
+209,"song, music",$,,,ocot11

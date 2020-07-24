@@ -1,0 +1,1820 @@
+ID	DOCULECT	CONCEPT	FORM	IDlist	NOTES
+1	ocot11	madre	nana	1	NA
+2	ocot11	mamá!	ma	2	not sure, but example suggests so
+3	ocot11	padre	tata	3	NA
+4	ocot11	papá!	paa	4	NA
+5	ocot11	hijo	se’e	6	NA
+6	ocot11	hija	sesi’i	7	NA
+7	ocot11	hermana/hermano de otro genero	kua’à	8	NA
+8	ocot11	hermano de hombre	ñani	9	NA
+9	ocot11	hermana de mujer	ku’u	10	NA
+10	ocot11	tía	xixi	11	NA
+11	ocot11	tío	xito	12	NA
+12	ocot11	hombre	chàa	13	NA
+13	ocot11	mujer	ñà’an	14	NA
+14	ocot11	dueño	sto’o	15	NA
+15	ocot11	sacerdote	sutu	16	NA
+16	ocot11	sangre	niì	17	NA
+17	ocot11	pelo	ixi	19	NA
+18	ocot11	cara	nùù	20	NA
+19	ocot11	lengua	yaá	21	NA
+20	ocot11	diente	nu’u	22	NA
+21	ocot11	boca	yu’u	23	NA
+22	ocot11	oreja	so’o	24	NA
+23	ocot11	nariz	xichi	25	NA
+24	ocot11	cuello	sukú	26	NA
+25	ocot11	mano	nta’á	27	NA
+26	ocot11	espalda	sata	29	NA
+27	ocot11	pie	tsa’a	32	NA
+28	ocot11	enfermedad	kue’é	33	NA
+29	ocot11	grano	nti’í	36	NA
+30	ocot11	tela, ropa	sa’ma	39	NA
+31	ocot11	huarache	ntsítsa	40	NA
+32	ocot11	pantalón	tsatu	41	NA
+33	ocot11	pueblo	ñuu	43	NA
+34	ocot11	casa	ve’e	44	NA
+35	ocot11	camino	ichi	45	NA
+36	ocot11	horcón	si’ìn	46	NA
+37	ocot11	petate	yuvi	47	NA
+38	ocot11	cama, lecho	tsíto	48	NA
+39	ocot11	silla	chai	49	NA
+40	ocot11	animal	kiti	50	NA
+41	ocot11	pájaro	saa	51	NA
+42	ocot11	pez, pescado	chaká	52	NA
+43	ocot11	víbora	kòò	53	NA
+44	ocot11	rana	sa’va	54	NA
+45	ocot11	gavilán	xi’an	55	NA
+46	ocot11	abeja	ñuñu	59	NA
+47	ocot11	ratón, rata	ti’in	60	NA
+48	ocot11	venado	isu	61	NA
+49	ocot11	ardilla	ntikuain	62	NA
+50	ocot11	tlacuache	tsoko	64	NA
+51	ocot11	mapache	ma’àn	65	NA
+52	ocot11	perro	tina	68	NA
+53	ocot11	gato	vilu	69	NA
+54	ocot11	gallo	to’lo	70	NA
+55	ocot11	gallina	chata	71	NA
+56	ocot11	marrano, puerco, cerdo	kìni	72	NA
+57	ocot11	caballo	kiti	73	NA
+58	ocot11	borrego, oveja	ntikachi	74	NA
+59	ocot11	hormiga	choko	75	NA
+60	ocot11	cuerno	ntiki	76	NA
+61	ocot11	pluma	túmi	77	NA
+62	ocot11	cola	nto’o	79	NA
+63	ocot11	árbol	yutu	80	NA
+64	ocot11	hierba	kù’ù	81	NA
+65	ocot11	zacate, pasto	icha	82	NA
+66	ocot11	flor	ita	83	NA
+67	ocot11	maguey	yàvì	84	NA
+68	ocot11	raíz	yo’o	85	NA
+69	ocot11	espina	iñu	86	NA
+70	ocot11	maíz	nuni	87	NA
+71	ocot11	milpa	itu	88	NA
+72	ocot11	elote	ntíxi	89	NA
+73	ocot11	nixtamal	tsá’á	90	NA
+74	ocot11	masa	yutsa	91	NA
+75	ocot11	tortilla	staa	92	NA
+76	ocot11	surco	yuku	94	NA
+77	ocot11	espiga	yòko	95	NA
+78	ocot11	frijol(es)	ntuchi	96	NA
+79	ocot11	ejote	nchichi	97	NA
+80	ocot11	chile	ya’a	98	NA
+81	ocot11	sal	iìn	99	NA
+82	ocot11	calabaza	iki	100	NA
+83	ocot11	chayote	naña	101	NA
+84	ocot11	caña	ntòò	102	NA
+85	ocot11	miel	ntuxi	103	NA
+86	ocot11	manteca	xa’an	104	NA
+87	ocot11	huevo	ntívi	105	NA
+88	ocot11	camote	ña’mi	107	listed as ña’mi vixi ‘camote dulce’
+89	ocot11	aguacate	tichi	108	NA
+90	ocot11	plátano	nchikà	109	NA
+91	ocot11	nopal	mi’ncha	110	NA
+92	ocot11	hongo	tsi’i	113	NA
+93	ocot11	carne	kuñu	114	NA
+94	ocot11	comal	tsio	115	NA
+95	ocot11	olla	kìsi	116	NA
+96	ocot11	horno	tsìtù	117	NA
+97	ocot11	lumbre, fuego	ñu’un	118	NA
+98	ocot11	ceniza	yàà	119	NA
+99	ocot11	humo	ñu’ma	121	NA
+100	ocot11	basura	mi’í	122	NA
+101	ocot11	plato	ko’o	123	NA
+102	ocot11	jícara	yatsi	124	NA
+103	ocot11	tenate	nto’ó	125	NA
+104	ocot11	hilo	yu’va	127	NA
+105	ocot11	peine	kuika	128	NA
+106	ocot11	cuerda	yo’o	129	NA
+107	ocot11	hoyo	yavi	130	NA
+108	ocot11	jabón	nama	132	NA
+109	ocot11	anillo	xe’e	133	NA
+110	ocot11	luna	yòò	134	NA
+111	ocot11	nube	víkò	135	NA
+112	ocot11	agua	chikui	137	NA
+113	ocot11	lluvia	savi	138	NA
+114	ocot11	río	yùcha	139	NA
+115	ocot11	piedra	yùù	143	NA
+116	ocot11	algodón	kàchi	144	NA
+117	ocot11	fierro	kaa	145	NA
+118	ocot11	papel	tutu	146	NA
+119	ocot11	cal	kàkà	147	NA
+120	ocot11	cera	ñùma	148	NA
+121	ocot11	lodo	nchá’í	149	NA
+122	ocot11	polvo	yaka	151	NA
+123	ocot11	rojo	kua’a	152	NA
+124	ocot11	verde	kui	153	NA
+125	ocot11	amarillo	kuan	154	NA
+126	ocot11	negro	ncha’í	155	NA
+127	ocot11	blanco	yaa	156	NA
+128	ocot11	uno	in	157	NA
+129	ocot11	dos	uvi	158	NA
+130	ocot11	tres	ùni	159	NA
+131	ocot11	cuatro	kùmi	160	NA
+132	ocot11	cinco	u’un	161	NA
+133	ocot11	seis	ìñu	162	NA
+134	ocot11	siete	utsa	163	NA
+135	ocot11	ocho	ùna	164	NA
+136	ocot11	nueve	ììn	165	NA
+137	ocot11	diez	utsi	166	NA
+138	ocot11	quince	tsa’un	167	NA
+139	ocot11	veinte	oko	168	NA
+140	ocot11	pobre	nta’vi	169	NA
+141	ocot11	hace frío	vítsi	171	NA
+142	ocot11	está caliente, caliente	i’ni	172	NA
+143	ocot11	grande.SG	ka’nu	173	NA
+144	ocot11	pequeño.SG, chico.SG	luu	175	NA
+145	ocot11	largo.SG	kani	177	NA
+146	ocot11	bueno	va’a	179	NA
+147	ocot11	dulce	vixi	180	NA
+148	ocot11	salado	u’a	181	NA
+149	ocot11	amargo	uva	182	NA
+150	ocot11	sabroso	ási	183	NA
+151	ocot11	ancho	ntika	184	NA
+152	ocot11	nuevo	tsaà	185	NA
+153	ocot11	feo	kíni	187	NA
+154	ocot11	celoso	kuiñu	188	NA
+155	ocot11	cerca de, está cerca	yachi	189	NA
+156	ocot11	pesado	vee	191	NA
+157	ocot11	crudo	i’i	192	NA
+158	ocot11	liso, resbaloso	ntii	193	NA
+159	ocot11	despacio	kue kueni ~ kueni kueni	194	NA
+160	ocot11	ayer	kúni	195	NA
+161	ocot11	año	kuia	196	NA
+162	ocot11	ahora, hoy	vichi	197	NA
+163	ocot11	noche	tsikua	198	NA
+164	ocot11	día	kii	200	NA
+165	ocot11	de día, todo el día	ntuu	201	NA
+166	ocot11	mitad	sava	202	NA
+167	ocot11	dinero	xu’un	203	NA
+168	ocot11	trabajo	chuun	204	NA
+169	ocot11	palabra	tu’un	205	NA
+170	ocot11	sueño	mà’na	207	NA
+171	ocot11	cuándo	na	208	NA
+172	ocot11	música	yáá	209	NA
+1005	alac11	mother	sīhí	1	NA
+1006	alac11	mother!, mom!	nāná	2	NA
+1007	alac11	father	yīvā	3	NA
+1008	alac11	son/daughter, child	sāhya	5	NA
+1009	alac11	cross-sex sibling	kīhvā	8	NA
+1010	alac11	brother of man	ñānī	9	NA
+1011	alac11	sister of woman	kihvi	10	NA
+1012	alac11	aunt	sīsī	11	NA
+1013	alac11	uncle	sītō	12	NA
+1014	alac11	man	taā	11	NA
+1015	alac11	woman	ñáha	12	NA
+1016	alac11	owner, boss	shi-tóhó	13	from tohó ‘respect’
+1017	alac11	priest	sutu	14	NA
+1018	alac11	bone	yīki	16	NA
+1019	alac11	hair	īsí	17	NA
+1020	alac11	face	noo	18	NA
+1021	alac11	mouth	yūhu	21	NA
+1022	alac11	ear	sohō	22	NA
+1023	alac11	hand	ndāha	25	NA
+1024	alac11	back	sata	27	NA
+1025	alac11	stomach	tishīn	28	NA
+1026	alac11	foot	shaha	30	NA
+1027	alac11	sickness	kwehe	31	NA
+1028	alac11	medicine	tatan	32	NA
+1029	alac11	clothes	tīkoto	37	NA
+1030	alac11	town	ñōō	41	NA
+1031	alac11	house	vēhē	42	NA
+1032	alac11	road	yīchi	43	NA
+1033	alac11	chair	tāyi	47	NA
+1034	alac11	animal	kīti	48	NA
+1035	alac11	bird	sāā	49	NA
+1036	alac11	fish	ti-yaká	50	NA
+1037	alac11	bee	tí-ñoño	57	from ñoño ‘honey’
+1038	alac11	mouse	tiín	58	NA
+1039	alac11	deer	yūsū	59	NA
+1040	alac11	rabbit	yīsōn	64	Sp. conejo
+1041	alac11	rabbit	lēsōn	64	Sp. conejo
+1042	alac11	dog	īnā	66	NA
+1043	alac11	cat	míshtón	67	NA
+1044	alac11	rooster	ndūshú chée	68	chicken big:male
+1045	alac11	chicken	ndūshú	69	NA
+1046	alac11	pig	kīni	70	NA
+1047	alac11	horse	kwáyí	71	Sp. caballo
+1048	alac11	sheep	ndī-kāchī	72	from kāchī ‘cotton’
+1049	alac11	horn (anatomy)	ndiki	74	NA
+1050	alac11	tree	yīton	78	NA
+1051	alac11	flower	yītā	81	NA
+1052	alac11	corn	noni	85	NA
+1053	alac11	cornfield	yūtū	86	NA
+1054	alac11	corn dough	yūshan	89	NA
+1055	alac11	tortilla	sita	90	NA
+1056	alac11	bean	ndūchu	94	NA
+1058	alac11	chili pepper	yāha	96	NA
+1059	alac11	salt	ñii	97	NA
+1060	alac11	squash	yīkin	98	NA
+1061	alac11	honey	ñoño	101	NA
+1062	alac11	grease	sahān	102	NA
+1063	alac11	egg	ndivi	103	NA
+1064	alac11	tomato	nāñā	104	don’t know what the difference is to the other one
+1065	alac11	tomato	ti-nānā	104	don’t know what the difference is to the other one
+1066	alac11	avocado	tichí	106	NA
+1067	alac11	prickly pear cactus	ton-vihndá	108	wood-?
+1068	alac11	meat	kuñō	112	NA
+1069	alac11	pot	kisī	114	NA
+1070	alac11	fire	n̄ōho	116	NA
+1071	alac11	smoke	ñihma	119	NA
+1072	alac11	trash	mihí	120	NA
+1073	alac11	box	káxá	124	Sp. caja
+1074	alac11	rope	yóho	127	NA
+1075	alac11	moon	yoo	132	NA
+1076	alac11	cloud	viko	133	NA
+1077	alac11	water	tākwiī	135	NA
+1078	alac11	rain, rain god	savi	136	NA
+1079	alac11	river	yutā	137	NA
+1080	alac11	mountain, mountain country	yūku	139	NA
+1081	alac11	hill	shiki	139	NA
+1082	alac11	flat place	ndōsō	140	NA
+1083	alac11	rock	yuu	141	NA
+1084	alac11	cotton	kāchī	142	NA
+1085	alac11	metal	kaā	143	NA
+1086	alac11	paper	tūtū	144	NA
+1087	alac11	lime (material)	kākā	145	NA
+1088	alac11	wax	ñima	146	NA
+1089	alac11	mud	ndahyi	147	NA
+1090	alac11	dust	yāā	149	only in nā-yāā REP-dust ‘become dry’
+1091	alac11	red	kwáhá	150	NA
+1092	alac11	green	kwíī	151	NA
+1093	alac11	yellow	kwáán	152	NA
+1094	alac11	black, dark	toōn	153	NA
+1095	alac11	white	yāā	154	NA
+1096	alac11	one	ñīī	155	NA
+1097	alac11	two	ovi	156	NA
+1098	alac11	three	uni	157	NA
+1099	alac11	four	komi	158	NA
+1100	alac11	five	ohon	159	NA
+1101	alac11	six	iño	160	NA
+1102	alac11	seven	usha	161	NA
+1103	alac11	eight	ona	162	NA
+1104	alac11	nine	ñii	163	NA
+1105	alac11	ten	ushu	164	NA
+1106	alac11	fifteen	shāhun	165	NA
+1107	alac11	twenty	oko	166	NA
+1108	alac11	poor	ndáhví	167	NA
+1109	alac11	rich	kwíká	168	NA
+1110	alac11	cold	vīshin	169	NA
+1111	alac11	big.SG	káhnō	171	NA
+1112	alac11	big.PL	náhnō	172	NA
+1113	alac11	little.SG	lōhō	173	NA
+1114	alac11	little.PL (few)	válí	174	NA
+1115	alac11	little.PL (many)	kwálí	174	NA
+1116	alac11	long.SG	kánī	175	NA
+1117	alac11	long.PL	nánī	176	NA
+1118	alac11	good	vahā	177	NA
+1119	alac11	sweet	visi	178	NA
+1121	alac11	new	shaá	183	NA
+1122	alac11	ugly	kīnī	185	NA
+1123	alac11	near	yātin	187	NA
+1124	alac11	far	shíká	188	NA
+1125	alac11	heavy	veē	189	NA
+1126	alac11	slow	kwēē	192	NA
+1127	alac11	yesterday	kōnī	193	NA
+1128	alac11	year	kwiya	194	NA
+1129	alac11	now, today	vītīn	195	NA
+1130	alac11	night time	ñōó	197	could also be ‘night’, not sure
+1131	alac11	day	kivi	198	NA
+1132	alac11	day time	ndīví	199	NA
+1133	alac11	half	sāvā	200	NA
+1134	alac11	money	sihún	201	NA
+1135	alac11	work	chíñō	202	NA
+1136	alac11	word	tohōn	203	NA
+1137	alac11	blame	kwachī	204	NA
+1138	alac11	when	āmā	206	NA
+743	ayut11	mother	sihīn	1	NA
+744	ayut11	mother!, mom!	nanāa	2	sentence final form, no other one given
+745	ayut11	father	yuvāh	3	NA
+746	ayut11	father!, dad!	tātā	4	NA
+747	ayut11	father	yuhvāh	5	NA
+748	ayut11	son/daughter, child	sīhe	6	NA
+749	ayut11	cross-sex sibling	kuhva	9	NA
+750	ayut11	brother of man	n̄ani	10	NA
+751	ayut11	aunt	shishi	12	NA
+752	ayut11	uncle	shito	10	NA
+753	ayut11	man	tyāa	11	NA
+754	ayut11	woman	ñahāh	12	NA
+755	ayut11	priest	sūtu	14	NA
+756	ayut11	bone	ikīh	16	NA
+757	ayut11	hair	ishīh	17	NA
+758	ayut11	face	nūuh	18	NA
+759	ayut11	tooth	nuhu	20	NA
+760	ayut11	mouth	yuhūh	21	NA
+761	ayut11	ear	soho	22	NA
+762	ayut11	neck	sīkih	24	NA
+763	ayut11	hand	ndahāh	25	NA
+764	ayut11	back	shātah	27	NA
+765	ayut11	stomach	tishin	28	NA
+766	ayut11	intestine	shiti	29	NA
+767	ayut11	foot	shāhan	30	NA
+768	ayut11	disease, illness, sickness	kwīhe	31	NA
+769	ayut11	medicine, remedy	tātanh	32	NA
+770	ayut11	tortilla cloth	sahmāh	37	NA
+771	ayut11	cloth	tōto	37	NA
+772	ayut11	village, town	ñuu	41	NA
+773	ayut11	house	vihe	42	NA
+774	ayut11	path	ichīh	43	NA
+775	ayut11	post	nduyu	44	NA
+776	ayut11	palm mat	yivih	45	NA
+777	ayut11	chair	tēi	47	NA
+778	ayut11	animal	kitīh	48	NA
+779	ayut11	bird	saa	49	NA
+780	ayut11	fish	t-yakāh	50	NA
+781	ayut11	snake	kōoh	51	NA
+782	ayut11	scorpion	ti-sūhma	54	NA
+783	ayut11	deer	isu	59	NA
+784	ayut11	raccoon	ti-māhá	63	NA
+785	ayut11	rabbit	iso	64	NA
+786	ayut11	dog	nāyah	66	NA
+787	ayut11	cat	mīshtūn	67	NA
+788	ayut11	hen	ndushīh	69	NA
+789	ayut11	pig	kīni	70	NA
+790	ayut11	horse	kwēī	71	from Sp. caballo
+791	ayut11	black ant	si-ndōkoh	73	NA
+792	ayut11	horn (anatomy)	ndikīh	74	NA
+793	ayut11	tail	sūhmah	77	NA
+794	ayut11	tree	itūnh	78	NA
+795	ayut11	grass	itya	80	NA
+796	ayut11	root	tyoho	83	NA
+797	ayut11	thorn	in̄uh	84	NA
+798	ayut11	corn kernel	nūnih	85	NA
+799	ayut11	cornfield, corn plant	itu	86	corn plant, but in ex. translated as cornfield
+800	ayut11	fresh ear of corn	niih	87	NA
+801	ayut11	corn dough, tortilla dough	ishānh	89	NA
+802	ayut11	tortilla	shītah	90	NA
+803	ayut11	furrow, planting row	yūkun	92	only as part of ndu-yūkun ‘will become a row’
+804	ayut11	bean	nduchīh	94	NA
+805	ayut11	chili pepper	yahāh	96	NA
+806	ayut11	salt	īīnh	97	NA
+807	ayut11	egg	ndīvih	103	NA
+808	ayut11	tomato	tinanah	104	NA
+809	ayut11	avocado	tichīh	106	NA
+810	ayut11	banana	chītya	107	NA
+811	ayut11	meat	ndeih	112	NA
+812	ayut11	clay pot	kisi	114	NA
+813	ayut11	fire	nūhu	116	NA
+814	ayut11	garbage, trash	mihīh	120	NA
+815	ayut11	gourd, gourd bowl	yashīnh	122	NA
+816	ayut11	box	shātunh	124	NA
+817	ayut11	rope	yohōh	127	NA
+818	ayut11	soap	nāmah	130	NA
+819	ayut11	moon	yōoh	132	NA
+820	ayut11	cloud	vīkoh	133	NA
+821	ayut11	water	tikwī	135	NA
+822	ayut11	rain (precipitation)	sāvih	136	NA
+823	ayut11	river	itya	137	NA
+824	ayut11	mountain	ikūh	139	NA
+825	ayut11	stone	yūuh	141	NA
+826	ayut11	metal	kaa	143	NA
+827	ayut11	paper	tutu	144	NA
+828	ayut11	lime (material)	kaka	145	NA
+829	ayut11	beeswax, wax	ñūhmah	146	NA
+830	ayut11	mud	ndēhi	147	NA
+831	ayut11	green	kwīih	151	NA
+832	ayut11	yellow	kwāān	152	NA
+833	ayut11	white	yaa	154	only as part of nda-sa-yaa ‘will rewhiten’
+834	ayut11	one	iin	155	NA
+835	ayut11	two	ūvi	156	NA
+836	ayut11	three	ūni	157	NA
+837	ayut11	four	kumīh	158	NA
+838	ayut11	five	ūhun	159	NA
+839	ayut11	six	īñu	160	NA
+840	ayut11	seven	ūsha	161	NA
+841	ayut11	eight	ūnya	162	NA
+842	ayut11	nine	īīn	163	NA
+843	ayut11	ten	ūshi	164	NA
+844	ayut11	fifteen	shāhun	165	NA
+845	ayut11	twenty	ōko	166	NA
+846	ayut11	poor	ndāhvī	167	NA
+847	ayut11	rich	vīkāh	168	NA
+848	ayut11	cold	vishin	169	NA
+849	ayut11	hot	ihnīh	170	NA
+850	ayut11	big.SG	chīe	171	NA
+851	ayut11	big.PL	nāhnūh	172	NA
+852	ayut11	small.SG	lūlū	173	NA
+853	ayut11	small.PL	kwālīh	174	NA
+854	ayut11	small.PL	kwāchīh	174	NA
+855	ayut11	long.SG	kānih	175	NA
+856	ayut11	long.PL	nānih	176	NA
+857	ayut11	good	vaha	177	NA
+858	ayut11	sweet	vīshi	178	only as part of ku-vīshi ‘will become sweet’
+859	ayut11	delicious	āsinh	181	NA
+860	ayut11	wide	ndīká	182	only as part of sa-ndīká ‘will widen’
+861	ayut11	new	shaāh	183	NA
+862	ayut11	lazy	sūshānh	184	NA
+863	ayut11	near	yatin	187	NA
+864	ayut11	far	shīkāh	188	NA
+865	ayut11	heavy	vīe	189	NA
+866	ayut11	raw	īhīn	190	NA
+867	ayut11	smooth	ndiih	191	only as part of sa-ndiih ‘will smooth’
+868	ayut11	slow	kwīē	192	NA
+869	ayut11	yesterday	iku	193	NA
+870	ayut11	year	kwīya	194	NA
+871	ayut11	now, today	vitin	195	NA
+872	ayut11	night	ñuū	196	NA
+873	ayut11	night time	niñu	197	NA
+874	ayut11	day	kīhvih	198	NA
+875	ayut11	day time	nduvīh	199	NA
+876	ayut11	half, middle	sava	200	NA
+877	ayut11	money	shuhūnh	201	NA
+878	ayut11	work	chuun	202	NA
+879	ayut11	fault, blame, sin	kwachi	204	NA
+880	ayut11	when	ama	206	NA
+1637	chic02	madre	nni	1	NA
+1638	chic02	padre	treeha	3	NA
+1639	chic02	padre	dreeha	3	NA
+1640	chic02	hijo/hija	tani	5	NA
+1641	chic02	hijo	tanixnagu	6	child-man
+1642	chic02	hija	tanichanaha	7	child-female
+1643	chic02	hermano	tînêha	9	NA
+1644	chic02	hermana	chughueha	10	NA
+1645	chic02	tía	tughuia	11	NA
+1646	chic02	tío	tanénha	12	NA
+1647	chic02	hombre	tsixnagú	13	NA
+1648	chic02	mujer	tsichunaha	14	NA
+1649	chic02	dueño	kuisiha	15	NA
+1650	chic02	sacerdote	treeha	16	same as 3
+1651	chic02	sangre	tunha	17	NA
+1652	chic02	hueso	kúúhu	18	NA
+1653	chic02	pelo	hûghue	19	NA
+1654	chic02	cara	rriíñiaha	20	NA
+1655	chic02	lengua	yuaha	21	NA
+1656	chic02	diente	kuyiaàha	22	NA
+1657	chic02	boca	duuaha	23	NA
+1658	chic02	oreja	drakih	24	NA
+1659	chic02	nariz	takén	25	NA
+1660	chic02	cuello	chiiaha	26	NA
+1661	chic02	mano	traha	27	NA
+1662	chic02	uña	kusitenha	28	NA
+1663	chic02	espalda	xitraha	29	NA
+1664	chic02	panza	rrikii	30	NA
+1665	chic02	tripas	chitríha	31	NA
+1666	chic02	pie	chii	32	NA
+1667	chic02	pie	tako	32	NA
+1668	chic02	grano	nnuha	36	NA
+1669	chic02	orina	nnerihii	38	NA
+1670	chic02	tela	chináha	39	NA
+1671	chic02	ropa	katsihi	39	NA
+1672	chic02	pueblo	chuumaha	43	NA
+1673	chic02	casa, edificio	ghuee	44	NA
+1674	chic02	casa, edificio	tukua	44	NA
+1675	chic02	camino	treha	45	NA
+1676	chic02	animal	chukuha	50	NA
+1677	chic02	pájaro	chataha	51	NA
+1678	chic02	culebra	chukuaha	53	NA
+1679	chic02	rana	chireki	54	NA
+1827	chic02	rana	chirikihi	54	NA
+1680	chic02	gavilán	xnuuhu	55	NA
+1681	chic02	cucaracha	chiraken	57	NA
+1682	chic02	chapulín	chukuahha	58	NA
+1683	chic02	abeja	xutan	59	NA
+1684	chic02	ratón	chuutuha	60	NA
+1685	chic02	rata	chuutughui	60	NA
+1686	chic02	venado	chutaha	61	NA
+1687	chic02	ardilla	chuaa	62	NA
+1688	chic02	zorrillo	cháán	63	NA
+1689	chic02	mapache	kagu	65	NA
+1690	chic02	conejo	chatooha	66	NA
+1691	chic02	zopilote	chaatru	67	NA
+1692	chic02	perro	chughuee	68	NA
+1693	chic02	gato	chiluhu	69	NA
+1694	chic02	gallo	daloho	70	NA
+1695	chic02	gallina	yuchehe	71	NA
+1696	chic02	marrano	chakaha	72	NA
+1697	chic02	oveja	chachihi	74	NA
+1698	chic02	oveja	matsihi	74	NA
+1699	chic02	hormiga	chukua	75	NA
+1825	chic02	hormiga	yukuaha	75	NA
+1700	chic02	cuerno	kuû	76	NA
+1701	chic02	pluma	tooóha	77	NA
+1702	chic02	ala	degachi	78	NA
+1703	chic02	cola	tuneha	79	NA
+1704	chic02	árbol	truun	80	NA
+1705	chic02	hierba	kohoa	81	glossed yerba
+1706	chic02	pasto	trihi	82	NA
+1707	chic02	flor	yaha	83	NA
+1708	chic02	raíz	yaáha	85	NA
+1709	chic02	espina	tanha	86	NA
+1710	chic02	masa	kenha	91	NA
+1711	chic02	espiga	kaa	95	NA
+1712	chic02	frijol(es)	rrunehe	96	NA
+1713	chic02	chilar, pimiento	kohiaáha	98	NA
+1714	chic02	sal	yaauha	99	NA
+1715	chic02	calabaza	kânha	100	NA
+1824	chic02	calabaza	kanmaa	100	NA
+1716	chic02	caña	yioho	102	NA
+1717	chic02	miel	katsii	103	NA
+1718	chic02	grasa	nnami	104	NA
+1719	chic02	manteca	nnanúyaha	104	NA
+1720	chic02	huevo	trú	105	NA
+1721	chic02	jitomate	natsii	106	NA
+1722	chic02	camote	mme	107	NA
+1723	chic02	plátano	naatoo	109	NA
+1826	chic02	plátano	trunnatoo	109	NA
+1724	chic02	nopal	tinén	110	NA
+1725	chic02	mamey	natorrooho	111	NA
+1726	chic02	zapote negro	rrekotrun	111	NA
+1727	chic02	hongo	rrâân	113	NA
+1728	chic02	carne	nneé	114	NA
+1729	chic02	olla	titruha	116	NA
+1730	chic02	lumbre	yaghui	118	NA
+1731	chic02	fuego	ñiaaha	118	NA
+1732	chic02	ceniza	yaaha, yaa	119	NA
+1733	chic02	carbón	rrughuíha	120	NA
+1734	chic02	humo	katseha	121	NA
+1735	chic02	plato	kooha	123	NA
+1736	chic02	caja	trûn	126	NA
+1737	chic02	hilo	ghueheha	127	NA
+1738	chic02	peine	gutsihiha	128	NA
+1739	chic02	hoyo	chuúhu	130	NA
+1740	chic02	red	nuaha	131	NA
+1741	chic02	jabón	mmistila	132	NA
+1742	chic02	anillo	tsee	133	NA
+1743	chic02	anillo	chunaha	133	NA
+1745	chic02	nube	nga	135	NA
+1746	chic02	rayo	tughuiiha	136	NA
+1747	chic02	relámpago	rrânha	136	NA
+1748	chic02	lluvia	kumánha	138	NA
+1749	chic02	río	nekîngaha	139	NA
+1750	chic02	rocío	niaáha	140	NA
+1751	chic02	cerro	kihiha	141	NA
+1752	chic02	llano	ta	142	NA
+1753	chic02	llanura	tanikó	142	NA
+1754	chic02	algodón	kaachihia	144	NA
+1755	chic02	papel	nanha	146	NA
+1756	chic02	cal	knáaha	147	NA
+1757	chic02	cera	yianha	148	NA
+1758	chic02	lodo	tsegheha	149	NA
+1759	chic02	espuma	yyatan	150	NA
+1760	chic02	rojo	mereeha	152	NA
+1761	chic02	rojo	ghueeha	152	NA
+1762	chic02	verde	meréha	153	NA
+1763	chic02	amarillo	guamiaha	154	NA
+1764	chic02	negro	nurrnúú	155	NA
+1765	chic02	negro	trunma	155	NA
+1766	chic02	blanco	kaatsiha	156	NA
+1767	chic02	uno	ngo	157	NA
+1768	chic02	dos	ghuiiha	158	dictionary
+1769	chic02	dos	nghui	158	grammar part
+1770	chic02	tres	guanénha	159	dictionary
+1771	chic02	tres	guañânha	159	grammar part
+1772	chic02	cuatro	kaha	160	grammar part
+1773	chic02	cinco	huú	161	dictionary
+1774	chic02	cinco	huhu	161	dictionary
+1775	chic02	cinco	huhûha	161	grammar part
+1776	chic02	seis	guatânka	162	grammar part
+1777	chic02	siete	chiha	163	grammar part, dictionary
+1778	chic02	ocho	tônha	164	grammar part
+1779	chic02	ocho	tênha	164	dictionary
+1780	chic02	nueve	hûnha	165	grammar part
+1781	chic02	nueve	úú	165	dictionary
+1782	chic02	diez	chia	166	grammar part
+1783	chic02	diez	chiía	166	dictionary
+1784	chic02	quince	chinôônha	167	grammar part
+1785	chic02	quince	chinuú	167	dictionary
+1786	chic02	veinte	hikoo	168	grammar part
+1787	chic02	veinte	kooha	168	dictionary
+1788	chic02	pobre	ganikighuaha	169	NA
+1789	chic02	rico	chirughueeha	170	NA
+1790	chic02	caliente	hiaân	172	NA
+1791	chic02	caliente	yiaân	172	NA
+1792	chic02	grande	chachiia	173	NA
+1793	chic02	pequeño	kuniha	175	NA
+1794	chic02	chico	nliha	175	NA
+1795	chic02	largo	chihiha	177	NA
+1796	chic02	largo	chehea	177	NA
+1797	chic02	bueno	saa	179	NA
+1798	chic02	bueno	tsaa	179	NA
+1799	chic02	bueno	guatsaaha	179	NA
+1800	chic02	dulce	tsi tsihi	180	NA
+1801	chic02	sabroso	chiiñiaha	183	NA
+1802	chic02	ancho	katraa	184	NA
+1803	chic02	nuevo	tsinakaha	185	NA
+1804	chic02	flojo	rrumii	186	NA
+1805	chic02	feo	guakihi	187	NA
+1806	chic02	celoso	chikoosi	188	NA
+1807	chic02	cerca	nitrûha	189	NA
+1808	chic02	cerca, cercado	trunchighuéha	189	NA
+1809	chic02	lejos	gânha	190	NA
+1810	chic02	liso	nughui	193	NA
+1811	chic02	despacio	ninóha	194	NA
+1812	chic02	ayer tarde	kukihdinên	195	NA
+1813	chic02	año	yioho	196	NA
+1814	chic02	noche	niihi	198	NA
+1815	chic02	anoche	niihá	199	NA
+1816	chic02	día	kuuía	200	NA
+1817	chic02	dinero	tsaàha	203	NA
+1818	chic02	trabajo	sunha	204	NA
+1819	chic02	palabra	ngoánha	205	NA
+1820	chic02	culpa	kakenha	206	NA
+1821	chic02	sueño	nneheha	207	NA
+1822	chic02	cuándo	amaaha	208	NA
+1823	chic02	música	tsiañiaha	209	NA
+881	coat11	mother	dɨhɨ̄	1	NA
+882	coat11	mother!, mom!	ñāâ	2	NA
+883	coat11	father	uvā	3	NA
+884	coat11	father!, dad!	ūvâ	4	NA
+885	coat11	son/daughter, child	ihshá	5	NA
+886	coat11	daughter	dyōkó	7	NA
+887	coat11	brother of man	ení	9	NA
+888	coat11	sister of woman	tahan	10	sister in general?
+889	coat11	aunt	ñāná	11	NA
+890	coat11	uncle	dītó	12	NA
+891	coat11	owner, boss	tōhó	13	NA
+892	coat11	priest	dutu	14	NA
+893	coat11	hair	idi	17	NA
+894	coat11	face	núu	18	NA
+895	coat11	mouth	shuhu	21	NA
+896	coat11	nose	dítsīn	23	NA
+897	coat11	neck	dukun	24	NA
+898	coat11	hand	ndaha	25	NA
+899	coat11	fingernail	tsiin	26	NA
+900	coat11	back	átā	27	NA
+901	coat11	foot	dɨ́hɨn	30	NA
+902	coat11	disease, illness, sickness	kwíhí	31	NA
+903	coat11	herb, medicine	chóhō	32	NA
+904	coat11	cloth, clothes	doo	37	NA
+905	coat11	sandal, sandals	ndihshen	38	NA
+906	coat11	village, town	ñuú	41	NA
+907	coat11	house	vihi	42	NA
+908	coat11	road, trail	itsi	43	NA
+909	coat11	palm mat	shuvi	45	NA
+910	coat11	animal	kɨtɨ	48	NA
+911	coat11	bird	láā	49	NA
+912	coat11	fish	tsāká	50	NA
+913	coat11	snake	kóō	51	NA
+914	coat11	scorpion	tduhmé	54	NA
+915	coat11	grasshopper, cricket	skundi	56	NA
+916	coat11	bee	kɨtume	57	NA
+917	coat11	mouse, rat	shtɨ̄ñɨ̄	58	NA
+918	coat11	deer	rkuhú	59	a compound of idú ‘horse’ and kuhu ‘wild’
+919	coat11	raccoon	tɨ́-māhá	63	NA
+920	coat11	rabbit	tsīdó	64	NA
+921	coat11	dog	tīná	66	NA
+922	coat11	cat	mishtun	67	from Old Sp. mistón
+923	coat11	pig	kutsin	70	from Sp. cochino
+924	coat11	horse	idú	71	NA
+925	coat11	ant	tsóko	73	NA
+926	coat11	tail	dúhmē	77	NA
+927	coat11	tree	utun	78	NA
+928	coat11	herb	chóhō	79	NA
+929	coat11	grass	ite	80	NA
+930	coat11	thorn	íñū	84	NA
+931	coat11	corn	nuni	85	NA
+932	coat11	cornfield	itú	86	NA
+933	coat11	dough, paste	uhshen	89	NA
+934	coat11	tortilla	ita	90	NA
+935	coat11	bean	ndutsi	94	NA
+936	coat11	chili pepper	shaha	96	NA
+937	coat11	salt	ñɨɨ	97	NA
+938	coat11	lard	dēhén	102	NA
+939	coat11	egg	ndɨvi	103	NA
+940	coat11	avocado	tɨ̄tsín	106	NA
+941	coat11	banana	ndika	107	NA
+942	coat11	mamey	ndika kwēhé	109	compound: ‘banana red’
+943	coat11	meat	kúñū	112	NA
+944	coat11	fire	ñúhū	116	NA
+945	coat11	charcoal	túūn	118	NA
+946	coat11	smoke	uhme	119	NA
+947	coat11	box	etun	124	NA
+948	coat11	thread	shuhve	125	NA
+949	coat11	soap	nama	130	NA
+950	coat11	moon	shóō	132	NA
+951	coat11	water	ndute	135	NA
+952	coat11	rain (precipitation)	dávī	136	NA
+953	coat11	mountain	shuku	139	NA
+954	coat11	stone, rock	shúū	141	NA
+955	coat11	metal, machete, bell	kāá	143	NA
+956	coat11	paper	tutú	144	NA
+957	coat11	lime (material)	kaka	145	NA
+958	coat11	beeswax, wax	shúmē	146	NA
+959	coat11	mud	ndōhshó	147	NA
+960	coat11	red	kwēhé	150	NA
+961	coat11	black	tūún	153	NA
+962	coat11	white	kwīshín	154	NA
+963	coat11	one	uun	155	NA
+964	coat11	one	ɨɨn	155	following ‘ten’
+965	coat11	two	úvī	156	NA
+966	coat11	three	únī	157	NA
+967	coat11	four	kɨ́mī	158	NA
+968	coat11	five	úhūn	159	NA
+969	coat11	six	íñū	160	NA
+970	coat11	seven	úhshē	161	NA
+971	coat11	eight	únā	162	NA
+972	coat11	nine	ɨ̄ɨ̄n	163	NA
+973	coat11	ten	úhshī	164	NA
+974	coat11	fifteen	shéhūn	165	NA
+975	coat11	twenty	ókō	166	NA
+976	coat11	poor	ndāhví	167	NA
+978	coat11	cold	vishín	169	NA
+979	coat11	hot	ihni	170	NA
+980	coat11	big.SG	kahnu	171	NA
+981	coat11	big.PL	nahnu	172	NA
+982	coat11	small.SG	lúhndī	173	NA
+983	coat11	small.PL	kwetsī	174	NA
+984	coat11	long.SG	kani	175	NA
+985	coat11	long.PL	nani	176	NA
+986	coat11	good	vāhá	177	NA
+987	coat11	lazy, bothersome	duhshēn	184	NA
+988	coat11	ugly	kini	185	NA
+989	coat11	near	etsin	187	NA
+990	coat11	far	ikā	188	NA
+991	coat11	heavy	vií	189	NA
+992	coat11	smooth	ndɨɨ́	191	only as part of ndu-ndɨɨ́ ‘to become smooth, get ironed’
+993	coat11	yesterday	iku	193	NA
+994	coat11	year	kwíā	194	NA
+995	coat11	now, today	ve	195	NA
+996	coat11	night time	nīñū	197	NA
+997	coat11	day	ndúvi	198	NA
+998	coat11	day time	ndúvi	199	NA
+999	coat11	half, middle	dava	200	NA
+1000	coat11	money	dyuhun	201	NA
+1001	coat11	work	tsiñu	202	NA
+1002	coat11	word	túhūn	203	NA
+1003	coat11	fault, blame, sin	kwétsi	204	NA
+1004	coat11	when	amá	206	NA
+1287	conc11	mother	chākū	1	NA
+1288	conc11	mother!, mom!	nána	2	NA
+1289	conc11	father	chīdā	3	NA
+1290	conc11	father!, dad!	táta	4	NA
+1291	conc11	son/daughter, child	dāyā	5	NA
+1292	conc11	brother of man	dhīn	9	only as dhīn-u ‘brother-my’
+1293	conc11	aunt	dūdé	11	NA
+1294	conc11	man	sāhan	11	not sure about the tone, since the word never appears in isolation; with emphasis it seems to be sáhan
+1295	conc11	woman	tāhan	12	NA
+1296	conc11	woman	nthātā	12	I don’t know if there’s a difference between the two terms
+1297	conc11	bone	īní	16	NA
+1298	conc11	hair, head	tīin	17	NA
+1299	conc11	face	nā	18	NA
+1300	conc11	tooth	dīyhūn	20	NA
+1301	conc11	hand	tāhá	25	NA
+1302	conc11	stomach	chētē	28	NA
+1303	conc11	foot	kāhā	30	NA
+1304	conc11	medicine	xiku	32	NA
+1305	conc11	cloth, clothes	tīnó	37	NA
+1306	conc11	town	vakyan	41	NA
+1307	conc11	house	váha	42	NA
+1308	conc11	road	yúní	43	NA
+1309	conc11	animal	ītī	48	NA
+1310	conc11	snake	kú	51	NA
+1311	conc11	deer	yhūdú chēenu	59	horse mountain; although I suspect the first part meant deer earlier
+1312	conc11	skunk	hīímha	61	NA
+1313	conc11	(o)possum	īyāáta	62	NA
+1314	conc11	rabbit	kōnẽxó	64	loan
+1315	conc11	chicken	tūhū	69	NA
+1316	conc11	pig	kūchí	70	NA
+1317	conc11	horse	yhūdú	71	not sure about tones
+1318	conc11	tree	yāhān	78	NA
+1319	conc11	flower	nāanta	81	NA
+1320	conc11	corn	nínú	85	NA
+1321	conc11	tortilla	yūuntu	90	NA
+1322	conc11	salt	xīima	97	NA
+1323	conc11	egg	dūtúhú	103	NA
+1324	conc11	meat	yūta	112	NA
+1325	conc11	smoke	yhāmhī	119	NA
+1326	conc11	plate	kūhū	121	NA
+1327	conc11	rope	hīiyu	127	NA
+1328	conc11	hole	xīvā	128	NA
+1329	conc11	moon	īyu	132	NA
+1330	conc11	water	nūnī	135	NA
+1331	conc11	river	xīkū	137	NA
+1332	conc11	mountain	chēeno	139	NA
+1333	conc11	mud	yinchetée	147	NA
+1334	conc11	red	kwáha	150	NA
+1335	conc11	one	āmā	155	NA
+1336	conc11	two	uvi	156	NA
+1337	conc11	three	inu	157	NA
+1338	conc11	four	kun	158	NA
+1339	conc11	five	xūhūn	159	NA
+1340	conc11	six	xan	160	NA
+1341	conc11	seven	ntacha	161	NA
+1342	conc11	eight	nīnī	162	NA
+1343	conc11	nine	nū	163	NA
+1344	conc11	ten	ntīchī	164	NA
+1345	conc11	fifteen	ntīthíyūn	165	NA
+1346	conc11	twenty	ntīkū	166	NA
+1347	conc11	big.SG	chhātā	171	NA
+1348	conc11	big.PL	hātā	172	NA
+1349	conc11	small.SG	lhín	173	NA
+1350	conc11	small.PL	hāyáa	174	NA
+1351	conc11	long.SG	chhenu	175	NA
+1352	conc11	long.PL	henu	176	NA
+1353	conc11	good	nthāī	177	NA
+1354	conc11	lazy	dāanthi	184	NA
+1355	conc11	near	nīnū	187	NA
+1356	conc11	far	yāhān	188	NA
+1357	conc11	yesterday	ikū	193	NA
+1358	conc11	year	ntūyu	194	NA
+1359	conc11	now	mā	195	NA
+1360	conc11	day	xūvī	198	NA
+1361	conc11	when	tikwáhān	206	NA
+1489	copa11	mother	nii3	1	NA
+1490	copa11	mother!, mom!	'na3nii3	2	NA
+1491	copa11	father	rex3	3	NA
+1492	copa11	father!, dad!	'a3tax1	4	Sp. tata
+1493	copa11	son/daughter, child	tahnii5	5	NA
+1494	copa11	cross-sex sibling	rahwix32	8	only translated as ‘brother of female’
+1495	copa11	brother of man	tinuu5	9	NA
+1496	copa11	sister of woman	shuhwix32	10	NA
+1497	copa11	aunt	tuhwe3	11	NA
+1498	copa11	uncle	tahnuh3	12	NA
+1499	copa11	man	chii3	13	NA
+1500	copa11	woman	sha3na1	14	NA
+1501	copa11	priest	shrex3	16	NA
+1502	copa11	blood	ton32	17	NA
+1503	copa11	bone	kuu5	18	NA
+1504	copa11	face	riaan32	20	NA
+1505	copa11	tongue	yaa32	21	NA
+1506	copa11	mouth	tuhwa3	23	NA
+1507	copa11	ear	shree5	24	NA
+1508	copa11	nose	takuun5	25	NA
+1509	copa11	neck	shia4	26	NA
+1510	copa11	hand	raha3	27	NA
+1511	copa11	back	shraa5	29	NA
+1512	copa11	stomach	rke3	30	NA
+1513	copa11	foot	takoo5	32	NA
+1514	copa11	feet	shehe4	32	NA
+1515	copa11	sickness	shihii31	33	NA
+1516	copa11	remedy	konoho4	34	NA
+1517	copa11	clothing	sa3ganh1	39	NA
+1518	copa11	clothing, garment	yatsex5	39	NA
+1519	copa11	clothing, garment	yatsix5	39	NA
+1520	copa11	sandal, sandals	kanx3	40	NA
+1521	copa11	tunic	rohno4	42	NA
+1522	copa11	town	shumanh3	43	NA
+1523	copa11	house	weh3	44	NA
+1524	copa11	trail	chrex32	45	NA
+1525	copa11	animal	shkuu3	50	NA
+1526	copa11	bird	shtax32	51	probably a compound with wax32 ‘move’, see fish
+1527	copa11	fish	shkw-ax32	52	animal-move, with wax32 ‘move’
+1528	copa11	snake	shkw-aa5	53	animal-root, with yaa5 ‘root’
+1529	copa11	frog	ri3kix13	54	NA
+1530	copa11	nighthawk	kuwix5	55	NA
+1531	copa11	bumblebee	shongo4	59	NA
+1532	copa11	mouse, rat	sh-tuu32	60	animal-stealing, with ituu32 ‘stealing’
+1533	copa11	deer	shtax3	61	NA
+1534	copa11	(o)possum	neko4	64	NA
+1535	copa11	raccoon	kahux3	65	NA
+1536	copa11	rabbit	tuku3ya32	66	NA
+1537	copa11	dog	shu-wee3	68	animal-?
+1538	copa11	rooster	tohloo3	70	NA
+1539	copa11	hen, chicken	shuchee32	71	NA
+1540	copa11	horse	kwa3yo4	73	Sp. caballo
+1541	copa11	sheep	matsinx32	74	NA
+1542	copa11	ant	shkw-aa3	75	animal-?
+1543	copa11	tail	tuneh4	79	not sure about basic tone, also appears as tuneh3
+1544	copa11	tree, wood, pole	chruun3	80	NA
+1545	copa11	flower	yax32	83	NA
+1546	copa11	root	yaa5	85	NA
+1547	copa11	thorn	tanx32	86	NA
+1548	copa11	corn	hnuu5	87	NA
+1549	copa11	cornfield	naa31	88	NA
+1550	copa11	ear of corn	tanh3	89	NA
+1551	copa11	tortilla	chraa3	92	NA
+1552	copa11	bean	rnee32	96	NA
+1553	copa11	chili pepper	yahax3	98	NA
+1554	copa11	salt	yaan32	99	NA
+1555	copa11	honey	katsih3	103	NA
+1556	copa11	egg, fruit	chrux3	105	NA
+1557	copa11	tuber	yume32	107	NA
+1558	copa11	banana	nato32	109	NA
+1559	copa11	custard apple	rkoo32	112	NA
+1560	copa11	meat, flesh	nee31	114	NA
+1561	copa11	(clay) pot	shrux3	116	NA
+1562	copa11	oven, box	chruun5	117	NA
+1563	copa11	fire	yahan32	118	NA
+1564	copa11	ash	yax3	119	NA
+1565	copa11	charcoal	ruhwih3	120	NA
+1566	copa11	smoke	katseh3	121	NA
+1567	copa11	gourd	yachruh3	124	NA
+1568	copa11	palm basket	yoo4	125	NA
+1569	copa11	box, oven	chruun5	126	same as oven, see 117
+1570	copa11	thread	yuhwex32	127	NA
+1571	copa11	rope	neh3	129	NA
+1572	copa11	net bag	nanx3	131	NA
+1573	copa11	soap	yumih3	132	NA
+1574	copa11	moon	yawii3	134	NA
+1575	copa11	water	na32	137	NA
+1576	copa11	rain (precipitation)	maan31	138	NA
+1577	copa11	river	chraa5	139	NA
+1578	copa11	mountain	kix32	141	NA
+1579	copa11	plain	taa3	142	NA
+1580	copa11	rock, cliff	yuwex32	143	NA
+1581	copa11	cotton	kachix32	144	NA
+1582	copa11	metal	agah3	145	NA
+1583	copa11	paper	yanx3	146	NA
+1584	copa11	wax	yanx5	148	NA
+1585	copa11	mud	sigih3	149	NA
+1586	copa11	red	maree13	152	NA
+1587	copa11	green	maree31	153	NA
+1588	copa11	yellow	mii5	154	NA
+1589	copa11	black	maruu31	155	NA
+1590	copa11	white	katsii1	156	NA
+1591	copa11	one	yoho2	157	NA
+1592	copa11	one	ho2	157	NA
+1593	copa11	two	wix1	158	NA
+1594	copa11	three	wahnux1	159	NA
+1595	copa11	four	kahanx13	160	NA
+1596	copa11	five	uhunh1	161	NA
+1597	copa11	five	hunh1	161	NA
+1598	copa11	six	watanh1	162	NA
+1599	copa11	seven	ichix2	163	NA
+1600	copa11	seven	chix2	163	NA
+1601	copa11	eight	itunx2	164	NA
+1602	copa11	eight	tunx2	164	NA
+1603	copa11	nine	uun2	165	NA
+1604	copa11	ten	ichih2	166	NA
+1605	copa11	ten	chih2	166	NA
+1606	copa11	fifteen	shnuh2	167	NA
+1607	copa11	twenty	iko2	168	NA
+1608	copa11	twenty	ko2	168	NA
+1609	copa11	poor	nike13	169	NA
+1610	copa11	rich person	ruhwee32	170	I think this a tone-derived form of the stative verb
+1611	copa11	hot	yahaan13	172	NA
+1612	copa11	big	shix1	173	not marked for number
+1613	copa11	big	kahaan1	173	don’t know what the difference is to the other one
+1614	copa11	small.SG	nii3	175	not marked for number
+1615	copa11	good	zah1	179	NA
+1616	copa11	sweet	tsih1	180	NA
+1617	copa11	bitter	eh1	182	NA
+1618	copa11	tasty, pleasing	shianh1	183	NA
+1619	copa11	wide	kashrah1	184	NA
+1620	copa11	new	naka1	185	NA
+1621	copa11	lazy person	rmii31	186	could also be a tone-derived form from the stative verb
+1622	copa11	ugly, bad	nix32	187	NA
+1623	copa11	near	nichrunh1	189	NA
+1624	copa11	far	ganh1	190	NA
+1625	copa11	heavy	hee1	191	NA
+1626	copa11	smooth	nuhwe13	193	NA
+1627	copa11	yesterday	kii3	195	NA
+1628	copa11	year	yoh3	196	NA
+1629	copa11	now, today	yax13	197	NA
+1630	copa11	night	nii31	198	NA
+1631	copa11	day	gwii3	200	NA
+1632	copa11	half, side, part	yanex1	202	NA
+1633	copa11	money	sahanx32	203	NA
+1634	copa11	work	zuun32	204	NA
+1635	copa11	word	na3na1	205	NA
+1636	copa11	blame	kakunh3	206	NA
+1139	diux11	mother	ðɨ́hî	1	NA
+1140	diux11	mother!, mom!	nána	2	NA
+1141	diux11	father	taā	3	NA
+1142	diux11	father!, dad!	táta	4	NA
+1143	diux11	son/daughter, child	ðichí	5	NA
+1144	diux11	son/daughter, child	ðahyá	6	NA
+1145	diux11	brother of man	ñá’ní	10	NA
+1146	diux11	sister of woman	kú’hú	11	NA
+1147	diux11	aunt	ðíðî	12	NA
+1148	diux11	uncle	ðítô	10	NA
+1149	diux11	man	té-yɨ̄ɨ	11	NA
+1150	diux11	woman	ña-ðíhî	12	NA
+1151	diux11	owner, boss	shtóho	13	NA
+1152	diux11	priest	ðutú	14	NA
+1153	diux11	blood	ñí’ñí	15	tones are not basic form, only appears in one example
+1154	diux11	hair	íðí	17	NA
+1155	diux11	face	nūú	18	NA
+1156	diux11	mouth	yūhu	21	NA
+1157	diux11	ear	ðóho	22	NA
+1158	diux11	nose	ðínhni	23	NA
+1159	diux11	hand	ndāha	25	not sure about basic tones
+1160	diux11	fingernail	tnɨ́ñɨ	26	only as part of tɨ-tnɨ́ñɨ ‘mouse’
+1161	diux11	back	yátâ	27	NA
+1162	diux11	stomach	shiti	28	NA
+1163	diux11	foot	shéhê	30	NA
+1164	diux11	illness, sickness	kwehe	31	not sure about tones
+1165	diux11	medicine	tátná	32	not sure about tones
+1166	diux11	cloth, clothes, clothing	ðanhma	37	NA
+1167	diux11	sandal, sandals	ndíshâ	38	NA
+1168	diux11	pants	shá’tú	39	not basic tones
+1169	diux11	blouse	ðún’hnú	40	not basic tones
+1170	diux11	town	ñûû	41	NA
+1171	diux11	house	vēhe	42	NA
+1172	diux11	road	īchi	43	NA
+1173	diux11	mat, sleeping mat, straw mat	yúú	45	not basic tones
+1174	diux11	chair	siyá	47	Sp. silla
+1175	diux11	animal	kɨ̄tɨ	48	NA
+1176	diux11	bird	chiliðáá	49	not basic tones; looks like a compound
+1177	diux11	fish	chāka	50	not basic tones probably
+1178	diux11	snake	kó’ó	51	not basic tones probably
+1179	diux11	bee	tndáka	57	don’t know what the difference is to the other one
+1180	diux11	bee	ñú’ñú	57	don’t know what the difference is to the other one
+1181	diux11	mouse	tɨ-tnɨ́ñɨ	58	animal-fingernail
+1182	diux11	deer	í’ðú	59	NA
+1183	diux11	rabbit	konexó	64	Sp. conejo
+1184	diux11	turkey vulture	chó’kó	65	not basic tones
+1185	diux11	dog	í’ná	66	NA
+1186	diux11	dog	ti-hînâ	66	animal-dog; not sure what the difference is to the other one
+1187	diux11	cat	vílu	67	NA
+1188	diux11	rooster	lihí	68	NA
+1189	diux11	chicken	chūún	69	NA
+1190	diux11	sheep	t-káchi	72	animal-cotton
+1191	diux11	tail	ðú’hán	77	not basic tones
+1192	diux11	tree	yūtnu	78	basic tones
+1193	diux11	flower	ita	81	NA
+1194	diux11	maguey, century plant	yáú	82	NA
+1195	diux11	root	yoho	83	NA
+1196	diux11	thorn	íñú	84	not basic tones
+1197	diux11	corn	núnî	85	NA
+1198	diux11	cornfield	ítû	86	NA
+1199	diux11	ear of corn	ñɨ́ñɨ́	87	NA
+1200	diux11	corn dough, tortilla dough	yūsha	89	NA
+1201	diux11	tortilla	ðítâ	90	NA
+1202	diux11	legume	nduchi	94	NA
+1203	diux11	green bean	ndí’chí	95	not basic tones
+1204	diux11	chili pepper	yáhá	96	NA
+1205	diux11	salt	ñɨ́’ɨ́	97	not basic tones
+1206	diux11	lard, grease	ðé’hén	102	not basic tones
+1207	diux11	egg	ndɨu	103	NA
+1208	diux11	tomato	t-nána	104	spherical-?
+1209	diux11	avocado	tɨ́chɨ	106	only in tnu-tɨ́chɨ ‘avocado tree’
+1210	diux11	banana	kwí’hí	107	not basic tones
+1211	diux11	prickly pear cactus	víhndê	108	NA
+1212	diux11	meat	kú’ñú	112	not basic tones
+1213	diux11	pot	kɨ́ðɨ̂	114	NA
+1214	diux11	fire	ñúhû	116	NA
+1215	diux11	garbage, trash	mí’hí	120	NA
+1216	diux11	plate	kóhô	121	not basic tones
+1217	diux11	basket	yɨ̄ka	123	NA
+1218	diux11	box, trunk	shá’tnú	124	not basic tones
+1219	diux11	rope	yóhó	127	NA
+1220	diux11	hole	yɨ́hɨ	128	only in compound yu-yau-yɨ́hɨ mouth-hole-tiger ‘edge of the tiger’s hole’
+1221	diux11	net, net bag	ñúnú	129	NA
+1222	diux11	soap	ná’má	130	NA
+1223	diux11	moon	yôô	132	NA
+1224	diux11	cloud	víkô	133	NA
+1225	diux11	water	ndūte	135	NA
+1226	diux11	rain (precipitation)	ðá’ú	136	NA
+1227	diux11	river	yūte	137	NA
+1228	diux11	mountain	yūku	139	NA
+1229	diux11	stone, rock	yûû	141	NA
+1230	diux11	cotton	káchi	142	only as part of t-káchi ‘sheep’
+1231	diux11	metal	kaa	143	NA
+1232	diux11	paper	tūtû	144	NA
+1233	diux11	wax	ñú’á	146	NA
+1234	diux11	mud	ndehyû	147	NA
+1236	diux11	red	kwéhe	150	not basic tones
+1237	diux11	green	kwīī	151	not basic tones
+1238	diux11	yellow	kwāan	152	not basic tones
+1239	diux11	black	tnúū	153	NA
+1240	diux11	white	kwishí	154	NA
+1241	diux11	one	ɨ̄ɨ̄n	155	basic tones
+1242	diux11	two	úû	156	basic tones
+1243	diux11	three	únî	157	basic tones
+1244	diux11	four	kóôn	158	basic tones
+1245	diux11	five	óhôn	159	basic tones
+1246	diux11	six	íñû	160	basic tones
+1247	diux11	seven	úshâ	161	basic tones
+1248	diux11	eight	únâ	162	basic tones
+1249	diux11	nine	ɨ́ɨ̂n	163	basic tones
+1250	diux11	ten	úshî	164	basic tones
+1251	diux11	fifteen	shánhûn	165	basic tones
+1252	diux11	twenty	ókô	166	basic tones
+1253	diux11	poor	ndahú	167	NA
+1254	diux11	cold	víshî	169	NA
+1255	diux11	hot	ínhní	170	not basic tones
+1256	diux11	big.SG	kánhnu	171	basic tones
+1257	diux11	big.PL	nánhnu	172	basic tones
+1258	diux11	small.SG	luchī	173	basic tones
+1259	diux11	small.PL	kwechī	174	basic tones
+1260	diux11	long.SG	kaní	175	basic tones
+1261	diux11	long.PL	naní	176	basic tones
+1262	diux11	good	váhâ	177	NA
+1263	diux11	sweet	víðî	178	NA
+1264	diux11	tasty, delicious	aðɨ̄	181	not basic tones
+1265	diux11	wide	nunu	182	basic tones
+1266	diux11	lazy	kúðí	184	not basic tones
+1267	diux11	ugly	kwihá	185	NA
+1268	diux11	jealous	kwiñā	186	NA
+1269	diux11	near	yátní	187	NA
+1270	diux11	far	shíká	188	NA
+1271	diux11	heavy	vēé	189	not basic tones
+1272	diux11	slow	kweē	192	NA
+1273	diux11	yesterday	íkú	193	NA
+1274	diux11	year	kwi’á	194	NA
+1275	diux11	now, today	vítna	195	NA
+1276	diux11	night, blind	kwaá	196	the gloss is ‘blind’, but in the free translation ‘night’ in all examples
+1277	diux11	night time, at night	niu	197	NA
+1278	diux11	day	kɨ̄ú	198	NA
+1279	diux11	day time	ndúú	199	NA
+1280	diux11	half, middle	ðáva	200	NA
+1281	diux11	money	tviní	201	from Old Sp. tomín
+1282	diux11	work	tniū	202	NA
+1283	diux11	word	tnúhû	203	NA
+1284	diux11	fault, sin	kwéchí	204	not basic tones
+1285	diux11	when	ná	206	not sure if this used as a question too
+1286	diux11	song, music	yáa	207	only as part of tnu-yáa wood-music ‘oak’
+375	jami11	mother	sɨhɨ	1	NA
+376	jami11	father	sutu	3	NA
+377	jami11	son/daughter, child	sēhe	5	NA
+378	jami11	brother of man	yan̄i	9	NA
+379	jami11	sister of woman	kuhu	10	NA
+380	jami11	aunt	chishi	11	NA
+381	jami11	uncle	shító	12	NA
+382	jami11	man	ra-yɨɨ	11	NA
+383	jami11	woman	ñāhā	12	NA
+384	jami11	owner, boss	chi-toho	13	NA
+385	jami11	priest	sutu	14	NA
+386	jami11	blood	nɨñɨ	15	NA
+387	jami11	hair	īshī	17	NA
+388	jami11	face	nuu	18	NA
+389	jami11	mouth	yūhū	21	NA
+390	jami11	nose	shityin	23	NA
+391	jami11	hand	ndāhā	25	NA
+392	jami11	back	chata	27	NA
+393	jami11	stomach	chīchi	28	NA
+394	jami11	foot	chaha	30	NA
+395	jami11	disease, illness, sickness	kwehe	31	NA
+396	jami11	medicine	tatan	32	NA
+397	jami11	cloth	sāhmā	37	NA
+398	jami11	town	ñuu	41	NA
+399	jami11	house	vēhē	42	NA
+400	jami11	road, trail	ītyī	43	NA
+401	jami11	chair	tyayu	47	NA
+402	jami11	animal	kɨ̄tɨ̄	48	NA
+403	jami11	fish	tī-yaka	50	NA
+404	jami11	hawk	tású	53	NA
+405	jami11	scorpion	tī-suhma	54	NA
+406	jami11	deer	isu	59	NA
+407	jami11	opossum	tɨ̄-maha	62	NA
+408	jami11	rabbit	kūñēshú	64	Sp. conejo
+409	jami11	dog	ina	66	NA
+410	jami11	cat	chúmī	67	NA
+411	jami11	rooster	lóhó	68	NA
+412	jami11	ant	tɨ̄-yoko	73	NA
+413	jami11	horn (anatomy)	ndīkī	74	NA
+414	jami11	feather	tūmi	75	NA
+415	jami11	tail	suhma	77	NA
+416	jami11	tree	yūtūn	78	NA
+417	jami11	maguey, century plant	yāvī	82	NA
+418	jami11	grain of corn	nuñi	85	NA
+419	jami11	cornfield	itu	86	NA
+420	jami11	cornmeal, corn dough	yūchān	89	NA
+421	jami11	tortilla	shita	90	NA
+422	jami11	row	yukun	92	NA
+423	jami11	bean	ndutyi	94	NA
+424	jami11	chili pepper	yāhā	96	NA
+425	jami11	salt	ñɨ̄ɨ̄	97	NA
+426	jami11	tomato	tɨ̄-nana	104	NA
+427	jami11	sweet potato	ñahmi	105	NA
+428	jami11	avocado	tītyī	106	NA
+429	jami11	banana	ndyītyā	107	only listed as part of tūndyītyā ‘banana plant’
+430	jami11	custard apple	ndōkō	110	only listed as part of tūndōkō ‘custard apple tree’
+431	jami11	fire	ñuhu	116	NA
+432	jami11	charcoal	toon	118	NA
+433	jami11	smoke	ñuhma	119	NA
+434	jami11	basket	tīkā	123	NA
+435	jami11	thread	yuhya	125	NA
+436	jami11	rope	yōhō	127	NA
+437	jami11	soap	nama	130	NA
+438	jami11	moon	yoo	132	NA
+439	jami11	water	ndūtyā	135	NA
+440	jami11	rain (precipitation)	savi	136	NA
+441	jami11	river	yūtya	137	NA
+442	jami11	mountain, hill	yūkū	139	NA
+443	jami11	plain, lowland	nduhva	140	NA
+444	jami11	rock	yuu	141	NA
+445	jami11	metal	kāa	143	NA
+446	jami11	paper	tutu	144	NA
+447	jami11	wax	ñuma	146	NA
+448	jami11	mud	ndyahyu	147	NA
+449	jami11	black	tōōn	153	NA
+450	jami11	white	kwīchín	154	NA
+451	jami11	one	ɨ̄ɨ̄n	155	also nóō from Spanish uno
+452	jami11	two	uvi	156	NA
+453	jami11	three	uñi	157	NA
+454	jami11	four	kumi	158	NA
+455	jami11	five	ohon	159	NA
+456	jami11	six	iñu	160	NA
+457	jami11	seven	ucha	161	NA
+458	jami11	eight	un̄a	162	NA
+459	jami11	nine	ɨɨn	163	NA
+460	jami11	ten	uchi	164	NA
+461	jami11	fifteen	chahun	165	NA
+462	jami11	twenty	oko	166	NA
+463	jami11	poor	ndāhví	167	NA
+464	jami11	rich	tyāyɨ̄ɨ̄	168	NA
+465	jami11	hot	īhñí	170	NA
+466	jami11	big.SG	kāhnú	171	NA
+467	jami11	big.PL	nāhnú	172	NA
+468	jami11	small.SG	lúhlū	173	NA
+469	jami11	small.PL	ndyihi	174	NA
+470	jami11	small.PL	kwātyi	174	NA
+471	jami11	small.PL	kwatyaa	174	NA
+472	jami11	long.SG	kāñí	175	NA
+473	jami11	long.PL	nāñí	176	NA
+474	jami11	good	vāha	177	NA
+475	jami11	sweet	vishi	178	NA
+476	jami11	delicious	asɨn	181	NA
+477	jami11	lazy	sūchān	184	NA
+478	jami11	ugly	kīñī	185	NA
+479	jami11	slow	kwēē	192	NA
+480	jami11	yesterday	íkú	193	NA
+481	jami11	year	kwiya	194	NA
+482	jami11	now, today	vītyīn	195	NA
+483	jami11	night	n̄ūú	196	NA
+484	jami11	night time	ñīyākā	197	NA
+485	jami11	day	kɨvɨ	198	NA
+486	jami11	day	kɨ	198	NA
+487	jami11	all day	ndī-yāká	199	compound from ndɨ̄hɨ̄ ‘all’
+488	jami11	half, middle	sāvā	200	NA
+489	jami11	money	shuhun	201	NA
+490	jami11	work	tyīñō	202	NA
+491	jami11	word	tūhun	203	NA
+492	jami11	fault, sin	kwātyi	204	NA
+493	jami11	when	ámá	206	NA
+494	jami11	song	yaa	207	NA
+495	ocot11	mother	nāná	1	NA
+496	ocot11	mother!, mom!	nāná	2	NA
+497	ocot11	father	tātá	3	NA
+498	ocot11	son/daughter, child	sehē	5	NA
+499	ocot11	daughter	sehē síhi	7	child female
+500	ocot11	cross-sex sibling	kwahā	8	NA
+501	ocot11	brother of man	ñāni	9	NA
+502	ocot11	sister of woman	kuhu	10	NA
+503	ocot11	aunt	shīshi	11	NA
+504	ocot11	uncle	shīto	12	NA
+505	ocot11	man	tēe	13	NA
+506	ocot11	woman	ñāhān	14	NA
+507	ocot11	owner	xe-tōho	15	NA
+508	ocot11	priest	sutu	16	NA
+509	ocot11	hair	īshī	19	NA
+510	ocot11	face	nuu	20	NA
+511	ocot11	mouth	yūhú	23	NA
+512	ocot11	ear	shitin	24	NA
+513	ocot11	neck	sukun	26	NA
+514	ocot11	hand	ndāha	27	NA
+515	ocot11	back	yata	29	NA
+516	ocot11	stomach	chixīn	30	NA
+517	ocot11	foot	xehe	32	NA
+518	ocot11	sickness	kwehe	33	NA
+519	ocot11	medicine	tatan	34	NA
+520	ocot11	cloth	sāhmā	39	NA
+521	ocot11	sandal, sandals	nixan	40	NA
+522	ocot11	village, town	ñūu	43	NA
+523	ocot11	house	vēhē	44	NA
+524	ocot11	path	īchī	45	NA
+525	ocot11	animal	kītī	50	NA
+526	ocot11	bird	sāa	51	NA
+527	ocot11	fish	t-yaká	52	NA
+528	ocot11	scorpion	ti-sūhma	56	NA
+529	ocot11	mouse	tí:n̄í	60	NA
+530	ocot11	rabbit	lēxō	66	NA
+531	ocot11	dog	tīna	68	NA
+532	ocot11	cat	chílū	69	NA
+533	ocot11	hen	n̄īhín	71	NA
+534	ocot11	horse	kwáyu	73	NA
+535	ocot11	sheep	ti-kachí	74	NA
+536	ocot11	tail	suhma	79	NA
+537	ocot11	tree	n̄ūtūn	80	NA
+538	ocot11	grass	īte	82	NA
+539	ocot11	flower	īta	83	NA
+540	ocot11	grain of corn	nuni	87	NA
+541	ocot11	cornfield	ītu	88	NA
+542	ocot11	fresh ear of corn	ndīshī	89	NA
+543	ocot11	tortilla	staa	92	NA
+544	ocot11	bean	ndūchī	96	NA
+545	ocot11	chili pepper	yāhā	98	NA
+546	ocot11	salt	ñii	99	NA
+547	ocot11	lard	shehēn	104	NA
+548	ocot11	egg	ndivi	105	NA
+549	ocot11	tomato	ti-nāna	106	NA
+550	ocot11	avocado	tichí	108	NA
+551	ocot11	banana	ndīkā	109	NA
+552	ocot11	custard apple	ndōkō	112	NA
+553	ocot11	meat	kuñū	114	NA
+554	ocot11	cooking pot	kisī	116	NA
+555	ocot11	fire	ñúhun	118	NA
+556	ocot11	charcoal	ti-kayī	120	NA
+557	ocot11	gourd bowl	n̄āxīn	124	NA
+558	ocot11	basket	ndoho	125	NA
+559	ocot11	rope	yōhō	129	NA
+560	ocot11	net bag	ñūnū	131	NA
+561	ocot11	moon	yoo	134	NA
+562	ocot11	cloud	viko	135	NA
+563	ocot11	water	ndūtē	137	NA
+564	ocot11	rain (precipitation)	sávi	138	NA
+565	ocot11	river	yutē	139	NA
+566	ocot11	mountain	yūkū	141	NA
+567	ocot11	cotton	kachi	144	NA
+568	ocot11	metal	kaā	145	NA
+569	ocot11	paper	tūtu	146	NA
+570	ocot11	wax	ñuma	148	NA
+571	ocot11	mud	ndehyu	149	NA
+572	ocot11	red	kwáhá	152	NA
+573	ocot11	black	tūún	155	only as part of a verb kū-tūún
+574	ocot11	one	īīn	157	NA
+575	ocot11	two	uu	158	NA
+576	ocot11	three	uni	159	NA
+577	ocot11	four	kumi	160	NA
+578	ocot11	five	uhun	161	NA
+579	ocot11	six	iñu	162	NA
+580	ocot11	seven	uxa	163	NA
+581	ocot11	eight	una	164	NA
+582	ocot11	nine	iin	165	NA
+583	ocot11	ten	ushi	166	NA
+584	ocot11	fifteen	shahun	167	NA
+585	ocot11	twenty	oko	168	NA
+586	ocot11	poor	ndahví	169	NA
+587	ocot11	rich	kwiká	170	NA
+588	ocot11	hot	īhní	172	NA
+589	ocot11	big.SG	káhnú	173	NA
+590	ocot11	big.PL	náhnú	174	NA
+591	ocot11	little	lūlí	175	NA
+592	ocot11	long.SG	kání	177	NA
+593	ocot11	long.PL	nání	178	NA
+594	ocot11	good	vahā	179	NA
+595	ocot11	sweet	vishi	180	NA
+596	ocot11	delicious	āsin	183	NA
+597	ocot11	lazy	kúshí	186	only as part of kū-kúshí ‘be lazy’
+598	ocot11	near	ñātīn	189	NA
+599	ocot11	far	xíká	190	NA
+600	ocot11	raw	yíhí	192	NA
+601	ocot11	yesterday	īkū	195	NA
+602	ocot11	year	kwíya	196	NA
+603	ocot11	now, today	mītān	197	NA
+604	ocot11	night	xā-kwáa	198	NA
+605	ocot11	night time	ñūú	199	NA
+606	ocot11	day	kivi	200	NA
+607	ocot11	day time	ndūú	201	NA
+608	ocot11	half, middle	savá	202	NA
+609	ocot11	money	shuhún	203	only with the causative sā-tín̄ú
+610	ocot11	work	tíñú	204	NA
+611	ocot11	word	tuhūn	205	NA
+612	ocot11	sin	kwachī	206	NA
+613	ocot11	when	nāmā	208	NA
+614	prog12	mother	náná	1	NA
+615	prog12	mother!, mom!	naá	2	NA
+616	prog12	father	tátá	3	NA
+617	prog12	father!, dad!	taá	4	NA
+618	prog12	son/daughter, child	xahyī	5	NA
+619	prog12	son	xahyī taā	6	NA
+620	prog12	cross-sex sibling	kyahvā	8	NA
+621	prog12	brother of man	ñānī	9	NA
+622	prog12	sister of woman	kihvi	10	NA
+623	prog12	aunt	xixi	11	NA
+624	prog12	uncle	xito	12	NA
+625	prog12	man	taā	11	NA
+626	prog12	woman	ñáha	12	NA
+627	prog12	priest	xutu	14	NA
+628	prog12	bone	yīkí	16	NA
+629	prog12	hair	íxi	17	NA
+630	prog12	face	nuu	18	NA
+631	prog12	mouth	yúhu	21	NA
+632	prog12	ear	xohō	22	NA
+633	prog12	neck	xíkó	24	NA
+634	prog12	hand	ndāha	25	NA
+635	prog12	fingernail	chíin	26	NA
+636	prog12	back	xata	27	NA
+637	prog12	stomach	tishī	28	NA
+638	prog12	foot	saha	30	NA
+639	prog12	disease, illness, sickness	kwehe	31	NA
+640	prog12	medicine	tata	32	NA
+641	prog12	cloth	xáhma	37	NA
+642	prog12	sandal, sandals	ndusa	38	NA
+643	prog12	pants	sātī	39	NA
+644	prog12	village, town	ñūū	41	NA
+645	prog12	house	vēhē	42	NA
+646	prog12	road, trail	íchi	43	NA
+647	prog12	animal	kíti	48	NA
+648	prog12	bird	lāā	49	NA
+649	prog12	fish	ti-yāká	50	NA
+650	prog12	snake	koō	51	NA
+651	prog12	grasshopper	tikā	56	NA
+652	prog12	mouse	tiín	58	NA
+653	prog12	deer	uxu	59	NA
+654	prog12	squirrel	ndíkwání	60	NA
+655	prog12	skunk	ti-n̄ihí	61	NA
+656	prog12	rabbit	kāñāxún	64	Sp. conejo
+657	prog12	dog	tinā	66	NA
+658	prog12	cat	chító	67	NA
+659	prog12	pig	kóchí	70	NA
+660	prog12	horse	kwáyi	71	NA
+661	prog12	sheep	lānchī	72	NA
+662	prog12	sheep	ndī-kāchī	72	NA
+663	prog12	horn (anatomy)	ndiki	74	NA
+664	prog12	tail	ndóho	77	NA
+665	prog12	tree	yíto	78	NA
+666	prog12	grass	ītā	80	NA
+667	prog12	flower	ītā	81	NA
+668	prog12	grain of corn	nuni	85	NA
+669	prog12	cornfield	ūtū	86	NA
+670	prog12	tortilla dough	yúsa	89	NA
+671	prog12	tortilla	xita	90	NA
+672	prog12	bean	ndúchu	94	NA
+673	prog12	chili pepper	yáha	96	NA
+674	prog12	salt	ñii	97	NA
+675	prog12	lard	xahan	102	NA
+676	prog12	egg	ndivi	103	NA
+677	prog12	tomato	ti-nānā	104	NA
+678	prog12	avocado	tichí	106	NA
+679	prog12	banana	ndíka	107	NA
+680	prog12	cooking pot	kixī	114	NA
+681	prog12	smoke	nihma	119	NA
+682	prog12	smoke	ñihma	119	NA
+683	prog12	garbage, trash	shehe	120	NA
+684	prog12	box	sato	124	NA
+685	prog12	rope	yóho	127	NA
+686	prog12	hole	yáve	128	NA
+687	prog12	moon	yoo	132	NA
+688	prog12	water	tikwií	135	NA
+689	prog12	rain god	xavi	136	NA
+690	prog12	river	yutā	137	NA
+691	prog12	mountain	yúku	139	NA
+692	prog12	stone	yuu	141	NA
+693	prog12	cotton	kāchī	142	NA
+694	prog12	metal	kaā	143	NA
+695	prog12	paper	tūtū	144	NA
+696	prog12	wax	ñima	146	NA
+697	prog12	mud	ndahyi	147	NA
+698	prog12	red	kwáhá	150	only as part of a verb ndī-kwáhá ‘become red’
+699	prog12	green	kwíi	151	NA
+700	prog12	yellow	kwáán	152	NA
+701	prog12	white	yāā	154	NA
+702	prog12	one	īn	155	NA
+703	prog12	two	ivi	156	NA
+704	prog12	three	uni	157	NA
+705	prog12	four	komi	158	NA
+706	prog12	five	uhun	159	NA
+707	prog12	six	iñu	160	NA
+708	prog12	seven	usa	161	NA
+709	prog12	eight	una	162	NA
+710	prog12	nine	in	163	NA
+711	prog12	ten	ushu	164	NA
+712	prog12	fifteen	sahun	165	NA
+713	prog12	twenty	oko	166	NA
+714	prog12	poor	ndahví	167	NA
+715	prog12	rich	kwiká	168	NA
+716	prog12	hot	xáā	170	NA
+717	prog12	big.SG	káhnū	171	NA
+718	prog12	big.PL	náhnū	172	NA
+719	prog12	small.SG	lōhō	173	NA
+720	prog12	small.PL	válí	174	NA
+721	prog12	long.SG	kānī	175	NA
+722	prog12	long.PL	nānī	176	NA
+723	prog12	good	vahā	177	NA
+724	prog12	sweet	vixi	178	only as part of tó-vixi ‘soda pop’
+725	prog12	tasty, delicious	axyā	181	NA
+726	prog12	lazy	xúsá	184	NA
+727	prog12	ugly	kīnī	185	NA
+728	prog12	near	yātī	187	NA
+729	prog12	far	shíká	188	NA
+730	prog12	smooth	vīí	191	NA
+731	prog12	yesterday	kūnī	193	NA
+732	prog12	year	kwyaa	194	NA
+733	prog12	now, today	vītī	195	NA
+734	prog12	night	ñūú	196	NA
+735	prog12	night time	ñūú	197	NA
+736	prog12	day	ndīví	198	NA
+737	prog12	day time	ndūú	199	NA
+738	prog12	half, middle	xāvā	200	NA
+739	prog12	money	xyuhún	201	NA
+740	prog12	work	chūūn	202	NA
+741	prog12	word	tuhūn	203	NA
+742	prog12	when	ndáhmā	206	NA
+173	yolo11	madre	si'3i4	1	NA
+174	yolo11	padre	yu3ba4	3	NA
+175	yolo11	hijo/hija	se'1e3	5	NA
+176	yolo11	hermana/hermano de otro genero	ku'1ba3	8	check with Jonathan about exact meaning
+177	yolo11	hermano de hombre	ya3ni2	9	check with Jonathan about exact meaning
+178	yolo11	hermana de mujer	ku'1bi1	10	check with Jonathan about exact meaning
+179	yolo11	tía	xi3xi2	11	NA
+180	yolo11	tío	xi3to2	12	NA
+181	yolo11	hombre	ta1a3	11	NA
+182	yolo11	mujer	ña'3a4	12	NA
+183	yolo11	dueño	is1to'3o2	13	NA
+184	yolo11	sacerdote	su1tu1	14	NA
+185	yolo11	sangre	ni1i4	15	NA
+186	yolo11	hueso	i3ki4	16	NA
+187	yolo11	cabello	i3xi4	17	NA
+188	yolo11	cara	nu14u3	18	NA
+189	yolo11	lengua	ya4a24	19	NA
+190	yolo11	diente	nu'1u3	20	NA
+191	yolo11	boca	yu'3u4	21	NA
+192	yolo11	oreja	so'1o3	22	de un animal
+193	yolo11	nariz	is1tin4	23	NA
+194	yolo11	cuello	su1kun4	24	NA
+195	yolo11	mano	nda'3a4	25	NA
+196	yolo11	uña	chi4in24	26	NA
+197	yolo11	espalda	sa1ta4	27	NA
+198	yolo11	barriga	ti1xin3	28	NA
+199	yolo11	tripa, tripas	si3ti2	29	NA
+200	yolo11	pie	xa'1a4	30	NA
+201	yolo11	enfermedad	kwe'1e1	31	NA
+202	yolo11	medicina	ta1tan4	32	NA
+203	yolo11	hinchazón	kwi3ñu3	33	NA
+204	yolo11	grano pequeño	ndi'1i3	34	also: granos de la piel
+205	yolo11	grano relativamente grande	ndu1xa1	34	also: grano de la piel
+206	yolo11	pus, materia	nda3kwa4	35	NA
+207	yolo11	servilleta	sa'3ma4	37	NA
+208	yolo11	huarache	ndi1xan4	38	NA
+209	yolo11	huipil	xi1kun1	40	NA
+210	yolo11	pueblo	ñu3u2	41	NA
+211	yolo11	casa	be'3e3	42	NA
+212	yolo11	camino	i3chi4	43	NA
+213	yolo11	horcón	tu4-si'1in1	44	wood-horqueta
+214	yolo11	petate	yu3bi4	45	NA
+215	yolo11	cama	is1to3	46	NA
+216	yolo11	silla	ta3yu2	47	NA
+217	yolo11	animal	ki3ti4	48	NA
+218	yolo11	pájaro	sa3a2	49	NA
+219	yolo11	pez	tia1ka4	50	NA
+220	yolo11	serpiente	ko1o4	51	NA
+221	yolo11	rana	sa'3ba2	52	NA
+222	yolo11	gavilán	ta1su'4u4	53	NA
+223	yolo11	alacrán	ti1su'3ma2	54	NA
+224	yolo11	cucaracha	ti1te'1e4	55	NA
+225	yolo11	chapulín	ti1ka32	56	NA
+226	yolo11	abeja	ñu1ñu4	57	término general para abejas que no pican, esto es, de la tribu Meliponini
+227	yolo11	ratón, rata	ti14in3	58	NA
+228	yolo11	venado	i3su2	59	NA
+229	yolo11	ardilla	ndi3kwa4ñu3	60	NA
+230	yolo11	zorrillo	ti'1in4	61	NA
+231	yolo11	tlacuache	xa1ko32	62	NA
+232	yolo11	mapache	ti1ma'4a2	63	NA
+233	yolo11	conejo	ku3ni4jo2	64	from Sp. conejo
+234	yolo11	zopilote	pi3lo4	65	from Nahuatl tsopi:lo:tl
+235	yolo11	perro	i3na2	66	NA
+236	yolo11	gato	mis4tun2	67	domestico
+237	yolo11	gallo	ndu3xi4 che4e13	68	gallina macho
+238	yolo11	gallina	ndu3xi4	69	NA
+239	yolo11	marrano	ki3ni2	70	NA
+240	yolo11	caballo	kwa4yu2	71	NA
+241	yolo11	borrego	ndi3ka3chi3	72	NA
+242	yolo11	hormiga	tio1ko4	73	NA
+243	yolo11	cuerno	ndi3ki4	74	NA
+244	yolo11	pluma	tu1mi32	75	NA
+245	yolo11	ala	ndi1xin4	76	NA
+246	yolo11	cola	su'1ma4	77	NA
+247	yolo11	árbol	i3tun4	78	NA
+248	yolo11	sacate, pasto	i3ta2	80	same as 80
+249	yolo11	flor	i3ta2	81	same as 79
+250	yolo11	raíz	tio'1o3	83	NA
+251	yolo11	espina	i3ñu4	84	NA
+252	yolo11	maíz desgranado	nu1ni4	85	NA
+253	yolo11	milpa	i3tu2	86	NA
+254	yolo11	elote	ndi3xi4	87	NA
+255	yolo11	nixtamal	xa'4a2	88	NA
+256	yolo11	masa	yu3xan4	89	NA
+257	yolo11	tortilla	is1ta4	90	NA
+258	yolo11	rastrojo	ya1ma4	91	guamile, terreno de sembrado después de haberse levantado la cosecha quedando el puro rastrojo
+259	yolo11	surco	yu3kun2	92	NA
+260	yolo11	espiga	yo3ko4	93	NA
+261	yolo11	frijol(es)	ndu3chi4	94	NA
+262	yolo11	ejote, vaina	ndi3chi2	95	NA
+263	yolo11	chile	ya'3a4	96	NA
+264	yolo11	sal	i1in4	97	NA
+265	yolo11	calabaza	i3kin4	98	NA
+267	yolo11	caña dulce	ndo1o4	100	NA
+268	yolo11	miel	ñu1ñu4	101	NA
+269	yolo11	manteca	xa'3an2	102	NA
+270	yolo11	huevo	ndi1bi4	103	NA
+271	yolo11	tomate	ti1na3na4	104	NA
+272	yolo11	camote	ya'3mi2	105	NA
+273	yolo11	aguacate	ti14chi3	106	NA
+274	yolo11	plátano	chi3ta2	107	see also 109
+275	yolo11	nopal	mi'1nda4	108	NA
+276	yolo11	mamey, zapote	ndi3ka4	109	in other pueblos: plátano
+277	yolo11	hongo	xi'1i4	111	NA
+278	yolo11	carne	ku3ñu2	112	NA
+279	yolo11	comal	xi1yo4	113	NA
+280	yolo11	olla	ki1si3	114	NA
+281	yolo11	lumbre, fuego	ñu'3u2	116	NA
+282	yolo11	ceniza	ya1a4	117	NA
+283	yolo11	carbón	tu1un4	118	NA
+284	yolo11	humo	yu'1ma1	119	NA
+285	yolo11	basura	mi'14i4	120	NA
+286	yolo11	plato	ko'1o4	121	NA
+287	yolo11	jícara redonda	ya3xin4	122	NA
+288	yolo11	tenate	ndo'1o4	123	canastita en que se sirven las tortillas calientes
+289	yolo11	cajón	xa1tun4	124	NA
+290	yolo11	hilo	yu'1ba1	125	NA
+291	yolo11	peine	bi1ka1	126	NA
+292	yolo11	mecate	yo'3o4	127	NA
+293	yolo11	hoyo	ya3bi2	128	NA
+294	yolo11	red	yu3nu4	129	NA
+295	yolo11	jabón	na1ma4	130	NA
+296	yolo11	anillo	xe'3e4	131	NA
+297	yolo11	luna	yo1o4	132	NA
+298	yolo11	nube	bi1ko4	133	NA
+299	yolo11	rayo, relámpago	ñu'3u2 sa1bi4	134	fuego lluvia
+300	yolo11	agua	ta1kwi42	135	NA
+301	yolo11	lluvia	sa1bi4	136	NA
+302	yolo11	río	i1ta3	137	NA
+303	yolo11	rocío	yu4yu4	138	NA
+304	yolo11	cerro	yu3ku4	139	NA
+305	yolo11	llanura	i14ni3	140	NA
+306	yolo11	llano	yo3so4	140	NA
+307	yolo11	piedra	yu1u4	141	NA
+308	yolo11	algodón	ka1chi4	142	NA
+309	yolo11	metal	ka3a2	143	NA
+310	yolo11	papel	tu3tu2	144	NA
+311	yolo11	cal	ka3ka2	145	NA
+312	yolo11	cera	yu1ma4	146	NA
+313	yolo11	lodo	nda'1yu1	147	NA
+314	yolo11	espuma	ñu1ñu1	148	de jabón, de cacao
+315	yolo11	espuma	pe1le1	148	de agua etc.
+316	yolo11	polvo	yu3chi4	149	NA
+317	yolo11	rojo	kwa'4a1	150	NA
+318	yolo11	verde	kwi4i24	151	NA
+319	yolo11	amarillo	kwa4an2	152	NA
+320	yolo11	negro	nda4a4	153	NA
+321	yolo11	blanco	ya3a3	154	also: limpio
+322	yolo11	uno	i3in3	155	NA
+323	yolo11	dos	u1bi1	156	NA
+324	yolo11	tres	u1ni1	157	NA
+325	yolo11	cuatro	ku1mi4	158	NA
+326	yolo11	cinco	u'1un1	159	NA
+327	yolo11	seis	i1ñu1	160	NA
+328	yolo11	siete	u1xa1	161	NA
+329	yolo11	ocho	u1na1	162	NA
+330	yolo11	nueve	i1in1	163	NA
+331	yolo11	diez	u1xi1	164	NA
+332	yolo11	quince	xa'1un1	165	NA
+333	yolo11	veinte	o1ko1	166	NA
+334	yolo11	pobre	nda'4bi2	167	NA
+335	yolo11	rico	bi4ka3	168	NA
+336	yolo11	frío	bi1xin3	169	NA
+337	yolo11	caliente	ni'3ni4	170	NA
+338	yolo11	grande.SG	ka'4nu3	171	NA
+339	yolo11	grande.PL	na'4nu3	172	NA
+340	yolo11	pequeño.SG	lu3lu3	173	NA
+341	yolo11	pequeño.PL	ba4li4	174	NA
+342	yolo11	largo.SG	ka4ni24	175	NA
+343	yolo11	largo.PL	na4ni24	176	NA
+344	yolo11	bueno	ba'1a3	177	NA
+345	yolo11	dulce	bi1xi1	178	NA
+346	yolo11	salado	u'1ba1	179	NA
+347	yolo11	amargo	u1ba1	180	NA
+348	yolo11	sabroso	ya1sin4	181	NA
+349	yolo11	ancho	ndi4ka1	182	NA
+350	yolo11	nuevo	xa14a3	183	NA
+351	yolo11	flojo	xu4xan3	184	NA
+352	yolo11	feo	ki3ni3	185	NA
+353	yolo11	celoso	kwi4ñu2	186	NA
+354	yolo11	cerca	ya3tin3	187	NA
+355	yolo11	lejos	xi4ka3	188	NA
+356	yolo11	pesado	be1e3	189	NA
+357	yolo11	crudo	i'4i3	190	NA
+358	yolo11	liso	ndi3i4	191	NA
+359	yolo11	despacio	kwe4e2	192	NA
+360	yolo11	ayer	i3ku3	193	NA
+361	yolo11	año	kwi1ya1	194	NA
+362	yolo11	ahora	bi3tin3	195	NA
+363	yolo11	noche	ñu3u42	196	NA
+364	yolo11	de noche, toda la noche	ni3ñu2u2	197	NA
+365	yolo11	día	ki1bi4	198	NA
+366	yolo11	de día	ndu3bi4	199	NA
+367	yolo11	mitad	sa3ba3	200	NA
+368	yolo11	dinero	xu'14un4	201	NA
+369	yolo11	trabajo	chi3ñu3	202	NA
+370	yolo11	palabra	tu'1un3	203	NA
+371	yolo11	culpa	kwa1chi3	204	NA
+372	yolo11	sueño	xa13ni2	205	NA
+373	yolo11	cuándo	a3ma3	206	NA
+374	yolo11	canción	ya3a2	207	NA
+1362	yoso11	mother	nāna	1	NA
+1363	yoso11	father	tāta	3	NA
+1364	yoso11	father!, dad!	papá	4	Sp. loan
+1365	yoso11	son/daughter, child	sēhē	5	NA
+1366	yoso11	cross-sex sibling	kwāhā	8	NA
+1367	yoso11	brother of man	ñānī	9	NA
+1368	yoso11	sister of woman	kūhu	10	NA
+1369	yoso11	aunt	shīshī	11	NA
+1370	yoso11	uncle	shīto	12	NA
+1371	yoso11	man	chaa	13	NA
+1372	yoso11	woman	ñāhā	14	NA
+1373	yoso11	owner, boss	shīīn	15	NA
+1374	yoso11	priest	sūtū	16	NA
+1375	yoso11	bone	yɨ̄kɨ̄	18	NA
+1377	yoso11	hair	īshī	19	NA
+1376	yoso11	face	nūu	20	NA
+1378	yoso11	mouth	yūhū	23	NA
+1379	yoso11	ear	soho	24	NA
+1380	yoso11	nose	shinni	25	NA
+1381	yoso11	hand	ndāhā	27	NA
+1383	yoso11	back	xāta	29	NA
+1384	yoso11	stomach	chii	30	NA
+1385	yoso11	foot	xaha	32	NA
+1386	yoso11	disease, illness, sickness	kwēhē	33	NA
+1387	yoso11	medicine, remedy	tānna	34	NA
+1388	yoso11	cloth	sāhmā	39	NA
+1389	yoso11	sandal, sandals	ndíñña	40	NA
+1390	yoso11	town	ñūu	43	NA
+1391	yoso11	house	vehe	44	NA
+1392	yoso11	path, road, trail	īchī	45	NA
+1393	yoso11	beam	vītu	46	NA
+1394	yoso11	animal	kɨ̄tɨ̄	50	NA
+1395	yoso11	fish	chaká	52	NA
+1396	yoso11	snake	kōo	53	NA
+1397	yoso11	scorpion	tɨ̄suhmā	56	NA
+1398	yoso11	rat	chotō	60	NA
+1399	yoso11	mouse	lúsū	60	NA
+1400	yoso11	deer	īsu	61	NA
+1401	yoso11	skunk	chɨ̄hɨ̄n	63	listed as part of a name
+1402	yoso11	rabbit	isō	66	NA
+1403	yoso11	dog	īna	68	NA
+1404	yoso11	chicken	chuun	71	NA
+1405	yoso11	pig	kɨ̄nɨ̄	72	NA
+1406	yoso11	horse	kwāyū	73	NA
+1407	yoso11	sheep	rɨ̄ɨ	74	NA
+1408	yoso11	horn (anatomy)	ndɨ́kɨ́	76	NA
+1409	yoso11	tail	suhma	79	only listed as part of a compound
+1410	yoso11	tree, stick	yūnnū	80	NA
+1411	yoso11	flower	ītā	83	NA
+1412	yoso11	thorn	īñū	86	NA
+1413	yoso11	grain of corn	nūni	87	NA
+1414	yoso11	cornfield	ītū	88	NA
+1415	yoso11	fresh ear of corn	ndɨ̄shɨ̄	89	NA
+1416	yoso11	tortilla	staa	92	NA
+1417	yoso11	bean, eye	ndūchī	96	NA
+1418	yoso11	chili pepper	yaha	98	NA
+1419	yoso11	salt	n̄ɨ̄ɨ	99	NA
+1420	yoso11	lard	shahan	104	lard
+1421	yoso11	egg	ndɨ̃vɨ	105	NA
+1422	yoso11	tomato	tɨ́nānā	106	NA
+1423	yoso11	banana	ndīkā	109	NA
+1424	yoso11	meat	kuñu	114	NA
+1425	yoso11	pot, cooking pot	kɨsɨ	116	NA
+1426	yoso11	fire	ñuhu	118	NA
+1428	yoso11	gourd	yāxīn	124	NA
+1429	yoso11	palm basket	ndōho	125	NA
+1427	yoso11	rope	yōhō	129	NA
+1430	yoso11	hole	yāu	130	NA
+1431	yoso11	net bag	ñunu	131	NA
+1432	yoso11	soap	námá	132	given as part of a place name
+1433	yoso11	moon	yōō	134	NA
+1434	yoso11	cloud	vīko	135	NA
+1435	yoso11	lightning	taxa	136	NA
+1436	yoso11	water	ndūchā	137	NA
+1437	yoso11	rain (precipitation)	sāu	138	NA
+1438	yoso11	river	yucha	139	NA
+1439	yoso11	mountain, hill	yūkū	141	mountain
+1440	yoso11	stone, rock	yūu	143	NA
+1441	yoso11	metal	kaa	145	NA
+1442	yoso11	paper	tūtū	146	NA
+1443	yoso11	beeswax, wax	n̄uma	148	NA
+1444	yoso11	mud	ndēhyu	149	NA
+1445	yoso11	red	kwáhá	152	NA
+1446	yoso11	yellow	kwáán	154	NA
+1447	yoso11	black	nnúú	155	NA
+1448	yoso11	white	kwíxín	156	NA
+1449	yoso11	one	ɨ̄ɨ̄n	157	NA
+1450	yoso11	two	ūu	158	NA
+1451	yoso11	three	ūni	159	NA
+1452	yoso11	four	kūun	160	NA
+1453	yoso11	five	ūhun	161	NA
+1454	yoso11	six	īñu	162	NA
+1455	yoso11	seven	ūshya	163	NA
+1456	yoso11	eight	ūna	164	NA
+1457	yoso11	nine	ɨ̄ɨn	165	NA
+1458	yoso11	ten	ūshi	166	NA
+1459	yoso11	fifteen	shyāhun	167	NA
+1460	yoso11	twenty	ōko	168	NA
+1461	yoso11	poor	ndáhú	169	NA
+1463	yoso11	cold	vixin	171	NA
+1464	yoso11	big.SG	káhnū	173	NA
+1465	yoso11	big.PL	náhnū	174	NA
+1466	yoso11	small.SG	lúlú	175	NA
+1467	yoso11	small.PL	kwáchí	176	NA
+1468	yoso11	long.SG	kánī	177	NA
+1469	yoso11	long.PL	nánī	178	NA
+1470	yoso11	good	vaha	179	NA
+1471	yoso11	sweet	vīshi	180	NA
+1472	yoso11	new	xáá	185	NA
+1473	yoso11	near	yānnī	189	NA
+1474	yoso11	slow	kwéé	194	given as part of a verbalized form kū-kwéé
+1475	yoso11	yesterday	īkū	195	NA
+1476	yoso11	year	kwīyā	196	NA
+1477	yoso11	now, today	vīnnā	197	NA
+1478	yoso11	night, at night	xākwāā	198	NA
+1479	yoso11	night time, all night	ñúú	199	not entirely sure if it’s really night time
+1480	yoso11	day	kɨ̄vɨ	200	NA
+1481	yoso11	day time, all day	ndúú	201	not sure if it’s daytime in general
+1482	yoso11	half, middle	sāvā	202	NA
+1483	yoso11	money	shuhun	203	NA
+1484	yoso11	work	nnīñū	204	NA
+1485	yoso11	word	nnuhu	205	NA
+1486	yoso11	fault, blame, sin	kwachi	206	NA
+1487	yoso11	when	nāmā	208	NA
+1488	yoso11	song	yāā	209	NA
