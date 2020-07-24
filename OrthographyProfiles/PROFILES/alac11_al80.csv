@@ -1,24 +1,29 @@
 Grapheme	IPA	Class	Status	Comments
-d	ð	consonant		not sure, just said to be pronounced like Spanish
-x	ʃ	consonant		not sure, just said to be pronounced like Spanish
-z	θ	consonant		
-c	k	consonant		like Spanish
-nd	ⁿd	consonant		like Spanish
-ng	ᵑg	consonant		like Spanish
-l	l	consonant		like Spanish
-m	m	consonant		like Spanish
-n	n	consonant		like Spanish
-ñ	ɲ	consonant		like Spanish
-p	p	consonant		like Spanish
-qu	k	consonant		like Spanish
-r	ɾ	consonant		like Spanish
-s	s	consonant		like Spanish
-t	t	consonant		like Spanish
-v	β	consonant		like Spanish
-y	j	consonant		like Spanish
+b	b	consonant	loan	
+f	f	consonant	loan	
+ll	j	consonant	loan	
+y	j	consonant		
+k	k	consonant	loan	
+c	k	consonant		
+qu	k	consonant		
 cu	kʷ	consonant		before vowels
+l	l	consonant		
+m	m	consonant		
+n	n	consonant		
+nd	ⁿd	consonant		
+ñ	ɲ	consonant		
+ng	ᵑg	consonant		
+p	p	consonant		
+r	ɾ	consonant		
+s	s	consonant		
+z	s	consonant	loan	
+x	ʃ	consonant		
+t	t	consonant		
+ch	t͡ʃ	consonant		
+j	x	consonant		unsure, no info given except that it's pronounced like Spanish
 h	ʔ	consonant		
 v	β	consonant		
+z	θ	consonant	loan	
 ā	a1	vowel and tone		
 ān	ã1	vowel and tone		
 āān	ã1ã1	vowel and tone		
@@ -44,7 +49,7 @@ en	ẽ3	vowel and tone
 eēn	ẽ3ẽ1	vowel and tone		
 een	ẽ3ẽ3	vowel and tone		
 eén	ẽ3ẽ5	vowel and tone		
-é	e5	vowel and tone		
+é	e5	vowel and tone		
 én	ẽ5	vowel and tone		
 éēn	ẽ5ẽ1	vowel and tone		
 éen	ẽ5ẽ3	vowel and tone		
@@ -62,6 +67,7 @@ iín	ĩ3ĩ5	vowel and tone
 í	i5	vowel and tone		
 ín	ĩ5	vowel and tone		
 íīn	ĩ5ĩ1	vowel and tone		
+ɨ́ɨ̄n	ĩ5ĩ1	vowel and tone		
 íin	ĩ5ĩ3	vowel and tone		
 íín	ĩ5ĩ5	vowel and tone		
 ɨ̄	ɨ1	vowel and tone		
@@ -85,12 +91,12 @@ ōōn	õ1õ1	vowel and tone
 ōon	õ1õ3	vowel and tone		
 ōón	õ1õ5	vowel and tone		
 o	o3	vowel and tone		
-on	õ3	vowel and tone		
+on	õ3	vowel and tone		
 oōn	õ3õ1	vowel and tone		
 oon	õ3õ3	vowel and tone		
 oón	õ3õ5	vowel and tone		
 ó	o5	vowel and tone		
-ón	õ5	vowel and tone		
+ón	õ5	vowel and tone		
 óōn	õ5õ1	vowel and tone		
 óon	õ5õ3	vowel and tone		
 óón	õ5õ5	vowel and tone		

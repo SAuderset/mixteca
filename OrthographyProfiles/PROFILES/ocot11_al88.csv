@@ -1,22 +1,29 @@
 Grapheme	IPA	Class	Status	Comments
-y	j	consonant		like Spanish
-c	k	consonant		like Spanish
-qu	k	consonant		like Spanish
-cu	kʷ	consonant		before vowels
-l	l	consonant		like Spanish
-m	m	consonant		like Spanish
-n	n	consonant		like Spanish
-nd	ⁿd	consonant		like Spanish
-ñ	ɲ	consonant		like Spanish
-ng	ᵑg	consonant		like Spanish
+d	ð	consonant	rare	
+f	f	consonant	loan	
+g	g	consonant	loan	
+k	k	consonant		
+kw	kʷ	consonant		
+l	l	consonant	rare	
+m	m	consonant	rare	
+mb	ᵐb	consonant	loan	
+n	n	consonant		
+nd	ⁿd	consonant		prenasalized stop
+nj	ⁿd͡ʒ	consonant	rare	prenasalized stop
+ñ	ɲ	consonant		
+ng	ᵑg	consonant	rare	prenasalized stop
 p	p	consonant	rare	
-r	ɾ	consonant		like Spanish
-s	s	consonant		like Spanish
-x	ʃ	consonant	rare	
-t	t	consonant		like Spanish
-v	β	consonant		like Spanish
-z	θ	consonant		
-a	a1	vowel and tone		basic tones marked
+rr	r	consonant	loan	
+r	ɾ	consonant	loan	
+s	s	consonant		
+sh	ʃ	consonant		
+t	t	consonant		
+ch	t͡ʃ	consonant		
+x	x	consonant		
+y	ʒ	consonant		
+h	ʔ	consonant		
+v	β	consonant		
+a	a1	vowel and tone		
 an	ã1	vowel and tone		
 aan	ã1ã1	vowel and tone		
 aān	ã1ã3	vowel and tone		
@@ -62,12 +69,12 @@ íin	ĩ5ĩ1	vowel and tone
 íīn	ĩ5ĩ3	vowel and tone		
 íín	ĩ5ĩ5	vowel and tone		
 o	o1	vowel and tone		
-on	õ1	vowel and tone		
+on	õ1	vowel and tone		
 oon	õ1õ1	vowel and tone		
 oōn	õ1õ3	vowel and tone		
 oón	õ1õ5	vowel and tone		
 ō	o3	vowel and tone		
-ōn	õ3	vowel and tone		
+ōn	õ3	vowel and tone		
 ōon	õ3õ1	vowel and tone		
 ōōn	õ3õ3	vowel and tone		
 ōón	õ3õ5	vowel and tone		
