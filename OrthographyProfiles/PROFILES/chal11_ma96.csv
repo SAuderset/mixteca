@@ -1,57 +1,57 @@
-Grapheme	IPA	Class	Status	Comments
-ð	ð	consonant	rare	
-k	k	consonant		
-kʷ	kʷ	consonant		
-l	l	consonant		
-m	m	consonant		
-n	n	consonant		
-nd	ⁿd	consonant		
-nč	ⁿd͡ʒ	consonant	rare	
-nž	ⁿʒ	consonant	rare	
-ñ	ɲ	consonant		
-ŋg	ᵑg	consonant	rare	
-r	ɾ	consonant		
-s	s	consonant		
-š	ʃ	consonant		
-t	t	consonant		
-č	t͡ʃ	consonant		
-w	w	consonant		
-x	x	consonant		
-ž	ʒ	consonant		
-b	β	consonant		
-à	a1	vowel and tone		
-ã̀	ã1	vowel and tone		
-a	a3	vowel and tone		
-ã	ã3	vowel and tone		
-á	a5	vowel and tone		
-ã́	ã5	vowel and tone		
-è	e1	vowel and tone		
-ẽ̀	ẽ1	vowel and tone		
-e	e3	vowel and tone		free variation ɛ
-ẽ	ẽ3	vowel and tone		
-é	e5	vowel and tone		
-ẽ́	ẽ5	vowel and tone		
-ì	i1	vowel and tone		
-ĩ̀	ĩ1	vowel and tone		
-i	i3	vowel and tone		free variation ɪ
-ĩ	ĩ3	vowel and tone		
-í	i5	vowel and tone		
-ĩ́	ĩ5	vowel and tone		
-ɨ̀	ɨ1	vowel and tone		
-ɨ̃̀	ɨ̃1	vowel and tone		
-ɨ	ɨ3	vowel and tone		
-ɨ̃	ɨ̃3	vowel and tone		
-ɨ́	ɨ5	vowel and tone		
-ɨ̃̀́	ɨ̃5	vowel and tone		
-ò	o1	vowel and tone		
-õ̀	õ1	vowel and tone		
-o	o3	vowel and tone		free variation ɔ
-õ	õ3	vowel and tone		
-ó	o5	vowel and tone		
-ṍ	õ5	vowel and tone		
-ù	u1	vowel and tone		
-ũ̀	ũ1	vowel and tone		
-u	u3	vowel and tone		
-ũ	ũ3	vowel and tone		
-ú	u5	vowel and tone		
-ṹ	ũ5	vowel and tone		
+Doculect	Grapheme	IPA	Class	Status	Comments
+	ð	ð	consonant	rare	
+	k	k	consonant		
+	kʷ	kʷ	consonant		
+	l	l	consonant		
+	m	m	consonant		
+	n	n	consonant		
+	nd	ⁿd	consonant		
+	nč	ⁿd͡ʒ	consonant	rare	
+	nž	ⁿʒ	consonant	rare	
+	ñ	ɲ	consonant		
+	ŋg	ᵑg	consonant	rare	
+	r	ɾ	consonant		
+	s	s	consonant		
+	š	ʃ	consonant		
+	t	t	consonant		
+	č	t͡ʃ	consonant		
+	w	w	consonant		
+	x	x	consonant		
+	ž	ʒ	consonant		
+	b	β	consonant		
+	à	a1	vowel and tone		
+	ã̀	ã1	vowel and tone		
+	a	a3	vowel and tone		
+	ã	ã3	vowel and tone		
+	á	a5	vowel and tone		
+	ã́	ã5	vowel and tone		
+	è	e1	vowel and tone		
+	ẽ̀	ẽ1	vowel and tone		
+	e	e3	vowel and tone		free variation ɛ
+	ẽ	ẽ3	vowel and tone		
+	é	e5	vowel and tone		
+	ẽ́	ẽ5	vowel and tone		
+	ì	i1	vowel and tone		
+	ĩ̀	ĩ1	vowel and tone		
+	i	i3	vowel and tone		free variation ɪ
+	ĩ	ĩ3	vowel and tone		
+	í	i5	vowel and tone		
+	ĩ́	ĩ5	vowel and tone		
+	ɨ̀	ɨ1	vowel and tone		
+	ɨ̃̀	ɨ̃1	vowel and tone		
+	ɨ	ɨ3	vowel and tone		
+	ɨ̃	ɨ̃3	vowel and tone		
+	ɨ́	ɨ5	vowel and tone		
+	ɨ̃̀́	ɨ̃5	vowel and tone		
+	ò	o1	vowel and tone		
+	õ̀	õ1	vowel and tone		
+	o	o3	vowel and tone		free variation ɔ
+	õ	õ3	vowel and tone		
+	ó	o5	vowel and tone		
+	ṍ	õ5	vowel and tone		
+	ù	u1	vowel and tone		
+	ũ̀	ũ1	vowel and tone		
+	u	u3	vowel and tone		
+	ũ	ũ3	vowel and tone		
+	ú	u5	vowel and tone		
+	ṹ	ũ5	vowel and tone		

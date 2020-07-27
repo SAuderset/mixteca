@@ -1,55 +1,55 @@
-Grapheme	IPA	Class	Status	Comments
-ð	ð	consonant		
-k	k	consonant		
-kʷ	kʷ	consonant		
-l	l	consonant		
-m	m	consonant		
-n	n	consonant		
-nd	ⁿd	consonant		analyzed as cluster
-ñ	ɲ	consonant		
-r	ɾ	consonant		
-s	s	consonant		
-š	ʂ	consonant		
-t	t	consonant		
-č	t͡ʃ	consonant		
-h	x	consonant		
-hʷ	xʷ	consonant		
-ž	ʒ	consonant		
-ʔ	ʔ	consonant		
-β	β	consonant		
-a	a	vowel		
-a̢	ã	vowel		
-e	e	vowel		
-e̢	ẽ	vowel		
-i	i	vowel		
-i̢	ĩ	vowel		
-ɨ	ɨ	vowel		
-ɨ̢	ɨ̃	vowel		
-o	o	vowel		
-o̢	õ	vowel		
-u	u	vowel		
-u̢	ũ	vowel		
-à	a1	vowel and tone		
-à̢	ã1	vowel and tone		
-á	a5	vowel and tone		
-á̢	ã5	vowel and tone		
-è	e1	vowel and tone		
-è̢	ẽ1	vowel and tone		
-é	e5	vowel and tone		
-é̢	ẽ5	vowel and tone		
-ì	i1	vowel and tone		
-ì̢	ĩ1	vowel and tone		
-í	i5	vowel and tone		
-í̢	ĩ5	vowel and tone		
-ɨ̀	ɨ1	vowel and tone		
-ɨ̢̀	ɨ̃1	vowel and tone		
-ɨ́	ɨ5	vowel and tone		
-ɨ̢́	ɨ̃5	vowel and tone		
-ò	o1	vowel and tone		
-ò̢	õ1	vowel and tone		
-ó	o5	vowel and tone		
-ó̢	õ5	vowel and tone		
-ù	u1	vowel and tone		
-ù̢	ũ1	vowel and tone		
-ú	u5	vowel and tone		
-ú̢	ũ5	vowel and tone		
+Doculect	Grapheme	IPA	Class	Status	Comments
+diux11	ð	ð	consonant		
+diux11	k	k	consonant		
+diux11	kʷ	kʷ	consonant		
+diux11	l	l	consonant		
+diux11	m	m	consonant		
+diux11	n	n	consonant		
+diux11	nd	ⁿd	consonant		analyzed as cluster
+diux11	ñ	ɲ	consonant		
+diux11	r	ɾ	consonant		
+diux11	s	s	consonant		
+diux11	š	ʂ	consonant		
+diux11	t	t	consonant		
+diux11	č	t͡ʃ	consonant		
+diux11	h	x	consonant		
+diux11	hʷ	xʷ	consonant		
+diux11	ž	ʒ	consonant		
+diux11	ʔ	ʔ	consonant		
+diux11	β	β	consonant		
+diux11	a	a	vowel		
+diux11	a̢	ã	vowel		
+diux11	e	e	vowel		
+diux11	e̢	ẽ	vowel		
+diux11	i	i	vowel		
+diux11	i̢	ĩ	vowel		
+diux11	ɨ	ɨ	vowel		
+diux11	ɨ̢	ɨ̃	vowel		
+diux11	o	o	vowel		
+diux11	o̢	õ	vowel		
+diux11	u	u	vowel		
+diux11	u̢	ũ	vowel		
+diux11	à	a1	vowel and tone		
+diux11	à̢	ã1	vowel and tone		
+diux11	á	a5	vowel and tone		
+diux11	á̢	ã5	vowel and tone		
+diux11	è	e1	vowel and tone		
+diux11	è̢	ẽ1	vowel and tone		
+diux11	é	e5	vowel and tone		
+diux11	é̢	ẽ5	vowel and tone		
+diux11	ì	i1	vowel and tone		
+diux11	ì̢	ĩ1	vowel and tone		
+diux11	í	i5	vowel and tone		
+diux11	í̢	ĩ5	vowel and tone		
+diux11	ɨ̀	ɨ1	vowel and tone		
+diux11	ɨ̢̀	ɨ̃1	vowel and tone		
+diux11	ɨ́	ɨ5	vowel and tone		
+diux11	ɨ̢́	ɨ̃5	vowel and tone		
+diux11	ò	o1	vowel and tone		
+diux11	ò̢	õ1	vowel and tone		
+diux11	ó	o5	vowel and tone		
+diux11	ó̢	õ5	vowel and tone		
+diux11	ù	u1	vowel and tone		
+diux11	ù̢	ũ1	vowel and tone		
+diux11	ú	u5	vowel and tone		
+diux11	ú̢	ũ5	vowel and tone		

@@ -1,98 +1,98 @@
-Grapheme	IPA	Class	Status	Comments
-d	ð	consonant		
-g	g	consonant	loan	
-k	k	consonant		
-kw	kʷ	consonant		
-l	l	consonant		
-m	m	consonant		
-mb	ᵐb	consonant		
-n	n	consonant		
-nd	ⁿd	consonant		
-nj	ⁿd͡ʒ	consonant		
-ñ	ɲ	consonant		
-ng	ᵑg	consonant		
-p	p	consonant	loan	
-r	ɾ	consonant		
-s	s	consonant		
-sh	ʃ	consonant		
-t	t	consonant		
-ch	t͡ʃ	consonant		
-x	x	consonant		
-y	ʒ	consonant		
-h	ʔ	consonant		
-v	β	consonant		
-a	a1	vowel and tone		
-an	ã1	vowel and tone		
-aan	ã1ã1	vowel and tone		
-aān	ã1ã3	vowel and tone		
-aán	ã1ã5	vowel and tone		
-ā	a3	vowel and tone		
-ān	ã3	vowel and tone		
-āan	ã3ã1	vowel and tone		
-āān	ã3ã3	vowel and tone		
-āán	ã3ã5	vowel and tone		
-á	a5	vowel and tone		
-án	ã5	vowel and tone		
-áan	ã5ã1	vowel and tone		
-áān	ã5ã3	vowel and tone		
-áán	ã5ã5	vowel and tone		
-e	e1	vowel and tone		
-en	ẽ1	vowel and tone		
-een	ẽ1ẽ1	vowel and tone		
-eēn	ẽ1ẽ3	vowel and tone		
-eén	ẽ1ẽ5	vowel and tone		
-ē	e3	vowel and tone		
-ēn	ẽ3	vowel and tone		
-ēen	ẽ3ẽ1	vowel and tone		
-ēēn	ẽ3ẽ3	vowel and tone		
-ēén	ẽ3ẽ5	vowel and tone		
-é	e5	vowel and tone		
-én	ẽ5	vowel and tone		
-éen	ẽ5ẽ1	vowel and tone		
-éēn	ẽ5ẽ3	vowel and tone		
-één	ẽ5ẽ5	vowel and tone		
-i	i1	vowel and tone		
-in	ĩ1	vowel and tone		
-iin	ĩ1ĩ1	vowel and tone		
-iīn	ĩ1ĩ3	vowel and tone		
-iín	ĩ1ĩ5	vowel and tone		
-ī	i3	vowel and tone		
-īn	ĩ3	vowel and tone		
-īin	ĩ3ĩ1	vowel and tone		
-īīn	ĩ3ĩ3	vowel and tone		
-īín	ĩ3ĩ5	vowel and tone		
-í	i5	vowel and tone		
-ín	ĩ5	vowel and tone		
-íin	ĩ5ĩ1	vowel and tone		
-íīn	ĩ5ĩ3	vowel and tone		
-íín	ĩ5ĩ5	vowel and tone		
-o	o1	vowel and tone		
-on	õ1	vowel and tone		
-oon	õ1õ1	vowel and tone		
-oōn	õ1õ3	vowel and tone		
-oón	õ1õ5	vowel and tone		
-ō	o3	vowel and tone		
-ōn	õ3	vowel and tone		
-ōon	õ3õ1	vowel and tone		
-ōōn	õ3õ3	vowel and tone		
-ōón	õ3õ5	vowel and tone		
-ó	o5	vowel and tone		
-ón	õ5	vowel and tone		
-óon	õ5õ1	vowel and tone		
-óōn	õ5õ3	vowel and tone		
-óón	õ5õ5	vowel and tone		
-u	u1	vowel and tone		
-un	ũ1	vowel and tone		
-uun	ũ1ũ1	vowel and tone		
-uūn	ũ1ũ3	vowel and tone		
-uún	ũ1ũ5	vowel and tone		
-ū	u3	vowel and tone		
-ūn	ũ3	vowel and tone		
-ūun	ũ3ũ1	vowel and tone		
-ūūn	ũ3ũ3	vowel and tone		
-ūún	ũ3ũ5	vowel and tone		
-ú	u5	vowel and tone		
-ún	ũ5	vowel and tone		
-úun	ũ5ũ1	vowel and tone		
-úūn	ũ5ũ3	vowel and tone		
-úún	ũ5ũ5	vowel and tone		
+Doculect	Grapheme	IPA	Class	Status	Comments
+prog12	d	ð	consonant		
+prog12	g	g	consonant	loan	
+prog12	k	k	consonant		
+prog12	kw	kʷ	consonant		
+prog12	l	l	consonant		
+prog12	m	m	consonant		
+prog12	mb	ᵐb	consonant		
+prog12	n	n	consonant		
+prog12	nd	ⁿd	consonant		
+prog12	nj	ⁿd͡ʒ	consonant		
+prog12	ñ	ɲ	consonant		
+prog12	ng	ᵑg	consonant		
+prog12	p	p	consonant	loan	
+prog12	r	ɾ	consonant		
+prog12	s	s	consonant		
+prog12	sh	ʃ	consonant		
+prog12	t	t	consonant		
+prog12	ch	t͡ʃ	consonant		
+prog12	x	x	consonant		
+prog12	y	ʒ	consonant		
+prog12	h	ʔ	consonant		
+prog12	v	β	consonant		
+prog12	a	a1	vowel and tone		
+prog12	an	ã1	vowel and tone		
+prog12	aan	ã1ã1	vowel and tone		
+prog12	aān	ã1ã3	vowel and tone		
+prog12	aán	ã1ã5	vowel and tone		
+prog12	ā	a3	vowel and tone		
+prog12	ān	ã3	vowel and tone		
+prog12	āan	ã3ã1	vowel and tone		
+prog12	āān	ã3ã3	vowel and tone		
+prog12	āán	ã3ã5	vowel and tone		
+prog12	á	a5	vowel and tone		
+prog12	án	ã5	vowel and tone		
+prog12	áan	ã5ã1	vowel and tone		
+prog12	áān	ã5ã3	vowel and tone		
+prog12	áán	ã5ã5	vowel and tone		
+prog12	e	e1	vowel and tone		
+prog12	en	ẽ1	vowel and tone		
+prog12	een	ẽ1ẽ1	vowel and tone		
+prog12	eēn	ẽ1ẽ3	vowel and tone		
+prog12	eén	ẽ1ẽ5	vowel and tone		
+prog12	ē	e3	vowel and tone		
+prog12	ēn	ẽ3	vowel and tone		
+prog12	ēen	ẽ3ẽ1	vowel and tone		
+prog12	ēēn	ẽ3ẽ3	vowel and tone		
+prog12	ēén	ẽ3ẽ5	vowel and tone		
+prog12	é	e5	vowel and tone		
+prog12	én	ẽ5	vowel and tone		
+prog12	éen	ẽ5ẽ1	vowel and tone		
+prog12	éēn	ẽ5ẽ3	vowel and tone		
+prog12	één	ẽ5ẽ5	vowel and tone		
+prog12	i	i1	vowel and tone		
+prog12	in	ĩ1	vowel and tone		
+prog12	iin	ĩ1ĩ1	vowel and tone		
+prog12	iīn	ĩ1ĩ3	vowel and tone		
+prog12	iín	ĩ1ĩ5	vowel and tone		
+prog12	ī	i3	vowel and tone		
+prog12	īn	ĩ3	vowel and tone		
+prog12	īin	ĩ3ĩ1	vowel and tone		
+prog12	īīn	ĩ3ĩ3	vowel and tone		
+prog12	īín	ĩ3ĩ5	vowel and tone		
+prog12	í	i5	vowel and tone		
+prog12	ín	ĩ5	vowel and tone		
+prog12	íin	ĩ5ĩ1	vowel and tone		
+prog12	íīn	ĩ5ĩ3	vowel and tone		
+prog12	íín	ĩ5ĩ5	vowel and tone		
+prog12	o	o1	vowel and tone		
+prog12	on	õ1	vowel and tone		
+prog12	oon	õ1õ1	vowel and tone		
+prog12	oōn	õ1õ3	vowel and tone		
+prog12	oón	õ1õ5	vowel and tone		
+prog12	ō	o3	vowel and tone		
+prog12	ōn	õ3	vowel and tone		
+prog12	ōon	õ3õ1	vowel and tone		
+prog12	ōōn	õ3õ3	vowel and tone		
+prog12	ōón	õ3õ5	vowel and tone		
+prog12	ó	o5	vowel and tone		
+prog12	ón	õ5	vowel and tone		
+prog12	óon	õ5õ1	vowel and tone		
+prog12	óōn	õ5õ3	vowel and tone		
+prog12	óón	õ5õ5	vowel and tone		
+prog12	u	u1	vowel and tone		
+prog12	un	ũ1	vowel and tone		
+prog12	uun	ũ1ũ1	vowel and tone		
+prog12	uūn	ũ1ũ3	vowel and tone		
+prog12	uún	ũ1ũ5	vowel and tone		
+prog12	ū	u3	vowel and tone		
+prog12	ūn	ũ3	vowel and tone		
+prog12	ūun	ũ3ũ1	vowel and tone		
+prog12	ūūn	ũ3ũ3	vowel and tone		
+prog12	ūún	ũ3ũ5	vowel and tone		
+prog12	ú	u5	vowel and tone		
+prog12	ún	ũ5	vowel and tone		
+prog12	úun	ũ5ũ1	vowel and tone		
+prog12	úūn	ũ5ũ3	vowel and tone		
+prog12	úún	ũ5ũ5	vowel and tone		

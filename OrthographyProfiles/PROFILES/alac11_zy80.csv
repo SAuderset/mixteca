@@ -1,50 +1,118 @@
-Grapheme	IPA	Class	Status	Comments
-y	j	consonant		
-k	k	consonant		
-kw	kʷ	consonant		
-m	m	consonant		
-mb	ᵐb	consonant		
-n	n	consonant		
-nd	ⁿd	consonant		
-ñ	ɲ	consonant		
-ŋg	ᵑg	consonant		
-p	p	consonant	loan	
-rr	r	consonant	loan	considered a cluster
-ř	ɾ	consonant		
-s	s	consonant		
-š	ʃ	consonant		
-t	t	consonant		
-č	t͡ʃ	consonant		
-h	x	consonant		not sure, described as spirant; but her later source suggests a velar fricative
-ʔ	ʔ	consonant		
-v	β	consonant		
-à	a1	vowel and tone		
-à̢	ã1	vowel and tone		
-a	a3	vowel and tone		
-a̢	ã3	vowel and tone		
-á	a5	vowel and tone		
-á̢	ã5	vowel and tone		
-è	e1	vowel and tone		
-è̢	ẽ1	vowel and tone		
-e	e3	vowel and tone		
-e̢	ẽ3	vowel and tone		
-é	e5	vowel and tone		
-é̢	ẽ5	vowel and tone		
-ì	i1	vowel and tone		
-ì̢	ĩ1	vowel and tone		
-i	i3	vowel and tone		
-i̢	ĩ3	vowel and tone		
-í	i5	vowel and tone		
-í̢	ĩ5	vowel and tone		
-ò	o1	vowel and tone		
-ò̢	õ1	vowel and tone		
-o	o3	vowel and tone		
-o̢	õ3	vowel and tone		
-ó	o5	vowel and tone		
-ó̢	õ5	vowel and tone		
-ù	u1	vowel and tone		
-ù̢	ũ1	vowel and tone		
-u	u3	vowel and tone		
-u̢	ũ3	vowel and tone		
-ú	u5	vowel and tone		
-ú̢	ũ5	vowel and tone		
+Doculect	Grapheme	IPA	Class	Status	Comments
+alac11	y	j	consonant		
+alac11	k	k	consonant		
+alac11	kw	kʷ	consonant		
+alac11	m	m	consonant		
+alac11	mb	ᵐb	consonant		
+alac11	n	n	consonant		
+alac11	nd	ⁿd	consonant		
+alac11	ñ	ɲ	consonant		
+alac11	ŋg	ᵑg	consonant		
+alac11	p	p	consonant	loan	
+alac11	rr	r	consonant	loan	considered a cluster
+alac11	ř	ɾ	consonant		
+alac11	s	s	consonant		
+alac11	š	ʃ	consonant		
+alac11	t	t	consonant		
+alac11	č	t͡ʃ	consonant		
+alac11	h	x	consonant		not sure, described as spirant; but her later source suggests a velar fricative
+alac11	ʔ	ʔ	consonant		
+alac11	v	β	consonant		
+alac11	à	a1	vowel and tone		
+alac11	à̢	ã1	vowel and tone		
+alac11	a	a3	vowel and tone		
+alac11	a̢	ã3	vowel and tone		
+alac11	á	a5	vowel and tone		
+alac11	á̢	ã5	vowel and tone		
+alac11	è	e1	vowel and tone		
+alac11	è̢	ẽ1	vowel and tone		
+alac11	e	e3	vowel and tone		
+alac11	e̢	ẽ3	vowel and tone		
+alac11	é	e5	vowel and tone		
+alac11	é̢	ẽ5	vowel and tone		
+alac11	ì	i1	vowel and tone		
+alac11	ì̢	ĩ1	vowel and tone		
+alac11	i	i3	vowel and tone		
+alac11	i̢	ĩ3	vowel and tone		
+alac11	í	i5	vowel and tone		
+alac11	í̢	ĩ5	vowel and tone		
+alac11	ò	o1	vowel and tone		
+alac11	ò̢	õ1	vowel and tone		
+alac11	o	o3	vowel and tone		
+alac11	o̢	õ3	vowel and tone		
+alac11	ó	o5	vowel and tone		
+alac11	ó̢	õ5	vowel and tone		
+alac11	ù	u1	vowel and tone		
+alac11	ù̢	ũ1	vowel and tone		
+alac11	u	u3	vowel and tone		
+alac11	u̢	ũ3	vowel and tone		
+alac11	ú	u5	vowel and tone		
+alac11	ú̢	ũ5	vowel and tone		
+					
+					
+					
+					
+					
+					
+					
+					
+					
+					
+					
+					
+					
+					
+					
+					
+					
+					
+					
+					
+					
+					
+					
+					
+					
+					
+					
+					
+					
+					
+					
+					
+					
+					
+					
+					
+					
+					
+					
+					
+					
+					
+					
+					
+					
+					
+					
+					
+					
+					
+					
+					
+					
+					
+					
+					
+					
+					
+					
+					
+					
+					
+					
+					
+					
+					
+					
+					

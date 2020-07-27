@@ -1,93 +1,98 @@
-Grapheme	IPA	Class	Status	Comments
-y	j	consonant		
-c	k	consonant		
-qu	k	consonant		
-cu	kʷ	consonant		
-l	l	consonant		
-m	m	consonant		
-n	n	consonant		
-nd	ⁿd	consonant		
-ñ	ɲ	consonant		
-ng	ᵑg	consonant		
-p	p	consonant	rare	
-r	ɾ	consonant		
-s	s	consonant		
-x	ʃ	consonant	rare	
-t	t	consonant		
-v	β	consonant		
-z	θ	consonant		
-a	a1	vowel and tone		basic tones marked
-an	ã1	vowel and tone		
-aan	ã1ã1	vowel and tone		
-aān	ã1ã3	vowel and tone		
-aán	ã1ã5	vowel and tone		
-ā	a3	vowel and tone		
-ān	ã3	vowel and tone		
-āan	ã3ã1	vowel and tone		
-āān	ã3ã3	vowel and tone		
-āán	ã3ã5	vowel and tone		
-á	a5	vowel and tone		
-án	ã5	vowel and tone		
-áan	ã5ã1	vowel and tone		
-áān	ã5ã3	vowel and tone		
-áán	ã5ã5	vowel and tone		
-e	e1	vowel and tone		
-en	ẽ1	vowel and tone		
-een	ẽ1ẽ1	vowel and tone		
-eēn	ẽ1ẽ3	vowel and tone		
-eén	ẽ1ẽ5	vowel and tone		
-ē	e3	vowel and tone		
-ēn	ẽ3	vowel and tone		
-ēen	ẽ3ẽ1	vowel and tone		
-ēēn	ẽ3ẽ3	vowel and tone		
-ēén	ẽ3ẽ5	vowel and tone		
-é	e5	vowel and tone		
-én	ẽ5	vowel and tone		
-éen	ẽ5ẽ1	vowel and tone		
-éēn	ẽ5ẽ3	vowel and tone		
-één	ẽ5ẽ5	vowel and tone		
-i	i1	vowel and tone		
-in	ĩ1	vowel and tone		
-iin	ĩ1ĩ1	vowel and tone		
-iīn	ĩ1ĩ3	vowel and tone		
-iín	ĩ1ĩ5	vowel and tone		
-ī	i3	vowel and tone		
-īn	ĩ3	vowel and tone		
-īin	ĩ3ĩ1	vowel and tone		
-īīn	ĩ3ĩ3	vowel and tone		
-īín	ĩ3ĩ5	vowel and tone		
-í	i5	vowel and tone		
-ín	ĩ5	vowel and tone		
-íin	ĩ5ĩ1	vowel and tone		
-íīn	ĩ5ĩ3	vowel and tone		
-íín	ĩ5ĩ5	vowel and tone		
-o	o1	vowel and tone		
-on	õ1	vowel and tone		
-oon	õ1õ1	vowel and tone		
-oōn	õ1õ3	vowel and tone		
-oón	õ1õ5	vowel and tone		
-ō	o3	vowel and tone		
-ōn	õ3	vowel and tone		
-ōon	õ3õ1	vowel and tone		
-ōōn	õ3õ3	vowel and tone		
-ōón	õ3õ5	vowel and tone		
-ó	o5	vowel and tone		
-ón	õ5	vowel and tone		
-óon	õ5õ1	vowel and tone		
-óōn	õ5õ3	vowel and tone		
-óón	õ5õ5	vowel and tone		
-u	u1	vowel and tone		
-un	ũ1	vowel and tone		
-uun	ũ1ũ1	vowel and tone		
-uūn	ũ1ũ3	vowel and tone		
-uún	ũ1ũ5	vowel and tone		
-ū	u3	vowel and tone		
-ūn	ũ3	vowel and tone		
-ūun	ũ3ũ1	vowel and tone		
-ūūn	ũ3ũ3	vowel and tone		
-ūún	ũ3ũ5	vowel and tone		
-ú	u5	vowel and tone		
-ún	ũ5	vowel and tone		
-úun	ũ5ũ1	vowel and tone		
-úūn	ũ5ũ3	vowel and tone		
-úún	ũ5ũ5	vowel and tone		
+Doculect	Grapheme	IPA	Class	Status	Comments
+jami11	y	j	consonant		
+jami11	c	k	consonant		
+jami11	qu	k	consonant		
+jami11	cu	kʷ	consonant		
+jami11	l	l	consonant		
+jami11	m	m	consonant		
+jami11	n	n	consonant		
+jami11	nd	ⁿd	consonant		
+jami11	ñ	ɲ	consonant		
+jami11	ng	ᵑg	consonant		
+jami11	p	p	consonant	rare	
+jami11	r	ɾ	consonant		
+jami11	s	s	consonant		
+jami11	x	ʃ	consonant	rare	
+jami11	t	t	consonant		
+jami11	v	β	consonant		
+jami11	z	θ	consonant		
+jami11	a	a1	vowel and tone		basic tones marked
+jami11	an	ã1	vowel and tone		
+jami11	aan	ã1ã1	vowel and tone		
+jami11	aān	ã1ã3	vowel and tone		
+jami11	aán	ã1ã5	vowel and tone		
+jami11	ā	a3	vowel and tone		
+jami11	ān	ã3	vowel and tone		
+jami11	āan	ã3ã1	vowel and tone		
+jami11	āān	ã3ã3	vowel and tone		
+jami11	āán	ã3ã5	vowel and tone		
+jami11	á	a5	vowel and tone		
+jami11	án	ã5	vowel and tone		
+jami11	áan	ã5ã1	vowel and tone		
+jami11	áān	ã5ã3	vowel and tone		
+jami11	áán	ã5ã5	vowel and tone		
+jami11	e	e1	vowel and tone		
+jami11	en	ẽ1	vowel and tone		
+jami11	een	ẽ1ẽ1	vowel and tone		
+jami11	eēn	ẽ1ẽ3	vowel and tone		
+jami11	eén	ẽ1ẽ5	vowel and tone		
+jami11	ē	e3	vowel and tone		
+jami11	ēn	ẽ3	vowel and tone		
+jami11	ēen	ẽ3ẽ1	vowel and tone		
+jami11	ēēn	ẽ3ẽ3	vowel and tone		
+jami11	ēén	ẽ3ẽ5	vowel and tone		
+jami11	é	e5	vowel and tone		
+jami11	én	ẽ5	vowel and tone		
+jami11	éen	ẽ5ẽ1	vowel and tone		
+jami11	éēn	ẽ5ẽ3	vowel and tone		
+jami11	één	ẽ5ẽ5	vowel and tone		
+jami11	i	i1	vowel and tone		
+jami11	in	ĩ1	vowel and tone		
+jami11	iin	ĩ1ĩ1	vowel and tone		
+jami11	iīn	ĩ1ĩ3	vowel and tone		
+jami11	iín	ĩ1ĩ5	vowel and tone		
+jami11	ī	i3	vowel and tone		
+jami11	īn	ĩ3	vowel and tone		
+jami11	īin	ĩ3ĩ1	vowel and tone		
+jami11	īīn	ĩ3ĩ3	vowel and tone		
+jami11	īín	ĩ3ĩ5	vowel and tone		
+jami11	í	i5	vowel and tone		
+jami11	ín	ĩ5	vowel and tone		
+jami11	íin	ĩ5ĩ1	vowel and tone		
+jami11	íīn	ĩ5ĩ3	vowel and tone		
+jami11	íín	ĩ5ĩ5	vowel and tone		
+jami11	o	o1	vowel and tone		
+jami11	on	õ1	vowel and tone		
+jami11	oon	õ1õ1	vowel and tone		
+jami11	oōn	õ1õ3	vowel and tone		
+jami11	oón	õ1õ5	vowel and tone		
+jami11	ō	o3	vowel and tone		
+jami11	ōn	õ3	vowel and tone		
+jami11	ōon	õ3õ1	vowel and tone		
+jami11	ōōn	õ3õ3	vowel and tone		
+jami11	ōón	õ3õ5	vowel and tone		
+jami11	ó	o5	vowel and tone		
+jami11	ón	õ5	vowel and tone		
+jami11	óon	õ5õ1	vowel and tone		
+jami11	óōn	õ5õ3	vowel and tone		
+jami11	óón	õ5õ5	vowel and tone		
+jami11	u	u1	vowel and tone		
+jami11	un	ũ1	vowel and tone		
+jami11	uun	ũ1ũ1	vowel and tone		
+jami11	uūn	ũ1ũ3	vowel and tone		
+jami11	uún	ũ1ũ5	vowel and tone		
+jami11	ū	u3	vowel and tone		
+jami11	ūn	ũ3	vowel and tone		
+jami11	ūun	ũ3ũ1	vowel and tone		
+jami11	ūūn	ũ3ũ3	vowel and tone		
+jami11	ūún	ũ3ũ5	vowel and tone		
+jami11	ú	u5	vowel and tone		
+jami11	ún	ũ5	vowel and tone		
+jami11	úun	ũ5ũ1	vowel and tone		
+jami11	úūn	ũ5ũ3	vowel and tone		
+jami11	úún	ũ5ũ5	vowel and tone		
+					
+					
+					
+					
+					

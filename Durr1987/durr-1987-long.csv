@@ -1,1155 +1,1146 @@
-ID,ID_Durr,Doculect,Concept,Form,PMCouplet
-1,1,Diu,animal,kɨ̀tɨ̀,HHʔ
-2,11,Diu,bone,žɨ̀kɨ̀,HHʔ
-3,12,Diu,chile,žàʔà,HHʔ
-4,30,Diu,one,ɨ̧̀ɨ̧̀,HH
-5,31,Diu,paper,tú'tú,HL
-6,34,Diu,uncle,'đìtò,HL
-7,35,Diu,aunt,'đìđí,HL
-8,40,Diu,brother,'ñànì,HL
-9,52,Diu,cross-sex sibling,kú’ʔá,LH
-10,54,Diu,child,đá’ʔžá,LH
-11,55,Diu,sibling's wife,šà’nú,LH
-12,56,Diu,ear,đò’ʔó,LH
-13,60,Diu,good,ƀà’ʔá,LH
-14,61,Diu,medicine,tá’tná̧,LLʔ
-15,62,Diu,four,kó̧’ó̧,LLʔ
-16,63,Diu,day,kɨ́’ú,LLʔ
-17,67,Diu,cane,ⁿdó’ó,LLʔ
-18,74,Diu,stone,žú’ú,LLʔ
-19,78,Diu,sister,kú’ʔú,LL
-20,82,Diu,niece,đí’kú,LL
-21,83,Diu,nephew,đà’ší,LL
-22,84,Diu,foot,šé’ʔé,LL
-23,86,Diu,thread,žú’ʔá,LL
-24,88,Diu,nine,ɨ̧́’ɨ̧́,LL
-25,89,Diu,two,úú,LL
-26,94,Diu,fish,čákà,MT
-27,96,Diu,sibling's husband,kà’đá,MT
-28,98,Diu,big (sg),kà̧ʔnù̧,MT
-29,103,Diu,yellow,'kʷà̧à̧,MT
-30,108,Diu,little,'lùčì,MT
-31,1,Pe,animal,kɨ̀tɨ̀,HHʔ
-32,2,Pe,to eat,kàšì,HHʔ
-33,3,Pe,beans,ⁿdùčì,HHʔ
-34,4,Pe,water,ⁿdùtè,HHʔ
-35,5,Pe,hand,ⁿdàʔà,HHʔ
-36,7,Pe,tree,žùtù̧,HHʔ
-37,8,Pe,mountain,žùkù,HHʔ
-38,9,Pe,straw mat,žùù,HHʔ
-39,10,Pe,mouth,žùʔù,HHʔ
-40,11,Pe,bone,žɨ̀kɨ̀,HHʔ
-41,12,Pe,chile,žàʔà,HHʔ
-42,14,Pe,rope,žòʔò,HHʔ
-43,15,Pe,road,ìčì,HHʔ
-44,16,Pe,work,čî̧ù̧,HH
-45,17,Pe,handspan,tòò,HH
-46,18,Pe,to come,kìšì,HH
-47,19,Pe,to run,kùnù,HH
-48,20,Pe,to be,kùù,HH
-49,21,Pe,to sing,kàtà,HH
-50,22,Pe,to be born,kàkù,HH
-51,23,Pe,to burn,kàʔmì,HH
-52,24,Pe,to look,kòtò,HH
-53,25,Pe,to drink,kòʔò,HH
-54,26,Pe,to buy,kʷà̧à̧,HH
-55,27,Pe,now,ƀìtà̧,HH
-56,28,Pe,house,ƀèʔè,HH
-57,29,Pe,yesterday,ìkù,HH
-58,30,Pe,one,ɨ̧̀ɨ̧̀,HH
-59,31,Pe,paper,tùtú,HL
-60,32,Pe,stool,tèžú,HL
-61,33,Pe,lime,kàkà,HL
-62,34,Pe,uncle,đìtó,HL
-63,35,Pe,aunt,đìđí,HL
-64,36,Pe,frog,làʔƀá,HL
-65,37,Pe,bird,tɨ́-làá,HL
-66,39,Pe,town,ñùú,HL
-67,40,Pe,brother,ñàní,HL
-68,41,Pe,hole,žàú,HL
-69,42,Pe,flower,ìtá,HL
-70,43,Pe,deer,ìđú,HL
-71,44,Pe,inside,ìní,HL
-72,45,Pe,dog,ìná,HL
-73,46,Pe,stomach,(šɨ̀tɨ́),LH
-74,47,Pe,man,téè,LH
-75,48,Pe,word,túʔù̧,LH
-76,49,Pe,clay pot,kɨ́đɨ̀,LH
-77,51,Pe,meat,kùñú,LH
-78,52,Pe,cross-sex sibling,kúʔà,LH
-79,53,Pe,adobe,ⁿdóʔò,LH
-80,54,Pe,child,đéʔè,LH
-81,55,Pe,sibling's wife,sánù,LH
-82,56,Pe,ear,đóʔò,LH
-83,57,Pe,tooth,nú̧ʔù̧,LH
-84,58,Pe,river,žútè,LH
-85,59,Pe,cold,ƀíšì̧,LH
-86,60,Pe,good,ƀáʔà,LH
-87,62,Pe,four,kúmí,LLʔ
-88,65,Pe,snake,kóó,LLʔ
-89,67,Pe,cane,(tù-žòò),LLʔ
-90,68,Pe,tortilla,đítá,LLʔ
-91,69,Pe,head,(dɨ́kɨ́),LLʔ
-92,70,Pe,comal,šíó,LLʔ
-93,71,Pe,soap,námá,LLʔ
-94,72,Pe,face,núú,LLʔ
-95,73,Pe,corn,núní,LLʔ
-96,74,Pe,stone,žúú,LLʔ
-97,75,Pe,moon,žóó,LLʔ
-98,76,Pe,to go,kɨ̧́ʔɨ̧́,LL
-99,77,Pe,comb,kúká,LL
-100,78,Pe,sister,kúʔú,LL
-101,79,Pe,to cut,kèʔⁿdé,LL
-102,80,Pe,to speak,ká̧ʔá̧,LL
-103,81,Pe,year,kʷíá,LL
-104,82,Pe,niece,đíkú,LL
-105,83,Pe,nephew,đáší̧,LL
-106,84,Pe,foot,sáʔá,LL
-107,85,Pe,"herb, bush",žúkú,LL
-108,86,Pe,thread,žúʔá,LL
-109,87,Pe,sweet,(sá-)ƀìdí,LL
-110,88,Pe,nine,ɨ̧́ɨ̧́,LL
-111,89,Pe,two,úú,LL
-112,90,Pe,five,ú̧ʔú̧,LL
-113,92,Pe,rat,tɨ̀ñɨ̀,MT
-114,94,Pe,fish,čáká,MT
-115,95,Pe,black,tù̧ù̧,MT
-116,96,Pe,sibling's husband,kàđà,MT
-117,97,Pe,long,kâní,MT
-118,98,Pe,big (sg),kâʔnù,MT
-119,99,Pe,white,kʷîší̧,MT
-120,100,Pe,green,kʷîì,MT
-121,102,Pe,red,(tɨ̀-)kʷêʔé,MT
-122,103,Pe,yellow,kʷâ̧á̧,MT
-123,104,Pe,poor,ⁿdâʔú,MT
-124,105,Pe,to sell,đìkò,MT
-125,106,Pe,precious metal,đí̧ʔú̧,MT
-126,107,Pe,new,sàà,MT
-127,108,Pe,little,líʔlì,MT
-128,109,Pe,people,ñá-žɨ̀ù,MT
-129,110,Pe,tongue,žâá,MT
-130,2,Coa,to eat,káʔší,HHʔ
-131,3,Coa,beans,ⁿdùʔȼì,HHʔ
-132,4,Coa,water,ⁿdùʔtè,HHʔ
-133,5,Coa,hand,ⁿdàʔà,HHʔ
-134,6,Coa,clothes,đàʔmà̧,HHʔ
-135,10,Coa,mouth,šùʔù,HHʔ
-136,12,Coa,chile,šàʔà,HHʔ
-137,14,Coa,rope,šòʔò,HHʔ
-138,16,Coa,work,ȼìñù,HH
-139,20,Coa,to be,kùƀì,HH
-140,21,Coa,to sing,kàʔtà,HH
-141,23,Coa,to burn,kàʔmì̧,HH
-142,24,Coa,to look,kòʔtò,HH
-143,25,Coa,to drink,kòʔò,HH
-144,26,Coa,to buy,kʷì̧ì̧,HH
-145,28,Coa,house,ƀìʔì,HH
-146,31,Coa,paper,túʔtú,HL
-147,34,Coa,uncle,đító!,HL
-148,35,Coa,aunt,đíđí!,HL
-149,36,Coa,frog,ȼàʔƀá!,HL
-150,37,Coa,bird,làá!,HL
-151,39,Coa,town,ñù̧ú̧!,HL
-152,40,Coa,brother,éní̧!,HL
-153,41,Coa,hole,šáƀǐ,HL
-154,42,Coa,flower,(làà),HL
-155,43,Coa,horse,íđú,HL
-156,45,Coa,dog,t-ìná̧!,HL
-157,48,Coa,word,tù̧ʔú̧!,LH
-158,49,Coa,clay pot,kɨ̀đɨ́!,LH
-159,50,Coa,metal,kàá!,LH
-160,51,Coa,meat,kùñú̧!,LH
-161,53,Coa,adobe,ⁿdòʔó!,LH
-162,54,Coa,child,íʔšá!,LH
-163,55,Coa,sibling's wife,ènú!,LH
-164,57,Coa,tooth,nù̧ʔú̧!,LH
-165,59,Coa,cold,ƀíʔšǐ̧,LH
-166,60,Coa,good,ƀáʔǎ,LH
-167,62,Coa,four,kɨ́mǐ̧,LLʔ
-168,64,Coa,cotton,káʔȼǐ,LLʔ
-169,65,Coa,snake,kóǒ,LLʔ
-170,66,Coa,sandal,ⁿdíʔšȩ̌,LLʔ
-171,68,Coa,tortilla,íʔtǎ,LLʔ
-172,70,Coa,comal,šíǒ,LLʔ
-173,72,Coa,face,nú̧ǔ̧,LLʔ
-174,74,Coa,stone,šúǔ,LLʔ
-175,75,Coa,moon,šóǒ,LLʔ
-176,76,Coa,to go,kɨ̧́ʔɨ̧̌,LL
-177,79,Coa,to cut,káʔⁿdé!,LL
-178,81,Coa,year,kʷíǎ,LL
-179,86,Coa,thread,šúʔƀé,LL
-180,87,Coa,sweet,ƀí̧dǐ̧,LL
-181,89,Coa,two,úƀǐ,LL
-182,90,Coa,five,ú̧ʔǔ̧,LL
-183,91,Coa,fingernail,ȼì̧ì̧,MT
-184,93,Coa,turkey hen,ȼú̧ǔ̧,MT
-185,94,Coa,fish,ȼàʔká!,MT
-186,96,Coa,sibling's husband,kàđá!,MT
-187,97,Coa,long,kànì̧,MT
-188,98,Coa,big (sg),kàʔnù̧,MT
-189,99,Coa,white,kʷìʔší̧!,MT
-190,100,Coa,green,kʷìì,MT
-191,101,Coa,small (in pieces),kʷèčì,MT
-192,102,Coa,red,kʷèʔé!,MT
-193,103,Coa,yellow,kʷà̧á̧,MT
-194,104,Coa,poor,ⁿdàʔƀí!,MT
-195,106,Coa,precious metal,đyúʔǔ,MT
-196,107,Coa,new,šèě,MT
-197,108,Coa,little,lùʔⁿdí!,MT
-198,1,Mol,animal,kītī,HHʔ
-199,2,Mol,to eat,kāā (M),HHʔ
-200,3,Mol,beans,ⁿdūčī,HHʔ
-201,4,Mol,water,ⁿdūtē (M),HHʔ
-202,5,Mol,hand,ⁿdāʔā (M),HHʔ
-203,6,Mol,clothes,sāʔmā (M),HHʔ
-204,7,Mol,tree,žūtū̧ (M),HHʔ
-205,8,Mol,mountain,žūkū (M),HHʔ
-206,10,Mol,mouth,žūʔū (M),HHʔ
-207,12,Mol,chile,žāʔā (M),HHʔ
-208,13,Mol,woman,ñā̧ʔā̧,HHʔ
-209,14,Mol,rope,žōʔō,HHʔ
-210,15,Mol,road,īčī,HHʔ
-211,16,Mol,work,tī̧ñū̧,HH
-212,18,Mol,to come,kīī,HH
-213,19,Mol,to run,kūnū,HH
-214,20,Mol,to be,kūū,HH
-215,21,Mol,to sing,kātā,HH
-216,24,Mol,to look,kōtō,HH
-217,25,Mol,to drink,kōʔō,HH
-218,26,Mol,to buy,kʷā̧ā̧,HH
-219,27,Mol,now,ƀītā̧,HH
-220,28,Mol,house,ƀēʔē,HH
-221,29,Mol,yesterday,īkū,HH
-222,30,Mol,one,ī̧ī̧,HH
-223,31,Mol,paper,tūtù,HL
-224,34,Mol,uncle,stōò,HL
-225,35,Mol,aunt,sīsì,HL
-226,39,Mol,town,ñùù,HL
-227,42,Mol,flower,ītà,HL
-228,43,Mol,deer,īsù,HL
-229,44,Mol,inside,īnì,HL
-230,45,Mol,dog,īnà,HL
-231,46,Mol,stomach,čìī,LH
-232,47,Mol,man,tèē,LH
-233,49,Mol,clay pot,kìsī,LH
-234,50,Mol,metal,kàā,LH
-235,52,Mol,cross-sex sibling,kʷàʔā,LH
-236,54,Mol,child,sèʔē,LH
-237,57,Mol,tooth,nù̧ʔū̧,LH
-238,58,Mol,river,žùtē,LH
-239,59,Mol,cold,ƀìxī̧,LH
-240,60,Mol,good,ƀàʔā,LH
-241,61,Mol,medicine,tàtà̧,LLʔ
-242,62,Mol,four,kù̧ù̧ (M),LLʔ
-243,63,Mol,day,kìƀì,LLʔ
-244,64,Mol,cotton,kàčì,LLʔ
-245,65,Mol,snake,kòò (M),LLʔ
-246,68,Mol,tortilla,stàà (M),LLʔ
-247,69,Mol,head,šìnì (M),LLʔ
-248,71,Mol,soap,nàmà (M),LLʔ
-249,72,Mol,face,nùù,LLʔ
-250,73,Mol,corn,nùnì,LLʔ
-251,75,Mol,moon,žòò (M),LLʔ
-252,76,Mol,to go,kí̧ʔì̧,LL
-253,78,Mol,sister,kùʔù,LL
-254,80,Mol,to speak,kà̧ʔà̧,LL
-255,81,Mol,year,kʷìžà,LL
-256,85,Mol,"herb, bush",žùkù,LL
-257,87,Mol,sweet,ƀìšì,LL
-258,88,Mol,nine,ì̧ì̧,LL
-259,89,Mol,two,ùù,LL
-260,90,Mol,five,ù̧ʔù̧,LL
-261,94,Mol,fish,čākā,MT
-262,95,Mol,black,tū̧ū̧,MT
-263,97,Mol,long,kání,MT
-264,101,Mol,small (in pieces),kʷéčì,MT
-265,104,Mol,poor,ⁿdáʔƀí,MT
-266,105,Mol,to sell,šìkō,MT
-267,106,Mol,precious metal,šù̧ʔū̧,MT
-268,108,Mol,little,lūlī,MT
-269,109,Mol,people,ñà-žīƀī,MT
-270,1,Oco,animal,kītī,HHʔ
-271,4,Oco,water,ⁿdūtē,HHʔ
-272,5,Oco,hand,ⁿdāʔá,HHʔ
-273,6,Oco,clothes,sāʔmā,HHʔ
-274,7,Oco,tree,ñū̧tū̧,HHʔ
-275,8,Oco,mountain,žūkū,HHʔ
-276,9,Oco,straw mat,žūū,HHʔ
-277,10,Oco,mouth,žūʔú,HHʔ
-278,15,Oco,road,īčī,HHʔ
-279,16,Oco,work,tīñū,HH
-280,17,Oco,handspan,tōō,HH
-281,21,Oco,to sing,kātā,HH
-282,22,Oco,to be born,kākū,HH
-283,28,Oco,house,ƀēʔē,HH
-284,29,Oco,yesterday,īkū,HH
-285,34,Oco,uncle,šītò,HL
-286,35,Oco,aunt,šīšì,HL
-287,37,Oco,bird,sāà,HL
-288,39,Oco,town,ñūù,HL
-289,40,Oco,brother,ñānì,HL
-290,42,Oco,flower,ītà,HL
-291,43,Oco,deer,īsù,HL
-292,44,Oco,inside,īnì,HL
-293,45,Oco,dog,t-īnà,HL
-294,46,Oco,stomach,čìhī,LH
-295,47,Oco,man,tèē,LH
-296,50,Oco,metal,kàā,LH
-297,51,Oco,meat,kùñū,LH
-298,52,Oco,cross-sex sibling,kʷàʔā,LH
-299,54,Oco,child,sèʔē,LH
-300,55,Oco,sibling's wife,xànū,LH
-301,58,Oco,river,žùtē,LH
-302,60,Oco,good,ƀàʔā,LH
-303,61,Oco,medicine,tà̧tà̧,LLʔ
-304,62,Oco,four,kùmì,LLʔ
-305,68,Oco,tortilla,šìtà,LLʔ
-306,69,Oco,head,šìnì,LLʔ
-307,72,Oco,face,nùù,LLʔ
-308,73,Oco,corn,nùnì,LLʔ
-309,74,Oco,stone,žùù,LLʔ
-310,76,Oco,to go,kí̧ʔì̧,LL
-311,78,Oco,sister,kùʔù,LL
-312,80,Oco,to speak,kà̧ʔà̧,LL
-313,82,Oco,niece,šìkù,LL
-314,83,Oco,nephew,sàxì̧,LL
-315,84,Oco,foot,xèʔè,LL
-316,85,Oco,"herb, bush",žùkù,LL
-317,93,Oco,turkey hen,čù̧ú̧,MT
-318,96,Oco,sibling's husband,kàsá,MT
-319,97,Oco,long,kání,MT
-320,98,Oco,big (sg),káʔnū,MT
-321,99,Oco,white,kʷīxí̧,MT
-322,104,Oco,poor,ⁿdáʔƀí,MT
-323,105,Oco,to sell,šìkó,MT
-324,106,Oco,precious metal,šù̧ʔú̧,MT
-325,107,Oco,new,xēé,MT
-326,108,Oco,little,lūlí,MT
-327,109,Oco,people,ⁿǰīƀì,MT
-328,110,Oco,tongue,žáá,MT
-329,1,Ata,animal,kɨ̄tɨ̄,HHʔ
-330,2,Ata,to eat,kāxī,HHʔ
-331,3,Ata,beans,ⁿdūčī,HHʔ
-332,4,Ata,water,ⁿdūtē,HHʔ
-333,5,Ata,hand,ⁿdāʔā,HHʔ
-334,6,Ata,clothes,sāʔmā,HHʔ
-335,7,Ata,tree,žūNū,HHʔ
-336,8,Ata,mountain,žūkū,HHʔ
-337,9,Ata,straw mat,žūū,HHʔ
-338,10,Ata,mouth,žūʔū,HHʔ
-339,11,Ata,bone,žɨ̄kɨ̄,HHʔ
-340,12,Ata,chile,žāʔā,HHʔ
-341,13,Ata,woman,ñā̧ʔā̧,HHʔ
-342,14,Ata,rope,žōʔō,HHʔ
-343,15,Ata,road,īčī,HHʔ
-344,16,Ata,work,Nīñū,HH
-345,17,Ata,handspan,tōō,HH
-346,18,Ata,to come,kīxī,HH
-347,19,Ata,to run,kūnū,HH
-348,20,Ata,to be,kūū,HH
-349,21,Ata,to sing,kātā,HH
-350,22,Ata,to be born,kākū,HH
-351,23,Ata,to burn,kāʔmū,HH
-352,24,Ata,to look,kōtō,HH
-353,25,Ata,to drink,kōʔō,HH
-354,26,Ata,to buy,kʷā̧ā̧,HH
-355,27,Ata,now,ƀīNā,HH
-356,28,Ata,house,ƀēʔē,HH
-357,29,Ata,yesterday,īkū,HH
-358,30,Ata,one,ī̧ī̧,HH
-359,31,Ata,paper,tūtū,HL
-360,33,Ata,lime,kākā,HL
-361,34,Ata,uncle,stōō,HL
-362,35,Ata,aunt,sīsī,HL
-363,37,Ata,bird,sāā,HL
-364,39,Ata,town,ñūū,HL
-365,40,Ata,brother,ñānī,HL
-366,41,Ata,hole,žāū,HL
-367,41,Ata,hole,žāƀū,HL
-368,42,Ata,flower,ītā,HL
-369,44,Ata,inside,īnī,HL
-370,45,Ata,dog,īnā,HL
-371,46,Ata,stomach,čìhī,LH
-372,47,Ata,man,tèē,LH
-373,48,Ata,word,Nù̧ʔū̧,LH
-374,49,Ata,clay pot,kɨ̀sɨ̄,LH
-375,50,Ata,metal,kàā,LH
-376,51,Ata,meat,kùñū,LH
-377,52,Ata,cross-sex sibling,kʷàʔā,LH
-378,54,Ata,child,sèʔē,LH
-379,55,Ata,sibling's wife,xènū,LH
-380,56,Ata,ear,sòʔō,LH
-381,57,Ata,tooth,Nù̧ʔū̧,LH
-382,58,Ata,river,žùtē,LH
-383,59,Ata,cold,mìxī̧,LH
-384,60,Ata,good,ƀàʔā,LH
-385,61,Ata,medicine,tāNà,LLʔ
-386,62,Ata,four,kū̧ù̧,LLʔ
-387,63,Ata,day,kɨ̄ƀɨ̀,LLʔ
-388,65,Ata,snake,kōò,LLʔ
-389,66,Ata,sandal,ⁿdīxȩ̀,LLʔ
-390,67,Ata,cane,ⁿdōò,LLʔ
-391,68,Ata,tortilla,stāà,LLʔ
-392,69,Ata,head,šīnì,LLʔ
-393,70,Ata,comal,xīžò,LLʔ
-394,71,Ata,soap,nāmà,LLʔ
-395,72,Ata,face,nūù,LLʔ
-396,73,Ata,corn,nūnì,LLʔ
-397,74,Ata,stone,žūù,LLʔ
-398,75,Ata,moon,žōò,LLʔ
-399,76,Ata,to go,kɨ̧̄ʔɨ̧̀,LL
-400,77,Ata,comb,kūkà,LL
-401,78,Ata,sister,kùʔù,LL
-402,79,Ata,to cut,kāʔⁿdè,LL
-403,80,Ata,to speak,kā̧ʔà̧,LL
-404,82,Ata,niece,šīkù,LL
-405,83,Ata,nephew,sāxì̧,LL
-406,84,Ata,foot,xēʔè,LL
-407,85,Ata,"herb, bush",žūkù,LL
-408,86,Ata,thread,žūʔƀà,LL
-409,87,Ata,sweet,ƀīšì,LL
-410,88,Ata,nine,ɨ̧̄ɨ̧̀,LL
-411,89,Ata,two,ūù,LL
-412,90,Ata,five,ū̧ʔù̧,LL
-413,91,Ata,fingernail,Ní̧í̧,MT
-414,92,Ata,rat,Nɨ́ñɨ́,MT
-415,93,Ata,turkey hen,čù̧ú̧,MT
-416,94,Ata,fish,čàká,MT
-417,95,Ata,black,Nú̧ú̧,MT
-418,96,Ata,sibling's husband,kàsá,MT
-419,97,Ata,long,kánī,MT
-420,98,Ata,big (sg),káʔnū,MT
-421,99,Ata,white,kʷíxí̧,MT
-422,103,Ata,yellow,kʷá̧á̧,MT
-423,104,Ata,poor,ⁿdáʔú,MT
-424,105,Ata,to sell,šìkó,MT
-425,106,Ata,precious metal,šù̧ʔú̧,MT
-426,107,Ata,new,xēé,MT
-427,108,Ata,little,lùlí,MT
-428,109,Ata,people,ñà-žūū,MT
-429,110,Ata,tongue,žáá,MT
-430,1,SM,animal,kɨ̄tɨ̄ (M),HHʔ
-431,2,SM,to eat,kāxī (M),HHʔ
-432,3,SM,beans,ⁿdūčī (M),HHʔ
-433,4,SM,water,ⁿdūčā (M),HHʔ
-434,5,SM,hand,ⁿdāʔā (M),HHʔ
-435,6,SM,clothes,sāʔmā (M),HHʔ
-436,7,SM,tree,žūnū (M),HHʔ
-437,8,SM,mountain,žūkū (M),HHʔ
-438,9,SM,straw mat,žūū (M),HHʔ
-439,10,SM,mouth,žūʔū (M),HHʔ
-440,11,SM,bone,žɨ̄kɨ̄ (M),HHʔ
-441,12,SM,chile,žāʔā (M),HHʔ
-442,13,SM,woman,ñā̧ʔā̧ (M),HHʔ
-443,14,SM,rope,žōʔō (M),HHʔ
-444,15,SM,road,īčī (M),HHʔ
-445,16,SM,work,tīñū,HH
-446,17,SM,handspan,tōō,HH
-447,18,SM,to come,kīī,HH
-448,19,SM,to run,kūnū,HH
-449,20,SM,to be,kūū,HH
-450,21,SM,to sing,kātā,HH
-451,22,SM,to be born,kākū,HH
-452,23,SM,to burn,kāʔmū,HH
-453,24,SM,to look,kōtō,HH
-454,25,SM,to drink,kōʔō,HH
-455,26,SM,to buy,kʷā̧ā̧,HH
-456,27,SM,now,ƀīnā,HH
-457,27,SM,now,ƀītā̧,HH
-458,28,SM,house,ƀēʔē,HH
-459,29,SM,yesterday,īkū (M),HH
-460,30,SM,one,ī̧ī̧,HH
-461,31,SM,paper,tūtù,HL
-462,32,SM,stool,tēžù,HL
-463,33,SM,lime,kākà,HL
-464,34,SM,uncle,stōò,HL
-465,35,SM,aunt,šīì,HL
-466,36,SM,frog,sāʔƀà,HL
-467,37,SM,bird,sāà,HL
-468,38,SM,wall,nāmà,HL
-469,39,SM,town,ñūù,HL
-470,40,SM,brother,ñānì,HL
-471,41,SM,hole,žāù,HL
-472,42,SM,flower,ītā,HL
-473,43,SM,deer,īsù,HL
-474,44,SM,inside,īnì,HL
-475,45,SM,dog,īnà,HL
-476,46,SM,stomach,čìī,LH
-477,47,SM,man,čàā,LH
-478,48,SM,word,tù̧ʔū̧,LH
-479,49,SM,clay pot,kɨ̀sɨ̄,LH
-480,50,SM,metal,kàā,LH
-481,51,SM,meat,kùñū,LH
-482,52,SM,cross-sex sibling,kʷàʔā,LH
-483,53,SM,adobe,ⁿdòʔō,LH
-484,54,SM,child,sèʔē,LH
-485,55,SM,sibling's wife,xànū,LH
-486,56,SM,ear,sòʔō,LH
-487,57,SM,tooth,nù̧ʔū̧,LH
-488,58,SM,river,žùčā,LH
-489,59,SM,cold,ƀìxī̧,LH
-490,60,SM,good,ƀàʔā,LH
-491,61,SM,medicine,tānà,LLʔ
-492,62,SM,four,kū̧ù̧ (M),LLʔ
-493,63,SM,day,kɨ̄ƀɨ̀,LLʔ
-494,64,SM,cotton,kāčì,LLʔ
-495,65,SM,snake,kōò (M),LLʔ
-496,66,SM,sandal,ⁿdīxà̧ (M),LLʔ
-497,67,SM,cane,ⁿdōò,LLʔ
-498,68,SM,tortilla,stāà (M),LLʔ
-499,69,SM,head,šīnì (M),LLʔ
-500,70,SM,comal,xīò,LLʔ
-501,71,SM,soap,nāmà,LLʔ
-502,72,SM,face,nūù (M),LLʔ
-503,73,SM,corn,nūnì,LLʔ
-504,74,SM,stone,žūù,LLʔ
-505,75,SM,moon,žōò,LLʔ
-506,76,SM,to go,kɨ̧̄ʔɨ̧̀,LL
-507,77,SM,comb,kūkà,LL
-508,78,SM,sister,kùʔù,LL
-509,79,SM,to cut,kāʔⁿǰà,LL
-510,80,SM,to speak,kā̧ʔà̧,LL
-511,81,SM,year,kʷīà,LL
-512,82,SM,niece,šīkù,LL
-513,83,SM,nephew,sāxì̧,LL
-514,84,SM,foot,xāʔà,LL
-515,85,SM,"herb, bush",žūkù,LL
-516,86,SM,thread,žūʔà,LL
-517,87,SM,sweet,ƀīšì,LL
-518,88,SM,nine,ɨ̧̄ɨ̧̀,LL
-519,89,SM,two,ūù,LL
-520,90,SM,five,ū̧ʔù̧,LL
-521,91,SM,fingernail,tíñū,MT
-522,92,SM,rat,tɨ̄ní,MT
-523,93,SM,turkey hen,čù̧ú̧,MT
-524,93,SM,turkey hen,tī-ñùú,MT
-525,94,SM,fish,čáká,MT
-526,94,SM,fish,tɨ̄-žáká,MT
-527,95,SM,black,tú̧ú̧,MT
-528,96,SM,sibling's husband,kàsá,MT
-529,97,SM,long,kánī,MT
-530,98,SM,big (sg),káʔnū,MT
-531,99,SM,white,kʷíxí̧,MT
-532,100,SM,green,kʷíì,MT
-533,101,SM,small (in pieces),kʷáčí,MT
-534,102,SM,red,kʷáʔá,MT
-535,103,SM,yellow,kʷá̧á̧,MT
-536,104,SM,poor,ⁿdáʔú,MT
-537,105,SM,to sell,šìkó,MT
-538,106,SM,precious metal,šù̧ʔú̧,MT
-539,107,SM,new,xáá,MT
-540,108,SM,little,lúlí,MT
-541,109,SM,people,ñà-žɨ̄ƀɨ̄,MT
-542,110,SM,tongue,žáā,MT
-543,1,Cac,animal,kītì (M),HHʔ
-544,2,Cac,to eat,kāà (M),HHʔ
-545,3,Cac,beans,ⁿdūčī (M),HHʔ
-546,6,Cac,clothes,đāʔmà̧ (M),HHʔ
-547,7,Cac,tree,žītò̧,HHʔ
-548,9,Cac,straw mat,žūù (M),HHʔ
-549,10,Cac,mouth,žūʔū (M),HHʔ
-550,14,Cac,rope,žōʔò,HHʔ
-551,16,Cac,work,čō̧ō̧,HH
-552,18,Cac,to come,kīšī,HH
-553,21,Cac,to sing,kātā,HH
-554,23,Cac,to burn,kāʔmā̧,HH
-555,27,Cac,now,ƀīčī,HH
-556,28,Cac,house,ƀēʔē,HH
-557,30,Cac,one,ī̧ī̧,HH
-558,31,Cac,paper,tūtù,HL
-559,32,Cac,stool,tēì,HL
-560,34,Cac,uncle,đītò,HL
-561,35,Cac,aunt,đīđì,HL
-562,37,Cac,bird,tì-lāà,HL
-563,38,Cac,wall,nā̧mà̧,HL
-564,39,Cac,town,ñō̧ò̧,HL
-565,40,Cac,brother,ñāñī̧,HL
-566,45,Cac,dog,t-ì̧nā̧,HL
-567,46,Cac,stomach,tìšī,LH
-568,49,Cac,clay pot,kìđī,LH
-569,50,Cac,metal,kàā,LH
-570,51,Cac,meat,kò̧ñō̧,LH
-571,54,Cac,child,đèʔē,LH
-572,56,Cac,ear,đòʔō,LH
-573,57,Cac,tooth,nò̧ʔō̧,LH
-574,59,Cac,cold,ƀìšī,LH
-575,60,Cac,good,ƀàʔā,LH
-576,61,Cac,medicine,tàtà (M),LLʔ
-577,62,Cac,four,kòmì̧ (M),LLʔ
-578,64,Cac,cotton,kàčì,LLʔ
-579,65,Cac,snake,kòò,LLʔ
-580,66,Cac,sandal,ⁿdìsà,LLʔ
-581,67,Cac,cane,ⁿdòò (M),LLʔ
-582,68,Cac,tortilla,đìtà (M),LLʔ
-583,69,Cac,head,đìnì (M),LLʔ
-584,70,Cac,comal,šòò (M),LLʔ
-585,71,Cac,soap,nàmà (M),LLʔ
-586,74,Cac,stone,žùù,LLʔ
-587,77,Cac,comb,kùkà,LL
-588,78,Cac,sister,kùʔù,LL
-589,79,Cac,to cut,tèʔⁿdè,LL
-590,80,Cac,to speak,kà̧ʔà̧,LL
-591,81,Cac,year,kùà,LL
-592,84,Cac,foot,sàʔà,LL
-593,86,Cac,thread,žùʔà,LL
-594,87,Cac,sweet,ƀìđì,LL
-595,88,Cac,nine,ì̧ì̧,LL
-596,91,Cac,fingernail,čí̧ì̧,MT
-597,93,Cac,turkey hen,čò̧ò̧,MT
-598,94,Cac,fish,tì-žākā,MT
-599,97,Cac,long,kánì̧,MT
-600,99,Cac,white,kúší,MT
-601,100,Cac,green,kʷíì,MT
-602,102,Cac,red,kʷàʔá,MT
-603,103,Cac,yellow,kʷà̧á̧,MT
-604,105,Cac,to sell,đìkò,MT
-605,107,Cac,new,sàà,MT
-606,108,Cac,little,līlūū,MT
-607,110,Cac,tongue,žáà,MT
-608,1,Xay,animal,kīsì (M),HHʔ
-609,5,Xay,hand,ⁿdāʔà (M),HHʔ
-610,6,Xay,clothes,đāʔmà̧ (M),HHʔ
-611,9,Xay,straw mat,yūì,HHʔ
-612,13,Xay,woman,ñā̧ʔà̧,HHʔ
-613,14,Xay,rope,yōʔò,HHʔ
-614,16,Xay,work,čū̧ū̧,HH
-615,17,Xay,handspan,tōō,HH
-616,20,Xay,to be,kūū,HH
-617,27,Xay,now,ƀīčī,HH
-618,28,Xay,house,ƀēʔē,HH
-619,29,Xay,yesterday,īkū,HH
-620,30,Xay,one,ī̧ī̧,HH
-621,31,Xay,paper,tūtū,HL
-622,34,Xay,uncle,đītò,HL
-623,35,Xay,aunt,đīđī,HL
-624,38,Xay,wall,nāmā,HL
-625,40,Xay,brother,ñānī,HL
-626,41,Xay,hole,yāƀī,HL
-627,43,Xay,horse,īđū,HL
-628,45,Xay,dog,sì-īnà,HL
-629,47,Xay,man,tʸàā,LH
-630,50,Xay,metal,kàā,LH
-631,52,Xay,cross-sex sibling,kùʔā,LH
-632,53,Xay,adobe,ⁿdòʔō,LH
-633,54,Xay,child,đèʔē,LH
-634,55,Xay,sibling's wife,sànū,LH
-635,59,Xay,cold,ƀìšī̧,LH
-636,60,Xay,good,ƀàʔā,LH
-637,62,Xay,four,kùmì (M),LLʔ
-638,65,Xay,snake,kòò,LLʔ
-639,66,Xay,sandal,ⁿdìsà̧,LLʔ
-640,68,Xay,tortilla,đìtà (M),LLʔ
-641,72,Xay,face,nùù,LLʔ
-642,74,Xay,stone,yùù (M),LLʔ
-643,78,Xay,sister,kùʔù,LL
-644,79,Xay,to cut,tàʔⁿdè,LL
-645,82,Xay,niece,đīkū,LL
-646,83,Xay,nephew,đášì,LL
-647,86,Xay,thread,yùʔà,LL
-648,87,Xay,sweet,ƀìđì,LL
-649,88,Xay,nine,ì̧ì̧,LL
-650,89,Xay,two,ùì,LL
-651,91,Xay,fingernail,čī̧ī̧,MT
-652,94,Xay,fish,s-yākā,MT
-653,96,Xay,sibling's husband,kāđà,MT
-654,101,Xay,small (in pieces),kʷātī,MT
-655,102,Xay,red,kʷàʔá,MT
-656,103,Xay,yellow,kʷà̧á̧,MT
-657,104,Xay,poor,ⁿdàʔƀí,MT
-658,110,Xay,tongue,yàá,MT
-659,2,Ay,to eat,kàšìʔ,HHʔ
-660,3,Ay,beans,ⁿdùčíʔ,HHʔ
-661,4,Ay,water,(ti kʷii),HHʔ
-662,5,Ay,hand,ⁿdàʔáʔ,HHʔ
-663,6,Ay,clothes,sàʔmáʔ,HHʔ
-664,7,Ay,tree,ìtú̧ʔ,HHʔ
-665,9,Ay,straw mat,yìwìʔ,HHʔ
-666,10,Ay,mouth,yùʔúʔ,HHʔ
-667,11,Ay,bone,ìkìʔ,HHʔ
-668,16,Ay,work,čù̧ù̧,HH
-669,17,Ay,handspan,tòò,HH
-670,18,Ay,to come,kìšì,HH
-671,19,Ay,to run,kùnù,HH
-672,24,Ay,to look,kòtò,HH
-673,27,Ay,now,wìtì̧,HH
-674,28,Ay,house,wìʔè,HH
-675,30,Ay,one,ì̧ì̧,HH
-676,31,Ay,paper,tùtù,HL
-677,33,Ay,lime,kàkà,HL
-678,34,Ay,uncle,šìtò,HL
-679,35,Ay,aunt,šìšì,HL
-680,37,Ay,bird,sàà,HL
-681,38,Ay,wall,nāmà,HL
-682,39,Ay,town,ñùù,HL
-683,40,Ay,brother,ñànì,HL
-684,42,Ay,flower,ìtà,HL
-685,44,Ay,inside,ìnì,HL
-686,47,Ay,man,tʸāà,LH
-687,48,Ay,word,tù̧ʔù̧,LH
-688,49,Ay,clay pot,kìsì,LH
-689,50,Ay,metal,kàà,LH
-690,53,Ay,adobe,ⁿdòʔò,LH
-691,54,Ay,child,sīʔè,LH
-692,55,Ay,sibling's wife,šànù,LH
-693,56,Ay,ear,sōʔò,LH
-694,59,Ay,cold,wìšì̧,LH
-695,60,Ay,good,wàʔà,LH
-696,62,Ay,four,kùmíʔ,LLʔ
-697,64,Ay,cotton,kāčìʔ,LLʔ
-698,65,Ay,snake,kōòʔ,LLʔ
-699,66,Ay,sandal,ⁿdīšà̧ʔ,LLʔ
-700,68,Ay,tortilla,štā ̀ʔ,LLʔ
-701,69,Ay,head,šīnìʔ,LLʔ
-702,71,Ay,soap,nāmàʔ,LLʔ
-703,73,Ay,corn,nūnìʔ,LLʔ
-704,74,Ay,stone,yūùʔ,LLʔ
-705,76,Ay,to go,kū̧ʔù̧,LL
-706,78,Ay,sister,kūʔwà,LL
-707,79,Ay,to cut,kāʔⁿdʸà,LL
-708,80,Ay,to speak,kā̧ʔà̧,LL
-709,82,Ay,niece,sīkù,LL
-710,83,Ay,nephew,sāšì̧,LL
-711,85,Ay,leaf,yūkù,LL
-712,89,Ay,two,ūwì,LL
-713,93,Ay,turkey hen,tʸù̧ù̧ʔ,MT
-714,94,Ay,fish,tʸàkáʔ,MT
-715,95,Ay,black,tù̧ú̧ʔ,MT
-716,96,Ay,sibling's husband,kàsáʔ,MT
-717,97,Ay,long,kánìʔ,MT
-718,98,Ay,important,káʔnúʔ,MT
-719,100,Ay,green,kʷíìʔ,MT
-720,101,Ay,small (in pieces),kʷáčí,MT
-721,102,Ay,red,kʷáʔá,MT
-722,103,Ay,yellow,kʷá̧á̧,MT
-723,104,Ay,poor,ⁿdàʔwí,MT
-724,105,Ay,to sell,šìkòʔ,MT
-725,106,Ay,precious metal,šù̧ʔú̧ʔ,MT
-726,108,Ay,little,lúlú,MT
-727,109,Ay,people,nè-yíwìʔ,MT
-728,110,Ay,tongue,yáà,MT
-729,3,Ala,beans,ⁿdūčù,HHʔ
-730,5,Ala,hand,ⁿdàʔā,HHʔ
-731,10,Ala,mouth,yūʔù,HHʔ
-732,16,Ala,work,čīñō̧,HH
-733,27,Ala,now,ƀītī̧,HH
-734,28,Ala,house,ƀēʔē,HH
-735,32,Ala,stool,tāyì,HL
-736,39,Ala,town,ñō̧ō̧,HL
-737,41,Ala,hole,yāƀì,HL
-738,43,Ala,deer,yūsū,HL
-739,45,Ala,dog,īnā̧,HL
-740,49,Ala,clay pot,kìsī,LH
-741,51,Ala,meat,kùñō̧,LH
-742,53,Ala,adobe,ⁿdòʔō,LH
-743,56,Ala,ear,sòʔō,LH
-744,59,Ala,cold,ƀìšī,LH
-745,60,Ala,good,ƀàʔā,LH
-746,63,Ala,day,kìƀì,LLʔ
-747,65,Ala,snake,kòò,LLʔ
-748,68,Ala,tortilla,sìtà,LLʔ
-749,70,Ala,comal,šìyò,LLʔ
-750,74,Ala,stone,yùù,LLʔ
-751,75,Ala,moon,yòò,LLʔ
-752,76,Ala,to go,kò̧ʔò̧,LL
-753,77,Ala,comb,kʷìkà,LL
-754,84,Ala,foot,šàʔà,LL
-755,86,Ala,thread,yìʔƀà,LL
-756,91,Ala,fingernail,číì,MT
-757,93,Ala,turkey hen,tì̧ú̧,MT
-758,94,Ala,fish,tiáká,MT
-759,95,Ala,black,tò̧ó̧,MT
-760,97,Ala,long,kánì,MT
-761,102,Ala,red,kʷáʔá,MT
-762,103,Ala,yellow,kʷá̧á̧,MT
-763,107,Ala,new,šāá,MT
-764,109,Ala,people,nì̧ƀī,MT
-765,110,Ala,tongue,láà,MT
-766,1,Met,animal,kītí,HHʔ
-767,2,Met,to eat,kāšī,HHʔ
-768,5,Met,hand,ⁿdàʔā,HHʔ
-769,7,Met,tree,yūtú̧,HHʔ
-770,9,Met,straw mat,yūƀì (M),HHʔ
-771,10,Met,mouth,yùʔū,HHʔ
-772,11,Met,bone,īkí,HHʔ
-773,14,Met,rope,yōʔó,HHʔ
-774,15,Met,road,īčí,HHʔ
-775,19,Met,to run,kūnū,HH
-776,20,Met,to be,kūƀī,HH
-777,21,Met,to sing,kātā,HH
-778,24,Met,to look,kōtō,HH
-779,28,Met,house,ƀēʔē,HH
-780,30,Met,one,ī̧ī̧,HH
-781,31,Met,paper,tūtū,HL
-782,32,Met,stool,tʸāyù,HL
-783,33,Met,lime,kākā’,HL
-784,34,Met,uncle,šītò,HL
-785,35,Met,aunt,šīšī,HL
-786,37,Met,bird,sāā,HL
-787,38,Met,wall,nāmà,HL
-788,40,Met,brother,yānī,HL
-789,42,Met,flower,ītā,HL
-790,44,Met,inside,īnī,HL
-791,46,Met,stomach,tīšī,LH
-792,47,Met,man,tʸàā,LH
-793,48,Met,word,tù̧ʔū̧,LH
-794,49,Met,clay pot,kìsī,LH
-795,50,Met,metal,kàà,LH
-796,51,Met,meat,kùñù,LH
-797,52,Met,cross-sex sibling,kūʔƀā,LH
-798,54,Met,child,sēʔē,LH
-799,55,Met,sibling's wife,sānù,LH
-800,58,Met,river,ítʸā,LH
-801,59,Met,cold,ƀìšī̧,LH
-802,60,Met,good,ƀàʔā,LH
-803,61,Met,medicine,tàtà̧ (M),LLʔ
-804,61,Met,medicine,tàtā̧ (M),LLʔ
-805,62,Met,four,kùmī (M),LLʔ
-806,63,Met,day,kìƀì,LLʔ
-807,63,Met,day,kìƀī,LLʔ
-808,65,Met,snake,kōò (M),LLʔ
-809,68,Met,tortilla,sītà,LLʔ
-810,69,Met,head,šìnī,LLʔ
-811,71,Met,soap,nàmà (M),LLʔ
-812,71,Met,soap,nàmā (M),LLʔ
-813,73,Met,corn,nùnì (M),LLʔ
-814,73,Met,corn,nùnī (M),LLʔ
-815,74,Met,stone,yùū,LLʔ
-816,78,Met,sister,kūʔƀī,LL
-817,79,Met,to cut,kāʔⁿdʸā,LL
-818,80,Met,to speak,kā̧ʔā̧,LL
-819,82,Met,niece,šīkū,LL
-820,83,Met,nephew,sāšī̧,LL
-821,84,Met,foot,šàʔā,LL
-822,87,Met,sweet,ƀìšì,LL
-823,91,Met,fingernail,čí̧ì̧,MT
-824,92,Met,rat,tì̧ī̧,MT
-825,94,Met,fish,tʸàká,MT
-826,96,Met,sibling's husband,kāsā,MT
-827,98,Met,big (sg),káʔnū,MT
-828,101,Met,small (in pieces),kʷàčī,MT
-829,102,Met,red,kʷáʔā,MT
-830,103,Met,yellow,kʷá̧á̧,MT
-831,109,Met,people,yūúƀī,MT
-832,1,Cah,animal,kītī,HHʔ
-833,2,Cah,to eat,kāšī,HHʔ
-834,3,Cah,beans,ⁿdǜčǜ,HHʔ
-835,4,Cah,water,(ta kʷiyi),HHʔ
-836,5,Cah,hand,ⁿdāʔā,HHʔ
-837,7,Cah,tree,yītnō,HHʔ
-838,8,Cah,mountain,yǖkǜ,HHʔ
-839,9,Cah,straw mat,yīwí,HHʔ
-840,10,Cah,mouth,yǖʔǖ,HHʔ
-841,11,Cah,bone,yīkī,HHʔ
-842,12,Cah,chile,yāʔā,HHʔ
-843,13,Cah,woman,ñāʔà,HHʔ
-844,15,Cah,road,yīčī,HHʔ
-845,16,Cah,work,čīñō,HH
-846,18,Cah,to come,kísī,HH
-847,22,Cah,to be born,kākū,HH
-848,23,Cah,to burn,kāʔmī,HH
-849,25,Cah,to drink,kōʔō,HH
-850,27,Cah,now,wītnī,HH
-851,28,Cah,house,wēʔē,HH
-852,30,Cah,one,í̧í̧,HH
-853,32,Cah,stool,tāyī,HL
-854,33,Cah,lime,kākā,HL
-855,34,Cah,uncle,sītō,HL
-856,35,Cah,aunt,sīsī,HL
-857,37,Cah,bird,sáá,HL
-858,39,Cah,town,ñó̧ō̧,HL
-859,40,Cah,brother,ñānī,HL
-860,41,Cah,hole,yāwī,HL
-861,42,Cah,flower,yītā,HL
-862,43,Cah,deer,tn-ǖsǖ,HL
-863,44,Cah,inside,īnī,HL
-864,45,Cah,dog,īnā,HL
-865,45,Cah,dog,ñīnā,HL
-866,46,Cah,stomach,tīšī,LH
-867,48,Cah,word,tnō̧ʔō̧,LH
-868,50,Cah,metal,kàà,LH
-869,51,Cah,meat,kùñū̧,LH
-870,53,Cah,adobe,ⁿdōʔō,LH
-871,54,Cah,child,sāʔyā,LH
-872,55,Cah,sibling's wife,šānō,LH
-873,56,Cah,ear,sòʔō,LH
-874,57,Cah,tooth,nò̧ʔō̧,LH
-875,58,Cah,river,yǜtā,LH
-876,59,Cah,cold,wìšī̧,LH
-877,60,Cah,good,wāʔā,LH
-878,62,Cah,four,kūmī,LLʔ
-879,63,Cah,day,kìwì,LLʔ
-880,64,Cah,cotton,kàčì,LLʔ
-881,66,Cah,sandal,ⁿdǜsà,LLʔ
-882,67,Cah,cane,ⁿdòò,LLʔ
-883,68,Cah,tortilla,sītā,LLʔ
-884,69,Cah,head,sìnì,LLʔ
-885,70,Cah,comal,šìyò,LLʔ
-886,72,Cah,face,nò̧ò̧,LLʔ
-887,73,Cah,corn,nònì,LLʔ
-888,74,Cah,stone,yǜǜ,LLʔ
-889,75,Cah,moon,yòò,LLʔ
-890,79,Cah,to cut,kāʔⁿdā,LL
-891,80,Cah,to speak,kā̧ʔā̧,LL
-892,81,Cah,year,kʷīyā,LL
-893,83,Cah,nephew,sāšī̧,LL
-894,84,Cah,foot,šāʔā,LL
-895,85,Cah,"herb, bush",yǜkǜ,LL
-896,87,Cah,sweet,wīsī,LL
-897,88,Cah,nine,ì̧ì̧,LL
-898,89,Cah,two,ōwī,LL
-899,90,Cah,five,ō̧ʔō̧,LL
-900,91,Cah,fingernail,čī̧ī̧,MT
-901,93,Cah,turkey hen,tʸó̧ó̧,MT
-902,94,Cah,fish,tʸāká,MT
-903,95,Cah,black,tnō̧ó̧,MT
-904,98,Cah,big (sg),kāʔnō,MT
-905,100,Cah,green,kʷíí,MT
-906,101,Cah,small (in pieces),kʷāčí,MT
-907,102,Cah,red,kʷáʔá,MT
-908,103,Cah,yellow,kʷá̧á̧,MT
-909,104,Cah,poor,ⁿdāʔwī,MT
-910,105,Cah,to sell,síkò,MT
-911,108,Cah,little,lōʔō,MT
-912,110,Cah,tongue,yáá,MT
-913,5,Mix,hand,ⁿdāʔá,HHʔ
-914,6,Mix,clothes,sàʔmǎ,HHʔ
-915,9,Mix,straw mat,yùƀǐ,HHʔ
-916,10,Mix,mouth,yūʔú,HHʔ
-917,12,Mix,chile,yāʔá,HHʔ
-918,13,Mix,woman,ñā̧ʔá̧,HHʔ
-919,14,Mix,rope,yōʔó,HHʔ
-920,16,Mix,work,čī̧ū̧,HH
-921,28,Mix,house,ƀēʔē,HH
-922,30,Mix,one,ī̧ī̧,HH
-923,31,Mix,paper,tūtù,HL
-924,33,Mix,lime,kākà,HL
-925,34,Mix,uncle,šītò,HL
-926,36,Mix,frog,sàʔƀà,HL
-927,39,Mix,town,ñūù,HL
-928,41,Mix,hole,yàƀì,HL
-929,42,Mix,flower,ītà,HL
-930,45,Mix,dog,t-i᷅nā,HL
-931,46,Mix,stomach,tīȼī,LH
-932,47,Mix,man,čàā,LH
-933,48,Mix,word,tù̧ʔū̧,LH
-934,49,Mix,clay pot,kìsī,LH
-935,50,Mix,metal,kàā,LH
-936,53,Mix,adobe,ⁿdòʔō,LH
-937,54,Mix,child,sèʔē,LH
-938,58,Mix,river,yùčā,LH
-939,59,Mix,cold,ƀìȼī,LH
-940,60,Mix,good,ƀàʔā,LH
-941,61,Mix,medicine,tàtǎ,LLʔ
-942,62,Mix,four,kùmǐ,LLʔ
-943,64,Mix,cotton,kàčǐ,LLʔ
-944,65,Mix,snake,kòó,LLʔ
-945,66,Mix,sandal,ⁿzìȼǎ,LLʔ
-946,67,Mix,cane,ⁿdòó,LLʔ
-947,68,Mix,tortilla,stàá,LLʔ
-948,71,Mix,soap,nàmǎ,LLʔ
-949,72,Mix,face,nùú,LLʔ
-950,74,Mix,stone,yùú,LLʔ
-951,75,Mix,moon,yòó,LLʔ
-952,77,Mix,comb,kʷìkà,LL
-953,81,Mix,year,kʷìà,LL
-954,88,Mix,nine,ì̧ì̧,LL
-955,90,Mix,five,ù̧ʔù̧,LL
-956,91,Mix,fingernail,čî̧í̧,MT
-957,93,Mix,turkey hen,čù̧ū̧,MT
-958,98,Mix,big (sg),káʔnū,MT
-959,99,Mix,white,kʷíȼì,MT
-960,100,Mix,green,kʷîí,MT
-961,102,Mix,red,kʷáʔà,MT
-962,103,Mix,yellow,kʷá̧à̧,MT
-963,106,Mix,precious metal,šǔ̧ʔū̧,MT
-964,107,Mix,new,ȼǎā,MT
-965,108,Mix,little,lūū,MT
-966,110,Mix,tongue,yâá,MT
-967,1,Sil,animal,kítì,HHʔ
-968,2,Sil,to eat,kāší,HHʔ
-969,3,Sil,beans,ⁿdǘčǜ,HHʔ
-970,5,Sil,hand,ⁿdáʔà,HHʔ
-971,6,Sil,clothes,háʔmà,HHʔ
-972,7,Sil,tree,žítò,HHʔ
-973,8,Sil,mountain,žǘkǜ,HHʔ
-974,10,Sil,mouth,žǘʔǜ,HHʔ
-975,12,Sil,chile,žáʔà,HHʔ
-976,13,Sil,woman,ñá̧ʔà̧,HHʔ
-977,14,Sil,rope,žóʔò,HHʔ
-978,15,Sil,road,íčì,HHʔ
-979,16,Sil,work,čū̧ū̧,HH
-980,20,Sil,to be,kūū,HH
-981,21,Sil,to sing,kātā,HH
-982,26,Sil,to buy,kʷȩ̄ȩ̀,HH
-983,27,Sil,now,ƀītī,HH
-984,28,Sil,house,ƀēʔē,HH
-985,30,Sil,one,ī̧ī̧,HH
-986,31,Sil,paper,tǖtǖ,HL
-987,34,Sil,uncle,hìtò,HL
-988,35,Sil,aunt,hìhì,HL
-989,36,Sil,frog,láʔƀà,HL
-990,37,Sil,bird,lāā,HL
-991,39,Sil,town,ñūū,HL
-992,40,Sil,brother,ñànì,HL
-993,41,Sil,hole,žáƀì,HL
-994,43,Sil,deer,ǖhǖ,HL
-995,44,Sil,inside,īnī,HL
-996,45,Sil,dog,t-ìnā,HL
-997,46,Sil,stomach,tìšī,LH
-998,47,Sil,man,tàà,LH
-999,48,Sil,word,tù̧ʔū̧,LH
-1000,50,Sil,metal,kàà,LH
-1001,52,Sil,cross-sex sibling,kʸàʔƀà,LH
-1002,53,Sil,adobe,ⁿdòʔō,LH
-1003,54,Sil,child,hàʔžī,LH
-1004,55,Sil,sibling's wife,sànù,LH
-1005,58,Sil,river,žǜtā,LH
-1006,59,Sil,cold,ƀīšī,LH
-1007,60,Sil,good,ƀàʔā,LH
-1008,61,Sil,medicine,tàtà,LLʔ
-1009,62,Sil,four,kòmì,LLʔ
-1010,63,Sil,day,kìƀì,LLʔ
-1011,64,Sil,cotton,kàčì,LLʔ
-1012,65,Sil,snake,kòò,LLʔ
-1013,66,Sil,sandal,ⁿdǜsà,LLʔ
-1014,67,Sil,cane,ⁿdòò,LLʔ
-1015,68,Sil,tortilla,hìtà,LLʔ
-1016,69,Sil,head,hìnì,LLʔ
-1017,70,Sil,comal,šòò,LLʔ
-1018,71,Sil,soap,nà̧mà̧,LLʔ
-1019,72,Sil,face,nùù,LLʔ
-1020,73,Sil,corn,nù̧nì̧,LLʔ
-1021,75,Sil,moon,žòò,LLʔ
-1022,76,Sil,to go,kù̧ʔù̧,LL
-1023,78,Sil,sister,kìʔƀì,LL
-1024,79,Sil,broken,tàʔⁿdà,LL
-1025,80,Sil,to speak,kà̧ʔà̧,LL
-1026,81,Sil,year,kʷyàà,LL
-1027,82,Sil,niece,hǜkǜ,LL
-1028,83,Sil,nephew,hàšì,LL
-1029,84,Sil,foot,šàʔà,LL
-1030,85,Sil,weeds,žǜkǜ,LL
-1031,87,Sil,sweet,ƀìhì,LL
-1032,88,Sil,nine,ì̧ì̧,LL
-1033,89,Sil,two,ìƀì,LL
-1034,90,Sil,five,ù̧ʔù̧,LL
-1035,91,Sil,fingernail,čí̧ì̧,MT
-1036,92,Sil,rat,tì̧í̧,MT
-1037,94,Sil,fish,tī-žàká,MT
-1038,95,Sil,black,tù̧ú̧,MT
-1039,96,Sil,sibling's husband,kàhá,MT
-1040,98,Sil,big (sg),káʔnū,MT
-1041,100,Sil,green,kʷíī,MT
-1042,102,Sil,red,kʷáʔá,MT
-1043,103,Sil,yellow,kʷá̧á̧,MT
-1044,105,Sil,to sell,hìkó,MT
-1045,106,Sil,precious metal,hyù̧ʔú̧,MT
-1046,107,Sil,new,sàá,MT
-1047,108,Sil,little,lōʔō,MT
-1048,109,Sil,people,žīƀī,MT
-1049,110,Sil,tongue,žáà,MT
-1050,1,Jic,animal,kìtì,HHʔ
-1051,2,Jic,to eat,káčì,HHʔ
-1052,4,Jic,water,ⁿdùtà,HHʔ
-1053,5,Jic,hand,ⁿdàʔà,HHʔ
-1054,6,Jic,clothes,sàʔmà,HHʔ
-1055,7,Jic,tree,yùtù̧,HHʔ
-1056,9,Jic,straw mat,yùƀì,HHʔ
-1057,13,Jic,woman,ñà̧ʔà̧,HHʔ
-1058,14,Jic,rope,yòʔò,HHʔ
-1059,15,Jic,road,ìtì,HHʔ
-1060,18,Jic,to come,kíčì,HH
-1061,19,Jic,to run,kúnú,HH
-1062,27,Jic,now,ƀìtì̧,HH
-1063,28,Jic,house,ƀèʔè,HH
-1064,29,Jic,yesterday,ìkù,HH
-1065,30,Jic,one,ì̧ì̧,HH
-1066,31,Jic,paper,tūtū,HL
-1067,32,Jic,stool,tāyū,HL
-1068,33,Jic,lime,kākā,HL
-1069,34,Jic,uncle,šītō,HL
-1070,35,Jic,aunt,čīšī,HL
-1071,36,Jic,frog,sāʔƀā,HL
-1072,37,Jic,bird,sāā,HL
-1073,38,Jic,wall,nāmā,HL
-1074,39,Jic,town,ñū̧ū̧,HL
-1075,42,Jic,flower,ītā,HL
-1076,45,Jic,dog,īnā,HL
-1077,46,Jic,stomach,tíčí,LH
-1078,48,Jic,word,tú̧ʔú̧,LH
-1079,49,Jic,clay pot,kísí,LH
-1080,50,Jic,metal,káā,LH
-1081,53,Jic,adobe,ⁿdóʔō,LH
-1082,54,Jic,child,séʔé,LH
-1083,55,Jic,sibling's wife,čánū,LH
-1084,56,Jic,ear,sóʔó,LH
-1085,58,Jic,river,yútá,LH
-1086,60,Jic,good,ƀáʔá,LH
-1087,62,Jic,four,kúmí,LLʔ
-1088,64,Jic,cotton,kátí,LLʔ
-1089,65,Jic,snake,kóó,LLʔ
-1090,67,Jic,cane,ⁿdóó,LLʔ
-1091,68,Jic,tortilla,šítá,LLʔ
-1092,69,Jic,head,šíní,LLʔ
-1093,72,Jic,face,nú̧ú̧,LLʔ
-1094,73,Jic,corn,núní,LLʔ
-1095,74,Jic,stone,yúú,LLʔ
-1096,75,Jic,moon,yóó,LLʔ
-1097,79,Jic,to cut,kàʔⁿdà,LL
-1098,80,Jic,to speak,kà̧ʔā̧,LL
-1099,86,Jic,thread,yūʔƀā,LL
-1100,88,Jic,nine,í̧í̧,LL
-1101,89,Jic,two,úƀí,LL
-1102,90,Jic,five,ú̧ʔú̧,LL
-1103,91,Jic,fingernail,tìñì,MT
-1104,92,Jic,rat,tɨ̄ñɨ́,MT
-1105,95,Jic,black,tù̧ù̧,MT
-1106,100,Jic,green,kʷìì,MT
-1107,101,Jic,small (in pieces),kʷàtì,MT
-1108,103,Jic,it is yellow,kʷà̧ā̧(-čí),MT
-1109,105,Jic,to sell,šíkò,MT
-1110,106,Jic,precious metal,šú̧ʔú̧,MT
-1111,107,Jic,new,čàà,MT
-1112,108,Jic,little,lùʔù,MT
-1113,109,Jic,people,ñíƀí,MT
-1114,1,Jam,animal,kɨ̄tɨ̄,HHʔ
-1115,3,Jam,beans,ⁿdūtʸī,HHʔ
-1116,8,Jam,mountain,yūkū,HHʔ
-1117,9,Jam,straw mat,yūū,HHʔ
-1118,10,Jam,mouth,yūʔū,HHʔ
-1119,14,Jam,rope,yōʔō,HHʔ
-1120,15,Jam,road,ītʸī,HHʔ
-1121,27,Jam,now,ƀītʸī,HH
-1122,28,Jam,house,ƀēʔē,HH
-1123,30,Jam,one,ī̧ī̧,HH
-1124,31,Jam,paper,tūtù,HL
-1125,32,Jam,stool,tēì,HL
-1126,38,Jam,wall,nāmà,HL
-1127,39,Jam,town,ñūù,HL
-1128,41,Jam,hole,yāƀì,HL
-1129,42,Jam,flower,ītà,HL
-1130,48,Jam,word,tù̧ʔū̧,LH
-1131,52,Jam,cross-sex sibling,kùʔƀā,LH
-1132,53,Jam,adobe,ⁿdòʔō,LH
-1133,54,Jam,child,θèʔē,LH
-1134,60,Jam,good,ƀàʔā,LH
-1135,61,Jam,medicine,tàtà,LLʔ
-1136,62,Jam,four,kùmì,LLʔ
-1137,63,Jam,day,kɨ̀ƀɨ̀,LLʔ
-1138,65,Jam,snake,kòò,LLʔ
-1139,68,Jam,tortilla,šìtà,LLʔ
-1140,69,Jam,head,šìnì,LLʔ
-1141,70,Jam,comal,sìyò,LLʔ
-1142,71,Jam,soap,nàmà,LLʔ
-1143,72,Jam,face,nùù,LLʔ
-1144,74,Jam,stone,yùù,LLʔ
-1145,75,Jam,moon,yòò,LLʔ
-1146,81,Jam,year,kʷìyà,LL
-1147,84,Jam,foot,šàʔà,LL
-1148,85,Jam,"herb, bush",yùkù,LL
-1149,97,Jam,long,káñí,MT
-1150,98,Jam,big (sg),kàʔnū,MT
-1151,104,Jam,poor,ⁿdāʔƀí,MT
-1152,107,Jam,new,sāá,MT
-1153,108,Jam,little,lúʔlū,MT
-1154,109,Jam,people,ñì-yɨ̄ƀɨ̄,MT
+ID,Doculect,Concept,Form,PMCouplet,CogID_Durr
+1,diux11,animal,kɨ̀tɨ̀,HHʔ,1
+2,diux11,bone,žɨ̀kɨ̀,HHʔ,11
+3,diux11,chile,žàʔà,HHʔ,12
+4,diux11,one,ɨ̧̀ɨ̧̀,HH,30
+5,diux11,paper,tú'tú,HL,31
+6,diux11,uncle,'đìtò,HL,34
+7,diux11,aunt,'đìđí,HL,35
+8,diux11,brother,'ñànì,HL,40
+9,diux11,cross-sex sibling,kú’ʔá,LH,52
+10,diux11,child,đá’ʔžá,LH,54
+11,diux11,sibling's wife,šà’nú,LH,55
+12,diux11,ear,đò’ʔó,LH,56
+13,diux11,good,ƀà’ʔá,LH,60
+14,diux11,medicine,tá’tná̧,LLʔ,61
+15,diux11,four,kó̧’ó̧,LLʔ,62
+16,diux11,day,kɨ́’ú,LLʔ,63
+17,diux11,cane,ⁿdó’ó,LLʔ,67
+18,diux11,stone,žú’ú,LLʔ,74
+19,diux11,sister,kú’ʔú,LL,78
+20,diux11,niece,đí’kú,LL,82
+21,diux11,nephew,đà’ší,LL,83
+22,diux11,foot,šé’ʔé,LL,84
+23,diux11,thread,žú’ʔá,LL,86
+24,diux11,nine,ɨ̧́’ɨ̧́,LL,88
+25,diux11,two,úú,LL,89
+26,diux11,fish,čákà,MT,94
+27,diux11,sibling's husband,kà’đá,MT,96
+28,diux11,big (sg),kà̧ʔnù̧,MT,98
+29,diux11,yellow,'kʷà̧à̧,MT,103
+30,diux11,little,'lùčì,MT,108
+31,peno11,animal,kɨ̀tɨ̀,HHʔ,1
+32,peno11,to eat,kàšì,HHʔ,2
+33,peno11,beans,ⁿdùčì,HHʔ,3
+34,peno11,water,ⁿdùtè,HHʔ,4
+35,peno11,hand,ⁿdàʔà,HHʔ,5
+36,peno11,tree,žùtù̧,HHʔ,7
+37,peno11,mountain,žùkù,HHʔ,8
+38,peno11,straw mat,žùù,HHʔ,9
+39,peno11,mouth,žùʔù,HHʔ,10
+40,peno11,bone,žɨ̀kɨ̀,HHʔ,11
+41,peno11,chile,žàʔà,HHʔ,12
+42,peno11,rope,žòʔò,HHʔ,14
+43,peno11,road,ìčì,HHʔ,15
+44,peno11,work,čî̧ù̧,HH,16
+45,peno11,handspan,tòò,HH,17
+46,peno11,to come,kìšì,HH,18
+47,peno11,to run,kùnù,HH,19
+48,peno11,to be,kùù,HH,20
+49,peno11,to sing,kàtà,HH,21
+50,peno11,to be born,kàkù,HH,22
+51,peno11,to burn,kàʔmì,HH,23
+52,peno11,to look,kòtò,HH,24
+53,peno11,to drink,kòʔò,HH,25
+54,peno11,to buy,kʷà̧à̧,HH,26
+55,peno11,now,ƀìtà̧,HH,27
+56,peno11,house,ƀèʔè,HH,28
+57,peno11,yesterday,ìkù,HH,29
+58,peno11,one,ɨ̧̀ɨ̧̀,HH,30
+59,peno11,paper,tùtú,HL,31
+60,peno11,stool,tèžú,HL,32
+61,peno11,lime,kàkà,HL,33
+62,peno11,uncle,đìtó,HL,34
+63,peno11,aunt,đìđí,HL,35
+64,peno11,frog,làʔƀá,HL,36
+65,peno11,bird,tɨ́-làá,HL,37
+66,peno11,town,ñùú,HL,39
+67,peno11,brother,ñàní,HL,40
+68,peno11,hole,žàú,HL,41
+69,peno11,flower,ìtá,HL,42
+70,peno11,deer,ìđú,HL,43
+71,peno11,inside,ìní,HL,44
+72,peno11,dog,ìná,HL,45
+73,peno11,stomach,(šɨ̀tɨ́),LH,46
+74,peno11,man,téè,LH,47
+75,peno11,word,túʔù̧,LH,48
+76,peno11,clay pot,kɨ́đɨ̀,LH,49
+77,peno11,meat,kùñú,LH,51
+78,peno11,cross-sex sibling,kúʔà,LH,52
+79,peno11,adobe,ⁿdóʔò,LH,53
+80,peno11,child,đéʔè,LH,54
+81,peno11,sibling's wife,sánù,LH,55
+82,peno11,ear,đóʔò,LH,56
+83,peno11,tooth,nú̧ʔù̧,LH,57
+84,peno11,river,žútè,LH,58
+85,peno11,cold,ƀíšì̧,LH,59
+86,peno11,good,ƀáʔà,LH,60
+87,peno11,four,kúmí,LLʔ,62
+88,peno11,snake,kóó,LLʔ,65
+89,peno11,cane,(tù-žòò),LLʔ,67
+90,peno11,tortilla,đítá,LLʔ,68
+91,peno11,head,(dɨ́kɨ́),LLʔ,69
+92,peno11,comal,šíó,LLʔ,70
+93,peno11,soap,námá,LLʔ,71
+94,peno11,face,núú,LLʔ,72
+95,peno11,corn,núní,LLʔ,73
+96,peno11,stone,žúú,LLʔ,74
+97,peno11,moon,žóó,LLʔ,75
+98,peno11,to go,kɨ̧́ʔɨ̧́,LL,76
+99,peno11,comb,kúká,LL,77
+100,peno11,sister,kúʔú,LL,78
+101,peno11,to cut,kèʔⁿdé,LL,79
+102,peno11,to speak,ká̧ʔá̧,LL,80
+103,peno11,year,kʷíá,LL,81
+104,peno11,niece,đíkú,LL,82
+105,peno11,nephew,đáší̧,LL,83
+106,peno11,foot,sáʔá,LL,84
+107,peno11,"herb, bush",žúkú,LL,85
+108,peno11,thread,žúʔá,LL,86
+109,peno11,sweet,(sá-)ƀìdí,LL,87
+110,peno11,nine,ɨ̧́ɨ̧́,LL,88
+111,peno11,two,úú,LL,89
+112,peno11,five,ú̧ʔú̧,LL,90
+113,peno11,rat,tɨ̀ñɨ̀,MT,92
+114,peno11,fish,čáká,MT,94
+115,peno11,black,tù̧ù̧,MT,95
+116,peno11,sibling's husband,kàđà,MT,96
+117,peno11,long,kâní,MT,97
+118,peno11,big (sg),kâʔnù,MT,98
+119,peno11,white,kʷîší̧,MT,99
+120,peno11,green,kʷîì,MT,100
+121,peno11,red,(tɨ̀-)kʷêʔé,MT,102
+122,peno11,yellow,kʷâ̧á̧,MT,103
+123,peno11,poor,ⁿdâʔú,MT,104
+124,peno11,to sell,đìkò,MT,105
+125,peno11,precious metal,đí̧ʔú̧,MT,106
+126,peno11,new,sàà,MT,107
+127,peno11,little,líʔlì,MT,108
+128,peno11,people,ñá-žɨ̀ù,MT,109
+129,peno11,tongue,žâá,MT,110
+130,coat11,to eat,káʔší,HHʔ,2
+131,coat11,beans,ⁿdùʔȼì,HHʔ,3
+132,coat11,water,ⁿdùʔtè,HHʔ,4
+133,coat11,hand,ⁿdàʔà,HHʔ,5
+134,coat11,clothes,đàʔmà̧,HHʔ,6
+135,coat11,mouth,šùʔù,HHʔ,10
+136,coat11,chile,šàʔà,HHʔ,12
+137,coat11,rope,šòʔò,HHʔ,14
+138,coat11,work,ȼìñù,HH,16
+139,coat11,to be,kùƀì,HH,20
+140,coat11,to sing,kàʔtà,HH,21
+141,coat11,to burn,kàʔmì̧,HH,23
+142,coat11,to look,kòʔtò,HH,24
+143,coat11,to drink,kòʔò,HH,25
+144,coat11,to buy,kʷì̧ì̧,HH,26
+145,coat11,house,ƀìʔì,HH,28
+146,coat11,paper,túʔtú,HL,31
+147,coat11,uncle,đító!,HL,34
+148,coat11,aunt,đíđí!,HL,35
+149,coat11,frog,ȼàʔƀá!,HL,36
+150,coat11,bird,làá!,HL,37
+151,coat11,town,ñù̧ú̧!,HL,39
+152,coat11,brother,éní̧!,HL,40
+153,coat11,hole,šáƀǐ,HL,41
+154,coat11,flower,(làà),HL,42
+155,coat11,deer,"íđú ""horse""",HL,43
+156,coat11,dog,t-ìná̧!,HL,45
+157,coat11,word,tù̧ʔú̧!,LH,48
+158,coat11,clay pot,kɨ̀đɨ́!,LH,49
+159,coat11,metal,kàá!,LH,50
+160,coat11,meat,kùñú̧!,LH,51
+161,coat11,adobe,ⁿdòʔó!,LH,53
+162,coat11,child,íʔšá!,LH,54
+163,coat11,sibling's wife,ènú!,LH,55
+164,coat11,tooth,nù̧ʔú̧!,LH,57
+165,coat11,cold,ƀíʔšǐ̧,LH,59
+166,coat11,good,ƀáʔǎ,LH,60
+167,coat11,four,kɨ́mǐ̧,LLʔ,62
+168,coat11,cotton,káʔȼǐ,LLʔ,64
+169,coat11,snake,kóǒ,LLʔ,65
+170,coat11,sandal,ⁿdíʔšȩ̌,LLʔ,66
+171,coat11,tortilla,íʔtǎ,LLʔ,68
+172,coat11,comal,šíǒ,LLʔ,70
+173,coat11,face,nú̧ǔ̧,LLʔ,72
+174,coat11,stone,šúǔ,LLʔ,74
+175,coat11,moon,šóǒ,LLʔ,75
+176,coat11,to go,kɨ̧́ʔɨ̧̌,LL,76
+177,coat11,to cut,káʔⁿdé!,LL,79
+178,coat11,year,kʷíǎ,LL,81
+179,coat11,thread,šúʔƀé,LL,86
+180,coat11,sweet,ƀí̧dǐ̧,LL,87
+181,coat11,two,úƀǐ,LL,89
+182,coat11,five,ú̧ʔǔ̧,LL,90
+183,coat11,fingernail,ȼì̧ì̧,MT,91
+184,coat11,turkey hen,ȼú̧ǔ̧,MT,93
+185,coat11,fish,ȼàʔká!,MT,94
+186,coat11,sibling's husband,kàđá!,MT,96
+187,coat11,long,kànì̧,MT,97
+188,coat11,big (sg),kàʔnù̧,MT,98
+189,coat11,white,kʷìʔší̧!,MT,99
+190,coat11,green,kʷìì,MT,100
+191,coat11,small (in pieces),kʷèčì,MT,101
+192,coat11,red,kʷèʔé!,MT,102
+193,coat11,yellow,kʷà̧á̧,MT,103
+194,coat11,poor,ⁿdàʔƀí!,MT,104
+195,coat11,precious metal,đyúʔǔ,MT,106
+196,coat11,new,šèě,MT,107
+197,coat11,little,lùʔⁿdí!,MT,108
+198,moli11,animal,kītī,HHʔ,1
+199,moli11,to eat,kāā (M),HHʔ,2
+200,moli11,beans,ⁿdūčī,HHʔ,3
+201,moli11,water,ⁿdūtē (M),HHʔ,4
+202,moli11,hand,ⁿdāʔā (M),HHʔ,5
+203,moli11,clothes,sāʔmā (M),HHʔ,6
+204,moli11,tree,žūtū̧ (M),HHʔ,7
+205,moli11,mountain,žūkū (M),HHʔ,8
+206,moli11,mouth,žūʔū (M),HHʔ,10
+207,moli11,chile,žāʔā (M),HHʔ,12
+208,moli11,woman,ñā̧ʔā̧,HHʔ,13
+209,moli11,rope,žōʔō,HHʔ,14
+210,moli11,road,īčī,HHʔ,15
+211,moli11,work,tī̧ñū̧,HH,16
+212,moli11,to come,kīī,HH,18
+213,moli11,to run,kūnū,HH,19
+214,moli11,to be,kūū,HH,20
+215,moli11,to sing,kātā,HH,21
+216,moli11,to look,kōtō,HH,24
+217,moli11,to drink,kōʔō,HH,25
+218,moli11,to buy,kʷā̧ā̧,HH,26
+219,moli11,now,ƀītā̧,HH,27
+220,moli11,house,ƀēʔē,HH,28
+221,moli11,yesterday,īkū,HH,29
+222,moli11,one,ī̧ī̧,HH,30
+223,moli11,paper,tūtù,HL,31
+224,moli11,uncle,stōò,HL,34
+225,moli11,aunt,sīsì,HL,35
+226,moli11,town,ñùù,HL,39
+227,moli11,flower,ītà,HL,42
+228,moli11,deer,īsù,HL,43
+229,moli11,inside,īnì,HL,44
+230,moli11,dog,īnà,HL,45
+231,moli11,stomach,čìī,LH,46
+232,moli11,man,tèē,LH,47
+233,moli11,clay pot,kìsī,LH,49
+234,moli11,metal,kàā,LH,50
+235,moli11,cross-sex sibling,kʷàʔā,LH,52
+236,moli11,child,sèʔē,LH,54
+237,moli11,tooth,nù̧ʔū̧,LH,57
+238,moli11,river,žùtē,LH,58
+239,moli11,cold,ƀìxī̧,LH,59
+240,moli11,good,ƀàʔā,LH,60
+241,moli11,medicine,tàtà̧,LLʔ,61
+242,moli11,four,kù̧ù̧ (M),LLʔ,62
+243,moli11,day,kìƀì,LLʔ,63
+244,moli11,cotton,kàčì,LLʔ,64
+245,moli11,snake,kòò (M),LLʔ,65
+246,moli11,tortilla,stàà (M),LLʔ,68
+247,moli11,head,šìnì (M),LLʔ,69
+248,moli11,soap,nàmà (M),LLʔ,71
+249,moli11,face,nùù,LLʔ,72
+250,moli11,corn,nùnì,LLʔ,73
+251,moli11,moon,žòò (M),LLʔ,75
+252,moli11,to go,kí̧ʔì̧,LL,76
+253,moli11,sister,kùʔù,LL,78
+254,moli11,to speak,kà̧ʔà̧,LL,80
+255,moli11,year,kʷìžà,LL,81
+256,moli11,"herb, bush",žùkù,LL,85
+257,moli11,sweet,ƀìšì,LL,87
+258,moli11,nine,ì̧ì̧,LL,88
+259,moli11,two,ùù,LL,89
+260,moli11,five,ù̧ʔù̧,LL,90
+261,moli11,fish,čākā,MT,94
+262,moli11,black,tū̧ū̧,MT,95
+263,moli11,long,kání,MT,97
+264,moli11,small (in pieces),kʷéčì,MT,101
+265,moli11,poor,ⁿdáʔƀí,MT,104
+266,moli11,to sell,šìkō,MT,105
+267,moli11,precious metal,šù̧ʔū̧,MT,106
+268,moli11,little,lūlī,MT,108
+269,moli11,people,ñà-žīƀī,MT,109
+270,ocot11,animal,kītī,HHʔ,1
+271,ocot11,water,ⁿdūtē,HHʔ,4
+272,ocot11,hand,ⁿdāʔá,HHʔ,5
+273,ocot11,clothes,sāʔmā,HHʔ,6
+274,ocot11,tree,ñū̧tū̧,HHʔ,7
+275,ocot11,mountain,žūkū,HHʔ,8
+276,ocot11,straw mat,žūū,HHʔ,9
+277,ocot11,mouth,žūʔú,HHʔ,10
+278,ocot11,road,īčī,HHʔ,15
+279,ocot11,work,tīñū,HH,16
+280,ocot11,handspan,tōō,HH,17
+281,ocot11,to sing,kātā,HH,21
+282,ocot11,to be born,kākū,HH,22
+283,ocot11,house,ƀēʔē,HH,28
+284,ocot11,yesterday,īkū,HH,29
+285,ocot11,uncle,šītò,HL,34
+286,ocot11,aunt,šīšì,HL,35
+287,ocot11,bird,sāà,HL,37
+288,ocot11,town,ñūù,HL,39
+289,ocot11,brother,ñānì,HL,40
+290,ocot11,flower,ītà,HL,42
+291,ocot11,deer,īsù,HL,43
+292,ocot11,inside,īnì,HL,44
+293,ocot11,dog,t-īnà,HL,45
+294,ocot11,stomach,čìhī,LH,46
+295,ocot11,man,tèē,LH,47
+296,ocot11,metal,kàā,LH,50
+297,ocot11,meat,kùñū,LH,51
+298,ocot11,cross-sex sibling,kʷàʔā,LH,52
+299,ocot11,child,sèʔē,LH,54
+300,ocot11,sibling's wife,xànū,LH,55
+301,ocot11,river,žùtē,LH,58
+302,ocot11,good,ƀàʔā,LH,60
+303,ocot11,medicine,tà̧tà̧,LLʔ,61
+304,ocot11,four,kùmì,LLʔ,62
+305,ocot11,tortilla,šìtà,LLʔ,68
+306,ocot11,head,šìnì,LLʔ,69
+307,ocot11,face,nùù,LLʔ,72
+308,ocot11,corn,nùnì,LLʔ,73
+309,ocot11,stone,žùù,LLʔ,74
+310,ocot11,to go,kí̧ʔì̧,LL,76
+311,ocot11,sister,kùʔù,LL,78
+312,ocot11,to speak,kà̧ʔà̧,LL,80
+313,ocot11,niece,šìkù,LL,82
+314,ocot11,nephew,sàxì̧,LL,83
+315,ocot11,foot,xèʔè,LL,84
+316,ocot11,"herb, bush",žùkù,LL,85
+317,ocot11,turkey hen,čù̧ú̧,MT,93
+318,ocot11,sibling's husband,kàsá,MT,96
+319,ocot11,long,kání,MT,97
+320,ocot11,big (sg),káʔnū,MT,98
+321,ocot11,white,kʷīxí̧,MT,99
+322,ocot11,poor,ⁿdáʔƀí,MT,104
+323,ocot11,to sell,šìkó,MT,105
+324,ocot11,precious metal,šù̧ʔú̧,MT,106
+325,ocot11,new,xēé,MT,107
+326,ocot11,little,lūlí,MT,108
+327,ocot11,people,ⁿǰīƀì,MT,109
+328,ocot11,tongue,žáá,MT,110
+329,atat11,animal,kɨ̄tɨ̄,HHʔ,1
+330,atat11,to eat,kāxī,HHʔ,2
+331,atat11,beans,ⁿdūčī,HHʔ,3
+332,atat11,water,ⁿdūtē,HHʔ,4
+333,atat11,hand,ⁿdāʔā,HHʔ,5
+334,atat11,clothes,sāʔmā,HHʔ,6
+335,atat11,tree,žūNū,HHʔ,7
+336,atat11,mountain,žūkū,HHʔ,8
+337,atat11,straw mat,žūū,HHʔ,9
+338,atat11,mouth,žūʔū,HHʔ,10
+339,atat11,bone,žɨ̄kɨ̄,HHʔ,11
+340,atat11,chile,žāʔā,HHʔ,12
+341,atat11,woman,ñā̧ʔā̧,HHʔ,13
+342,atat11,rope,žōʔō,HHʔ,14
+343,atat11,road,īčī,HHʔ,15
+344,atat11,work,Nīñū,HH,16
+345,atat11,handspan,tōō,HH,17
+346,atat11,to come,kīxī,HH,18
+347,atat11,to run,kūnū,HH,19
+348,atat11,to be,kūū,HH,20
+349,atat11,to sing,kātā,HH,21
+350,atat11,to be born,kākū,HH,22
+351,atat11,to burn,kāʔmū,HH,23
+352,atat11,to look,kōtō,HH,24
+353,atat11,to drink,kōʔō,HH,25
+354,atat11,to buy,kʷā̧ā̧,HH,26
+355,atat11,now,ƀīNā,HH,27
+356,atat11,house,ƀēʔē,HH,28
+357,atat11,yesterday,īkū,HH,29
+358,atat11,one,ī̧ī̧,HH,30
+359,atat11,paper,tūtū,HL,31
+360,atat11,lime,kākā,HL,33
+361,atat11,uncle,stōō,HL,34
+362,atat11,aunt,sīsī,HL,35
+363,atat11,bird,sāā,HL,37
+364,atat11,town,ñūū,HL,39
+365,atat11,brother,ñānī,HL,40
+366,atat11,hole,žā(ƀ)ū,HL,41
+367,atat11,flower,ītā,HL,42
+368,atat11,inside,īnī,HL,44
+369,atat11,dog,īnā,HL,45
+370,atat11,stomach,čìhī,LH,46
+371,atat11,man,tèē,LH,47
+372,atat11,word,Nù̧ʔū̧,LH,48
+373,atat11,clay pot,kɨ̀sɨ̄,LH,49
+374,atat11,metal,kàā,LH,50
+375,atat11,meat,kùñū,LH,51
+376,atat11,cross-sex sibling,kʷàʔā,LH,52
+377,atat11,child,sèʔē,LH,54
+378,atat11,sibling's wife,xènū,LH,55
+379,atat11,ear,sòʔō,LH,56
+380,atat11,tooth,Nù̧ʔū̧,LH,57
+381,atat11,river,žùtē,LH,58
+382,atat11,cold,mìxī̧,LH,59
+383,atat11,good,ƀàʔā,LH,60
+384,atat11,medicine,tāNà,LLʔ,61
+385,atat11,four,kū̧ù̧,LLʔ,62
+386,atat11,day,kɨ̄ƀɨ̀,LLʔ,63
+387,atat11,snake,kōò,LLʔ,65
+388,atat11,sandal,ⁿdīxȩ̀,LLʔ,66
+389,atat11,cane,ⁿdōò,LLʔ,67
+390,atat11,tortilla,stāà,LLʔ,68
+391,atat11,head,šīnì,LLʔ,69
+392,atat11,comal,xīžò,LLʔ,70
+393,atat11,soap,nāmà,LLʔ,71
+394,atat11,face,nūù,LLʔ,72
+395,atat11,corn,nūnì,LLʔ,73
+396,atat11,stone,žūù,LLʔ,74
+397,atat11,moon,žōò,LLʔ,75
+398,atat11,to go,kɨ̧̄ʔɨ̧̀,LL,76
+399,atat11,comb,kūkà,LL,77
+400,atat11,sister,kùʔù,LL,78
+401,atat11,to cut,kāʔⁿdè,LL,79
+402,atat11,to speak,kā̧ʔà̧,LL,80
+403,atat11,niece,šīkù,LL,82
+404,atat11,nephew,sāxì̧,LL,83
+405,atat11,foot,xēʔè,LL,84
+406,atat11,"herb, bush",žūkù,LL,85
+407,atat11,thread,žūʔƀà,LL,86
+408,atat11,sweet,ƀīšì,LL,87
+409,atat11,nine,ɨ̧̄ɨ̧̀,LL,88
+410,atat11,two,ūù,LL,89
+411,atat11,five,ū̧ʔù̧,LL,90
+412,atat11,fingernail,Ní̧í̧,MT,91
+413,atat11,rat,Nɨ́ñɨ́,MT,92
+414,atat11,turkey hen,čù̧ú̧,MT,93
+415,atat11,fish,čàká,MT,94
+416,atat11,black,Nú̧ú̧,MT,95
+417,atat11,sibling's husband,kàsá,MT,96
+418,atat11,long,kánī,MT,97
+419,atat11,big (sg),káʔnū,MT,98
+420,atat11,white,kʷíxí̧,MT,99
+421,atat11,yellow,kʷá̧á̧,MT,103
+422,atat11,poor,ⁿdáʔú,MT,104
+423,atat11,to sell,šìkó,MT,105
+424,atat11,precious metal,šù̧ʔú̧,MT,106
+425,atat11,new,xēé,MT,107
+426,atat11,little,lùlí,MT,108
+427,atat11,people,ñà-žūū,MT,109
+428,atat11,tongue,žáá,MT,110
+429,gran11,animal,kɨ̄tɨ̄ (M),HHʔ,1
+430,gran11,to eat,kāxī (M),HHʔ,2
+431,gran11,beans,ⁿdūčī (M),HHʔ,3
+432,gran11,water,ⁿdūčā (M),HHʔ,4
+433,gran11,hand,ⁿdāʔā (M),HHʔ,5
+434,gran11,clothes,sāʔmā (M),HHʔ,6
+435,gran11,tree,žūnū (M),HHʔ,7
+436,gran11,mountain,žūkū (M),HHʔ,8
+437,gran11,straw mat,žūū (M),HHʔ,9
+438,gran11,mouth,žūʔū (M),HHʔ,10
+439,gran11,bone,žɨ̄kɨ̄ (M),HHʔ,11
+440,gran11,chile,žāʔā (M),HHʔ,12
+441,gran11,woman,ñā̧ʔā̧ (M),HHʔ,13
+442,gran11,rope,žōʔō (M),HHʔ,14
+443,gran11,road,īčī (M),HHʔ,15
+444,gran11,work,tīñū,HH,16
+445,gran11,handspan,tōō,HH,17
+446,gran11,to come,kīī,HH,18
+447,gran11,to run,kūnū,HH,19
+448,gran11,to be,kūū,HH,20
+449,gran11,to sing,kātā,HH,21
+450,gran11,to be born,kākū,HH,22
+451,gran11,to burn,kāʔmū,HH,23
+452,gran11,to look,kōtō,HH,24
+453,gran11,to drink,kōʔō,HH,25
+454,gran11,to buy,kʷā̧ā̧,HH,26
+455,gran11,now,ƀīnā/ƀītā̧,HH,27
+456,gran11,house,ƀēʔē,HH,28
+457,gran11,yesterday,īkū (M),HH,29
+458,gran11,one,ī̧ī̧,HH,30
+459,gran11,paper,tūtù,HL,31
+460,gran11,stool,tēžù,HL,32
+461,gran11,lime,kākà,HL,33
+462,gran11,uncle,stōò,HL,34
+463,gran11,aunt,šīì,HL,35
+464,gran11,frog,sāʔƀà,HL,36
+465,gran11,bird,sāà,HL,37
+466,gran11,wall,nāmà,HL,38
+467,gran11,town,ñūù,HL,39
+468,gran11,brother,ñānì,HL,40
+469,gran11,hole,žāù,HL,41
+470,gran11,flower,ītā,HL,42
+471,gran11,deer,īsù,HL,43
+472,gran11,inside,īnì,HL,44
+473,gran11,dog,īnà,HL,45
+474,gran11,stomach,čìī,LH,46
+475,gran11,man,čàā,LH,47
+476,gran11,word,tù̧ʔū̧,LH,48
+477,gran11,clay pot,kɨ̀sɨ̄,LH,49
+478,gran11,metal,kàā,LH,50
+479,gran11,meat,kùñū,LH,51
+480,gran11,cross-sex sibling,kʷàʔā,LH,52
+481,gran11,adobe,ⁿdòʔō,LH,53
+482,gran11,child,sèʔē,LH,54
+483,gran11,sibling's wife,xànū,LH,55
+484,gran11,ear,sòʔō,LH,56
+485,gran11,tooth,nù̧ʔū̧,LH,57
+486,gran11,river,žùčā,LH,58
+487,gran11,cold,ƀìxī̧,LH,59
+488,gran11,good,ƀàʔā,LH,60
+489,gran11,medicine,tānà,LLʔ,61
+490,gran11,four,kū̧ù̧ (M),LLʔ,62
+491,gran11,day,kɨ̄ƀɨ̀,LLʔ,63
+492,gran11,cotton,kāčì,LLʔ,64
+493,gran11,snake,kōò (M),LLʔ,65
+494,gran11,sandal,ⁿdīxà̧ (M),LLʔ,66
+495,gran11,cane,ⁿdōò,LLʔ,67
+496,gran11,tortilla,stāà (M),LLʔ,68
+497,gran11,head,šīnì (M),LLʔ,69
+498,gran11,comal,xīò,LLʔ,70
+499,gran11,soap,nāmà,LLʔ,71
+500,gran11,face,nūù (M),LLʔ,72
+501,gran11,corn,nūnì,LLʔ,73
+502,gran11,stone,žūù,LLʔ,74
+503,gran11,moon,žōò,LLʔ,75
+504,gran11,to go,kɨ̧̄ʔɨ̧̀,LL,76
+505,gran11,comb,kūkà,LL,77
+506,gran11,sister,kùʔù,LL,78
+507,gran11,to cut,kāʔⁿǰà,LL,79
+508,gran11,to speak,kā̧ʔà̧,LL,80
+509,gran11,year,kʷīà,LL,81
+510,gran11,niece,šīkù,LL,82
+511,gran11,nephew,sāxì̧,LL,83
+512,gran11,foot,xāʔà,LL,84
+513,gran11,"herb, bush",žūkù,LL,85
+514,gran11,thread,žūʔà,LL,86
+515,gran11,sweet,ƀīšì,LL,87
+516,gran11,nine,ɨ̧̄ɨ̧̀,LL,88
+517,gran11,two,ūù,LL,89
+518,gran11,five,ū̧ʔù̧,LL,90
+519,gran11,fingernail,tíñū,MT,91
+520,gran11,rat,tɨ̄ní,MT,92
+521,gran11,turkey hen,čù̧ú̧ / tī-ñùú,MT,93
+522,gran11,fish,čáká / tɨ̄-žáká,MT,94
+523,gran11,black,tú̧ú̧,MT,95
+524,gran11,sibling's husband,kàsá,MT,96
+525,gran11,long,kánī,MT,97
+526,gran11,big (sg),káʔnū,MT,98
+527,gran11,white,kʷíxí̧,MT,99
+528,gran11,green,kʷíì,MT,100
+529,gran11,small (in pieces),kʷáčí,MT,101
+530,gran11,red,kʷáʔá,MT,102
+531,gran11,yellow,kʷá̧á̧,MT,103
+532,gran11,poor,ⁿdáʔú,MT,104
+533,gran11,to sell,šìkó,MT,105
+534,gran11,precious metal,šù̧ʔú̧,MT,106
+535,gran11,new,xáá,MT,107
+536,gran11,little,lúlí,MT,108
+537,gran11,people,ñà-žɨ̄ƀɨ̄,MT,109
+538,gran11,tongue,žáā,MT,110
+539,caca11,animal,kītì (M),HHʔ,1
+540,caca11,to eat,kāà (M),HHʔ,2
+541,caca11,beans,ⁿdūčī (M),HHʔ,3
+542,caca11,clothes,đāʔmà̧ (M),HHʔ,6
+543,caca11,tree,žītò̧,HHʔ,7
+544,caca11,straw mat,žūù (M),HHʔ,9
+545,caca11,mouth,žūʔū (M),HHʔ,10
+546,caca11,rope,žōʔò,HHʔ,14
+547,caca11,work,čō̧ō̧,HH,16
+548,caca11,to come,kīšī,HH,18
+549,caca11,to sing,kātā,HH,21
+550,caca11,to burn,kāʔmā̧,HH,23
+551,caca11,now,ƀīčī,HH,27
+552,caca11,house,ƀēʔē,HH,28
+553,caca11,one,ī̧ī̧,HH,30
+554,caca11,paper,tūtù,HL,31
+555,caca11,stool,tēì,HL,32
+556,caca11,uncle,đītò,HL,34
+557,caca11,aunt,đīđì,HL,35
+558,caca11,bird,tì-lāà,HL,37
+559,caca11,wall,nā̧mà̧,HL,38
+560,caca11,town,ñō̧ò̧,HL,39
+561,caca11,brother,ñāñī̧,HL,40
+562,caca11,dog,t-ì̧nā̧,HL,45
+563,caca11,stomach,tìšī,LH,46
+564,caca11,clay pot,kìđī,LH,49
+565,caca11,metal,kàā,LH,50
+566,caca11,meat,kò̧ñō̧,LH,51
+567,caca11,child,đèʔē,LH,54
+568,caca11,ear,đòʔō,LH,56
+569,caca11,tooth,nò̧ʔō̧,LH,57
+570,caca11,cold,ƀìšī,LH,59
+571,caca11,good,ƀàʔā,LH,60
+572,caca11,medicine,tàtà (M),LLʔ,61
+573,caca11,four,kòmì̧ (M),LLʔ,62
+574,caca11,cotton,kàčì,LLʔ,64
+575,caca11,snake,kòò,LLʔ,65
+576,caca11,sandal,ⁿdìsà,LLʔ,66
+577,caca11,cane,ⁿdòò (M),LLʔ,67
+578,caca11,tortilla,đìtà (M),LLʔ,68
+579,caca11,head,đìnì (M),LLʔ,69
+580,caca11,comal,šòò (M),LLʔ,70
+581,caca11,soap,nàmà (M),LLʔ,71
+582,caca11,stone,žùù,LLʔ,74
+583,caca11,comb,kùkà,LL,77
+584,caca11,sister,kùʔù,LL,78
+585,caca11,to cut,tèʔⁿdè,LL,79
+586,caca11,to speak,kà̧ʔà̧,LL,80
+587,caca11,year,kùà,LL,81
+588,caca11,foot,sàʔà,LL,84
+589,caca11,thread,žùʔà,LL,86
+590,caca11,sweet,ƀìđì,LL,87
+591,caca11,nine,ì̧ì̧,LL,88
+592,caca11,fingernail,čí̧ì̧,MT,91
+593,caca11,turkey hen,čò̧ò̧,MT,93
+594,caca11,fish,tì-žākā,MT,94
+595,caca11,long,kánì̧,MT,97
+596,caca11,white,kúší,MT,99
+597,caca11,green,kʷíì,MT,100
+598,caca11,red,kʷàʔá,MT,102
+599,caca11,yellow,kʷà̧á̧,MT,103
+600,caca11,to sell,đìkò,MT,105
+601,caca11,new,sàà,MT,107
+602,caca11,little,līlūū,MT,108
+603,caca11,tongue,žáà,MT,110
+604,xaya11,animal,kīsì (M),HHʔ,1
+605,xaya11,hand,ⁿdāʔà (M),HHʔ,5
+606,xaya11,clothes,đāʔmà̧ (M),HHʔ,6
+607,xaya11,straw mat,yūì,HHʔ,9
+608,xaya11,woman,ñā̧ʔà̧,HHʔ,13
+609,xaya11,rope,yōʔò,HHʔ,14
+610,xaya11,work,čū̧ū̧,HH,16
+611,xaya11,handspan,tōō,HH,17
+612,xaya11,to be,kūū,HH,20
+613,xaya11,now,ƀīčī,HH,27
+614,xaya11,house,ƀēʔē,HH,28
+615,xaya11,yesterday,īkū,HH,29
+616,xaya11,one,ī̧ī̧,HH,30
+617,xaya11,paper,tūtū,HL,31
+618,xaya11,uncle,đītò,HL,34
+619,xaya11,aunt,đīđī,HL,35
+620,xaya11,wall,nāmā,HL,38
+621,xaya11,brother,ñānī,HL,40
+622,xaya11,hole,yāƀī,HL,41
+623,xaya11,deer,"īđū ""horse""",HL,43
+624,xaya11,dog,sì-īnà,HL,45
+625,xaya11,man,tʸàā,LH,47
+626,xaya11,metal,kàā,LH,50
+627,xaya11,cross-sex sibling,kùʔā,LH,52
+628,xaya11,adobe,ⁿdòʔō,LH,53
+629,xaya11,child,đèʔē,LH,54
+630,xaya11,sibling's wife,sànū,LH,55
+631,xaya11,cold,ƀìšī̧,LH,59
+632,xaya11,good,ƀàʔā,LH,60
+633,xaya11,four,kùmì (M),LLʔ,62
+634,xaya11,snake,kòò,LLʔ,65
+635,xaya11,sandal,ⁿdìsà̧,LLʔ,66
+636,xaya11,tortilla,đìtà (M),LLʔ,68
+637,xaya11,face,nùù,LLʔ,72
+638,xaya11,stone,yùù (M),LLʔ,74
+639,xaya11,sister,kùʔù,LL,78
+640,xaya11,to cut,tàʔⁿdè,LL,79
+641,xaya11,niece,đīkū,LL,82
+642,xaya11,nephew,đášì,LL,83
+643,xaya11,thread,yùʔà,LL,86
+644,xaya11,sweet,ƀìđì,LL,87
+645,xaya11,nine,ì̧ì̧,LL,88
+646,xaya11,two,ùì,LL,89
+647,xaya11,fingernail,čī̧ī̧,MT,91
+648,xaya11,fish,s-yākā,MT,94
+649,xaya11,sibling's husband,kāđà,MT,96
+650,xaya11,small (in pieces),kʷātī,MT,101
+651,xaya11,red,kʷàʔá,MT,102
+652,xaya11,yellow,kʷà̧á̧,MT,103
+653,xaya11,poor,ⁿdàʔƀí,MT,104
+654,xaya11,tongue,yàá,MT,110
+655,ayut11,to eat,kàšìʔ,HHʔ,2
+656,ayut11,beans,ⁿdùčíʔ,HHʔ,3
+657,ayut11,water,(ti kʷii),HHʔ,4
+658,ayut11,hand,ⁿdàʔáʔ,HHʔ,5
+659,ayut11,clothes,sàʔmáʔ,HHʔ,6
+660,ayut11,tree,ìtú̧ʔ,HHʔ,7
+661,ayut11,straw mat,yìwìʔ,HHʔ,9
+662,ayut11,mouth,yùʔúʔ,HHʔ,10
+663,ayut11,bone,ìkìʔ,HHʔ,11
+664,ayut11,work,čù̧ù̧,HH,16
+665,ayut11,handspan,tòò,HH,17
+666,ayut11,to come,kìšì,HH,18
+667,ayut11,to run,kùnù,HH,19
+668,ayut11,to look,kòtò,HH,24
+669,ayut11,now,wìtì̧,HH,27
+670,ayut11,house,wìʔè,HH,28
+671,ayut11,one,ì̧ì̧,HH,30
+672,ayut11,paper,tùtù,HL,31
+673,ayut11,lime,kàkà,HL,33
+674,ayut11,uncle,šìtò,HL,34
+675,ayut11,aunt,šìšì,HL,35
+676,ayut11,bird,sàà,HL,37
+677,ayut11,wall,nāmà,HL,38
+678,ayut11,town,ñùù,HL,39
+679,ayut11,brother,ñànì,HL,40
+680,ayut11,flower,ìtà,HL,42
+681,ayut11,inside,ìnì,HL,44
+682,ayut11,man,tʸāà,LH,47
+683,ayut11,word,tù̧ʔù̧,LH,48
+684,ayut11,clay pot,kìsì,LH,49
+685,ayut11,metal,kàà,LH,50
+686,ayut11,adobe,ⁿdòʔò,LH,53
+687,ayut11,child,sīʔè,LH,54
+688,ayut11,sibling's wife,šànù,LH,55
+689,ayut11,ear,sōʔò,LH,56
+690,ayut11,cold,wìšì̧,LH,59
+691,ayut11,good,wàʔà,LH,60
+692,ayut11,four,kùmíʔ,LLʔ,62
+693,ayut11,cotton,kāčìʔ,LLʔ,64
+694,ayut11,snake,kōòʔ,LLʔ,65
+695,ayut11,sandal,ⁿdīšà̧ʔ,LLʔ,66
+696,ayut11,tortilla,štā ̀ʔ,LLʔ,68
+697,ayut11,head,šīnìʔ,LLʔ,69
+698,ayut11,soap,nāmàʔ,LLʔ,71
+699,ayut11,corn,nūnìʔ,LLʔ,73
+700,ayut11,stone,yūùʔ,LLʔ,74
+701,ayut11,to go,kū̧ʔù̧,LL,76
+702,ayut11,sister,kūʔwà,LL,78
+703,ayut11,to cut,kāʔⁿdʸà,LL,79
+704,ayut11,to speak,kā̧ʔà̧,LL,80
+705,ayut11,niece,sīkù,LL,82
+706,ayut11,nephew,sāšì̧,LL,83
+707,ayut11,"herb, bush","yūkù ""leaf""",LL,85
+708,ayut11,two,ūwì,LL,89
+709,ayut11,turkey hen,tʸù̧ù̧ʔ,MT,93
+710,ayut11,fish,tʸàkáʔ,MT,94
+711,ayut11,black,tù̧ú̧ʔ,MT,95
+712,ayut11,sibling's husband,kàsáʔ,MT,96
+713,ayut11,long,kánìʔ,MT,97
+714,ayut11,big (sg),"káʔnúʔ ""important""",MT,98
+715,ayut11,green,kʷíìʔ,MT,100
+716,ayut11,small (in pieces),kʷáčí,MT,101
+717,ayut11,red,kʷáʔá,MT,102
+718,ayut11,yellow,kʷá̧á̧,MT,103
+719,ayut11,poor,ⁿdàʔwí,MT,104
+720,ayut11,to sell,šìkòʔ,MT,105
+721,ayut11,precious metal,šù̧ʔú̧ʔ,MT,106
+722,ayut11,little,lúlú,MT,108
+723,ayut11,people,nè-yíwìʔ,MT,109
+724,ayut11,tongue,yáà,MT,110
+725,alac11,beans,ⁿdūčù,HHʔ,3
+726,alac11,hand,ⁿdàʔā,HHʔ,5
+727,alac11,mouth,yūʔù,HHʔ,10
+728,alac11,work,čīñō̧,HH,16
+729,alac11,now,ƀītī̧,HH,27
+730,alac11,house,ƀēʔē,HH,28
+731,alac11,stool,tāyì,HL,32
+732,alac11,town,ñō̧ō̧,HL,39
+733,alac11,hole,yāƀì,HL,41
+734,alac11,deer,yūsū,HL,43
+735,alac11,dog,īnā̧,HL,45
+736,alac11,clay pot,kìsī,LH,49
+737,alac11,meat,kùñō̧,LH,51
+738,alac11,adobe,ⁿdòʔō,LH,53
+739,alac11,ear,sòʔō,LH,56
+740,alac11,cold,ƀìšī,LH,59
+741,alac11,good,ƀàʔā,LH,60
+742,alac11,day,kìƀì,LLʔ,63
+743,alac11,snake,kòò,LLʔ,65
+744,alac11,tortilla,sìtà,LLʔ,68
+745,alac11,comal,šìyò,LLʔ,70
+746,alac11,stone,yùù,LLʔ,74
+747,alac11,moon,yòò,LLʔ,75
+748,alac11,to go,kò̧ʔò̧,LL,76
+749,alac11,comb,kʷìkà,LL,77
+750,alac11,foot,šàʔà,LL,84
+751,alac11,thread,yìʔƀà,LL,86
+752,alac11,fingernail,číì,MT,91
+753,alac11,turkey hen,tì̧ú̧,MT,93
+754,alac11,fish,tiáká,MT,94
+755,alac11,black,tò̧ó̧,MT,95
+756,alac11,long,kánì,MT,97
+757,alac11,red,kʷáʔá,MT,102
+758,alac11,yellow,kʷá̧á̧,MT,103
+759,alac11,new,šāá,MT,107
+760,alac11,people,nì̧ƀī,MT,109
+761,alac11,tongue,láà,MT,110
+762,metl11,animal,kītí,HHʔ,1
+763,metl11,to eat,kāšī,HHʔ,2
+764,metl11,hand,ⁿdàʔā,HHʔ,5
+765,metl11,tree,yūtú̧,HHʔ,7
+766,metl11,straw mat,yūƀì (M),HHʔ,9
+767,metl11,mouth,yùʔū,HHʔ,10
+768,metl11,bone,īkí,HHʔ,11
+769,metl11,rope,yōʔó,HHʔ,14
+770,metl11,road,īčí,HHʔ,15
+771,metl11,to run,kūnū,HH,19
+772,metl11,to be,kūƀī,HH,20
+773,metl11,to sing,kātā,HH,21
+774,metl11,to look,kōtō,HH,24
+775,metl11,house,ƀēʔē,HH,28
+776,metl11,one,ī̧ī̧,HH,30
+777,metl11,paper,tūtū,HL,31
+778,metl11,stool,tʸāyù,HL,32
+779,metl11,lime,kākā’,HL,33
+780,metl11,uncle,šītò,HL,34
+781,metl11,aunt,šīšī,HL,35
+782,metl11,bird,sāā,HL,37
+783,metl11,wall,nāmà,HL,38
+784,metl11,brother,yānī,HL,40
+785,metl11,flower,ītā,HL,42
+786,metl11,inside,īnī,HL,44
+787,metl11,stomach,tīšī,LH,46
+788,metl11,man,tʸàā,LH,47
+789,metl11,word,tù̧ʔū̧,LH,48
+790,metl11,clay pot,kìsī,LH,49
+791,metl11,metal,kàà,LH,50
+792,metl11,meat,kùñù,LH,51
+793,metl11,cross-sex sibling,kūʔƀā,LH,52
+794,metl11,child,sēʔē,LH,54
+795,metl11,sibling's wife,sānù,LH,55
+796,metl11,river,ítʸā,LH,58
+797,metl11,cold,ƀìšī̧,LH,59
+798,metl11,good,ƀàʔā,LH,60
+799,metl11,medicine,tàtà̧(ā̧)(M),LLʔ,61
+800,metl11,four,kùmī (M),LLʔ,62
+801,metl11,day,kìƀì(ī),LLʔ,63
+802,metl11,snake,kōò (M),LLʔ,65
+803,metl11,tortilla,sītà,LLʔ,68
+804,metl11,head,šìnī,LLʔ,69
+805,metl11,soap,nàmà(ā) (M),LLʔ,71
+806,metl11,corn,nùnì(ī) (M),LLʔ,73
+807,metl11,stone,yùū,LLʔ,74
+808,metl11,sister,kūʔƀī,LL,78
+809,metl11,to cut,kāʔⁿdʸā,LL,79
+810,metl11,to speak,kā̧ʔā̧,LL,80
+811,metl11,niece,šīkū,LL,82
+812,metl11,nephew,sāšī̧,LL,83
+813,metl11,foot,šàʔā,LL,84
+814,metl11,sweet,ƀìšì,LL,87
+815,metl11,fingernail,čí̧ì̧,MT,91
+816,metl11,rat,tì̧ī̧,MT,92
+817,metl11,fish,tʸàká,MT,94
+818,metl11,sibling's husband,kāsā,MT,96
+819,metl11,big (sg),káʔnū,MT,98
+820,metl11,small (in pieces),kʷàčī,MT,101
+821,metl11,red,kʷáʔā,MT,102
+822,metl11,yellow,kʷá̧á̧,MT,103
+823,metl11,people,yūúƀī,MT,109
+824,cahu11,animal,kītī,HHʔ,1
+825,cahu11,to eat,kāšī,HHʔ,2
+826,cahu11,beans,ⁿdǜčǜ,HHʔ,3
+827,cahu11,water,(ta kʷiyi),HHʔ,4
+828,cahu11,hand,ⁿdāʔā,HHʔ,5
+829,cahu11,tree,yītnō,HHʔ,7
+830,cahu11,mountain,yǖkǜ,HHʔ,8
+831,cahu11,straw mat,yīwí,HHʔ,9
+832,cahu11,mouth,yǖʔǖ,HHʔ,10
+833,cahu11,bone,yīkī,HHʔ,11
+834,cahu11,chile,yāʔā,HHʔ,12
+835,cahu11,woman,ñāʔà,HHʔ,13
+836,cahu11,road,yīčī,HHʔ,15
+837,cahu11,work,čīñō,HH,16
+838,cahu11,to come,kísī,HH,18
+839,cahu11,to be born,kākū,HH,22
+840,cahu11,to burn,kāʔmī,HH,23
+841,cahu11,to drink,kōʔō,HH,25
+842,cahu11,now,wītnī,HH,27
+843,cahu11,house,wēʔē,HH,28
+844,cahu11,one,í̧í̧,HH,30
+845,cahu11,stool,tāyī,HL,32
+846,cahu11,lime,kākā,HL,33
+847,cahu11,uncle,sītō,HL,34
+848,cahu11,aunt,sīsī,HL,35
+849,cahu11,bird,sáá,HL,37
+850,cahu11,town,ñó̧ō̧,HL,39
+851,cahu11,brother,ñānī,HL,40
+852,cahu11,hole,yāwī,HL,41
+853,cahu11,flower,yītā,HL,42
+854,cahu11,deer,tn-ǖsǖ,HL,43
+855,cahu11,inside,īnī,HL,44
+856,cahu11,dog,(ñ)īnā,HL,45
+857,cahu11,stomach,tīšī,LH,46
+858,cahu11,word,tnō̧ʔō̧,LH,48
+859,cahu11,metal,kàà,LH,50
+860,cahu11,meat,kùñū̧,LH,51
+861,cahu11,adobe,ⁿdōʔō,LH,53
+862,cahu11,child,sāʔyā,LH,54
+863,cahu11,sibling's wife,šānō,LH,55
+864,cahu11,ear,sòʔō,LH,56
+865,cahu11,tooth,nò̧ʔō̧,LH,57
+866,cahu11,river,yǜtā,LH,58
+867,cahu11,cold,wìšī̧,LH,59
+868,cahu11,good,wāʔā,LH,60
+869,cahu11,four,kūmī,LLʔ,62
+870,cahu11,day,kìwì,LLʔ,63
+871,cahu11,cotton,kàčì,LLʔ,64
+872,cahu11,sandal,ⁿdǜsà,LLʔ,66
+873,cahu11,cane,ⁿdòò,LLʔ,67
+874,cahu11,tortilla,sītā,LLʔ,68
+875,cahu11,head,sìnì,LLʔ,69
+876,cahu11,comal,šìyò,LLʔ,70
+877,cahu11,face,nò̧ò̧,LLʔ,72
+878,cahu11,corn,nònì,LLʔ,73
+879,cahu11,stone,yǜǜ,LLʔ,74
+880,cahu11,moon,yòò,LLʔ,75
+881,cahu11,to cut,kāʔⁿdā,LL,79
+882,cahu11,to speak,kā̧ʔā̧,LL,80
+883,cahu11,year,kʷīyā,LL,81
+884,cahu11,nephew,sāšī̧,LL,83
+885,cahu11,foot,šāʔā,LL,84
+886,cahu11,"herb, bush",yǜkǜ,LL,85
+887,cahu11,sweet,wīsī,LL,87
+888,cahu11,nine,ì̧ì̧,LL,88
+889,cahu11,two,ōwī,LL,89
+890,cahu11,five,ō̧ʔō̧,LL,90
+891,cahu11,fingernail,čī̧ī̧,MT,91
+892,cahu11,turkey hen,tʸó̧ó̧,MT,93
+893,cahu11,fish,tʸāká,MT,94
+894,cahu11,black,tnō̧ó̧,MT,95
+895,cahu11,big (sg),kāʔnō,MT,98
+896,cahu11,green,kʷíí,MT,100
+897,cahu11,small (in pieces),kʷāčí,MT,101
+898,cahu11,red,kʷáʔá,MT,102
+899,cahu11,yellow,kʷá̧á̧,MT,103
+900,cahu11,poor,ⁿdāʔwī,MT,104
+901,cahu11,to sell,síkò,MT,105
+902,cahu11,little,lōʔō,MT,108
+903,cahu11,tongue,yáá,MT,110
+904,mixt11,hand,ⁿdāʔá,HHʔ,5
+905,mixt11,clothes,sàʔmǎ,HHʔ,6
+906,mixt11,straw mat,yùƀǐ,HHʔ,9
+907,mixt11,mouth,yūʔú,HHʔ,10
+908,mixt11,chile,yāʔá,HHʔ,12
+909,mixt11,woman,ñā̧ʔá̧,HHʔ,13
+910,mixt11,rope,yōʔó,HHʔ,14
+911,mixt11,work,čī̧ū̧,HH,16
+912,mixt11,house,ƀēʔē,HH,28
+913,mixt11,one,ī̧ī̧,HH,30
+914,mixt11,paper,tūtù,HL,31
+915,mixt11,lime,kākà,HL,33
+916,mixt11,uncle,šītò,HL,34
+917,mixt11,frog,sàʔƀà,HL,36
+918,mixt11,town,ñūù,HL,39
+919,mixt11,hole,yàƀì,HL,41
+920,mixt11,flower,ītà,HL,42
+921,mixt11,dog,t-i᷅nā,HL,45
+922,mixt11,stomach,tīȼī,LH,46
+923,mixt11,man,čàā,LH,47
+924,mixt11,word,tù̧ʔū̧,LH,48
+925,mixt11,clay pot,kìsī,LH,49
+926,mixt11,metal,kàā,LH,50
+927,mixt11,adobe,ⁿdòʔō,LH,53
+928,mixt11,child,sèʔē,LH,54
+929,mixt11,river,yùčā,LH,58
+930,mixt11,cold,ƀìȼī,LH,59
+931,mixt11,good,ƀàʔā,LH,60
+932,mixt11,medicine,tàtǎ,LLʔ,61
+933,mixt11,four,kùmǐ,LLʔ,62
+934,mixt11,cotton,kàčǐ,LLʔ,64
+935,mixt11,snake,kòó,LLʔ,65
+936,mixt11,sandal,ⁿzìȼǎ,LLʔ,66
+937,mixt11,cane,ⁿdòó,LLʔ,67
+938,mixt11,tortilla,stàá,LLʔ,68
+939,mixt11,soap,nàmǎ,LLʔ,71
+940,mixt11,face,nùú,LLʔ,72
+941,mixt11,stone,yùú,LLʔ,74
+942,mixt11,moon,yòó,LLʔ,75
+943,mixt11,comb,kʷìkà,LL,77
+944,mixt11,year,kʷìà,LL,81
+945,mixt11,nine,ì̧ì̧,LL,88
+946,mixt11,five,ù̧ʔù̧,LL,90
+947,mixt11,fingernail,čî̧í̧,MT,91
+948,mixt11,turkey hen,čù̧ū̧,MT,93
+949,mixt11,big (sg),káʔnū,MT,98
+950,mixt11,white,kʷíȼì,MT,99
+951,mixt11,green,kʷîí,MT,100
+952,mixt11,red,kʷáʔà,MT,102
+953,mixt11,yellow,kʷá̧à̧,MT,103
+954,mixt11,precious metal,šǔ̧ʔū̧,MT,106
+955,mixt11,new,ȼǎā,MT,107
+956,mixt11,little,lūū,MT,108
+957,mixt11,tongue,yâá,MT,110
+958,prog12,animal,kítì,HHʔ,1
+959,prog12,to eat,kāší,HHʔ,2
+960,prog12,beans,ⁿdǘčǜ,HHʔ,3
+961,prog12,hand,ⁿdáʔà,HHʔ,5
+962,prog12,clothes,háʔmà,HHʔ,6
+963,prog12,tree,žítò,HHʔ,7
+964,prog12,mountain,žǘkǜ,HHʔ,8
+965,prog12,mouth,žǘʔǜ,HHʔ,10
+966,prog12,chile,žáʔà,HHʔ,12
+967,prog12,woman,ñá̧ʔà̧,HHʔ,13
+968,prog12,rope,žóʔò,HHʔ,14
+969,prog12,road,íčì,HHʔ,15
+970,prog12,work,čū̧ū̧,HH,16
+971,prog12,to be,kūū,HH,20
+972,prog12,to sing,kātā,HH,21
+973,prog12,to buy,kʷȩ̄ȩ̀,HH,26
+974,prog12,now,ƀītī,HH,27
+975,prog12,house,ƀēʔē,HH,28
+976,prog12,one,ī̧ī̧,HH,30
+977,prog12,paper,tǖtǖ,HL,31
+978,prog12,uncle,hìtò,HL,34
+979,prog12,aunt,hìhì,HL,35
+980,prog12,frog,láʔƀà,HL,36
+981,prog12,bird,lāā,HL,37
+982,prog12,town,ñūū,HL,39
+983,prog12,brother,ñànì,HL,40
+984,prog12,hole,žáƀì,HL,41
+985,prog12,deer,ǖhǖ,HL,43
+986,prog12,inside,īnī,HL,44
+987,prog12,dog,t-ìnā,HL,45
+988,prog12,stomach,tìšī,LH,46
+989,prog12,man,tàà,LH,47
+990,prog12,word,tù̧ʔū̧,LH,48
+991,prog12,metal,kàà,LH,50
+992,prog12,cross-sex sibling,kʸàʔƀà,LH,52
+993,prog12,adobe,ⁿdòʔō,LH,53
+994,prog12,child,hàʔžī,LH,54
+995,prog12,sibling's wife,sànù,LH,55
+996,prog12,river,žǜtā,LH,58
+997,prog12,cold,ƀīšī,LH,59
+998,prog12,good,ƀàʔā,LH,60
+999,prog12,medicine,tàtà,LLʔ,61
+1000,prog12,four,kòmì,LLʔ,62
+1001,prog12,day,kìƀì,LLʔ,63
+1002,prog12,cotton,kàčì,LLʔ,64
+1003,prog12,snake,kòò,LLʔ,65
+1004,prog12,sandal,ⁿdǜsà,LLʔ,66
+1005,prog12,cane,ⁿdòò,LLʔ,67
+1006,prog12,tortilla,hìtà,LLʔ,68
+1007,prog12,head,hìnì,LLʔ,69
+1008,prog12,comal,šòò,LLʔ,70
+1009,prog12,soap,nà̧mà̧,LLʔ,71
+1010,prog12,face,nùù,LLʔ,72
+1011,prog12,corn,nù̧nì̧,LLʔ,73
+1012,prog12,moon,žòò,LLʔ,75
+1013,prog12,to go,kù̧ʔù̧,LL,76
+1014,prog12,sister,kìʔƀì,LL,78
+1015,prog12,to cut,"tàʔⁿdà ""ƀroken""",LL,79
+1016,prog12,to speak,kà̧ʔà̧,LL,80
+1017,prog12,year,kʷyàà,LL,81
+1018,prog12,niece,hǜkǜ,LL,82
+1019,prog12,nephew,hàšì,LL,83
+1020,prog12,foot,šàʔà,LL,84
+1021,prog12,"herb, bush","žǜkǜ ""weeds""",LL,85
+1022,prog12,sweet,ƀìhì,LL,87
+1023,prog12,nine,ì̧ì̧,LL,88
+1024,prog12,two,ìƀì,LL,89
+1025,prog12,five,ù̧ʔù̧,LL,90
+1026,prog12,fingernail,čí̧ì̧,MT,91
+1027,prog12,rat,tì̧í̧,MT,92
+1028,prog12,fish,tī-žàká,MT,94
+1029,prog12,black,tù̧ú̧,MT,95
+1030,prog12,sibling's husband,kàhá,MT,96
+1031,prog12,big (sg),káʔnū,MT,98
+1032,prog12,green,kʷíī,MT,100
+1033,prog12,red,kʷáʔá,MT,102
+1034,prog12,yellow,kʷá̧á̧,MT,103
+1035,prog12,to sell,hìkó,MT,105
+1036,prog12,precious metal,hyù̧ʔú̧,MT,106
+1037,prog12,new,sàá,MT,107
+1038,prog12,little,lōʔō,MT,108
+1039,prog12,people,žīƀī,MT,109
+1040,prog12,tongue,žáà,MT,110
+1041,jica11,animal,kìtì,HHʔ,1
+1042,jica11,to eat,káčì,HHʔ,2
+1043,jica11,water,ⁿdùtà,HHʔ,4
+1044,jica11,hand,ⁿdàʔà,HHʔ,5
+1045,jica11,clothes,sàʔmà,HHʔ,6
+1046,jica11,tree,yùtù̧,HHʔ,7
+1047,jica11,straw mat,yùƀì,HHʔ,9
+1048,jica11,woman,ñà̧ʔà̧,HHʔ,13
+1049,jica11,rope,yòʔò,HHʔ,14
+1050,jica11,road,ìtì,HHʔ,15
+1051,jica11,to come,kíčì,HH,18
+1052,jica11,to run,kúnú,HH,19
+1053,jica11,now,ƀìtì̧,HH,27
+1054,jica11,house,ƀèʔè,HH,28
+1055,jica11,yesterday,ìkù,HH,29
+1056,jica11,one,ì̧ì̧,HH,30
+1057,jica11,paper,tūtū,HL,31
+1058,jica11,stool,tāyū,HL,32
+1059,jica11,lime,kākā,HL,33
+1060,jica11,uncle,šītō,HL,34
+1061,jica11,aunt,čīšī,HL,35
+1062,jica11,frog,sāʔƀā,HL,36
+1063,jica11,bird,sāā,HL,37
+1064,jica11,wall,nāmā,HL,38
+1065,jica11,town,ñū̧ū̧,HL,39
+1066,jica11,flower,ītā,HL,42
+1067,jica11,dog,īnā,HL,45
+1068,jica11,stomach,tíčí,LH,46
+1069,jica11,word,tú̧ʔú̧,LH,48
+1070,jica11,clay pot,kísí,LH,49
+1071,jica11,metal,káā,LH,50
+1072,jica11,adobe,ⁿdóʔō,LH,53
+1073,jica11,child,séʔé,LH,54
+1074,jica11,sibling's wife,čánū,LH,55
+1075,jica11,ear,sóʔó,LH,56
+1076,jica11,river,yútá,LH,58
+1077,jica11,good,ƀáʔá,LH,60
+1078,jica11,four,kúmí,LLʔ,62
+1079,jica11,cotton,kátí,LLʔ,64
+1080,jica11,snake,kóó,LLʔ,65
+1081,jica11,cane,ⁿdóó,LLʔ,67
+1082,jica11,tortilla,šítá,LLʔ,68
+1083,jica11,head,šíní,LLʔ,69
+1084,jica11,face,nú̧ú̧,LLʔ,72
+1085,jica11,corn,núní,LLʔ,73
+1086,jica11,stone,yúú,LLʔ,74
+1087,jica11,moon,yóó,LLʔ,75
+1088,jica11,to cut,kàʔⁿdà,LL,79
+1089,jica11,to speak,kà̧ʔā̧,LL,80
+1090,jica11,thread,yūʔƀā,LL,86
+1091,jica11,nine,í̧í̧,LL,88
+1092,jica11,two,úƀí,LL,89
+1093,jica11,five,ú̧ʔú̧,LL,90
+1094,jica11,fingernail,tìñì,MT,91
+1095,jica11,rat,tɨ̄ñɨ́,MT,92
+1096,jica11,black,tù̧ù̧,MT,95
+1097,jica11,green,kʷìì,MT,100
+1098,jica11,small (in pieces),kʷàtì,MT,101
+1099,jica11,yellow,"kʷà̧ā̧(-čí) ""it is yellow""",MT,103
+1100,jica11,to sell,šíkò,MT,105
+1101,jica11,precious metal,šú̧ʔú̧,MT,106
+1102,jica11,new,čàà,MT,107
+1103,jica11,little,lùʔù,MT,108
+1104,jica11,people,ñíƀí,MT,109
+1105,chay11,animal,kɨ̄tɨ̄,HHʔ,1
+1106,chay11,beans,ⁿdūtʸī,HHʔ,3
+1107,chay11,mountain,yūkū,HHʔ,8
+1108,chay11,straw mat,yūū,HHʔ,9
+1109,chay11,mouth,yūʔū,HHʔ,10
+1110,chay11,rope,yōʔō,HHʔ,14
+1111,chay11,road,ītʸī,HHʔ,15
+1112,chay11,now,ƀītʸī,HH,27
+1113,chay11,house,ƀēʔē,HH,28
+1114,chay11,one,ī̧ī̧,HH,30
+1115,chay11,paper,tūtù,HL,31
+1116,chay11,stool,tēì,HL,32
+1117,chay11,wall,nāmà,HL,38
+1118,chay11,town,ñūù,HL,39
+1119,chay11,hole,yāƀì,HL,41
+1120,chay11,flower,ītà,HL,42
+1121,chay11,word,tù̧ʔū̧,LH,48
+1122,chay11,cross-sex sibling,kùʔƀā,LH,52
+1123,chay11,adobe,ⁿdòʔō,LH,53
+1124,chay11,child,θèʔē,LH,54
+1125,chay11,good,ƀàʔā,LH,60
+1126,chay11,medicine,tàtà,LLʔ,61
+1127,chay11,four,kùmì,LLʔ,62
+1128,chay11,day,kɨ̀ƀɨ̀,LLʔ,63
+1129,chay11,snake,kòò,LLʔ,65
+1130,chay11,tortilla,šìtà,LLʔ,68
+1131,chay11,head,šìnì,LLʔ,69
+1132,chay11,comal,sìyò,LLʔ,70
+1133,chay11,soap,nàmà,LLʔ,71
+1134,chay11,face,nùù,LLʔ,72
+1135,chay11,stone,yùù,LLʔ,74
+1136,chay11,moon,yòò,LLʔ,75
+1137,chay11,year,kʷìyà,LL,81
+1138,chay11,foot,šàʔà,LL,84
+1139,chay11,"herb, bush",yùkù,LL,85
+1140,chay11,long,káñí,MT,97
+1141,chay11,big (sg),kàʔnū,MT,98
+1142,chay11,poor,ⁿdāʔƀí,MT,104
+1143,chay11,new,sāá,MT,107
+1144,chay11,little,lúʔlū,MT,108
+1145,chay11,people,ñì-yɨ̄ƀɨ̄,MT,109

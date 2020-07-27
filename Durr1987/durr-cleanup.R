@@ -37,10 +37,11 @@ glimpse(dcomb)
 
 
 # clean up for export, add ID for each entry
-dcomb1 <- dcomb %>% select(CogID_Durr = name, Doculect, Concept = value.y, Form = value.x, PMCouplet = value) %>% filter(!is.na(Form)) %>% mutate(ID = seq)
+dcomb1 <- dcomb %>% filter(!is.na(value.x)) %>%  select( Doculect, Concept = value.y, Form = value.x, PMCouplet = value, CogID_Durr = name) %>% mutate_if(is.factor, as.character)
+dcomb1 <- dcomb1 %>% mutate(ID = seq_along(1:nrow(dcomb1))) %>% select(ID, everything())
 glimpse(dcomb1)
 
 # write to csv
-write_csv(dcomb1, "/Users/auderset/Desktop/testing/durr-1987-long.csv")
+write_tsv(dcomb1, "/Users/auderset/Documents/GitHub/mixteca/Durr1987/durr-1987-long.tsv", quote_escape = FALSE)
 
 
