@@ -36,8 +36,8 @@ dcomb <- dcomb %>% mutate_if(is.character, as.factor) %>%
 glimpse(dcomb)
 
 
-# clean up for export
-dcomb1 <- dcomb %>% select(ID_Durr = name, Doculect, Concept = value.y, Form = value.x, PMCouplet = value) %>% filter(!is.na(Form))
+# clean up for export, add ID for each entry
+dcomb1 <- dcomb %>% select(CogID_Durr = name, Doculect, Concept = value.y, Form = value.x, PMCouplet = value) %>% filter(!is.na(Form)) %>% mutate(ID = seq)
 glimpse(dcomb1)
 
 # write to csv
