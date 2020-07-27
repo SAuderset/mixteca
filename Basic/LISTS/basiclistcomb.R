@@ -11,10 +11,12 @@ wl <- list.files(pattern = "*.csv") %>% map_df(~read_csv(.))
 class(wl)
 head(wl)
 
+wl %>% count(ID) %>% filter(n > 1)
+
 # restructure, delete rows with NA
 wl1 <- wl %>% select(ID, DOCULECT, CONCEPT, FORM, IDlist, NOTES) %>%
-  filter(FORM!="$") %>%
-  mutate_if(is.double, as.integer)
+  filter(FORM!="$")
+
 # normalize unicode
 wl1$FORM <- stri_trans_nfd(wl1$FORM)
 # lower case
@@ -26,4 +28,4 @@ head(wl1)
 wl1 %>% count(ID) %>% filter(n > 1)
 
 # export to tsv for further processing
-write_tsv(wl2, "basiclist.tsv")
+write_tsv(wl1, "basiclist.tsv")

@@ -6,7 +6,6 @@ library(qlcData)
 library(stringi)
 
 # read in long durr db
-
 durr <- read_csv("/Users/auderset/Desktop/testing/durr-1987-long-clean.csv")
 glimpse(durr)
 

@@ -1,7 +1,7 @@
 
 library(tidyverse)
 
-d <- read_tsv("/Users/auderset/Desktop/testing/durr-1987-raw.csv")
+d <- read_tsv("/Users/auderset/Documents/GitHub/mixteca/Durr1987/durr-1987-raw.csv")
 head(d)
 glimpse(d)
 
@@ -13,7 +13,7 @@ head(dval)
 dnames <- slice(d, 1:2)
 head(dnames)
 
-d1 <- dval %>% pivot_longer(-CogID) 
+d1 <- dval %>% pivot_longer(-CogID)
 head(d1)
 glimpse(d1)
 
@@ -29,8 +29,15 @@ dcomb <- inner_join(d1, dconcept, by = "name", copy = TRUE)
 dcomb <- inner_join(dcomb, dcouplet, by = "name", copy = TRUE)
 glimpse(dcomb)
 
+# replace doculect labels with my code ids
+unique(dcomb$CogID.x)
+dcomb <- dcomb %>% mutate_if(is.character, as.factor) %>%
+  mutate(Doculect = recode_factor(CogID.x, Diu = "diux11", Pe = "peno11", Coa = "coat11", Mol = "moli11", Oco = "ocot11", Ata = "atat11", SM = "gran11", Cac = "caca11", Xay = "xaya11", Ay = "ayut11", Ala = "alac11", Met = "metl11", Cah = "cahu11", Mix = "mixt11", Sil = "prog12", Jic = "jica11", Jam = "chay11"))
+glimpse(dcomb)
+
+
 # clean up for export
-dcomb1 <- dcomb %>% select(ID_Durr = name, Doculect = CogID.x, Concept = value.y, Form = value.x, PMCouplet = value) %>% filter(!is.na(Form))
+dcomb1 <- dcomb %>% select(ID_Durr = name, Doculect, Concept = value.y, Form = value.x, PMCouplet = value) %>% filter(!is.na(Form))
 glimpse(dcomb1)
 
 # write to csv
