@@ -1,243 +1,243 @@
-IDlist,CONCEPT,FORM,ID,,NOTES,DOCULECT
-1,madre,Nni,1637,1640,,chic02
-2,mamá!,$,,3,,chic02
-3,padre,Treeha,1638,1641,,chic02
-3,padre,Dreeha,1639,1642,,chic02
-4,papá!,$,,3,,chic02
-5,hijo/hija,Tani,1640,1643,,chic02
-6,hijo,Tanixnagu,1641,1644,child-man,chic02
-7,hija,Tanichanaha,1642,1645,child-female,chic02
-8,hermana/hermano de otro genero,$,,3,,chic02
-9,hermano,Tînêha,1643,1646,,chic02
-10,hermana,Chughueha,1644,1647,,chic02
-11,tía,Tughuia,1645,1648,,chic02
-12,tío,Tanénha,1646,1649,,chic02
-13,hombre,Tsixnagú,1647,1650,,chic02
-14,mujer,Tsichunaha,1648,1651,,chic02
-15,dueño,Kuisiha,1649,1652,,chic02
-16,sacerdote,Treeha,1650,1653,same as 3,chic02
-17,sangre,Tunha,1651,1654,,chic02
-18,hueso,Kúúhu,1652,1655,,chic02
-19,pelo,Hûghue,1653,1656,,chic02
-20,cara,Rriíñiaha,1654,1657,,chic02
-21,lengua,Yuaha,1655,1658,,chic02
-22,diente,Kuyiaàha,1656,1659,,chic02
-23,boca,Duuaha,1657,1660,,chic02
-24,oreja,Drakih,1658,1661,,chic02
-25,nariz,Takén,1659,1662,,chic02
-26,cuello,Chiiaha,1660,1663,,chic02
-27,mano,Traha,1661,1664,,chic02
-28,uña,Kusitenha,1662,1665,,chic02
-29,espalda,Xitraha,1663,1666,,chic02
-30,panza,Rrikii,1664,1667,,chic02
-31,tripas,Chitríha,1665,1668,,chic02
-32,pie,Chii,1666,1669,,chic02
-32,pie,Tako,1667,1670,,chic02
-33,enfermedad,$,,3,,chic02
-34,medicina,$,,3,,chic02
-35,hinchazón,$,,3,,chic02
-36,grano,Nnuha,1668,1671,,chic02
-37,"pus, materia",$,,3,,chic02
-38,orina,Nnerihii,1669,1672,,chic02
-39,tela,Chináha,1670,1673,,chic02
-39,ropa,Katsihi,1671,1674,,chic02
-40,huarache,$,,3,,chic02
-41,pantalón,$,,3,,chic02
-42,huipil,$,,3,,chic02
-43,pueblo,Chuumaha,1672,1675,,chic02
-44,"casa, edificio",Ghuee,1673,1676,,chic02
-44,"casa, edificio",Tukua,1674,1677,,chic02
-45,camino,Treha,1675,1678,,chic02
-46,horcón,$,,3,,chic02
-47,petate,$,,3,,chic02
-48,"cama, lecho",$,,3,,chic02
-49,"banquito, banco, silla",$,,3,,chic02
-50,animal,Chukuha,1676,1679,,chic02
-51,pájaro,Chataha,1677,1680,,chic02
-52,"pez, pescado",$,,3,,chic02
-53,culebra,Chukuaha,1678,1681,,chic02
-54,rana,Chireki,1679,1682,,chic02
-54,rana,Chirikihi,1827,1830,,chic02
-55,gavilán,Xnuuhu,1680,1683,,chic02
-56,alacrán,$,,3,,chic02
-57,cucaracha,Chiraken,1681,1684,,chic02
-58,chapulín,Chukuahha,1682,1685,,chic02
-59,abeja,Xutan,1683,1686,,chic02
-60,ratón,Chuutuha,1684,1687,,chic02
-60,rata,Chuutughui,1685,1688,,chic02
-61,venado,Chutaha,1686,1689,,chic02
-62,ardilla,Chuaa,1687,1690,,chic02
-63,zorrillo,Cháán,1688,1691,,chic02
-64,tlacuache,$,,3,,chic02
-65,mapache,Kagu,1689,1692,,chic02
-66,conejo,Chatooha,1690,1693,,chic02
-67,zopilote,Chaatru,1691,1694,,chic02
-68,perro,Chughuee,1692,1695,,chic02
-69,gato,Chiluhu,1693,1696,,chic02
-70,gallo,Daloho,1694,1697,,chic02
-71,gallina,Yuchehe,1695,1698,,chic02
-72,marrano,Chakaha,1696,1699,,chic02
-73,caballo,$,,3,,chic02
-74,oveja,Chachihi,1697,1700,,chic02
-74,oveja,Matsihi,1698,1701,,chic02
-75,hormiga,Chukua ,1699,1702,,chic02
-75,hormiga,Yukuaha,1825,1828,,chic02
-76,cuerno,Kuû,1700,1703,,chic02
-77,pluma,Tooóha,1701,1704,,chic02
-78,ala,Degachi,1702,1705,,chic02
-79,cola,Tuneha,1703,1706,,chic02
-80,árbol,Truun,1704,1707,,chic02
-81,hierba,Kohoa,1705,1708,glossed yerba,chic02
-82,pasto,Trihi,1706,1709,,chic02
-83,flor,Yaha,1707,1710,,chic02
-84,maguey,$,,3,,chic02
-85,raíz,Yaáha,1708,1711,,chic02
-86,espina,Tanha,1709,1712,,chic02
-87,maíz en grano,$,,3,,chic02
-88,milpa,$,,3,,chic02
-89,elote,$,,3,,chic02
-90,nixtamal,$,,3,,chic02
-91,masa,Kenha,1710,1713,,chic02
-92,tortilla,$,,3,,chic02
-93,rastrojo,$,,3,,chic02
-94,surco,$,,3,,chic02
-95,espiga,Kaa,1711,1714,,chic02
-96,frijol(es),Rrunehe,1712,1715,,chic02
-97,ejote,$,,3,,chic02
-98,"chilar, pimiento",Kohiaáha,1713,1716,,chic02
-99,sal,Yaauha,1714,1717,,chic02
-100,calabaza,Kânha,1715,1718,,chic02
-100,calabaza,Kanmaa,1824,1827,,chic02
-101,chayote,$,,3,,chic02
-102,caña,Yioho,1716,1719,,chic02
-103,miel,Katsii,1717,1720,,chic02
-104,grasa,Nnami,1718,1721,,chic02
-104,manteca,Nnanúyaha,1719,1722,,chic02
-105,huevo,Trú,1720,1723,,chic02
-106,jitomate,Natsii,1721,1724,,chic02
-107,camote,Mme,1722,1725,,chic02
-108,aguacate,$,,3,,chic02
-109,plátano,Naatoo,1723,1726,,chic02
-109,plátano,Trunnatoo,1826,1829,,chic02
-110,nopal,Tinén,1724,1727,,chic02
-111,mamey,Natorrooho,1725,1728,,chic02
-111,zapote negro,Rrekotrun,1726,1729,,chic02
-112,chirimoya,$,,3,,chic02
-113,hongo,Rrâân,1727,1730,,chic02
-114,carne,Nneé,1728,1731,,chic02
-115,comal,$,,3,,chic02
-116,olla,Titruha,1729,1732,,chic02
-117,horno,$,,3,,chic02
-118,lumbre,Yaghui,1730,1733,,chic02
-118,fuego,Ñiaaha,1731,1734,,chic02
-119,ceniza,"Yaaha, Yaa",1732,1735,,chic02
-120,carbón,Rrughuíha,1733,1736,,chic02
-121,humo,Katseha,1734,1737,,chic02
-122,basura,$,,3,,chic02
-123,plato,Kooha,1735,1738,,chic02
-124,jícara,$,,3,,chic02
-125,"canasta, tenate",$,,3,,chic02
-126,caja,Trûn,1736,1739,,chic02
-127,hilo,Ghueheha,1737,1740,,chic02
-128,peine,Gutsihiha,1738,1741,,chic02
-129,"mecate, cuerda",$,,3,,chic02
-130,hoyo,Chuúhu,1739,1742,,chic02
-131,red,Nuaha,1740,1743,,chic02
-132,jabón,Mmistila,1741,1744,,chic02
-133,anillo,Tsee,1742,1745,,chic02
-133,anillo,Chunaha,1743,1746,,chic02
-134,luna,$,1744,1747,,chic02
-135,nube,Nga,1745,1748,,chic02
-136,rayo,Tughuiiha,1746,1749,,chic02
-136,relámpago,Rrânha,1747,1750,,chic02
-137,agua,$,,3,,chic02
-138,lluvia,Kumánha,1748,1751,,chic02
-139,río,Nekîngaha,1749,1752,,chic02
-140,rocío,Niaáha,1750,1753,,chic02
-141,cerro,Kihiha,1751,1754,,chic02
-142,llano,Ta,1752,1755,,chic02
-142,llanura,Tanikó,1753,1756,,chic02
-143,piedra,$,,3,,chic02
-144,algodón,Kaachihia,1754,1757,,chic02
-145,fierro,$,,3,,chic02
-146,papel,Nanha,1755,1758,,chic02
-147,cal,Knáaha,1756,1759,,chic02
-148,cera,Yianha,1757,1760,,chic02
-149,lodo,Tsegheha,1758,1761,,chic02
-150,espuma,Yyatan,1759,1762,,chic02
-151,polvo,$,,3,,chic02
-152,rojo,Mereeha,1760,1763,,chic02
-152,rojo,Ghueeha,1761,1764,,chic02
-153,verde,Meréha,1762,1765,,chic02
-154,amarillo,Guamiaha,1763,1766,,chic02
-155,negro,Nurrnúú,1764,1767,,chic02
-155,negro,Trunma,1765,1768,,chic02
-156,blanco,Kaatsiha,1766,1769,,chic02
-157,uno,Ngo,1767,1770,,chic02
-158,dos,Ghuiiha,1768,1771,dictionary,chic02
-158,dos,nghui,1769,1772,grammar part,chic02
-159,tres,Guanénha,1770,1773,dictionary,chic02
-159,tres,guañânha,1771,1774,grammar part,chic02
-160,cuatro,kaha,1772,1775,grammar part,chic02
-161,cinco,Huú,1773,1776,dictionary,chic02
-161,cinco,Huhu,1774,1777,dictionary,chic02
-161,cinco,huhûha,1775,1778,grammar part,chic02
-162,seis,guatânka,1776,1779,grammar part,chic02
-163,siete,chiha,1777,1780,"grammar part, dictionary",chic02
-164,ocho,tônha,1778,1781,grammar part,chic02
-164,ocho,Tênha,1779,1782,dictionary,chic02
-165,nueve,hûnha,1780,1783,grammar part,chic02
-165,nueve,Úú,1781,1784,dictionary,chic02
-166,diez,chia,1782,1785,grammar part,chic02
-166,diez,Chiía,1783,1786,dictionary,chic02
-167,quince,chinôônha,1784,1787,grammar part,chic02
-167,quince,Chinuú,1785,1788,dictionary,chic02
-168,veinte,hikoo,1786,1789,grammar part,chic02
-168,veinte,Kooha,1787,1790,dictionary,chic02
-169,pobre,Ganikighuaha,1788,1791,,chic02
-170,rico,Chirughueeha,1789,1792,,chic02
-171,frío,$,,3,,chic02
-172,caliente,Hiaân,1790,1793,,chic02
-172,caliente,Yiaân,1791,1794,,chic02
-173,grande,Chachiia,1792,1795,,chic02
-174,grande.PL,$,,3,,chic02
-175,pequeño,Kuniha,1793,1796,,chic02
-175,chico,Nliha,1794,1797,,chic02
-176,"pequeño.PL, chico.PL",$,,3,,chic02
-177,largo,Chihiha,1795,1798,,chic02
-177,largo,Chehea,1796,1799,,chic02
-178,largo.PL,$,,3,,chic02
-179,bueno,Saa,1797,1800,,chic02
-179,bueno,Tsaa,1798,1801,,chic02
-179,bueno,Guatsaaha,1799,1802,,chic02
-180,dulce,Tsi tsihi,1800,1803,,chic02
-181,salado,$,,3,,chic02
-182,amargo,$,,3,,chic02
-183,sabroso,Chiiñiaha,1801,1804,,chic02
-184,ancho,Katraa,1802,1805,,chic02
-185,nuevo,Tsinakaha,1803,1806,,chic02
-186,flojo,Rrumii,1804,1807,,chic02
-187,feo,Guakihi,1805,1808,,chic02
-188,celoso,Chikoosi,1806,1809,,chic02
-189,cerca,Nitrûha,1807,1810,,chic02
-189,"cerca, cercado",Trunchighuéha,1808,1811,,chic02
-190,lejos,Gânha,1809,1812,,chic02
-191,pesado,$,,3,,chic02
-192,crudo,$,,3,,chic02
-193,liso,Nughui,1810,1813,,chic02
-194,despacio,Ninóha,1811,1814,,chic02
-195,ayer tarde,Kukihdinên,1812,1815,,chic02
-196,año,Yioho,1813,1816,,chic02
-197,"ahora, hoy",$,,3,,chic02
-198,noche,Niihi,1814,1817,,chic02
-199,anoche,Niihá,1815,1818,,chic02
-200,día,Kuuía,1816,1819,,chic02
-201,de día,$,,3,,chic02
-202,mitad,$,,3,,chic02
-203,dinero,Tsaàha,1817,1820,,chic02
-204,trabajo,Sunha,1818,1821,,chic02
-205,palabra,Ngoánha,1819,1822,,chic02
-206,culpa,Kakenha,1820,1823,,chic02
-207,sueño,Nneheha,1821,1824,,chic02
-208,cuándo,Amaaha,1822,1825,,chic02
-209,música,Tsiañiaha,1823,1826,,chic02
+IDlist,CONCEPT,FORM,ID,NOTES,DOCULECT
+1,madre,Nni,1637,,chic02
+2,mamá!,$,,,chic02
+3,padre,Treeha,1638,,chic02
+3,padre,Dreeha,1639,,chic02
+4,papá!,$,,,chic02
+5,hijo/hija,Tani,1640,,chic02
+6,hijo,Tanixnagu,1641,child-man,chic02
+7,hija,Tanichanaha,1642,child-female,chic02
+8,hermana/hermano de otro genero,$,,,chic02
+9,hermano,Tînêha,1643,,chic02
+10,hermana,Chughueha,1644,,chic02
+11,tía,Tughuia,1645,,chic02
+12,tío,Tanénha,1646,,chic02
+13,hombre,Tsixnagú,1647,,chic02
+14,mujer,Tsichunaha,1648,,chic02
+15,dueño,Kuisiha,1649,,chic02
+16,sacerdote,Treeha,1650,same as 3,chic02
+17,sangre,Tunha,1651,,chic02
+18,hueso,Kúúhu,1652,,chic02
+19,pelo,Hûghue,1653,,chic02
+20,cara,Rriíñiaha,1654,,chic02
+21,lengua,Yuaha,1655,,chic02
+22,diente,Kuyiaàha,1656,,chic02
+23,boca,Duuaha,1657,,chic02
+24,oreja,Drakih,1658,,chic02
+25,nariz,Takén,1659,,chic02
+26,cuello,Chiiaha,1660,,chic02
+27,mano,Traha,1661,,chic02
+28,uña,Kusitenha,1662,,chic02
+29,espalda,Xitraha,1663,,chic02
+30,panza,Rrikii,1664,,chic02
+31,tripas,Chitríha,1665,,chic02
+32,pie,Chii,1666,,chic02
+32,pie,Tako,1667,,chic02
+33,enfermedad,$,,,chic02
+34,medicina,$,,,chic02
+35,hinchazón,$,,,chic02
+36,grano,Nnuha,1668,,chic02
+37,"pus, materia",$,,,chic02
+38,orina,Nnerihii,1669,,chic02
+39,tela,Chináha,1670,,chic02
+39,ropa,Katsihi,1671,,chic02
+40,huarache,$,,,chic02
+41,pantalón,$,,,chic02
+42,huipil,$,,,chic02
+43,pueblo,Chuumaha,1672,,chic02
+44,"casa, edificio",Ghuee,1673,,chic02
+44,"casa, edificio",Tukua,1674,,chic02
+45,camino,Treha,1675,,chic02
+46,horcón,$,,,chic02
+47,petate,$,,,chic02
+48,"cama, lecho",$,,,chic02
+49,"banquito, banco, silla",$,,,chic02
+50,animal,Chukuha,1676,,chic02
+51,pájaro,Chataha,1677,,chic02
+52,"pez, pescado",$,,,chic02
+53,culebra,Chukuaha,1678,,chic02
+54,rana,Chireki,1679,,chic02
+54,rana,Chirikihi,1827,,chic02
+55,gavilán,Xnuuhu,1680,,chic02
+56,alacrán,$,,,chic02
+57,cucaracha,Chiraken,1681,,chic02
+58,chapulín,Chukuahha,1682,,chic02
+59,abeja,Xutan,1683,,chic02
+60,ratón,Chuutuha,1684,,chic02
+60,rata,Chuutughui,1685,,chic02
+61,venado,Chutaha,1686,,chic02
+62,ardilla,Chuaa,1687,,chic02
+63,zorrillo,Cháán,1688,,chic02
+64,tlacuache,$,,,chic02
+65,mapache,Kagu,1689,,chic02
+66,conejo,Chatooha,1690,,chic02
+67,zopilote,Chaatru,1691,,chic02
+68,perro,Chughuee,1692,,chic02
+69,gato,Chiluhu,1693,,chic02
+70,gallo,Daloho,1694,,chic02
+71,gallina,Yuchehe,1695,,chic02
+72,marrano,Chakaha,1696,,chic02
+73,caballo,$,,,chic02
+74,oveja,Chachihi,1697,,chic02
+74,oveja,Matsihi,1698,,chic02
+75,hormiga,Chukua ,1699,,chic02
+75,hormiga,Yukuaha,1825,,chic02
+76,cuerno,Kuû,1700,,chic02
+77,pluma,Tooóha,1701,,chic02
+78,ala,Degachi,1702,,chic02
+79,cola,Tuneha,1703,,chic02
+80,árbol,Truun,1704,,chic02
+81,hierba,Kohoa,1705,glossed yerba,chic02
+82,pasto,Trihi,1706,,chic02
+83,flor,Yaha,1707,,chic02
+84,maguey,$,,,chic02
+85,raíz,Yaáha,1708,,chic02
+86,espina,Tanha,1709,,chic02
+87,maíz en grano,$,,,chic02
+88,milpa,$,,,chic02
+89,elote,$,,,chic02
+90,nixtamal,$,,,chic02
+91,masa,Kenha,1710,,chic02
+92,tortilla,$,,,chic02
+93,rastrojo,$,,,chic02
+94,surco,$,,,chic02
+95,espiga,Kaa,1711,,chic02
+96,frijol(es),Rrunehe,1712,,chic02
+97,ejote,$,,,chic02
+98,"chilar, pimiento",Kohiaáha,1713,,chic02
+99,sal,Yaauha,1714,,chic02
+100,calabaza,Kânha,1715,,chic02
+100,calabaza,Kanmaa,1824,,chic02
+101,chayote,$,,,chic02
+102,caña,Yioho,1716,,chic02
+103,miel,Katsii,1717,,chic02
+104,grasa,Nnami,1718,,chic02
+104,manteca,Nnanúyaha,1719,,chic02
+105,huevo,Trú,1720,,chic02
+106,jitomate,Natsii,1721,,chic02
+107,camote,Mme,1722,,chic02
+108,aguacate,$,,,chic02
+109,plátano,Naatoo,1723,,chic02
+109,plátano,Trunnatoo,1826,,chic02
+110,nopal,Tinén,1724,,chic02
+111,mamey,Natorrooho,1725,,chic02
+111,zapote negro,Rrekotrun,1726,,chic02
+112,chirimoya,$,,,chic02
+113,hongo,Rrâân,1727,,chic02
+114,carne,Nneé,1728,,chic02
+115,comal,$,,,chic02
+116,olla,Titruha,1729,,chic02
+117,horno,$,,,chic02
+118,lumbre,Yaghui,1730,,chic02
+118,fuego,Ñiaaha,1731,,chic02
+119,ceniza,"Yaaha, Yaa",1732,,chic02
+120,carbón,Rrughuíha,1733,,chic02
+121,humo,Katseha,1734,,chic02
+122,basura,$,,,chic02
+123,plato,Kooha,1735,,chic02
+124,jícara,$,,,chic02
+125,"canasta, tenate",$,,,chic02
+126,caja,Trûn,1736,,chic02
+127,hilo,Ghueheha,1737,,chic02
+128,peine,Gutsihiha,1738,,chic02
+129,"mecate, cuerda",$,,,chic02
+130,hoyo,Chuúhu,1739,,chic02
+131,red,Nuaha,1740,,chic02
+132,jabón,Mmistila,1741,,chic02
+133,anillo,Tsee,1742,,chic02
+133,anillo,Chunaha,1743,,chic02
+134,luna,$,1744,,chic02
+135,nube,Nga,1745,,chic02
+136,rayo,Tughuiiha,1746,,chic02
+136,relámpago,Rrânha,1747,,chic02
+137,agua,$,,,chic02
+138,lluvia,Kumánha,1748,,chic02
+139,río,Nekîngaha,1749,,chic02
+140,rocío,Niaáha,1750,,chic02
+141,cerro,Kihiha,1751,,chic02
+142,llano,Ta,1752,,chic02
+142,llanura,Tanikó,1753,,chic02
+143,piedra,$,,,chic02
+144,algodón,Kaachihia,1754,,chic02
+145,fierro,$,,,chic02
+146,papel,Nanha,1755,,chic02
+147,cal,Knáaha,1756,,chic02
+148,cera,Yianha,1757,,chic02
+149,lodo,Tsegheha,1758,,chic02
+150,espuma,Yyatan,1759,,chic02
+151,polvo,$,,,chic02
+152,rojo,Mereeha,1760,,chic02
+152,rojo,Ghueeha,1761,,chic02
+153,verde,Meréha,1762,,chic02
+154,amarillo,Guamiaha,1763,,chic02
+155,negro,Nurrnúú,1764,,chic02
+155,negro,Trunma,1765,,chic02
+156,blanco,Kaatsiha,1766,,chic02
+157,uno,Ngo,1767,,chic02
+158,dos,Ghuiiha,1768,dictionary,chic02
+158,dos,nghui,1769,grammar part,chic02
+159,tres,Guanénha,1770,dictionary,chic02
+159,tres,guañânha,1771,grammar part,chic02
+160,cuatro,kaha,1772,grammar part,chic02
+161,cinco,Huú,1773,dictionary,chic02
+161,cinco,Huhu,1774,dictionary,chic02
+161,cinco,huhûha,1775,grammar part,chic02
+162,seis,guatânka,1776,grammar part,chic02
+163,siete,chiha,1777,"grammar part, dictionary",chic02
+164,ocho,tônha,1778,grammar part,chic02
+164,ocho,Tênha,1779,dictionary,chic02
+165,nueve,hûnha,1780,grammar part,chic02
+165,nueve,Úú,1781,dictionary,chic02
+166,diez,chia,1782,grammar part,chic02
+166,diez,Chiía,1783,dictionary,chic02
+167,quince,chinôônha,1784,grammar part,chic02
+167,quince,Chinuú,1785,dictionary,chic02
+168,veinte,hikoo,1786,grammar part,chic02
+168,veinte,Kooha,1787,dictionary,chic02
+169,pobre,Ganikighuaha,1788,,chic02
+170,rico,Chirughueeha,1789,,chic02
+171,frío,$,,,chic02
+172,caliente,Hiaân,1790,,chic02
+172,caliente,Yiaân,1791,,chic02
+173,grande,Chachiia,1792,,chic02
+174,grande.PL,$,,,chic02
+175,pequeño,Kuniha,1793,,chic02
+175,chico,Nliha,1794,,chic02
+176,"pequeño.PL, chico.PL",$,,,chic02
+177,largo,Chihiha,1795,,chic02
+177,largo,Chehea,1796,,chic02
+178,largo.PL,$,,,chic02
+179,bueno,Saa,1797,,chic02
+179,bueno,Tsaa,1798,,chic02
+179,bueno,Guatsaaha,1799,,chic02
+180,dulce,Tsi tsihi,1800,,chic02
+181,salado,$,,,chic02
+182,amargo,$,,,chic02
+183,sabroso,Chiiñiaha,1801,,chic02
+184,ancho,Katraa,1802,,chic02
+185,nuevo,Tsinakaha,1803,,chic02
+186,flojo,Rrumii,1804,,chic02
+187,feo,Guakihi,1805,,chic02
+188,celoso,Chikoosi,1806,,chic02
+189,cerca,Nitrûha,1807,,chic02
+189,"cerca, cercado",Trunchighuéha,1808,,chic02
+190,lejos,Gânha,1809,,chic02
+191,pesado,$,,,chic02
+192,crudo,$,,,chic02
+193,liso,Nughui,1810,,chic02
+194,despacio,Ninóha,1811,,chic02
+195,ayer tarde,Kukihdinên,1812,,chic02
+196,año,Yioho,1813,,chic02
+197,"ahora, hoy",$,,,chic02
+198,noche,Niihi,1814,,chic02
+199,anoche,Niihá,1815,,chic02
+200,día,Kuuía,1816,,chic02
+201,de día,$,,,chic02
+202,mitad,$,,,chic02
+203,dinero,Tsaàha,1817,,chic02
+204,trabajo,Sunha,1818,,chic02
+205,palabra,Ngoánha,1819,,chic02
+206,culpa,Kakenha,1820,,chic02
+207,sueño,Nneheha,1821,,chic02
+208,cuándo,Amaaha,1822,,chic02
+209,música,Tsiañiaha,1823,,chic02
