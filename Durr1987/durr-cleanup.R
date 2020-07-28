@@ -35,13 +35,27 @@ dcomb <- dcomb %>% mutate_if(is.character, as.factor) %>%
   mutate(Doculect = recode_factor(CogID.x, Diu = "diux11", Pe = "peno11", Coa = "coat11", Mol = "moli11", Oco = "ocot11", Ata = "atat11", SM = "gran11", Cac = "caca11", Xay = "xaya11", Ay = "ayut11", Ala = "alac11", Met = "metl11", Cah = "cahu11", Mix = "mixt11", Sil = "prog12", Jic = "jica11", Jam = "chay11"))
 glimpse(dcomb)
 
-
-# clean up for export, add ID for each entry
-dcomb1 <- dcomb %>% filter(!is.na(value.x)) %>%  select( Doculect, Concept = value.y, Form = value.x, PMCouplet = value, CogID_Durr = name) %>% mutate_if(is.factor, as.character)
-dcomb1 <- dcomb1 %>% mutate(ID = seq_along(1:nrow(dcomb1))) %>% select(ID, everything())
+# fix the entries that have additional stuff in them, which are:
+# split entries into rows that have /
+# "horse", "broken", "weed", "leaf", "important", "it is yellow"
+dcomb1 <- dcomb %>% separate_rows(value.x, sep = "/") %>% mutate(value.x = str_remove_all(value.x, "\""))
 glimpse(dcomb1)
 
+# add column for tone modification and one for citation form
+dcomb1 <- dcomb1 %>% mutate(ToneMod = if_else(str_detect(value.x, "(M)"), "yes", "no")) %>%
+  mutate(CitForm = if_else(str_detect(value.x, "!"), "yes", "no"))
+# delete those strings
+dcomb1 <- dcomb1 %>% mutate(value.x = str_remove_all(value.x, "/(M/)|!"))
+glimpse(dcomb1)
+
+# clean up for export, add ID for each entry
+dcomb2 <- dcomb1 %>% filter(!is.na(value.x)) %>%  select( Doculect, Concept = value.y, Form = value.x, PMCouplet = value, CogID_Durr = name)
+dcomb2 <- dcomb2 %>% mutate(ID = seq_along(1:nrow(dcomb2))) %>% select(ID, everything())
+glimpse(dcomb2)
+
 # write to csv
-write_tsv(dcomb1, "/Users/auderset/Documents/GitHub/mixteca/Durr1987/durr-1987-long.tsv", quote_escape = FALSE)
+write_csv(dcomb2, "/Users/auderset/Documents/GitHub/mixteca/Durr1987/durr-1987-long.csv")
+
+# rest has to be cleaned up by hand
 
 
