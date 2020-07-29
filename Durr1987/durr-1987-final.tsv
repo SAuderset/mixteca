@@ -1,1154 +1,1154 @@
-ID	Doculect	Concept	Form	PMCouplet	CogID_Durr	ToneMod	CitForm	IDlist	ID
-10	diux11	child	đá’ʔžá	LH	54	no	no	5	2048
-80	peno11	child	đéʔè	LH	54	no	no	5	2049
-162	coat11	child	íʔšá	LH	54	no	yes	5	2050
-236	moli11	child	sèʔē	LH	54	no	no	5	2051
-299	ocot11	child	sèʔē	LH	54	no	no	5	2052
-377	atat11	child	sèʔē	LH	54	no	no	5	2053
-483	gran11	child	sèʔē	LH	54	no	no	5	2054
-570	caca11	child	đèʔē	LH	54	no	no	5	2055
-632	xaya11	child	đèʔē	LH	54	no	no	5	2056
-690	ayut11	child	sīʔè	LH	54	no	no	5	2057
-797	metl11	child	sēʔē	LH	54	no	no	5	2058
-865	cahu11	child	sāʔyā	LH	54	no	no	5	2059
-931	mixt11	child	sèʔē	LH	54	no	no	5	2060
-997	prog12	child	hàʔžī	LH	54	no	no	5	2061
-1076	jica11	child	séʔé	LH	54	no	no	5	2062
-1127	chay11	child	θèʔē	LH	54	no	no	5	2063
-9	diux11	cross-sex sibling	kú’ʔá	LH	52	no	no	8	2064
-78	peno11	cross-sex sibling	kúʔà	LH	52	no	no	8	2065
-235	moli11	cross-sex sibling	kʷàʔā	LH	52	no	no	8	2066
-298	ocot11	cross-sex sibling	kʷàʔā	LH	52	no	no	8	2067
-376	atat11	cross-sex sibling	kʷàʔā	LH	52	no	no	8	2068
-481	gran11	cross-sex sibling	kʷàʔā	LH	52	no	no	8	2069
-630	xaya11	cross-sex sibling	kùʔā	LH	52	no	no	8	2070
-796	metl11	cross-sex sibling	kūʔƀā	LH	52	no	no	8	2071
-995	prog12	cross-sex sibling	kʸàʔƀà	LH	52	no	no	8	2072
-1125	chay11	cross-sex sibling	kùʔƀā	LH	52	no	no	8	2073
-8	diux11	brother	'ñànì	HL	40	no	no	9	2074
-67	peno11	brother	ñàní	HL	40	no	no	9	2075
-152	coat11	brother	éní̧	HL	40	no	yes	9	2076
-289	ocot11	brother	ñānì	HL	40	no	no	9	2077
-365	atat11	brother	ñānī	HL	40	no	no	9	2078
-469	gran11	brother	ñānì	HL	40	no	no	9	2079
-564	caca11	brother	ñāñī̧	HL	40	no	no	9	2080
-624	xaya11	brother	ñānī	HL	40	no	no	9	2081
-682	ayut11	brother	ñànì	HL	40	no	no	9	2082
-787	metl11	brother	yānī	HL	40	no	no	9	2083
-854	cahu11	brother	ñānī	HL	40	no	no	9	2084
-986	prog12	brother	ñànì	HL	40	no	no	9	2085
-19	diux11	sister	kú’ʔú	LL	78	no	no	10	2086
-100	peno11	sister	kúʔú	LL	78	no	no	10	2087
-253	moli11	sister	kùʔù	LL	78	no	no	10	2088
-311	ocot11	sister	kùʔù	LL	78	no	no	10	2089
-400	atat11	sister	kùʔù	LL	78	no	no	10	2090
-507	gran11	sister	kùʔù	LL	78	no	no	10	2091
-587	caca11	sister	kùʔù	LL	78	no	no	10	2092
-642	xaya11	sister	kùʔù	LL	78	no	no	10	2093
-705	ayut11	sister	kūʔwà	LL	78	no	no	10	2094
-811	metl11	sister	kūʔƀī	LL	78	no	no	10	2095
-1017	prog12	sister	kìʔƀì	LL	78	no	no	10	2096
-7	diux11	aunt	'đìđí	HL	35	no	no	11	2097
-63	peno11	aunt	đìđí	HL	35	no	no	11	2098
-148	coat11	aunt	đíđí	HL	35	no	yes	11	2099
-225	moli11	aunt	sīsì	HL	35	no	no	11	2100
-286	ocot11	aunt	šīšì	HL	35	no	no	11	2101
-362	atat11	aunt	sīsī	HL	35	no	no	11	2102
-464	gran11	aunt	šīì	HL	35	no	no	11	2103
-560	caca11	aunt	đīđì	HL	35	no	no	11	2104
-622	xaya11	aunt	đīđī	HL	35	no	no	11	2105
-678	ayut11	aunt	šìšì	HL	35	no	no	11	2106
-784	metl11	aunt	šīšī	HL	35	no	no	11	2107
-851	cahu11	aunt	sīsī	HL	35	no	no	11	2108
-982	prog12	aunt	hìhì	HL	35	no	no	11	2109
-1064	jica11	aunt	čīšī	HL	35	no	no	11	2110
-6	diux11	uncle	'đìtò	HL	34	no	no	12	2111
-62	peno11	uncle	đìtó	HL	34	no	no	12	2112
-147	coat11	uncle	đító	HL	34	no	yes	12	2113
-224	moli11	uncle	stōò	HL	34	no	no	12	2114
-285	ocot11	uncle	šītò	HL	34	no	no	12	2115
-361	atat11	uncle	stōō	HL	34	no	no	12	2116
-463	gran11	uncle	stōò	HL	34	no	no	12	2117
-559	caca11	uncle	đītò	HL	34	no	no	12	2118
-621	xaya11	uncle	đītò	HL	34	no	no	12	2119
-677	ayut11	uncle	šìtò	HL	34	no	no	12	2120
-783	metl11	uncle	šītò	HL	34	no	no	12	2121
-850	cahu11	uncle	sītō	HL	34	no	no	12	2122
-919	mixt11	uncle	šītò	HL	34	no	no	12	2123
-981	prog12	uncle	hìtò	HL	34	no	no	12	2124
-1063	jica11	uncle	šītō	HL	34	no	no	12	2125
-74	peno11	man	téè	LH	47	no	no	13	2126
-232	moli11	man	tèē	LH	47	no	no	13	2127
-295	ocot11	man	tèē	LH	47	no	no	13	2128
-371	atat11	man	tèē	LH	47	no	no	13	2129
-476	gran11	man	čàā	LH	47	no	no	13	2130
-628	xaya11	man	tʸàā	LH	47	no	no	13	2131
-685	ayut11	man	tʸāà	LH	47	no	no	13	2132
-791	metl11	man	tʸàā	LH	47	no	no	13	2133
-926	mixt11	man	čàā	LH	47	no	no	13	2134
-992	prog12	man	tàà	LH	47	no	no	13	2135
-208	moli11	woman	ñā̧ʔā̧	HHʔ	13	no	no	14	2136
-341	atat11	woman	ñā̧ʔā̧	HHʔ	13	no	no	14	2137
-441	gran11	woman	ñā̧ʔā̧ 	HHʔ	13	yes	no	14	2138
-611	xaya11	woman	ñā̧ʔà̧	HHʔ	13	no	no	14	2139
-838	cahu11	woman	ñāʔà	HHʔ	13	no	no	14	2140
-912	mixt11	woman	ñā̧ʔá̧	HHʔ	13	no	no	14	2141
-970	prog12	woman	ñá̧ʔà̧	HHʔ	13	no	no	14	2142
-1051	jica11	woman	ñà̧ʔà̧	HHʔ	13	no	no	14	2143
-2	diux11	bone	žɨ̀kɨ̀	HHʔ	11	no	no	18	2144
-40	peno11	bone	žɨ̀kɨ̀	HHʔ	11	no	no	18	2145
-339	atat11	bone	žɨ̄kɨ̄	HHʔ	11	no	no	18	2146
-439	gran11	bone	žɨ̄kɨ̄ 	HHʔ	11	yes	no	18	2147
-666	ayut11	bone	ìkìʔ	HHʔ	11	no	no	18	2148
-771	metl11	bone	īkí	HHʔ	11	no	no	18	2149
-836	cahu11	bone	yīkī	HHʔ	11	no	no	18	2150
-94	peno11	face	núú	LLʔ	72	no	no	20	2151
-173	coat11	face	nú̧ǔ̧	LLʔ	72	no	no	20	2152
-249	moli11	face	nùù	LLʔ	72	no	no	20	2153
-307	ocot11	face	nùù	LLʔ	72	no	no	20	2154
-394	atat11	face	nūù	LLʔ	72	no	no	20	2155
-501	gran11	face	nūù 	LLʔ	72	yes	no	20	2156
-640	xaya11	face	nùù	LLʔ	72	no	no	20	2157
-880	cahu11	face	nò̧ò̧	LLʔ	72	no	no	20	2158
-943	mixt11	face	nùú	LLʔ	72	no	no	20	2159
-1013	prog12	face	nùù	LLʔ	72	no	no	20	2160
-1087	jica11	face	nú̧ú̧	LLʔ	72	no	no	20	2161
-1137	chay11	face	nùù	LLʔ	72	no	no	20	2162
-129	peno11	tongue	žâá	MT	110	no	no	21	2163
-328	ocot11	tongue	žáá	MT	110	no	no	21	2164
-428	atat11	tongue	žáá	MT	110	no	no	21	2165
-541	gran11	tongue	žáā	MT	110	no	no	21	2166
-606	caca11	tongue	žáà	MT	110	no	no	21	2167
-657	xaya11	tongue	yàá	MT	110	no	no	21	2168
-727	ayut11	tongue	yáà	MT	110	no	no	21	2169
-764	alac11	tongue	láà	MT	110	no	no	21	2170
-906	cahu11	tongue	yáá	MT	110	no	no	21	2171
-960	mixt11	tongue	yâá	MT	110	no	no	21	2172
-1043	prog12	tongue	žáà	MT	110	no	no	21	2173
-83	peno11	tooth	nú̧ʔù̧	LH	57	no	no	22	2174
-164	coat11	tooth	nù̧ʔú̧	LH	57	no	yes	22	2175
-237	moli11	tooth	nù̧ʔū̧	LH	57	no	no	22	2176
-380	atat11	tooth	Nù̧ʔū̧	LH	57	no	no	22	2177
-486	gran11	tooth	nù̧ʔū̧	LH	57	no	no	22	2178
-572	caca11	tooth	nò̧ʔō̧	LH	57	no	no	22	2179
-868	cahu11	tooth	nò̧ʔō̧	LH	57	no	no	22	2180
-39	peno11	mouth	žùʔù	HHʔ	10	no	no	23	2181
-135	coat11	mouth	šùʔù	HHʔ	10	no	no	23	2182
-206	moli11	mouth	žūʔū 	HHʔ	10	yes	no	23	2183
-277	ocot11	mouth	žūʔú	HHʔ	10	no	no	23	2184
-338	atat11	mouth	žūʔū	HHʔ	10	no	no	23	2185
-438	gran11	mouth	žūʔū 	HHʔ	10	yes	no	23	2186
-548	caca11	mouth	žūʔū 	HHʔ	10	yes	no	23	2187
-665	ayut11	mouth	yùʔúʔ	HHʔ	10	no	no	23	2188
-730	alac11	mouth	yūʔù	HHʔ	10	no	no	23	2189
-770	metl11	mouth	yùʔū	HHʔ	10	no	no	23	2190
-835	cahu11	mouth	yǖʔǖ	HHʔ	10	no	no	23	2191
-910	mixt11	mouth	yūʔú	HHʔ	10	no	no	23	2192
-968	prog12	mouth	žǘʔǜ	HHʔ	10	no	no	23	2193
-1112	chay11	mouth	yūʔū	HHʔ	10	no	no	23	2194
-12	diux11	ear	đò’ʔó	LH	56	no	no	24	2195
-82	peno11	ear	đóʔò	LH	56	no	no	24	2196
-379	atat11	ear	sòʔō	LH	56	no	no	24	2197
-485	gran11	ear	sòʔō	LH	56	no	no	24	2198
-571	caca11	ear	đòʔō	LH	56	no	no	24	2199
-692	ayut11	ear	sōʔò	LH	56	no	no	24	2200
-742	alac11	ear	sòʔō	LH	56	no	no	24	2201
-867	cahu11	ear	sòʔō	LH	56	no	no	24	2202
-1078	jica11	ear	sóʔó	LH	56	no	no	24	2203
-35	peno11	hand	ⁿdàʔà	HHʔ	5	no	no	27	2204
-133	coat11	hand	ⁿdàʔà	HHʔ	5	no	no	27	2205
-202	moli11	hand	ⁿdāʔā 	HHʔ	5	yes	no	27	2206
-272	ocot11	hand	ⁿdāʔá	HHʔ	5	no	no	27	2207
-333	atat11	hand	ⁿdāʔā	HHʔ	5	no	no	27	2208
-433	gran11	hand	ⁿdāʔā 	HHʔ	5	yes	no	27	2209
-608	xaya11	hand	ⁿdāʔà 	HHʔ	5	yes	no	27	2210
-661	ayut11	hand	ⁿdàʔáʔ	HHʔ	5	no	no	27	2211
-729	alac11	hand	ⁿdàʔā	HHʔ	5	no	no	27	2212
-767	metl11	hand	ⁿdàʔā	HHʔ	5	no	no	27	2213
-831	cahu11	hand	ⁿdāʔā	HHʔ	5	no	no	27	2214
-907	mixt11	hand	ⁿdāʔá	HHʔ	5	no	no	27	2215
-964	prog12	hand	ⁿdáʔà	HHʔ	5	no	no	27	2216
-1047	jica11	hand	ⁿdàʔà	HHʔ	5	no	no	27	2217
-183	coat11	fingernail	ȼì̧ì̧	MT	91	no	no	28	2218
-412	atat11	fingernail	Ní̧í̧	MT	91	no	no	28	2219
-520	gran11	fingernail	tíñū	MT	91	no	no	28	2220
-595	caca11	fingernail	čí̧ì̧	MT	91	no	no	28	2221
-650	xaya11	fingernail	čī̧ī̧	MT	91	no	no	28	2222
-755	alac11	fingernail	číì	MT	91	no	no	28	2223
-818	metl11	fingernail	čí̧ì̧	MT	91	no	no	28	2224
-894	cahu11	fingernail	čī̧ī̧	MT	91	no	no	28	2225
-950	mixt11	fingernail	čî̧í̧	MT	91	no	no	28	2226
-1029	prog12	fingernail	čí̧ì̧	MT	91	no	no	28	2227
-1097	jica11	fingernail	tìñì	MT	91	no	no	28	2228
-73	peno11	stomach	šɨ̀tɨ́	LH	46	no	no	30	2229
-231	moli11	stomach	čìī	LH	46	no	no	30	2230
-294	ocot11	stomach	čìhī	LH	46	no	no	30	2231
-370	atat11	stomach	čìhī	LH	46	no	no	30	2232
-475	gran11	stomach	čìī	LH	46	no	no	30	2233
-566	caca11	stomach	tìšī	LH	46	no	no	30	2234
-790	metl11	stomach	tīšī	LH	46	no	no	30	2235
-860	cahu11	stomach	tīšī	LH	46	no	no	30	2236
-925	mixt11	stomach	tīȼī	LH	46	no	no	30	2237
-991	prog12	stomach	tìšī	LH	46	no	no	30	2238
-1071	jica11	stomach	tíčí	LH	46	no	no	30	2239
-22	diux11	foot	šé’ʔé	LL	84	no	no	32	2240
-106	peno11	foot	sáʔá	LL	84	no	no	32	2241
-315	ocot11	foot	xèʔè	LL	84	no	no	32	2242
-405	atat11	foot	xēʔè	LL	84	no	no	32	2243
-513	gran11	foot	xāʔà	LL	84	no	no	32	2244
-591	caca11	foot	sàʔà	LL	84	no	no	32	2245
-753	alac11	foot	šàʔà	LL	84	no	no	32	2246
-816	metl11	foot	šàʔā	LL	84	no	no	32	2247
-888	cahu11	foot	šāʔā	LL	84	no	no	32	2248
-1023	prog12	foot	šàʔà	LL	84	no	no	32	2249
-1141	chay11	foot	šàʔà	LL	84	no	no	32	2250
-14	diux11	medicine	tá’tná̧	LLʔ	61	no	no	34	2251
-241	moli11	medicine	tàtà̧	LLʔ	61	no	no	34	2252
-303	ocot11	medicine	tà̧tà̧	LLʔ	61	no	no	34	2253
-384	atat11	medicine	tāNà	LLʔ	61	no	no	34	2254
-490	gran11	medicine	tānà	LLʔ	61	no	no	34	2255
-575	caca11	medicine	tàtà 	LLʔ	61	yes	no	34	2256
-802	metl11	medicine	tàtà̧ 	LLʔ	61	yes	no	34	2257
-935	mixt11	medicine	tàtǎ	LLʔ	61	no	no	34	2258
-1002	prog12	medicine	tàtà	LLʔ	61	no	no	34	2259
-1129	chay11	medicine	tàtà	LLʔ	61	no	no	34	2260
-1150	metl11	medicine	tàtā̧ 	LLʔ	61	yes	no	34	2261
-134	coat11	clothes	đàʔmà̧	HHʔ	6	no	no	39	2262
-203	moli11	clothes	sāʔmā 	HHʔ	6	yes	no	39	2263
-273	ocot11	clothes	sāʔmā	HHʔ	6	no	no	39	2264
-334	atat11	clothes	sāʔmā	HHʔ	6	no	no	39	2265
-434	gran11	clothes	sāʔmā 	HHʔ	6	yes	no	39	2266
-545	caca11	clothes	đāʔmà̧ 	HHʔ	6	yes	no	39	2267
-609	xaya11	clothes	đāʔmà̧ 	HHʔ	6	yes	no	39	2268
-662	ayut11	clothes	sàʔmáʔ	HHʔ	6	no	no	39	2269
-908	mixt11	clothes	sàʔmǎ	HHʔ	6	no	no	39	2270
-965	prog12	clothes	háʔmà	HHʔ	6	no	no	39	2271
-1048	jica11	clothes	sàʔmà	HHʔ	6	no	no	39	2272
-170	coat11	sandal	ⁿdíʔšȩ̌	LLʔ	66	no	no	40	2273
-388	atat11	sandal	ⁿdīxȩ̀	LLʔ	66	no	no	40	2274
-495	gran11	sandal	ⁿdīxà̧ 	LLʔ	66	yes	no	40	2275
-579	caca11	sandal	ⁿdìsà	LLʔ	66	no	no	40	2276
-638	xaya11	sandal	ⁿdìsà̧	LLʔ	66	no	no	40	2277
-698	ayut11	sandal	ⁿdīšà̧ʔ	LLʔ	66	no	no	40	2278
-875	cahu11	sandal	ⁿdǜsà	LLʔ	66	no	no	40	2279
-939	mixt11	sandal	ⁿzìȼǎ	LLʔ	66	no	no	40	2280
-1007	prog12	sandal	ⁿdǜsà	LLʔ	66	no	no	40	2281
-66	peno11	town	ñùú	HL	39	no	no	43	2282
-151	coat11	town	ñù̧ú̧	HL	39	no	yes	43	2283
-226	moli11	town	ñùù	HL	39	no	no	43	2284
-288	ocot11	town	ñūù	HL	39	no	no	43	2285
-364	atat11	town	ñūū	HL	39	no	no	43	2286
-468	gran11	town	ñūù	HL	39	no	no	43	2287
-563	caca11	town	ñō̧ò̧	HL	39	no	no	43	2288
-681	ayut11	town	ñùù	HL	39	no	no	43	2289
-735	alac11	town	ñō̧ō̧	HL	39	no	no	43	2290
-853	cahu11	town	ñó̧ō̧	HL	39	no	no	43	2291
-921	mixt11	town	ñūù	HL	39	no	no	43	2292
-985	prog12	town	ñūū	HL	39	no	no	43	2293
-1068	jica11	town	ñū̧ū̧	HL	39	no	no	43	2294
-1121	chay11	town	ñūù	HL	39	no	no	43	2295
-56	peno11	house	ƀèʔè	HH	28	no	no	44	2296
-145	coat11	house	ƀìʔì	HH	28	no	no	44	2297
-220	moli11	house	ƀēʔē	HH	28	no	no	44	2298
-283	ocot11	house	ƀēʔē	HH	28	no	no	44	2299
-356	atat11	house	ƀēʔē	HH	28	no	no	44	2300
-457	gran11	house	ƀēʔē	HH	28	no	no	44	2301
-555	caca11	house	ƀēʔē	HH	28	no	no	44	2302
-617	xaya11	house	ƀēʔē	HH	28	no	no	44	2303
-673	ayut11	house	wìʔè	HH	28	no	no	44	2304
-733	alac11	house	ƀēʔē	HH	28	no	no	44	2305
-778	metl11	house	ƀēʔē	HH	28	no	no	44	2306
-846	cahu11	house	wēʔē	HH	28	no	no	44	2307
-915	mixt11	house	ƀēʔē	HH	28	no	no	44	2308
-978	prog12	house	ƀēʔē	HH	28	no	no	44	2309
-1057	jica11	house	ƀèʔè	HH	28	no	no	44	2310
-1116	chay11	house	ƀēʔē	HH	28	no	no	44	2311
-43	peno11	road	ìčì	HHʔ	15	no	no	45	2312
-210	moli11	road	īčī	HHʔ	15	no	no	45	2313
-278	ocot11	road	īčī	HHʔ	15	no	no	45	2314
-343	atat11	road	īčī	HHʔ	15	no	no	45	2315
-443	gran11	road	īčī 	HHʔ	15	yes	no	45	2316
-773	metl11	road	īčí	HHʔ	15	no	no	45	2317
-839	cahu11	road	yīčī	HHʔ	15	no	no	45	2318
-972	prog12	road	íčì	HHʔ	15	no	no	45	2319
-1053	jica11	road	ìtì	HHʔ	15	no	no	45	2320
-1114	chay11	road	ītʸī	HHʔ	15	no	no	45	2321
-38	peno11	straw mat	žùù	HHʔ	9	no	no	47	2322
-276	ocot11	straw mat	žūū	HHʔ	9	no	no	47	2323
-337	atat11	straw mat	žūū	HHʔ	9	no	no	47	2324
-437	gran11	straw mat	žūū 	HHʔ	9	yes	no	47	2325
-547	caca11	straw mat	žūù 	HHʔ	9	yes	no	47	2326
-610	xaya11	straw mat	yūì	HHʔ	9	no	no	47	2327
-664	ayut11	straw mat	yìwìʔ	HHʔ	9	no	no	47	2328
-769	metl11	straw mat	yūƀì 	HHʔ	9	yes	no	47	2329
-834	cahu11	straw mat	yīwí	HHʔ	9	no	no	47	2330
-909	mixt11	straw mat	yùƀǐ	HHʔ	9	no	no	47	2331
-1050	jica11	straw mat	yùƀì	HHʔ	9	no	no	47	2332
-1111	chay11	straw mat	yūū	HHʔ	9	no	no	47	2333
-60	peno11	stool	tèžú	HL	32	no	no	49	2334
-461	gran11	stool	tēžù	HL	32	no	no	49	2335
-558	caca11	stool	tēì	HL	32	no	no	49	2336
-734	alac11	stool	tāyì	HL	32	no	no	49	2337
-781	metl11	stool	tʸāyù	HL	32	no	no	49	2338
-848	cahu11	stool	tāyī	HL	32	no	no	49	2339
-1061	jica11	stool	tāyū	HL	32	no	no	49	2340
-1119	chay11	stool	tēì	HL	32	no	no	49	2341
-1	diux11	animal	kɨ̀tɨ̀	HHʔ	1	no	no	50	2342
-31	peno11	animal	kɨ̀tɨ̀	HHʔ	1	no	no	50	2343
-198	moli11	animal	kītī	HHʔ	1	no	no	50	2344
-270	ocot11	animal	kītī	HHʔ	1	no	no	50	2345
-329	atat11	animal	kɨ̄tɨ̄	HHʔ	1	no	no	50	2346
-429	gran11	animal	kɨ̄tɨ̄ 	HHʔ	1	yes	no	50	2347
-542	caca11	animal	kītì 	HHʔ	1	yes	no	50	2348
-607	xaya11	animal	kīsì 	HHʔ	1	yes	no	50	2349
-765	metl11	animal	kītí	HHʔ	1	no	no	50	2350
-827	cahu11	animal	kītī	HHʔ	1	no	no	50	2351
-961	prog12	animal	kítì	HHʔ	1	no	no	50	2352
-1044	jica11	animal	kìtì	HHʔ	1	no	no	50	2353
-1108	chay11	animal	kɨ̄tɨ̄	HHʔ	1	no	no	50	2354
-65	peno11	bird	tɨ́-làá	HL	37	no	no	51	2355
-150	coat11	bird	làá	HL	37	no	yes	51	2356
-287	ocot11	bird	sāà	HL	37	no	no	51	2357
-363	atat11	bird	sāā	HL	37	no	no	51	2358
-466	gran11	bird	sāà	HL	37	no	no	51	2359
-561	caca11	bird	tì-lāà	HL	37	no	no	51	2360
-679	ayut11	bird	sàà	HL	37	no	no	51	2361
-785	metl11	bird	sāā	HL	37	no	no	51	2362
-852	cahu11	bird	sáá	HL	37	no	no	51	2363
-984	prog12	bird	lāā	HL	37	no	no	51	2364
-1066	jica11	bird	sāā	HL	37	no	no	51	2365
-26	diux11	fish	čákà	MT	94	no	no	52	2366
-114	peno11	fish	čáká	MT	94	no	no	52	2367
-185	coat11	fish	ȼàʔká	MT	94	no	yes	52	2368
-261	moli11	fish	čākā	MT	94	no	no	52	2369
-415	atat11	fish	čàká	MT	94	no	no	52	2370
-524	gran11	fish	čáká 	MT	94	no	no	52	2371
-525	gran11	fish	tɨ̄-žáká	MT	94	no	no	52	2372
-597	caca11	fish	tì-žākā	MT	94	no	no	52	2373
-651	xaya11	fish	s-yākā	MT	94	no	no	52	2374
-713	ayut11	fish	tʸàkáʔ	MT	94	no	no	52	2375
-757	alac11	fish	tiáká	MT	94	no	no	52	2376
-820	metl11	fish	tʸàká	MT	94	no	no	52	2377
-896	cahu11	fish	tʸāká	MT	94	no	no	52	2378
-1031	prog12	fish	tī-žàká	MT	94	no	no	52	2379
-88	peno11	snake	kóó	LLʔ	65	no	no	53	2380
-169	coat11	snake	kóǒ	LLʔ	65	no	no	53	2381
-245	moli11	snake	kòò 	LLʔ	65	yes	no	53	2382
-387	atat11	snake	kōò	LLʔ	65	no	no	53	2383
-494	gran11	snake	kōò 	LLʔ	65	yes	no	53	2384
-578	caca11	snake	kòò	LLʔ	65	no	no	53	2385
-637	xaya11	snake	kòò	LLʔ	65	no	no	53	2386
-697	ayut11	snake	kōòʔ	LLʔ	65	no	no	53	2387
-746	alac11	snake	kòò	LLʔ	65	no	no	53	2388
-805	metl11	snake	kōò 	LLʔ	65	yes	no	53	2389
-938	mixt11	snake	kòó	LLʔ	65	no	no	53	2390
-1006	prog12	snake	kòò	LLʔ	65	no	no	53	2391
-1083	jica11	snake	kóó	LLʔ	65	no	no	53	2392
-1132	chay11	snake	kòò	LLʔ	65	no	no	53	2393
-64	peno11	frog	làʔƀá	HL	36	no	no	54	2394
-149	coat11	frog	ȼàʔƀá	HL	36	no	yes	54	2395
-465	gran11	frog	sāʔƀà	HL	36	no	no	54	2396
-920	mixt11	frog	sàʔƀà	HL	36	no	no	54	2397
-983	prog12	frog	láʔƀà	HL	36	no	no	54	2398
-1065	jica11	frog	sāʔƀā	HL	36	no	no	54	2399
-113	peno11	rat	tɨ̀ñɨ̀	MT	92	no	no	60	2400
-413	atat11	rat	Nɨ́ñɨ́	MT	92	no	no	60	2401
-521	gran11	rat	tɨ̄ní	MT	92	no	no	60	2402
-819	metl11	rat	tì̧ī̧	MT	92	no	no	60	2403
-1030	prog12	rat	tì̧í̧	MT	92	no	no	60	2404
-1098	jica11	rat	tɨ̄ñɨ́	MT	92	no	no	60	2405
-70	peno11	deer	ìđú	HL	43	no	no	61	2406
-228	moli11	deer	īsù	HL	43	no	no	61	2407
-291	ocot11	deer	īsù	HL	43	no	no	61	2408
-472	gran11	deer	īsù	HL	43	no	no	61	2409
-737	alac11	deer	yūsū	HL	43	no	no	61	2410
-857	cahu11	deer	tn-ǖsǖ	HL	43	no	no	61	2411
-988	prog12	deer	ǖhǖ	HL	43	no	no	61	2412
-72	peno11	dog	ìná	HL	45	no	no	68	2413
-156	coat11	dog	t-ìná̧	HL	45	no	yes	68	2414
-230	moli11	dog	īnà	HL	45	no	no	68	2415
-293	ocot11	dog	t-īnà	HL	45	no	no	68	2416
-369	atat11	dog	īnā	HL	45	no	no	68	2417
-474	gran11	dog	īnà	HL	45	no	no	68	2418
-565	caca11	dog	t-ì̧nā̧	HL	45	no	no	68	2419
-627	xaya11	dog	sì-īnà	HL	45	no	no	68	2420
-738	alac11	dog	īnā̧	HL	45	no	no	68	2421
-859	cahu11	dog	ñīnā	HL	45	no	no	68	2422
-924	mixt11	dog	t-i᷅nā	HL	45	no	no	68	2423
-990	prog12	dog	t-ìnā	HL	45	no	no	68	2424
-1070	jica11	dog	īnā	HL	45	no	no	68	2425
-155	coat11	horse	íđú 	HL	43	no	no	73	2426
-626	xaya11	horse	īđū 	HL	43	no	no	73	2427
-36	peno11	tree	žùtù̧	HHʔ	7	no	no	80	2428
-204	moli11	tree	žūtū̧ 	HHʔ	7	yes	no	80	2429
-274	ocot11	tree	ñū̧tū̧	HHʔ	7	no	no	80	2430
-335	atat11	tree	žūNū	HHʔ	7	no	no	80	2431
-435	gran11	tree	žūnū 	HHʔ	7	yes	no	80	2432
-546	caca11	tree	žītò̧	HHʔ	7	no	no	80	2433
-663	ayut11	tree	ìtú̧ʔ	HHʔ	7	no	no	80	2434
-768	metl11	tree	yūtú̧	HHʔ	7	no	no	80	2435
-832	cahu11	tree	yītnō	HHʔ	7	no	no	80	2436
-966	prog12	tree	žítò	HHʔ	7	no	no	80	2437
-1049	jica11	tree	yùtù̧	HHʔ	7	no	no	80	2438
-107	peno11	herb, bush	žúkú	LL	85	no	no	81	2439
-256	moli11	herb, bush	žùkù	LL	85	no	no	81	2440
-316	ocot11	herb, bush	žùkù	LL	85	no	no	81	2441
-406	atat11	herb, bush	žūkù	LL	85	no	no	81	2442
-514	gran11	herb, bush	žūkù	LL	85	no	no	81	2443
-889	cahu11	herb, bush	yǜkǜ	LL	85	no	no	81	2444
-1142	chay11	herb, bush	yùkù	LL	85	no	no	81	2445
-710	ayut11	leaf	yūkù 	LL	85	no	no	81	2446
-1024	prog12	weeds	žǜkǜ	LL	85	no	no	81	2447
-69	peno11	flower	ìtá	HL	42	no	no	83	2448
-154	coat11	flower	làà	HL	42	no	no	83	2449
-227	moli11	flower	ītà	HL	42	no	no	83	2450
-290	ocot11	flower	ītà	HL	42	no	no	83	2451
-367	atat11	flower	ītā	HL	42	no	no	83	2452
-471	gran11	flower	ītā	HL	42	no	no	83	2453
-683	ayut11	flower	ìtà	HL	42	no	no	83	2454
-788	metl11	flower	ītā	HL	42	no	no	83	2455
-856	cahu11	flower	yītā	HL	42	no	no	83	2456
-923	mixt11	flower	ītà	HL	42	no	no	83	2457
-1069	jica11	flower	ītā	HL	42	no	no	83	2458
-1123	chay11	flower	ītà	HL	42	no	no	83	2459
-95	peno11	corn	núní	LLʔ	73	no	no	87	2460
-250	moli11	corn	nùnì	LLʔ	73	no	no	87	2461
-308	ocot11	corn	nùnì	LLʔ	73	no	no	87	2462
-395	atat11	corn	nūnì	LLʔ	73	no	no	87	2463
-502	gran11	corn	nūnì	LLʔ	73	no	no	87	2464
-702	ayut11	corn	nūnìʔ	LLʔ	73	no	no	87	2465
-809	metl11	corn	nùnì	LLʔ	73	yes	no	87	2466
-809	metl11	corn	nùnī	LLʔ	73	yes	no	87	2467
-881	cahu11	corn	nònì	LLʔ	73	no	no	87	2468
-1014	prog12	corn	nù̧nì̧	LLʔ	73	no	no	87	2469
-1088	jica11	corn	núní	LLʔ	73	no	no	87	2470
-90	peno11	tortilla	đítá	LLʔ	68	no	no	92	2471
-171	coat11	tortilla	íʔtǎ	LLʔ	68	no	no	92	2472
-246	moli11	tortilla	stàà 	LLʔ	68	yes	no	92	2473
-305	ocot11	tortilla	šìtà	LLʔ	68	no	no	92	2474
-390	atat11	tortilla	stāà	LLʔ	68	no	no	92	2475
-497	gran11	tortilla	stāà 	LLʔ	68	yes	no	92	2476
-581	caca11	tortilla	đìtà 	LLʔ	68	yes	no	92	2477
-639	xaya11	tortilla	đìtà 	LLʔ	68	yes	no	92	2478
-699	ayut11	tortilla	štā ̀ʔ	LLʔ	68	no	no	92	2479
-747	alac11	tortilla	sìtà	LLʔ	68	no	no	92	2480
-806	metl11	tortilla	sītà	LLʔ	68	no	no	92	2481
-877	cahu11	tortilla	sītā	LLʔ	68	no	no	92	2482
-941	mixt11	tortilla	stàá	LLʔ	68	no	no	92	2483
-1009	prog12	tortilla	hìtà	LLʔ	68	no	no	92	2484
-1085	jica11	tortilla	šítá	LLʔ	68	no	no	92	2485
-1133	chay11	tortilla	šìtà	LLʔ	68	no	no	92	2486
-33	peno11	beans	ⁿdùčì	HHʔ	3	no	no	96	2487
-131	coat11	beans	ⁿdùʔȼì	HHʔ	3	no	no	96	2488
-200	moli11	beans	ⁿdūčī	HHʔ	3	no	no	96	2489
-331	atat11	beans	ⁿdūčī	HHʔ	3	no	no	96	2490
-431	gran11	beans	ⁿdūčī 	HHʔ	3	yes	no	96	2491
-544	caca11	beans	ⁿdūčī 	HHʔ	3	yes	no	96	2492
-659	ayut11	beans	ⁿdùčíʔ	HHʔ	3	no	no	96	2493
-728	alac11	beans	ⁿdūčù	HHʔ	3	no	no	96	2494
-829	cahu11	beans	ⁿdǜčǜ	HHʔ	3	no	no	96	2495
-963	prog12	beans	ⁿdǘčǜ	HHʔ	3	no	no	96	2496
-1109	chay11	beans	ⁿdūtʸī	HHʔ	3	no	no	96	2497
-3	diux11	chile	žàʔà	HHʔ	12	no	no	98	2498
-41	peno11	chile	žàʔà	HHʔ	12	no	no	98	2499
-136	coat11	chile	šàʔà	HHʔ	12	no	no	98	2500
-207	moli11	chile	žāʔā 	HHʔ	12	yes	no	98	2501
-340	atat11	chile	žāʔā	HHʔ	12	no	no	98	2502
-440	gran11	chile	žāʔā 	HHʔ	12	yes	no	98	2503
-837	cahu11	chile	yāʔā	HHʔ	12	no	no	98	2504
-911	mixt11	chile	yāʔá	HHʔ	12	no	no	98	2505
-969	prog12	chile	žáʔà	HHʔ	12	no	no	98	2506
-17	diux11	cane	ⁿdó’ó	LLʔ	67	no	no	102	2507
-89	peno11	cane	tù-žòò	LLʔ	67	no	no	102	2508
-389	atat11	cane	ⁿdōò	LLʔ	67	no	no	102	2509
-496	gran11	cane	ⁿdōò	LLʔ	67	no	no	102	2510
-580	caca11	cane	ⁿdòò 	LLʔ	67	yes	no	102	2511
-876	cahu11	cane	ⁿdòò	LLʔ	67	no	no	102	2512
-940	mixt11	cane	ⁿdòó	LLʔ	67	no	no	102	2513
-1008	prog12	cane	ⁿdòò	LLʔ	67	no	no	102	2514
-1084	jica11	cane	ⁿdóó	LLʔ	67	no	no	102	2515
-77	peno11	meat	kùñú	LH	51	no	no	114	2516
-160	coat11	meat	kùñú̧	LH	51	no	yes	114	2517
-297	ocot11	meat	kùñū	LH	51	no	no	114	2518
-375	atat11	meat	kùñū	LH	51	no	no	114	2519
-480	gran11	meat	kùñū	LH	51	no	no	114	2520
-569	caca11	meat	kò̧ñō̧	LH	51	no	no	114	2521
-740	alac11	meat	kùñō̧	LH	51	no	no	114	2522
-795	metl11	meat	kùñù	LH	51	no	no	114	2523
-863	cahu11	meat	kùñū̧	LH	51	no	no	114	2524
-92	peno11	comal	šíó	LLʔ	70	no	no	115	2525
-172	coat11	comal	šíǒ	LLʔ	70	no	no	115	2526
-392	atat11	comal	xīžò	LLʔ	70	no	no	115	2527
-499	gran11	comal	xīò	LLʔ	70	no	no	115	2528
-583	caca11	comal	šòò 	LLʔ	70	yes	no	115	2529
-748	alac11	comal	šìyò	LLʔ	70	no	no	115	2530
-879	cahu11	comal	šìyò	LLʔ	70	no	no	115	2531
-1011	prog12	comal	šòò	LLʔ	70	no	no	115	2532
-1135	chay11	comal	sìyò	LLʔ	70	no	no	115	2533
-76	peno11	clay pot	kɨ́đɨ̀	LH	49	no	no	116	2534
-158	coat11	clay pot	kɨ̀đɨ́	LH	49	no	yes	116	2535
-233	moli11	clay pot	kìsī	LH	49	no	no	116	2536
-373	atat11	clay pot	kɨ̀sɨ̄	LH	49	no	no	116	2537
-478	gran11	clay pot	kɨ̀sɨ̄	LH	49	no	no	116	2538
-567	caca11	clay pot	kìđī	LH	49	no	no	116	2539
-687	ayut11	clay pot	kìsì	LH	49	no	no	116	2540
-739	alac11	clay pot	kìsī	LH	49	no	no	116	2541
-793	metl11	clay pot	kìsī	LH	49	no	no	116	2542
-928	mixt11	clay pot	kìsī	LH	49	no	no	116	2543
-1073	jica11	clay pot	kísí	LH	49	no	no	116	2544
-23	diux11	thread	žú’ʔá	LL	86	no	no	127	2545
-108	peno11	thread	žúʔá	LL	86	no	no	127	2546
-179	coat11	thread	šúʔƀé	LL	86	no	no	127	2547
-407	atat11	thread	žūʔƀà	LL	86	no	no	127	2548
-515	gran11	thread	žūʔà	LL	86	no	no	127	2549
-592	caca11	thread	žùʔà	LL	86	no	no	127	2550
-646	xaya11	thread	yùʔà	LL	86	no	no	127	2551
-754	alac11	thread	yìʔƀà	LL	86	no	no	127	2552
-1093	jica11	thread	yūʔƀā	LL	86	no	no	127	2553
-42	peno11	rope	žòʔò	HHʔ	14	no	no	129	2554
-137	coat11	rope	šòʔò	HHʔ	14	no	no	129	2555
-209	moli11	rope	žōʔō	HHʔ	14	no	no	129	2556
-342	atat11	rope	žōʔō	HHʔ	14	no	no	129	2557
-442	gran11	rope	žōʔō 	HHʔ	14	yes	no	129	2558
-549	caca11	rope	žōʔò	HHʔ	14	no	no	129	2559
-612	xaya11	rope	yōʔò	HHʔ	14	no	no	129	2560
-772	metl11	rope	yōʔó	HHʔ	14	no	no	129	2561
-913	mixt11	rope	yōʔó	HHʔ	14	no	no	129	2562
-971	prog12	rope	žóʔò	HHʔ	14	no	no	129	2563
-1052	jica11	rope	yòʔò	HHʔ	14	no	no	129	2564
-1113	chay11	rope	yōʔō	HHʔ	14	no	no	129	2565
-68	peno11	hole	žàú	HL	41	no	no	130	2566
-153	coat11	hole	šáƀǐ	HL	41	no	no	130	2567
-366	atat11	hole	žāū	HL	41	no	no	130	2568
-470	gran11	hole	žāù	HL	41	no	no	130	2569
-625	xaya11	hole	yāƀī	HL	41	no	no	130	2570
-736	alac11	hole	yāƀì	HL	41	no	no	130	2571
-855	cahu11	hole	yāwī	HL	41	no	no	130	2572
-922	mixt11	hole	yàƀì	HL	41	no	no	130	2573
-987	prog12	hole	žáƀì	HL	41	no	no	130	2574
-1122	chay11	hole	yāƀì	HL	41	no	no	130	2575
-1149	atat11	hole	žāƀū	HL	41	no	no	130	2576
-93	peno11	soap	námá	LLʔ	71	no	no	132	2577
-248	moli11	soap	nàmà 	LLʔ	71	yes	no	132	2578
-393	atat11	soap	nāmà	LLʔ	71	no	no	132	2579
-500	gran11	soap	nāmà	LLʔ	71	no	no	132	2580
-584	caca11	soap	nàmà 	LLʔ	71	yes	no	132	2581
-701	ayut11	soap	nāmàʔ	LLʔ	71	no	no	132	2582
-808	metl11	soap	nàmà	LLʔ	71	yes	no	132	2583
-942	mixt11	soap	nàmǎ	LLʔ	71	no	no	132	2584
-1012	prog12	soap	nà̧mà̧	LLʔ	71	no	no	132	2585
-1136	chay11	soap	nàmà	LLʔ	71	no	no	132	2586
-1152	metl11	soap	nàmā	LLʔ	71	yes	no	132	2587
-97	peno11	moon	žóó	LLʔ	75	no	no	134	2588
-175	coat11	moon	šóǒ	LLʔ	75	no	no	134	2589
-251	moli11	moon	žòò 	LLʔ	75	yes	no	134	2590
-397	atat11	moon	žōò	LLʔ	75	no	no	134	2591
-504	gran11	moon	žōò	LLʔ	75	no	no	134	2592
-750	alac11	moon	yòò	LLʔ	75	no	no	134	2593
-883	cahu11	moon	yòò	LLʔ	75	no	no	134	2594
-945	mixt11	moon	yòó	LLʔ	75	no	no	134	2595
-1015	prog12	moon	žòò	LLʔ	75	no	no	134	2596
-1090	jica11	moon	yóó	LLʔ	75	no	no	134	2597
-1139	chay11	moon	yòò	LLʔ	75	no	no	134	2598
-34	peno11	water	ⁿdùtè	HHʔ	4	no	no	137	2599
-132	coat11	water	ⁿdùʔtè	HHʔ	4	no	no	137	2600
-201	moli11	water	ⁿdūtē 	HHʔ	4	yes	no	137	2601
-271	ocot11	water	ⁿdūtē	HHʔ	4	no	no	137	2602
-332	atat11	water	ⁿdūtē	HHʔ	4	no	no	137	2603
-432	gran11	water	ⁿdūčā 	HHʔ	4	yes	no	137	2604
-660	ayut11	water	ti kʷii	HHʔ	4	no	no	137	2605
-830	cahu11	water	ta kʷiyi	HHʔ	4	no	no	137	2606
-1046	jica11	water	ⁿdùtà	HHʔ	4	no	no	137	2607
-84	peno11	river	žútè	LH	58	no	no	139	2608
-238	moli11	river	žùtē	LH	58	no	no	139	2609
-301	ocot11	river	žùtē	LH	58	no	no	139	2610
-381	atat11	river	žùtē	LH	58	no	no	139	2611
-487	gran11	river	žùčā	LH	58	no	no	139	2612
-799	metl11	river	ítʸā	LH	58	no	no	139	2613
-869	cahu11	river	yǜtā	LH	58	no	no	139	2614
-932	mixt11	river	yùčā	LH	58	no	no	139	2615
-999	prog12	river	žǜtā	LH	58	no	no	139	2616
-1079	jica11	river	yútá	LH	58	no	no	139	2617
-37	peno11	mountain	žùkù	HHʔ	8	no	no	141	2618
-205	moli11	mountain	žūkū 	HHʔ	8	yes	no	141	2619
-275	ocot11	mountain	žūkū	HHʔ	8	no	no	141	2620
-336	atat11	mountain	žūkū	HHʔ	8	no	no	141	2621
-436	gran11	mountain	žūkū 	HHʔ	8	yes	no	141	2622
-833	cahu11	mountain	yǖkǜ	HHʔ	8	no	no	141	2623
-967	prog12	mountain	žǘkǜ	HHʔ	8	no	no	141	2624
-1110	chay11	mountain	yūkū	HHʔ	8	no	no	141	2625
-18	diux11	stone	žú’ú	LLʔ	74	no	no	143	2626
-96	peno11	stone	žúú	LLʔ	74	no	no	143	2627
-174	coat11	stone	šúǔ	LLʔ	74	no	no	143	2628
-309	ocot11	stone	žùù	LLʔ	74	no	no	143	2629
-396	atat11	stone	žūù	LLʔ	74	no	no	143	2630
-503	gran11	stone	žūù	LLʔ	74	no	no	143	2631
-585	caca11	stone	žùù	LLʔ	74	no	no	143	2632
-641	xaya11	stone	yùù 	LLʔ	74	yes	no	143	2633
-703	ayut11	stone	yūùʔ	LLʔ	74	no	no	143	2634
-749	alac11	stone	yùù	LLʔ	74	no	no	143	2635
-810	metl11	stone	yùū	LLʔ	74	no	no	143	2636
-882	cahu11	stone	yǜǜ	LLʔ	74	no	no	143	2637
-944	mixt11	stone	yùú	LLʔ	74	no	no	143	2638
-1089	jica11	stone	yúú	LLʔ	74	no	no	143	2639
-1138	chay11	stone	yùù	LLʔ	74	no	no	143	2640
-168	coat11	cotton	káʔȼǐ	LLʔ	64	no	no	144	2641
-244	moli11	cotton	kàčì	LLʔ	64	no	no	144	2642
-493	gran11	cotton	kāčì	LLʔ	64	no	no	144	2643
-577	caca11	cotton	kàčì	LLʔ	64	no	no	144	2644
-696	ayut11	cotton	kāčìʔ	LLʔ	64	no	no	144	2645
-874	cahu11	cotton	kàčì	LLʔ	64	no	no	144	2646
-937	mixt11	cotton	kàčǐ	LLʔ	64	no	no	144	2647
-1005	prog12	cotton	kàčì	LLʔ	64	no	no	144	2648
-1082	jica11	cotton	kátí	LLʔ	64	no	no	144	2649
-159	coat11	metal	kàá	LH	50	no	yes	145	2650
-234	moli11	metal	kàā	LH	50	no	no	145	2651
-296	ocot11	metal	kàā	LH	50	no	no	145	2652
-374	atat11	metal	kàā	LH	50	no	no	145	2653
-479	gran11	metal	kàā	LH	50	no	no	145	2654
-568	caca11	metal	kàā	LH	50	no	no	145	2655
-629	xaya11	metal	kàā	LH	50	no	no	145	2656
-688	ayut11	metal	kàà	LH	50	no	no	145	2657
-794	metl11	metal	kàà	LH	50	no	no	145	2658
-862	cahu11	metal	kàà	LH	50	no	no	145	2659
-929	mixt11	metal	kàā	LH	50	no	no	145	2660
-994	prog12	metal	kàà	LH	50	no	no	145	2661
-1074	jica11	metal	káā	LH	50	no	no	145	2662
-5	diux11	paper	tú'tú	HL	31	no	no	146	2663
-59	peno11	paper	tùtú	HL	31	no	no	146	2664
-146	coat11	paper	túʔtú	HL	31	no	no	146	2665
-223	moli11	paper	tūtù	HL	31	no	no	146	2666
-359	atat11	paper	tūtū	HL	31	no	no	146	2667
-460	gran11	paper	tūtù	HL	31	no	no	146	2668
-557	caca11	paper	tūtù	HL	31	no	no	146	2669
-620	xaya11	paper	tūtū	HL	31	no	no	146	2670
-675	ayut11	paper	tùtù	HL	31	no	no	146	2671
-780	metl11	paper	tūtū	HL	31	no	no	146	2672
-917	mixt11	paper	tūtù	HL	31	no	no	146	2673
-980	prog12	paper	tǖtǖ	HL	31	no	no	146	2674
-1060	jica11	paper	tūtū	HL	31	no	no	146	2675
-1118	chay11	paper	tūtù	HL	31	no	no	146	2676
-61	peno11	lime	kàkà	HL	33	no	no	147	2677
-360	atat11	lime	kākā	HL	33	no	no	147	2678
-462	gran11	lime	kākà	HL	33	no	no	147	2679
-676	ayut11	lime	kàkà	HL	33	no	no	147	2680
-782	metl11	lime	kākā’	HL	33	no	no	147	2681
-849	cahu11	lime	kākā	HL	33	no	no	147	2682
-918	mixt11	lime	kākà	HL	33	no	no	147	2683
-1062	jica11	lime	kākā	HL	33	no	no	147	2684
-121	peno11	red	tɨ̀-kʷêʔé	MT	102	no	no	152	2685
-192	coat11	red	kʷèʔé	MT	102	no	yes	152	2686
-533	gran11	red	kʷáʔá	MT	102	no	no	152	2687
-601	caca11	red	kʷàʔá	MT	102	no	no	152	2688
-654	xaya11	red	kʷàʔá	MT	102	no	no	152	2689
-720	ayut11	red	kʷáʔá	MT	102	no	no	152	2690
-760	alac11	red	kʷáʔá	MT	102	no	no	152	2691
-824	metl11	red	kʷáʔā	MT	102	no	no	152	2692
-901	cahu11	red	kʷáʔá	MT	102	no	no	152	2693
-955	mixt11	red	kʷáʔà	MT	102	no	no	152	2694
-1036	prog12	red	kʷáʔá	MT	102	no	no	152	2695
-120	peno11	green	kʷîì	MT	100	no	no	153	2696
-190	coat11	green	kʷìì	MT	100	no	no	153	2697
-531	gran11	green	kʷíì	MT	100	no	no	153	2698
-600	caca11	green	kʷíì	MT	100	no	no	153	2699
-718	ayut11	green	kʷíìʔ	MT	100	no	no	153	2700
-899	cahu11	green	kʷíí	MT	100	no	no	153	2701
-954	mixt11	green	kʷîí	MT	100	no	no	153	2702
-1035	prog12	green	kʷíī	MT	100	no	no	153	2703
-1100	jica11	green	kʷìì	MT	100	no	no	153	2704
-1102	jica11	it is yellow	kʷà̧ā̧-čí 	MT	103	no	no	154	2705
-29	diux11	yellow	'kʷà̧à̧	MT	103	no	no	154	2706
-122	peno11	yellow	kʷâ̧á̧	MT	103	no	no	154	2707
-193	coat11	yellow	kʷà̧á̧	MT	103	no	no	154	2708
-421	atat11	yellow	kʷá̧á̧	MT	103	no	no	154	2709
-534	gran11	yellow	kʷá̧á̧	MT	103	no	no	154	2710
-602	caca11	yellow	kʷà̧á̧	MT	103	no	no	154	2711
-655	xaya11	yellow	kʷà̧á̧	MT	103	no	no	154	2712
-721	ayut11	yellow	kʷá̧á̧	MT	103	no	no	154	2713
-761	alac11	yellow	kʷá̧á̧	MT	103	no	no	154	2714
-825	metl11	yellow	kʷá̧á̧	MT	103	no	no	154	2715
-902	cahu11	yellow	kʷá̧á̧	MT	103	no	no	154	2716
-956	mixt11	yellow	kʷá̧à̧	MT	103	no	no	154	2717
-1037	prog12	yellow	kʷá̧á̧	MT	103	no	no	154	2718
-115	peno11	black	tù̧ù̧	MT	95	no	no	155	2719
-262	moli11	black	tū̧ū̧	MT	95	no	no	155	2720
-416	atat11	black	Nú̧ú̧	MT	95	no	no	155	2721
-526	gran11	black	tú̧ú̧	MT	95	no	no	155	2722
-714	ayut11	black	tù̧ú̧ʔ	MT	95	no	no	155	2723
-758	alac11	black	tò̧ó̧	MT	95	no	no	155	2724
-897	cahu11	black	tnō̧ó̧	MT	95	no	no	155	2725
-1032	prog12	black	tù̧ú̧	MT	95	no	no	155	2726
-1099	jica11	black	tù̧ù̧	MT	95	no	no	155	2727
-119	peno11	white	kʷîší̧	MT	99	no	no	156	2728
-189	coat11	white	kʷìʔší̧	MT	99	no	yes	156	2729
-321	ocot11	white	kʷīxí̧	MT	99	no	no	156	2730
-420	atat11	white	kʷíxí̧	MT	99	no	no	156	2731
-530	gran11	white	kʷíxí̧	MT	99	no	no	156	2732
-599	caca11	white	kúší	MT	99	no	no	156	2733
-953	mixt11	white	kʷíȼì	MT	99	no	no	156	2734
-4	diux11	one	ɨ̧̀ɨ̧̀	HH	30	no	no	157	2735
-58	peno11	one	ɨ̧̀ɨ̧̀	HH	30	no	no	157	2736
-222	moli11	one	ī̧ī̧	HH	30	no	no	157	2737
-358	atat11	one	ī̧ī̧	HH	30	no	no	157	2738
-459	gran11	one	ī̧ī̧	HH	30	no	no	157	2739
-556	caca11	one	ī̧ī̧	HH	30	no	no	157	2740
-619	xaya11	one	ī̧ī̧	HH	30	no	no	157	2741
-674	ayut11	one	ì̧ì̧	HH	30	no	no	157	2742
-779	metl11	one	ī̧ī̧	HH	30	no	no	157	2743
-847	cahu11	one	í̧í̧	HH	30	no	no	157	2744
-916	mixt11	one	ī̧ī̧	HH	30	no	no	157	2745
-979	prog12	one	ī̧ī̧	HH	30	no	no	157	2746
-1059	jica11	one	ì̧ì̧	HH	30	no	no	157	2747
-1117	chay11	one	ī̧ī̧	HH	30	no	no	157	2748
-25	diux11	two	úú	LL	89	no	no	158	2749
-111	peno11	two	úú	LL	89	no	no	158	2750
-181	coat11	two	úƀǐ	LL	89	no	no	158	2751
-259	moli11	two	ùù	LL	89	no	no	158	2752
-410	atat11	two	ūù	LL	89	no	no	158	2753
-518	gran11	two	ūù	LL	89	no	no	158	2754
-649	xaya11	two	ùì	LL	89	no	no	158	2755
-711	ayut11	two	ūwì	LL	89	no	no	158	2756
-892	cahu11	two	ōwī	LL	89	no	no	158	2757
-1027	prog12	two	ìƀì	LL	89	no	no	158	2758
-1095	jica11	two	úƀí	LL	89	no	no	158	2759
-15	diux11	four	kó̧’ó̧	LLʔ	62	no	no	160	2760
-87	peno11	four	kúmí	LLʔ	62	no	no	160	2761
-167	coat11	four	kɨ́mǐ̧	LLʔ	62	no	no	160	2762
-242	moli11	four	kù̧ù̧ 	LLʔ	62	yes	no	160	2763
-304	ocot11	four	kùmì	LLʔ	62	no	no	160	2764
-385	atat11	four	kū̧ù̧	LLʔ	62	no	no	160	2765
-491	gran11	four	kū̧ù̧ 	LLʔ	62	yes	no	160	2766
-576	caca11	four	kòmì̧ 	LLʔ	62	yes	no	160	2767
-636	xaya11	four	kùmì 	LLʔ	62	yes	no	160	2768
-695	ayut11	four	kùmíʔ	LLʔ	62	no	no	160	2769
-803	metl11	four	kùmī 	LLʔ	62	yes	no	160	2770
-872	cahu11	four	kūmī	LLʔ	62	no	no	160	2771
-936	mixt11	four	kùmǐ	LLʔ	62	no	no	160	2772
-1003	prog12	four	kòmì	LLʔ	62	no	no	160	2773
-1081	jica11	four	kúmí	LLʔ	62	no	no	160	2774
-1130	chay11	four	kùmì	LLʔ	62	no	no	160	2775
-112	peno11	five	ú̧ʔú̧	LL	90	no	no	161	2776
-182	coat11	five	ú̧ʔǔ̧	LL	90	no	no	161	2777
-260	moli11	five	ù̧ʔù̧	LL	90	no	no	161	2778
-411	atat11	five	ū̧ʔù̧	LL	90	no	no	161	2779
-519	gran11	five	ū̧ʔù̧	LL	90	no	no	161	2780
-893	cahu11	five	ō̧ʔō̧	LL	90	no	no	161	2781
-949	mixt11	five	ù̧ʔù̧	LL	90	no	no	161	2782
-1028	prog12	five	ù̧ʔù̧	LL	90	no	no	161	2783
-1096	jica11	five	ú̧ʔú̧	LL	90	no	no	161	2784
-24	diux11	nine	ɨ̧́’ɨ̧́	LL	88	no	no	165	2785
-110	peno11	nine	ɨ̧́ɨ̧́	LL	88	no	no	165	2786
-258	moli11	nine	ì̧ì̧	LL	88	no	no	165	2787
-409	atat11	nine	ɨ̧̄ɨ̧̀	LL	88	no	no	165	2788
-517	gran11	nine	ɨ̧̄ɨ̧̀	LL	88	no	no	165	2789
-594	caca11	nine	ì̧ì̧	LL	88	no	no	165	2790
-648	xaya11	nine	ì̧ì̧	LL	88	no	no	165	2791
-891	cahu11	nine	ì̧ì̧	LL	88	no	no	165	2792
-948	mixt11	nine	ì̧ì̧	LL	88	no	no	165	2793
-1026	prog12	nine	ì̧ì̧	LL	88	no	no	165	2794
-1094	jica11	nine	í̧í̧	LL	88	no	no	165	2795
-123	peno11	poor	ⁿdâʔú	MT	104	no	no	169	2796
-194	coat11	poor	ⁿdàʔƀí	MT	104	no	yes	169	2797
-265	moli11	poor	ⁿdáʔƀí	MT	104	no	no	169	2798
-322	ocot11	poor	ⁿdáʔƀí	MT	104	no	no	169	2799
-422	atat11	poor	ⁿdáʔú	MT	104	no	no	169	2800
-535	gran11	poor	ⁿdáʔú	MT	104	no	no	169	2801
-656	xaya11	poor	ⁿdàʔƀí	MT	104	no	no	169	2802
-722	ayut11	poor	ⁿdàʔwí	MT	104	no	no	169	2803
-903	cahu11	poor	ⁿdāʔwī	MT	104	no	no	169	2804
-1145	chay11	poor	ⁿdāʔƀí	MT	104	no	no	169	2805
-85	peno11	cold	ƀíšì̧	LH	59	no	no	171	2806
-165	coat11	cold	ƀíʔšǐ̧	LH	59	no	no	171	2807
-239	moli11	cold	ƀìxī̧	LH	59	no	no	171	2808
-382	atat11	cold	mìxī̧	LH	59	no	no	171	2809
-488	gran11	cold	ƀìxī̧	LH	59	no	no	171	2810
-573	caca11	cold	ƀìšī	LH	59	no	no	171	2811
-634	xaya11	cold	ƀìšī̧	LH	59	no	no	171	2812
-693	ayut11	cold	wìšì̧	LH	59	no	no	171	2813
-743	alac11	cold	ƀìšī	LH	59	no	no	171	2814
-800	metl11	cold	ƀìšī̧	LH	59	no	no	171	2815
-870	cahu11	cold	wìšī̧	LH	59	no	no	171	2816
-933	mixt11	cold	ƀìȼī	LH	59	no	no	171	2817
-1000	prog12	cold	ƀīšī	LH	59	no	no	171	2818
-28	diux11	big (sg)	kà̧ʔnù̧	MT	98	no	no	173	2819
-118	peno11	big (sg)	kâʔnù	MT	98	no	no	173	2820
-188	coat11	big (sg)	kàʔnù̧	MT	98	no	no	173	2821
-320	ocot11	big (sg)	káʔnū	MT	98	no	no	173	2822
-419	atat11	big (sg)	káʔnū	MT	98	no	no	173	2823
-529	gran11	big (sg)	káʔnū	MT	98	no	no	173	2824
-822	metl11	big (sg)	káʔnū	MT	98	no	no	173	2825
-898	cahu11	big (sg)	kāʔnō	MT	98	no	no	173	2826
-952	mixt11	big (sg)	káʔnū	MT	98	no	no	173	2827
-1034	prog12	big (sg)	káʔnū	MT	98	no	no	173	2828
-1144	chay11	big (sg)	kàʔnū	MT	98	no	no	173	2829
-717	ayut11	important	káʔnúʔ 	MT	98	no	no	173	2830
-30	diux11	little	'lùčì	MT	108	no	no	175	2831
-127	peno11	little	líʔlì	MT	108	no	no	175	2832
-197	coat11	little	lùʔⁿdí	MT	108	no	yes	175	2833
-268	moli11	little	lūlī	MT	108	no	no	175	2834
-326	ocot11	little	lūlí	MT	108	no	no	175	2835
-426	atat11	little	lùlí	MT	108	no	no	175	2836
-539	gran11	little	lúlí	MT	108	no	no	175	2837
-605	caca11	little	līlūū	MT	108	no	no	175	2838
-725	ayut11	little	lúlú	MT	108	no	no	175	2839
-905	cahu11	little	lōʔō	MT	108	no	no	175	2840
-959	mixt11	little	lūū	MT	108	no	no	175	2841
-1041	prog12	little	lōʔō	MT	108	no	no	175	2842
-1106	jica11	little	lùʔù	MT	108	no	no	175	2843
-1147	chay11	little	lúʔlū	MT	108	no	no	175	2844
-191	coat11	small (in pieces)	kʷèčì	MT	101	no	no	176	2845
-264	moli11	small (in pieces)	kʷéčì	MT	101	no	no	176	2846
-532	gran11	small (in pieces)	kʷáčí	MT	101	no	no	176	2847
-653	xaya11	small (in pieces)	kʷātī	MT	101	no	no	176	2848
-719	ayut11	small (in pieces)	kʷáčí	MT	101	no	no	176	2849
-823	metl11	small (in pieces)	kʷàčī	MT	101	no	no	176	2850
-900	cahu11	small (in pieces)	kʷāčí	MT	101	no	no	176	2851
-1101	jica11	small (in pieces)	kʷàtì	MT	101	no	no	176	2852
-117	peno11	long	kâní	MT	97	no	no	177	2853
-187	coat11	long	kànì̧	MT	97	no	no	177	2854
-263	moli11	long	kání	MT	97	no	no	177	2855
-319	ocot11	long	kání	MT	97	no	no	177	2856
-418	atat11	long	kánī	MT	97	no	no	177	2857
-528	gran11	long	kánī	MT	97	no	no	177	2858
-598	caca11	long	kánì̧	MT	97	no	no	177	2859
-716	ayut11	long	kánìʔ	MT	97	no	no	177	2860
-759	alac11	long	kánì	MT	97	no	no	177	2861
-1143	chay11	long	káñí	MT	97	no	no	177	2862
-13	diux11	good	ƀà’ʔá	LH	60	no	no	179	2863
-86	peno11	good	ƀáʔà	LH	60	no	no	179	2864
-166	coat11	good	ƀáʔǎ	LH	60	no	no	179	2865
-240	moli11	good	ƀàʔā	LH	60	no	no	179	2866
-302	ocot11	good	ƀàʔā	LH	60	no	no	179	2867
-383	atat11	good	ƀàʔā	LH	60	no	no	179	2868
-489	gran11	good	ƀàʔā	LH	60	no	no	179	2869
-574	caca11	good	ƀàʔā	LH	60	no	no	179	2870
-635	xaya11	good	ƀàʔā	LH	60	no	no	179	2871
-694	ayut11	good	wàʔà	LH	60	no	no	179	2872
-744	alac11	good	ƀàʔā	LH	60	no	no	179	2873
-801	metl11	good	ƀàʔā	LH	60	no	no	179	2874
-871	cahu11	good	wāʔā	LH	60	no	no	179	2875
-934	mixt11	good	ƀàʔā	LH	60	no	no	179	2876
-1001	prog12	good	ƀàʔā	LH	60	no	no	179	2877
-1080	jica11	good	ƀáʔá	LH	60	no	no	179	2878
-1128	chay11	good	ƀàʔā	LH	60	no	no	179	2879
-109	peno11	sweet	sá-ƀìdí	LL	87	no	no	180	2880
-180	coat11	sweet	ƀí̧dǐ̧	LL	87	no	no	180	2881
-257	moli11	sweet	ƀìšì	LL	87	no	no	180	2882
-408	atat11	sweet	ƀīšì	LL	87	no	no	180	2883
-516	gran11	sweet	ƀīšì	LL	87	no	no	180	2884
-593	caca11	sweet	ƀìđì	LL	87	no	no	180	2885
-647	xaya11	sweet	ƀìđì	LL	87	no	no	180	2886
-817	metl11	sweet	ƀìšì	LL	87	no	no	180	2887
-890	cahu11	sweet	wīsī	LL	87	no	no	180	2888
-1025	prog12	sweet	ƀìhì	LL	87	no	no	180	2889
-126	peno11	new	sàà	MT	107	no	no	185	2890
-196	coat11	new	šèě	MT	107	no	no	185	2891
-325	ocot11	new	xēé	MT	107	no	no	185	2892
-425	atat11	new	xēé	MT	107	no	no	185	2893
-538	gran11	new	xáá	MT	107	no	no	185	2894
-604	caca11	new	sàà	MT	107	no	no	185	2895
-762	alac11	new	šāá	MT	107	no	no	185	2896
-958	mixt11	new	ȼǎā	MT	107	no	no	185	2897
-1040	prog12	new	sàá	MT	107	no	no	185	2898
-1105	jica11	new	čàà	MT	107	no	no	185	2899
-1146	chay11	new	sāá	MT	107	no	no	185	2900
-57	peno11	yesterday	ìkù	HH	29	no	no	195	2901
-221	moli11	yesterday	īkū	HH	29	no	no	195	2902
-284	ocot11	yesterday	īkū	HH	29	no	no	195	2903
-357	atat11	yesterday	īkū	HH	29	no	no	195	2904
-458	gran11	yesterday	īkū 	HH	29	yes	no	195	2905
-618	xaya11	yesterday	īkū	HH	29	no	no	195	2906
-1058	jica11	yesterday	ìkù	HH	29	no	no	195	2907
-103	peno11	year	kʷíá	LL	81	no	no	196	2908
-178	coat11	year	kʷíǎ	LL	81	no	no	196	2909
-255	moli11	year	kʷìžà	LL	81	no	no	196	2910
-510	gran11	year	kʷīà	LL	81	no	no	196	2911
-590	caca11	year	kùà	LL	81	no	no	196	2912
-886	cahu11	year	kʷīyā	LL	81	no	no	196	2913
-947	mixt11	year	kʷìà	LL	81	no	no	196	2914
-1020	prog12	year	kʷyàà	LL	81	no	no	196	2915
-1140	chay11	year	kʷìyà	LL	81	no	no	196	2916
-55	peno11	now	ƀìtà̧	HH	27	no	no	197	2917
-219	moli11	now	ƀītā̧	HH	27	no	no	197	2918
-355	atat11	now	ƀīNā	HH	27	no	no	197	2919
-455	gran11	now	ƀīnā	HH	27	no	no	197	2920
-456	gran11	now	ƀītā̧	HH	27	no	no	197	2921
-554	caca11	now	ƀīčī	HH	27	no	no	197	2922
-616	xaya11	now	ƀīčī	HH	27	no	no	197	2923
-672	ayut11	now	wìtì̧	HH	27	no	no	197	2924
-732	alac11	now	ƀītī̧	HH	27	no	no	197	2925
-845	cahu11	now	wītnī	HH	27	no	no	197	2926
-977	prog12	now	ƀītī	HH	27	no	no	197	2927
-1056	jica11	now	ƀìtì̧	HH	27	no	no	197	2928
-1115	chay11	now	ƀītʸī	HH	27	no	no	197	2929
-16	diux11	day	kɨ́’ú	LLʔ	63	no	no	200	2930
-243	moli11	day	kìƀì	LLʔ	63	no	no	200	2931
-386	atat11	day	kɨ̄ƀɨ̀	LLʔ	63	no	no	200	2932
-492	gran11	day	kɨ̄ƀɨ̀	LLʔ	63	no	no	200	2933
-745	alac11	day	kìƀì	LLʔ	63	no	no	200	2934
-804	metl11	day	kìƀì	LLʔ	63	no	no	200	2935
-873	cahu11	day	kìwì	LLʔ	63	no	no	200	2936
-1004	prog12	day	kìƀì	LLʔ	63	no	no	200	2937
-1131	chay11	day	kɨ̀ƀɨ̀	LLʔ	63	no	no	200	2938
-1151	metl11	day	kìƀī	LLʔ	63	no	no	200	2939
-44	peno11	work	čî̧ù̧	HH	16	no	no	204	2940
-138	coat11	work	ȼìñù	HH	16	no	no	204	2941
-211	moli11	work	tī̧ñū̧	HH	16	no	no	204	2942
-279	ocot11	work	tīñū	HH	16	no	no	204	2943
-344	atat11	work	Nīñū	HH	16	no	no	204	2944
-444	gran11	work	tīñū	HH	16	no	no	204	2945
-550	caca11	work	čō̧ō̧	HH	16	no	no	204	2946
-613	xaya11	work	čū̧ū̧	HH	16	no	no	204	2947
-667	ayut11	work	čù̧ù̧	HH	16	no	no	204	2948
-731	alac11	work	čīñō̧	HH	16	no	no	204	2949
-840	cahu11	work	čīñō	HH	16	no	no	204	2950
-914	mixt11	work	čī̧ū̧	HH	16	no	no	204	2951
-973	prog12	work	čū̧ū̧	HH	16	no	no	204	2952
-75	peno11	word	túʔù̧	LH	48	no	no	205	2953
-157	coat11	word	tù̧ʔú̧	LH	48	no	yes	205	2954
-372	atat11	word	Nù̧ʔū̧	LH	48	no	no	205	2955
-477	gran11	word	tù̧ʔū̧	LH	48	no	no	205	2956
-686	ayut11	word	tù̧ʔù̧	LH	48	no	no	205	2957
-792	metl11	word	tù̧ʔū̧	LH	48	no	no	205	2958
-861	cahu11	word	tnō̧ʔō̧	LH	48	no	no	205	2959
-927	mixt11	word	tù̧ʔū̧	LH	48	no	no	205	2960
-993	prog12	word	tù̧ʔū̧	LH	48	no	no	205	2961
-1072	jica11	word	tú̧ʔú̧	LH	48	no	no	205	2962
-1124	chay11	word	tù̧ʔū̧	LH	48	no	no	205	2963
-79	peno11	adobe	ⁿdóʔò	LH	53	no	no		
-161	coat11	adobe	ⁿdòʔó	LH	53	no	yes		
-482	gran11	adobe	ⁿdòʔō	LH	53	no	no		
-631	xaya11	adobe	ⁿdòʔō	LH	53	no	no		
-689	ayut11	adobe	ⁿdòʔò	LH	53	no	no		
-741	alac11	adobe	ⁿdòʔō	LH	53	no	no		
-864	cahu11	adobe	ⁿdōʔō	LH	53	no	no		
-930	mixt11	adobe	ⁿdòʔō	LH	53	no	no		
-996	prog12	adobe	ⁿdòʔō	LH	53	no	no		
-1075	jica11	adobe	ⁿdóʔō	LH	53	no	no		
-1126	chay11	adobe	ⁿdòʔō	LH	53	no	no		
-1018	prog12	broken	tàʔⁿdà 	LL	79	no	no		
-99	peno11	comb	kúká	LL	77	no	no		
-399	atat11	comb	kūkà	LL	77	no	no		
-506	gran11	comb	kūkà	LL	77	no	no		
-586	caca11	comb	kùkà	LL	77	no	no		
-752	alac11	comb	kʷìkà	LL	77	no	no		
-946	mixt11	comb	kʷìkà	LL	77	no	no		
-45	peno11	handspan	tòò	HH	17	no	no		
-280	ocot11	handspan	tōō	HH	17	no	no		
-345	atat11	handspan	tōō	HH	17	no	no		
-445	gran11	handspan	tōō	HH	17	no	no		
-614	xaya11	handspan	tōō	HH	17	no	no		
-668	ayut11	handspan	tòò	HH	17	no	no		
-91	peno11	head	dɨ́kɨ́	LLʔ	69	no	no		
-247	moli11	head	šìnì 	LLʔ	69	yes	no		
-306	ocot11	head	šìnì	LLʔ	69	no	no		
-391	atat11	head	šīnì	LLʔ	69	no	no		
-498	gran11	head	šīnì 	LLʔ	69	yes	no		
-582	caca11	head	đìnì 	LLʔ	69	yes	no		
-700	ayut11	head	šīnìʔ	LLʔ	69	no	no		
-807	metl11	head	šìnī	LLʔ	69	no	no		
-878	cahu11	head	sìnì	LLʔ	69	no	no		
-1010	prog12	head	hìnì	LLʔ	69	no	no		
-1086	jica11	head	šíní	LLʔ	69	no	no		
-1134	chay11	head	šìnì	LLʔ	69	no	no		
-71	peno11	inside	ìní	HL	44	no	no		
-229	moli11	inside	īnì	HL	44	no	no		
-292	ocot11	inside	īnì	HL	44	no	no		
-368	atat11	inside	īnī	HL	44	no	no		
-473	gran11	inside	īnì	HL	44	no	no		
-684	ayut11	inside	ìnì	HL	44	no	no		
-789	metl11	inside	īnī	HL	44	no	no		
-858	cahu11	inside	īnī	HL	44	no	no		
-989	prog12	inside	īnī	HL	44	no	no		
-21	diux11	nephew	đà’ší	LL	83	no	no		
-105	peno11	nephew	đáší̧	LL	83	no	no		
-314	ocot11	nephew	sàxì̧	LL	83	no	no		
-404	atat11	nephew	sāxì̧	LL	83	no	no		
-512	gran11	nephew	sāxì̧	LL	83	no	no		
-645	xaya11	nephew	đášì	LL	83	no	no		
-709	ayut11	nephew	sāšì̧	LL	83	no	no		
-815	metl11	nephew	sāšī̧	LL	83	no	no		
-887	cahu11	nephew	sāšī̧	LL	83	no	no		
-1022	prog12	nephew	hàšì	LL	83	no	no		
-20	diux11	niece	đí’kú	LL	82	no	no		
-104	peno11	niece	đíkú	LL	82	no	no		
-313	ocot11	niece	šìkù	LL	82	no	no		
-403	atat11	niece	šīkù	LL	82	no	no		
-511	gran11	niece	šīkù	LL	82	no	no		
-644	xaya11	niece	đīkū	LL	82	no	no		
-708	ayut11	niece	sīkù	LL	82	no	no		
-814	metl11	niece	šīkū	LL	82	no	no		
-1021	prog12	niece	hǜkǜ	LL	82	no	no		
-128	peno11	people	ñá-žɨ̀ù	MT	109	no	no		
-269	moli11	people	ñà-žīƀī	MT	109	no	no		
-327	ocot11	people	ⁿǰīƀì	MT	109	no	no		
-427	atat11	people	ñà-žūū	MT	109	no	no		
-540	gran11	people	ñà-žɨ̄ƀɨ̄	MT	109	no	no		
-726	ayut11	people	nè-yíwìʔ	MT	109	no	no		
-763	alac11	people	nì̧ƀī	MT	109	no	no		
-826	metl11	people	yūúƀī	MT	109	no	no		
-1042	prog12	people	žīƀī	MT	109	no	no		
-1107	jica11	people	ñíƀí	MT	109	no	no		
-1148	chay11	people	ñì-yɨ̄ƀɨ̄	MT	109	no	no		
-125	peno11	precious metal	đí̧ʔú̧	MT	106	no	no		
-195	coat11	precious metal	đyúʔǔ	MT	106	no	no		
-267	moli11	precious metal	šù̧ʔū̧	MT	106	no	no		
-324	ocot11	precious metal	šù̧ʔú̧	MT	106	no	no		
-424	atat11	precious metal	šù̧ʔú̧	MT	106	no	no		
-537	gran11	precious metal	šù̧ʔú̧	MT	106	no	no		
-724	ayut11	precious metal	šù̧ʔú̧ʔ	MT	106	no	no		
-957	mixt11	precious metal	šǔ̧ʔū̧	MT	106	no	no		
-1039	prog12	precious metal	hyù̧ʔú̧	MT	106	no	no		
-1104	jica11	precious metal	šú̧ʔú̧	MT	106	no	no		
-27	diux11	sibling's husband	kà’đá	MT	96	no	no		
-116	peno11	sibling's husband	kàđà	MT	96	no	no		
-186	coat11	sibling's husband	kàđá	MT	96	no	yes		
-318	ocot11	sibling's husband	kàsá	MT	96	no	no		
-417	atat11	sibling's husband	kàsá	MT	96	no	no		
-527	gran11	sibling's husband	kàsá	MT	96	no	no		
-652	xaya11	sibling's husband	kāđà	MT	96	no	no		
-715	ayut11	sibling's husband	kàsáʔ	MT	96	no	no		
-821	metl11	sibling's husband	kāsā	MT	96	no	no		
-1033	prog12	sibling's husband	kàhá	MT	96	no	no		
-11	diux11	sibling's wife	šà’nú	LH	55	no	no		
-81	peno11	sibling's wife	sánù	LH	55	no	no		
-163	coat11	sibling's wife	ènú	LH	55	no	yes		
-300	ocot11	sibling's wife	xànū	LH	55	no	no		
-378	atat11	sibling's wife	xènū	LH	55	no	no		
-484	gran11	sibling's wife	xànū	LH	55	no	no		
-633	xaya11	sibling's wife	sànū	LH	55	no	no		
-691	ayut11	sibling's wife	šànù	LH	55	no	no		
-798	metl11	sibling's wife	sānù	LH	55	no	no		
-866	cahu11	sibling's wife	šānō	LH	55	no	no		
-998	prog12	sibling's wife	sànù	LH	55	no	no		
-1077	jica11	sibling's wife	čánū	LH	55	no	no		
-48	peno11	to be	kùù	HH	20	no	no		
-139	coat11	to be	kùƀì	HH	20	no	no		
-214	moli11	to be	kūū	HH	20	no	no		
-348	atat11	to be	kūū	HH	20	no	no		
-448	gran11	to be	kūū	HH	20	no	no		
-615	xaya11	to be	kūū	HH	20	no	no		
-775	metl11	to be	kūƀī	HH	20	no	no		
-974	prog12	to be	kūū	HH	20	no	no		
-50	peno11	to be born	kàkù	HH	22	no	no		
-282	ocot11	to be born	kākū	HH	22	no	no		
-350	atat11	to be born	kākū	HH	22	no	no		
-450	gran11	to be born	kākū	HH	22	no	no		
-842	cahu11	to be born	kākū	HH	22	no	no		
-51	peno11	to burn	kàʔmì	HH	23	no	no		
-141	coat11	to burn	kàʔmì̧	HH	23	no	no		
-351	atat11	to burn	kāʔmū	HH	23	no	no		
-451	gran11	to burn	kāʔmū	HH	23	no	no		
-553	caca11	to burn	kāʔmā̧	HH	23	no	no		
-843	cahu11	to burn	kāʔmī	HH	23	no	no		
-54	peno11	to buy	kʷà̧à̧	HH	26	no	no		
-144	coat11	to buy	kʷì̧ì̧	HH	26	no	no		
-218	moli11	to buy	kʷā̧ā̧	HH	26	no	no		
-354	atat11	to buy	kʷā̧ā̧	HH	26	no	no		
-454	gran11	to buy	kʷā̧ā̧	HH	26	no	no		
-976	prog12	to buy	kʷȩ̄ȩ̀	HH	26	no	no		
-46	peno11	to come	kìšì	HH	18	no	no		
-212	moli11	to come	kīī	HH	18	no	no		
-346	atat11	to come	kīxī	HH	18	no	no		
-446	gran11	to come	kīī	HH	18	no	no		
-551	caca11	to come	kīšī	HH	18	no	no		
-669	ayut11	to come	kìšì	HH	18	no	no		
-841	cahu11	to come	kísī	HH	18	no	no		
-1054	jica11	to come	kíčì	HH	18	no	no		
-101	peno11	to cut	kèʔⁿdé	LL	79	no	no		
-177	coat11	to cut	káʔⁿdé	LL	79	no	yes		
-401	atat11	to cut	kāʔⁿdè	LL	79	no	no		
-508	gran11	to cut	kāʔⁿǰà	LL	79	no	no		
-588	caca11	to cut	tèʔⁿdè	LL	79	no	no		
-643	xaya11	to cut	tàʔⁿdè	LL	79	no	no		
-706	ayut11	to cut	kāʔⁿdʸà	LL	79	no	no		
-812	metl11	to cut	kāʔⁿdʸā	LL	79	no	no		
-884	cahu11	to cut	kāʔⁿdā	LL	79	no	no		
-1091	jica11	to cut	kàʔⁿdà	LL	79	no	no		
-53	peno11	to drink	kòʔò	HH	25	no	no		
-143	coat11	to drink	kòʔò	HH	25	no	no		
-217	moli11	to drink	kōʔō	HH	25	no	no		
-353	atat11	to drink	kōʔō	HH	25	no	no		
-453	gran11	to drink	kōʔō	HH	25	no	no		
-844	cahu11	to drink	kōʔō	HH	25	no	no		
-32	peno11	to eat	kàšì	HHʔ	2	no	no		
-130	coat11	to eat	káʔší	HHʔ	2	no	no		
-199	moli11	to eat	kāā 	HHʔ	2	yes	no		
-330	atat11	to eat	kāxī	HHʔ	2	no	no		
-430	gran11	to eat	kāxī 	HHʔ	2	yes	no		
-543	caca11	to eat	kāà 	HHʔ	2	yes	no		
-658	ayut11	to eat	kàšìʔ	HHʔ	2	no	no		
-766	metl11	to eat	kāšī	HHʔ	2	no	no		
-828	cahu11	to eat	kāšī	HHʔ	2	no	no		
-962	prog12	to eat	kāší	HHʔ	2	no	no		
-1045	jica11	to eat	káčì	HHʔ	2	no	no		
-98	peno11	to go	kɨ̧́ʔɨ̧́	LL	76	no	no		
-176	coat11	to go	kɨ̧́ʔɨ̧̌	LL	76	no	no		
-252	moli11	to go	kí̧ʔì̧	LL	76	no	no		
-310	ocot11	to go	kí̧ʔì̧	LL	76	no	no		
-398	atat11	to go	kɨ̧̄ʔɨ̧̀	LL	76	no	no		
-505	gran11	to go	kɨ̧̄ʔɨ̧̀	LL	76	no	no		
-704	ayut11	to go	kū̧ʔù̧	LL	76	no	no		
-751	alac11	to go	kò̧ʔò̧	LL	76	no	no		
-1016	prog12	to go	kù̧ʔù̧	LL	76	no	no		
-52	peno11	to look	kòtò	HH	24	no	no		
-142	coat11	to look	kòʔtò	HH	24	no	no		
-216	moli11	to look	kōtō	HH	24	no	no		
-352	atat11	to look	kōtō	HH	24	no	no		
-452	gran11	to look	kōtō	HH	24	no	no		
-671	ayut11	to look	kòtò	HH	24	no	no		
-777	metl11	to look	kōtō	HH	24	no	no		
-47	peno11	to run	kùnù	HH	19	no	no		
-213	moli11	to run	kūnū	HH	19	no	no		
-347	atat11	to run	kūnū	HH	19	no	no		
-447	gran11	to run	kūnū	HH	19	no	no		
-670	ayut11	to run	kùnù	HH	19	no	no		
-774	metl11	to run	kūnū	HH	19	no	no		
-1055	jica11	to run	kúnú	HH	19	no	no		
-124	peno11	to sell	đìkò	MT	105	no	no		
-266	moli11	to sell	šìkō	MT	105	no	no		
-323	ocot11	to sell	šìkó	MT	105	no	no		
-423	atat11	to sell	šìkó	MT	105	no	no		
-536	gran11	to sell	šìkó	MT	105	no	no		
-603	caca11	to sell	đìkò	MT	105	no	no		
-723	ayut11	to sell	šìkòʔ	MT	105	no	no		
-904	cahu11	to sell	síkò	MT	105	no	no		
-1038	prog12	to sell	hìkó	MT	105	no	no		
-1103	jica11	to sell	šíkò	MT	105	no	no		
-49	peno11	to sing	kàtà	HH	21	no	no		
-140	coat11	to sing	kàʔtà	HH	21	no	no		
-215	moli11	to sing	kātā	HH	21	no	no		
-281	ocot11	to sing	kātā	HH	21	no	no		
-349	atat11	to sing	kātā	HH	21	no	no		
-449	gran11	to sing	kātā	HH	21	no	no		
-552	caca11	to sing	kātā	HH	21	no	no		
-776	metl11	to sing	kātā	HH	21	no	no		
-975	prog12	to sing	kātā	HH	21	no	no		
-102	peno11	to speak	ká̧ʔá̧	LL	80	no	no		
-254	moli11	to speak	kà̧ʔà̧	LL	80	no	no		
-312	ocot11	to speak	kà̧ʔà̧	LL	80	no	no		
-402	atat11	to speak	kā̧ʔà̧	LL	80	no	no		
-509	gran11	to speak	kā̧ʔà̧	LL	80	no	no		
-589	caca11	to speak	kà̧ʔà̧	LL	80	no	no		
-707	ayut11	to speak	kā̧ʔà̧	LL	80	no	no		
-813	metl11	to speak	kā̧ʔā̧	LL	80	no	no		
-885	cahu11	to speak	kā̧ʔā̧	LL	80	no	no		
-1019	prog12	to speak	kà̧ʔà̧	LL	80	no	no		
-1092	jica11	to speak	kà̧ʔā̧	LL	80	no	no		
-184	coat11	turkey hen	ȼú̧ǔ̧	MT	93	no	no		
-317	ocot11	turkey hen	čù̧ú̧	MT	93	no	no		
-414	atat11	turkey hen	čù̧ú̧	MT	93	no	no		
-522	gran11	turkey hen	čù̧ú̧ 	MT	93	no	no		
-523	gran11	turkey hen	tī-ñùú	MT	93	no	no		
-596	caca11	turkey hen	čò̧ò̧	MT	93	no	no		
-712	ayut11	turkey hen	tʸù̧ù̧ʔ	MT	93	no	no		
-756	alac11	turkey hen	tì̧ú̧	MT	93	no	no		
-895	cahu11	turkey hen	tʸó̧ó̧	MT	93	no	no		
-951	mixt11	turkey hen	čù̧ū̧	MT	93	no	no		
-467	gran11	wall	nāmà	HL	38	no	no		
-562	caca11	wall	nā̧mà̧	HL	38	no	no		
-623	xaya11	wall	nāmā	HL	38	no	no		
-680	ayut11	wall	nāmà	HL	38	no	no		
-786	metl11	wall	nāmà	HL	38	no	no		
-1067	jica11	wall	nāmā	HL	38	no	no		
-1120	chay11	wall	nāmà	HL	38	no	no		
+ID	Doculect	Concept	Form	PMCouplet	CogID_Durr	ToneMod	CitForm
+79	peno11	adobe	ⁿdóʔò	LH	53	no	no
+161	coat11	adobe	ⁿdòʔó	LH	53	no	yes
+482	gran11	adobe	ⁿdòʔō	LH	53	no	no
+631	xaya11	adobe	ⁿdòʔō	LH	53	no	no
+689	ayut11	adobe	ⁿdòʔò	LH	53	no	no
+741	alac11	adobe	ⁿdòʔō	LH	53	no	no
+864	cahu11	adobe	ⁿdōʔō	LH	53	no	no
+930	mixt11	adobe	ⁿdòʔō	LH	53	no	no
+996	prog12	adobe	ⁿdòʔō	LH	53	no	no
+1075	jica11	adobe	ⁿdóʔō	LH	53	no	no
+1126	chay11	adobe	ⁿdòʔō	LH	53	no	no
+1	diux11	animal	kɨ̀tɨ̀	HHʔ	1	no	no
+31	peno11	animal	kɨ̀tɨ̀	HHʔ	1	no	no
+198	moli11	animal	kītī	HHʔ	1	no	no
+270	ocot11	animal	kītī	HHʔ	1	no	no
+329	atat11	animal	kɨ̄tɨ̄	HHʔ	1	no	no
+429	gran11	animal	kɨ̄tɨ̄ 	HHʔ	1	yes	no
+542	caca11	animal	kītì 	HHʔ	1	yes	no
+607	xaya11	animal	kīsì 	HHʔ	1	yes	no
+765	metl11	animal	kītí	HHʔ	1	no	no
+827	cahu11	animal	kītī	HHʔ	1	no	no
+961	prog12	animal	kítì	HHʔ	1	no	no
+1044	jica11	animal	kìtì	HHʔ	1	no	no
+1108	chay11	animal	kɨ̄tɨ̄	HHʔ	1	no	no
+7	diux11	aunt	'đìđí	HL	35	no	no
+63	peno11	aunt	đìđí	HL	35	no	no
+148	coat11	aunt	đíđí	HL	35	no	yes
+225	moli11	aunt	sīsì	HL	35	no	no
+286	ocot11	aunt	šīšì	HL	35	no	no
+362	atat11	aunt	sīsī	HL	35	no	no
+464	gran11	aunt	šīì	HL	35	no	no
+560	caca11	aunt	đīđì	HL	35	no	no
+622	xaya11	aunt	đīđī	HL	35	no	no
+678	ayut11	aunt	šìšì	HL	35	no	no
+784	metl11	aunt	šīšī	HL	35	no	no
+851	cahu11	aunt	sīsī	HL	35	no	no
+982	prog12	aunt	hìhì	HL	35	no	no
+1064	jica11	aunt	čīšī	HL	35	no	no
+33	peno11	beans	ⁿdùčì	HHʔ	3	no	no
+131	coat11	beans	ⁿdùʔȼì	HHʔ	3	no	no
+200	moli11	beans	ⁿdūčī	HHʔ	3	no	no
+331	atat11	beans	ⁿdūčī	HHʔ	3	no	no
+431	gran11	beans	ⁿdūčī 	HHʔ	3	yes	no
+544	caca11	beans	ⁿdūčī 	HHʔ	3	yes	no
+659	ayut11	beans	ⁿdùčíʔ	HHʔ	3	no	no
+728	alac11	beans	ⁿdūčù	HHʔ	3	no	no
+829	cahu11	beans	ⁿdǜčǜ	HHʔ	3	no	no
+963	prog12	beans	ⁿdǘčǜ	HHʔ	3	no	no
+1109	chay11	beans	ⁿdūtʸī	HHʔ	3	no	no
+28	diux11	big (sg)	kà̧ʔnù̧	MT	98	no	no
+118	peno11	big (sg)	kâʔnù	MT	98	no	no
+188	coat11	big (sg)	kàʔnù̧	MT	98	no	no
+320	ocot11	big (sg)	káʔnū	MT	98	no	no
+419	atat11	big (sg)	káʔnū	MT	98	no	no
+529	gran11	big (sg)	káʔnū	MT	98	no	no
+822	metl11	big (sg)	káʔnū	MT	98	no	no
+898	cahu11	big (sg)	kāʔnō	MT	98	no	no
+952	mixt11	big (sg)	káʔnū	MT	98	no	no
+1034	prog12	big (sg)	káʔnū	MT	98	no	no
+1144	chay11	big (sg)	kàʔnū	MT	98	no	no
+65	peno11	bird	tɨ́-làá	HL	37	no	no
+150	coat11	bird	làá	HL	37	no	yes
+287	ocot11	bird	sāà	HL	37	no	no
+363	atat11	bird	sāā	HL	37	no	no
+466	gran11	bird	sāà	HL	37	no	no
+561	caca11	bird	tì-lāà	HL	37	no	no
+679	ayut11	bird	sàà	HL	37	no	no
+785	metl11	bird	sāā	HL	37	no	no
+852	cahu11	bird	sáá	HL	37	no	no
+984	prog12	bird	lāā	HL	37	no	no
+1066	jica11	bird	sāā	HL	37	no	no
+115	peno11	black	tù̧ù̧	MT	95	no	no
+262	moli11	black	tū̧ū̧	MT	95	no	no
+416	atat11	black	Nú̧ú̧	MT	95	no	no
+526	gran11	black	tú̧ú̧	MT	95	no	no
+714	ayut11	black	tù̧ú̧ʔ	MT	95	no	no
+758	alac11	black	tò̧ó̧	MT	95	no	no
+897	cahu11	black	tnō̧ó̧	MT	95	no	no
+1032	prog12	black	tù̧ú̧	MT	95	no	no
+1099	jica11	black	tù̧ù̧	MT	95	no	no
+2	diux11	bone	žɨ̀kɨ̀	HHʔ	11	no	no
+40	peno11	bone	žɨ̀kɨ̀	HHʔ	11	no	no
+339	atat11	bone	žɨ̄kɨ̄	HHʔ	11	no	no
+439	gran11	bone	žɨ̄kɨ̄ 	HHʔ	11	yes	no
+666	ayut11	bone	ìkìʔ	HHʔ	11	no	no
+771	metl11	bone	īkí	HHʔ	11	no	no
+836	cahu11	bone	yīkī	HHʔ	11	no	no
+1018	prog12	broken	tàʔⁿdà 	LL	79	no	no
+8	diux11	brother	'ñànì	HL	40	no	no
+67	peno11	brother	ñàní	HL	40	no	no
+152	coat11	brother	éní̧	HL	40	no	yes
+289	ocot11	brother	ñānì	HL	40	no	no
+365	atat11	brother	ñānī	HL	40	no	no
+469	gran11	brother	ñānì	HL	40	no	no
+564	caca11	brother	ñāñī̧	HL	40	no	no
+624	xaya11	brother	ñānī	HL	40	no	no
+682	ayut11	brother	ñànì	HL	40	no	no
+787	metl11	brother	yānī	HL	40	no	no
+854	cahu11	brother	ñānī	HL	40	no	no
+986	prog12	brother	ñànì	HL	40	no	no
+17	diux11	cane	ⁿdó’ó	LLʔ	67	no	no
+89	peno11	cane	tù-žòò	LLʔ	67	no	no
+389	atat11	cane	ⁿdōò	LLʔ	67	no	no
+496	gran11	cane	ⁿdōò	LLʔ	67	no	no
+580	caca11	cane	ⁿdòò 	LLʔ	67	yes	no
+876	cahu11	cane	ⁿdòò	LLʔ	67	no	no
+940	mixt11	cane	ⁿdòó	LLʔ	67	no	no
+1008	prog12	cane	ⁿdòò	LLʔ	67	no	no
+1084	jica11	cane	ⁿdóó	LLʔ	67	no	no
+10	diux11	child	đá’ʔžá	LH	54	no	no
+80	peno11	child	đéʔè	LH	54	no	no
+162	coat11	child	íʔšá	LH	54	no	yes
+236	moli11	child	sèʔē	LH	54	no	no
+299	ocot11	child	sèʔē	LH	54	no	no
+377	atat11	child	sèʔē	LH	54	no	no
+483	gran11	child	sèʔē	LH	54	no	no
+570	caca11	child	đèʔē	LH	54	no	no
+632	xaya11	child	đèʔē	LH	54	no	no
+690	ayut11	child	sīʔè	LH	54	no	no
+797	metl11	child	sēʔē	LH	54	no	no
+865	cahu11	child	sāʔyā	LH	54	no	no
+931	mixt11	child	sèʔē	LH	54	no	no
+997	prog12	child	hàʔžī	LH	54	no	no
+1076	jica11	child	séʔé	LH	54	no	no
+1127	chay11	child	θèʔē	LH	54	no	no
+3	diux11	chile	žàʔà	HHʔ	12	no	no
+41	peno11	chile	žàʔà	HHʔ	12	no	no
+136	coat11	chile	šàʔà	HHʔ	12	no	no
+207	moli11	chile	žāʔā 	HHʔ	12	yes	no
+340	atat11	chile	žāʔā	HHʔ	12	no	no
+440	gran11	chile	žāʔā 	HHʔ	12	yes	no
+837	cahu11	chile	yāʔā	HHʔ	12	no	no
+911	mixt11	chile	yāʔá	HHʔ	12	no	no
+969	prog12	chile	žáʔà	HHʔ	12	no	no
+76	peno11	clay pot	kɨ́đɨ̀	LH	49	no	no
+158	coat11	clay pot	kɨ̀đɨ́	LH	49	no	yes
+233	moli11	clay pot	kìsī	LH	49	no	no
+373	atat11	clay pot	kɨ̀sɨ̄	LH	49	no	no
+478	gran11	clay pot	kɨ̀sɨ̄	LH	49	no	no
+567	caca11	clay pot	kìđī	LH	49	no	no
+687	ayut11	clay pot	kìsì	LH	49	no	no
+739	alac11	clay pot	kìsī	LH	49	no	no
+793	metl11	clay pot	kìsī	LH	49	no	no
+928	mixt11	clay pot	kìsī	LH	49	no	no
+1073	jica11	clay pot	kísí	LH	49	no	no
+134	coat11	clothes	đàʔmà̧	HHʔ	6	no	no
+203	moli11	clothes	sāʔmā 	HHʔ	6	yes	no
+273	ocot11	clothes	sāʔmā	HHʔ	6	no	no
+334	atat11	clothes	sāʔmā	HHʔ	6	no	no
+434	gran11	clothes	sāʔmā 	HHʔ	6	yes	no
+545	caca11	clothes	đāʔmà̧ 	HHʔ	6	yes	no
+609	xaya11	clothes	đāʔmà̧ 	HHʔ	6	yes	no
+662	ayut11	clothes	sàʔmáʔ	HHʔ	6	no	no
+908	mixt11	clothes	sàʔmǎ	HHʔ	6	no	no
+965	prog12	clothes	háʔmà	HHʔ	6	no	no
+1048	jica11	clothes	sàʔmà	HHʔ	6	no	no
+85	peno11	cold	ƀíšì̧	LH	59	no	no
+165	coat11	cold	ƀíʔšǐ̧	LH	59	no	no
+239	moli11	cold	ƀìxī̧	LH	59	no	no
+382	atat11	cold	mìxī̧	LH	59	no	no
+488	gran11	cold	ƀìxī̧	LH	59	no	no
+573	caca11	cold	ƀìšī	LH	59	no	no
+634	xaya11	cold	ƀìšī̧	LH	59	no	no
+693	ayut11	cold	wìšì̧	LH	59	no	no
+743	alac11	cold	ƀìšī	LH	59	no	no
+800	metl11	cold	ƀìšī̧	LH	59	no	no
+870	cahu11	cold	wìšī̧	LH	59	no	no
+933	mixt11	cold	ƀìȼī	LH	59	no	no
+1000	prog12	cold	ƀīšī	LH	59	no	no
+92	peno11	comal	šíó	LLʔ	70	no	no
+172	coat11	comal	šíǒ	LLʔ	70	no	no
+392	atat11	comal	xīžò	LLʔ	70	no	no
+499	gran11	comal	xīò	LLʔ	70	no	no
+583	caca11	comal	šòò 	LLʔ	70	yes	no
+748	alac11	comal	šìyò	LLʔ	70	no	no
+879	cahu11	comal	šìyò	LLʔ	70	no	no
+1011	prog12	comal	šòò	LLʔ	70	no	no
+1135	chay11	comal	sìyò	LLʔ	70	no	no
+99	peno11	comb	kúká	LL	77	no	no
+399	atat11	comb	kūkà	LL	77	no	no
+506	gran11	comb	kūkà	LL	77	no	no
+586	caca11	comb	kùkà	LL	77	no	no
+752	alac11	comb	kʷìkà	LL	77	no	no
+946	mixt11	comb	kʷìkà	LL	77	no	no
+95	peno11	corn	núní	LLʔ	73	no	no
+250	moli11	corn	nùnì	LLʔ	73	no	no
+308	ocot11	corn	nùnì	LLʔ	73	no	no
+395	atat11	corn	nūnì	LLʔ	73	no	no
+502	gran11	corn	nūnì	LLʔ	73	no	no
+702	ayut11	corn	nūnìʔ	LLʔ	73	no	no
+809	metl11	corn	nùnì	LLʔ	73	yes	no
+809	metl11	corn	nùnī	LLʔ	73	yes	no
+881	cahu11	corn	nònì	LLʔ	73	no	no
+1014	prog12	corn	nù̧nì̧	LLʔ	73	no	no
+1088	jica11	corn	núní	LLʔ	73	no	no
+168	coat11	cotton	káʔȼǐ	LLʔ	64	no	no
+244	moli11	cotton	kàčì	LLʔ	64	no	no
+493	gran11	cotton	kāčì	LLʔ	64	no	no
+577	caca11	cotton	kàčì	LLʔ	64	no	no
+696	ayut11	cotton	kāčìʔ	LLʔ	64	no	no
+874	cahu11	cotton	kàčì	LLʔ	64	no	no
+937	mixt11	cotton	kàčǐ	LLʔ	64	no	no
+1005	prog12	cotton	kàčì	LLʔ	64	no	no
+1082	jica11	cotton	kátí	LLʔ	64	no	no
+9	diux11	cross-sex sibling	kú’ʔá	LH	52	no	no
+78	peno11	cross-sex sibling	kúʔà	LH	52	no	no
+235	moli11	cross-sex sibling	kʷàʔā	LH	52	no	no
+298	ocot11	cross-sex sibling	kʷàʔā	LH	52	no	no
+376	atat11	cross-sex sibling	kʷàʔā	LH	52	no	no
+481	gran11	cross-sex sibling	kʷàʔā	LH	52	no	no
+630	xaya11	cross-sex sibling	kùʔā	LH	52	no	no
+796	metl11	cross-sex sibling	kūʔƀā	LH	52	no	no
+995	prog12	cross-sex sibling	kʸàʔƀà	LH	52	no	no
+1125	chay11	cross-sex sibling	kùʔƀā	LH	52	no	no
+16	diux11	day	kɨ́’ú	LLʔ	63	no	no
+243	moli11	day	kìƀì	LLʔ	63	no	no
+386	atat11	day	kɨ̄ƀɨ̀	LLʔ	63	no	no
+492	gran11	day	kɨ̄ƀɨ̀	LLʔ	63	no	no
+745	alac11	day	kìƀì	LLʔ	63	no	no
+804	metl11	day	kìƀì	LLʔ	63	no	no
+873	cahu11	day	kìwì	LLʔ	63	no	no
+1004	prog12	day	kìƀì	LLʔ	63	no	no
+1131	chay11	day	kɨ̀ƀɨ̀	LLʔ	63	no	no
+1151	metl11	day	kìƀī	LLʔ	63	no	no
+70	peno11	deer	ìđú	HL	43	no	no
+228	moli11	deer	īsù	HL	43	no	no
+291	ocot11	deer	īsù	HL	43	no	no
+472	gran11	deer	īsù	HL	43	no	no
+737	alac11	deer	yūsū	HL	43	no	no
+857	cahu11	deer	tn-ǖsǖ	HL	43	no	no
+988	prog12	deer	ǖhǖ	HL	43	no	no
+72	peno11	dog	ìná	HL	45	no	no
+156	coat11	dog	t-ìná̧	HL	45	no	yes
+230	moli11	dog	īnà	HL	45	no	no
+293	ocot11	dog	t-īnà	HL	45	no	no
+369	atat11	dog	īnā	HL	45	no	no
+474	gran11	dog	īnà	HL	45	no	no
+565	caca11	dog	t-ì̧nā̧	HL	45	no	no
+627	xaya11	dog	sì-īnà	HL	45	no	no
+738	alac11	dog	īnā̧	HL	45	no	no
+859	cahu11	dog	ñīnā	HL	45	no	no
+924	mixt11	dog	t-i᷅nā	HL	45	no	no
+990	prog12	dog	t-ìnā	HL	45	no	no
+1070	jica11	dog	īnā	HL	45	no	no
+12	diux11	ear	đò’ʔó	LH	56	no	no
+82	peno11	ear	đóʔò	LH	56	no	no
+379	atat11	ear	sòʔō	LH	56	no	no
+485	gran11	ear	sòʔō	LH	56	no	no
+571	caca11	ear	đòʔō	LH	56	no	no
+692	ayut11	ear	sōʔò	LH	56	no	no
+742	alac11	ear	sòʔō	LH	56	no	no
+867	cahu11	ear	sòʔō	LH	56	no	no
+1078	jica11	ear	sóʔó	LH	56	no	no
+94	peno11	face	núú	LLʔ	72	no	no
+173	coat11	face	nú̧ǔ̧	LLʔ	72	no	no
+249	moli11	face	nùù	LLʔ	72	no	no
+307	ocot11	face	nùù	LLʔ	72	no	no
+394	atat11	face	nūù	LLʔ	72	no	no
+501	gran11	face	nūù 	LLʔ	72	yes	no
+640	xaya11	face	nùù	LLʔ	72	no	no
+880	cahu11	face	nò̧ò̧	LLʔ	72	no	no
+943	mixt11	face	nùú	LLʔ	72	no	no
+1013	prog12	face	nùù	LLʔ	72	no	no
+1087	jica11	face	nú̧ú̧	LLʔ	72	no	no
+1137	chay11	face	nùù	LLʔ	72	no	no
+183	coat11	fingernail	ȼì̧ì̧	MT	91	no	no
+412	atat11	fingernail	Ní̧í̧	MT	91	no	no
+520	gran11	fingernail	tíñū	MT	91	no	no
+595	caca11	fingernail	čí̧ì̧	MT	91	no	no
+650	xaya11	fingernail	čī̧ī̧	MT	91	no	no
+755	alac11	fingernail	číì	MT	91	no	no
+818	metl11	fingernail	čí̧ì̧	MT	91	no	no
+894	cahu11	fingernail	čī̧ī̧	MT	91	no	no
+950	mixt11	fingernail	čî̧í̧	MT	91	no	no
+1029	prog12	fingernail	čí̧ì̧	MT	91	no	no
+1097	jica11	fingernail	tìñì	MT	91	no	no
+26	diux11	fish	čákà	MT	94	no	no
+114	peno11	fish	čáká	MT	94	no	no
+185	coat11	fish	ȼàʔká	MT	94	no	yes
+261	moli11	fish	čākā	MT	94	no	no
+415	atat11	fish	čàká	MT	94	no	no
+524	gran11	fish	čáká 	MT	94	no	no
+525	gran11	fish	tɨ̄-žáká	MT	94	no	no
+597	caca11	fish	tì-žākā	MT	94	no	no
+651	xaya11	fish	s-yākā	MT	94	no	no
+713	ayut11	fish	tʸàkáʔ	MT	94	no	no
+757	alac11	fish	tiáká	MT	94	no	no
+820	metl11	fish	tʸàká	MT	94	no	no
+896	cahu11	fish	tʸāká	MT	94	no	no
+1031	prog12	fish	tī-žàká	MT	94	no	no
+112	peno11	five	ú̧ʔú̧	LL	90	no	no
+182	coat11	five	ú̧ʔǔ̧	LL	90	no	no
+260	moli11	five	ù̧ʔù̧	LL	90	no	no
+411	atat11	five	ū̧ʔù̧	LL	90	no	no
+519	gran11	five	ū̧ʔù̧	LL	90	no	no
+893	cahu11	five	ō̧ʔō̧	LL	90	no	no
+949	mixt11	five	ù̧ʔù̧	LL	90	no	no
+1028	prog12	five	ù̧ʔù̧	LL	90	no	no
+1096	jica11	five	ú̧ʔú̧	LL	90	no	no
+69	peno11	flower	ìtá	HL	42	no	no
+154	coat11	flower	làà	HL	42	no	no
+227	moli11	flower	ītà	HL	42	no	no
+290	ocot11	flower	ītà	HL	42	no	no
+367	atat11	flower	ītā	HL	42	no	no
+471	gran11	flower	ītā	HL	42	no	no
+683	ayut11	flower	ìtà	HL	42	no	no
+788	metl11	flower	ītā	HL	42	no	no
+856	cahu11	flower	yītā	HL	42	no	no
+923	mixt11	flower	ītà	HL	42	no	no
+1069	jica11	flower	ītā	HL	42	no	no
+1123	chay11	flower	ītà	HL	42	no	no
+22	diux11	foot	šé’ʔé	LL	84	no	no
+106	peno11	foot	sáʔá	LL	84	no	no
+315	ocot11	foot	xèʔè	LL	84	no	no
+405	atat11	foot	xēʔè	LL	84	no	no
+513	gran11	foot	xāʔà	LL	84	no	no
+591	caca11	foot	sàʔà	LL	84	no	no
+753	alac11	foot	šàʔà	LL	84	no	no
+816	metl11	foot	šàʔā	LL	84	no	no
+888	cahu11	foot	šāʔā	LL	84	no	no
+1023	prog12	foot	šàʔà	LL	84	no	no
+1141	chay11	foot	šàʔà	LL	84	no	no
+15	diux11	four	kó̧’ó̧	LLʔ	62	no	no
+87	peno11	four	kúmí	LLʔ	62	no	no
+167	coat11	four	kɨ́mǐ̧	LLʔ	62	no	no
+242	moli11	four	kù̧ù̧ 	LLʔ	62	yes	no
+304	ocot11	four	kùmì	LLʔ	62	no	no
+385	atat11	four	kū̧ù̧	LLʔ	62	no	no
+491	gran11	four	kū̧ù̧ 	LLʔ	62	yes	no
+576	caca11	four	kòmì̧ 	LLʔ	62	yes	no
+636	xaya11	four	kùmì 	LLʔ	62	yes	no
+695	ayut11	four	kùmíʔ	LLʔ	62	no	no
+803	metl11	four	kùmī 	LLʔ	62	yes	no
+872	cahu11	four	kūmī	LLʔ	62	no	no
+936	mixt11	four	kùmǐ	LLʔ	62	no	no
+1003	prog12	four	kòmì	LLʔ	62	no	no
+1081	jica11	four	kúmí	LLʔ	62	no	no
+1130	chay11	four	kùmì	LLʔ	62	no	no
+64	peno11	frog	làʔƀá	HL	36	no	no
+149	coat11	frog	ȼàʔƀá	HL	36	no	yes
+465	gran11	frog	sāʔƀà	HL	36	no	no
+920	mixt11	frog	sàʔƀà	HL	36	no	no
+983	prog12	frog	láʔƀà	HL	36	no	no
+1065	jica11	frog	sāʔƀā	HL	36	no	no
+13	diux11	good	ƀà’ʔá	LH	60	no	no
+86	peno11	good	ƀáʔà	LH	60	no	no
+166	coat11	good	ƀáʔǎ	LH	60	no	no
+240	moli11	good	ƀàʔā	LH	60	no	no
+302	ocot11	good	ƀàʔā	LH	60	no	no
+383	atat11	good	ƀàʔā	LH	60	no	no
+489	gran11	good	ƀàʔā	LH	60	no	no
+574	caca11	good	ƀàʔā	LH	60	no	no
+635	xaya11	good	ƀàʔā	LH	60	no	no
+694	ayut11	good	wàʔà	LH	60	no	no
+744	alac11	good	ƀàʔā	LH	60	no	no
+801	metl11	good	ƀàʔā	LH	60	no	no
+871	cahu11	good	wāʔā	LH	60	no	no
+934	mixt11	good	ƀàʔā	LH	60	no	no
+1001	prog12	good	ƀàʔā	LH	60	no	no
+1080	jica11	good	ƀáʔá	LH	60	no	no
+1128	chay11	good	ƀàʔā	LH	60	no	no
+120	peno11	green	kʷîì	MT	100	no	no
+190	coat11	green	kʷìì	MT	100	no	no
+531	gran11	green	kʷíì	MT	100	no	no
+600	caca11	green	kʷíì	MT	100	no	no
+718	ayut11	green	kʷíìʔ	MT	100	no	no
+899	cahu11	green	kʷíí	MT	100	no	no
+954	mixt11	green	kʷîí	MT	100	no	no
+1035	prog12	green	kʷíī	MT	100	no	no
+1100	jica11	green	kʷìì	MT	100	no	no
+35	peno11	hand	ⁿdàʔà	HHʔ	5	no	no
+133	coat11	hand	ⁿdàʔà	HHʔ	5	no	no
+202	moli11	hand	ⁿdāʔā 	HHʔ	5	yes	no
+272	ocot11	hand	ⁿdāʔá	HHʔ	5	no	no
+333	atat11	hand	ⁿdāʔā	HHʔ	5	no	no
+433	gran11	hand	ⁿdāʔā 	HHʔ	5	yes	no
+608	xaya11	hand	ⁿdāʔà 	HHʔ	5	yes	no
+661	ayut11	hand	ⁿdàʔáʔ	HHʔ	5	no	no
+729	alac11	hand	ⁿdàʔā	HHʔ	5	no	no
+767	metl11	hand	ⁿdàʔā	HHʔ	5	no	no
+831	cahu11	hand	ⁿdāʔā	HHʔ	5	no	no
+907	mixt11	hand	ⁿdāʔá	HHʔ	5	no	no
+964	prog12	hand	ⁿdáʔà	HHʔ	5	no	no
+1047	jica11	hand	ⁿdàʔà	HHʔ	5	no	no
+45	peno11	handspan	tòò	HH	17	no	no
+280	ocot11	handspan	tōō	HH	17	no	no
+345	atat11	handspan	tōō	HH	17	no	no
+445	gran11	handspan	tōō	HH	17	no	no
+614	xaya11	handspan	tōō	HH	17	no	no
+668	ayut11	handspan	tòò	HH	17	no	no
+91	peno11	head	dɨ́kɨ́	LLʔ	69	no	no
+247	moli11	head	šìnì 	LLʔ	69	yes	no
+306	ocot11	head	šìnì	LLʔ	69	no	no
+391	atat11	head	šīnì	LLʔ	69	no	no
+498	gran11	head	šīnì 	LLʔ	69	yes	no
+582	caca11	head	đìnì 	LLʔ	69	yes	no
+700	ayut11	head	šīnìʔ	LLʔ	69	no	no
+807	metl11	head	šìnī	LLʔ	69	no	no
+878	cahu11	head	sìnì	LLʔ	69	no	no
+1010	prog12	head	hìnì	LLʔ	69	no	no
+1086	jica11	head	šíní	LLʔ	69	no	no
+1134	chay11	head	šìnì	LLʔ	69	no	no
+107	peno11	herb, bush	žúkú	LL	85	no	no
+256	moli11	herb, bush	žùkù	LL	85	no	no
+316	ocot11	herb, bush	žùkù	LL	85	no	no
+406	atat11	herb, bush	žūkù	LL	85	no	no
+514	gran11	herb, bush	žūkù	LL	85	no	no
+889	cahu11	herb, bush	yǜkǜ	LL	85	no	no
+1142	chay11	herb, bush	yùkù	LL	85	no	no
+68	peno11	hole	žàú	HL	41	no	no
+153	coat11	hole	šáƀǐ	HL	41	no	no
+366	atat11	hole	žāū	HL	41	no	no
+470	gran11	hole	žāù	HL	41	no	no
+625	xaya11	hole	yāƀī	HL	41	no	no
+736	alac11	hole	yāƀì	HL	41	no	no
+855	cahu11	hole	yāwī	HL	41	no	no
+922	mixt11	hole	yàƀì	HL	41	no	no
+987	prog12	hole	žáƀì	HL	41	no	no
+1122	chay11	hole	yāƀì	HL	41	no	no
+1149	atat11	hole	žāƀū	HL	41	no	no
+155	coat11	horse	íđú 	HL	43	no	no
+626	xaya11	horse	īđū 	HL	43	no	no
+56	peno11	house	ƀèʔè	HH	28	no	no
+145	coat11	house	ƀìʔì	HH	28	no	no
+220	moli11	house	ƀēʔē	HH	28	no	no
+283	ocot11	house	ƀēʔē	HH	28	no	no
+356	atat11	house	ƀēʔē	HH	28	no	no
+457	gran11	house	ƀēʔē	HH	28	no	no
+555	caca11	house	ƀēʔē	HH	28	no	no
+617	xaya11	house	ƀēʔē	HH	28	no	no
+673	ayut11	house	wìʔè	HH	28	no	no
+733	alac11	house	ƀēʔē	HH	28	no	no
+778	metl11	house	ƀēʔē	HH	28	no	no
+846	cahu11	house	wēʔē	HH	28	no	no
+915	mixt11	house	ƀēʔē	HH	28	no	no
+978	prog12	house	ƀēʔē	HH	28	no	no
+1057	jica11	house	ƀèʔè	HH	28	no	no
+1116	chay11	house	ƀēʔē	HH	28	no	no
+717	ayut11	important	káʔnúʔ 	MT	98	no	no
+71	peno11	inside	ìní	HL	44	no	no
+229	moli11	inside	īnì	HL	44	no	no
+292	ocot11	inside	īnì	HL	44	no	no
+368	atat11	inside	īnī	HL	44	no	no
+473	gran11	inside	īnì	HL	44	no	no
+684	ayut11	inside	ìnì	HL	44	no	no
+789	metl11	inside	īnī	HL	44	no	no
+858	cahu11	inside	īnī	HL	44	no	no
+989	prog12	inside	īnī	HL	44	no	no
+1102	jica11	it is yellow	kʷà̧ā̧-čí 	MT	103	no	no
+710	ayut11	leaf	yūkù 	LL	85	no	no
+61	peno11	lime	kàkà	HL	33	no	no
+360	atat11	lime	kākā	HL	33	no	no
+462	gran11	lime	kākà	HL	33	no	no
+676	ayut11	lime	kàkà	HL	33	no	no
+782	metl11	lime	kākā’	HL	33	no	no
+849	cahu11	lime	kākā	HL	33	no	no
+918	mixt11	lime	kākà	HL	33	no	no
+1062	jica11	lime	kākā	HL	33	no	no
+30	diux11	little	'lùčì	MT	108	no	no
+127	peno11	little	líʔlì	MT	108	no	no
+197	coat11	little	lùʔⁿdí	MT	108	no	yes
+268	moli11	little	lūlī	MT	108	no	no
+326	ocot11	little	lūlí	MT	108	no	no
+426	atat11	little	lùlí	MT	108	no	no
+539	gran11	little	lúlí	MT	108	no	no
+605	caca11	little	līlūū	MT	108	no	no
+725	ayut11	little	lúlú	MT	108	no	no
+905	cahu11	little	lōʔō	MT	108	no	no
+959	mixt11	little	lūū	MT	108	no	no
+1041	prog12	little	lōʔō	MT	108	no	no
+1106	jica11	little	lùʔù	MT	108	no	no
+1147	chay11	little	lúʔlū	MT	108	no	no
+117	peno11	long	kâní	MT	97	no	no
+187	coat11	long	kànì̧	MT	97	no	no
+263	moli11	long	kání	MT	97	no	no
+319	ocot11	long	kání	MT	97	no	no
+418	atat11	long	kánī	MT	97	no	no
+528	gran11	long	kánī	MT	97	no	no
+598	caca11	long	kánì̧	MT	97	no	no
+716	ayut11	long	kánìʔ	MT	97	no	no
+759	alac11	long	kánì	MT	97	no	no
+1143	chay11	long	káñí	MT	97	no	no
+74	peno11	man	téè	LH	47	no	no
+232	moli11	man	tèē	LH	47	no	no
+295	ocot11	man	tèē	LH	47	no	no
+371	atat11	man	tèē	LH	47	no	no
+476	gran11	man	čàā	LH	47	no	no
+628	xaya11	man	tʸàā	LH	47	no	no
+685	ayut11	man	tʸāà	LH	47	no	no
+791	metl11	man	tʸàā	LH	47	no	no
+926	mixt11	man	čàā	LH	47	no	no
+992	prog12	man	tàà	LH	47	no	no
+77	peno11	meat	kùñú	LH	51	no	no
+160	coat11	meat	kùñú̧	LH	51	no	yes
+297	ocot11	meat	kùñū	LH	51	no	no
+375	atat11	meat	kùñū	LH	51	no	no
+480	gran11	meat	kùñū	LH	51	no	no
+569	caca11	meat	kò̧ñō̧	LH	51	no	no
+740	alac11	meat	kùñō̧	LH	51	no	no
+795	metl11	meat	kùñù	LH	51	no	no
+863	cahu11	meat	kùñū̧	LH	51	no	no
+14	diux11	medicine	tá’tná̧	LLʔ	61	no	no
+241	moli11	medicine	tàtà̧	LLʔ	61	no	no
+303	ocot11	medicine	tà̧tà̧	LLʔ	61	no	no
+384	atat11	medicine	tāNà	LLʔ	61	no	no
+490	gran11	medicine	tānà	LLʔ	61	no	no
+575	caca11	medicine	tàtà 	LLʔ	61	yes	no
+802	metl11	medicine	tàtà̧ 	LLʔ	61	yes	no
+935	mixt11	medicine	tàtǎ	LLʔ	61	no	no
+1002	prog12	medicine	tàtà	LLʔ	61	no	no
+1129	chay11	medicine	tàtà	LLʔ	61	no	no
+1150	metl11	medicine	tàtā̧ 	LLʔ	61	yes	no
+159	coat11	metal	kàá	LH	50	no	yes
+234	moli11	metal	kàā	LH	50	no	no
+296	ocot11	metal	kàā	LH	50	no	no
+374	atat11	metal	kàā	LH	50	no	no
+479	gran11	metal	kàā	LH	50	no	no
+568	caca11	metal	kàā	LH	50	no	no
+629	xaya11	metal	kàā	LH	50	no	no
+688	ayut11	metal	kàà	LH	50	no	no
+794	metl11	metal	kàà	LH	50	no	no
+862	cahu11	metal	kàà	LH	50	no	no
+929	mixt11	metal	kàā	LH	50	no	no
+994	prog12	metal	kàà	LH	50	no	no
+1074	jica11	metal	káā	LH	50	no	no
+97	peno11	moon	žóó	LLʔ	75	no	no
+175	coat11	moon	šóǒ	LLʔ	75	no	no
+251	moli11	moon	žòò 	LLʔ	75	yes	no
+397	atat11	moon	žōò	LLʔ	75	no	no
+504	gran11	moon	žōò	LLʔ	75	no	no
+750	alac11	moon	yòò	LLʔ	75	no	no
+883	cahu11	moon	yòò	LLʔ	75	no	no
+945	mixt11	moon	yòó	LLʔ	75	no	no
+1015	prog12	moon	žòò	LLʔ	75	no	no
+1090	jica11	moon	yóó	LLʔ	75	no	no
+1139	chay11	moon	yòò	LLʔ	75	no	no
+37	peno11	mountain	žùkù	HHʔ	8	no	no
+205	moli11	mountain	žūkū 	HHʔ	8	yes	no
+275	ocot11	mountain	žūkū	HHʔ	8	no	no
+336	atat11	mountain	žūkū	HHʔ	8	no	no
+436	gran11	mountain	žūkū 	HHʔ	8	yes	no
+833	cahu11	mountain	yǖkǜ	HHʔ	8	no	no
+967	prog12	mountain	žǘkǜ	HHʔ	8	no	no
+1110	chay11	mountain	yūkū	HHʔ	8	no	no
+39	peno11	mouth	žùʔù	HHʔ	10	no	no
+135	coat11	mouth	šùʔù	HHʔ	10	no	no
+206	moli11	mouth	žūʔū 	HHʔ	10	yes	no
+277	ocot11	mouth	žūʔú	HHʔ	10	no	no
+338	atat11	mouth	žūʔū	HHʔ	10	no	no
+438	gran11	mouth	žūʔū 	HHʔ	10	yes	no
+548	caca11	mouth	žūʔū 	HHʔ	10	yes	no
+665	ayut11	mouth	yùʔúʔ	HHʔ	10	no	no
+730	alac11	mouth	yūʔù	HHʔ	10	no	no
+770	metl11	mouth	yùʔū	HHʔ	10	no	no
+835	cahu11	mouth	yǖʔǖ	HHʔ	10	no	no
+910	mixt11	mouth	yūʔú	HHʔ	10	no	no
+968	prog12	mouth	žǘʔǜ	HHʔ	10	no	no
+1112	chay11	mouth	yūʔū	HHʔ	10	no	no
+21	diux11	nephew	đà’ší	LL	83	no	no
+105	peno11	nephew	đáší̧	LL	83	no	no
+314	ocot11	nephew	sàxì̧	LL	83	no	no
+404	atat11	nephew	sāxì̧	LL	83	no	no
+512	gran11	nephew	sāxì̧	LL	83	no	no
+645	xaya11	nephew	đášì	LL	83	no	no
+709	ayut11	nephew	sāšì̧	LL	83	no	no
+815	metl11	nephew	sāšī̧	LL	83	no	no
+887	cahu11	nephew	sāšī̧	LL	83	no	no
+1022	prog12	nephew	hàšì	LL	83	no	no
+126	peno11	new	sàà	MT	107	no	no
+196	coat11	new	šèě	MT	107	no	no
+325	ocot11	new	xēé	MT	107	no	no
+425	atat11	new	xēé	MT	107	no	no
+538	gran11	new	xáá	MT	107	no	no
+604	caca11	new	sàà	MT	107	no	no
+762	alac11	new	šāá	MT	107	no	no
+958	mixt11	new	ȼǎā	MT	107	no	no
+1040	prog12	new	sàá	MT	107	no	no
+1105	jica11	new	čàà	MT	107	no	no
+1146	chay11	new	sāá	MT	107	no	no
+20	diux11	niece	đí’kú	LL	82	no	no
+104	peno11	niece	đíkú	LL	82	no	no
+313	ocot11	niece	šìkù	LL	82	no	no
+403	atat11	niece	šīkù	LL	82	no	no
+511	gran11	niece	šīkù	LL	82	no	no
+644	xaya11	niece	đīkū	LL	82	no	no
+708	ayut11	niece	sīkù	LL	82	no	no
+814	metl11	niece	šīkū	LL	82	no	no
+1021	prog12	niece	hǜkǜ	LL	82	no	no
+24	diux11	nine	ɨ̧́’ɨ̧́	LL	88	no	no
+110	peno11	nine	ɨ̧́ɨ̧́	LL	88	no	no
+258	moli11	nine	ì̧ì̧	LL	88	no	no
+409	atat11	nine	ɨ̧̄ɨ̧̀	LL	88	no	no
+517	gran11	nine	ɨ̧̄ɨ̧̀	LL	88	no	no
+594	caca11	nine	ì̧ì̧	LL	88	no	no
+648	xaya11	nine	ì̧ì̧	LL	88	no	no
+891	cahu11	nine	ì̧ì̧	LL	88	no	no
+948	mixt11	nine	ì̧ì̧	LL	88	no	no
+1026	prog12	nine	ì̧ì̧	LL	88	no	no
+1094	jica11	nine	í̧í̧	LL	88	no	no
+55	peno11	now	ƀìtà̧	HH	27	no	no
+219	moli11	now	ƀītā̧	HH	27	no	no
+355	atat11	now	ƀīNā	HH	27	no	no
+455	gran11	now	ƀīnā	HH	27	no	no
+456	gran11	now	ƀītā̧	HH	27	no	no
+554	caca11	now	ƀīčī	HH	27	no	no
+616	xaya11	now	ƀīčī	HH	27	no	no
+672	ayut11	now	wìtì̧	HH	27	no	no
+732	alac11	now	ƀītī̧	HH	27	no	no
+845	cahu11	now	wītnī	HH	27	no	no
+977	prog12	now	ƀītī	HH	27	no	no
+1056	jica11	now	ƀìtì̧	HH	27	no	no
+1115	chay11	now	ƀītʸī	HH	27	no	no
+4	diux11	one	ɨ̧̀ɨ̧̀	HH	30	no	no
+58	peno11	one	ɨ̧̀ɨ̧̀	HH	30	no	no
+222	moli11	one	ī̧ī̧	HH	30	no	no
+358	atat11	one	ī̧ī̧	HH	30	no	no
+459	gran11	one	ī̧ī̧	HH	30	no	no
+556	caca11	one	ī̧ī̧	HH	30	no	no
+619	xaya11	one	ī̧ī̧	HH	30	no	no
+674	ayut11	one	ì̧ì̧	HH	30	no	no
+779	metl11	one	ī̧ī̧	HH	30	no	no
+847	cahu11	one	í̧í̧	HH	30	no	no
+916	mixt11	one	ī̧ī̧	HH	30	no	no
+979	prog12	one	ī̧ī̧	HH	30	no	no
+1059	jica11	one	ì̧ì̧	HH	30	no	no
+1117	chay11	one	ī̧ī̧	HH	30	no	no
+5	diux11	paper	tú'tú	HL	31	no	no
+59	peno11	paper	tùtú	HL	31	no	no
+146	coat11	paper	túʔtú	HL	31	no	no
+223	moli11	paper	tūtù	HL	31	no	no
+359	atat11	paper	tūtū	HL	31	no	no
+460	gran11	paper	tūtù	HL	31	no	no
+557	caca11	paper	tūtù	HL	31	no	no
+620	xaya11	paper	tūtū	HL	31	no	no
+675	ayut11	paper	tùtù	HL	31	no	no
+780	metl11	paper	tūtū	HL	31	no	no
+917	mixt11	paper	tūtù	HL	31	no	no
+980	prog12	paper	tǖtǖ	HL	31	no	no
+1060	jica11	paper	tūtū	HL	31	no	no
+1118	chay11	paper	tūtù	HL	31	no	no
+128	peno11	people	ñá-žɨ̀ù	MT	109	no	no
+269	moli11	people	ñà-žīƀī	MT	109	no	no
+327	ocot11	people	ⁿǰīƀì	MT	109	no	no
+427	atat11	people	ñà-žūū	MT	109	no	no
+540	gran11	people	ñà-žɨ̄ƀɨ̄	MT	109	no	no
+726	ayut11	people	nè-yíwìʔ	MT	109	no	no
+763	alac11	people	nì̧ƀī	MT	109	no	no
+826	metl11	people	yūúƀī	MT	109	no	no
+1042	prog12	people	žīƀī	MT	109	no	no
+1107	jica11	people	ñíƀí	MT	109	no	no
+1148	chay11	people	ñì-yɨ̄ƀɨ̄	MT	109	no	no
+123	peno11	poor	ⁿdâʔú	MT	104	no	no
+194	coat11	poor	ⁿdàʔƀí	MT	104	no	yes
+265	moli11	poor	ⁿdáʔƀí	MT	104	no	no
+322	ocot11	poor	ⁿdáʔƀí	MT	104	no	no
+422	atat11	poor	ⁿdáʔú	MT	104	no	no
+535	gran11	poor	ⁿdáʔú	MT	104	no	no
+656	xaya11	poor	ⁿdàʔƀí	MT	104	no	no
+722	ayut11	poor	ⁿdàʔwí	MT	104	no	no
+903	cahu11	poor	ⁿdāʔwī	MT	104	no	no
+1145	chay11	poor	ⁿdāʔƀí	MT	104	no	no
+125	peno11	precious metal	đí̧ʔú̧	MT	106	no	no
+195	coat11	precious metal	đyúʔǔ	MT	106	no	no
+267	moli11	precious metal	šù̧ʔū̧	MT	106	no	no
+324	ocot11	precious metal	šù̧ʔú̧	MT	106	no	no
+424	atat11	precious metal	šù̧ʔú̧	MT	106	no	no
+537	gran11	precious metal	šù̧ʔú̧	MT	106	no	no
+724	ayut11	precious metal	šù̧ʔú̧ʔ	MT	106	no	no
+957	mixt11	precious metal	šǔ̧ʔū̧	MT	106	no	no
+1039	prog12	precious metal	hyù̧ʔú̧	MT	106	no	no
+1104	jica11	precious metal	šú̧ʔú̧	MT	106	no	no
+113	peno11	rat	tɨ̀ñɨ̀	MT	92	no	no
+413	atat11	rat	Nɨ́ñɨ́	MT	92	no	no
+521	gran11	rat	tɨ̄ní	MT	92	no	no
+819	metl11	rat	tì̧ī̧	MT	92	no	no
+1030	prog12	rat	tì̧í̧	MT	92	no	no
+1098	jica11	rat	tɨ̄ñɨ́	MT	92	no	no
+121	peno11	red	tɨ̀-kʷêʔé	MT	102	no	no
+192	coat11	red	kʷèʔé	MT	102	no	yes
+533	gran11	red	kʷáʔá	MT	102	no	no
+601	caca11	red	kʷàʔá	MT	102	no	no
+654	xaya11	red	kʷàʔá	MT	102	no	no
+720	ayut11	red	kʷáʔá	MT	102	no	no
+760	alac11	red	kʷáʔá	MT	102	no	no
+824	metl11	red	kʷáʔā	MT	102	no	no
+901	cahu11	red	kʷáʔá	MT	102	no	no
+955	mixt11	red	kʷáʔà	MT	102	no	no
+1036	prog12	red	kʷáʔá	MT	102	no	no
+84	peno11	river	žútè	LH	58	no	no
+238	moli11	river	žùtē	LH	58	no	no
+301	ocot11	river	žùtē	LH	58	no	no
+381	atat11	river	žùtē	LH	58	no	no
+487	gran11	river	žùčā	LH	58	no	no
+799	metl11	river	ítʸā	LH	58	no	no
+869	cahu11	river	yǜtā	LH	58	no	no
+932	mixt11	river	yùčā	LH	58	no	no
+999	prog12	river	žǜtā	LH	58	no	no
+1079	jica11	river	yútá	LH	58	no	no
+43	peno11	road	ìčì	HHʔ	15	no	no
+210	moli11	road	īčī	HHʔ	15	no	no
+278	ocot11	road	īčī	HHʔ	15	no	no
+343	atat11	road	īčī	HHʔ	15	no	no
+443	gran11	road	īčī 	HHʔ	15	yes	no
+773	metl11	road	īčí	HHʔ	15	no	no
+839	cahu11	road	yīčī	HHʔ	15	no	no
+972	prog12	road	íčì	HHʔ	15	no	no
+1053	jica11	road	ìtì	HHʔ	15	no	no
+1114	chay11	road	ītʸī	HHʔ	15	no	no
+42	peno11	rope	žòʔò	HHʔ	14	no	no
+137	coat11	rope	šòʔò	HHʔ	14	no	no
+209	moli11	rope	žōʔō	HHʔ	14	no	no
+342	atat11	rope	žōʔō	HHʔ	14	no	no
+442	gran11	rope	žōʔō 	HHʔ	14	yes	no
+549	caca11	rope	žōʔò	HHʔ	14	no	no
+612	xaya11	rope	yōʔò	HHʔ	14	no	no
+772	metl11	rope	yōʔó	HHʔ	14	no	no
+913	mixt11	rope	yōʔó	HHʔ	14	no	no
+971	prog12	rope	žóʔò	HHʔ	14	no	no
+1052	jica11	rope	yòʔò	HHʔ	14	no	no
+1113	chay11	rope	yōʔō	HHʔ	14	no	no
+170	coat11	sandal	ⁿdíʔšȩ̌	LLʔ	66	no	no
+388	atat11	sandal	ⁿdīxȩ̀	LLʔ	66	no	no
+495	gran11	sandal	ⁿdīxà̧ 	LLʔ	66	yes	no
+579	caca11	sandal	ⁿdìsà	LLʔ	66	no	no
+638	xaya11	sandal	ⁿdìsà̧	LLʔ	66	no	no
+698	ayut11	sandal	ⁿdīšà̧ʔ	LLʔ	66	no	no
+875	cahu11	sandal	ⁿdǜsà	LLʔ	66	no	no
+939	mixt11	sandal	ⁿzìȼǎ	LLʔ	66	no	no
+1007	prog12	sandal	ⁿdǜsà	LLʔ	66	no	no
+27	diux11	sibling's husband	kà’đá	MT	96	no	no
+116	peno11	sibling's husband	kàđà	MT	96	no	no
+186	coat11	sibling's husband	kàđá	MT	96	no	yes
+318	ocot11	sibling's husband	kàsá	MT	96	no	no
+417	atat11	sibling's husband	kàsá	MT	96	no	no
+527	gran11	sibling's husband	kàsá	MT	96	no	no
+652	xaya11	sibling's husband	kāđà	MT	96	no	no
+715	ayut11	sibling's husband	kàsáʔ	MT	96	no	no
+821	metl11	sibling's husband	kāsā	MT	96	no	no
+1033	prog12	sibling's husband	kàhá	MT	96	no	no
+11	diux11	sibling's wife	šà’nú	LH	55	no	no
+81	peno11	sibling's wife	sánù	LH	55	no	no
+163	coat11	sibling's wife	ènú	LH	55	no	yes
+300	ocot11	sibling's wife	xànū	LH	55	no	no
+378	atat11	sibling's wife	xènū	LH	55	no	no
+484	gran11	sibling's wife	xànū	LH	55	no	no
+633	xaya11	sibling's wife	sànū	LH	55	no	no
+691	ayut11	sibling's wife	šànù	LH	55	no	no
+798	metl11	sibling's wife	sānù	LH	55	no	no
+866	cahu11	sibling's wife	šānō	LH	55	no	no
+998	prog12	sibling's wife	sànù	LH	55	no	no
+1077	jica11	sibling's wife	čánū	LH	55	no	no
+19	diux11	sister	kú’ʔú	LL	78	no	no
+100	peno11	sister	kúʔú	LL	78	no	no
+253	moli11	sister	kùʔù	LL	78	no	no
+311	ocot11	sister	kùʔù	LL	78	no	no
+400	atat11	sister	kùʔù	LL	78	no	no
+507	gran11	sister	kùʔù	LL	78	no	no
+587	caca11	sister	kùʔù	LL	78	no	no
+642	xaya11	sister	kùʔù	LL	78	no	no
+705	ayut11	sister	kūʔwà	LL	78	no	no
+811	metl11	sister	kūʔƀī	LL	78	no	no
+1017	prog12	sister	kìʔƀì	LL	78	no	no
+191	coat11	small (in pieces)	kʷèčì	MT	101	no	no
+264	moli11	small (in pieces)	kʷéčì	MT	101	no	no
+532	gran11	small (in pieces)	kʷáčí	MT	101	no	no
+653	xaya11	small (in pieces)	kʷātī	MT	101	no	no
+719	ayut11	small (in pieces)	kʷáčí	MT	101	no	no
+823	metl11	small (in pieces)	kʷàčī	MT	101	no	no
+900	cahu11	small (in pieces)	kʷāčí	MT	101	no	no
+1101	jica11	small (in pieces)	kʷàtì	MT	101	no	no
+88	peno11	snake	kóó	LLʔ	65	no	no
+169	coat11	snake	kóǒ	LLʔ	65	no	no
+245	moli11	snake	kòò 	LLʔ	65	yes	no
+387	atat11	snake	kōò	LLʔ	65	no	no
+494	gran11	snake	kōò 	LLʔ	65	yes	no
+578	caca11	snake	kòò	LLʔ	65	no	no
+637	xaya11	snake	kòò	LLʔ	65	no	no
+697	ayut11	snake	kōòʔ	LLʔ	65	no	no
+746	alac11	snake	kòò	LLʔ	65	no	no
+805	metl11	snake	kōò 	LLʔ	65	yes	no
+938	mixt11	snake	kòó	LLʔ	65	no	no
+1006	prog12	snake	kòò	LLʔ	65	no	no
+1083	jica11	snake	kóó	LLʔ	65	no	no
+1132	chay11	snake	kòò	LLʔ	65	no	no
+93	peno11	soap	námá	LLʔ	71	no	no
+248	moli11	soap	nàmà 	LLʔ	71	yes	no
+393	atat11	soap	nāmà	LLʔ	71	no	no
+500	gran11	soap	nāmà	LLʔ	71	no	no
+584	caca11	soap	nàmà 	LLʔ	71	yes	no
+701	ayut11	soap	nāmàʔ	LLʔ	71	no	no
+808	metl11	soap	nàmà	LLʔ	71	yes	no
+942	mixt11	soap	nàmǎ	LLʔ	71	no	no
+1012	prog12	soap	nà̧mà̧	LLʔ	71	no	no
+1136	chay11	soap	nàmà	LLʔ	71	no	no
+1152	metl11	soap	nàmā	LLʔ	71	yes	no
+73	peno11	stomach	šɨ̀tɨ́	LH	46	no	no
+231	moli11	stomach	čìī	LH	46	no	no
+294	ocot11	stomach	čìhī	LH	46	no	no
+370	atat11	stomach	čìhī	LH	46	no	no
+475	gran11	stomach	čìī	LH	46	no	no
+566	caca11	stomach	tìšī	LH	46	no	no
+790	metl11	stomach	tīšī	LH	46	no	no
+860	cahu11	stomach	tīšī	LH	46	no	no
+925	mixt11	stomach	tīȼī	LH	46	no	no
+991	prog12	stomach	tìšī	LH	46	no	no
+1071	jica11	stomach	tíčí	LH	46	no	no
+18	diux11	stone	žú’ú	LLʔ	74	no	no
+96	peno11	stone	žúú	LLʔ	74	no	no
+174	coat11	stone	šúǔ	LLʔ	74	no	no
+309	ocot11	stone	žùù	LLʔ	74	no	no
+396	atat11	stone	žūù	LLʔ	74	no	no
+503	gran11	stone	žūù	LLʔ	74	no	no
+585	caca11	stone	žùù	LLʔ	74	no	no
+641	xaya11	stone	yùù 	LLʔ	74	yes	no
+703	ayut11	stone	yūùʔ	LLʔ	74	no	no
+749	alac11	stone	yùù	LLʔ	74	no	no
+810	metl11	stone	yùū	LLʔ	74	no	no
+882	cahu11	stone	yǜǜ	LLʔ	74	no	no
+944	mixt11	stone	yùú	LLʔ	74	no	no
+1089	jica11	stone	yúú	LLʔ	74	no	no
+1138	chay11	stone	yùù	LLʔ	74	no	no
+60	peno11	stool	tèžú	HL	32	no	no
+461	gran11	stool	tēžù	HL	32	no	no
+558	caca11	stool	tēì	HL	32	no	no
+734	alac11	stool	tāyì	HL	32	no	no
+781	metl11	stool	tʸāyù	HL	32	no	no
+848	cahu11	stool	tāyī	HL	32	no	no
+1061	jica11	stool	tāyū	HL	32	no	no
+1119	chay11	stool	tēì	HL	32	no	no
+38	peno11	straw mat	žùù	HHʔ	9	no	no
+276	ocot11	straw mat	žūū	HHʔ	9	no	no
+337	atat11	straw mat	žūū	HHʔ	9	no	no
+437	gran11	straw mat	žūū 	HHʔ	9	yes	no
+547	caca11	straw mat	žūù 	HHʔ	9	yes	no
+610	xaya11	straw mat	yūì	HHʔ	9	no	no
+664	ayut11	straw mat	yìwìʔ	HHʔ	9	no	no
+769	metl11	straw mat	yūƀì 	HHʔ	9	yes	no
+834	cahu11	straw mat	yīwí	HHʔ	9	no	no
+909	mixt11	straw mat	yùƀǐ	HHʔ	9	no	no
+1050	jica11	straw mat	yùƀì	HHʔ	9	no	no
+1111	chay11	straw mat	yūū	HHʔ	9	no	no
+109	peno11	sweet	sá-ƀìdí	LL	87	no	no
+180	coat11	sweet	ƀí̧dǐ̧	LL	87	no	no
+257	moli11	sweet	ƀìšì	LL	87	no	no
+408	atat11	sweet	ƀīšì	LL	87	no	no
+516	gran11	sweet	ƀīšì	LL	87	no	no
+593	caca11	sweet	ƀìđì	LL	87	no	no
+647	xaya11	sweet	ƀìđì	LL	87	no	no
+817	metl11	sweet	ƀìšì	LL	87	no	no
+890	cahu11	sweet	wīsī	LL	87	no	no
+1025	prog12	sweet	ƀìhì	LL	87	no	no
+23	diux11	thread	žú’ʔá	LL	86	no	no
+108	peno11	thread	žúʔá	LL	86	no	no
+179	coat11	thread	šúʔƀé	LL	86	no	no
+407	atat11	thread	žūʔƀà	LL	86	no	no
+515	gran11	thread	žūʔà	LL	86	no	no
+592	caca11	thread	žùʔà	LL	86	no	no
+646	xaya11	thread	yùʔà	LL	86	no	no
+754	alac11	thread	yìʔƀà	LL	86	no	no
+1093	jica11	thread	yūʔƀā	LL	86	no	no
+48	peno11	to be	kùù	HH	20	no	no
+139	coat11	to be	kùƀì	HH	20	no	no
+214	moli11	to be	kūū	HH	20	no	no
+348	atat11	to be	kūū	HH	20	no	no
+448	gran11	to be	kūū	HH	20	no	no
+615	xaya11	to be	kūū	HH	20	no	no
+775	metl11	to be	kūƀī	HH	20	no	no
+974	prog12	to be	kūū	HH	20	no	no
+50	peno11	to be born	kàkù	HH	22	no	no
+282	ocot11	to be born	kākū	HH	22	no	no
+350	atat11	to be born	kākū	HH	22	no	no
+450	gran11	to be born	kākū	HH	22	no	no
+842	cahu11	to be born	kākū	HH	22	no	no
+51	peno11	to burn	kàʔmì	HH	23	no	no
+141	coat11	to burn	kàʔmì̧	HH	23	no	no
+351	atat11	to burn	kāʔmū	HH	23	no	no
+451	gran11	to burn	kāʔmū	HH	23	no	no
+553	caca11	to burn	kāʔmā̧	HH	23	no	no
+843	cahu11	to burn	kāʔmī	HH	23	no	no
+54	peno11	to buy	kʷà̧à̧	HH	26	no	no
+144	coat11	to buy	kʷì̧ì̧	HH	26	no	no
+218	moli11	to buy	kʷā̧ā̧	HH	26	no	no
+354	atat11	to buy	kʷā̧ā̧	HH	26	no	no
+454	gran11	to buy	kʷā̧ā̧	HH	26	no	no
+976	prog12	to buy	kʷȩ̄ȩ̀	HH	26	no	no
+46	peno11	to come	kìšì	HH	18	no	no
+212	moli11	to come	kīī	HH	18	no	no
+346	atat11	to come	kīxī	HH	18	no	no
+446	gran11	to come	kīī	HH	18	no	no
+551	caca11	to come	kīšī	HH	18	no	no
+669	ayut11	to come	kìšì	HH	18	no	no
+841	cahu11	to come	kísī	HH	18	no	no
+1054	jica11	to come	kíčì	HH	18	no	no
+101	peno11	to cut	kèʔⁿdé	LL	79	no	no
+177	coat11	to cut	káʔⁿdé	LL	79	no	yes
+401	atat11	to cut	kāʔⁿdè	LL	79	no	no
+508	gran11	to cut	kāʔⁿǰà	LL	79	no	no
+588	caca11	to cut	tèʔⁿdè	LL	79	no	no
+643	xaya11	to cut	tàʔⁿdè	LL	79	no	no
+706	ayut11	to cut	kāʔⁿdʸà	LL	79	no	no
+812	metl11	to cut	kāʔⁿdʸā	LL	79	no	no
+884	cahu11	to cut	kāʔⁿdā	LL	79	no	no
+1091	jica11	to cut	kàʔⁿdà	LL	79	no	no
+53	peno11	to drink	kòʔò	HH	25	no	no
+143	coat11	to drink	kòʔò	HH	25	no	no
+217	moli11	to drink	kōʔō	HH	25	no	no
+353	atat11	to drink	kōʔō	HH	25	no	no
+453	gran11	to drink	kōʔō	HH	25	no	no
+844	cahu11	to drink	kōʔō	HH	25	no	no
+32	peno11	to eat	kàšì	HHʔ	2	no	no
+130	coat11	to eat	káʔší	HHʔ	2	no	no
+199	moli11	to eat	kāā 	HHʔ	2	yes	no
+330	atat11	to eat	kāxī	HHʔ	2	no	no
+430	gran11	to eat	kāxī 	HHʔ	2	yes	no
+543	caca11	to eat	kāà 	HHʔ	2	yes	no
+658	ayut11	to eat	kàšìʔ	HHʔ	2	no	no
+766	metl11	to eat	kāšī	HHʔ	2	no	no
+828	cahu11	to eat	kāšī	HHʔ	2	no	no
+962	prog12	to eat	kāší	HHʔ	2	no	no
+1045	jica11	to eat	káčì	HHʔ	2	no	no
+98	peno11	to go	kɨ̧́ʔɨ̧́	LL	76	no	no
+176	coat11	to go	kɨ̧́ʔɨ̧̌	LL	76	no	no
+252	moli11	to go	kí̧ʔì̧	LL	76	no	no
+310	ocot11	to go	kí̧ʔì̧	LL	76	no	no
+398	atat11	to go	kɨ̧̄ʔɨ̧̀	LL	76	no	no
+505	gran11	to go	kɨ̧̄ʔɨ̧̀	LL	76	no	no
+704	ayut11	to go	kū̧ʔù̧	LL	76	no	no
+751	alac11	to go	kò̧ʔò̧	LL	76	no	no
+1016	prog12	to go	kù̧ʔù̧	LL	76	no	no
+52	peno11	to look	kòtò	HH	24	no	no
+142	coat11	to look	kòʔtò	HH	24	no	no
+216	moli11	to look	kōtō	HH	24	no	no
+352	atat11	to look	kōtō	HH	24	no	no
+452	gran11	to look	kōtō	HH	24	no	no
+671	ayut11	to look	kòtò	HH	24	no	no
+777	metl11	to look	kōtō	HH	24	no	no
+47	peno11	to run	kùnù	HH	19	no	no
+213	moli11	to run	kūnū	HH	19	no	no
+347	atat11	to run	kūnū	HH	19	no	no
+447	gran11	to run	kūnū	HH	19	no	no
+670	ayut11	to run	kùnù	HH	19	no	no
+774	metl11	to run	kūnū	HH	19	no	no
+1055	jica11	to run	kúnú	HH	19	no	no
+124	peno11	to sell	đìkò	MT	105	no	no
+266	moli11	to sell	šìkō	MT	105	no	no
+323	ocot11	to sell	šìkó	MT	105	no	no
+423	atat11	to sell	šìkó	MT	105	no	no
+536	gran11	to sell	šìkó	MT	105	no	no
+603	caca11	to sell	đìkò	MT	105	no	no
+723	ayut11	to sell	šìkòʔ	MT	105	no	no
+904	cahu11	to sell	síkò	MT	105	no	no
+1038	prog12	to sell	hìkó	MT	105	no	no
+1103	jica11	to sell	šíkò	MT	105	no	no
+49	peno11	to sing	kàtà	HH	21	no	no
+140	coat11	to sing	kàʔtà	HH	21	no	no
+215	moli11	to sing	kātā	HH	21	no	no
+281	ocot11	to sing	kātā	HH	21	no	no
+349	atat11	to sing	kātā	HH	21	no	no
+449	gran11	to sing	kātā	HH	21	no	no
+552	caca11	to sing	kātā	HH	21	no	no
+776	metl11	to sing	kātā	HH	21	no	no
+975	prog12	to sing	kātā	HH	21	no	no
+102	peno11	to speak	ká̧ʔá̧	LL	80	no	no
+254	moli11	to speak	kà̧ʔà̧	LL	80	no	no
+312	ocot11	to speak	kà̧ʔà̧	LL	80	no	no
+402	atat11	to speak	kā̧ʔà̧	LL	80	no	no
+509	gran11	to speak	kā̧ʔà̧	LL	80	no	no
+589	caca11	to speak	kà̧ʔà̧	LL	80	no	no
+707	ayut11	to speak	kā̧ʔà̧	LL	80	no	no
+813	metl11	to speak	kā̧ʔā̧	LL	80	no	no
+885	cahu11	to speak	kā̧ʔā̧	LL	80	no	no
+1019	prog12	to speak	kà̧ʔà̧	LL	80	no	no
+1092	jica11	to speak	kà̧ʔā̧	LL	80	no	no
+129	peno11	tongue	žâá	MT	110	no	no
+328	ocot11	tongue	žáá	MT	110	no	no
+428	atat11	tongue	žáá	MT	110	no	no
+541	gran11	tongue	žáā	MT	110	no	no
+606	caca11	tongue	žáà	MT	110	no	no
+657	xaya11	tongue	yàá	MT	110	no	no
+727	ayut11	tongue	yáà	MT	110	no	no
+764	alac11	tongue	láà	MT	110	no	no
+906	cahu11	tongue	yáá	MT	110	no	no
+960	mixt11	tongue	yâá	MT	110	no	no
+1043	prog12	tongue	žáà	MT	110	no	no
+83	peno11	tooth	nú̧ʔù̧	LH	57	no	no
+164	coat11	tooth	nù̧ʔú̧	LH	57	no	yes
+237	moli11	tooth	nù̧ʔū̧	LH	57	no	no
+380	atat11	tooth	Nù̧ʔū̧	LH	57	no	no
+486	gran11	tooth	nù̧ʔū̧	LH	57	no	no
+572	caca11	tooth	nò̧ʔō̧	LH	57	no	no
+868	cahu11	tooth	nò̧ʔō̧	LH	57	no	no
+90	peno11	tortilla	đítá	LLʔ	68	no	no
+171	coat11	tortilla	íʔtǎ	LLʔ	68	no	no
+246	moli11	tortilla	stàà 	LLʔ	68	yes	no
+305	ocot11	tortilla	šìtà	LLʔ	68	no	no
+390	atat11	tortilla	stāà	LLʔ	68	no	no
+497	gran11	tortilla	stāà 	LLʔ	68	yes	no
+581	caca11	tortilla	đìtà 	LLʔ	68	yes	no
+639	xaya11	tortilla	đìtà 	LLʔ	68	yes	no
+699	ayut11	tortilla	štā ̀ʔ	LLʔ	68	no	no
+747	alac11	tortilla	sìtà	LLʔ	68	no	no
+806	metl11	tortilla	sītà	LLʔ	68	no	no
+877	cahu11	tortilla	sītā	LLʔ	68	no	no
+941	mixt11	tortilla	stàá	LLʔ	68	no	no
+1009	prog12	tortilla	hìtà	LLʔ	68	no	no
+1085	jica11	tortilla	šítá	LLʔ	68	no	no
+1133	chay11	tortilla	šìtà	LLʔ	68	no	no
+66	peno11	town	ñùú	HL	39	no	no
+151	coat11	town	ñù̧ú̧	HL	39	no	yes
+226	moli11	town	ñùù	HL	39	no	no
+288	ocot11	town	ñūù	HL	39	no	no
+364	atat11	town	ñūū	HL	39	no	no
+468	gran11	town	ñūù	HL	39	no	no
+563	caca11	town	ñō̧ò̧	HL	39	no	no
+681	ayut11	town	ñùù	HL	39	no	no
+735	alac11	town	ñō̧ō̧	HL	39	no	no
+853	cahu11	town	ñó̧ō̧	HL	39	no	no
+921	mixt11	town	ñūù	HL	39	no	no
+985	prog12	town	ñūū	HL	39	no	no
+1068	jica11	town	ñū̧ū̧	HL	39	no	no
+1121	chay11	town	ñūù	HL	39	no	no
+36	peno11	tree	žùtù̧	HHʔ	7	no	no
+204	moli11	tree	žūtū̧ 	HHʔ	7	yes	no
+274	ocot11	tree	ñū̧tū̧	HHʔ	7	no	no
+335	atat11	tree	žūNū	HHʔ	7	no	no
+435	gran11	tree	žūnū 	HHʔ	7	yes	no
+546	caca11	tree	žītò̧	HHʔ	7	no	no
+663	ayut11	tree	ìtú̧ʔ	HHʔ	7	no	no
+768	metl11	tree	yūtú̧	HHʔ	7	no	no
+832	cahu11	tree	yītnō	HHʔ	7	no	no
+966	prog12	tree	žítò	HHʔ	7	no	no
+1049	jica11	tree	yùtù̧	HHʔ	7	no	no
+184	coat11	turkey hen	ȼú̧ǔ̧	MT	93	no	no
+317	ocot11	turkey hen	čù̧ú̧	MT	93	no	no
+414	atat11	turkey hen	čù̧ú̧	MT	93	no	no
+522	gran11	turkey hen	čù̧ú̧ 	MT	93	no	no
+523	gran11	turkey hen	tī-ñùú	MT	93	no	no
+596	caca11	turkey hen	čò̧ò̧	MT	93	no	no
+712	ayut11	turkey hen	tʸù̧ù̧ʔ	MT	93	no	no
+756	alac11	turkey hen	tì̧ú̧	MT	93	no	no
+895	cahu11	turkey hen	tʸó̧ó̧	MT	93	no	no
+951	mixt11	turkey hen	čù̧ū̧	MT	93	no	no
+25	diux11	two	úú	LL	89	no	no
+111	peno11	two	úú	LL	89	no	no
+181	coat11	two	úƀǐ	LL	89	no	no
+259	moli11	two	ùù	LL	89	no	no
+410	atat11	two	ūù	LL	89	no	no
+518	gran11	two	ūù	LL	89	no	no
+649	xaya11	two	ùì	LL	89	no	no
+711	ayut11	two	ūwì	LL	89	no	no
+892	cahu11	two	ōwī	LL	89	no	no
+1027	prog12	two	ìƀì	LL	89	no	no
+1095	jica11	two	úƀí	LL	89	no	no
+6	diux11	uncle	'đìtò	HL	34	no	no
+62	peno11	uncle	đìtó	HL	34	no	no
+147	coat11	uncle	đító	HL	34	no	yes
+224	moli11	uncle	stōò	HL	34	no	no
+285	ocot11	uncle	šītò	HL	34	no	no
+361	atat11	uncle	stōō	HL	34	no	no
+463	gran11	uncle	stōò	HL	34	no	no
+559	caca11	uncle	đītò	HL	34	no	no
+621	xaya11	uncle	đītò	HL	34	no	no
+677	ayut11	uncle	šìtò	HL	34	no	no
+783	metl11	uncle	šītò	HL	34	no	no
+850	cahu11	uncle	sītō	HL	34	no	no
+919	mixt11	uncle	šītò	HL	34	no	no
+981	prog12	uncle	hìtò	HL	34	no	no
+1063	jica11	uncle	šītō	HL	34	no	no
+467	gran11	wall	nāmà	HL	38	no	no
+562	caca11	wall	nā̧mà̧	HL	38	no	no
+623	xaya11	wall	nāmā	HL	38	no	no
+680	ayut11	wall	nāmà	HL	38	no	no
+786	metl11	wall	nāmà	HL	38	no	no
+1067	jica11	wall	nāmā	HL	38	no	no
+1120	chay11	wall	nāmà	HL	38	no	no
+34	peno11	water	ⁿdùtè	HHʔ	4	no	no
+132	coat11	water	ⁿdùʔtè	HHʔ	4	no	no
+201	moli11	water	ⁿdūtē 	HHʔ	4	yes	no
+271	ocot11	water	ⁿdūtē	HHʔ	4	no	no
+332	atat11	water	ⁿdūtē	HHʔ	4	no	no
+432	gran11	water	ⁿdūčā 	HHʔ	4	yes	no
+660	ayut11	water	ti kʷii	HHʔ	4	no	no
+830	cahu11	water	ta kʷiyi	HHʔ	4	no	no
+1046	jica11	water	ⁿdùtà	HHʔ	4	no	no
+1024	prog12	weeds	žǜkǜ	LL	85	no	no
+119	peno11	white	kʷîší̧	MT	99	no	no
+189	coat11	white	kʷìʔší̧	MT	99	no	yes
+321	ocot11	white	kʷīxí̧	MT	99	no	no
+420	atat11	white	kʷíxí̧	MT	99	no	no
+530	gran11	white	kʷíxí̧	MT	99	no	no
+599	caca11	white	kúší	MT	99	no	no
+953	mixt11	white	kʷíȼì	MT	99	no	no
+208	moli11	woman	ñā̧ʔā̧	HHʔ	13	no	no
+341	atat11	woman	ñā̧ʔā̧	HHʔ	13	no	no
+441	gran11	woman	ñā̧ʔā̧ 	HHʔ	13	yes	no
+611	xaya11	woman	ñā̧ʔà̧	HHʔ	13	no	no
+838	cahu11	woman	ñāʔà	HHʔ	13	no	no
+912	mixt11	woman	ñā̧ʔá̧	HHʔ	13	no	no
+970	prog12	woman	ñá̧ʔà̧	HHʔ	13	no	no
+1051	jica11	woman	ñà̧ʔà̧	HHʔ	13	no	no
+75	peno11	word	túʔù̧	LH	48	no	no
+157	coat11	word	tù̧ʔú̧	LH	48	no	yes
+372	atat11	word	Nù̧ʔū̧	LH	48	no	no
+477	gran11	word	tù̧ʔū̧	LH	48	no	no
+686	ayut11	word	tù̧ʔù̧	LH	48	no	no
+792	metl11	word	tù̧ʔū̧	LH	48	no	no
+861	cahu11	word	tnō̧ʔō̧	LH	48	no	no
+927	mixt11	word	tù̧ʔū̧	LH	48	no	no
+993	prog12	word	tù̧ʔū̧	LH	48	no	no
+1072	jica11	word	tú̧ʔú̧	LH	48	no	no
+1124	chay11	word	tù̧ʔū̧	LH	48	no	no
+44	peno11	work	čî̧ù̧	HH	16	no	no
+138	coat11	work	ȼìñù	HH	16	no	no
+211	moli11	work	tī̧ñū̧	HH	16	no	no
+279	ocot11	work	tīñū	HH	16	no	no
+344	atat11	work	Nīñū	HH	16	no	no
+444	gran11	work	tīñū	HH	16	no	no
+550	caca11	work	čō̧ō̧	HH	16	no	no
+613	xaya11	work	čū̧ū̧	HH	16	no	no
+667	ayut11	work	čù̧ù̧	HH	16	no	no
+731	alac11	work	čīñō̧	HH	16	no	no
+840	cahu11	work	čīñō	HH	16	no	no
+914	mixt11	work	čī̧ū̧	HH	16	no	no
+973	prog12	work	čū̧ū̧	HH	16	no	no
+103	peno11	year	kʷíá	LL	81	no	no
+178	coat11	year	kʷíǎ	LL	81	no	no
+255	moli11	year	kʷìžà	LL	81	no	no
+510	gran11	year	kʷīà	LL	81	no	no
+590	caca11	year	kùà	LL	81	no	no
+886	cahu11	year	kʷīyā	LL	81	no	no
+947	mixt11	year	kʷìà	LL	81	no	no
+1020	prog12	year	kʷyàà	LL	81	no	no
+1140	chay11	year	kʷìyà	LL	81	no	no
+29	diux11	yellow	'kʷà̧à̧	MT	103	no	no
+122	peno11	yellow	kʷâ̧á̧	MT	103	no	no
+193	coat11	yellow	kʷà̧á̧	MT	103	no	no
+421	atat11	yellow	kʷá̧á̧	MT	103	no	no
+534	gran11	yellow	kʷá̧á̧	MT	103	no	no
+602	caca11	yellow	kʷà̧á̧	MT	103	no	no
+655	xaya11	yellow	kʷà̧á̧	MT	103	no	no
+721	ayut11	yellow	kʷá̧á̧	MT	103	no	no
+761	alac11	yellow	kʷá̧á̧	MT	103	no	no
+825	metl11	yellow	kʷá̧á̧	MT	103	no	no
+902	cahu11	yellow	kʷá̧á̧	MT	103	no	no
+956	mixt11	yellow	kʷá̧à̧	MT	103	no	no
+1037	prog12	yellow	kʷá̧á̧	MT	103	no	no
+57	peno11	yesterday	ìkù	HH	29	no	no
+221	moli11	yesterday	īkū	HH	29	no	no
+284	ocot11	yesterday	īkū	HH	29	no	no
+357	atat11	yesterday	īkū	HH	29	no	no
+458	gran11	yesterday	īkū 	HH	29	yes	no
+618	xaya11	yesterday	īkū	HH	29	no	no
+1058	jica11	yesterday	ìkù	HH	29	no	no

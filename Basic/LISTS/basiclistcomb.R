@@ -29,3 +29,6 @@ wl1 %>% count(ID) %>% filter(n > 1)
 
 # export to tsv for further processing
 write_tsv(wl1, "basiclist.tsv")
+
+# to know where to continue IDs
+max(wl1$ID)

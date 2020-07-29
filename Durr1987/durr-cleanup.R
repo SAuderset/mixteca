@@ -49,7 +49,7 @@ dcomb1 <- dcomb1 %>% mutate(value.x = str_remove_all(value.x, "/(M/)|!"))
 glimpse(dcomb1)
 
 # clean up for export, add ID for each entry
-dcomb2 <- dcomb1 %>% filter(!is.na(value.x)) %>%  select( Doculect, Concept = value.y, Form = value.x, PMCouplet = value, CogID_Durr = name)
+dcomb2 <- dcomb1 %>% filter(!is.na(value.x)) %>%  select( Doculect, Concept = value.y, Form = value.x, PMCouplet = value, CogID_Durr = name, ToneMod, CitForm)
 dcomb2 <- dcomb2 %>% mutate(ID = seq_along(1:nrow(dcomb2))) %>% select(ID, everything())
 glimpse(dcomb2)
 
