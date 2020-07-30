@@ -4,7 +4,7 @@ library(stringi)
 
 # read in word list
 
-setwd("/Users/auderset/Documents/GitHub/mixteca/Basic/LISTS")
+setwd("/Users/auderset/Documents/GitHub/mixteca/ComparativeList/LISTS")
 
 # read in all files (delete template file and all unfinished ones first)
 wl <- list.files(pattern = "*.csv") %>% map_df(~read_csv(.))
@@ -14,7 +14,7 @@ head(wl)
 wl %>% count(ID) %>% filter(n > 1)
 
 # restructure, delete rows with NA
-wl1 <- wl %>% select(ID, DOCULECT, CONCEPT, FORM, IDlist, NOTES) %>%
+wl1 <- wl %>% select(ID, DOCULECT, GLOSS, FORM, IDlist, NOTES, SOURCE) %>%
   filter(FORM!="$")
 
 # normalize unicode
