@@ -11,12 +11,13 @@ wl <- list.files(pattern = "*.csv") %>% map_df(~read_csv(.))
 class(wl)
 head(wl)
 
-wl %>% count(ID) %>% filter(n > 1)
-
 # restructure, delete rows with NA
-wl1 <- wl %>% select(ID, DOCULECT, GLOSS, FORM, IDlist, NOTES, SOURCE) %>%
-  filter(FORM!="$")
+wl1 <- wl %>% select(ID, DOCULECT, GLOSS, VALUE, FORM, IDlist, NOTES, SOURCE) %>%
+  filter(VALUE!="$")
+glimpse(wl1)
 
+# copy values to form, if form is empty
+wl1 <- wl1 %>% mutate(FORM = if_else(is.na(FORM), VALUE, FORM))
 # normalize unicode
 wl1$FORM <- stri_trans_nfd(wl1$FORM)
 # lower case
