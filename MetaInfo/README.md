@@ -1,7 +1,16 @@
+# Meta Info on Languages, Communities, and Materials
 
 
 ### Annotated Mixtecan Bibliography
-Based on Glottolog, contains bibliographical information on Mixtecan materials
+based on Glottolog, contains bibliographical information on Mixtecan materials
+annotated also for the following:
+* languages under discussion (for codes see below)
+* whether tone marking is provided or not (TONE)
+* type of material (DOCTYPE)
+* what material I plan to collect from the source
+
+### Sources by language
+derived from the annotated bibliography, but presented by language (instead of by source)
 
 
 ### Mixtecan Concordance
