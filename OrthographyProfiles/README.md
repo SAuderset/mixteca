@@ -1,1 +1,3 @@
-Orthography profile (orthography to IPA) for each source
+# Orthography Profiles
+
+a mapping of graphemes to IPA for each variety
