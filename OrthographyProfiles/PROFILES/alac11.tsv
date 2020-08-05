@@ -1,0 +1,130 @@
+Grapheme1	Grapheme2	IPA	Class	Status	Comments	Source	Doculect
+b	NA	b	consonant	loan	NA	zylstra1991syntactic	alac11
+d	NA	d	consonant	loan	NA	zylstra1991syntactic	alac11
+f	NA	f	consonant	loan	NA	zylstra1991syntactic	alac11
+g	NA	g	consonant	loan	NA	zylstra1991syntactic	alac11
+y	NA	j	consonant	NA	NA	zylstra1980phonology, zylstra1991syntactic	alac11
+k	NA	k	consonant	NA	NA	zylstra1980phonology, zylstra1991syntactic	alac11
+kw	NA	kʷ	consonant	NA	NA	zylstra1980phonology, zylstra1991syntactic	alac11
+l	NA	l	consonant	loan	NA	zylstra1980phonology, zylstra1991syntactic	alac11
+m	NA	m	consonant	NA	NA	zylstra1980phonology, zylstra1991syntactic	alac11
+mb	NA	ᵐb	consonant	NA	NA	zylstra1980phonology, zylstra1991syntactic	alac11
+n	NA	n	consonant	NA	NA	zylstra1980phonology, zylstra1991syntactic	alac11
+nd	NA	ⁿd	consonant	NA	NA	zylstra1980phonology, zylstra1991syntactic	alac11
+ñ	NA	ɲ	consonant	NA	NA	zylstra1980phonology, zylstra1991syntactic	alac11
+ŋg	NA	ᵑg	consonant	NA	NA	zylstra1980phonology	alac11
+p	NA	p	consonant	loan	NA	zylstra1980phonology	alac11
+rr	NA	r	consonant	loan	considered a cluster	zylstra1980phonology	alac11
+ř	NA	ɾ	consonant	NA	NA	zylstra1980phonology	alac11
+r	NA	ɾ	consonant	NA	NA	zylstra1991syntactic	alac11
+s	NA	s	consonant	NA	NA	zylstra1980phonology, zylstra1991syntactic	alac11
+š	NA	ʃ	consonant	NA	NA	zylstra1980phonology	alac11
+sh	NA	ʃ	consonant	NA	NA	zylstra1991syntactic	alac11
+t	NA	t	consonant	NA	NA	zylstra1980phonology, zylstra1991syntactic	alac11
+č	NA	tʃ	consonant	NA	NA	zylstra1980phonology	alac11
+ch	NA	tʃ	consonant	NA	NA	zylstra1991syntactic	alac11
+h	NA	x	consonant	NA	not sure, described as spirant; but her later source suggests a velar fricative	zylstra1980phonology	alac11
+x	NA	x	consonant	NA	NA	zylstra1991syntactic	alac11
+ʔ	NA	ʔ	consonant	NA	NA	zylstra1980phonology	alac11
+NA	h	ʔ	consonant	NA	NA	zylstra1991syntactic	alac11
+v	NA	β	consonant	NA	NA	zylstra1980phonology, zylstra1991syntactic	alac11
+à	NA	a¹	vowel and tone	NA	NA	zylstra1980phonology	alac11
+NA	a	a¹	vowel and tone	NA	NA	Zylstra 1992	alac11
+à̢	NA	ã¹	vowel and tone	NA	NA	zylstra1980phonology	alac11
+an	NA	ã¹	vowel and tone	NA	NA	zylstra1991syntactic	alac11
+aan	NA	ã¹ã¹	vowel and tone	NA	NA	zylstra1991syntactic	alac11
+aān	NA	ã¹ã³	vowel and tone	NA	NA	zylstra1991syntactic	alac11
+aán	NA	ã¹ã⁵	vowel and tone	NA	NA	zylstra1991syntactic	alac11
+a	NA	a³	vowel and tone	NA	NA	zylstra1980phonology	alac11
+ā	NA	a³	vowel and tone	NA	NA	zylstra1991syntactic	alac11
+a̢	NA	ã³	vowel and tone	NA	NA	zylstra1980phonology	alac11
+ān	NA	ã³	vowel and tone	NA	NA	zylstra1991syntactic	alac11
+āan	NA	ã³ã¹	vowel and tone	NA	NA	zylstra1991syntactic	alac11
+āān	NA	ã³ã³	vowel and tone	NA	NA	zylstra1991syntactic	alac11
+āán	NA	ã³ã⁵	vowel and tone	NA	NA	zylstra1991syntactic	alac11
+á	NA	a⁵	vowel and tone	NA	NA	zylstra1980phonology, zylstra1991syntactic	alac11
+á̢	NA	ã⁵	vowel and tone	NA	NA	zylstra1980phonology	alac11
+án	NA	ã⁵	vowel and tone	NA	NA	zylstra1991syntactic	alac11
+áan	NA	ã⁵ã¹	vowel and tone	NA	NA	zylstra1991syntactic	alac11
+áān	NA	ã⁵ã³	vowel and tone	NA	NA	zylstra1991syntactic	alac11
+áán	NA	ã⁵ã⁵	vowel and tone	NA	NA	zylstra1991syntactic	alac11
+NA	e	e¹	vowel and tone	NA	NA	zylstra1991syntactic	alac11
+è	NA	e¹	vowel and tone	NA	NA	zylstra1980phonology	alac11
+è̢	NA	ẽ¹	vowel and tone	NA	NA	zylstra1980phonology	alac11
+en	NA	ẽ¹	vowel and tone	NA	NA	zylstra1991syntactic	alac11
+een	NA	ẽ¹ẽ¹	vowel and tone	NA	NA	zylstra1991syntactic	alac11
+eēn	NA	ẽ¹ẽ³	vowel and tone	NA	NA	zylstra1991syntactic	alac11
+eén	NA	ẽ¹ẽ⁵	vowel and tone	NA	NA	zylstra1991syntactic	alac11
+e	NA	e³	vowel and tone	NA	NA	zylstra1980phonology	alac11
+ē	NA	e³	vowel and tone	NA	NA	zylstra1991syntactic	alac11
+e̢	NA	ẽ³	vowel and tone	NA	NA	zylstra1980phonology	alac11
+ēn	NA	ẽ³	vowel and tone	NA	NA	zylstra1991syntactic	alac11
+ēen	NA	ẽ³ẽ¹	vowel and tone	NA	NA	zylstra1991syntactic	alac11
+ēēn	NA	ẽ³ẽ³	vowel and tone	NA	NA	zylstra1991syntactic	alac11
+ēén	NA	ẽ³ẽ⁵	vowel and tone	NA	NA	zylstra1991syntactic	alac11
+é	NA	e⁵	vowel and tone	NA	NA	zylstra1980phonology, zylstra1991syntactic	alac11
+é̢	NA	ẽ⁵	vowel and tone	NA	NA	zylstra1980phonology	alac11
+én	NA	ẽ⁵	vowel and tone	NA	NA	zylstra1991syntactic	alac11
+éen	NA	ẽ⁵ẽ¹	vowel and tone	NA	NA	zylstra1991syntactic	alac11
+éēn	NA	ẽ⁵ẽ³	vowel and tone	NA	NA	zylstra1991syntactic	alac11
+één	NA	ẽ⁵ẽ⁵	vowel and tone	NA	NA	zylstra1991syntactic	alac11
+NA	i	i¹	vowel and tone	NA	NA	zylstra1991syntactic	alac11
+ì	NA	i¹	vowel and tone	NA	NA	zylstra1980phonology	alac11
+ì̢	NA	ĩ¹	vowel and tone	NA	NA	zylstra1980phonology	alac11
+in	NA	ĩ¹	vowel and tone	NA	NA	zylstra1991syntactic	alac11
+iin	NA	ĩ¹ĩ¹	vowel and tone	NA	NA	zylstra1991syntactic	alac11
+iīn	NA	ĩ¹ĩ³	vowel and tone	NA	NA	zylstra1991syntactic	alac11
+iín	NA	ĩ¹ĩ⁵	vowel and tone	NA	NA	zylstra1991syntactic	alac11
+i	NA	i³	vowel and tone	NA	NA	zylstra1980phonology	alac11
+ī	NA	i³	vowel and tone	NA	NA	zylstra1991syntactic	alac11
+i̢	NA	ĩ³	vowel and tone	NA	NA	zylstra1980phonology	alac11
+īn	NA	ĩ³	vowel and tone	NA	NA	zylstra1991syntactic	alac11
+īin	NA	ĩ³ĩ¹	vowel and tone	NA	NA	zylstra1991syntactic	alac11
+īīn	NA	ĩ³ĩ³	vowel and tone	NA	NA	zylstra1991syntactic	alac11
+īín	NA	ĩ³ĩ⁵	vowel and tone	NA	NA	zylstra1991syntactic	alac11
+í	NA	i⁵	vowel and tone	NA	NA	zylstra1980phonology, zylstra1991syntactic	alac11
+í̢	NA	ĩ⁵	vowel and tone	NA	NA	zylstra1980phonology	alac11
+ín	NA	ĩ⁵	vowel and tone	NA	NA	zylstra1991syntactic	alac11
+íin	NA	ĩ⁵ĩ¹	vowel and tone	NA	NA	zylstra1991syntactic	alac11
+íīn	NA	ĩ⁵ĩ³	vowel and tone	NA	NA	zylstra1991syntactic	alac11
+íín	NA	ĩ⁵ĩ⁵	vowel and tone	NA	NA	zylstra1991syntactic	alac11
+NA	o	o¹	vowel and tone	NA	NA	zylstra1991syntactic	alac11
+ò	NA	o¹	vowel and tone	NA	NA	zylstra1980phonology	alac11
+ò̢	NA	õ¹	vowel and tone	NA	NA	zylstra1980phonology	alac11
+on	NA	õ¹	vowel and tone	NA	NA	zylstra1991syntactic	alac11
+oon	NA	õ¹õ¹	vowel and tone	NA	NA	zylstra1991syntactic	alac11
+oōn	NA	õ¹õ³	vowel and tone	NA	NA	zylstra1991syntactic	alac11
+oón	NA	õ¹õ⁵	vowel and tone	NA	NA	zylstra1991syntactic	alac11
+o	NA	o³	vowel and tone	NA	NA	zylstra1980phonology	alac11
+ō	NA	o³	vowel and tone	NA	NA	zylstra1991syntactic	alac11
+o̢	NA	õ³	vowel and tone	NA	NA	zylstra1980phonology	alac11
+ōn	NA	õ³	vowel and tone	NA	NA	zylstra1991syntactic	alac11
+ōon	NA	õ³õ¹	vowel and tone	NA	NA	zylstra1991syntactic	alac11
+ōōn	NA	õ³õ³	vowel and tone	NA	NA	zylstra1991syntactic	alac11
+ōón	NA	õ³õ⁵	vowel and tone	NA	NA	zylstra1991syntactic	alac11
+ó	NA	o⁵	vowel and tone	NA	NA	zylstra1980phonology, zylstra1991syntactic	alac11
+ó̢	NA	õ⁵	vowel and tone	NA	NA	zylstra1980phonology	alac11
+ón	NA	õ⁵	vowel and tone	NA	NA	zylstra1991syntactic	alac11
+óon	NA	õ⁵õ¹	vowel and tone	NA	NA	zylstra1991syntactic	alac11
+óōn	NA	õ⁵õ³	vowel and tone	NA	NA	zylstra1991syntactic	alac11
+óón	NA	õ⁵õ⁵	vowel and tone	NA	NA	zylstra1991syntactic	alac11
+NA	u	u¹	vowel and tone	NA	NA	zylstra1991syntactic	alac11
+ù	NA	u¹	vowel and tone	NA	NA	zylstra1980phonology	alac11
+ù̢	NA	ũ¹	vowel and tone	NA	NA	zylstra1980phonology	alac11
+un	NA	ũ¹	vowel and tone	NA	NA	zylstra1991syntactic	alac11
+uun	NA	ũ¹ũ¹	vowel and tone	NA	NA	zylstra1991syntactic	alac11
+uūn	NA	ũ¹ũ³	vowel and tone	NA	NA	zylstra1991syntactic	alac11
+uún	NA	ũ¹ũ⁵	vowel and tone	NA	NA	zylstra1991syntactic	alac11
+u	NA	u³	vowel and tone	NA	NA	zylstra1980phonology	alac11
+ū	NA	u³	vowel and tone	NA	NA	zylstra1991syntactic	alac11
+u̢	NA	ũ³	vowel and tone	NA	NA	zylstra1980phonology	alac11
+ūn	NA	ũ³	vowel and tone	NA	NA	zylstra1991syntactic	alac11
+ūun	NA	ũ³ũ¹	vowel and tone	NA	NA	zylstra1991syntactic	alac11
+ūūn	NA	ũ³ũ³	vowel and tone	NA	NA	zylstra1991syntactic	alac11
+ūún	NA	ũ³ũ⁵	vowel and tone	NA	NA	zylstra1991syntactic	alac11
+ú	NA	u⁵	vowel and tone	NA	NA	zylstra1980phonology, zylstra1991syntactic	alac11
+ú̢	NA	ũ⁵	vowel and tone	NA	NA	zylstra1980phonology	alac11
+ún	NA	ũ⁵	vowel and tone	NA	NA	zylstra1991syntactic	alac11
+úun	NA	ũ⁵ũ¹	vowel and tone	NA	NA	zylstra1991syntactic	alac11
+úūn	NA	ũ⁵ũ³	vowel and tone	NA	NA	zylstra1991syntactic	alac11
+úún	NA	ũ⁵ũ⁵	vowel and tone	NA	NA	zylstra1991syntactic	alac11

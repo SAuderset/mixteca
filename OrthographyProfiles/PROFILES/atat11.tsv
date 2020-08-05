@@ -1,0 +1,137 @@
+Grapheme1	Grapheme2	IPA	Class	Status	Comments	Source	Doculect
+b	NA	b	consonant	loan	NA	alexander1980gramatica	atat11
+d	NA	ð	consonant	NA	NA	mak1953comparison	atat11
+f	NA	f	consonant	loan	NA	alexander1980gramatica	atat11
+ll	NA	j	consonant	loan	NA	alexander1980gramatica	atat11
+y	NA	j	consonant	NA	NA	alexander1980gramatica, mak1953comparison	atat11
+c	NA	k	consonant	NA	NA	alexander1980gramatica, mak1953comparison	atat11
+k	NA	k	consonant	loan	NA	alexander1980gramatica	atat11
+qu	NA	k	consonant	NA	NA	alexander1980gramatica, mak1953comparison	atat11
+cu	NA	kʷ	consonant	NA	before vowels	alexander1980gramatica, mak1953comparison	atat11
+l	NA	l	consonant	NA	NA	alexander1980gramatica, mak1953comparison	atat11
+m	NA	m	consonant	NA	NA	alexander1980gramatica, mak1953comparison	atat11
+n	NA	n	consonant	NA	NA	alexander1980gramatica, mak1953comparison	atat11
+nd	NA	ⁿd	consonant	NA	NA	alexander1980gramatica, mak1953comparison	atat11
+ñ	NA	ɲ	consonant	NA	NA	alexander1980gramatica, mak1953comparison	atat11
+ng	NA	ᵑg	consonant	NA	NA	alexander1980gramatica, mak1953comparison	atat11
+p	NA	p	consonant	NA	NA	alexander1980gramatica, mak1953comparison	atat11
+r	NA	ɾ	consonant	NA	NA	alexander1980gramatica, mak1953comparison	atat11
+s	NA	s	consonant	NA	NA	alexander1980gramatica, mak1953comparison	atat11
+x	NA	ʃ	consonant	NA	NA	alexander1980gramatica, mak1953comparison	atat11
+t	NA	t	consonant	NA	NA	alexander1980gramatica, mak1953comparison	atat11
+ch	NA	tʃ	consonant	NA	NA	alexander1980gramatica	atat11
+NA	h	x	consonant	NA	best guess, not entirely sure; I think it freely alternates with h	mak1953comparison	atat11
+j	NA	x	consonant	NA	unsure, no info given except that it's pronounced like Spanish	alexander1980gramatica	atat11
+ž	NA	ʒ	consonant	NA	j in enclitics	mak1953comparison	atat11
+h	NA	ʔ	consonant	NA	NA	alexander1980gramatica	atat11
+ʔ	NA	ʔ	consonant	NA	NA	mak1953comparison	atat11
+b	NA	β	consonant	NA	NA	mak1953comparison	atat11
+v	NA	β	consonant	NA	NA	alexander1980gramatica, mak1953comparison	atat11
+z	NA	θ	consonant	loan	NA	alexander1980gramatica, mak1953comparison	atat11
+4	NA	¹	tone	NA	NA	mak1953comparison	atat11
+2	NA	³	tone	NA	NA	mak1953comparison	atat11
+3	NA	4	tone	NA	best guess	mak1953comparison	atat11
+1	NA	⁵	tone	NA	NA	mak1953comparison	atat11
+a	NA	a	vowel	NA	NA	mak1953comparison	atat11
+a̢	NA	ã	vowel	NA	NA	mak1953comparison	atat11
+e	NA	e	vowel	NA	NA	mak1953comparison	atat11
+e̢	NA	ẽ	vowel	NA	NA	mak1953comparison	atat11
+i	NA	i	vowel	NA	NA	mak1953comparison	atat11
+i̢	NA	ĩ	vowel	NA	NA	mak1953comparison	atat11
+ə	NA	ɨ	vowel	NA	NA	mak1953comparison	atat11
+ə̢	NA	ɨ̃	vowel	NA	NA	mak1953comparison	atat11
+o	NA	o	vowel	NA	NA	mak1953comparison	atat11
+o̢	NA	õ	vowel	NA	NA	mak1953comparison	atat11
+u	NA	u	vowel	NA	NA	mak1953comparison	atat11
+u̢	NA	ũ	vowel	NA	NA	mak1953comparison	atat11
+ā	NA	a¹	vowel and tone	NA	NA	alexander1980gramatica	atat11
+ān	NA	ã¹	vowel and tone	NA	NA	alexander1980gramatica	atat11
+āān	NA	ã¹ã¹	vowel and tone	NA	NA	alexander1980gramatica	atat11
+āan	NA	ã¹ã³	vowel and tone	NA	NA	alexander1980gramatica	atat11
+āán	NA	ã¹ã⁵	vowel and tone	NA	NA	alexander1980gramatica	atat11
+a	NA	a³	vowel and tone	NA	NA	alexander1980gramatica	atat11
+an	NA	ã³	vowel and tone	NA	NA	alexander1980gramatica	atat11
+aān	NA	ã³ã¹	vowel and tone	NA	NA	alexander1980gramatica	atat11
+aan	NA	ã³ã³	vowel and tone	NA	NA	alexander1980gramatica	atat11
+aán	NA	ã³ã⁵	vowel and tone	NA	NA	alexander1980gramatica	atat11
+á	NA	a⁵	vowel and tone	NA	NA	alexander1980gramatica	atat11
+án	NA	ã⁵	vowel and tone	NA	NA	alexander1980gramatica	atat11
+áān	NA	ã⁵ã¹	vowel and tone	NA	NA	alexander1980gramatica	atat11
+áan	NA	ã⁵ã³	vowel and tone	NA	NA	alexander1980gramatica	atat11
+áán	NA	ã⁵ã⁵	vowel and tone	NA	NA	alexander1980gramatica	atat11
+ē	NA	e¹	vowel and tone	NA	NA	alexander1980gramatica	atat11
+ēn	NA	ẽ¹	vowel and tone	NA	NA	alexander1980gramatica	atat11
+ēēn	NA	ẽ¹ẽ¹	vowel and tone	NA	NA	alexander1980gramatica	atat11
+ēen	NA	ẽ¹ẽ³	vowel and tone	NA	NA	alexander1980gramatica	atat11
+ēén	NA	ẽ¹ẽ⁵	vowel and tone	NA	NA	alexander1980gramatica	atat11
+e	NA	e³	vowel and tone	NA	NA	alexander1980gramatica	atat11
+en	NA	ẽ³	vowel and tone	NA	NA	alexander1980gramatica	atat11
+eēn	NA	ẽ³ẽ¹	vowel and tone	NA	NA	alexander1980gramatica	atat11
+een	NA	ẽ³ẽ³	vowel and tone	NA	NA	alexander1980gramatica	atat11
+eén	NA	ẽ³ẽ⁵	vowel and tone	NA	NA	alexander1980gramatica	atat11
+é	NA	e⁵	vowel and tone	NA	NA	alexander1980gramatica	atat11
+én	NA	ẽ⁵	vowel and tone	NA	NA	alexander1980gramatica	atat11
+éēn	NA	ẽ⁵ẽ¹	vowel and tone	NA	NA	alexander1980gramatica	atat11
+éen	NA	ẽ⁵ẽ³	vowel and tone	NA	NA	alexander1980gramatica	atat11
+één	NA	ẽ⁵ẽ⁵	vowel and tone	NA	NA	alexander1980gramatica	atat11
+ī	NA	i¹	vowel and tone	NA	NA	alexander1980gramatica	atat11
+īn	NA	ĩ¹	vowel and tone	NA	NA	alexander1980gramatica	atat11
+īīn	NA	ĩ¹ĩ¹	vowel and tone	NA	NA	alexander1980gramatica	atat11
+īin	NA	ĩ¹ĩ³	vowel and tone	NA	NA	alexander1980gramatica	atat11
+īín	NA	ĩ¹ĩ⁵	vowel and tone	NA	NA	alexander1980gramatica	atat11
+i	NA	i³	vowel and tone	NA	NA	alexander1980gramatica	atat11
+in	NA	ĩ³	vowel and tone	NA	NA	alexander1980gramatica	atat11
+iīn	NA	ĩ³ĩ¹	vowel and tone	NA	NA	alexander1980gramatica	atat11
+iin	NA	ĩ³ĩ³	vowel and tone	NA	NA	alexander1980gramatica	atat11
+iín	NA	ĩ³ĩ⁵	vowel and tone	NA	NA	alexander1980gramatica	atat11
+í	NA	i⁵	vowel and tone	NA	NA	alexander1980gramatica	atat11
+ín	NA	ĩ⁵	vowel and tone	NA	NA	alexander1980gramatica	atat11
+íīn	NA	ĩ⁵ĩ¹	vowel and tone	NA	NA	alexander1980gramatica	atat11
+ɨ́ɨ̄n	NA	ĩ⁵ĩ¹	vowel and tone	NA	NA	alexander1980gramatica	atat11
+íin	NA	ĩ⁵ĩ³	vowel and tone	NA	NA	alexander1980gramatica	atat11
+íín	NA	ĩ⁵ĩ⁵	vowel and tone	NA	NA	alexander1980gramatica	atat11
+ɨ̄	NA	ɨ¹	vowel and tone	NA	NA	alexander1980gramatica	atat11
+ɨ̄n	NA	ɨ̃¹	vowel and tone	NA	NA	alexander1980gramatica	atat11
+ɨ̄ɨ̄n	NA	ɨ̃¹ɨ̃¹	vowel and tone	NA	NA	alexander1980gramatica	atat11
+ɨ̄ɨn	NA	ɨ̃¹ɨ̃³	vowel and tone	NA	NA	alexander1980gramatica	atat11
+ɨ̄ɨ́n	NA	ɨ̃¹ɨ̃⁵	vowel and tone	NA	NA	alexander1980gramatica	atat11
+ɨ	NA	ɨ³	vowel and tone	NA	NA	alexander1980gramatica	atat11
+ɨn	NA	ɨ̃³	vowel and tone	NA	NA	alexander1980gramatica	atat11
+ɨɨ̄n	NA	ɨ̃³ɨ̃¹	vowel and tone	NA	NA	alexander1980gramatica	atat11
+ɨɨn	NA	ɨ̃³ɨ̃³	vowel and tone	NA	NA	alexander1980gramatica	atat11
+ɨɨ́n	NA	ɨ̃³ɨ̃⁵	vowel and tone	NA	NA	alexander1980gramatica	atat11
+ɨ́	NA	ɨ⁵	vowel and tone	NA	NA	alexander1980gramatica	atat11
+ɨ́n	NA	ɨ̃⁵	vowel and tone	NA	NA	alexander1980gramatica	atat11
+ɨ́ɨ̄n	NA	ɨ̃⁵ɨ̃¹	vowel and tone	NA	NA	alexander1980gramatica	atat11
+ɨ́ɨn	NA	ɨ̃⁵ɨ̃³	vowel and tone	NA	NA	alexander1980gramatica	atat11
+ɨ́ɨ́n	NA	ɨ̃⁵ɨ̃⁵	vowel and tone	NA	NA	alexander1980gramatica	atat11
+ō	NA	o¹	vowel and tone	NA	NA	alexander1980gramatica	atat11
+ōn	NA	õ¹	vowel and tone	NA	NA	alexander1980gramatica	atat11
+ōōn	NA	õ¹õ¹	vowel and tone	NA	NA	alexander1980gramatica	atat11
+ōon	NA	õ¹õ³	vowel and tone	NA	NA	alexander1980gramatica	atat11
+ōón	NA	õ¹õ⁵	vowel and tone	NA	NA	alexander1980gramatica	atat11
+o	NA	o³	vowel and tone	NA	NA	alexander1980gramatica	atat11
+on	NA	õ³	vowel and tone	NA	NA	alexander1980gramatica	atat11
+oōn	NA	õ³õ¹	vowel and tone	NA	NA	alexander1980gramatica	atat11
+oon	NA	õ³õ³	vowel and tone	NA	NA	alexander1980gramatica	atat11
+oón	NA	õ³õ⁵	vowel and tone	NA	NA	alexander1980gramatica	atat11
+ó	NA	o⁵	vowel and tone	NA	NA	alexander1980gramatica	atat11
+ón	NA	õ⁵	vowel and tone	NA	NA	alexander1980gramatica	atat11
+óōn	NA	õ⁵õ¹	vowel and tone	NA	NA	alexander1980gramatica	atat11
+óon	NA	õ⁵õ³	vowel and tone	NA	NA	alexander1980gramatica	atat11
+óón	NA	õ⁵õ⁵	vowel and tone	NA	NA	alexander1980gramatica	atat11
+ū	NA	u¹	vowel and tone	NA	NA	alexander1980gramatica	atat11
+ūn	NA	ũ¹	vowel and tone	NA	NA	alexander1980gramatica	atat11
+ūūn	NA	ũ¹ũ¹	vowel and tone	NA	NA	alexander1980gramatica	atat11
+ūun	NA	ũ¹ũ³	vowel and tone	NA	NA	alexander1980gramatica	atat11
+ūún	NA	ũ¹ũ⁵	vowel and tone	NA	NA	alexander1980gramatica	atat11
+u	NA	u³	vowel and tone	NA	NA	alexander1980gramatica	atat11
+un	NA	ũ³	vowel and tone	NA	NA	alexander1980gramatica	atat11
+uūn	NA	ũ³ũ¹	vowel and tone	NA	NA	alexander1980gramatica	atat11
+uun	NA	ũ³ũ³	vowel and tone	NA	NA	alexander1980gramatica	atat11
+uún	NA	ũ³ũ⁵	vowel and tone	NA	NA	alexander1980gramatica	atat11
+ú	NA	u⁵	vowel and tone	NA	NA	alexander1980gramatica	atat11
+ún	NA	ũ⁵	vowel and tone	NA	NA	alexander1980gramatica	atat11
+úūn	NA	ũ⁵ũ¹	vowel and tone	NA	NA	alexander1980gramatica	atat11
+úun	NA	ũ⁵ũ³	vowel and tone	NA	NA	alexander1980gramatica	atat11
+úún	NA	ũ⁵ũ⁵	vowel and tone	NA	NA	alexander1980gramatica	atat11

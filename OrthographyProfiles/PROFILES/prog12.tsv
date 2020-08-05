@@ -1,0 +1,165 @@
+Grapheme1	Grapheme2	IPA	Class	Status	Comments	Source	Doculect
+b	NA	β	consonant	loan	NA	north1976gramatica	prog12
+c	NA	k	consonant	loan	NA	north1976gramatica	prog12
+ch	NA	tʃ	consonant	NA	NA	north1976gramatica, shields1988syntactic	prog12
+cu	NA	kʷ	consonant	NA	before vowels	north1976gramatica	prog12
+d	NA	ð	consonant	NA	NA	north1976gramatica, shields1988syntactic	prog12
+g	NA	g	consonant	loan	NA	shields1988syntactic	prog12
+h	NA	ʔ	consonant	NA	NA	north1976gramatica, shields1988syntactic	prog12
+j	NA	x	consonant	NA	NA	north1976gramatica	prog12
+k	NA	k	consonant	NA	NA	shields1988syntactic	prog12
+kw	NA	kʷ	consonant	NA	NA	shields1988syntactic	prog12
+l	NA	l	consonant	loan	NA	north1976gramatica, shields1988syntactic	prog12
+m	NA	m	consonant	NA	NA	north1976gramatica, shields1988syntactic	prog12
+mb	NA	ᵐb	consonant	NA	NA	shields1988syntactic	prog12
+n	NA	n	consonant	NA	NA	north1976gramatica, shields1988syntactic	prog12
+nd	NA	ⁿd	consonant	NA	NA	north1976gramatica, shields1988syntactic	prog12
+ng	NA	ᵑg	consonant	NA	NA	north1976gramatica, shields1988syntactic	prog12
+nj	NA	ⁿdʒ	consonant	NA	NA	shields1988syntactic	prog12
+ñ	NA	ɲ	consonant	NA	NA	north1976gramatica, shields1988syntactic	prog12
+p	NA	p	consonant	NA	NA	north1976gramatica, shields1988syntactic	prog12
+qu	NA	k	consonant	NA	NA	north1976gramatica	prog12
+r	NA	ɾ	consonant	NA	NA	north1976gramatica, shields1988syntactic	prog12
+s	NA	s	consonant	NA	NA	north1976gramatica, shields1988syntactic	prog12
+sh	NA	ʃ	consonant	NA	NA	north1976gramatica, shields1988syntactic	prog12
+t	NA	t	consonant	NA	NA	north1976gramatica, shields1988syntactic	prog12
+v	NA	β	consonant	NA	NA	north1976gramatica, shields1988syntactic	prog12
+x	NA	ʃ	consonant	loan	NA	north1976gramatica	prog12
+y	NA	j	consonant	loan	NA	north1976gramatica	prog12
+z	NA	s	consonant	loan	NA	north1976gramatica	prog12
+NA	x	x	consonant	NA	NA	shields1988syntactic	prog12
+NA	y	ʒ	consonant	NA	NA	shields1988syntactic	prog12
+a	NA	a³	vowel and tone	NA	NA	north1976gramatica	prog12
+á	NA	a⁵	vowel and tone	NA	NA	north1976gramatica, shields1988syntactic	prog12
+ā	NA	a³	vowel and tone	NA	NA	shields1988syntactic	prog12
+a̱	NA	a¹	vowel and tone	NA	NA	north1976gramatica	prog12
+aan	NA	ã³ã³	vowel and tone	NA	NA	north1976gramatica	prog12
+aán	NA	ã³ã⁵	vowel and tone	NA	NA	north1976gramatica	prog12
+aān	NA	ã¹ã³	vowel and tone	NA	NA	shields1988syntactic	prog12
+aa̱n	NA	ã³ã¹	vowel and tone	NA	NA	north1976gramatica	prog12
+áan	NA	ã⁵ã³	vowel and tone	NA	NA	north1976gramatica	prog12
+áán	NA	ã⁵ã⁵	vowel and tone	NA	NA	north1976gramatica, shields1988syntactic	prog12
+áān	NA	ã⁵ã³	vowel and tone	NA	NA	shields1988syntactic	prog12
+áa̱n	NA	ã⁵ã¹	vowel and tone	NA	NA	north1976gramatica	prog12
+āan	NA	ã³ã¹	vowel and tone	NA	NA	shields1988syntactic	prog12
+āán	NA	ã³ã⁵	vowel and tone	NA	NA	shields1988syntactic	prog12
+āān	NA	ã³ã³	vowel and tone	NA	NA	shields1988syntactic	prog12
+a̱an	NA	ã¹ã³	vowel and tone	NA	NA	north1976gramatica	prog12
+a̱án	NA	ã¹ã⁵	vowel and tone	NA	NA	north1976gramatica	prog12
+a̱a̱n	NA	ã¹ã¹	vowel and tone	NA	NA	north1976gramatica	prog12
+an	NA	ã³	vowel and tone	NA	NA	north1976gramatica	prog12
+án	NA	ã⁵	vowel and tone	NA	NA	north1976gramatica, shields1988syntactic	prog12
+ān	NA	ã³	vowel and tone	NA	NA	shields1988syntactic	prog12
+a̱n	NA	ã¹	vowel and tone	NA	NA	north1976gramatica	prog12
+e	NA	e³	vowel and tone	NA	NA	north1976gramatica	prog12
+é	NA	e⁵	vowel and tone	NA	NA	north1976gramatica, shields1988syntactic	prog12
+ē	NA	e³	vowel and tone	NA	NA	shields1988syntactic	prog12
+e̱	NA	e¹	vowel and tone	NA	NA	north1976gramatica	prog12
+een	NA	ẽ³ẽ³	vowel and tone	NA	NA	north1976gramatica	prog12
+eén	NA	ẽ³ẽ⁵	vowel and tone	NA	NA	north1976gramatica	prog12
+eēn	NA	ẽ¹ẽ³	vowel and tone	NA	NA	shields1988syntactic	prog12
+ee̱n	NA	ẽ³ẽ¹	vowel and tone	NA	NA	north1976gramatica	prog12
+éen	NA	ẽ⁵ẽ³	vowel and tone	NA	NA	north1976gramatica	prog12
+één	NA	ẽ⁵ẽ⁵	vowel and tone	NA	NA	north1976gramatica, shields1988syntactic	prog12
+éēn	NA	ẽ⁵ẽ³	vowel and tone	NA	NA	shields1988syntactic	prog12
+ée̱n	NA	ẽ⁵ẽ¹	vowel and tone	NA	NA	north1976gramatica	prog12
+ēen	NA	ẽ³ẽ¹	vowel and tone	NA	NA	shields1988syntactic	prog12
+ēén	NA	ẽ³ẽ⁵	vowel and tone	NA	NA	shields1988syntactic	prog12
+ēēn	NA	ẽ³ẽ³	vowel and tone	NA	NA	shields1988syntactic	prog12
+e̱en	NA	ẽ¹ẽ³	vowel and tone	NA	NA	north1976gramatica	prog12
+e̱én	NA	ẽ¹ẽ⁵	vowel and tone	NA	NA	north1976gramatica	prog12
+e̱e̱n	NA	ẽ¹ẽ¹	vowel and tone	NA	NA	north1976gramatica	prog12
+en	NA	ẽ³	vowel and tone	NA	NA	north1976gramatica	prog12
+én	NA	ẽ⁵	vowel and tone	NA	NA	north1976gramatica, shields1988syntactic	prog12
+ēn	NA	ẽ³	vowel and tone	NA	NA	shields1988syntactic	prog12
+e̱n	NA	ẽ¹	vowel and tone	NA	NA	north1976gramatica	prog12
+i	NA	i³	vowel and tone	NA	'pronounced ’	north1976gramatica	prog12
+í	NA	i⁵	vowel and tone	NA	NA	north1976gramatica, shields1988syntactic	prog12
+ī	NA	i³	vowel and tone	NA	NA	shields1988syntactic	prog12
+i̱	NA	i¹	vowel and tone	NA	NA	north1976gramatica	prog12
+iin	NA	ĩ³ĩ³	vowel and tone	NA	NA	north1976gramatica	prog12
+iín	NA	ĩ³ĩ⁵	vowel and tone	NA	NA	north1976gramatica	prog12
+iīn	NA	ĩ¹ĩ³	vowel and tone	NA	NA	shields1988syntactic	prog12
+ii̱n	NA	ĩ³ĩ¹	vowel and tone	NA	NA	north1976gramatica	prog12
+íin	NA	ĩ⁵ĩ¹	vowel and tone	NA	NA	shields1988syntactic	prog12
+íin	NA	ĩ⁵ĩ³	vowel and tone	NA	NA	north1976gramatica	prog12
+íín	NA	ĩ⁵ĩ⁵	vowel and tone	NA	NA	north1976gramatica, shields1988syntactic	prog12
+íīn	NA	ĩ⁵ĩ³	vowel and tone	NA	NA	shields1988syntactic	prog12
+íi̱n	NA	ĩ⁵ĩ¹	vowel and tone	NA	NA	north1976gramatica	prog12
+īin	NA	ĩ³ĩ¹	vowel and tone	NA	NA	shields1988syntactic	prog12
+īín	NA	ĩ³ĩ⁵	vowel and tone	NA	NA	shields1988syntactic	prog12
+īīn	NA	ĩ³ĩ³	vowel and tone	NA	NA	shields1988syntactic	prog12
+i̱in	NA	ĩ¹ĩ³	vowel and tone	NA	NA	north1976gramatica	prog12
+i̱ín	NA	ĩ¹ĩ⁵	vowel and tone	NA	NA	north1976gramatica	prog12
+i̱i̱n	NA	ĩ¹ĩ¹	vowel and tone	NA	NA	north1976gramatica	prog12
+in	NA	ĩ³	vowel and tone	NA	NA	north1976gramatica	prog12
+ín	NA	ĩ⁵	vowel and tone	NA	NA	north1976gramatica, shields1988syntactic	prog12
+īn	NA	ĩ³	vowel and tone	NA	NA	shields1988syntactic	prog12
+i̱n	NA	ĩ¹	vowel and tone	NA	NA	north1976gramatica	prog12
+o	NA	o³	vowel and tone	NA	NA	north1976gramatica	prog12
+ó	NA	o⁵	vowel and tone	NA	NA	north1976gramatica, shields1988syntactic	prog12
+ō	NA	o³	vowel and tone	NA	NA	shields1988syntactic	prog12
+o̱	NA	o¹	vowel and tone	NA	NA	north1976gramatica	prog12
+ón	NA	õ⁵	vowel and tone	NA	NA	north1976gramatica	prog12
+ōn	NA	õ³	vowel and tone	NA	NA	shields1988syntactic	prog12
+o̱n	NA	ũ¹	vowel and tone	NA	NA	north1976gramatica	prog12
+oon	NA	õ³õ³	vowel and tone	NA	NA	north1976gramatica	prog12
+oón	NA	õ³õ⁵	vowel and tone	NA	NA	north1976gramatica	prog12
+oōn	NA	õ¹õ³	vowel and tone	NA	NA	shields1988syntactic	prog12
+oo̱n	NA	õ³õ¹	vowel and tone	NA	NA	north1976gramatica	prog12
+óon	NA	õ⁵õ³	vowel and tone	NA	NA	north1976gramatica	prog12
+óón	NA	õ⁵õ⁵	vowel and tone	NA	NA	north1976gramatica, shields1988syntactic	prog12
+óōn	NA	õ⁵õ³	vowel and tone	NA	NA	shields1988syntactic	prog12
+óo̱n	NA	õ⁵õ¹	vowel and tone	NA	NA	north1976gramatica	prog12
+ōon	NA	õ³õ¹	vowel and tone	NA	NA	shields1988syntactic	prog12
+ōón	NA	õ³õ⁵	vowel and tone	NA	NA	shields1988syntactic	prog12
+ōōn	NA	õ³õ³	vowel and tone	NA	NA	shields1988syntactic	prog12
+o̱on	NA	õ¹õ³	vowel and tone	NA	NA	north1976gramatica	prog12
+o̱ón	NA	õ¹õ⁵	vowel and tone	NA	NA	north1976gramatica	prog12
+o̱o̱n	NA	õ¹õ¹	vowel and tone	NA	NA	north1976gramatica	prog12
+u	NA	u³	vowel and tone	NA	phonetically ʉ	north1976gramatica	prog12
+ú	NA	u⁵	vowel and tone	NA	NA	north1976gramatica, shields1988syntactic	prog12
+ū	NA	u³	vowel and tone	NA	NA	shields1988syntactic	prog12
+u̱	NA	u¹	vowel and tone	NA	NA	north1976gramatica	prog12
+un	NA	ũ³	vowel and tone	NA	NA	north1976gramatica	prog12
+ún	NA	ũ⁵	vowel and tone	NA	NA	north1976gramatica, shields1988syntactic	prog12
+ūn	NA	ũ³	vowel and tone	NA	NA	shields1988syntactic	prog12
+u̱n	NA	ũ¹	vowel and tone	NA	NA	north1976gramatica	prog12
+uun	NA	ũ³ũ³	vowel and tone	NA	NA	north1976gramatica	prog12
+uún	NA	ũ³ũ⁵	vowel and tone	NA	NA	north1976gramatica	prog12
+uūn	NA	ũ¹ũ³	vowel and tone	NA	NA	shields1988syntactic	prog12
+uu̱n	NA	ũ³ũ¹	vowel and tone	NA	NA	north1976gramatica	prog12
+úun	NA	ũ⁵ũ³	vowel and tone	NA	NA	north1976gramatica	prog12
+úún	NA	ũ⁵ũ⁵	vowel and tone	NA	NA	north1976gramatica, shields1988syntactic	prog12
+úūn	NA	ũ⁵ũ³	vowel and tone	NA	NA	shields1988syntactic	prog12
+úu̱n	NA	ũ⁵ũ¹	vowel and tone	NA	NA	north1976gramatica	prog12
+ūun	NA	ũ³ũ¹	vowel and tone	NA	NA	shields1988syntactic	prog12
+ūún	NA	ũ³ũ⁵	vowel and tone	NA	NA	shields1988syntactic	prog12
+ūūn	NA	ũ³ũ³	vowel and tone	NA	NA	shields1988syntactic	prog12
+u̱un	NA	ũ¹ũ³	vowel and tone	NA	NA	north1976gramatica	prog12
+u̱ún	NA	ũ¹ũ⁵	vowel and tone	NA	NA	north1976gramatica	prog12
+u̱u̱n	NA	ũ¹ũ¹	vowel and tone	NA	NA	north1976gramatica	prog12
+NA	a	a¹	vowel and tone	NA	NA	shields1988syntactic	prog12
+NA	an	ã¹	vowel and tone	NA	NA	shields1988syntactic	prog12
+NA	aan	ã¹ã¹	vowel and tone	NA	NA	shields1988syntactic	prog12
+NA	aán	ã¹ã⁵	vowel and tone	NA	NA	shields1988syntactic	prog12
+NA	áan	ã⁵ã¹	vowel and tone	NA	NA	shields1988syntactic	prog12
+NA	e	e¹	vowel and tone	NA	NA	shields1988syntactic	prog12
+NA	en	ẽ¹	vowel and tone	NA	NA	shields1988syntactic	prog12
+NA	een	ẽ¹ẽ¹	vowel and tone	NA	NA	shields1988syntactic	prog12
+NA	eén	ẽ¹ẽ⁵	vowel and tone	NA	NA	shields1988syntactic	prog12
+NA	éen	ẽ⁵ẽ¹	vowel and tone	NA	NA	shields1988syntactic	prog12
+NA	i	i¹	vowel and tone	NA	NA	shields1988syntactic	prog12
+NA	in	ĩ¹	vowel and tone	NA	NA	shields1988syntactic	prog12
+NA	iin	ĩ¹ĩ¹	vowel and tone	NA	NA	shields1988syntactic	prog12
+NA	iín	ĩ¹ĩ⁵	vowel and tone	NA	NA	shields1988syntactic	prog12
+NA	o	o¹	vowel and tone	NA	NA	shields1988syntactic	prog12
+NA	on	õ¹	vowel and tone	NA	NA	shields1988syntactic	prog12
+NA	oon	õ¹õ¹	vowel and tone	NA	NA	shields1988syntactic	prog12
+NA	oón	õ¹õ⁵	vowel and tone	NA	NA	shields1988syntactic	prog12
+NA	óon	õ⁵õ¹	vowel and tone	NA	NA	shields1988syntactic	prog12
+NA	u	u¹	vowel and tone	NA	NA	shields1988syntactic	prog12
+NA	un	ũ¹	vowel and tone	NA	NA	shields1988syntactic	prog12
+NA	uun	ũ¹ũ¹	vowel and tone	NA	NA	shields1988syntactic	prog12
+NA	uún	ũ¹ũ⁵	vowel and tone	NA	NA	shields1988syntactic	prog12
+NA	úun	ũ⁵ũ¹	vowel and tone	NA	NA	shields1988syntactic	prog12

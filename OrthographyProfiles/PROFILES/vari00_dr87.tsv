@@ -1,0 +1,86 @@
+Grapheme1	Grapheme2	IPA	Class	Status	Comments	Source	Doculect
+ⁿz	NA	ⁿdʒ	consonant	NA	NA	NA	NA
+ȼ	NA	ts	consonant	NA	NA	NA	NA
+đ	NA	ð	consonant	NA	NA	NA	NA
+dʸ	NA	dʲ	consonant	NA	NA	NA	NA
+ǰ	NA	dʒ	consonant	NA	NA	NA	NA
+h	NA	h	consonant	NA	NA	NA	NA
+y	NA	j	consonant	NA	NA	NA	NA
+k	NA	k	consonant	NA	NA	NA	NA
+kʸ	NA	kʲ	consonant	NA	NA	NA	NA
+kʷ	NA	kʷ	consonant	NA	NA	NA	NA
+l	NA	l	consonant	NA	NA	NA	NA
+m	NA	m	consonant	NA	NA	NA	NA
+n	NA	n	consonant	NA	NA	NA	NA
+N	NA	n̥	consonant	NA	NA	NA	NA
+ⁿd	NA	ⁿd	consonant	NA	NA	NA	NA
+ⁿǰ	NA	ⁿdʒ	consonant	NA	NA	NA	NA
+ñ	NA	ɲ	consonant	NA	NA	NA	NA
+s	NA	s	consonant	NA	NA	NA	NA
+š	NA	ʃ	consonant	NA	NA	NA	NA
+t	NA	t	consonant	NA	NA	NA	NA
+tʸ	NA	tʲ	consonant	NA	NA	NA	NA
+č	NA	tʃ	consonant	NA	NA	NA	NA
+w	NA	w	consonant	NA	NA	NA	NA
+x	NA	x	consonant	NA	NA	NA	NA
+ž	NA	ʒ	consonant	NA	NA	NA	NA
+ʔ	NA	ʔ	consonant	NA	NA	NA	NA
+ƀ	NA	β	consonant	NA	NA	NA	NA
+θ	NA	θ	consonant	NA	NA	NA	NA
+-	NA	+	separator	NA	NA	NA	NA
+’	NA	'	stress	NA	NA	NA	NA
+a	NA	a	vowel	NA	NA	NA	NA
+i	NA	i	vowel	NA	NA	NA	NA
+à	NA	a¹	vowel and tone	NA	NA	NA	NA
+à̧	NA	ã¹	vowel and tone	NA	NA	NA	NA
+ǎ	NA	a¹⁵	vowel and tone	NA	NA	NA	NA
+ā	NA	a³	vowel and tone	NA	NA	NA	NA
+ā̧	NA	ã³	vowel and tone	NA	NA	NA	NA
+á	NA	a⁵	vowel and tone	NA	NA	NA	NA
+á̧	NA	ã⁵	vowel and tone	NA	NA	NA	NA
+â	NA	a⁵¹	vowel and tone	NA	NA	NA	NA
+â̧	NA	ã⁵¹	vowel and tone	NA	NA	NA	NA
+è	NA	e¹	vowel and tone	NA	NA	NA	NA
+ȩ̀	NA	ẽ¹	vowel and tone	NA	NA	NA	NA
+ȩ̌	NA	ẽ¹⁵	vowel and tone	NA	NA	NA	NA
+ē	NA	e³	vowel and tone	NA	NA	NA	NA
+ȩ̄	NA	ẽ³	vowel and tone	NA	NA	NA	NA
+é	NA	e⁵	vowel and tone	NA	NA	NA	NA
+ê	NA	e⁵¹	vowel and tone	NA	NA	NA	NA
+ě	NA	e⁵¹	vowel and tone	NA	NA	NA	NA
+ì	NA	i¹	vowel and tone	NA	NA	NA	NA
+ì̧	NA	ĩ¹	vowel and tone	NA	NA	NA	NA
+ǐ	NA	i¹⁵	vowel and tone	NA	NA	NA	NA
+ǐ̧	NA	ĩ¹⁵	vowel and tone	NA	NA	NA	NA
+ī	NA	i³	vowel and tone	NA	NA	NA	NA
+ī̧	NA	ĩ³	vowel and tone	NA	NA	NA	NA
+í	NA	i⁵	vowel and tone	NA	NA	NA	NA
+í̧	NA	ĩ⁵	vowel and tone	NA	NA	NA	NA
+î	NA	i⁵¹	vowel and tone	NA	NA	NA	NA
+î̧	NA	ĩ⁵¹	vowel and tone	NA	NA	NA	NA
+i᷅	NA	i⁵³	vowel and tone	NA	NA	NA	NA
+ɨ̀	NA	ɨ¹	vowel and tone	NA	NA	NA	NA
+ɨ̧̀	NA	ɨ̃¹	vowel and tone	NA	NA	NA	NA
+ɨ̧̌	NA	ɨ̃¹⁵	vowel and tone	NA	NA	NA	NA
+ɨ̄	NA	ɨ³	vowel and tone	NA	NA	NA	NA
+ɨ̧̄	NA	ɨ̃³	vowel and tone	NA	NA	NA	NA
+ɨ́	NA	ɨ⁵	vowel and tone	NA	NA	NA	NA
+ɨ̧́	NA	ɨ̃⁵	vowel and tone	NA	NA	NA	NA
+ò	NA	o¹	vowel and tone	NA	NA	NA	NA
+ò̧	NA	õ¹	vowel and tone	NA	NA	NA	NA
+ǒ	NA	o¹⁵	vowel and tone	NA	NA	NA	NA
+ō	NA	o³	vowel and tone	NA	NA	NA	NA
+ō̧	NA	õ³	vowel and tone	NA	NA	NA	NA
+ó	NA	o⁵	vowel and tone	NA	NA	NA	NA
+ó̧	NA	õ⁵	vowel and tone	NA	NA	NA	NA
+ù	NA	u¹	vowel and tone	NA	NA	NA	NA
+ù̧	NA	ũ¹	vowel and tone	NA	NA	NA	NA
+ǔ	NA	u¹⁵	vowel and tone	NA	NA	NA	NA
+ǔ̧	NA	ũ¹⁵	vowel and tone	NA	NA	NA	NA
+ū	NA	u³	vowel and tone	NA	NA	NA	NA
+ū̧	NA	ũ³	vowel and tone	NA	NA	NA	NA
+ú	NA	u⁵	vowel and tone	NA	NA	NA	NA
+ú̧	NA	ũ⁵	vowel and tone	NA	NA	NA	NA
+ǜ	NA	ʉ¹	vowel and tone	NA	NA	NA	NA
+ǖ	NA	ʉ³	vowel and tone	NA	NA	NA	NA
+ǘ	NA	ʉ⁵	vowel and tone	NA	NA	NA	NA

@@ -1,0 +1,164 @@
+Grapheme1	Grapheme2	IPA	Class	Status	Comments	Source	Doculect
+b	NA	ᵐb	consonant	rare	NA	pike1974downstepping	coat11
+c	NA	ts	consonant	NA	not sure, described as alveolar affricate	pike1974downstepping	coat11
+č	NA	tʃ	consonant	NA	NA	pike1974downstepping	coat11
+ch	NA	tʃ	consonant	NA	NA	small1990syntactic	coat11
+d	NA	ⁿd	consonant	NA	NA	pike1974downstepping	coat11
+NA	d	ð	consonant	NA	NA	small1990syntactic	coat11
+đ	NA	ð	consonant	NA	NA	pike1974downstepping	coat11
+dy	NA	ðʲ	consonant	NA	NA	small1990syntactic	coat11
+đʸ	NA	ðʲ	consonant	NA	NA	pike1974downstepping	coat11
+f	NA	f	consonant	loan	NA	small1990syntactic	coat11
+g	NA	ᵑg	consonant	NA	NA	pike1974downstepping	coat11
+NA	g	g	consonant	loan	NA	small1990syntactic	coat11
+gʷ	NA	ᵑgʷ	consonant	NA	NA	pike1974downstepping	coat11
+h	NA	ʔ	consonant	NA	NA	small1990syntactic	coat11
+ǰ	NA	ⁿdʒ	consonant	NA	NA	pike1974downstepping	coat11
+k	NA	k	consonant	NA	NA	pike1974downstepping, small1990syntactic	coat11
+kʷ	NA	kʷ	consonant	NA	NA	pike1974downstepping	coat11
+kw	NA	kʷ	consonant	NA	NA	small1990syntactic	coat11
+l	NA	l	consonant	NA	NA	pike1974downstepping, small1990syntactic	coat11
+m	NA	m	consonant	NA	NA	pike1974downstepping, small1990syntactic	coat11
+mb	NA	ᵐb	consonant	NA	NA	small1990syntactic	coat11
+n	NA	n	consonant	NA	NA	pike1974downstepping, small1990syntactic	coat11
+nd	NA	ⁿd	consonant	NA	NA	small1990syntactic	coat11
+ndz	NA	ⁿdz	consonant	NA	NA	small1990syntactic	coat11
+ng	NA	ᵑg	consonant	NA	NA	small1990syntactic	coat11
+ngw	NA	ᵑgʷ	consonant	NA	NA	small1990syntactic	coat11
+nj	NA	ⁿdʒ	consonant	NA	NA	small1990syntactic	coat11
+ñ	NA	ɲ	consonant	NA	NA	pike1974downstepping, small1990syntactic	coat11
+p	NA	p	consonant	rare	NA	pike1974downstepping, small1990syntactic	coat11
+r	NA	ɾ	consonant	NA	NA	pike1974downstepping, small1990syntactic	coat11
+s	NA	s	consonant	NA	NA	pike1974downstepping, small1990syntactic	coat11
+š	NA	ʃ	consonant	NA	NA	pike1974downstepping	coat11
+sh	NA	ʃ	consonant	NA	NA	small1990syntactic	coat11
+t	NA	t	consonant	NA	NA	pike1974downstepping, small1990syntactic	coat11
+ts	NA	ts	consonant	NA	NA	small1990syntactic	coat11
+v	NA	β	consonant	NA	NA	small1990syntactic	coat11
+w	NA	w	consonant	loan	NA	small1990syntactic	coat11
+x	NA	x	consonant	loan	NA	small1990syntactic	coat11
+y	NA	j	consonant	loan	NA	small1990syntactic	coat11
+z	NA	ⁿds	consonant	NA	this is my best guess	pike1974downstepping	coat11
+ʔ	NA	ʔ	consonant	NA	NA	pike1974downstepping	coat11
+a	NA	a	vowel	NA	NA	small1990syntactic	coat11
+an	NA	ã	vowel	NA	NA	small1990syntactic	coat11
+e	NA	e	vowel	NA	NA	small1990syntactic	coat11
+en	NA	ẽ	vowel	NA	NA	small1990syntactic	coat11
+i	NA	i	vowel	NA	NA	small1990syntactic	coat11
+in	NA	ĩ	vowel	NA	NA	small1990syntactic	coat11
+ɨ	NA	ɨ	vowel	NA	NA	small1990syntactic	coat11
+ɨn	NA	ɨ̃	vowel	NA	NA	small1990syntactic	coat11
+o	NA	o	vowel	NA	NA	small1990syntactic	coat11
+on	NA	õ	vowel	NA	NA	small1990syntactic	coat11
+u	NA	u	vowel	NA	NA	small1990syntactic	coat11
+un	NA	ũ	vowel	NA	NA	small1990syntactic	coat11
+á	NA	a⁵	vowel and tone	NA	NA	pike1974downstepping, small1990syntactic	coat11
+à	NA	a¹	vowel and tone	NA	NA	pike1974downstepping	coat11
+â	NA	a⁵¹	vowel and tone	NA	NA	pike1974downstepping, small1990syntactic	coat11
+ǎ	NA	a¹⁵	vowel and tone	NA	NA	pike1974downstepping	coat11
+ā	NA	a¹	vowel and tone	NA	NA	small1990syntactic	coat11
+á̢	NA	ã⁵	vowel and tone	NA	NA	pike1974downstepping	coat11
+à̢	NA	ã¹	vowel and tone	NA	NA	pike1974downstepping	coat11
+â̢	NA	ã⁵¹	vowel and tone	NA	NA	pike1974downstepping	coat11
+ǎ̢	NA	ã¹⁵	vowel and tone	NA	NA	pike1974downstepping	coat11
+aan	NA	ãã	vowel and tone	NA	NA	small1990syntactic	coat11
+áán	NA	ã⁵ã⁵	vowel and tone	NA	NA	small1990syntactic	coat11
+áân	NA	ã⁵ã⁵¹	vowel and tone	NA	NA	small1990syntactic	coat11
+áān	NA	ã⁵ã¹	vowel and tone	NA	NA	small1990syntactic	coat11
+āán	NA	ã¹ã⁵	vowel and tone	NA	NA	small1990syntactic	coat11
+āân	NA	ã¹ã⁵¹	vowel and tone	NA	NA	small1990syntactic	coat11
+āān	NA	ã¹ã¹	vowel and tone	NA	NA	small1990syntactic	coat11
+án	NA	ã⁵	vowel and tone	NA	NA	small1990syntactic	coat11
+ân	NA	ã⁵¹	vowel and tone	NA	NA	small1990syntactic	coat11
+ān	NA	ã¹	vowel and tone	NA	NA	small1990syntactic	coat11
+é	NA	e⁵	vowel and tone	NA	NA	pike1974downstepping, small1990syntactic	coat11
+è	NA	e¹	vowel and tone	NA	NA	pike1974downstepping	coat11
+ê	NA	e⁵¹	vowel and tone	NA	NA	pike1974downstepping, small1990syntactic	coat11
+ě	NA	e¹⁵	vowel and tone	NA	NA	pike1974downstepping	coat11
+ē	NA	e¹	vowel and tone	NA	NA	small1990syntactic	coat11
+é̢	NA	ẽ⁵	vowel and tone	NA	NA	pike1974downstepping	coat11
+è̢	NA	ẽ¹	vowel and tone	NA	NA	pike1974downstepping	coat11
+ê̢	NA	ẽ⁵¹	vowel and tone	NA	NA	pike1974downstepping	coat11
+ě̢	NA	ẽ¹⁵	vowel and tone	NA	NA	pike1974downstepping	coat11
+een	NA	ẽē	vowel and tone	NA	NA	small1990syntactic	coat11
+één	NA	ẽ⁵ē⁵	vowel and tone	NA	NA	small1990syntactic	coat11
+éên	NA	ẽ⁵ē⁵¹	vowel and tone	NA	NA	small1990syntactic	coat11
+éēn	NA	ẽ⁵ē¹	vowel and tone	NA	NA	small1990syntactic	coat11
+ēén	NA	ẽ¹ē⁵	vowel and tone	NA	NA	small1990syntactic	coat11
+ēên	NA	ẽ¹ē⁵¹	vowel and tone	NA	NA	small1990syntactic	coat11
+ēēn	NA	ẽ¹ē¹	vowel and tone	NA	NA	small1990syntactic	coat11
+én	NA	ẽ⁵	vowel and tone	NA	NA	small1990syntactic	coat11
+ên	NA	ẽ⁵¹	vowel and tone	NA	NA	small1990syntactic	coat11
+ēn	NA	ẽ¹	vowel and tone	NA	NA	small1990syntactic	coat11
+í	NA	i⁵	vowel and tone	NA	NA	pike1974downstepping, small1990syntactic	coat11
+ì	NA	i¹	vowel and tone	NA	NA	pike1974downstepping	coat11
+î	NA	i⁵¹	vowel and tone	NA	NA	pike1974downstepping, small1990syntactic	coat11
+ǐ	NA	i¹⁵	vowel and tone	NA	NA	pike1974downstepping	coat11
+ī	NA	i¹	vowel and tone	NA	NA	small1990syntactic	coat11
+í̢	NA	ĩ⁵	vowel and tone	NA	NA	pike1974downstepping	coat11
+ì̢	NA	ĩ¹	vowel and tone	NA	NA	pike1974downstepping	coat11
+î̢	NA	ĩ⁵¹	vowel and tone	NA	NA	pike1974downstepping	coat11
+ǐ̢	NA	ĩ¹⁵	vowel and tone	NA	NA	pike1974downstepping	coat11
+iin	NA	ĩĩ	vowel and tone	NA	NA	small1990syntactic	coat11
+íín	NA	ĩ⁵ĩ⁵	vowel and tone	NA	NA	small1990syntactic	coat11
+íîn	NA	ĩ⁵ĩ⁵¹	vowel and tone	NA	NA	small1990syntactic	coat11
+íīn	NA	ĩ⁵ĩ¹	vowel and tone	NA	NA	small1990syntactic	coat11
+īín	NA	ĩ¹ĩ⁵	vowel and tone	NA	NA	small1990syntactic	coat11
+īîn	NA	ĩ¹ĩ⁵¹	vowel and tone	NA	NA	small1990syntactic	coat11
+īīn	NA	ĩ¹ĩ¹	vowel and tone	NA	NA	small1990syntactic	coat11
+ín	NA	ĩ⁵	vowel and tone	NA	NA	small1990syntactic	coat11
+în	NA	ĩ⁵¹	vowel and tone	NA	NA	small1990syntactic	coat11
+īn	NA	ĩ¹	vowel and tone	NA	NA	small1990syntactic	coat11
+ɨ́	NA	ɨ⁵	vowel and tone	NA	NA	pike1974downstepping, small1990syntactic	coat11
+ɨ̀	NA	ɨ¹	vowel and tone	NA	NA	pike1974downstepping	coat11
+ɨ̂	NA	ɨ⁵¹	vowel and tone	NA	NA	pike1974downstepping, small1990syntactic	coat11
+ɨ̌	NA	ɨ¹⁵	vowel and tone	NA	NA	pike1974downstepping	coat11
+ɨ̄	NA	ɨ¹	vowel and tone	NA	NA	small1990syntactic	coat11
+ɨ̢́	NA	ɨ̃⁵	vowel and tone	NA	NA	pike1974downstepping	coat11
+ɨ̢̀	NA	ɨ̃¹	vowel and tone	NA	NA	pike1974downstepping	coat11
+ɨ̢̂	NA	ɨ̃⁵¹	vowel and tone	NA	NA	pike1974downstepping	coat11
+ɨ̢̌	NA	ɨ̃¹⁵	vowel and tone	NA	NA	pike1974downstepping	coat11
+ɨɨn	NA	ɨ̃ɨ̄	vowel and tone	NA	NA	small1990syntactic	coat11
+ɨ́ɨ́n	NA	ɨ̃⁵ɨ̄⁵	vowel and tone	NA	NA	small1990syntactic	coat11
+ɨ́ɨ̂n	NA	ɨ̃⁵ɨ̄⁵¹	vowel and tone	NA	NA	small1990syntactic	coat11
+ɨ́ɨ̄n	NA	ɨ̃⁵ɨ̄¹	vowel and tone	NA	NA	small1990syntactic	coat11
+ɨ̄ɨ́n	NA	ɨ̃¹ɨ̄⁵	vowel and tone	NA	NA	small1990syntactic	coat11
+ɨ̄ɨ̂n	NA	ɨ̃¹ɨ̄⁵¹	vowel and tone	NA	NA	small1990syntactic	coat11
+ɨ̄ɨ̄n	NA	ɨ̃¹ɨ̄¹	vowel and tone	NA	NA	small1990syntactic	coat11
+ɨ́n	NA	ɨ̃⁵	vowel and tone	NA	NA	small1990syntactic	coat11
+ɨ̂n	NA	ɨ̃⁵¹	vowel and tone	NA	NA	small1990syntactic	coat11
+ɨ̄n	NA	ɨ̃¹	vowel and tone	NA	NA	small1990syntactic	coat11
+ó	NA	o⁵	vowel and tone	NA	NA	pike1974downstepping, small1990syntactic	coat11
+ò	NA	o¹	vowel and tone	NA	NA	pike1974downstepping	coat11
+ô	NA	o⁵¹	vowel and tone	NA	NA	pike1974downstepping, small1990syntactic	coat11
+ǒ	NA	o¹⁵	vowel and tone	NA	NA	pike1974downstepping	coat11
+ō	NA	o¹	vowel and tone	NA	NA	small1990syntactic	coat11
+ón	NA	õ⁵	vowel and tone	NA	NA	small1990syntactic	coat11
+ôn	NA	õ⁵¹	vowel and tone	NA	NA	small1990syntactic	coat11
+ōn	NA	õ¹	vowel and tone	NA	NA	small1990syntactic	coat11
+oon	NA	õõ	vowel and tone	NA	NA	small1990syntactic	coat11
+óón	NA	õ⁵õ⁵	vowel and tone	NA	NA	small1990syntactic	coat11
+óôn	NA	õ⁵õ⁵¹	vowel and tone	NA	NA	small1990syntactic	coat11
+óōn	NA	õ⁵õ¹	vowel and tone	NA	NA	small1990syntactic	coat11
+ōón	NA	õ¹õ⁵	vowel and tone	NA	NA	small1990syntactic	coat11
+ōôn	NA	õ¹õ⁵¹	vowel and tone	NA	NA	small1990syntactic	coat11
+ōōn	NA	õ¹õ¹	vowel and tone	NA	NA	small1990syntactic	coat11
+ú	NA	u⁵	vowel and tone	NA	NA	pike1974downstepping, small1990syntactic	coat11
+ù	NA	u¹	vowel and tone	NA	NA	pike1974downstepping	coat11
+û	NA	u⁵¹	vowel and tone	NA	NA	pike1974downstepping, small1990syntactic	coat11
+ǔ	NA	u¹⁵	vowel and tone	NA	NA	pike1974downstepping	coat11
+ū	NA	u¹	vowel and tone	NA	NA	small1990syntactic	coat11
+ú̢	NA	ũ⁵	vowel and tone	NA	NA	pike1974downstepping	coat11
+ù̢	NA	ũ¹	vowel and tone	NA	NA	pike1974downstepping	coat11
+û̢	NA	ũ⁵¹	vowel and tone	NA	NA	pike1974downstepping	coat11
+ǔ̢	NA	ũ¹⁵	vowel and tone	NA	NA	pike1974downstepping	coat11
+ún	NA	ũ⁵	vowel and tone	NA	NA	small1990syntactic	coat11
+ûn	NA	ũ⁵¹	vowel and tone	NA	NA	small1990syntactic	coat11
+ūn	NA	ũ¹	vowel and tone	NA	NA	small1990syntactic	coat11
+uun	NA	ũũ	vowel and tone	NA	NA	small1990syntactic	coat11
+úún	NA	ũ⁵ũ⁵	vowel and tone	NA	NA	small1990syntactic	coat11
+úûn	NA	ũ⁵ũ⁵¹	vowel and tone	NA	NA	small1990syntactic	coat11
+úūn	NA	ũ⁵ũ¹	vowel and tone	NA	NA	small1990syntactic	coat11
+ūún	NA	ũ¹ũ⁵	vowel and tone	NA	NA	small1990syntactic	coat11
+ūûn	NA	ũ¹ũ⁵¹	vowel and tone	NA	NA	small1990syntactic	coat11
+ūūn	NA	ũ¹ũ¹	vowel and tone	NA	NA	small1990syntactic	coat11

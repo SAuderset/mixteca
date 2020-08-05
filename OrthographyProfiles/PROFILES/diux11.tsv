@@ -1,0 +1,185 @@
+Grapheme1	Grapheme2	IPA	Class	Status	Comments	Source	Doculect
+b	NA	b	consonant	loan	NA	kuiper1991syntactic	diux11
+d	NA	d	consonant	NA	NA	kuiper1991syntactic	diux11
+ð	NA	ð	consonant	NA	NA	pike1976stress, kuiper1991syntactic	diux11
+f	NA	f	consonant	loan	NA	kuiper1991syntactic	diux11
+g	NA	g	consonant	NA	only after n	kuiper1991syntactic	diux11
+gw	NA	gʷ	consonant	loan	NA	kuiper1991syntactic	diux11
+k	NA	k	consonant	NA	NA	pike1976stress, kuiper1991syntactic	diux11
+kʷ	NA	kʷ	consonant	NA	NA	pike1976stress	diux11
+kw	NA	kʷ	consonant	NA	NA	kuiper1991syntactic	diux11
+l	NA	l	consonant	NA	NA	pike1976stress, kuiper1991syntactic	diux11
+m	NA	m	consonant	NA	NA	pike1976stress, kuiper1991syntactic	diux11
+n	NA	n	consonant	NA	NA	pike1976stress, kuiper1991syntactic	diux11
+nd	NA	ⁿd	consonant	NA	analyzed as cluster	pike1976stress, kuiper1991syntactic	diux11
+ñ	NA	ɲ	consonant	NA	NA	pike1976stress, kuiper1991syntactic	diux11
+p	NA	p	consonant	loan	NA	kuiper1991syntactic	diux11
+r	NA	ɾ	consonant	NA	NA	pike1976stress, kuiper1991syntactic	diux11
+s	NA	s	consonant	NA	NA	pike1976stress, kuiper1991syntactic	diux11
+š	NA	ʂ	consonant	NA	NA	pike1976stress	diux11
+sh	NA	ʃ	consonant	NA	should this be retroflex too?	kuiper1991syntactic	diux11
+t	NA	t	consonant	NA	NA	pike1976stress, kuiper1991syntactic	diux11
+tn	NA	tⁿ	consonant	NA	only appears before nasal vowels, probably an allophone of t; not sure about exact phonetics	kuiper1991syntactic	diux11
+č	NA	tʃ	consonant	NA	NA	pike1976stress	diux11
+ch	NA	tʃ	consonant	NA	NA	kuiper1991syntactic	diux11
+h	NA	x	consonant	NA	NA	pike1976stress	diux11
+x	NA	x	consonant	NA	NA	kuiper1991syntactic	diux11
+hʷ	NA	xʷ	consonant	NA	NA	pike1976stress	diux11
+xw	NA	xʷ	consonant	NA	NA	kuiper1991syntactic	diux11
+y	NA	ʒ	consonant	NA	NA	kuiper1991syntactic	diux11
+ž	NA	ʒ	consonant	NA	NA	pike1976stress	diux11
+h	NA	ʔ	consonant	NA	NA	kuiper1991syntactic	diux11
+ʔ	NA	ʔ	consonant	NA	NA	pike1976stress	diux11
+v	NA	β	consonant	NA	NA	kuiper1991syntactic	diux11
+β	NA	β	consonant	NA	NA	pike1976stress	diux11
+'	NA	'	other	NA	stress	kuiper1991syntactic	diux11
+a	NA	a	vowel	NA	NA	pike1976stress	diux11
+a̢	NA	ã	vowel	NA	NA	pike1976stress	diux11
+e	NA	e	vowel	NA	NA	pike1976stress	diux11
+e̢	NA	ẽ	vowel	NA	NA	pike1976stress	diux11
+i	NA	i	vowel	NA	NA	pike1976stress	diux11
+i̢	NA	ĩ	vowel	NA	NA	pike1976stress	diux11
+ɨ	NA	ɨ	vowel	NA	NA	pike1976stress	diux11
+ɨ̢	NA	ɨ̃	vowel	NA	NA	pike1976stress	diux11
+o	NA	o	vowel	NA	NA	pike1976stress	diux11
+o̢	NA	õ	vowel	NA	NA	pike1976stress	diux11
+u	NA	u	vowel	NA	NA	pike1976stress	diux11
+u̢	NA	ũ	vowel	NA	NA	pike1976stress	diux11
+a	NA	a¹	vowel and tone	NA	NA	kuiper1991syntactic	diux11
+à	NA	a¹	vowel and tone	NA	NA	pike1976stress	diux11
+à̢	NA	ã¹	vowel and tone	NA	NA	pike1976stress	diux11
+an	NA	ã¹	vowel and tone	NA	NA	kuiper1991syntactic	diux11
+aan	NA	ã¹ã¹	vowel and tone	NA	NA	kuiper1991syntactic	diux11
+aān	NA	ã¹ã³	vowel and tone	NA	NA	kuiper1991syntactic	diux11
+aán	NA	ã¹ã⁵	vowel and tone	NA	NA	kuiper1991syntactic	diux11
+aân	NA	ã¹ã⁵¹	vowel and tone	NA	NA	kuiper1991syntactic	diux11
+ā	NA	a³	vowel and tone	NA	NA	kuiper1991syntactic	diux11
+ān	NA	ã³	vowel and tone	NA	NA	kuiper1991syntactic	diux11
+āan	NA	ã³ã¹	vowel and tone	NA	NA	kuiper1991syntactic	diux11
+āān	NA	ã³ã³	vowel and tone	NA	NA	kuiper1991syntactic	diux11
+āán	NA	ã³ã⁵	vowel and tone	NA	NA	kuiper1991syntactic	diux11
+āân	NA	ã³ã⁵¹	vowel and tone	NA	NA	kuiper1991syntactic	diux11
+á	NA	a⁵	vowel and tone	NA	NA	pike1976stress, kuiper1991syntactic	diux11
+á̢	NA	ã⁵	vowel and tone	NA	NA	pike1976stress	diux11
+án	NA	ã⁵	vowel and tone	NA	NA	kuiper1991syntactic	diux11
+â	NA	a⁵¹	vowel and tone	NA	NA	kuiper1991syntactic	diux11
+ân	NA	ã⁵¹	vowel and tone	NA	NA	kuiper1991syntactic	diux11
+áan	NA	ã⁵ã¹	vowel and tone	NA	NA	kuiper1991syntactic	diux11
+áān	NA	ã⁵ã³	vowel and tone	NA	NA	kuiper1991syntactic	diux11
+áán	NA	ã⁵ã⁵	vowel and tone	NA	NA	kuiper1991syntactic	diux11
+áân	NA	ã⁵ã⁵¹	vowel and tone	NA	NA	kuiper1991syntactic	diux11
+e	NA	e¹	vowel and tone	NA	NA	kuiper1991syntactic	diux11
+è	NA	e¹	vowel and tone	NA	NA	pike1976stress	diux11
+è̢	NA	ẽ¹	vowel and tone	NA	NA	pike1976stress	diux11
+en	NA	ẽ¹	vowel and tone	rare	NA	kuiper1991syntactic	diux11
+een	NA	ẽ¹ẽ¹	vowel and tone	NA	NA	kuiper1991syntactic	diux11
+eēn	NA	ẽ¹ẽ³	vowel and tone	NA	NA	kuiper1991syntactic	diux11
+eén	NA	ẽ¹ẽ⁵	vowel and tone	NA	NA	kuiper1991syntactic	diux11
+eên	NA	ẽ¹ẽ⁵¹	vowel and tone	NA	NA	kuiper1991syntactic	diux11
+ē	NA	e³	vowel and tone	NA	NA	kuiper1991syntactic	diux11
+ēn	NA	ẽ³	vowel and tone	rare	NA	kuiper1991syntactic	diux11
+ēen	NA	ẽ³ẽ¹	vowel and tone	NA	NA	kuiper1991syntactic	diux11
+ēēn	NA	ẽ³ẽ³	vowel and tone	NA	NA	kuiper1991syntactic	diux11
+ēén	NA	ẽ³ẽ⁵	vowel and tone	NA	NA	kuiper1991syntactic	diux11
+ēên	NA	ẽ³ẽ⁵¹	vowel and tone	NA	NA	kuiper1991syntactic	diux11
+é	NA	e⁵	vowel and tone	NA	NA	pike1976stress, kuiper1991syntactic	diux11
+é̢	NA	ẽ⁵	vowel and tone	NA	NA	pike1976stress	diux11
+én	NA	ẽ⁵	vowel and tone	rare	NA	kuiper1991syntactic	diux11
+ê	NA	e⁵¹	vowel and tone	NA	NA	kuiper1991syntactic	diux11
+ên	NA	ẽ⁵¹	vowel and tone	rare	NA	kuiper1991syntactic	diux11
+éen	NA	ẽ⁵ẽ¹	vowel and tone	NA	NA	kuiper1991syntactic	diux11
+éēn	NA	ẽ⁵ẽ³	vowel and tone	NA	NA	kuiper1991syntactic	diux11
+één	NA	ẽ⁵ẽ⁵	vowel and tone	NA	NA	kuiper1991syntactic	diux11
+éên	NA	ẽ⁵ẽ⁵¹	vowel and tone	NA	NA	kuiper1991syntactic	diux11
+i	NA	i¹	vowel and tone	NA	NA	kuiper1991syntactic	diux11
+ì	NA	i¹	vowel and tone	NA	NA	pike1976stress	diux11
+ì̢	NA	ĩ¹	vowel and tone	NA	NA	pike1976stress	diux11
+in	NA	ĩ¹	vowel and tone	NA	NA	kuiper1991syntactic	diux11
+iin	NA	ĩ¹ĩ¹	vowel and tone	NA	NA	kuiper1991syntactic	diux11
+iīn	NA	ĩ¹ĩ³	vowel and tone	NA	NA	kuiper1991syntactic	diux11
+iín	NA	ĩ¹ĩ⁵	vowel and tone	NA	NA	kuiper1991syntactic	diux11
+iîn	NA	ĩ¹ĩ⁵¹	vowel and tone	NA	NA	kuiper1991syntactic	diux11
+ī	NA	i³	vowel and tone	NA	NA	kuiper1991syntactic	diux11
+īn	NA	ĩ³	vowel and tone	NA	NA	kuiper1991syntactic	diux11
+īin	NA	ĩ³ĩ¹	vowel and tone	NA	NA	kuiper1991syntactic	diux11
+īīn	NA	ĩ³ĩ³	vowel and tone	NA	NA	kuiper1991syntactic	diux11
+īín	NA	ĩ³ĩ⁵	vowel and tone	NA	NA	kuiper1991syntactic	diux11
+īîn	NA	ĩ³ĩ⁵¹	vowel and tone	NA	NA	kuiper1991syntactic	diux11
+í	NA	i⁵	vowel and tone	NA	NA	pike1976stress, kuiper1991syntactic	diux11
+í̢	NA	ĩ⁵	vowel and tone	NA	NA	pike1976stress	diux11
+ín	NA	ĩ⁵	vowel and tone	NA	NA	kuiper1991syntactic	diux11
+î	NA	i⁵¹	vowel and tone	NA	NA	kuiper1991syntactic	diux11
+în	NA	ĩ⁵¹	vowel and tone	NA	NA	kuiper1991syntactic	diux11
+íin	NA	ĩ⁵ĩ¹	vowel and tone	NA	NA	kuiper1991syntactic	diux11
+íīn	NA	ĩ⁵ĩ³	vowel and tone	NA	NA	kuiper1991syntactic	diux11
+íín	NA	ĩ⁵ĩ⁵	vowel and tone	NA	NA	kuiper1991syntactic	diux11
+íîn	NA	ĩ⁵ĩ⁵¹	vowel and tone	NA	NA	kuiper1991syntactic	diux11
+ɨ	NA	ɨ¹	vowel and tone	NA	NA	kuiper1991syntactic	diux11
+ɨ̀	NA	ɨ¹	vowel and tone	NA	NA	pike1976stress	diux11
+ɨ̢̀	NA	ɨ̃¹	vowel and tone	NA	NA	pike1976stress	diux11
+ɨn	NA	ɨ̃¹	vowel and tone	NA	NA	kuiper1991syntactic	diux11
+ɨɨn	NA	ɨ̃¹ɨ̃¹	vowel and tone	NA	NA	kuiper1991syntactic	diux11
+ɨɨ̄n	NA	ɨ̃¹ɨ̃³	vowel and tone	NA	NA	kuiper1991syntactic	diux11
+ɨɨ́n	NA	ɨ̃¹ɨ̃⁵	vowel and tone	NA	NA	kuiper1991syntactic	diux11
+ɨɨ̂n	NA	ɨ̃¹ɨ̃⁵¹	vowel and tone	NA	NA	kuiper1991syntactic	diux11
+ɨ̄	NA	ɨ³	vowel and tone	NA	NA	kuiper1991syntactic	diux11
+ɨ̄n	NA	ɨ̃³	vowel and tone	NA	NA	kuiper1991syntactic	diux11
+ɨ̄ɨn	NA	ɨ̃³ɨ̃¹	vowel and tone	NA	NA	kuiper1991syntactic	diux11
+ɨ̄ɨ̄n	NA	ɨ̃³ɨ̃³	vowel and tone	NA	NA	kuiper1991syntactic	diux11
+ɨ̄ɨ́n	NA	ɨ̃³ɨ̃⁵	vowel and tone	NA	NA	kuiper1991syntactic	diux11
+ɨ̄ɨ̂n	NA	ɨ̃³ɨ̃⁵¹	vowel and tone	NA	NA	kuiper1991syntactic	diux11
+ɨ́	NA	ɨ⁵	vowel and tone	NA	NA	pike1976stress, kuiper1991syntactic	diux11
+ɨ̢́	NA	ɨ̃⁵	vowel and tone	NA	NA	pike1976stress	diux11
+ɨ́n	NA	ɨ̃⁵	vowel and tone	NA	NA	kuiper1991syntactic	diux11
+ɨ̂	NA	ɨ⁵¹	vowel and tone	NA	NA	kuiper1991syntactic	diux11
+ɨ̂n	NA	ɨ̃⁵¹	vowel and tone	NA	NA	kuiper1991syntactic	diux11
+ɨ́ɨn	NA	ɨ̃⁵ɨ̃¹	vowel and tone	NA	NA	kuiper1991syntactic	diux11
+ɨ́ɨ̄n	NA	ɨ̃⁵ɨ̃³	vowel and tone	NA	NA	kuiper1991syntactic	diux11
+ɨ́ɨ́n	NA	ɨ̃⁵ɨ̃⁵	vowel and tone	NA	NA	kuiper1991syntactic	diux11
+ɨ́ɨ̂n	NA	ɨ̃⁵ɨ̃⁵¹	vowel and tone	NA	NA	kuiper1991syntactic	diux11
+o	NA	o¹	vowel and tone	NA	NA	kuiper1991syntactic	diux11
+ò	NA	o¹	vowel and tone	NA	NA	pike1976stress	diux11
+ò̢	NA	õ¹	vowel and tone	NA	NA	pike1976stress	diux11
+on	NA	õ¹	vowel and tone	NA	NA	kuiper1991syntactic	diux11
+oon	NA	õ¹õ¹	vowel and tone	NA	NA	kuiper1991syntactic	diux11
+oōn	NA	õ¹õ³	vowel and tone	NA	NA	kuiper1991syntactic	diux11
+oón	NA	õ¹õ⁵	vowel and tone	NA	NA	kuiper1991syntactic	diux11
+oôn	NA	õ¹õ⁵¹	vowel and tone	NA	NA	kuiper1991syntactic	diux11
+ō	NA	o³	vowel and tone	NA	NA	kuiper1991syntactic	diux11
+ōn	NA	õ³	vowel and tone	NA	NA	kuiper1991syntactic	diux11
+ōon	NA	õ³õ¹	vowel and tone	NA	NA	kuiper1991syntactic	diux11
+ōōn	NA	õ³õ³	vowel and tone	NA	NA	kuiper1991syntactic	diux11
+ōón	NA	õ³õ⁵	vowel and tone	NA	NA	kuiper1991syntactic	diux11
+ōôn	NA	õ³õ⁵¹	vowel and tone	NA	NA	kuiper1991syntactic	diux11
+ó	NA	o⁵	vowel and tone	NA	NA	pike1976stress, kuiper1991syntactic	diux11
+ó̢	NA	õ⁵	vowel and tone	NA	NA	pike1976stress	diux11
+ón	NA	õ⁵	vowel and tone	NA	NA	kuiper1991syntactic	diux11
+ô	NA	o⁵¹	vowel and tone	NA	NA	kuiper1991syntactic	diux11
+ôn	NA	õ⁵¹	vowel and tone	NA	NA	kuiper1991syntactic	diux11
+óon	NA	õ⁵õ¹	vowel and tone	NA	NA	kuiper1991syntactic	diux11
+óōn	NA	õ⁵õ³	vowel and tone	NA	NA	kuiper1991syntactic	diux11
+óón	NA	õ⁵õ⁵	vowel and tone	NA	NA	kuiper1991syntactic	diux11
+óôn	NA	õ⁵õ⁵¹	vowel and tone	NA	NA	kuiper1991syntactic	diux11
+u	NA	u¹	vowel and tone	NA	NA	kuiper1991syntactic	diux11
+ù	NA	u¹	vowel and tone	NA	NA	pike1976stress	diux11
+ù̢	NA	ũ¹	vowel and tone	NA	NA	pike1976stress	diux11
+un	NA	ũ¹	vowel and tone	NA	NA	kuiper1991syntactic	diux11
+uun	NA	ũ¹ũ¹	vowel and tone	NA	NA	kuiper1991syntactic	diux11
+uūn	NA	ũ¹ũ³	vowel and tone	NA	NA	kuiper1991syntactic	diux11
+uún	NA	ũ¹ũ⁵	vowel and tone	NA	NA	kuiper1991syntactic	diux11
+uûn	NA	ũ¹ũ⁵¹	vowel and tone	NA	NA	kuiper1991syntactic	diux11
+ū	NA	u³	vowel and tone	NA	NA	kuiper1991syntactic	diux11
+ūn	NA	ũ³	vowel and tone	NA	NA	kuiper1991syntactic	diux11
+ūun	NA	ũ³ũ¹	vowel and tone	NA	NA	kuiper1991syntactic	diux11
+ūūn	NA	ũ³ũ³	vowel and tone	NA	NA	kuiper1991syntactic	diux11
+ūún	NA	ũ³ũ⁵	vowel and tone	NA	NA	kuiper1991syntactic	diux11
+ūûn	NA	ũ³ũ⁵¹	vowel and tone	NA	NA	kuiper1991syntactic	diux11
+ú	NA	u⁵	vowel and tone	NA	NA	pike1976stress, kuiper1991syntactic	diux11
+ú̢	NA	ũ⁵	vowel and tone	NA	NA	pike1976stress	diux11
+ún	NA	ũ⁵	vowel and tone	NA	NA	kuiper1991syntactic	diux11
+û	NA	u⁵¹	vowel and tone	NA	NA	kuiper1991syntactic	diux11
+ûn	NA	ũ⁵¹	vowel and tone	NA	NA	kuiper1991syntactic	diux11
+úun	NA	ũ⁵ũ¹	vowel and tone	NA	NA	kuiper1991syntactic	diux11
+úūn	NA	ũ⁵ũ³	vowel and tone	NA	NA	kuiper1991syntactic	diux11
+úún	NA	ũ⁵ũ⁵	vowel and tone	NA	NA	kuiper1991syntactic	diux11
+úûn	NA	ũ⁵ũ⁵¹	vowel and tone	NA	NA	kuiper1991syntactic	diux11

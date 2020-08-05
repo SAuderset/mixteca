@@ -1,0 +1,50 @@
+Grapheme1	Grapheme2	IPA	Class	Status	Comments	Source	Doculect
+b	NA	b	consonant	loan	NA	good1978diccionario	chic12
+d	NA	d	consonant	NA	NA	good1978diccionario	chic12
+g	NA	g	consonant	NA	NA	good1978diccionario	chic12
+gu	NA	gʷ	consonant	NA	before vowel, needs rule	good1978diccionario	chic12
+h	NA	h	consonant	NA	NA	good1978diccionario	chic12
+j	NA	j	consonant	NA	not sure	good1978diccionario	chic12
+y	NA	j	consonant	NA	not sure	good1978diccionario	chic12
+jn	NA	j̃	consonant	NA	is an allophone of j, so maybe should just be j	good1978diccionario	chic12
+yy	NA	jː	consonant	NA	NA	good1978diccionario	chic12
+c	NA	k	consonant	NA	NA	good1978diccionario	chic12
+k	NA	k	consonant	loan	NA	good1978diccionario	chic12
+qu	NA	k	consonant	NA	NA	good1978diccionario	chic12
+cu	NA	kʷ	consonant	NA	before vowel, needs rule	good1978diccionario	chic12
+l	NA	l	consonant	NA	NA	good1978diccionario	chic12
+ll	NA	lː	consonant	loan	not sure	good1978diccionario	chic12
+m	NA	m	consonant	NA	NA	good1978diccionario	chic12
+mm	NA	mː	consonant	NA	NA	good1978diccionario	chic12
+n	NA	n	consonant	NA	NA	good1978diccionario	chic12
+nn	NA	nː	consonant	NA	NA	good1978diccionario	chic12
+nd	NA	ⁿd	consonant	NA	NA	good1978diccionario	chic12
+ng	NA	ᵑg	consonant	NA	NA	good1978diccionario	chic12
+p	NA	p	consonant	loan	NA	good1978diccionario	chic12
+s	NA	s	consonant	NA	NA	good1978diccionario	chic12
+x	NA	ʃ	consonant	NA	NA	good1978diccionario	chic12
+t	NA	t	consonant	NA	NA	good1978diccionario	chic12
+ts	NA	ts	consonant	NA	NA	good1978diccionario	chic12
+chr	NA	tʂ	consonant	NA	best guess based on phonological description	good1978diccionario	chic12
+ch	NA	tʃ	consonant	NA	could also be tɕ	good1978diccionario	chic12
+hu	NA	w	consonant	NA	before vowel, needs rule	good1978diccionario	chic12
+huu	NA	wː	consonant	NA	NA	good1978diccionario	chic12
+z	NA	z	consonant	NA	NA	good1978diccionario	chic12
+r	NA	ʑ	consonant	NA	for some also ɾ or even r	good1978diccionario	chic12
+NA	NA	ʔ	consonant	NA	NA	good1978diccionario	chic12
+1	NA	¹	tone	NA	NA	good1978diccionario	chic12
+2	NA	²	tone	NA	NA	good1978diccionario	chic12
+3	NA	³	tone	NA	unmarked is also tone 3, needs to be integrated with rule	good1978diccionario	chic12
+4	NA	⁴	tone	NA	NA	good1978diccionario	chic12
+5	NA	⁵	tone	NA	NA	good1978diccionario	chic12
+a	NA	a	vowel	NA	NA	good1978diccionario	chic12
+an	NA	ã	vowel	NA	NA	good1978diccionario	chic12
+e	NA	e	vowel	NA	NA	good1978diccionario	chic12
+ë	NA	ə	vowel	NA	NA	good1978diccionario	chic12
+i	NA	i	vowel	NA	NA	good1978diccionario	chic12
+in	NA	ĩ	vowel	NA	NA	good1978diccionario	chic12
+o	NA	o	vowel	NA	NA	good1978diccionario	chic12
+u	NA	u	vowel	NA	NA	good1978diccionario	chic12
+un	NA	ũ	vowel	NA	NA	good1978diccionario	chic12
+ï	NA	ɯ	vowel	NA	NA	good1978diccionario	chic12
+ïn	NA	ɯ̃	vowel	NA	NA	good1978diccionario	chic12
