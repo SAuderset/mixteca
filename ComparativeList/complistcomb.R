@@ -29,7 +29,8 @@ head(wl1)
 wl1 %>% count(ID) %>% filter(n > 1)
 
 # export to tsv for further processing
-write_tsv(wl1, " /Users/auderset/Documents/GitHub/mixteca/ComparativeList/mixt_complist.tsv")
+write_tsv(wl1, "mixt_complist.tsv")
 
 # to know where to continue IDs
 max(wl1$ID)
+# 3947
