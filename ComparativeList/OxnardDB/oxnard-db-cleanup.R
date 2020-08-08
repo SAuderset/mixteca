@@ -11,7 +11,7 @@ oxn <- oxn[-1, ]
 glimpse(oxn)
 
 # select and rename relevant columns, clean ou leading and tralining white space
-oxn1 <- oxn %>% select(ID = `NewID#`, Spanish = Español, English, tlah11 = TLHP, pied12 = `SMP/PiedraAzul`, flor12 = `San Marco de la Flor (SMP)`, mont12 = SSM, mixt11 = `SJM (La Batea)`, asun11 = SMA) %>% 
+oxn1 <- oxn %>% select(ID = `NewID#`, Spanish = Español, English, tlah11 = TLHP, pied12 = `SMP/PiedraAzul`, flor12 = `San Marco de la Flor (SMP)`, mont12 = SSM, bate11 = `SJM (La Batea)`, asun11 = SMA) %>% 
   mutate_all(trimws)
 glimpse(oxn1)
 
@@ -56,13 +56,13 @@ summary(oxed1)
 oxed1 <- select(oxed1, -asun11)
 glimpse(oxed1)
 # wide to long, filter out NA
-oxed2 <- pivot_longer(oxed1, tlah11:mixt11, names_to = "DOCULECT", values_to = "VALUE") %>%
+oxed2 <- pivot_longer(oxed1, tlah11:bate11, names_to = "DOCULECT", values_to = "VALUE") %>%
   filter(!is.na(VALUE)) %>%
   filter(VALUE!="")
 glimpse(oxed2)
 # generate ID, rename and reorder columns
 oxed3 <- oxed2 %>% 
-  mutate(SOURCE = "josserand1983mixtec") %>%
+  mutate(SOURCE = "oxnard2020") %>%
   mutate(FORM = "") %>%
   mutate(NOTES = "") %>%
   mutate(ID = 2964:(nrow(oxed2)+2963)) %>% 

@@ -1,4 +1,4 @@
-IDlist,GLOSS,ID,English,tlah11,pied12,flor12,mont12,mixt11,asun11
+IDlist,GLOSS,ID,English,tlah11,pied12,flor12,mont12,bate11,asun11
 1,madre,NA,NA,NA,NA,NA,NA,NA,NA
 2,mamá!,NA,NA,NA,NA,NA,NA,NA,NA
 3,"padre, papá",296,father,tata,tájtě,táta,tatá,tatà ,NA
@@ -229,7 +229,6 @@ NA,marido/esposo,5,husband,ií,ijǐ,ijǐ,yiì,iǐ,yiì
 NA,delicado,6,fussy,ìí,ìjǐ,ìjǐ,ìì,ìǐ,ìí
 NA,atole,7,atole,tuta,tutsiâ/tsiutsiâ,tsiutsiâ,tutyà,tuchà,tútya
 NA,sol,9,sun,tkandìí,tsìkantsijǐ,tsìjkantsijǐ,ndikàndiì,nìkànchiǐ,ndíkandzií
-,,,,,,,,,
 NA,cielo,11,sky,ndiví,ìntsiví/àntsiví,àntsìví,nòò víkò,andiví,andzivi
 NA,espacio exterior,12,NA,sàta ndivi,,sàtǎ antsívi,andiví,NA,NA
 NA,bonito,13,pretty,nduvi,ntivi,ntivi,livi,viǐ,livi
@@ -248,12 +247,7 @@ NA,brillante,27,shiny,xíñù,xíñù,xíñù,xíñò,xíñù,yé'è
 NA,brillante/claro,28,bright/clear,ye'è,yé'è,yé'è,yé'è,NA,NA
 NA,abajo,29,below,nìnù,nìnù,nìnù,nìnò,nìnù,vàa
 NA,abierto (v.),30,open (v.),núná,núná,nóná,nóná,núná,núná
-,,,,,,,,,
-,,,,,,,,,
-,,,,,,,,,
 NA,espeso,38,thick,na'ma,o'va,ó'vá,iva,u'a,NA
-,,,,,,,,,
-,,,,,,,,,
 NA,madera/árbol,46,wood/tree,itú,itǔn,ijtǔn,yitò,yutǔ,yíto
 NA,leña,47,firewood,tutún,totǔn,tojtǔn,titò,tutǔ,tyíto
 NA,puente,48,bridge,[puénte],[puentè],kuénte,[puenté],vìtǔ,
@@ -266,10 +260,7 @@ NA,arrogante,54,arrogant,chí'ña,lantò,koò xá'jâ inì,ìchì,ichi ini
 NA,muerto,55,dead,ndìì,ntsǐì,ntsìì,ndìi,ndiǐ,ndyìì
 NA,principal,56,elder,ná xà'nú,rà kúná'nu,na xìkuà'a,na saví,chaà ntsá'nu,tyì sàkwa'à
 NA,jicapextle,57,large gourd,xkó'ó,,xìkó'ó,yasì,,yasì
-,,,,,,,,,
 NA,Mixteco,60,Mixtec,tù'un sàví,Tù'un Ntá'vi,Tò'on Ntá'vi,tù'ùn nda'ví,tù'ùn ndá'vi,tù'ùn nda'vi
-,,,,,,,,,
-,,,,,,,,,
 NA,hoja,65,leaf,yùku nda'á itú,nta'ǎ ijtǔ,nta'ǎ ijtǒn,ndaà to kuií,nda'á yǔtu,NA
 NA,tierra,66,dirt,ñu'ú,ñu'ǔ,ñu'ǔ,ñoò,ñu'ú,ñu'ù
 ,,,,,,,,,
@@ -784,12 +775,9 @@ NA,sarna,715,mange,lakata,ntsikátǎ,tsikátǎ,,NA,NA
 NA,osteoporosis,716,osteoporosis,kwe'è ikín,,,,NA,NA
 NA,infarto,717,heart attack,xi'ì í'in,xí'in í'in,xì'ì í'í,,NA,NA
 NA,vela,718,candle,ití ,i'tsǐn,itsǐ,,NA,NA
-,,,,,,,,,
-,,,,,,,,,
 NA,mano de metate,721,handstone for grinding,nda'á yòso,nta'ǎ yòsó,ntà'ǎ yòsó,,NA,NA
 NA,temazcal,722,sweat bath,ìn'ì,ì'ìn,i'ìn,,NA,NA
 NA,mazorca,723,dried ear of corn,nií,nijǐ,nijǐ,,NA,NA
-,,,,,,,,,
 NA,familia,725,family,tá'an,nà ve'e,nàve'e,,NA,NA
 NA,año pasado,728,last year,kwi'yà ava,àvà,áva,,NA,NA
 NA,machete,729,machete,yùchìn,yuchì,xànì,,NA,NA
