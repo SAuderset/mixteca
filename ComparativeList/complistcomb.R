@@ -33,4 +33,4 @@ write_tsv(wl1, "/Users/auderset/Documents/GitHub/mixteca/ComparativeList/mixt_co
 
 # to know where to continue IDs
 max(wl1$ID)
-# 3947
+# 4364
