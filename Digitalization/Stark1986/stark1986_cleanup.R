@@ -1,7 +1,10 @@
+# prepare Stark et.al. 1986 dictionary for further processing
 
 library(tidyverse)
 
-st <- read_lines(file = "/Users/auderset/Documents/GitHub/mixteca/Dictionaries/Stark1986/stark1986_preproc.txt")
+setwd("/Users/auderset/Documents/GitHub/mixteca/Digitalization/Stark1986")
+
+st <- read_lines(file = "stark1986_preproc.txt")
 head(st)
 class(st)
 
@@ -45,7 +48,22 @@ glimpse(vf)
 vf <- vf %>% mutate(Verb = str_replace_all(Verb, "_", " "))
 glimpse(vf)
 
+# split Verb columns, so that the bracketed forms are in their own column, split out square bracket forms, split out translation
+vf <- vf %>% separate(Verb, into = c("Verb", "Verb.IMPF"), sep = "\\(", extra = "merge", fill = "left") %>% 
+  separate(Description, into = c("Ex", "Forms"), sep = "\\[", extra = "merge", fill = "left") %>% 
+  separate(Forms, into = c("Verb.IRR", "Verb.PFV"), sep = ",", extra = "merge", fill = "left") %>%
+  separate(Ex, into = c("Spanish", "Example"), sep = "(?=\\s[[:upper:]])", extra = "merge", fill = "left")
+# remove brackets, remove extra white space
+vf <- vf %>% mutate(Verb.IMPF = str_remove(Verb.IMPF, "\\)")) %>%
+  mutate(Verb.PFV = str_remove(Verb.PFV, "\\]")) %>%
+  mutate_if(is.character, str_trim)
+glimpse(vf)
+
+# select and arrange columns for export
+vf1 <- vf %>% select(Index, Verb.IMPF, VerbClass, Spanish, Example, Verb.IRR, Verb.PFV)
+glimpse(vf1)
+
 # export to csv
-write_csv(vf, "/Users/auderset/Documents/GitHub/mixteca/Dictionaries/Stark1986/stark1986_verbs.csv")
+write_csv(vf1, "stark1986_verbs.csv")
 
 
