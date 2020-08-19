@@ -4,50 +4,47 @@ library(tidyverse)
 
 setwd("/Users/auderset/Documents/GitHub/mixteca/Digitalization/Williams2017")
 
-wl <- read_lines("williams2017_raw.txt")
+wl <- read_lines("williams2017_preproc.txt")
 
 # delete spaces between verb classes
-wl <- str_remove(wl, "(?<=v.)\\s(?=i.|t.|cop.|recíp.)")
-wl[35]
-wl[70]
-wl[4545]
-wl[5045]
+wl <- str_remove(wl, "(?<=v\\.|yv\\.|y\\.)\\s(?=i\\.|i\\s|í\\s|£|t\\.|t\\s|cop|recíp)")
+wl[4897]
 
 # find max number of "columns" for splitting
 max(sapply(strsplit(wl," "),length))
-# 162
+# 247
 
 # make into df with one column
 wl.df <- as.data.frame(wl, V1=wl) 
 
 # now split into columns
-wl.df1 <- separate(wl.df, wl, paste0("X",1:162), sep=" ")
+wl.df1 <- separate(wl.df, wl, paste0("X",1:247), sep=" ")
 head(wl.df1)
 nrow(wl.df1)
 
 # filter rows that probably contain verbs
-wl.df2 <- wl.df1 %>% filter_all(any_vars(str_detect(., "v\\.(i\\.|t\\.|cop\\.|recíp\\.)")))
+wl.df2 <- wl.df1 %>% filter_all(any_vars(str_detect(., "(v\\.|yv\\.|y\\.)(i\\.|i\\s|í\\s|£|t\\.|t\\s|cop|recíp)")))
 # add an index for sorting later
 wl.df2$Index <- 1:nrow(wl.df2)
 # rename X1
-wl.df2 <- wl.df2 %>% select(X2:X162, Index, Pages = X1)
+wl.df2 <- wl.df2 %>% select(X1:X247, Index)
 glimpse(wl.df2)
 
 # split into parts depending on where the verb class is noted
 # function for splitting at verb, for some reason rename doesn't work in there
 verbsplitting <- function(x) {
-  dfout <- wl.df2 %>% filter(str_detect(.[[x]], "^v\\.(i\\.|t\\.|cop\\.|recíp\\.)$")) %>% 
-    unite("Rest", (x+1):161, sep = " ", na.rm = TRUE) %>% 
+  dfout <- wl.df2 %>% filter(str_detect(.[[x]], "^(v\\.|yv\\.|y\\.)(i.|i\\s|í\\s|£|t.|t\\s|cop|recíp)$")) %>% 
+    unite("Rest", (x+1):247, sep = " ", na.rm = TRUE) %>% 
     unite("Verb", 1:(x-1))
 }
 
 # apply to df
-wl.v <- map_df(1:(ncol(wl.df2)-2), verbsplitting)
+wl.v <- map_df(1:(ncol(wl.df2)-1), verbsplitting)
 glimpse(wl.v)
 # collate collumns with verb class in them
 # reorder first so that all the uniting ones will be adjacent
-wl.vf <- wl.v %>% unite("VerbClass", X3:X161, sep = " ", na.rm = TRUE) %>% 
-  select(Index, Verb, VerbClass, Rest, Pages) %>%
+wl.vf <- wl.v %>% unite("VerbClass", X2:X246, sep = " ", na.rm = TRUE) %>% 
+  select(Index, Verb, VerbClass, Rest) %>%
   arrange(Index)
 glimpse(wl.vf)
 # for some reason, spaces are replaced with _ in one column
@@ -65,13 +62,9 @@ wl.vf2 <- wl.vf1 %>% mutate(Verb.IMPF = str_remove(Verb.IMPF, "pres.")) %>%
   mutate_if(is.character, str_trim)
 glimpse(wl.vf2)
 
-# select and arrange columns for export
-vf1 <- vf %>% select(Index, Verb.IMPF, VerbClass, Spanish, Example, Verb.IRR, Verb.PFV)
-glimpse(vf1)
 
 # export to csv
-write_csv(vf1, "stark1986_verbs.csv")
-
+write_csv(wl.vf2, "williams2007_verbs.csv")
 
 
 
