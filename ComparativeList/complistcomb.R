@@ -56,4 +56,4 @@ write_tsv(wl2, "/Users/auderset/Documents/GitHub/mixteca/ComparativeList/mixt_co
 
 # to know where to continue IDs
 max(wl2$ID, na.rm = TRUE)
-# 5081
+# 5412
