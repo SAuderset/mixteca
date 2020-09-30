@@ -1,0 +1,223 @@
+IDlist,CATEGORY,GLOSS,VALUE,FORM,ID,NOTES,DOCULECT,SOURCE
+1,kinship,madre,chaku,,5413,,tepe03,belmar1902el-cuicateco
+2,kinship,mamá!,$,,,,tepe03,belmar1902el-cuicateco
+3,kinship,padre,chida,,5414,,tepe03,belmar1902el-cuicateco
+4,kinship,papá!,$,,,,tepe03,belmar1902el-cuicateco
+5,kinship,hijo/hija,daya,,5415,,tepe03,belmar1902el-cuicateco
+6,kinship,hijo,$,,,,tepe03,belmar1902el-cuicateco
+7,kinship,hija,$,,,,tepe03,belmar1902el-cuicateco
+8,kinship,hermana/hermano de otro genero,$,,,,tepe03,belmar1902el-cuicateco
+9,kinship,hermano,ndinu,,5416,in general?,tepe03,belmar1902el-cuicateco
+10,kinship,hermana,kaba,,5417,in general?,tepe03,belmar1902el-cuicateco
+11,kinship,tía,dudi,,5418,,tepe03,belmar1902el-cuicateco
+12,kinship,tío,dunu,,5419,,tepe03,belmar1902el-cuicateco
+13,person,hombre,tsan,,5420,,tepe03,belmar1902el-cuicateco
+14,person,mujer,ndata,,5421,,tepe03,belmar1902el-cuicateco
+15,person,dueño,ibi,,5422,,tepe03,belmar1902el-cuicateco
+16,person,sacerdote,$,,,,tepe03,belmar1902el-cuicateco
+17,body,sangre,yun,,5423,,tepe03,belmar1902el-cuicateco
+18,body,hueso,ini,,5424,,tepe03,belmar1902el-cuicateco
+19,body,pelo,yudutin,,5425,,tepe03,belmar1902el-cuicateco
+19,body,pelo,yuda,,5426,,tepe03,belmar1902el-cuicateco
+20,body,cara,na,,5427,,tepe03,belmar1902el-cuicateco
+21,body,lengua,chiiya,,5428,,tepe03,belmar1902el-cuicateco
+22,body,diente,ndiñu,,5429,,tepe03,belmar1902el-cuicateco
+23,body,boca,chende,,5430,,tepe03,belmar1902el-cuicateco
+23,body,boca,chindé,,5431,,tepe03,belmar1902el-cuicateco
+24,body,oreja,gaben,,5432,,tepe03,belmar1902el-cuicateco
+24,body,oreja,ben,,5433,,tepe03,belmar1902el-cuicateco
+25,body,nariz,nduta,,5434,,tepe03,belmar1902el-cuicateco
+26,body,cuello,ndandu,,5435,,tepe03,belmar1902el-cuicateco
+27,body,mano,taa,,5436,,tepe03,belmar1902el-cuicateco
+28,body,uña,shubidu,,5437,,tepe03,belmar1902el-cuicateco
+28,body,uña,yubidu,,5438,,tepe03,belmar1902el-cuicateco
+29,body,espalda,$,,,,tepe03,belmar1902el-cuicateco
+30,body,panza,chiati,,5439,,tepe03,belmar1902el-cuicateco
+31,body,tripa,ngati,,5440,,tepe03,belmar1902el-cuicateco
+32,body,pie,kaa,,5441,,tepe03,belmar1902el-cuicateco
+33,body,enfermedad,kai,,5442,,tepe03,belmar1902el-cuicateco
+34,body,medicina,$,,,,tepe03,belmar1902el-cuicateco
+35,body,hinchazón,$,,,,tepe03,belmar1902el-cuicateco
+36,body,grano del cuerpo,ndubi,,5443,,tepe03,belmar1902el-cuicateco
+37,body,"pus, materia",$,,,,tepe03,belmar1902el-cuicateco
+38,body,orina,$,,,,tepe03,belmar1902el-cuicateco
+39,clothing,ropa,tiinu,,5444,,tepe03,belmar1902el-cuicateco
+40,clothing,huarache,$,,,,tepe03,belmar1902el-cuicateco
+41,clothing,pantalón,$,,,,tepe03,belmar1902el-cuicateco
+42,clothing,huipil,$,,,,tepe03,belmar1902el-cuicateco
+43,living,pueblo,yan,,5445,,tepe03,belmar1902el-cuicateco
+44,living,casa,bai,,5446,,tepe03,belmar1902el-cuicateco
+45,living,camino,yuni,,5447,,tepe03,belmar1902el-cuicateco
+46,living,horcón,$,,,,tepe03,belmar1902el-cuicateco
+47,living,petate,iba,,5448,,tepe03,belmar1902el-cuicateco
+48,living,"cama, lecho",yundu,,5449,,tepe03,belmar1902el-cuicateco
+49,living,"banquito, banco, silla",$,,,,tepe03,belmar1902el-cuicateco
+50,animal,animal,iti,,5450,,tepe03,belmar1902el-cuicateco
+51,animal,pájaro,yada,,5451,,tepe03,belmar1902el-cuicateco
+52,animal,pez,dacha,,5452,,tepe03,belmar1902el-cuicateco
+53,animal,"culebra, serpiente",kuu,,5453,,tepe03,belmar1902el-cuicateco
+54,animal,rana,$,,,,tepe03,belmar1902el-cuicateco
+55,animal,gavilán,iñu,,5454,,tepe03,belmar1902el-cuicateco
+56,animal,alacrán,itidai,,5455,,tepe03,belmar1902el-cuicateco
+57,animal,cucaracha,$,,,,tepe03,belmar1902el-cuicateco
+58,animal,chapulín,$,,,,tepe03,belmar1902el-cuicateco
+59,animal,abeja,itiyain,,5456,,tepe03,belmar1902el-cuicateco
+60,animal,ratón,tindi,,5457,,tepe03,belmar1902el-cuicateco
+60,,rata,tiudi,,5458,,tepe03,belmar1902el-cuicateco
+61,animal,venado,idichianu,,5459,,tepe03,belmar1902el-cuicateco
+62,animal,ardilla,iyu,,5460,,tepe03,belmar1902el-cuicateco
+63,animal,zorrillo,$,,,,tepe03,belmar1902el-cuicateco
+64,animal,tlacuache,$,,,,tepe03,belmar1902el-cuicateco
+65,animal,mapache,$,,,,tepe03,belmar1902el-cuicateco
+66,animal,conejo,$,,,,tepe03,belmar1902el-cuicateco
+67,animal,zopilote,$,,,,tepe03,belmar1902el-cuicateco
+68,animal,perro,yana,,5461,,tepe03,belmar1902el-cuicateco
+69,animal,gato,bichi,,5462,,tepe03,belmar1902el-cuicateco
+70,animal,gallo,tuutsan,,5463,,tepe03,belmar1902el-cuicateco
+71,animal,gallina,tuu,,5464,,tepe03,belmar1902el-cuicateco
+72,animal,puerco,kunu,,5465,,tepe03,belmar1902el-cuicateco
+73,animal,caballo,yudatin,,5466,,tepe03,belmar1902el-cuicateco
+74,animal,"borrego, oveja",itikuchi,,5467,,tepe03,belmar1902el-cuicateco
+75,animal,hormiga,iku,,5468,,tepe03,belmar1902el-cuicateco
+76,animal,cuerno,duniniti,,5469,,tepe03,belmar1902el-cuicateco
+77,animal,pluma de escribir,indingún,,5470,,tepe03,belmar1902el-cuicateco
+77,animal,pluma de escribir,duduiti,,5471,,tepe03,belmar1902el-cuicateco
+78,animal,ala,ngechi,,5472,,tepe03,belmar1902el-cuicateco
+78,animal,ala,ngaachi,,5473,,tepe03,belmar1902el-cuicateco
+79,animal,cola,ndukudaiiti,,5474,,tepe03,belmar1902el-cuicateco
+80,plant,"árbol, palo",ñiaan,,5475,,tepe03,belmar1902el-cuicateco
+80,plant,"árbol, palo",yiaan,,5476,,tepe03,belmar1902el-cuicateco
+81,plant,hierba,yata,,5477,,tepe03,belmar1902el-cuicateco
+82,plant,"zacate, heno",yuni,,5478,,tepe03,belmar1902el-cuicateco
+83,plant,flor,nanda,,5479,,tepe03,belmar1902el-cuicateco
+84,plant,maguey,$,,,,tepe03,belmar1902el-cuicateco
+85,plant,raíz,diyú,,5480,,tepe03,belmar1902el-cuicateco
+86,plant,espina,yan,,5481,,tepe03,belmar1902el-cuicateco
+86,plant,espina,nan,,5482,,tepe03,belmar1902el-cuicateco
+87,corn,maíz,ninu,,5483,,tepe03,belmar1902el-cuicateco
+88,corn,milpa,$,,,,tepe03,belmar1902el-cuicateco
+89,corn,elote,$,,,,tepe03,belmar1902el-cuicateco
+90,corn,nixtamal,$,,,,tepe03,belmar1902el-cuicateco
+91,corn,masa,yachi,,5484,,tepe03,belmar1902el-cuicateco
+92,corn,tortilla,yundu,,5485,,tepe03,belmar1902el-cuicateco
+93,corn,rastrojo,yabó,,5486,,tepe03,belmar1902el-cuicateco
+93,corn,rastrojo,nayama,,5487,,tepe03,belmar1902el-cuicateco
+94,corn,surco,$,,,,tepe03,belmar1902el-cuicateco
+95,corn,espiga,yami,,5488,,tepe03,belmar1902el-cuicateco
+96,food,frijol(es),$,,,,tepe03,belmar1902el-cuicateco
+97,food,ejote,$,,,,tepe03,belmar1902el-cuicateco
+98,food,chile,$,,,,tepe03,belmar1902el-cuicateco
+99,food,sal,ima,,5489,,tepe03,belmar1902el-cuicateco
+100,food,calabaza,yuku,,5490,,tepe03,belmar1902el-cuicateco
+101,food,chayote,$,,,,tepe03,belmar1902el-cuicateco
+102,food,caña,$,,,,tepe03,belmar1902el-cuicateco
+103,food,miel,ndii,,5491,,tepe03,belmar1902el-cuicateco
+104,food,grasa,ndun,,5492,,tepe03,belmar1902el-cuicateco
+104,food,grasa,ndungé,,5493,,tepe03,belmar1902el-cuicateco
+105,food,"blanquillo, huevo",$,,,,tepe03,belmar1902el-cuicateco
+106,food,tomate,ndatukua,,5494,,tepe03,belmar1902el-cuicateco
+107,food,camote,$,,,,tepe03,belmar1902el-cuicateco
+108,food,aguacate,$,,,,tepe03,belmar1902el-cuicateco
+109,food,plátano,tiaka,,5495,,tepe03,belmar1902el-cuicateco
+110,food,nopal,$,,,,tepe03,belmar1902el-cuicateco
+111,food,"mamey, zapote",$,,,,tepe03,belmar1902el-cuicateco
+112,food,chirimoya,$,,,,tepe03,belmar1902el-cuicateco
+113,food,hongo,ngee,,5496,,tepe03,belmar1902el-cuicateco
+114,food,carne,yuta,,5497,,tepe03,belmar1902el-cuicateco
+115,cooking,comal,$,,,,tepe03,belmar1902el-cuicateco
+116,cooking,olla,chita,,5498,,tepe03,belmar1902el-cuicateco
+117,cooking,horno,yutu,,5499,,tepe03,belmar1902el-cuicateco
+118,cooking,lumbre,ñíaa,,5500,,tepe03,belmar1902el-cuicateco
+119,cooking,ceniza,$,,,,tepe03,belmar1902el-cuicateco
+120,cooking,carbón,iyu,,5501,,tepe03,belmar1902el-cuicateco
+121,cooking,humo,yami,,5502,,tepe03,belmar1902el-cuicateco
+122,cooking,basura,$,,,,tepe03,belmar1902el-cuicateco
+123,cooking,plato,kuú,,5503,,tepe03,belmar1902el-cuicateco
+124,container,jícara,yaai,,5504,,tepe03,belmar1902el-cuicateco
+125,container,"canasta, tenate",$,,,,tepe03,belmar1902el-cuicateco
+126,container,"caja, cajón",$,,,,tepe03,belmar1902el-cuicateco
+127,thing,hilo,$,,,,tepe03,belmar1902el-cuicateco
+128,thing,peine,kaka,,5505,,tepe03,belmar1902el-cuicateco
+129,thing,"mecate, cuerda",$,,,,tepe03,belmar1902el-cuicateco
+130,thing,agujero,iba,,5506,,tepe03,belmar1902el-cuicateco
+131,thing,red,yana,,5507,,tepe03,belmar1902el-cuicateco
+132,thing,jabón,nama,,5508,,tepe03,belmar1902el-cuicateco
+133,thing,anillo,chinta,,5509,,tepe03,belmar1902el-cuicateco
+134,nature,luna,$,,,,tepe03,belmar1902el-cuicateco
+135,nature,nube,me,,5510,,tepe03,belmar1902el-cuicateco
+136,nature,rayo,kuai,,5511,,tepe03,belmar1902el-cuicateco
+137,nature,agua,nuni,,5512,,tepe03,belmar1902el-cuicateco
+138,nature,lluvia,kubi,,5513,,tepe03,belmar1902el-cuicateco
+139,nature,río,iku,,5514,,tepe03,belmar1902el-cuicateco
+140,nature,rocío,dibiiyu,,5515,,tepe03,belmar1902el-cuicateco
+141,nature,cerro,$,,,,tepe03,belmar1902el-cuicateco
+142,nature,llano,yudu,,5516,,tepe03,belmar1902el-cuicateco
+143,nature,piedra,tuu,,5517,,tepe03,belmar1902el-cuicateco
+144,material,algodón,kuchi,,5518,,tepe03,belmar1902el-cuicateco
+145,material,fierro,$,,,,tepe03,belmar1902el-cuicateco
+146,material,papel,kaka,,5519,,tepe03,belmar1902el-cuicateco
+147,material,cal,kaka,,5520,,tepe03,belmar1902el-cuicateco
+148,material,cera,yain,,5521,,tepe03,belmar1902el-cuicateco
+149,material,lodo,inchieti,,5522,,tepe03,belmar1902el-cuicateco
+150,material,espuma,yain,,5523,,tepe03,belmar1902el-cuicateco
+151,material,polvo,iyaka,,5524,,tepe03,belmar1902el-cuicateco
+152,color,rojo,kuaa,,5525,,tepe03,belmar1902el-cuicateco
+153,color,verde,kuee,,5526,,tepe03,belmar1902el-cuicateco
+154,color,amarillo,kuan,,5527,,tepe03,belmar1902el-cuicateco
+155,color,negro,kuain,,5528,,tepe03,belmar1902el-cuicateco
+156,color,blanco,kuá,,5529,,tepe03,belmar1902el-cuicateco
+157,number,uno,ama,,5530,,tepe03,belmar1902el-cuicateco
+158,number,dos,ubi,,5531,,tepe03,belmar1902el-cuicateco
+159,number,tres,inu,,5532,,tepe03,belmar1902el-cuicateco
+160,number,cuatro,hun,,5533,,tepe03,belmar1902el-cuicateco
+161,number,cinco,hun,,5534,,tepe03,belmar1902el-cuicateco
+162,number,seis,han,,5535,,tepe03,belmar1902el-cuicateco
+163,number,siete,ndachia,,5536,,tepe03,belmar1902el-cuicateco
+164,number,ocho,nini,,5537,,tepe03,belmar1902el-cuicateco
+165,number,nueve,nuu,,5538,,tepe03,belmar1902el-cuicateco
+166,number,diez,ndichi,,5539,,tepe03,belmar1902el-cuicateco
+167,number,quince,nditiñu,,5540,,tepe03,belmar1902el-cuicateco
+168,number,veinte,ndiku,,5541,,tepe03,belmar1902el-cuicateco
+169,property,pobre,nguaa,,5542,,tepe03,belmar1902el-cuicateco
+170,property,rico,kuika,,5543,,tepe03,belmar1902el-cuicateco
+171,property,frío,ichia,,5544,,tepe03,belmar1902el-cuicateco
+172,property,"está caliente, caliente",$,,,,tepe03,belmar1902el-cuicateco
+173,property,grande,chiata,,5545,,tepe03,belmar1902el-cuicateco
+174,property,grande.PL,$,,,,tepe03,belmar1902el-cuicateco
+175,property,pequeño,lin,,5546,,tepe03,belmar1902el-cuicateco
+175,property,pequeño,dubi,,5547,,tepe03,belmar1902el-cuicateco
+176,property,"pequeño.PL, chico.PL",$,,,,tepe03,belmar1902el-cuicateco
+177,property,largo,chianu,,5548,,tepe03,belmar1902el-cuicateco
+178,property,largo.PL,$,,,,tepe03,belmar1902el-cuicateco
+179,property,bueno,daka,,5549,,tepe03,belmar1902el-cuicateco
+180,property,dulce,chiadi,,5550,,tepe03,belmar1902el-cuicateco
+181,property,salado,$,,,,tepe03,belmar1902el-cuicateco
+182,property,amargo,ya,,5551,,tepe03,belmar1902el-cuicateco
+183,property,sabroso,$,,,,tepe03,belmar1902el-cuicateco
+184,property,ancho,chanu,,5552,,tepe03,belmar1902el-cuicateco
+185,property,nuevo,ngai,,5553,,tepe03,belmar1902el-cuicateco
+186,property,"flojo, perezoso",chidandi,,5554,,tepe03,belmar1902el-cuicateco
+187,property,feo,$,,,,tepe03,belmar1902el-cuicateco
+188,property,celoso,ndita,,5555,,tepe03,belmar1902el-cuicateco
+189,property,cerca,ninu,,5556,,tepe03,belmar1902el-cuicateco
+190,property,lejos,ñiai,,5557,,tepe03,belmar1902el-cuicateco
+191,property,pesado,$,,,,tepe03,belmar1902el-cuicateco
+192,property,crudo,kuee,,5558,,tepe03,belmar1902el-cuicateco
+193,property,liso,ndunu,,5559,,tepe03,belmar1902el-cuicateco
+194,property,despacio,$,,,,tepe03,belmar1902el-cuicateco
+195,time,ayer,iku,,5560,,tepe03,belmar1902el-cuicateco
+196,time,año,nduyu,,5561,,tepe03,belmar1902el-cuicateco
+197,time,ahora,man,,5562,,tepe03,belmar1902el-cuicateco
+198,time,noche,ngaan,,5563,,tepe03,belmar1902el-cuicateco
+199,time,de noche,$,,,,tepe03,belmar1902el-cuicateco
+200,time,día,ngubi,,5564,,tepe03,belmar1902el-cuicateco
+201,time,de día,$,,,,tepe03,belmar1902el-cuicateco
+202,abstract,mitad,maa,,5565,,tepe03,belmar1902el-cuicateco
+203,abstract,dinero,tumi,,5566,,tepe03,belmar1902el-cuicateco
+204,abstract,trabajo,ntiñu,,5567,,tepe03,belmar1902el-cuicateco
+205,abstract,palabra,nduda,,5568,,tepe03,belmar1902el-cuicateco
+206,abstract,culpa,nundi,,5569,,tepe03,belmar1902el-cuicateco
+207,abstract,sueño,bad’iana,,5570,,tepe03,belmar1902el-cuicateco
+207,abstract,sueño,badyauna,,5571,,tepe03,belmar1902el-cuicateco
+208,abstract,cuándo,tiikuan,,5572,,tepe03,belmar1902el-cuicateco
+209,abstract,"canción, música",$,,,,tepe03,belmar1902el-cuicateco

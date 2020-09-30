@@ -16,44 +16,81 @@ wl1 <- wl %>% select(ID, DOCULECT, GLOSS, VALUE, FORM, IDlist, NOTES, SOURCE) %>
   filter(VALUE!="$")
 glimpse(wl1)
 
-# move floating tones to new column
-wl1 <- wl1 %>% separate(VALUE, into = c("VALUE", "FLOAT1"), sep = "(?= \\[)") %>% 
+# move floating tones in Hollenbach 2013/pena11 to new column
+hb <- wl1 %>% filter(SOURCE=="hollenbach2017diccionario") %>% 
+  separate(VALUE, into = c("VALUE", "FLOAT1"), sep = "(?= \\[)") %>% 
   separate(VALUE, into = c("VALUE", "FLOAT2"), sep = "(?= \\{)") %>% 
   unite("FLOATTONE", FLOAT1, FLOAT2) %>%
   mutate(FLOATTONE = str_remove(FLOATTONE, "NA_NA")) %>%
   mutate(FLOATTONE = str_remove(FLOATTONE, "NA_")) %>%
-  mutate(FLOATTONE = str_remove(FLOATTONE, "_NA"))
-glimpse(wl1)
+  mutate(FLOATTONE = str_remove(FLOATTONE, "_NA")) %>%
+  mutate(FLOATTONE = trimws(FLOATTONE))
+glimpse(hb)
 
-# copy values to form, if form is empty, order columsn
-wl2 <- wl1 %>% mutate(FORM = if_else(is.na(FORM), VALUE, FORM)) %>%
+# move floating tones in Swanton-Mendoza/vari to new column
+sm <- wl1 %>% filter(SOURCE=="swanton2020observaciones") %>% 
+  separate(VALUE, into = c("VALUE", "FLOATTONE"), sep = "(?=\\+)") %>%
+  mutate(FLOATTONE = trimws(FLOATTONE))
+glimpse(sm)
+
+# add column to main df, paste two other dfs back
+wl1 <- wl1 %>% filter(SOURCE!="swanton2020observaciones") %>% filter(SOURCE!="hollenbach2017diccionario") %>% mutate(FLOATTONE=NA)
+glimpse(wl1)
+wl2 <- bind_rows(wl1, hb, sm)
+wl2 <- filter(distinct(wl2))
+
+# copy values to form, if form is empty, order columns
+wl3 <- wl2 %>% mutate(FORM = if_else(is.na(FORM), VALUE, FORM)) %>%
   select(ID:VALUE, FORM, FLOATTONE, IDlist:SOURCE)
 # normalize unicode
-wl2$FORM <- stri_trans_nfd(wl2$FORM)
+wl3$FORM <- stri_trans_nfd(wl2$FORM)
 # lower case
-wl2$FORM <- tolower(wl2$FORM)
-glimpse(wl2)
-head(wl2)
+wl3$FORM <- tolower(wl3$FORM)
+glimpse(wl3)
+head(wl3)
 
 # check for duplicate IDs after every list to avoid issues!
-wl2 %>% count(ID) %>% filter(n > 1)
-# check for NA in ID
-which(is.na(wl2$ID))
+wl3 %>% count(ID) %>% filter(n > 1)
+
+# check for NA in identifier columns
+which(is.na(wl3$ID))
+which(is.na(wl3$DOCULECT))
+which(is.na(wl3$IDlist))
+wl3[5550, ]
+
 
 # sort by list item, then variety
-wl2 <- wl2 %>% arrange(IDlist, DOCULECT) 
+wl3 <- wl3 %>% arrange(IDlist, DOCULECT) 
 
 # entries per concept
-ct <- table(wl2$IDlist)
+ct <- table(wl3$IDlist)
 plot(ct)
 mean(ct)
 median(ct)
 max(ct)
 min(ct)
 
+ctdf <- wl3 %>% group_by(IDlist) %>% summarise(entries = n()) %>% arrange(desc(entries))
+ctdf
+
+
+
+# total varieties
+length(unique(wl3$DOCULECT))
+# 39
+
+# entries per variety
+ev <- wl3 %>% group_by(DOCULECT) %>% summarise(entries = n()) %>% arrange(desc(entries))
+ev
+tail(ev)
+
+# list all varieties
+sort(unique(wl3$DOCULECT))
+
+
 # export to tsv for further processing
-write_tsv(wl2, "/Users/auderset/Documents/GitHub/mixteca/ComparativeList/mixt_complist.tsv")
+write_tsv(wl3, "/Users/auderset/Documents/GitHub/mixteca/ComparativeList/mixt_complist.tsv")
 
 # to know where to continue IDs
-max(wl2$ID, na.rm = TRUE)
-# 5412
+max(wl3$ID, na.rm = TRUE)
+# 5905
