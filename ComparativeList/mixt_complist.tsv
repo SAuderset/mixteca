@@ -6,12 +6,14 @@ ID	DOCULECT	GLOSS	VALUE	FORM	FLOATTONE	IDlist	NOTES	SOURCE
 743	ayut11	mother	sihīn	NA	NA	1	NA	hills1990syntactic
 3948	chay11	madre	zɨhɨ	NA	NA	1	NA	pensinger1974diccionario
 1637	chic02	madre	Nni	NA	NA	1	NA	belmar1897ensayo
+5906	chic12	madre	nni’²	NA	NA	1	NA	good1978diccionario
 881	coat11	mother	dɨhɨ̄	NA	NA	1	NA	small1990syntactic
 4149	colo11	madre	sɨ̀hɨ̀	NA	NA	1	NA	stark1986diccionario
 1287	conc11	mother	chākū	NA	NA	1	NA	bradley1991preliminary
 1489	copa11	mother	nii3	NA	NA	1	NA	hollenbach1992syntactic
 1139	diux11	mother	ðɨ́hî	NA	NA	1	NA	kuiper1991syntactic
 375	jami11	mother	sɨhɨ	NA	NA	1	NA	johnson1988syntactic
+6116	jica13	madre	nána	NA	NA	1	NA	Emily John-Martin
 495	ocot11	mother	nāná	NA	NA	1	NA	alexander1988syntactic
 5200	papa11	madre	cha³cu³	NA	NA	1	NA	anderson1983diccionario
 4846	pena11	madre	si’i	NA	[A]	1	NA	hollenbach2017diccionario
@@ -34,6 +36,7 @@ ID	DOCULECT	GLOSS	VALUE	FORM	FLOATTONE	IDlist	NOTES	SOURCE
 1288	conc11	mother!, mom!	nána	NA	NA	2	NA	bradley1991preliminary
 1490	copa11	mother!, mom!	'na3nii3	NA	NA	2	NA	hollenbach1992syntactic
 1140	diux11	mother!, mom!	nána	NA	NA	2	NA	kuiper1991syntactic
+6117	jica13	mamá!	ná	NA	NA	2	NA	Emily John-Martin
 496	ocot11	mother!, mom!	nāná	NA	NA	2	NA	alexander1988syntactic
 5201	papa11	mamá!	na⁴na¹	NA	NA	2	not entirely sure, found in an example	anderson1983diccionario
 4848	pena11	mamá!	náà	NA	[BA]	2	NA	hollenbach2017diccionario
@@ -46,6 +49,7 @@ ID	DOCULECT	GLOSS	VALUE	FORM	FLOATTONE	IDlist	NOTES	SOURCE
 3949	chay11	padre	zutu	NA	NA	3	NA	pensinger1974diccionario
 1638	chic02	padre	Treeha	NA	NA	3	NA	belmar1897ensayo
 1639	chic02	padre	Dreeha	NA	NA	3	NA	belmar1897ensayo
+5907	chic12	padre	dre’²	NA	NA	3	NA	good1978diccionario
 883	coat11	father	uvā	NA	NA	3	NA	small1990syntactic
 4151	colo11	padre	jùtù	NA	NA	3	NA	stark1986diccionario
 1289	conc11	father	chīdā	NA	NA	3	NA	bradley1991preliminary
@@ -53,6 +57,7 @@ ID	DOCULECT	GLOSS	VALUE	FORM	FLOATTONE	IDlist	NOTES	SOURCE
 1141	diux11	father	taā	NA	NA	3	NA	kuiper1991syntactic
 2966	flor12	padre, papá	táta	NA	NA	3	NA	oxnard2020
 376	jami11	father	sutu	NA	NA	3	NA	johnson1988syntactic
+6118	jica13	padre	táta	NA	NA	3	NA	Emily John-Martin
 2968	mixt11	padre, papá	tatà 	NA	NA	3	NA	oxnard2020
 2967	mont12	padre, papá	tatá	NA	NA	3	NA	oxnard2020
 497	ocot11	father	tātá	NA	NA	3	NA	alexander1988syntactic
@@ -79,6 +84,7 @@ ID	DOCULECT	GLOSS	VALUE	FORM	FLOATTONE	IDlist	NOTES	SOURCE
 1290	conc11	father!, dad!	táta	NA	NA	4	NA	bradley1991preliminary
 1492	copa11	father!, dad!	'a3tax1	NA	NA	4	Sp. tata	hollenbach1992syntactic
 1142	diux11	father!, dad!	táta	NA	NA	4	NA	kuiper1991syntactic
+6119	jica13	papá!	tá	NA	NA	4	NA	Emily John-Martin
 4851	pena11	papá!	táà	NA	[BA]	4	NA	hollenbach2017diccionario
 617	prog12	father!, dad!	taá	NA	NA	4	NA	shields1988syntactic
 1364	yoso11	father!, dad!	papá	NA	NA	4	Sp. loan	farris1992syntactic
@@ -95,6 +101,7 @@ ID	DOCULECT	GLOSS	VALUE	FORM	FLOATTONE	IDlist	NOTES	SOURCE
 3950	chay11	hijo/hija	zehe	NA	NA	5	NA	pensinger1974diccionario
 2063	chay11	child	θèʔē	NA	NA	5	NA	durr1987preliminary
 1640	chic02	hijo/hija	Tani	NA	NA	5	NA	belmar1897ensayo
+5908	chic12	hijo/hija	da’ni⁴⁵	NA	NA	5	NA	good1978diccionario
 885	coat11	son/daughter, child	ihshá	NA	NA	5	NA	small1990syntactic
 2050	coat11	child	íʔšá	NA	NA	5	NA	durr1987preliminary
 4153	colo11	hijo/hija	sehe	NA	NA	5	NA	stark1986diccionario
@@ -107,6 +114,7 @@ ID	DOCULECT	GLOSS	VALUE	FORM	FLOATTONE	IDlist	NOTES	SOURCE
 2054	gran11	child	sèʔē	NA	NA	5	NA	durr1987preliminary
 377	jami11	son/daughter, child	sēhe	NA	NA	5	NA	johnson1988syntactic
 2062	jica11	child	séʔé	NA	NA	5	NA	durr1987preliminary
+6120	jica13	hijo/hija	se̠'e	NA	NA	5	NA	Emily John-Martin
 2058	metl11	child	sēʔē	NA	NA	5	NA	durr1987preliminary
 2060	mixt11	child	sèʔē	NA	NA	5	NA	durr1987preliminary
 2973	mixt11	hijo/hija	sè'e	NA	NA	5	NA	oxnard2020
@@ -132,6 +140,7 @@ ID	DOCULECT	GLOSS	VALUE	FORM	FLOATTONE	IDlist	NOTES	SOURCE
 5575	zaca11	hijo	se²Ɂe²¹	NA	NA	5	NA	swanton2020observaciones
 5	abas11	hijo	se’e	NA	NA	6	NA	galindo-sanchez2009vocabulario
 1641	chic02	hijo	Tanixnagu	NA	NA	6	child-man	belmar1897ensayo
+5909	chic12	hijo	da’ni⁴⁵ sna’u’⁴	NA	NA	6	NA	good1978diccionario
 5205	papa11	hijo	sa²’an⁴ da³ya³	NA	NA	6	man child	anderson1983diccionario
 4853	pena11	hijo	sàyìi	sà-yìi	[A]	6	child-male	hollenbach2017diccionario
 619	prog12	son	xahyī taā	NA	NA	6	NA	shields1988syntactic
@@ -139,6 +148,7 @@ ID	DOCULECT	GLOSS	VALUE	FORM	FLOATTONE	IDlist	NOTES	SOURCE
 1832	tepo01	hijo	deqtata	NA	NA	6	a compound with father?	alvarado1593vocabulario
 6	abas11	hija	sesi’i	NA	NA	7	NA	galindo-sanchez2009vocabulario
 1642	chic02	hija	Tanichanaha	NA	NA	7	child-female	belmar1897ensayo
+5910	chic12	hija	da’ni⁴⁵ gan’an⁵	NA	NA	7	NA	good1978diccionario
 886	coat11	daughter	dyōkó	NA	NA	7	NA	small1990syntactic
 499	ocot11	daughter	sehē síhi	NA	NA	7	child female	alexander1988syntactic
 5206	papa11	hija	ta¹’an⁴ da³ya³	NA	NA	7	woman child	anderson1983diccionario
@@ -152,11 +162,13 @@ ID	DOCULECT	GLOSS	VALUE	FORM	FLOATTONE	IDlist	NOTES	SOURCE
 749	ayut11	cross-sex sibling	kuhva	NA	NA	8	NA	hills1990syntactic
 3951	chay11	hermana/hermano de otro genero	cùhvā	NA	NA	8	NA	pensinger1974diccionario
 2073	chay11	cross-sex sibling	kùʔƀā	NA	NA	8	NA	durr1987preliminary
+5911	chic12	hermana/hermano de otro genero	xugüe’³	NA	NA	8	NA	good1978diccionario
 4154	colo11	hermana/hermano de otro genero	cuhva	NA	NA	8	NA	stark1986diccionario
 1494	copa11	cross-sex sibling	rahwix32	NA	NA	8	only translated as ‘brother of female’	hollenbach1992syntactic
 2064	diux11	cross-sex sibling	kú’ʔá	NA	NA	8	NA	durr1987preliminary
 2976	flor12	hermana/hermano de otro genero	kò'vì	NA	NA	8	NA	oxnard2020
 2069	gran11	cross-sex sibling	kʷàʔā	NA	NA	8	NA	durr1987preliminary
+6121	jica13	hermana/hermano de otro genero	ku̠'va	NA	NA	8	NA	Emily John-Martin
 2071	metl11	cross-sex sibling	kūʔƀā	NA	NA	8	NA	durr1987preliminary
 2066	moli11	cross-sex sibling	kʷàʔā	NA	NA	8	NA	durr1987preliminary
 2977	mont12	hermana/hermano de otro genero	kìva	NA	NA	8	NA	oxnard2020
@@ -188,6 +200,7 @@ ID	DOCULECT	GLOSS	VALUE	FORM	FLOATTONE	IDlist	NOTES	SOURCE
 5581	chal11	hermano de hombre	ɲa²ni¹	NA	NA	9	NA	swanton2020observaciones
 3952	chay11	hermano de hombre	yañi	NA	NA	9	NA	pensinger1974diccionario
 1643	chic02	hermano	Tînêha	NA	NA	9	NA	belmar1897ensayo
+5912	chic12	hermano de hombre	dinï’²	NA	NA	9	NA	good1978diccionario
 887	coat11	brother of man	ení	NA	NA	9	NA	small1990syntactic
 2076	coat11	brother of man	éní̧	NA	NA	9	NA	durr1987preliminary
 4155	colo11	hermano de hombre	yáni	NA	NA	9	NA	stark1986diccionario
@@ -198,6 +211,7 @@ ID	DOCULECT	GLOSS	VALUE	FORM	FLOATTONE	IDlist	NOTES	SOURCE
 2980	flor12	hermano de hombre	ñanì	NA	NA	9	NA	oxnard2020
 2079	gran11	brother of man	ñānì	NA	NA	9	NA	durr1987preliminary
 378	jami11	brother of man	yan̄i	NA	NA	9	NA	johnson1988syntactic
+6122	jica13	hermano de hombre	ñani	NA	NA	9	NA	Emily John-Martin
 2083	metl11	brother of man	yānī	NA	NA	9	NA	durr1987preliminary
 2982	mixt11	hermano de hombre	ñanì	NA	NA	9	NA	oxnard2020
 2981	mont12	hermano de hombre	ñanì	NA	NA	9	NA	oxnard2020
@@ -229,6 +243,7 @@ ID	DOCULECT	GLOSS	VALUE	FORM	FLOATTONE	IDlist	NOTES	SOURCE
 2092	caca11	sister of woman	kùʔù	NA	NA	10	NA	durr1987preliminary
 3953	chay11	hermana de mujer	cùhù	NA	NA	10	NA	pensinger1974diccionario
 1644	chic02	hermana	Chughueha	NA	NA	10	NA	belmar1897ensayo
+5913	chic12	hermana de mujer	xugüi’³	NA	NA	10	NA	good1978diccionario
 888	coat11	sister of woman	tahan	NA	NA	10	sister in general?	small1990syntactic
 4156	colo11	hermana de mujer	cùhvì	NA	NA	10	NA	stark1986diccionario
 1496	copa11	sister of woman	shuhwix32	NA	NA	10	NA	hollenbach1992syntactic
@@ -237,6 +252,7 @@ ID	DOCULECT	GLOSS	VALUE	FORM	FLOATTONE	IDlist	NOTES	SOURCE
 2985	flor12	hermana de mujer	ku'ì	NA	NA	10	NA	oxnard2020
 2091	gran11	sister of woman	kùʔù	NA	NA	10	NA	durr1987preliminary
 379	jami11	sister of woman	kuhu	NA	NA	10	NA	johnson1988syntactic
+6123	jica13	hermana de mujer	ku̠'vi̠	NA	NA	10	NA	Emily John-Martin
 2095	metl11	sister of woman	kūʔƀī	NA	NA	10	NA	durr1987preliminary
 2088	moli11	sister of woman	kùʔù	NA	NA	10	NA	durr1987preliminary
 2986	mont12	hermana de mujer	kìvì	NA	NA	10	NA	oxnard2020
@@ -265,6 +281,7 @@ ID	DOCULECT	GLOSS	VALUE	FORM	FLOATTONE	IDlist	NOTES	SOURCE
 2108	cahu11	aunt	sīsī	NA	NA	11	NA	durr1987preliminary
 3954	chay11	tía	tyixi	NA	NA	11	NA	pensinger1974diccionario
 1645	chic02	tía	Tughuia	NA	NA	11	NA	belmar1897ensayo
+5914	chic12	tía	du’ui’²	NA	NA	11	NA	good1978diccionario
 889	coat11	aunt	ñāná	NA	NA	11	NA	small1990syntactic
 2099	coat11	aunt	đíđí	NA	NA	11	NA	durr1987preliminary
 4157	colo11	tía	tyíxi	NA	NA	11	NA	stark1986diccionario
@@ -276,6 +293,7 @@ ID	DOCULECT	GLOSS	VALUE	FORM	FLOATTONE	IDlist	NOTES	SOURCE
 2103	gran11	aunt	šīì	NA	NA	11	NA	durr1987preliminary
 380	jami11	aunt	chishi	NA	NA	11	NA	johnson1988syntactic
 2110	jica11	aunt	čīšī	NA	NA	11	NA	durr1987preliminary
+6124	jica13	tía	xixi	NA	NA	11	NA	Emily John-Martin
 2107	metl11	aunt	šīšī	NA	NA	11	NA	durr1987preliminary
 2100	moli11	aunt	sīsì	NA	NA	11	NA	durr1987preliminary
 503	ocot11	aunt	shīshi	NA	NA	11	NA	alexander1988syntactic
@@ -303,6 +321,7 @@ ID	DOCULECT	GLOSS	VALUE	FORM	FLOATTONE	IDlist	NOTES	SOURCE
 2122	cahu11	uncle	sītō	NA	NA	12	NA	durr1987preliminary
 3955	chay11	tío	xito	NA	NA	12	NA	pensinger1974diccionario
 1646	chic02	tío	Tanénha	NA	NA	12	NA	belmar1897ensayo
+5915	chic12	tío	da’nï’²	NA	NA	12	NA	good1978diccionario
 890	coat11	uncle	dītó	NA	NA	12	NA	small1990syntactic
 2113	coat11	uncle	đító	NA	NA	12	NA	durr1987preliminary
 4158	colo11	tío	ìxtò	NA	NA	12	NA	stark1986diccionario
@@ -313,6 +332,7 @@ ID	DOCULECT	GLOSS	VALUE	FORM	FLOATTONE	IDlist	NOTES	SOURCE
 2117	gran11	uncle	stōò	NA	NA	12	NA	durr1987preliminary
 381	jami11	uncle	shító	NA	NA	12	NA	johnson1988syntactic
 2125	jica11	uncle	šītō	NA	NA	12	NA	durr1987preliminary
+6125	jica13	tío	xito	NA	NA	12	NA	Emily John-Martin
 2121	metl11	uncle	šītò	NA	NA	12	NA	durr1987preliminary
 2123	mixt11	uncle	šītò	NA	NA	12	NA	durr1987preliminary
 2114	moli11	uncle	stōò	NA	NA	12	NA	durr1987preliminary
@@ -342,6 +362,7 @@ ID	DOCULECT	GLOSS	VALUE	FORM	FLOATTONE	IDlist	NOTES	SOURCE
 2132	ayut11	man	tʸāà	NA	NA	13	NA	durr1987preliminary
 3956	chay11	hombre	rayɨɨ	ra-yɨɨ	NA	13	NA	pensinger1974diccionario
 1647	chic02	hombre	Tsixnagú	NA	NA	13	NA	belmar1897ensayo
+5916	chic12	hombre	si¹	NA	NA	13	NA	good1978diccionario
 4159	colo11	hombre	rayɨɨ	ra-yɨɨ	NA	13	3SG.M-male	stark1986diccionario
 1294	conc11	man	sāhan	NA	NA	13	not sure about the tone, since the word never appears in isolation; with emphasis it seems to be sáhan	bradley1991preliminary
 1499	copa11	man	chii3	NA	NA	13	NA	hollenbach1992syntactic
@@ -349,6 +370,7 @@ ID	DOCULECT	GLOSS	VALUE	FORM	FLOATTONE	IDlist	NOTES	SOURCE
 2996	flor12	hombre	tsiàja	NA	NA	13	NA	oxnard2020
 2130	gran11	man	čàā	NA	NA	13	NA	durr1987preliminary
 382	jami11	man	ra-yɨɨ	NA	NA	13	NA	johnson1988syntactic
+6126	jica13	hombre	tia̠a	NA	NA	13	NA	Emily John-Martin
 2133	metl11	man	tʸàā	NA	NA	13	NA	durr1987preliminary
 2134	mixt11	man	čàā	NA	NA	13	NA	durr1987preliminary
 2998	mixt11	hombre	chàa	NA	NA	13	NA	oxnard2020
@@ -379,6 +401,7 @@ ID	DOCULECT	GLOSS	VALUE	FORM	FLOATTONE	IDlist	NOTES	SOURCE
 2140	cahu11	woman	ñāʔà	NA	NA	14	NA	durr1987preliminary
 3957	chay11	mujer	ñaha	NA	NA	14	NA	pensinger1974diccionario
 1648	chic02	mujer	Tsichunaha	NA	NA	14	NA	belmar1897ensayo
+5917	chic12	mujer	si³ xana⁵	NA	NA	14	NA	good1978diccionario
 4160	colo11	mujer	ñaha	NA	NA	14	NA	stark1986diccionario
 1295	conc11	woman	tāhan	NA	NA	14	NA	bradley1991preliminary
 1296	conc11	woman	nthātā	NA	NA	14	I don’t know if there’s a difference between the two terms	bradley1991preliminary
@@ -388,6 +411,7 @@ ID	DOCULECT	GLOSS	VALUE	FORM	FLOATTONE	IDlist	NOTES	SOURCE
 2138	gran11	woman	ñā̧ʔā̧	NA	NA	14	NA	durr1987preliminary
 383	jami11	woman	ñāhā	NA	NA	14	NA	johnson1988syntactic
 2143	jica11	woman	ñà̧ʔà̧	NA	NA	14	NA	durr1987preliminary
+6127	jica13	mujer	ñá sí'i	NA	NA	14	NA	Emily John-Martin
 2141	mixt11	woman	ñā̧ʔá̧	NA	NA	14	NA	durr1987preliminary
 2136	moli11	woman	ñā̧ʔā̧	NA	NA	14	NA	durr1987preliminary
 506	ocot11	woman	ñāhān	NA	NA	14	NA	alexander1988syntactic
@@ -409,12 +433,14 @@ ID	DOCULECT	GLOSS	VALUE	FORM	FLOATTONE	IDlist	NOTES	SOURCE
 1016	alac11	owner, boss	shi-tóhó	NA	NA	15	from tohó ‘respect’	zylstra1991syntactic
 3958	chay11	dueño, patrón	sitoho	NA	NA	15	NA	pensinger1974diccionario
 1649	chic02	dueño	Kuisiha	NA	NA	15	NA	belmar1897ensayo
+5918	chic12	dueño	si¹ si-’yaj³	NA	NA	15	man	good1978diccionario
 891	coat11	owner, boss	tōhó	NA	NA	15	NA	small1990syntactic
 4161	colo11	dueño	játsíí	NA	NA	15	NA	stark1986diccionario
 4162	colo11	dueño	tsitóhò	NA	NA	15	NA	stark1986diccionario
 1151	diux11	owner, boss	shtóho	NA	NA	15	NA	kuiper1991syntactic
 3004	flor12	dueño	nà xi'ìn ña'à	NA	NA	15	NA	oxnard2020
 384	jami11	owner, boss	chi-toho	NA	NA	15	NA	johnson1988syntactic
+6128	jica13	dueño	xi̠tǒ'o	NA	NA	15	NA	Emily John-Martin
 3006	mixt11	dueño	sto'o	NA	NA	15	NA	oxnard2020
 3005	mont12	dueño	sìtoò	NA	NA	15	NA	oxnard2020
 507	ocot11	owner	xe-tōho	NA	NA	15	NA	alexander1988syntactic
@@ -435,12 +461,14 @@ ID	DOCULECT	GLOSS	VALUE	FORM	FLOATTONE	IDlist	NOTES	SOURCE
 755	ayut11	priest	sūtu	NA	NA	16	NA	hills1990syntactic
 3959	chay11	sacerdote	zutu	NA	NA	16	NA	pensinger1974diccionario
 1650	chic02	sacerdote	Treeha	NA	NA	16	same as 3	belmar1897ensayo
+5919	chic12	sacerdote	xi’² drej³	NA	NA	16	NA	good1978diccionario
 892	coat11	priest	dutu	NA	NA	16	NA	small1990syntactic
 4163	colo11	sacerdote	jùtù	NA	NA	16	NA	stark1986diccionario
 1501	copa11	priest	shrex3	NA	NA	16	NA	hollenbach1992syntactic
 1152	diux11	priest	ðutú	NA	NA	16	NA	kuiper1991syntactic
 3009	flor12	sacerdote	sùjtù	NA	NA	16	NA	oxnard2020
 385	jami11	priest	sutu	NA	NA	16	NA	johnson1988syntactic
+6129	jica13	sacerdote	su̠tu̠	NA	NA	16	NA	Emily John-Martin
 3011	mixt11	sacerdote	sùtù	NA	NA	16	NA	oxnard2020
 3010	mont12	sacerdote	jùtì	NA	NA	16	NA	oxnard2020
 508	ocot11	priest	sutu	NA	NA	16	NA	alexander1988syntactic
@@ -459,11 +487,13 @@ ID	DOCULECT	GLOSS	VALUE	FORM	FLOATTONE	IDlist	NOTES	SOURCE
 5586	chal11	sangre	nɨ²ɲɨ¹	NA	+³	17	NA	swanton2020observaciones
 3960	chay11	sangre	nɨ̀ñɨ̀	NA	NA	17	NA	pensinger1974diccionario
 1651	chic02	sangre	Tunha	NA	NA	17	NA	belmar1897ensayo
+5920	chic12	sangre	tun³	NA	NA	17	NA	good1978diccionario
 4164	colo11	sangre	nɨ̀ñɨ̀	NA	NA	17	NA	stark1986diccionario
 1502	copa11	blood	ton32	NA	NA	17	NA	hollenbach1992syntactic
 1153	diux11	blood	ñí’ñí	NA	NA	17	tones are not basic form, only appears in one example	kuiper1991syntactic
 3014	flor12	sangre	nìjǐ	NA	NA	17	NA	oxnard2020
 386	jami11	blood	nɨñɨ	NA	NA	17	NA	johnson1988syntactic
+6130	jica13	sangre	ni̠í	NA	NA	17	NA	Emily John-Martin
 3016	mixt11	sangre	nìín	NA	NA	17	NA	oxnard2020
 3015	mont12	sangre	nììn	NA	NA	17	NA	oxnard2020
 5217	papa11	sangre	yun³	NA	NA	17	NA	anderson1983diccionario
@@ -487,12 +517,14 @@ ID	DOCULECT	GLOSS	VALUE	FORM	FLOATTONE	IDlist	NOTES	SOURCE
 2150	cahu11	bone	yīkī	NA	NA	18	NA	durr1987preliminary
 3961	chay11	hueso	yɨquɨ	NA	NA	18	NA	pensinger1974diccionario
 1652	chic02	hueso	Kúúhu	NA	NA	18	NA	belmar1897ensayo
+5921	chic12	hueso	cu¹	NA	NA	18	NA	good1978diccionario
 4165	colo11	hueso	yɨquɨ	NA	NA	18	NA	stark1986diccionario
 1297	conc11	bone	īní	NA	NA	18	NA	bradley1991preliminary
 1503	copa11	bone	kuu5	NA	NA	18	NA	hollenbach1992syntactic
 2144	diux11	bone	žɨ̀kɨ̀	NA	NA	18	NA	durr1987preliminary
 3019	flor12	hueso	ikǐ	NA	NA	18	NA	oxnard2020
 2147	gran11	bone	žɨ̄kɨ̄	NA	NA	18	NA	durr1987preliminary
+6131	jica13	hueso	lakí	NA	NA	18	NA	Emily John-Martin
 2149	metl11	bone	īkí	NA	NA	18	NA	durr1987preliminary
 3021	mixt11	hueso	íkí ché'é	NA	NA	18	NA	oxnard2020
 3020	mont12	hueso	lasa	NA	NA	18	NA	oxnard2020
@@ -516,12 +548,14 @@ ID	DOCULECT	GLOSS	VALUE	FORM	FLOATTONE	IDlist	NOTES	SOURCE
 5591	chal11	pelo	i²ʃi²	NA	+³	19	NA	swanton2020observaciones
 3962	chay11	pelo, lana	ixi	NA	NA	19	NA	pensinger1974diccionario
 1653	chic02	pelo	Hûghue	NA	NA	19	NA	belmar1897ensayo
+5922	chic12	pelo	huue² ahui’²	NA	NA	19	NA	good1978diccionario
 893	coat11	hair	idi	NA	NA	19	NA	small1990syntactic
 4166	colo11	pelo	ixi	NA	NA	19	NA	stark1986diccionario
 1298	conc11	hair, head	tīin	NA	NA	19	NA	bradley1991preliminary
 1154	diux11	hair	íðí	NA	NA	19	NA	kuiper1991syntactic
 3024	flor12	pelo	ijxǐ	NA	NA	19	NA	oxnard2020
 387	jami11	hair	īshī	NA	NA	19	NA	johnson1988syntactic
+6132	jica13	pelo	ixí	NA	NA	19	NA	Emily John-Martin
 3026	mixt11	pelo	ixî	NA	NA	19	NA	oxnard2020
 3025	mont12	pelo	ixì	NA	NA	19	NA	oxnard2020
 509	ocot11	hair	īshī	NA	NA	19	NA	alexander1988syntactic
@@ -549,6 +583,7 @@ ID	DOCULECT	GLOSS	VALUE	FORM	FLOATTONE	IDlist	NOTES	SOURCE
 3963	chay11	cara	nuu yo	nuu	NA	20	NA	pensinger1974diccionario
 2162	chay11	face	nùù	NA	NA	20	NA	durr1987preliminary
 1654	chic02	cara	Rriíñiaha	NA	NA	20	NA	belmar1897ensayo
+5923	chic12	cara	riun’³⁴	NA	NA	20	NA	good1978diccionario
 894	coat11	face	núu	NA	NA	20	NA	small1990syntactic
 2152	coat11	face	nú̧ǔ̧	NA	NA	20	NA	durr1987preliminary
 4167	colo11	cara	nùù yò	nùù	NA	20	NA	stark1986diccionario
@@ -559,6 +594,7 @@ ID	DOCULECT	GLOSS	VALUE	FORM	FLOATTONE	IDlist	NOTES	SOURCE
 2156	gran11	face	nūù	NA	NA	20	NA	durr1987preliminary
 388	jami11	face	nuu	NA	NA	20	NA	johnson1988syntactic
 2161	jica11	face	nú̧ú̧	NA	NA	20	NA	durr1987preliminary
+6133	jica13	cara	nu̠ú	NA	NA	20	NA	Emily John-Martin
 2159	mixt11	face	nùú	NA	NA	20	NA	durr1987preliminary
 3031	mixt11	cara	nùún	NA	NA	20	NA	oxnard2020
 2153	moli11	face	nùù	NA	NA	20	NA	durr1987preliminary
@@ -589,9 +625,11 @@ ID	DOCULECT	GLOSS	VALUE	FORM	FLOATTONE	IDlist	NOTES	SOURCE
 5596	chal11	lengua	ja³a²	NA	+³	21	NA	swanton2020observaciones
 3964	chay11	lengua	yaa yo	yaa	NA	21	NA	pensinger1974diccionario
 1655	chic02	lengua	Yuaha	NA	NA	21	NA	belmar1897ensayo
+5924	chic12	lengua	yyo’³⁴	NA	NA	21	NA	good1978diccionario
 1505	copa11	tongue	yaa32	NA	NA	21	NA	hollenbach1992syntactic
 3034	flor12	lengua	yajǎ	NA	NA	21	NA	oxnard2020
 2166	gran11	tongue	žáā	NA	NA	21	NA	durr1987preliminary
+6134	jica13	lengua	yâá	NA	NA	21	NA	Emily John-Martin
 2172	mixt11	tongue	yâá	NA	NA	21	NA	durr1987preliminary
 2164	ocot11	tongue	žáá	NA	NA	21	NA	durr1987preliminary
 5221	papa11	lengua	ch’i³ya³	NA	NA	21	NA	anderson1983diccionario
@@ -616,11 +654,13 @@ ID	DOCULECT	GLOSS	VALUE	FORM	FLOATTONE	IDlist	NOTES	SOURCE
 2180	cahu11	tooth	nò̧ʔō̧	NA	NA	22	NA	durr1987preliminary
 3965	chay11	diente	noho yo	noho	NA	22	NA	pensinger1974diccionario
 1656	chic02	diente	Kuyiaàha	NA	NA	22	NA	belmar1897ensayo
+5925	chic12	diente	yun’²	NA	NA	22	NA	good1978diccionario
 2175	coat11	tooth	nù̧ʔú̧	NA	NA	22	NA	durr1987preliminary
 4169	colo11	diente	nuhu yo	nuhu	NA	22	NA	stark1986diccionario
 1300	conc11	tooth	dīyhūn	NA	NA	22	NA	bradley1991preliminary
 3037	flor12	diente	nù'un	NA	NA	22	NA	oxnard2020
 2178	gran11	tooth	nù̧ʔū̧	NA	NA	22	NA	durr1987preliminary
+6135	jica13	diente	nu̠'u	NA	NA	22	NA	Emily John-Martin
 3039	mixt11	diente	nù'un	NA	NA	22	NA	oxnard2020
 2176	moli11	tooth	nù̧ʔū̧	NA	NA	22	NA	durr1987preliminary
 3038	mont12	diente	nò'on	NA	NA	22	NA	oxnard2020
@@ -648,6 +688,7 @@ ID	DOCULECT	GLOSS	VALUE	FORM	FLOATTONE	IDlist	NOTES	SOURCE
 3966	chay11	boca	yuhu yo	yuhu	NA	23	NA	pensinger1974diccionario
 2194	chay11	mouth	yūʔū	NA	NA	23	NA	durr1987preliminary
 1657	chic02	boca	Duuaha	NA	NA	23	NA	belmar1897ensayo
+5926	chic12	boca	du’o’²	NA	NA	23	NA	good1978diccionario
 895	coat11	mouth	shuhu	NA	NA	23	NA	small1990syntactic
 2182	coat11	mouth	šùʔù	NA	NA	23	NA	durr1987preliminary
 4170	colo11	boca	yuhu yo	yuhu	NA	23	NA	stark1986diccionario
@@ -656,6 +697,7 @@ ID	DOCULECT	GLOSS	VALUE	FORM	FLOATTONE	IDlist	NOTES	SOURCE
 3042	flor12	boca	yu'ǔ	NA	NA	23	NA	oxnard2020
 2186	gran11	mouth	žūʔū	NA	NA	23	NA	durr1987preliminary
 389	jami11	mouth	yūhū	NA	NA	23	NA	johnson1988syntactic
+6136	jica13	boca	yu'ú	NA	NA	23	NA	Emily John-Martin
 2190	metl11	mouth	yùʔū	NA	NA	23	NA	durr1987preliminary
 2192	mixt11	mouth	yūʔú	NA	NA	23	NA	durr1987preliminary
 3044	mixt11	boca	yu'ú	NA	NA	23	NA	oxnard2020
@@ -691,6 +733,7 @@ ID	DOCULECT	GLOSS	VALUE	FORM	FLOATTONE	IDlist	NOTES	SOURCE
 2202	cahu11	ear	sòʔō	NA	NA	24	NA	durr1987preliminary
 3967	chay11	oreja	zoho yo	zoho	NA	24	NA	pensinger1974diccionario
 1658	chic02	oreja	Drakih	NA	NA	24	NA	belmar1897ensayo
+5927	chic12	oreja	raquï’²	NA	NA	24	NA	good1978diccionario
 4171	colo11	oreja	sohó yo	sohó	NA	24	NA	stark1986diccionario
 1507	copa11	ear	shree5	NA	NA	24	NA	hollenbach1992syntactic
 1157	diux11	ear	ðóho	NA	NA	24	NA	kuiper1991syntactic
@@ -698,6 +741,7 @@ ID	DOCULECT	GLOSS	VALUE	FORM	FLOATTONE	IDlist	NOTES	SOURCE
 3047	flor12	oreja	sò'o	NA	NA	24	NA	oxnard2020
 2198	gran11	ear	sòʔō	NA	NA	24	NA	durr1987preliminary
 2203	jica11	ear	sóʔó	NA	NA	24	NA	durr1987preliminary
+6137	jica13	oreja	so̠'o	NA	NA	24	NA	Emily John-Martin
 3049	mixt11	oreja	só'o	NA	NA	24	NA	oxnard2020
 3048	mont12	oreja	jò'o	NA	NA	24	NA	oxnard2020
 512	ocot11	ear	shitin	NA	NA	24	NA	alexander1988syntactic
@@ -719,12 +763,14 @@ ID	DOCULECT	GLOSS	VALUE	FORM	FLOATTONE	IDlist	NOTES	SOURCE
 5094	alac11	nariz	xijnī [C]	NA	NA	25	NA	alexander1980gramatica
 3968	chay11	nariz	xityi yo	xityi	NA	25	NA	pensinger1974diccionario
 1659	chic02	nariz	Takén	NA	NA	25	NA	belmar1897ensayo
+5928	chic12	nariz	daquïn’²	NA	NA	25	NA	good1978diccionario
 896	coat11	nose	dítsīn	NA	NA	25	NA	small1990syntactic
 4172	colo11	nariz	ìxtyìn yò	ìxtyìn	NA	25	NA	stark1986diccionario
 1508	copa11	nose	takuun5	NA	NA	25	NA	hollenbach1992syntactic
 1158	diux11	nose	ðínhni	NA	NA	25	NA	kuiper1991syntactic
 3052	flor12	nariz	xijtsǐn	NA	NA	25	NA	oxnard2020
 390	jami11	nose	shityin	NA	NA	25	NA	johnson1988syntactic
+6138	jica13	nariz	xi̠tín	NA	NA	25	NA	Emily John-Martin
 3054	mixt11	nariz	xìchǐ	NA	NA	25	NA	oxnard2020
 3053	mont12	nariz	xìtì	NA	NA	25	NA	oxnard2020
 5225	papa11	nariz	du³tu³	NA	NA	25	NA	anderson1983diccionario
@@ -740,10 +786,12 @@ ID	DOCULECT	GLOSS	VALUE	FORM	FLOATTONE	IDlist	NOTES	SOURCE
 762	ayut11	neck	sīkih	NA	NA	26	NA	hills1990syntactic
 3969	chay11	cuello, nuca, pescuezo	zucu yo	zucu	NA	26	NA	pensinger1974diccionario
 1660	chic02	cuello	Chiiaha	NA	NA	26	NA	belmar1897ensayo
+5929	chic12	cuello	xio’²	NA	NA	26	NA	good1978diccionario
 897	coat11	neck	dukun	NA	NA	26	NA	small1990syntactic
 4173	colo11	cuello	jùcùn yò	jùcùn	NA	26	NA	stark1986diccionario
 1509	copa11	neck	shia4	NA	NA	26	NA	hollenbach1992syntactic
 3057	flor12	cuello 	sojkǔn	NA	NA	26	NA	oxnard2020
+6139	jica13	cuello	su̠kún	NA	NA	26	NA	Emily John-Martin
 3059	mixt11	cuello 	sùkǔ	NA	NA	26	NA	oxnard2020
 3058	mont12	cuello 	jìkò	NA	NA	26	NA	oxnard2020
 513	ocot11	neck	sukun	NA	NA	26	NA	alexander1988syntactic
@@ -768,6 +816,7 @@ ID	DOCULECT	GLOSS	VALUE	FORM	FLOATTONE	IDlist	NOTES	SOURCE
 2214	cahu11	hand	ⁿdāʔā	NA	NA	27	NA	durr1987preliminary
 3970	chay11	mano	ndaha yo	ndaha	NA	27	NA	pensinger1974diccionario
 1661	chic02	mano	Traha	NA	NA	27	NA	belmar1897ensayo
+5930	chic12	mano	ro’o’²	NA	NA	27	NA	good1978diccionario
 898	coat11	hand	ndaha	NA	NA	27	NA	small1990syntactic
 2205	coat11	hand	ⁿdàʔà	NA	NA	27	NA	durr1987preliminary
 4174	colo11	mano	ndaha yo	ndaha	NA	27	NA	stark1986diccionario
@@ -778,6 +827,7 @@ ID	DOCULECT	GLOSS	VALUE	FORM	FLOATTONE	IDlist	NOTES	SOURCE
 2209	gran11	hand	ⁿdāʔā	NA	NA	27	NA	durr1987preliminary
 391	jami11	hand	ndāhā	NA	NA	27	NA	johnson1988syntactic
 2217	jica11	hand	ⁿdàʔà	NA	NA	27	NA	durr1987preliminary
+6140	jica13	mano	nta'á	NA	NA	27	NA	Emily John-Martin
 2213	metl11	hand	ⁿdàʔā	NA	NA	27	NA	durr1987preliminary
 2215	mixt11	hand	ⁿdāʔá	NA	NA	27	NA	durr1987preliminary
 3064	mixt11	mano	nda'á	NA	NA	27	NA	oxnard2020
@@ -808,6 +858,7 @@ ID	DOCULECT	GLOSS	VALUE	FORM	FLOATTONE	IDlist	NOTES	SOURCE
 5606	chal11	uña	ti³i²	NA	+³	28	NA	swanton2020observaciones
 3971	chay11	uña	tyiin yo	tyiin	NA	28	NA	pensinger1974diccionario
 1662	chic02	uña	Kusitenha	NA	NA	28	NA	belmar1897ensayo
+5931	chic12	uña	cu¹ sitïn’²	NA	NA	28	NA	good1978diccionario
 899	coat11	fingernail	tsiin	NA	NA	28	NA	small1990syntactic
 2218	coat11	fingernail	ȼì̧ì̧	NA	NA	28	NA	durr1987preliminary
 4175	colo11	uña	tyíñú yó	tyíñú	NA	28	NA	stark1986diccionario
@@ -815,6 +866,7 @@ ID	DOCULECT	GLOSS	VALUE	FORM	FLOATTONE	IDlist	NOTES	SOURCE
 3067	flor12	uña	chíjǐn	NA	NA	28	NA	oxnard2020
 2220	gran11	fingernail	tíñū	NA	NA	28	NA	durr1987preliminary
 2228	jica11	fingernail	tìñì	NA	NA	28	NA	durr1987preliminary
+6141	jica13	uña	chîín	NA	NA	28	NA	Emily John-Martin
 2224	metl11	fingernail	čí̧ì̧	NA	NA	28	NA	durr1987preliminary
 2226	mixt11	fingernail	čî̧í̧	NA	NA	28	NA	durr1987preliminary
 3069	mixt11	uña	chîín	NA	NA	28	NA	oxnard2020
@@ -838,12 +890,14 @@ ID	DOCULECT	GLOSS	VALUE	FORM	FLOATTONE	IDlist	NOTES	SOURCE
 764	ayut11	back	shātah	NA	NA	29	NA	hills1990syntactic
 3972	chay11	espalda	sata yo	sata	NA	29	NA	pensinger1974diccionario
 1663	chic02	espalda	Xitraha	NA	NA	29	NA	belmar1897ensayo
+5932	chic12	espalda	xichro’²	NA	NA	29	NA	good1978diccionario
 900	coat11	back	átā	NA	NA	29	NA	small1990syntactic
 4176	colo11	espalda	tsàtà yò	tsàtà	NA	29	NA	stark1986diccionario
 1511	copa11	back	shraa5	NA	NA	29	NA	hollenbach1992syntactic
 1161	diux11	back	yátâ	NA	NA	29	NA	kuiper1991syntactic
 3072	flor12	espalda	sàtǎ	NA	NA	29	NA	oxnard2020
 392	jami11	back	chata	NA	NA	29	NA	johnson1988syntactic
+6142	jica13	espalda	sa̠tá	NA	NA	29	NA	Emily John-Martin
 3074	mixt11	espalda	sàta	NA	NA	29	NA	oxnard2020
 3073	mont12	espalda	sàtà	NA	NA	29	NA	oxnard2020
 515	ocot11	back	yata	NA	NA	29	NA	alexander1988syntactic
@@ -866,6 +920,7 @@ ID	DOCULECT	GLOSS	VALUE	FORM	FLOATTONE	IDlist	NOTES	SOURCE
 2236	cahu11	stomach	tīšī	NA	NA	30	NA	durr1987preliminary
 3973	chay11	estómago, cintura	sisi yo	sisi	NA	30	NA	pensinger1974diccionario
 1664	chic02	panza	Rrikii	NA	NA	30	NA	belmar1897ensayo
+5933	chic12	panza, estómago	si-co’⁴³	NA	NA	30	NA	good1978diccionario
 4177	colo11	estómago, abdomen	tsitsi yo	tsitsi	NA	30	NA	stark1986diccionario
 1302	conc11	stomach	chētē	NA	NA	30	NA	bradley1991preliminary
 1512	copa11	stomach	rke3	NA	NA	30	NA	hollenbach1992syntactic
@@ -874,6 +929,7 @@ ID	DOCULECT	GLOSS	VALUE	FORM	FLOATTONE	IDlist	NOTES	SOURCE
 2233	gran11	stomach	čìī	NA	NA	30	NA	durr1987preliminary
 393	jami11	stomach	chīchi	NA	NA	30	NA	johnson1988syntactic
 2239	jica11	stomach	tíčí	NA	NA	30	NA	durr1987preliminary
+6143	jica13	panza, barriga	ti̠xin	NA	NA	30	NA	Emily John-Martin
 2235	metl11	stomach	tīšī	NA	NA	30	NA	durr1987preliminary
 2237	mixt11	stomach	tīȼī	NA	NA	30	NA	durr1987preliminary
 2230	moli11	stomach	čìī	NA	NA	30	NA	durr1987preliminary
@@ -895,8 +951,11 @@ ID	DOCULECT	GLOSS	VALUE	FORM	FLOATTONE	IDlist	NOTES	SOURCE
 4382	zaca11	estómago	tichi	NA	NA	30	NA	towne2011gramatica
 766	ayut11	intestine	shiti	NA	NA	31	NA	hills1990syntactic
 1665	chic02	tripas	Chitríha	NA	NA	31	NA	belmar1897ensayo
+5934	chic12	tripa	xichri’³i	NA	NA	31	NA	good1978diccionario
+5935	chic12	tripa, intestino	xichi’⁴’i	NA	NA	31	NA	good1978diccionario
 4178	colo11	tripas, intestinos	tsɨtɨ̀ yo	tsɨtɨ̀	NA	31	NA	stark1986diccionario
 3081	flor12	tripa	xitsi	NA	NA	31	NA	oxnard2020
+6144	jica13	tripa, tripas	siti	NA	NA	31	NA	Emily John-Martin
 3083	mixt11	tripa	tsitì	NA	NA	31	NA	oxnard2020
 3082	mont12	tripa	sutì	NA	NA	31	NA	oxnard2020
 5230	papa11	tripa, intestino	gue³te³	NA	NA	31	NA	anderson1983diccionario
@@ -919,6 +978,7 @@ ID	DOCULECT	GLOSS	VALUE	FORM	FLOATTONE	IDlist	NOTES	SOURCE
 2250	chay11	foot	šàʔà	NA	NA	32	NA	durr1987preliminary
 1666	chic02	pie	Chii	NA	NA	32	NA	belmar1897ensayo
 1667	chic02	pie	Tako	NA	NA	32	NA	belmar1897ensayo
+5936	chic12	pie	daco’²	NA	NA	32	NA	good1978diccionario
 901	coat11	foot	dɨ́hɨn	NA	NA	32	NA	small1990syntactic
 4179	colo11	pie	tsàhà yo	tsàhà	NA	32	NA	stark1986diccionario
 1303	conc11	foot	kāhā	NA	NA	32	NA	bradley1991preliminary
@@ -929,6 +989,7 @@ ID	DOCULECT	GLOSS	VALUE	FORM	FLOATTONE	IDlist	NOTES	SOURCE
 3086	flor12	pie	xa'ǎ	NA	NA	32	NA	oxnard2020
 2244	gran11	foot	xāʔà	NA	NA	32	NA	durr1987preliminary
 394	jami11	foot	chaha	NA	NA	32	NA	johnson1988syntactic
+6145	jica13	pie	xa̠'á	NA	NA	32	NA	Emily John-Martin
 2247	metl11	foot	šàʔā	NA	NA	32	NA	durr1987preliminary
 3088	mixt11	pie	tsa'á	NA	NA	32	NA	oxnard2020
 3087	mont12	pie	sà'à	NA	NA	32	NA	oxnard2020
@@ -953,12 +1014,14 @@ ID	DOCULECT	GLOSS	VALUE	FORM	FLOATTONE	IDlist	NOTES	SOURCE
 5099	alac11	enfermedad	cuehyɨ [A]	NA	NA	33	NA	alexander1980gramatica
 768	ayut11	disease, illness, sickness	kwīhe	NA	NA	33	NA	hills1990syntactic
 3975	chay11	enfermedad	cuehe	NA	NA	33	NA	pensinger1974diccionario
+5937	chic12	enfermedad	xi’i⁵	NA	NA	33	NA	good1978diccionario
 902	coat11	disease, illness, sickness	kwíhí	NA	NA	33	NA	small1990syntactic
 4180	colo11	enfermedad	cuehè	NA	NA	33	NA	stark1986diccionario
 1515	copa11	sickness	shihii31	NA	NA	33	NA	hollenbach1992syntactic
 1164	diux11	illness, sickness	kwehe	NA	NA	33	not sure about tones	kuiper1991syntactic
 3091	flor12	enfermedad	kuè'è	NA	NA	33	NA	oxnard2020
 395	jami11	disease, illness, sickness	kwehe	NA	NA	33	NA	johnson1988syntactic
+6146	jica13	enfermedad	kue̠'e̠	NA	NA	33	NA	Emily John-Martin
 3093	mixt11	enfermedad	kwè'è	NA	NA	33	NA	oxnard2020
 3092	mont12	enfermedad	kuè'è	NA	NA	33	NA	oxnard2020
 518	ocot11	sickness	kwehe	NA	NA	33	NA	alexander1988syntactic
@@ -981,6 +1044,7 @@ ID	DOCULECT	GLOSS	VALUE	FORM	FLOATTONE	IDlist	NOTES	SOURCE
 2256	caca11	medicine	tàtà	NA	NA	34	NA	durr1987preliminary
 3976	chay11	medicina	tata	NA	NA	34	only appears in examples	pensinger1974diccionario
 2260	chay11	medicine	tàtà	NA	NA	34	NA	durr1987preliminary
+5938	chic12	medicina, remedio	gono’o²	NA	NA	34	NA	good1978diccionario
 903	coat11	herb, medicine	chóhō	NA	NA	34	NA	small1990syntactic
 4181	colo11	medicina	numerí	NA	NA	34	NA	stark1986diccionario
 4182	colo11	medicina inyectable	tàtàn	NA	NA	34	NA	stark1986diccionario
@@ -991,6 +1055,7 @@ ID	DOCULECT	GLOSS	VALUE	FORM	FLOATTONE	IDlist	NOTES	SOURCE
 3096	flor12	medicina	tàjtǎn	NA	NA	34	NA	oxnard2020
 2255	gran11	medicine	tānà	NA	NA	34	NA	durr1987preliminary
 396	jami11	medicine	tatan	NA	NA	34	NA	johnson1988syntactic
+6147	jica13	medicina	ta̠tán	NA	NA	34	NA	Emily John-Martin
 2257	metl11	medicine	tàtà̧	NA	NA	34	NA	durr1987preliminary
 2261	metl11	medicine	tàtā̧	NA	NA	34	NA	durr1987preliminary
 2258	mixt11	medicine	tàtǎ	NA	NA	34	NA	durr1987preliminary
@@ -1010,8 +1075,10 @@ ID	DOCULECT	GLOSS	VALUE	FORM	FLOATTONE	IDlist	NOTES	SOURCE
 1387	yoso11	medicine, remedy	tāNna	NA	NA	34	NA	farris1992syntactic
 4385	zaca11	medicina	tatan	NA	NA	34	NA	towne2011gramatica
 3977	chay11	hinchazón	cuiño	NA	NA	35	NA	pensinger1974diccionario
+5939	chic12	hinchazón	gu’man³⁴	NA	NA	35	NA	good1978diccionario
 4183	colo11	hinchazón, papera	cuiñu	NA	NA	35	NA	stark1986diccionario
 3099	flor12	hinchazón	kuiñu	NA	NA	35	NA	oxnard2020
+6148	jica13	hinchazón	kuiñu	NA	NA	35	NA	Emily John-Martin
 3101	mixt11	hinchazón	kwiñu	NA	NA	35	NA	oxnard2020
 3100	mont12	hinchazón	kuiñu	NA	NA	35	NA	oxnard2020
 5234	papa11	hinchazón	ca³’a³ yi³ndi³tu³	NA	NA	35	illness ?	anderson1983diccionario
@@ -1026,8 +1093,10 @@ ID	DOCULECT	GLOSS	VALUE	FORM	FLOATTONE	IDlist	NOTES	SOURCE
 5611	chal11	grano	ⁿdi¹Ɂi²	NA	NA	36	NA	swanton2020observaciones
 3978	chay11	grano	ndɨhyɨ	NA	NA	36	NA	pensinger1974diccionario
 1668	chic02	grano	Nnuha	NA	NA	36	NA	belmar1897ensayo
+5940	chic12	grano	nuj³	NA	NA	36	NA	good1978diccionario
 4184	colo11	grano	ndɨhyɨ	NA	NA	36	NA	stark1986diccionario
 3104	flor12	grano 	ntsi'í	NA	NA	36	NA	oxnard2020
+6149	jica13	grano	nti̠'i	NA	NA	36	NA	Emily John-Martin
 3106	mixt11	grano 	ndì'in	NA	NA	36	NA	oxnard2020
 3105	mont12	grano 	ndì'i	NA	NA	36	NA	oxnard2020
 5235	papa11	grano	nd’u²v’i²	NA	NA	36	NA	anderson1983diccionario
@@ -1041,8 +1110,10 @@ ID	DOCULECT	GLOSS	VALUE	FORM	FLOATTONE	IDlist	NOTES	SOURCE
 205	yolo11	grano relativamente grande	ndu1xa1	NA	NA	36	also: grano de la piel	amith2020yoloxochitl
 5610	zaca11	grano	ⁿdi²Ɂi²¹	NA	NA	36	NA	swanton2020observaciones
 3979	chay11	pus, materia	ndacua	NA	NA	37	NA	pensinger1974diccionario
+5941	chic12	pus, materia	cuej³	NA	NA	37	NA	good1978diccionario
 4185	colo11	pus	ndacua	NA	NA	37	NA	stark1986diccionario
 3109	flor12	pus	ndajkua	NA	NA	37	NA	oxnard2020
+6150	jica13	pus, materia	ntakuá	NA	NA	37	NA	Emily John-Martin
 3111	mixt11	pus	ndakwà	NA	NA	37	NA	oxnard2020
 3110	mont12	pus	ndakuà	NA	NA	37	NA	oxnard2020
 5236	papa11	pus	ya³cua³	NA	NA	37	loan from Mixtec I think	anderson1983diccionario
@@ -1053,8 +1124,10 @@ ID	DOCULECT	GLOSS	VALUE	FORM	FLOATTONE	IDlist	NOTES	SOURCE
 206	yolo11	pus, materia	nda3kwa4	NA	NA	37	NA	amith2020yoloxochitl
 3980	chay11	orina	tyaxa	NA	NA	38	NA	pensinger1974diccionario
 1669	chic02	orina	Nnerihii	NA	NA	38	NA	belmar1897ensayo
+5942	chic12	orina	nne³⁴ ri’i’⁴	NA	NA	38	NA	good1978diccionario
 4186	colo11	orina	làxà	NA	NA	38	NA	stark1986diccionario
 3114	flor12	orina	láxa	NA	NA	38	NA	oxnard2020
+6151	jica13	orina	láxa	NA	NA	38	NA	Emily John-Martin
 3116	mixt11	orina	nché xàxà	NA	NA	38	NA	oxnard2020
 3115	mont12	orina	tìlàlá	NA	NA	38	NA	oxnard2020
 5237	papa11	orina	nu⁴nv’e⁴de³	NA	NA	38	NA	anderson1983diccionario
@@ -1074,6 +1147,7 @@ ID	DOCULECT	GLOSS	VALUE	FORM	FLOATTONE	IDlist	NOTES	SOURCE
 3981	chay11	tela, ropa	zahma	NA	NA	39	NA	pensinger1974diccionario
 1670	chic02	tela	Chináha	NA	NA	39	NA	belmar1897ensayo
 1671	chic02	ropa	Katsihi	NA	NA	39	NA	belmar1897ensayo
+5943	chic12	tela, ropa, trapo	atsij⁵i	NA	NA	39	NA	good1978diccionario
 904	coat11	cloth, clothes	doo	NA	NA	39	NA	small1990syntactic
 2262	coat11	clothes	đàʔmà̧	NA	NA	39	NA	durr1987preliminary
 4187	colo11	tela, ropa	jahma	NA	NA	39	NA	stark1986diccionario
@@ -1086,6 +1160,7 @@ ID	DOCULECT	GLOSS	VALUE	FORM	FLOATTONE	IDlist	NOTES	SOURCE
 2266	gran11	clothes	sāʔmā	NA	NA	39	NA	durr1987preliminary
 397	jami11	cloth	sāhmā	NA	NA	39	NA	johnson1988syntactic
 2272	jica11	clothes	sàʔmà	NA	NA	39	NA	durr1987preliminary
+6152	jica13	tela, ropa	sa'má	NA	NA	39	NA	Emily John-Martin
 2270	mixt11	clothes	sàʔmǎ	NA	NA	39	NA	durr1987preliminary
 3121	mixt11	ropa	sa'mǎ	NA	NA	39	NA	oxnard2020
 2263	moli11	clothes	sāʔmā	NA	NA	39	NA	durr1987preliminary
@@ -1115,6 +1190,7 @@ ID	DOCULECT	GLOSS	VALUE	FORM	FLOATTONE	IDlist	NOTES	SOURCE
 2279	cahu11	sandal	ⁿdǜsà	NA	NA	40	NA	durr1987preliminary
 5615	chal11	huarache	ⁿdi²xa¹	NA	+³	40	NA	swanton2020observaciones
 3982	chay11	huarache	ndisa	NA	NA	40	NA	pensinger1974diccionario
+5944	chic12	huarache	canj³	NA	NA	40	NA	good1978diccionario
 905	coat11	sandal, sandals	ndihshen	NA	NA	40	NA	small1990syntactic
 2273	coat11	sandal	ⁿdíʔšȩ̌	NA	NA	40	NA	durr1987preliminary
 4188	colo11	huarache	ndìtsàn	NA	NA	40	NA	stark1986diccionario
@@ -1122,6 +1198,7 @@ ID	DOCULECT	GLOSS	VALUE	FORM	FLOATTONE	IDlist	NOTES	SOURCE
 1167	diux11	sandal, sandals	ndíshâ	NA	NA	40	NA	kuiper1991syntactic
 3124	flor12	huarache	ntsìxǎn	NA	NA	40	NA	oxnard2020
 2275	gran11	sandal	ⁿdīxà̧	NA	NA	40	NA	durr1987preliminary
+6153	jica13	huarache	nti̠xán	NA	NA	40	NA	Emily John-Martin
 2280	mixt11	sandal	ⁿzìȼǎ	NA	NA	40	NA	durr1987preliminary
 3126	mixt11	huarache	ntsìtsǎ	NA	NA	40	NA	oxnard2020
 3125	mont12	huarache	ndìsà	NA	NA	40	NA	oxnard2020
@@ -1143,8 +1220,10 @@ ID	DOCULECT	GLOSS	VALUE	FORM	FLOATTONE	IDlist	NOTES	SOURCE
 32	abas11	pantalón	tsatu	NA	NA	41	NA	galindo-sanchez2009vocabulario
 4523	alac11	pantalón	xati	NA	NA	41	NA	zylstra2012gramatica
 3983	chay11	pantalón	pantalón	NA	NA	41	Sp. loan	pensinger1974diccionario
+5945	chic12	pantalón	xichroj³o	NA	NA	41	NA	good1978diccionario
 1168	diux11	pants	shá’tú	NA	NA	41	not basic tones	kuiper1991syntactic
 3129	flor12	pantalón	xajtû	NA	NA	41	NA	oxnard2020
+6154	jica13	pantalón	xatu	NA	NA	41	NA	Emily John-Martin
 3131	mixt11	pantalón	tsatù	NA	NA	41	NA	oxnard2020
 3130	mont12	pantalón	satì	NA	NA	41	NA	oxnard2020
 5240	papa11	pantalón	pa³nta³lón¹	NA	NA	41	Sp. loan	anderson1983diccionario
@@ -1154,9 +1233,11 @@ ID	DOCULECT	GLOSS	VALUE	FORM	FLOATTONE	IDlist	NOTES	SOURCE
 3127	tlah11	pantalón	xatu	NA	NA	41	NA	oxnard2020
 5618	alco11	huipil	ʃi¹kũ¹	NA	NA	42	NA	swanton2020observaciones
 5620	chal11	huipil	θi¹ko¹	NA	NA	42	NA	swanton2020observaciones
+5946	chic12	huipil, traje	ri’nï²	NA	NA	42	NA	good1978diccionario
 4189	colo11	huipil	xìcùn	NA	NA	42	NA	stark1986diccionario
 1521	copa11	tunic	rohno4	NA	NA	42	NA	hollenbach1992syntactic
 1169	diux11	blouse	ðún’hnú	NA	NA	42	not basic tones	kuiper1991syntactic
+6155	jica13	huipil	xi̠ku̠n	NA	NA	42	NA	Emily John-Martin
 3133	mixt11	huipil	sa'mǎ kwitsì	NA	NA	42	NA	oxnard2020
 5241	papa11	huipil	y’u²tu⁴	NA	NA	42	NA	anderson1983diccionario
 4892	pena11	huipil	xikìn	NA	[BA]	42	NA	hollenbach2017diccionario
@@ -1181,6 +1262,7 @@ ID	DOCULECT	GLOSS	VALUE	FORM	FLOATTONE	IDlist	NOTES	SOURCE
 3984	chay11	pueblo	ñuu	NA	NA	43	NA	pensinger1974diccionario
 2295	chay11	town	ñūù	NA	NA	43	NA	durr1987preliminary
 1672	chic02	pueblo	Chuumaha	NA	NA	43	NA	belmar1897ensayo
+5947	chic12	pueblo	xuman’⁴an	NA	NA	43	NA	good1978diccionario
 906	coat11	village, town	ñuú	NA	NA	43	NA	small1990syntactic
 2283	coat11	town	ñù̧ú̧	NA	NA	43	NA	durr1987preliminary
 4190	colo11	pueblo	ñúu	NA	NA	43	NA	stark1986diccionario
@@ -1191,6 +1273,7 @@ ID	DOCULECT	GLOSS	VALUE	FORM	FLOATTONE	IDlist	NOTES	SOURCE
 2287	gran11	town	ñūù	NA	NA	43	NA	durr1987preliminary
 398	jami11	town	ñuu	NA	NA	43	NA	johnson1988syntactic
 2294	jica11	town	ñū̧ū̧	NA	NA	43	NA	durr1987preliminary
+6156	jica13	pueblo	ñuu	NA	NA	43	NA	Emily John-Martin
 2292	mixt11	town	ñūù	NA	NA	43	NA	durr1987preliminary
 3138	mixt11	pueblo	ñǔun	ñǔu	NA	43	NA	oxnard2020
 2284	moli11	town	ñùù	NA	NA	43	NA	durr1987preliminary
@@ -1227,6 +1310,7 @@ ID	DOCULECT	GLOSS	VALUE	FORM	FLOATTONE	IDlist	NOTES	SOURCE
 2311	chay11	house	ƀēʔē	NA	NA	44	NA	durr1987preliminary
 1673	chic02	casa, edificio	Ghuee	NA	NA	44	NA	belmar1897ensayo
 1674	chic02	casa, edificio	Tukua	NA	NA	44	NA	belmar1897ensayo
+5948	chic12	casa	hue’³e	NA	NA	44	is this a mixtec loan?	good1978diccionario
 907	coat11	house	vihi	NA	NA	44	NA	small1990syntactic
 2297	coat11	house	ƀìʔì	NA	NA	44	NA	durr1987preliminary
 4191	colo11	casa	vehe	NA	NA	44	NA	stark1986diccionario
@@ -1237,6 +1321,7 @@ ID	DOCULECT	GLOSS	VALUE	FORM	FLOATTONE	IDlist	NOTES	SOURCE
 2301	gran11	house	ƀēʔē	NA	NA	44	NA	durr1987preliminary
 399	jami11	house	vēhē	NA	NA	44	NA	johnson1988syntactic
 2310	jica11	house	ƀèʔè	NA	NA	44	NA	durr1987preliminary
+6157	jica13	casa	ve'e	NA	NA	44	NA	Emily John-Martin
 2306	metl11	house	ƀēʔē	NA	NA	44	NA	durr1987preliminary
 2308	mixt11	house	ƀēʔē	NA	NA	44	NA	durr1987preliminary
 3143	mixt11	casa	ve'e	NA	NA	44	NA	oxnard2020
@@ -1270,6 +1355,7 @@ ID	DOCULECT	GLOSS	VALUE	FORM	FLOATTONE	IDlist	NOTES	SOURCE
 3986	chay11	camino	ityi	NA	NA	45	NA	pensinger1974diccionario
 2321	chay11	road	ītʸī	NA	NA	45	NA	durr1987preliminary
 1675	chic02	camino	Treha	NA	NA	45	NA	belmar1897ensayo
+5949	chic12	camino, costumbre	chrej³e	NA	NA	45	NA	good1978diccionario
 908	coat11	road, trail	itsi	NA	NA	45	NA	small1990syntactic
 4192	colo11	camino	ityi	NA	NA	45	NA	stark1986diccionario
 1308	conc11	road	yúní	NA	NA	45	NA	bradley1991preliminary
@@ -1279,6 +1365,7 @@ ID	DOCULECT	GLOSS	VALUE	FORM	FLOATTONE	IDlist	NOTES	SOURCE
 2316	gran11	road	īčī	NA	NA	45	NA	durr1987preliminary
 400	jami11	road, trail	ītyī	NA	NA	45	NA	johnson1988syntactic
 2320	jica11	road	ìtì	NA	NA	45	NA	durr1987preliminary
+6158	jica13	camino	ichí	NA	NA	45	NA	Emily John-Martin
 2317	metl11	road	īčí	NA	NA	45	NA	durr1987preliminary
 3148	mixt11	camino	ichǐ	NA	NA	45	NA	oxnard2020
 2313	moli11	road	īčī	NA	NA	45	NA	durr1987preliminary
@@ -1305,6 +1392,7 @@ ID	DOCULECT	GLOSS	VALUE	FORM	FLOATTONE	IDlist	NOTES	SOURCE
 775	ayut11	post	nduyu	NA	NA	46	NA	hills1990syntactic
 4193	colo11	horcón	sɨ́hɨ̀n	NA	NA	46	NA	stark1986diccionario
 3151	flor12	horcón	si'ìn	NA	NA	46	NA	oxnard2020
+6159	jica13	horcón	si̠'i̠n	NA	NA	46	NA	Emily John-Martin
 3152	mont12	horcón	tìjìn	NA	NA	46	NA	oxnard2020
 5245	papa11	horcón	yi³nga̠³’a̠³	NA	NA	46	NA	anderson1983diccionario
 4896	pena11	horcón	si’ìn	NA		46	NA	hollenbach2017diccionario
@@ -1322,12 +1410,14 @@ ID	DOCULECT	GLOSS	VALUE	FORM	FLOATTONE	IDlist	NOTES	SOURCE
 5634	chal11	petate	ju²Ɂu²	NA	+³	47	NA	swanton2020observaciones
 3987	chay11	petate	yūū	NA	NA	47	NA	pensinger1974diccionario
 2333	chay11	straw mat	yūū	NA	NA	47	NA	durr1987preliminary
+5950	chic12	petate	huue¹	NA	NA	47	NA	good1978diccionario
 909	coat11	palm mat	shuvi	NA	NA	47	NA	small1990syntactic
 4194	colo11	petate	yuvi	NA	NA	47	NA	stark1986diccionario
 1173	diux11	mat, sleeping mat, straw mat	yúú	NA	NA	47	not basic tones	kuiper1991syntactic
 3155	flor12	petate	yijvǐ	NA	NA	47	NA	oxnard2020
 2325	gran11	straw mat	žūū	NA	NA	47	NA	durr1987preliminary
 2332	jica11	straw mat	yùƀì	NA	NA	47	NA	durr1987preliminary
+6160	jica13	petate	yuví	NA	NA	47	NA	Emily John-Martin
 2329	metl11	straw mat	yūƀì	NA	NA	47	NA	durr1987preliminary
 2331	mixt11	straw mat	yùƀǐ	NA	NA	47	NA	durr1987preliminary
 3157	mixt11	petate	yuvǐ	NA	NA	47	NA	oxnard2020
@@ -1348,8 +1438,10 @@ ID	DOCULECT	GLOSS	VALUE	FORM	FLOATTONE	IDlist	NOTES	SOURCE
 38	abas11	cama, lecho	tsíto	NA	NA	48	NA	galindo-sanchez2009vocabulario
 4527	alac11	cama	xi̠to	NA	NA	48	NA	zylstra2012gramatica
 3988	chay11	cama	sito	NA	NA	48	NA	pensinger1974diccionario
+5951	chic12	cama, lecho	nna³	NA	NA	48	NA	good1978diccionario
 4195	colo11	cama, lecho	tsito	NA	NA	48	NA	stark1986diccionario
 3160	flor12	cama	xìjto	NA	NA	48	NA	oxnard2020
+6161	jica13	cama, lecho	xi̠to	NA	NA	48	NA	Emily John-Martin
 3162	mixt11	cama	tsìto	NA	NA	48	NA	oxnard2020
 3161	mont12	cama	sìto	NA	NA	48	NA	oxnard2020
 5247	papa11	cama	ca²ma⁴	NA	NA	48	Sp. loan	anderson1983diccionario
@@ -1370,12 +1462,14 @@ ID	DOCULECT	GLOSS	VALUE	FORM	FLOATTONE	IDlist	NOTES	SOURCE
 2339	cahu11	stool	tāyī	NA	NA	49	NA	durr1987preliminary
 3989	chay11	silla	tyayu	NA	NA	49	NA	pensinger1974diccionario
 2341	chay11	stool	tēì	NA	NA	49	NA	durr1987preliminary
+5952	chic12	banco, asiento	rega’³a	NA	NA	49	NA	good1978diccionario
 4196	colo11	banquito, silla	tyáyu	NA	NA	49	NA	stark1986diccionario
 1174	diux11	chair	siyá	NA	NA	49	Sp. silla	kuiper1991syntactic
 3165	flor12	silla	tsiayì	NA	NA	49	NA	oxnard2020
 2335	gran11	stool	tēžù	NA	NA	49	NA	durr1987preliminary
 401	jami11	chair	tyayu	NA	NA	49	NA	johnson1988syntactic
 2340	jica11	stool	tāyū	NA	NA	49	NA	durr1987preliminary
+6162	jica13	banquito, banco, silla	tia̠yu̠	NA	NA	49	NA	Emily John-Martin
 2338	metl11	stool	tʸāyù	NA	NA	49	NA	durr1987preliminary
 3167	mixt11	silla	chei	NA	NA	49	NA	oxnard2020
 3166	mont12	silla	tyáyì	NA	NA	49	NA	oxnard2020
@@ -1403,6 +1497,7 @@ ID	DOCULECT	GLOSS	VALUE	FORM	FLOATTONE	IDlist	NOTES	SOURCE
 3990	chay11	animal	quɨtɨ	NA	NA	50	NA	pensinger1974diccionario
 2354	chay11	animal	kɨ̄tɨ̄	NA	NA	50	NA	durr1987preliminary
 1676	chic02	animal	Chukuha	NA	NA	50	NA	belmar1897ensayo
+5953	chic12	animal	xucu³	NA	NA	50	NA	good1978diccionario
 910	coat11	animal	kɨtɨ	NA	NA	50	NA	small1990syntactic
 4197	colo11	animal	quɨtɨ	NA	NA	50	NA	stark1986diccionario
 1309	conc11	animal	ītī	NA	NA	50	NA	bradley1991preliminary
@@ -1413,6 +1508,7 @@ ID	DOCULECT	GLOSS	VALUE	FORM	FLOATTONE	IDlist	NOTES	SOURCE
 2347	gran11	animal	kɨ̄tɨ̄	NA	NA	50	NA	durr1987preliminary
 402	jami11	animal	kɨ̄tɨ̄	NA	NA	50	NA	johnson1988syntactic
 2353	jica11	animal	kìtì	NA	NA	50	NA	durr1987preliminary
+6163	jica13	animal	kití	NA	NA	50	NA	Emily John-Martin
 2350	metl11	animal	kītí	NA	NA	50	NA	durr1987preliminary
 3172	mixt11	animal	kitǐ	NA	NA	50	NA	oxnard2020
 2344	moli11	animal	kītī	NA	NA	50	NA	durr1987preliminary
@@ -1449,6 +1545,7 @@ ID	DOCULECT	GLOSS	VALUE	FORM	FLOATTONE	IDlist	NOTES	SOURCE
 2363	cahu11	bird	sáá	NA	NA	51	NA	durr1987preliminary
 3991	chay11	pájaro	zaa	NA	NA	51	NA	pensinger1974diccionario
 1677	chic02	pájaro	Chataha	NA	NA	51	NA	belmar1897ensayo
+5954	chic12	pájaro	xataj⁴a	NA	NA	51	NA	good1978diccionario
 911	coat11	bird	láā	NA	NA	51	NA	small1990syntactic
 2356	coat11	bird	làá	NA	NA	51	NA	durr1987preliminary
 4198	colo11	pájaro	sáa	NA	NA	51	NA	stark1986diccionario
@@ -1457,6 +1554,7 @@ ID	DOCULECT	GLOSS	VALUE	FORM	FLOATTONE	IDlist	NOTES	SOURCE
 3175	flor12	pájaro	saà	NA	NA	51	NA	oxnard2020
 2359	gran11	bird	sāà	NA	NA	51	NA	durr1987preliminary
 2365	jica11	bird	sāā	NA	NA	51	NA	durr1987preliminary
+6164	jica13	pájaro	saa	NA	NA	51	NA	Emily John-Martin
 2362	metl11	bird	sāā	NA	NA	51	NA	durr1987preliminary
 3177	mixt11	pájaro	saà	NA	NA	51	NA	oxnard2020
 3176	mont12	pájaro	laà	NA	NA	51	NA	oxnard2020
@@ -1485,6 +1583,7 @@ ID	DOCULECT	GLOSS	VALUE	FORM	FLOATTONE	IDlist	NOTES	SOURCE
 2373	caca11	fish	tì-žākā	NA	NA	52	NA	durr1987preliminary
 2378	cahu11	fish	tʸāká	NA	NA	52	NA	durr1987preliminary
 3992	chay11	pescado	tyiyaca	NA	NA	52	NA	pensinger1974diccionario
+5955	chic12	pez, pescado	xucuaj³a	NA	NA	52	NA	good1978diccionario
 912	coat11	fish	tsāká	NA	NA	52	NA	small1990syntactic
 2368	coat11	fish	ȼàʔká	NA	NA	52	NA	durr1987preliminary
 4199	colo11	pescado	tyàca	NA	NA	52	NA	stark1986diccionario
@@ -1495,6 +1594,7 @@ ID	DOCULECT	GLOSS	VALUE	FORM	FLOATTONE	IDlist	NOTES	SOURCE
 2371	gran11	fish	čáká	NA	NA	52	NA	durr1987preliminary
 2372	gran11	fish	tɨ̄-žáká	NA	NA	52	NA	durr1987preliminary
 403	jami11	fish	tī-yaka	NA	NA	52	NA	johnson1988syntactic
+6165	jica13	pez, pescado	tia̠ká	NA	NA	52	NA	Emily John-Martin
 2377	metl11	fish	tʸàká	NA	NA	52	NA	durr1987preliminary
 3182	mixt11	pescado	chakǎ	NA	NA	52	NA	oxnard2020
 2369	moli11	fish	čākā	NA	NA	52	NA	durr1987preliminary
@@ -1524,6 +1624,7 @@ ID	DOCULECT	GLOSS	VALUE	FORM	FLOATTONE	IDlist	NOTES	SOURCE
 3993	chay11	culebra, serpiente, lombriz	coo	NA	NA	53	NA	pensinger1974diccionario
 2393	chay11	snake	kòò	NA	NA	53	NA	durr1987preliminary
 1678	chic02	culebra	Chukuaha	NA	NA	53	NA	belmar1897ensayo
+5956	chic12	culebra, serpiente	xucua¹	NA	NA	53	NA	good1978diccionario
 913	coat11	snake	kóō	NA	NA	53	NA	small1990syntactic
 2381	coat11	snake	kóǒ	NA	NA	53	NA	durr1987preliminary
 4200	colo11	culebra	còò	NA	NA	53	NA	stark1986diccionario
@@ -1533,6 +1634,7 @@ ID	DOCULECT	GLOSS	VALUE	FORM	FLOATTONE	IDlist	NOTES	SOURCE
 3185	flor12	culebra	kòjǒ	NA	NA	53	NA	oxnard2020
 2384	gran11	snake	kōò	NA	NA	53	NA	durr1987preliminary
 2392	jica11	snake	kóó	NA	NA	53	NA	durr1987preliminary
+6166	jica13	culebra, serpiente	ko̠ó	NA	NA	53	NA	Emily John-Martin
 2389	metl11	snake	kōò	NA	NA	53	NA	durr1987preliminary
 2390	mixt11	snake	kòó	NA	NA	53	NA	durr1987preliminary
 3187	mixt11	culebra	kòó	NA	NA	53	NA	oxnard2020
@@ -1557,12 +1659,15 @@ ID	DOCULECT	GLOSS	VALUE	FORM	FLOATTONE	IDlist	NOTES	SOURCE
 3994	chay11	rana	zahva	NA	NA	54	NA	pensinger1974diccionario
 1679	chic02	rana	Chireki	NA	NA	54	NA	belmar1897ensayo
 1827	chic02	rana	Chirikihi	NA	NA	54	NA	belmar1897ensayo
+5957	chic12	rana	xiriquïj³	NA	NA	54	NA	good1978diccionario
 2395	coat11	frog	ȼàʔƀá	NA	NA	54	NA	durr1987preliminary
 4201	colo11	rana	sáhva	NA	NA	54	NA	stark1986diccionario
 1529	copa11	frog	ri3kix13	NA	NA	54	NA	hollenbach1992syntactic
 3190	flor12	rana	sá'và	NA	NA	54	NA	oxnard2020
 2396	gran11	frog	sāʔƀà	NA	NA	54	NA	durr1987preliminary
 2399	jica11	frog	sāʔƀā	NA	NA	54	NA	durr1987preliminary
+6167	jica13	rana	kóntó	NA	NA	54	NA	Emily John-Martin
+6168	jica13	rana	sa̠'va̠	NA	NA	54	NA	Emily John-Martin
 2397	mixt11	frog	sàʔƀà	NA	NA	54	NA	durr1987preliminary
 3192	mixt11	rana	sa'và	NA	NA	54	NA	oxnard2020
 3191	mont12	rana	lavà	NA	NA	54	NA	oxnard2020
@@ -1580,10 +1685,12 @@ ID	DOCULECT	GLOSS	VALUE	FORM	FLOATTONE	IDlist	NOTES	SOURCE
 4534	alac11	gavilán pollero	sí’ñá	NA	NA	55	NA	anderson2006vocabulario
 3995	chay11	gavilán	tazu tiyaa	NA	NA	55	NA	pensinger1974diccionario
 1680	chic02	gavilán	Xnuuhu	NA	NA	55	NA	belmar1897ensayo
+5958	chic12	gavilán	xinun’³un	NA	NA	55	NA	good1978diccionario
 4202	colo11	gavilán	tàsù	NA	NA	55	NA	stark1986diccionario
 1530	copa11	nighthawk	kuwix5	NA	NA	55	NA	hollenbach1992syntactic
 3195	flor12	gavilán	xí'ña	NA	NA	55	NA	oxnard2020
 404	jami11	hawk	tású	NA	NA	55	NA	johnson1988syntactic
+6169	jica13	gavilán	saa xí'ña	NA	NA	55	NA	Emily John-Martin
 3197	mixt11	gavilán	xí'an	NA	NA	55	NA	oxnard2020
 3196	mont12	gavilán	ndixíñá	ndi-xíñá	NA	55	NA	oxnard2020
 5254	papa11	gavilán	i³yun³	NA	NA	55	NA	anderson1983diccionario
@@ -1597,10 +1704,12 @@ ID	DOCULECT	GLOSS	VALUE	FORM	FLOATTONE	IDlist	NOTES	SOURCE
 5109	alac11	alacrán	tɨsuhma [C]	NA	NA	56	NA	alexander1980gramatica
 782	ayut11	scorpion	ti-sūhma	NA	NA	56	NA	hills1990syntactic
 3996	chay11	alacrán	tizuhma	NA	NA	56	NA	pensinger1974diccionario
+5959	chic12	alacrán, escorpión	xiquïn⁴³	NA	NA	56	NA	good1978diccionario
 914	coat11	scorpion	tduhmé	NA	NA	56	NA	small1990syntactic
 4203	colo11	alacrán	tujuhma	NA	NA	56	NA	stark1986diccionario
 3200	flor12	alacrán	so'mà	NA	NA	56	NA	oxnard2020
 405	jami11	scorpion	tī-suhma	NA	NA	56	NA	johnson1988syntactic
+6170	jica13	alacrán	ti̠sǒ'ma̠	NA	NA	56	NA	Emily John-Martin
 3202	mixt11	alacrán	tìsu'mà	tì-su'mà	NA	56	NA	oxnard2020
 3201	mont12	alacrán	tìjimà	tì-jimà	NA	56	NA	oxnard2020
 528	ocot11	scorpion	ti-sūhma	NA	NA	56	NA	alexander1988syntactic
@@ -1617,9 +1726,11 @@ ID	DOCULECT	GLOSS	VALUE	FORM	FLOATTONE	IDlist	NOTES	SOURCE
 4536	alac11	cucaracha	ti̠un	NA	NA	57	NA	anderson2006vocabulario
 3997	chay11	cucaracha	tityehe	NA	NA	57	NA	pensinger1974diccionario
 1681	chic02	cucaracha	Chiraken	NA	NA	57	NA	belmar1897ensayo
+5960	chic12	cucaracha	xiraquïn³	NA	NA	57	NA	good1978diccionario
 4204	colo11	cucaracha americana (grande)	ticosó	NA	NA	57	NA	stark1986diccionario
 4205	colo11	cucaracha (chica)	tucuáàn	NA	NA	57	NA	stark1986diccionario
 3205	flor12	cucaracha	tsìtse'é	tsì-tse'é	NA	57	NA	oxnard2020
+6171	jica13	cucaracha	ti̠tie̠'é	NA	NA	57	NA	Emily John-Martin
 3206	mixt11	cucaracha	ndiché'é	ndi-ché'é	NA	57	NA	oxnard2020
 5256	papa11	cucaracha	stu²vi¹⁴	NA	NA	57	NA	anderson1983diccionario
 4907	pena11	cucaracha	laté’yá	NA	[A]	57	NA	hollenbach2017diccionario
@@ -1633,9 +1744,11 @@ ID	DOCULECT	GLOSS	VALUE	FORM	FLOATTONE	IDlist	NOTES	SOURCE
 5645	alco11	chapulín	ti²ka²	NA	NA	58	NA	swanton2020observaciones
 5647	chal11	chapulín	tɨ¹ka²	NA	NA	58	NA	swanton2020observaciones
 1682	chic02	chapulín	Chukuahha	NA	NA	58	NA	belmar1897ensayo
+5961	chic12	chapulín	xiriqui¹	NA	NA	58	NA	good1978diccionario
 915	coat11	grasshopper, cricket	skundi	NA	NA	58	NA	small1990syntactic
 4206	colo11	chapulín	tica xìyàmà	NA	NA	58	mariposa ?	stark1986diccionario
 3209	flor12	chapulín	tsikâ	NA	NA	58	NA	oxnard2020
+6172	jica13	chapulín	tika	NA	NA	58	NA	Emily John-Martin
 3211	mixt11	chapulín	tìká	NA	NA	58	NA	oxnard2020
 3210	mont12	chapulín	ndìtíì	ndì-tíì	NA	58	NA	oxnard2020
 5257	papa11	chapulín	ti²cua¹⁴	NA	NA	58	NA	anderson1983diccionario
@@ -1653,12 +1766,14 @@ ID	DOCULECT	GLOSS	VALUE	FORM	FLOATTONE	IDlist	NOTES	SOURCE
 1037	alac11	bee	tí-ñoño	NA	NA	59	from ñoño ‘honey’	zylstra1991syntactic
 3998	chay11	abeja	ñuñu	NA	NA	59	NA	pensinger1974diccionario
 1683	chic02	abeja	Xutan	NA	NA	59	NA	belmar1897ensayo
+5962	chic12	abeja	xutan³	NA	NA	59	NA	good1978diccionario
 916	coat11	bee	kɨtume	NA	NA	59	NA	small1990syntactic
 4207	colo11	abeja	ñùñù	NA	NA	59	NA	stark1986diccionario
 1531	copa11	bumblebee	shongo4	NA	NA	59	NA	hollenbach1992syntactic
 1179	diux11	bee	tndáka	NA	NA	59	don’t know what the difference is to the other one	kuiper1991syntactic
 1180	diux11	bee	ñú’ñú	NA	NA	59	don’t know what the difference is to the other one	kuiper1991syntactic
 3214	flor12	abeja	ñùjñǔ	NA	NA	59	NA	oxnard2020
+6173	jica13	abeja	tíñu̠ñú	NA	NA	59	NA	Emily John-Martin
 3216	mixt11	abeja	ñùñǔ	NA	NA	59	NA	oxnard2020
 3215	mont12	abeja	tíñoñò	tí-ñoñò	NA	59	NA	oxnard2020
 5258	papa11	abeja	y’en²⁴	NA	NA	59	NA	anderson1983diccionario
@@ -1678,6 +1793,8 @@ ID	DOCULECT	GLOSS	VALUE	FORM	FLOATTONE	IDlist	NOTES	SOURCE
 3999	chay11	ratón, rata	tɨ̄ñɨ́	NA	NA	60	NA	pensinger1974diccionario
 1684	chic02	ratón	Chuutuha	NA	NA	60	NA	belmar1897ensayo
 1685	chic02	rata	Chuutughui	NA	NA	60	NA	belmar1897ensayo
+5963	chic12	ratón	xutu⁴ nij³	NA	NA	60	NA	good1978diccionario
+5964	chic12	rata	xutu⁴ güi³⁵	NA	NA	60	NA	good1978diccionario
 917	coat11	mouse, rat	shtɨ̄ñɨ̄	NA	NA	60	NA	small1990syntactic
 4208	colo11	ratón, rata	tɨñɨ́	NA	NA	60	NA	stark1986diccionario
 1532	copa11	mouse, rat	sh-tuu32	NA	NA	60	animal-stealing, with ituu32 ‘stealing’	hollenbach1992syntactic
@@ -1685,6 +1802,7 @@ ID	DOCULECT	GLOSS	VALUE	FORM	FLOATTONE	IDlist	NOTES	SOURCE
 3219	flor12	ratón	tsìín	NA	NA	60	NA	oxnard2020
 2402	gran11	rat	tɨ̄ní	NA	NA	60	NA	durr1987preliminary
 2405	jica11	rat	tɨ̄ñɨ́	NA	NA	60	NA	durr1987preliminary
+6174	jica13	ratón, rata	tǐin	NA	NA	60	NA	Emily John-Martin
 2403	metl11	rat	tì̧ī̧	NA	NA	60	NA	durr1987preliminary
 3221	mixt11	ratón	tǐ'in	NA	NA	60	NA	oxnard2020
 3220	mont12	ratón	titìín	ti-tìín	NA	60	NA	oxnard2020
@@ -1712,6 +1830,7 @@ ID	DOCULECT	GLOSS	VALUE	FORM	FLOATTONE	IDlist	NOTES	SOURCE
 2411	cahu11	deer	tn-ǖsǖ	NA	NA	61	NA	durr1987preliminary
 4000	chay11	venado	izu	NA	NA	61	NA	pensinger1974diccionario
 1686	chic02	venado	Chutaha	NA	NA	61	NA	belmar1897ensayo
+5965	chic12	venado	xutaj³	NA	NA	61	NA	good1978diccionario
 918	coat11	deer	rkuhú	NA	NA	61	a compound of idú ‘horse’ and kuhu ‘wild’	small1990syntactic
 4209	colo11	venado	isù	NA	NA	61	NA	stark1986diccionario
 1311	conc11	deer	yhūdú chēenu	NA	NA	61	horse mountain; although I suspect the first part meant deer earlier	bradley1991preliminary
@@ -1720,6 +1839,7 @@ ID	DOCULECT	GLOSS	VALUE	FORM	FLOATTONE	IDlist	NOTES	SOURCE
 3224	flor12	venado	usû	NA	NA	61	NA	oxnard2020
 2409	gran11	deer	īsù	NA	NA	61	NA	durr1987preliminary
 406	jami11	deer	isu	NA	NA	61	NA	johnson1988syntactic
+6175	jica13	venado	isu	NA	NA	61	NA	Emily John-Martin
 3226	mixt11	venado	isù	NA	NA	61	NA	oxnard2020
 2407	moli11	deer	īsù	NA	NA	61	NA	durr1987preliminary
 3225	mont12	venado	sìkuaà	NA	NA	61	NA	oxnard2020
@@ -1739,8 +1859,10 @@ ID	DOCULECT	GLOSS	VALUE	FORM	FLOATTONE	IDlist	NOTES	SOURCE
 4541	alac11	ardilla	ndikuáño	NA	NA	62	NA	anderson2006vocabulario
 4001	chay11	ardilla	cuaño	NA	NA	62	NA	pensinger1974diccionario
 1687	chic02	ardilla	Chuaa	NA	NA	62	NA	belmar1897ensayo
+5966	chic12	ardilla	xuhua¹	NA	NA	62	NA	good1978diccionario
 4210	colo11	ardilla	cuañu	NA	NA	62	NA	stark1986diccionario
 3229	flor12	ardilla	ntsìkuáñu	ntsì-kuáñu	NA	62	NA	oxnard2020
+6176	jica13	ardilla	ntikuáñu	NA	NA	62	NA	Emily John-Martin
 3231	mixt11	ardilla	ndikwáín	ndi-kwáín	NA	62	NA	oxnard2020
 3230	mont12	ardilla	ndikuání	ndi-kuání	NA	62	NA	oxnard2020
 5261	papa11	ardilla	i²yu¹⁴	NA	NA	62	NA	anderson1983diccionario
@@ -1755,9 +1877,11 @@ ID	DOCULECT	GLOSS	VALUE	FORM	FLOATTONE	IDlist	NOTES	SOURCE
 4542	alac11	zorrillo	ti̠’ín	NA	NA	63	NA	zylstra2012gramatica
 5650	alco11	ardilla	ⁿdi³=kʷa⁴ɲu³	NA	NA	63	NA	swanton2020observaciones
 1688	chic02	zorrillo	Cháán	NA	NA	63	NA	belmar1897ensayo
+5967	chic12	zorrillo	xan’an³	NA	NA	63	NA	good1978diccionario
 4211	colo11	zorrillo	tiñɨ̀hɨ̀	NA	NA	63	NA	stark1986diccionario
 1312	conc11	skunk	hīímha	NA	NA	63	NA	bradley1991preliminary
 3234	flor12	zorrillo	léló	NA	NA	63	NA	oxnard2020
+6177	jica13	zorrillo	lírú	NA	NA	63	NA	Emily John-Martin
 3236	mixt11	zorrillo	tí'inità	tí'in-ità	NA	63	not sure about segmentation	oxnard2020
 3235	mont12	zorrillo	tinìín	ti-nìín	NA	63	NA	oxnard2020
 3238	mont12	zorrillo	kòjo yuù	NA	NA	63	NA	oxnard2020
@@ -1775,11 +1899,13 @@ ID	DOCULECT	GLOSS	VALUE	FORM	FLOATTONE	IDlist	NOTES	SOURCE
 4543	alac11	tlacuache	xáko	NA	NA	64	NA	zylstra2012gramatica
 5113	alac11	tlacuache	chéngo [A]	NA	NA	64	tones are 1-32	alexander1980gramatica
 4002	chay11	tlacuache	soco	NA	NA	64	NA	pensinger1974diccionario
+5968	chic12	tlacuache	jnaquïnj³ïn	NA	NA	64	NA	good1978diccionario
 4212	colo11	tlacuache	tsoco	NA	NA	64	NA	stark1986diccionario
 1313	conc11	(o)possum	īyāáta	NA	NA	64	NA	bradley1991preliminary
 1534	copa11	(o)possum	neko4	NA	NA	64	NA	hollenbach1992syntactic
 3241	flor12	tlacuache	xàjkó	NA	NA	64	NA	oxnard2020
 407	jami11	opossum	tɨ̄-maha	NA	NA	64	NA	johnson1988syntactic
+6178	jica13	tlacuache	xa̠ko	NA	NA	64	NA	Emily John-Martin
 3243	mixt11	tlacuache	tsóko	NA	NA	64	NA	oxnard2020
 3242	mont12	tlacuache	sákua	NA	NA	64	NA	oxnard2020
 5263	papa11	tlacuache	y’a²ta¹⁴	NA	NA	64	NA	anderson1983diccionario
@@ -1796,9 +1922,11 @@ ID	DOCULECT	GLOSS	VALUE	FORM	FLOATTONE	IDlist	NOTES	SOURCE
 5652	chal11	ardilla	kʷa³ɲu²	NA	NA	65	NA	swanton2020observaciones
 4003	chay11	mapache	tumahan	NA	NA	65	NA	pensinger1974diccionario
 1689	chic02	mapache	Kagu	NA	NA	65	NA	belmar1897ensayo
+5969	chic12	mapache	guyuj³	NA	NA	65	NA	good1978diccionario
 919	coat11	raccoon	tɨ́-māhá	NA	NA	65	NA	small1990syntactic
 1535	copa11	raccoon	kahux3	NA	NA	65	NA	hollenbach1992syntactic
 3246	flor12	mapache	má'à	NA	NA	65	NA	oxnard2020
+6179	jica13	mapache	má'a̠	NA	NA	65	NA	Emily John-Martin
 3247	mont12	mapache	maa	NA	NA	65	NA	oxnard2020
 5264	papa11	mapache	y’u⁴vi⁴ y’a²na⁴	NA	NA	65	tejón perro	anderson1983diccionario
 4915	pena11	mapache	ma’à	NA		65	NA	hollenbach2017diccionario
@@ -1814,6 +1942,7 @@ ID	DOCULECT	GLOSS	VALUE	FORM	FLOATTONE	IDlist	NOTES	SOURCE
 785	ayut11	rabbit	iso	NA	NA	66	NA	hills1990syntactic
 4004	chay11	conejo	cuñexu	NA	NA	66	Sp. loan, in examples only	pensinger1974diccionario
 1690	chic02	conejo	Chatooha	NA	NA	66	NA	belmar1897ensayo
+5970	chic12	conejo	xato³	NA	NA	66	NA	good1978diccionario
 920	coat11	rabbit	tsīdó	NA	NA	66	NA	small1990syntactic
 4213	colo11	conejo	cuñexú	NA	NA	66	Sp. loan	stark1986diccionario
 1314	conc11	rabbit	kōnẽxó	NA	NA	66	loan	bradley1991preliminary
@@ -1821,6 +1950,7 @@ ID	DOCULECT	GLOSS	VALUE	FORM	FLOATTONE	IDlist	NOTES	SOURCE
 1183	diux11	rabbit	konexó	NA	NA	66	Sp. conejo	kuiper1991syntactic
 3250	flor12	conejo	lèso	NA	NA	66	NA	oxnard2020
 408	jami11	rabbit	kūñēshú	NA	NA	66	Sp. conejo	johnson1988syntactic
+6180	jica13	conejo	leso	NA	NA	66	NA	Emily John-Martin
 3252	mixt11	conejo	lésú	NA	NA	66	NA	oxnard2020
 3251	mont12	conejo	isò	NA	NA	66	NA	oxnard2020
 530	ocot11	rabbit	lēxō	NA	NA	66	NA	alexander1988syntactic
@@ -1839,9 +1969,11 @@ ID	DOCULECT	GLOSS	VALUE	FORM	FLOATTONE	IDlist	NOTES	SOURCE
 4547	alac11	zopilote	tio̠ko chée	NA	NA	67	NA	zylstra2012gramatica
 4005	chay11	zopilote	tyasii	NA	NA	67	NA	pensinger1974diccionario
 1691	chic02	zopilote	Chaatru	NA	NA	67	NA	belmar1897ensayo
+5971	chic12	zopilote	xachru¹	NA	NA	67	NA	good1978diccionario
 4214	colo11	zopilote	ndìtsìì	NA	NA	67	NA	stark1986diccionario
 1184	diux11	turkey vulture	chó’kó	NA	NA	67	not basic tones	kuiper1991syntactic
 3255	flor12	zopilote	tsìkòxìjǐ	tsì-kòxìjǐ	NA	67	NA	oxnard2020
+6181	jica13	zopilote	lanko	NA	NA	67	NA	Emily John-Martin
 3257	mixt11	zopilote	lóchí	NA	NA	67	NA	oxnard2020
 3256	mont12	zopilote	tì kàká	tì-kàká	NA	67	NA	oxnard2020
 5266	papa11	zopilote	s’i³cu³	NA	NA	67	NA	anderson1983diccionario
@@ -1863,6 +1995,7 @@ ID	DOCULECT	GLOSS	VALUE	FORM	FLOATTONE	IDlist	NOTES	SOURCE
 5657	chal11	perro	i²na¹	NA	NA	68	NA	swanton2020observaciones
 4006	chay11	perro	ina	NA	NA	68	NA	pensinger1974diccionario
 1692	chic02	perro	Chughuee	NA	NA	68	NA	belmar1897ensayo
+5972	chic12	perro	xuhue³	NA	NA	68	NA	good1978diccionario
 921	coat11	dog	tīná	NA	NA	68	NA	small1990syntactic
 2414	coat11	dog	t-ìná̧	NA	NA	68	NA	durr1987preliminary
 4215	colo11	perro	inà	NA	NA	68	NA	stark1986diccionario
@@ -1873,6 +2006,7 @@ ID	DOCULECT	GLOSS	VALUE	FORM	FLOATTONE	IDlist	NOTES	SOURCE
 2418	gran11	dog	īnà	NA	NA	68	NA	durr1987preliminary
 409	jami11	dog	ina	NA	NA	68	NA	johnson1988syntactic
 2425	jica11	dog	īnā	NA	NA	68	NA	durr1987preliminary
+6182	jica13	perro	tǐna	NA	NA	68	NA	Emily John-Martin
 2423	mixt11	dog	t-i᷅nā	NA	NA	68	NA	durr1987preliminary
 3262	mixt11	perro	tǐnà	NA	NA	68	NA	oxnard2020
 2415	moli11	dog	īnà	NA	NA	68	NA	durr1987preliminary
@@ -1903,12 +2037,14 @@ ID	DOCULECT	GLOSS	VALUE	FORM	FLOATTONE	IDlist	NOTES	SOURCE
 787	ayut11	cat	mīshtūn	NA	NA	69	NA	hills1990syntactic
 4007	chay11	gato	milu	NA	NA	69	NA	pensinger1974diccionario
 1693	chic02	gato	Chiluhu	NA	NA	69	NA	belmar1897ensayo
+5973	chic12	gato	xilu³	NA	NA	69	NA	good1978diccionario
 922	coat11	cat	mishtun	NA	NA	69	from Old Sp. mistón	small1990syntactic
 4216	colo11	gato	mistú	NA	NA	69	Sp. loan	stark1986diccionario
 4217	colo11	gato	mixtú	NA	NA	69	Sp. loan	stark1986diccionario
 1187	diux11	cat	vílu	NA	NA	69	NA	kuiper1991syntactic
 3265	flor12	gato	chútu	NA	NA	69	NA	oxnard2020
 410	jami11	cat	chúmī	NA	NA	69	NA	johnson1988syntactic
+6183	jica13	gato	chítu	NA	NA	69	NA	Emily John-Martin
 3267	mixt11	gato	vílú	NA	NA	69	NA	oxnard2020
 3266	mont12	gato	chitó	NA	NA	69	NA	oxnard2020
 3269	mont12	gato	{micho}	micho	NA	69	from Sp.	oxnard2020
@@ -1931,11 +2067,14 @@ ID	DOCULECT	GLOSS	VALUE	FORM	FLOATTONE	IDlist	NOTES	SOURCE
 5117	alac11	gallo	líhli [C]	NA	NA	70	NA	alexander1980gramatica
 4008	chay11	gallo	ndɨvɨ tyahnu	NA	NA	70	NA	pensinger1974diccionario
 1694	chic02	gallo	Daloho	NA	NA	70	NA	belmar1897ensayo
+5974	chic12	gallo	de’loj⁵o	NA	NA	70	NA	good1978diccionario
 4218	colo11	gallo	tsitoohó	NA	NA	70	NA	stark1986diccionario
 1538	copa11	rooster	tohloo3	NA	NA	70	NA	hollenbach1992syntactic
 1188	diux11	rooster	lihí	NA	NA	70	NA	kuiper1991syntactic
 3272	flor12	gallo	chéle	NA	NA	70	NA	oxnard2020
 411	jami11	rooster	lóhó	NA	NA	70	NA	johnson1988syntactic
+6184	jica13	gallo	chéle	NA	NA	70	NA	Emily John-Martin
+6185	jica13	gallo	chele	NA	NA	70	NA	Emily John-Martin
 3274	mixt11	gallo	tó'lo	NA	NA	70	NA	oxnard2020
 3273	mont12	gallo	chéle	NA	NA	70	NA	oxnard2020
 5269	papa11	gallo	tu¹sa¹’an⁴	NA	NA	70	NA	anderson1983diccionario
@@ -1955,11 +2094,13 @@ ID	DOCULECT	GLOSS	VALUE	FORM	FLOATTONE	IDlist	NOTES	SOURCE
 788	ayut11	hen	ndushīh	NA	NA	71	NA	hills1990syntactic
 4009	chay11	gallina	ndɨvɨ	NA	NA	71	NA	pensinger1974diccionario
 1695	chic02	gallina	Yuchehe	NA	NA	71	NA	belmar1897ensayo
+5975	chic12	gallina	xuche⁴	NA	NA	71	NA	good1978diccionario
 4219	colo11	gallina, pollo	ndɨvɨ́	NA	NA	71	NA	stark1986diccionario
 1315	conc11	chicken	tūhū	NA	NA	71	NA	bradley1991preliminary
 1539	copa11	hen, chicken	shuchee32	NA	NA	71	NA	hollenbach1992syntactic
 1189	diux11	chicken	chūún	NA	NA	71	NA	kuiper1991syntactic
 3277	flor12	gallina	nchuxi	NA	NA	71	NA	oxnard2020
+6186	jica13	gallina	ntiuxí	NA	NA	71	NA	Emily John-Martin
 3278	mixt11	gallina	chùún	NA	NA	71	NA	oxnard2020
 533	ocot11	hen	n̄īhín	NA	NA	71	NA	alexander1988syntactic
 5270	papa11	gallina	tu¹ta¹’an⁴	NA	NA	71	NA	anderson1983diccionario
@@ -1979,10 +2120,13 @@ ID	DOCULECT	GLOSS	VALUE	FORM	FLOATTONE	IDlist	NOTES	SOURCE
 789	ayut11	pig	kīni	NA	NA	72	NA	hills1990syntactic
 4010	chay11	cerdo	quɨnɨ	NA	NA	72	NA	pensinger1974diccionario
 1696	chic02	marrano	Chakaha	NA	NA	72	NA	belmar1897ensayo
+5976	chic12	marrano, puerco, cerdo	xaca¹	NA	NA	72	NA	good1978diccionario
 923	coat11	pig	kutsin	NA	NA	72	from Sp. cochino	small1990syntactic
 4220	colo11	marrano, puerco, cochino	quɨ́nɨ̀	NA	NA	72	NA	stark1986diccionario
 1316	conc11	pig	kūchí	NA	NA	72	NA	bradley1991preliminary
 3281	flor12	cerdo	kinì	NA	NA	72	NA	oxnard2020
+6187	jica13	marrano, puerco, cerdo	kîni̠	NA	NA	72	NA	Emily John-Martin
+6188	jica13	marrano, puerco, cerdo	kini̠	NA	NA	72	NA	Emily John-Martin
 3283	mixt11	cerdo	kinì	NA	NA	72	NA	oxnard2020
 3282	mont12	cerdo	ndìkochí	ndì-kochí	NA	72	NA	oxnard2020
 5271	papa11	marrano	cu²chi¹	NA	NA	72	Sp. loan	anderson1983diccionario
@@ -2002,12 +2146,14 @@ ID	DOCULECT	GLOSS	VALUE	FORM	FLOATTONE	IDlist	NOTES	SOURCE
 1047	alac11	horse	kwáyí	NA	NA	73	Sp. caballo	zylstra1991syntactic
 790	ayut11	horse	kwēī	NA	NA	73	from Sp. caballo	hills1990syntactic
 4011	chay11	caballo	cavayu	NA	NA	73	Sp. loan, in examples only	pensinger1974diccionario
+5977	chic12	caballo	guayu³	NA	NA	73	NA	good1978diccionario
 924	coat11	horse	idú	NA	NA	73	NA	small1990syntactic
 2426	coat11	horse	íđú	NA	NA	73	NA	durr1987preliminary
 4221	colo11	caballo	cuayú	NA	NA	73	NA	stark1986diccionario
 1317	conc11	horse	yhūdú	NA	NA	73	not sure about tones	bradley1991preliminary
 1540	copa11	horse	kwa3yo4	NA	NA	73	Sp. caballo	hollenbach1992syntactic
 3286	flor12	caballo	kuayì	NA	NA	73	NA	oxnard2020
+6189	jica13	caballo	kuáyu̠	NA	NA	73	NA	Emily John-Martin
 3288	mixt11	caballo	kwa.ìì	NA	NA	73	NA	oxnard2020
 3287	mont12	caballo	kuáyì	NA	NA	73	NA	oxnard2020
 534	ocot11	horse	kwáyu	NA	NA	73	NA	alexander1988syntactic
@@ -2029,11 +2175,14 @@ ID	DOCULECT	GLOSS	VALUE	FORM	FLOATTONE	IDlist	NOTES	SOURCE
 4012	chay11	borrego, oveja	mvee ticatyi	NA	NA	74	NA	pensinger1974diccionario
 1697	chic02	oveja	Chachihi	NA	NA	74	NA	belmar1897ensayo
 1698	chic02	oveja	Matsihi	NA	NA	74	NA	belmar1897ensayo
+5978	chic12	borrego, oveja	matsïj⁴ï	NA	NA	74	NA	good1978diccionario
 4222	colo11	borrego, chivo, carnero	mbèè	NA	NA	74	NA	stark1986diccionario
 4223	colo11	oveja, carnero	mbèè ticàtyì	NA	NA	74	NA	stark1986diccionario
 1541	copa11	sheep	matsinx32	NA	NA	74	NA	hollenbach1992syntactic
 1190	diux11	sheep	t-káchi	NA	NA	74	animal-cotton	kuiper1991syntactic
 3291	flor12	borrego	lanchi	NA	NA	74	NA	oxnard2020
+6190	jica13	borrego, oveja	lanchi	NA	NA	74	NA	Emily John-Martin
+6191	jica13	borrego, oveja	ntikachi	NA	NA	74	NA	Emily John-Martin
 3293	mixt11	borrego	ndikachi	ndi-kachi	NA	74	NA	oxnard2020
 3292	mont12	borrego	lévo	NA	NA	74	NA	oxnard2020
 535	ocot11	sheep	ti-kachí	NA	NA	74	NA	alexander1988syntactic
@@ -2056,11 +2205,13 @@ ID	DOCULECT	GLOSS	VALUE	FORM	FLOATTONE	IDlist	NOTES	SOURCE
 4013	chay11	hormiga	tyìyòcò	NA	NA	75	NA	pensinger1974diccionario
 1699	chic02	hormiga	Chukua	NA	NA	75	NA	belmar1897ensayo
 1825	chic02	hormiga	Yukuaha	NA	NA	75	NA	belmar1897ensayo
+5979	chic12	hormiga	xucua³	NA	NA	75	NA	good1978diccionario
 925	coat11	ant	tsóko	NA	NA	75	NA	small1990syntactic
 4224	colo11	hormiga	tyocó	NA	NA	75	NA	stark1986diccionario
 1542	copa11	ant	shkw-aa3	NA	NA	75	animal-?	hollenbach1992syntactic
 3296	flor12	hormiga	tsiòkó	NA	NA	75	NA	oxnard2020
 412	jami11	ant	tɨ̄-yoko	NA	NA	75	NA	johnson1988syntactic
+6192	jica13	hormiga	tiokó	NA	NA	75	NA	Emily John-Martin
 3298	mixt11	hormiga	chokǒ	NA	NA	75	NA	oxnard2020
 3297	mont12	hormiga	tìkù kuaá	tìkù	NA	75	kuaá ‘red’, probably a specific type of ant	oxnard2020
 5274	papa11	hormiga	i³cu⁴	NA	NA	75	NA	anderson1983diccionario
@@ -2078,9 +2229,12 @@ ID	DOCULECT	GLOSS	VALUE	FORM	FLOATTONE	IDlist	NOTES	SOURCE
 792	ayut11	horn (anatomy)	ndikīh	NA	NA	76	NA	hills1990syntactic
 4014	chay11	cuerno	ndɨquɨ	NA	NA	76	NA	pensinger1974diccionario
 1700	chic02	cuerno	Kuû	NA	NA	76	NA	belmar1897ensayo
+5980	chic12	cuerno	si-cu¹ xuj³	NA	NA	76	NA	good1978diccionario
 4225	colo11	cuerno	ndɨquɨ	NA	NA	76	NA	stark1986diccionario
 3301	flor12	cuerno	ntsikǐ	NA	NA	76	NA	oxnard2020
 413	jami11	horn (anatomy)	ndīkī	NA	NA	76	NA	johnson1988syntactic
+6193	jica13	cuerno	ntikí	NA	NA	76	NA	Emily John-Martin
+6194	jica13	cuerno	ntikín	NA	NA	76	NA	Emily John-Martin
 3303	mixt11	cuerno	ndikǐ	NA	NA	76	NA	oxnard2020
 3302	mont12	cuerno	ndikì	NA	NA	76	NA	oxnard2020
 5275	papa11	cuerno	du³ni³ni³	NA	NA	76	NA	anderson1983diccionario
@@ -2098,9 +2252,11 @@ ID	DOCULECT	GLOSS	VALUE	FORM	FLOATTONE	IDlist	NOTES	SOURCE
 5662	chal11	pluma	tu¹ũ²	NA	NA	77	NA	swanton2020observaciones
 4015	chay11	pluma	tumi	NA	NA	77	NA	pensinger1974diccionario
 1701	chic02	pluma	Tooóha	NA	NA	77	NA	belmar1897ensayo
+5981	chic12	pluma, lana	to³⁴	NA	NA	77	NA	good1978diccionario
 4226	colo11	pluma	tumi	NA	NA	77	NA	stark1986diccionario
 3306	flor12	pluma	tǒmî	NA	NA	77	NA	oxnard2020
 414	jami11	feather	tūmi	NA	NA	77	NA	johnson1988syntactic
+6195	jica13	pluma	tu̠mi	NA	NA	77	NA	Emily John-Martin
 3308	mixt11	pluma	tùmì	NA	NA	77	NA	oxnard2020
 3307	mont12	pluma	tòmi	NA	NA	77	NA	oxnard2020
 5276	papa11	pluma	plu²ma¹	NA	NA	77	Sp. loan	anderson1983diccionario
@@ -2118,8 +2274,10 @@ ID	DOCULECT	GLOSS	VALUE	FORM	FLOATTONE	IDlist	NOTES	SOURCE
 5122	alac11	ala	ndijēn [C]	NA	NA	78	NA	alexander1980gramatica
 4016	chay11	ala	ndisi	NA	NA	78	NA	pensinger1974diccionario
 1702	chic02	ala	Degachi	NA	NA	78	NA	belmar1897ensayo
+5982	chic12	ala	si-gachi³ xuj³	NA	NA	78	NA	good1978diccionario
 4227	colo11	ala	ndìtsìn	NA	NA	78	NA	stark1986diccionario
 3311	flor12	ala	nchìxǐn	NA	NA	78	NA	oxnard2020
+6196	jica13	ala	nti̠xín	NA	NA	78	NA	Emily John-Martin
 3313	mixt11	ala	ntsìtsǐ	NA	NA	78	NA	oxnard2020
 3312	mont12	ala	ndìsì	NA	NA	78	NA	oxnard2020
 5277	papa11	ala, brazo, paleta	gue⁴che³	NA	NA	78	NA	anderson1983diccionario
@@ -2136,12 +2294,14 @@ ID	DOCULECT	GLOSS	VALUE	FORM	FLOATTONE	IDlist	NOTES	SOURCE
 793	ayut11	tail	sūhmah	NA	NA	79	NA	hills1990syntactic
 4017	chay11	cola	zuhma tɨ	zuhma	NA	79	NA	pensinger1974diccionario
 1703	chic02	cola	Tuneha	NA	NA	79	NA	belmar1897ensayo
+5983	chic12	cola	dune’³e xuj³	NA	NA	79	NA	good1978diccionario
 926	coat11	tail	dúhmē	NA	NA	79	NA	small1990syntactic
 4228	colo11	cola	jùhmà tɨ̀	jùhmà	NA	79	NA	stark1986diccionario
 1543	copa11	tail	tuneh4	NA	NA	79	not sure about basic tone, also appears as tuneh3	hollenbach1992syntactic
 1191	diux11	tail	ðú’hán	NA	NA	79	not basic tones	kuiper1991syntactic
 3316	flor12	cola	nto'ǒ	NA	NA	79	NA	oxnard2020
 415	jami11	tail	suhma	NA	NA	79	NA	johnson1988syntactic
+6197	jica13	cola	nto'ó	NA	NA	79	NA	Emily John-Martin
 3318	mixt11	cola	ndo'ó	NA	NA	79	NA	oxnard2020
 3317	mont12	cola	ndo'ò	NA	NA	79	NA	oxnard2020
 536	ocot11	tail	suhma	NA	NA	79	NA	alexander1988syntactic
@@ -2169,6 +2329,7 @@ ID	DOCULECT	GLOSS	VALUE	FORM	FLOATTONE	IDlist	NOTES	SOURCE
 5667	chal11	árbol	ju²nu²	NA	+³	80	NA	swanton2020observaciones
 4018	chay11	árbol, palo	yutu	NA	NA	80	NA	pensinger1974diccionario
 1704	chic02	árbol	Truun	NA	NA	80	NA	belmar1897ensayo
+5984	chic12	árbol, palo, madera	chrun³	NA	NA	80	NA	good1978diccionario
 927	coat11	tree	utun	NA	NA	80	NA	small1990syntactic
 4229	colo11	árbol, palo	yutun	NA	NA	80	NA	stark1986diccionario
 1318	conc11	tree	yāhān	NA	NA	80	NA	bradley1991preliminary
@@ -2178,6 +2339,7 @@ ID	DOCULECT	GLOSS	VALUE	FORM	FLOATTONE	IDlist	NOTES	SOURCE
 2432	gran11	tree	žūnū	NA	NA	80	NA	durr1987preliminary
 416	jami11	tree	yūtūn	NA	NA	80	NA	johnson1988syntactic
 2438	jica11	tree	yùtù̧	NA	NA	80	NA	durr1987preliminary
+6198	jica13	árbol, palo	itún	NA	NA	80	NA	Emily John-Martin
 2435	metl11	tree	yūtú̧	NA	NA	80	NA	durr1987preliminary
 2429	moli11	tree	žūtū̧	NA	NA	80	NA	durr1987preliminary
 537	ocot11	tree	n̄ūtūn	NA	NA	80	NA	alexander1988syntactic
@@ -2209,11 +2371,13 @@ ID	DOCULECT	GLOSS	VALUE	FORM	FLOATTONE	IDlist	NOTES	SOURCE
 4019	chay11	hierba	yucu	NA	NA	81	NA	pensinger1974diccionario
 2445	chay11	herb, bush	yùkù	NA	NA	81	NA	durr1987preliminary
 1705	chic02	hierba	Kohoa	NA	NA	81	glossed yerba	belmar1897ensayo
+5985	chic12	hierba (no comestible)	coj³o	NA	NA	81	NA	good1978diccionario
 928	coat11	herb	chóhō	NA	NA	81	NA	small1990syntactic
 4230	colo11	hierba, verduras	yùcù	NA	NA	81	NA	stark1986diccionario
 4231	colo11	hierba comestible	yúva	NA	NA	81	NA	stark1986diccionario
 3324	flor12	hierba	yùjkù	NA	NA	81	NA	oxnard2020
 2443	gran11	herb, bush	žūkù	NA	NA	81	NA	durr1987preliminary
+6199	jica13	hierba, verduras de hoja	yuva	NA	NA	81	NA	Emily John-Martin
 3326	mixt11	hierba	yùkù	NA	NA	81	NA	oxnard2020
 2440	moli11	herb, bush	žùkù	NA	NA	81	NA	durr1987preliminary
 3325	mont12	hierba	yùkù	NA	NA	81	NA	oxnard2020
@@ -2240,9 +2404,12 @@ ID	DOCULECT	GLOSS	VALUE	FORM	FLOATTONE	IDlist	NOTES	SOURCE
 5677	chal11	pasto	i²ʧa¹	NA	NA	82	NA	swanton2020observaciones
 4020	chay11	zacate	itya	NA	NA	82	NA	pensinger1974diccionario
 1706	chic02	pasto	Trihi	NA	NA	82	NA	belmar1897ensayo
+5986	chic12	zacate	gui⁴’yo⁵	NA	NA	82	NA	good1978diccionario
+5987	chic12	pasto	chrin’³in	NA	NA	82	NA	good1978diccionario
 929	coat11	grass	ite	NA	NA	82	NA	small1990syntactic
 4232	colo11	zacate, pasto	ityà	NA	NA	82	NA	stark1986diccionario
 3329	flor12	zacate, pasto	ijtsià	NA	NA	82	NA	oxnard2020
+6200	jica13	zacate, pasto	itia	NA	NA	82	NA	Emily John-Martin
 3331	mixt11	zacate, pasto	ichà	NA	NA	82	NA	oxnard2020
 3330	mont12	zacate, pasto	ityà	NA	NA	82	NA	oxnard2020
 538	ocot11	grass	īte	NA	NA	82	NA	alexander1988syntactic
@@ -2270,6 +2437,7 @@ ID	DOCULECT	GLOSS	VALUE	FORM	FLOATTONE	IDlist	NOTES	SOURCE
 4021	chay11	flor	ita	NA	NA	83	NA	pensinger1974diccionario
 2459	chay11	flower	ītà	NA	NA	83	NA	durr1987preliminary
 1707	chic02	flor	Yaha	NA	NA	83	NA	belmar1897ensayo
+5988	chic12	flor	yaj³a	NA	NA	83	NA	good1978diccionario
 2449	coat11	flower	làà	NA	NA	83	NA	durr1987preliminary
 4233	colo11	flor	ità	NA	NA	83	NA	stark1986diccionario
 1319	conc11	flower	nāanta	NA	NA	83	NA	bradley1991preliminary
@@ -2278,6 +2446,7 @@ ID	DOCULECT	GLOSS	VALUE	FORM	FLOATTONE	IDlist	NOTES	SOURCE
 3334	flor12	flor	ita	NA	NA	83	NA	oxnard2020
 2453	gran11	flower	ītā	NA	NA	83	NA	durr1987preliminary
 2458	jica11	flower	ītā	NA	NA	83	NA	durr1987preliminary
+6201	jica13	flor	ita	NA	NA	83	NA	Emily John-Martin
 2455	metl11	flower	ītā	NA	NA	83	NA	durr1987preliminary
 2457	mixt11	flower	ītà	NA	NA	83	NA	durr1987preliminary
 3336	mixt11	flor	ità	NA	NA	83	NA	oxnard2020
@@ -2303,11 +2472,13 @@ ID	DOCULECT	GLOSS	VALUE	FORM	FLOATTONE	IDlist	NOTES	SOURCE
 67	abas11	maguey	yàvì	NA	NA	84	NA	galindo-sanchez2009vocabulario
 4563	alac11	maguey	yavi̠	NA	NA	84	NA	anderson2006vocabulario
 4022	chay11	maguey	yāvī	NA	NA	84	NA	pensinger1974diccionario
+5989	chic12	maguey	huue³⁴	NA	NA	84	NA	good1978diccionario
 4234	colo11	maguey	yavi	NA	NA	84	NA	stark1986diccionario
 1194	diux11	maguey, century plant	yáú	NA	NA	84	NA	kuiper1991syntactic
 3339	flor12	maguey	yajvǐ	NA	NA	84	NA	oxnard2020
 3344	flor12	maguey	yàjvǐ	NA	NA	84	NA	oxnard2020
 417	jami11	maguey, century plant	yāvī	NA	NA	84	NA	johnson1988syntactic
+6202	jica13	maguey	yaví	NA	NA	84	NA	Emily John-Martin
 3341	mixt11	maguey	yávi	NA	NA	84	NA	oxnard2020
 3340	mont12	maguey	yavì	NA	NA	84	NA	oxnard2020
 5284	papa11	maguey, verdura	yi⁴va⁴	NA	NA	84	NA	anderson1983diccionario
@@ -2322,10 +2493,12 @@ ID	DOCULECT	GLOSS	VALUE	FORM	FLOATTONE	IDlist	NOTES	SOURCE
 796	ayut11	root	tyoho	NA	NA	85	NA	hills1990syntactic
 4023	chay11	raíz	yoho	NA	NA	85	NA	pensinger1974diccionario
 1708	chic02	raíz	Yaáha	NA	NA	85	NA	belmar1897ensayo
+5990	chic12	raíz, cuerda	ya’a⁴	NA	NA	85	NA	good1978diccionario
 4235	colo11	raíz	yoho	NA	NA	85	NA	stark1986diccionario
 1546	copa11	root	yaa5	NA	NA	85	NA	hollenbach1992syntactic
 1195	diux11	root	yoho	NA	NA	85	NA	kuiper1991syntactic
 3347	flor12	raíz	tsiò'o	NA	NA	85	NA	oxnard2020
+6203	jica13	raíz	tio̠'o	NA	NA	85	NA	Emily John-Martin
 3349	mixt11	raíz	yo'ó	NA	NA	85	NA	oxnard2020
 3348	mont12	raíz	yò'ò	NA	NA	85	NA	oxnard2020
 5285	papa11	raíz	d’i²yu²	NA	NA	85	NA	anderson1983diccionario
@@ -2341,11 +2514,13 @@ ID	DOCULECT	GLOSS	VALUE	FORM	FLOATTONE	IDlist	NOTES	SOURCE
 5687	chal11	espina	i²ɲu²	NA	+³	86	NA	swanton2020observaciones
 4024	chay11	espina	iñu	NA	NA	86	NA	pensinger1974diccionario
 1709	chic02	espina	Tanha	NA	NA	86	NA	belmar1897ensayo
+5991	chic12	espina	tanj³an	NA	NA	86	NA	good1978diccionario
 930	coat11	thorn	íñū	NA	NA	86	NA	small1990syntactic
 4236	colo11	espina	iñu	NA	NA	86	NA	stark1986diccionario
 1547	copa11	thorn	tanx32	NA	NA	86	NA	hollenbach1992syntactic
 1196	diux11	thorn	íñú	NA	NA	86	not basic tones	kuiper1991syntactic
 3352	flor12	espina, araña	ijñǔ	NA	NA	86	NA	oxnard2020
+6204	jica13	espina	iñú	NA	NA	86	NA	Emily John-Martin
 3354	mixt11	espina, araña	iñǔ	NA	NA	86	NA	oxnard2020
 3353	mont12	espina, araña	iñò	NA	NA	86	NA	oxnard2020
 5286	papa11	espina	yan²	NA	NA	86	NA	anderson1983diccionario
@@ -2371,6 +2546,7 @@ ID	DOCULECT	GLOSS	VALUE	FORM	FLOATTONE	IDlist	NOTES	SOURCE
 2468	cahu11	corn	nònì	NA	NA	87	NA	durr1987preliminary
 5692	chal11	maíz	nu²ni¹	NA	+³	87	NA	swanton2020observaciones
 4025	chay11	maíz en grano	nuñi	NA	NA	87	NA	pensinger1974diccionario
+5992	chic12	maíz	'nï¹	NA	NA	87	NA	good1978diccionario
 931	coat11	corn	nuni	NA	NA	87	NA	small1990syntactic
 4237	colo11	maíz en grano	nùñì	NA	NA	87	NA	stark1986diccionario
 1320	conc11	corn	nínú	NA	NA	87	NA	bradley1991preliminary
@@ -2380,6 +2556,7 @@ ID	DOCULECT	GLOSS	VALUE	FORM	FLOATTONE	IDlist	NOTES	SOURCE
 2464	gran11	corn	nūnì	NA	NA	87	NA	durr1987preliminary
 418	jami11	grain of corn	nuñi	NA	NA	87	NA	johnson1988syntactic
 2470	jica11	corn	núní	NA	NA	87	NA	durr1987preliminary
+6205	jica13	maíz en grano	nu̠ní	NA	NA	87	NA	Emily John-Martin
 2466	metl11	corn	nùnì	NA	NA	87	NA	durr1987preliminary
 2467	metl11	corn	nùnī	NA	NA	87	NA	durr1987preliminary
 3359	mixt11	maíz	nùnǐ	NA	NA	87	NA	oxnard2020
@@ -2409,12 +2586,14 @@ ID	DOCULECT	GLOSS	VALUE	FORM	FLOATTONE	IDlist	NOTES	SOURCE
 5127	alac11	milpa	itu [C]	NA	NA	88	NA	alexander1980gramatica
 799	ayut11	cornfield, corn plant	itu	NA	NA	88	corn plant, but in ex. translated as cornfield	hills1990syntactic
 4026	chay11	milpa	itu	NA	NA	88	NA	pensinger1974diccionario
+5993	chic12	milpa	nna³⁵	NA	NA	88	NA	good1978diccionario
 932	coat11	cornfield	itú	NA	NA	88	NA	small1990syntactic
 4238	colo11	milpa	itù	NA	NA	88	NA	stark1986diccionario
 1549	copa11	cornfield	naa31	NA	NA	88	NA	hollenbach1992syntactic
 1198	diux11	cornfield	ítû	NA	NA	88	NA	kuiper1991syntactic
 3362	flor12	milpa	ujtû	NA	NA	88	NA	oxnard2020
 419	jami11	cornfield	itu	NA	NA	88	NA	johnson1988syntactic
+6206	jica13	milpa	itu	NA	NA	88	NA	Emily John-Martin
 3364	mixt11	milpa	itù	NA	NA	88	NA	oxnard2020
 3363	mont12	milpa	itì	NA	NA	88	NA	oxnard2020
 541	ocot11	cornfield	ītu	NA	NA	88	NA	alexander1988syntactic
@@ -2432,10 +2611,12 @@ ID	DOCULECT	GLOSS	VALUE	FORM	FLOATTONE	IDlist	NOTES	SOURCE
 4567	alac11	elote	ndisi̠	NA	NA	89	NA	anderson2006vocabulario
 800	ayut11	fresh ear of corn	niih	NA	NA	89	NA	hills1990syntactic
 4027	chay11	elote	ndixi	NA	NA	89	NA	pensinger1974diccionario
+5994	chic12	elote	tsi³⁴	NA	NA	89	NA	good1978diccionario
 4239	colo11	elote	nyixi	NA	NA	89	NA	stark1986diccionario
 1550	copa11	ear of corn	tanh3	NA	NA	89	NA	hollenbach1992syntactic
 1199	diux11	ear of corn	ñɨ́ñɨ́	NA	NA	89	NA	kuiper1991syntactic
 3367	flor12	elote (no crudo, para comer)	nchìxǐ	NA	NA	89	NA	oxnard2020
+6207	jica13	elote	ntixí	NA	NA	89	NA	Emily John-Martin
 3369	mixt11	elote (no crudo, para comer)	ndixî	NA	NA	89	NA	oxnard2020
 3368	mont12	elote (no crudo, para comer)	ndixì	NA	NA	89	NA	oxnard2020
 542	ocot11	fresh ear of corn	ndīshī	NA	NA	89	NA	alexander1988syntactic
@@ -2452,8 +2633,10 @@ ID	DOCULECT	GLOSS	VALUE	FORM	FLOATTONE	IDlist	NOTES	SOURCE
 5695	alco11	nixtamal	ʃa⁴Ɂa²	NA	NA	90	NA	swanton2020observaciones
 5697	chal11	nixtamal	nu²ni¹	NA	+xa³Ɂa³	90	maíz+nixtamal	swanton2020observaciones
 4028	chay11	nixtamal	nuñi saha	NA	NA	90	NA	pensinger1974diccionario
+5995	chic12	nixtamal	niyaj⁴a	NA	NA	90	NA	good1978diccionario
 4240	colo11	nixtamal	nùñì tsaahá	NA	NA	90	NA	stark1986diccionario
 3372	flor12	nixtamal	xá'a	NA	NA	90	NA	oxnard2020
+6208	jica13	nixtamal	xá'a	NA	NA	90	NA	Emily John-Martin
 3373	mixt11	nixtamal	tsa'á	NA	NA	90	NA	oxnard2020
 5290	papa11	nixtamal	ve⁴ye⁴	NA	NA	90	NA	anderson1983diccionario
 4944	pena11	nixtamal	ndàku	NA	[B]	90	NA	hollenbach2017diccionario
@@ -2470,11 +2653,13 @@ ID	DOCULECT	GLOSS	VALUE	FORM	FLOATTONE	IDlist	NOTES	SOURCE
 801	ayut11	corn dough, tortilla dough	ishānh	NA	NA	91	NA	hills1990syntactic
 4029	chay11	masa	yusa	NA	NA	91	NA	pensinger1974diccionario
 1710	chic02	masa	Kenha	NA	NA	91	NA	belmar1897ensayo
+5996	chic12	masa	quïnj³ïn	NA	NA	91	NA	good1978diccionario
 933	coat11	dough, paste	uhshen	NA	NA	91	NA	small1990syntactic
 4241	colo11	masa	yutsan	NA	NA	91	NA	stark1986diccionario
 1200	diux11	corn dough, tortilla dough	yūsha	NA	NA	91	NA	kuiper1991syntactic
 3376	flor12	masa	ixǎn	NA	NA	91	NA	oxnard2020
 420	jami11	cornmeal, corn dough	yūchān	NA	NA	91	NA	johnson1988syntactic
+6209	jica13	masa	yuxán	NA	NA	91	NA	Emily John-Martin
 3378	mixt11	masa	yútsa	NA	NA	91	NA	oxnard2020
 3377	mont12	masa	yusà	NA	NA	91	NA	oxnard2020
 5291	papa11	masa	ya⁴chi⁴	NA	NA	91	NA	anderson1983diccionario
@@ -2497,6 +2682,7 @@ ID	DOCULECT	GLOSS	VALUE	FORM	FLOATTONE	IDlist	NOTES	SOURCE
 2482	cahu11	tortilla	sītā	NA	NA	92	NA	durr1987preliminary
 4030	chay11	tortilla	xita	NA	NA	92	NA	pensinger1974diccionario
 2486	chay11	tortilla	šìtà	NA	NA	92	NA	durr1987preliminary
+5997	chic12	tortilla	chra³	NA	NA	92	NA	good1978diccionario
 934	coat11	tortilla	ita	NA	NA	92	NA	small1990syntactic
 2472	coat11	tortilla	íʔtǎ	NA	NA	92	NA	durr1987preliminary
 4242	colo11	tortilla	ìxtà	NA	NA	92	NA	stark1986diccionario
@@ -2508,6 +2694,7 @@ ID	DOCULECT	GLOSS	VALUE	FORM	FLOATTONE	IDlist	NOTES	SOURCE
 2476	gran11	tortilla	stāà	NA	NA	92	NA	durr1987preliminary
 421	jami11	tortilla	shita	NA	NA	92	NA	johnson1988syntactic
 2485	jica11	tortilla	šítá	NA	NA	92	NA	durr1987preliminary
+6210	jica13	tortilla	xi̠tá	NA	NA	92	NA	Emily John-Martin
 2481	metl11	tortilla	sītà	NA	NA	92	NA	durr1987preliminary
 2483	mixt11	tortilla	stàá	NA	NA	92	NA	durr1987preliminary
 3383	mixt11	tortilla	stàá	NA	NA	92	NA	oxnard2020
@@ -2531,8 +2718,10 @@ ID	DOCULECT	GLOSS	VALUE	FORM	FLOATTONE	IDlist	NOTES	SOURCE
 1416	yoso11	tortilla	staa	NA	NA	92	NA	farris1992syntactic
 4414	zaca11	tortilla	xita’	NA	NA	92	NA	towne2011gramatica
 4031	chay11	rastrojo, guamil	ñàmà	NA	NA	93	NA	pensinger1974diccionario
+5998	chic12	rastrojo	gui’yo⁵³	NA	NA	93	NA	good1978diccionario
 4244	colo11	rastrojo, totomostle	yàmà	NA	NA	93	NA	stark1986diccionario
 3386	flor12	rastrojo	xè'è mii	NA	NA	93	NA	oxnard2020
+6211	jica13	forraje	ntáyo̠'o	NA	NA	93	NA	Emily John-Martin
 3388	mixt11	rastrojo	tiàmá	NA	NA	93	NA	oxnard2020
 3387	mont12	rastrojo	ñàmà	NA	NA	93	NA	oxnard2020
 5293	papa11	rastrojo	yi²v’o²⁴	NA	NA	93	NA	anderson1983diccionario
@@ -2546,9 +2735,11 @@ ID	DOCULECT	GLOSS	VALUE	FORM	FLOATTONE	IDlist	NOTES	SOURCE
 4571	alac11	surco, zanja	chi̠chi	NA	NA	94	NA	anderson2006vocabulario
 803	ayut11	furrow, planting row	yūkun	NA	NA	94	only as part of ndu-yūkun ‘will become a row’	hills1990syntactic
 4032	chay11	surco, fila	yūcù	NA	NA	94	NA	pensinger1974diccionario
+5999	chic12	surco	ducuan¹	NA	NA	94	NA	good1978diccionario
 4245	colo11	surco	yúcun	NA	NA	94	NA	stark1986diccionario
 3391	flor12	surco	chìchi	NA	NA	94	NA	oxnard2020
 422	jami11	row	yukun	NA	NA	94	NA	johnson1988syntactic
+6212	jica13	surco	chi̠chi	NA	NA	94	NA	Emily John-Martin
 3393	mixt11	surco	chìchi	NA	NA	94	NA	oxnard2020
 3392	mont12	surco	chìchi	NA	NA	94	NA	oxnard2020
 3394	mont12	surco	yikò	NA	NA	94	NA	oxnard2020
@@ -2565,8 +2756,10 @@ ID	DOCULECT	GLOSS	VALUE	FORM	FLOATTONE	IDlist	NOTES	SOURCE
 4572	alac11	espiga	yoko̠	NA	NA	95	NA	anderson2006vocabulario
 4033	chay11	espiga	yōcō	NA	NA	95	NA	pensinger1974diccionario
 1711	chic02	espiga	Kaa	NA	NA	95	NA	belmar1897ensayo
+6000	chic12	espiga	ca³⁴	NA	NA	95	NA	good1978diccionario
 4246	colo11	espiga	yoco	NA	NA	95	NA	stark1986diccionario
 3397	flor12	espiga de milpa	yojkǒ	NA	NA	95	NA	oxnard2020
+6213	jica13	espiga	yokó	NA	NA	95	NA	Emily John-Martin
 5295	papa11	espiga	ya²mi⁴	NA	NA	95	NA	anderson1983diccionario
 4950	pena11	espiga	yoko	NA	[A]	95	NA	hollenbach2017diccionario
 3396	pied12	espiga de milpa	yojkǒ	NA	NA	95	NA	oxnard2020
@@ -2586,6 +2779,7 @@ ID	DOCULECT	GLOSS	VALUE	FORM	FLOATTONE	IDlist	NOTES	SOURCE
 4034	chay11	frijol, riñon	ndūtyī	NA	NA	96	NA	pensinger1974diccionario
 2497	chay11	beans	ⁿdūtʸī	NA	NA	96	NA	durr1987preliminary
 1712	chic02	frijol(es)	Rrunehe	NA	NA	96	NA	belmar1897ensayo
+6001	chic12	frijol(es)	rune⁴	NA	NA	96	NA	good1978diccionario
 935	coat11	bean	ndutsi	NA	NA	96	NA	small1990syntactic
 2488	coat11	beans	ⁿdùʔȼì	NA	NA	96	NA	durr1987preliminary
 4247	colo11	frijol	ndutyi	NA	NA	96	NA	stark1986diccionario
@@ -2594,6 +2788,7 @@ ID	DOCULECT	GLOSS	VALUE	FORM	FLOATTONE	IDlist	NOTES	SOURCE
 3400	flor12	frijol	ntujchǐ	NA	NA	96	NA	oxnard2020
 2491	gran11	beans	ⁿdūčī	NA	NA	96	NA	durr1987preliminary
 423	jami11	bean	ndutyi	NA	NA	96	NA	johnson1988syntactic
+6214	jica13	frijol(es)	ntuchí	NA	NA	96	NA	Emily John-Martin
 3402	mixt11	frijol	nduchǐ	NA	NA	96	NA	oxnard2020
 2489	moli11	beans	ⁿdūčī	NA	NA	96	NA	durr1987preliminary
 3401	mont12	frijol	nduchì	NA	NA	96	NA	oxnard2020
@@ -2613,9 +2808,11 @@ ID	DOCULECT	GLOSS	VALUE	FORM	FLOATTONE	IDlist	NOTES	SOURCE
 79	abas11	ejote	nchichi	NA	NA	97	NA	galindo-sanchez2009vocabulario
 4574	alac11	ejote	ndi̠chi	NA	NA	97	NA	anderson2006vocabulario
 4035	chay11	ejote	ndyityi	NA	NA	97	NA	pensinger1974diccionario
+6002	chic12	ejote	natan³	NA	NA	97	NA	good1978diccionario
 4248	colo11	ejote	nyítyì	NA	NA	97	NA	stark1986diccionario
 1203	diux11	green bean	ndí’chí	NA	NA	97	not basic tones	kuiper1991syntactic
 3405	flor12	ejote	nchǐchî	NA	NA	97	NA	oxnard2020
+6215	jica13	ejote	ntǐchi	NA	NA	97	NA	Emily John-Martin
 3407	mixt11	ejote	nchichî	NA	NA	97	NA	oxnard2020
 3406	mont12	ejote	ndìchi	NA	NA	97	NA	oxnard2020
 5297	papa11	ejote	nde³te³	NA	NA	97	NA	anderson1983diccionario
@@ -2634,6 +2831,7 @@ ID	DOCULECT	GLOSS	VALUE	FORM	FLOATTONE	IDlist	NOTES	SOURCE
 5701	chal11	chile	ja²Ɂa²	NA	+³	98	NA	swanton2020observaciones
 4036	chay11	chile	yaha	NA	NA	98	NA	pensinger1974diccionario
 1713	chic02	chilar, pimiento	Kohiaáha	NA	NA	98	NA	belmar1897ensayo
+6003	chic12	chile	ya’³aj	NA	NA	98	NA	good1978diccionario
 936	coat11	chili pepper	shaha	NA	NA	98	NA	small1990syntactic
 2500	coat11	chile	šàʔà	NA	NA	98	NA	durr1987preliminary
 4249	colo11	chile	yaha	NA	NA	98	NA	stark1986diccionario
@@ -2643,6 +2841,7 @@ ID	DOCULECT	GLOSS	VALUE	FORM	FLOATTONE	IDlist	NOTES	SOURCE
 3410	flor12	chile	ya'ǎ	NA	NA	98	NA	oxnard2020
 2503	gran11	chile	žāʔā	NA	NA	98	NA	durr1987preliminary
 424	jami11	chili pepper	yāhā	NA	NA	98	NA	johnson1988syntactic
+6216	jica13	chile	ya'á	NA	NA	98	NA	Emily John-Martin
 2505	mixt11	chile	yāʔá	NA	NA	98	NA	durr1987preliminary
 3412	mixt11	chile	ya'á	NA	NA	98	NA	oxnard2020
 2501	moli11	chile	žāʔā	NA	NA	98	NA	durr1987preliminary
@@ -2670,6 +2869,7 @@ ID	DOCULECT	GLOSS	VALUE	FORM	FLOATTONE	IDlist	NOTES	SOURCE
 806	ayut11	salt	īīnh	NA	NA	99	NA	hills1990syntactic
 4037	chay11	sal	ñɨ̀ɨ̀	NA	NA	99	NA	pensinger1974diccionario
 1714	chic02	sal	Yaauha	NA	NA	99	NA	belmar1897ensayo
+6004	chic12	sal	yan³⁴	NA	NA	99	NA	good1978diccionario
 937	coat11	salt	ñɨɨ	NA	NA	99	NA	small1990syntactic
 4250	colo11	sal	ñɨ̀ɨ̀	NA	NA	99	NA	stark1986diccionario
 1322	conc11	salt	xīima	NA	NA	99	NA	bradley1991preliminary
@@ -2677,6 +2877,7 @@ ID	DOCULECT	GLOSS	VALUE	FORM	FLOATTONE	IDlist	NOTES	SOURCE
 1205	diux11	salt	ñɨ́’ɨ́	NA	NA	99	not basic tones	kuiper1991syntactic
 3415	flor12	sal	ììn	NA	NA	99	NA	oxnard2020
 425	jami11	salt	ñɨ̄ɨ̄	NA	NA	99	NA	johnson1988syntactic
+6217	jica13	sal	i̠ín	NA	NA	99	NA	Emily John-Martin
 3417	mixt11	sal	ìǐn	NA	NA	99	NA	oxnard2020
 3416	mont12	sal	nìì	NA	NA	99	NA	oxnard2020
 546	ocot11	salt	ñii	NA	NA	99	NA	alexander1988syntactic
@@ -2699,9 +2900,11 @@ ID	DOCULECT	GLOSS	VALUE	FORM	FLOATTONE	IDlist	NOTES	SOURCE
 4038	chay11	calabaza	yɨquɨ cuaha	NA	NA	100	NA	pensinger1974diccionario
 1715	chic02	calabaza	Kânha	NA	NA	100	NA	belmar1897ensayo
 1824	chic02	calabaza	Kanmaa	NA	NA	100	NA	belmar1897ensayo
+6005	chic12	calabaza	can³	NA	NA	100	NA	good1978diccionario
 4251	colo11	calabaza	yɨquɨn	NA	NA	100	NA	stark1986diccionario
 3420	flor12	calabaza	ijkǐn	NA	NA	100	NA	oxnard2020
 3425	flor12	calabaza	ikǐn	NA	NA	100	NA	oxnard2020
+6218	jica13	calabaza	ikín	NA	NA	100	NA	Emily John-Martin
 3422	mixt11	calabaza	íki	NA	NA	100	NA	oxnard2020
 3427	mixt11	calabaza	ikǐ	NA	NA	100	NA	oxnard2020
 3421	mont12	calabaza	yikì	NA	NA	100	NA	oxnard2020
@@ -2721,7 +2924,9 @@ ID	DOCULECT	GLOSS	VALUE	FORM	FLOATTONE	IDlist	NOTES	SOURCE
 4578	alac11	chayote	naña̠	NA	NA	101	NA	anderson2006vocabulario
 5131	alac11	chayote	naña [A]	NA	NA	101	NA	alexander1980gramatica
 4039	chay11	chayote	chayote	NA	NA	101	Sp. loan, examples only	pensinger1974diccionario
+6006	chic12	chayote (planta)	nitïn⁴	NA	NA	101	NA	good1978diccionario
 3430	flor12	chayote	najñǎ	NA	NA	101	NA	oxnard2020
+6219	jica13	chayote	nañá	NA	NA	101	NA	Emily John-Martin
 3432	mixt11	chayote	nañǎ	NA	NA	101	NA	oxnard2020
 3431	mont12	chayote	tináñà	ti-náñà	NA	101	NA	oxnard2020
 5301	papa11	chayote	n’in²	NA	NA	101	NA	anderson1983diccionario
@@ -2738,11 +2943,13 @@ ID	DOCULECT	GLOSS	VALUE	FORM	FLOATTONE	IDlist	NOTES	SOURCE
 2512	cahu11	cane	ⁿdòò	NA	NA	102	NA	durr1987preliminary
 4040	chay11	caña	ndoo	NA	NA	102	NA	pensinger1974diccionario
 1716	chic02	caña	Yioho	NA	NA	102	NA	belmar1897ensayo
+6007	chic12	caña	yo³⁴	NA	NA	102	NA	good1978diccionario
 4252	colo11	caña	ndòò	NA	NA	102	NA	stark1986diccionario
 2507	diux11	cane	ⁿdó’ó	NA	NA	102	NA	durr1987preliminary
 3435	flor12	caña	ntojǒ	NA	NA	102	NA	oxnard2020
 2510	gran11	cane	ⁿdōò	NA	NA	102	NA	durr1987preliminary
 2515	jica11	cane	ⁿdóó	NA	NA	102	NA	durr1987preliminary
+6220	jica13	caña	nto̠ó	NA	NA	102	NA	Emily John-Martin
 2513	mixt11	cane	ⁿdòó	NA	NA	102	NA	durr1987preliminary
 3437	mixt11	caña	ndòó	NA	NA	102	NA	oxnard2020
 3436	mont12	caña	ndòò	NA	NA	102	NA	oxnard2020
@@ -2760,9 +2967,11 @@ ID	DOCULECT	GLOSS	VALUE	FORM	FLOATTONE	IDlist	NOTES	SOURCE
 1061	alac11	honey	ñoño	NA	NA	103	NA	zylstra1991syntactic
 4041	chay11	miel	tyahiñu	NA	NA	103	NA	pensinger1974diccionario
 1717	chic02	miel	Katsii	NA	NA	103	NA	belmar1897ensayo
+6008	chic12	miel	gatsi’⁴ij	NA	NA	103	NA	good1978diccionario
 4253	colo11	miel	ndutya ñúñù	NA	NA	103	water bee	stark1986diccionario
 1555	copa11	honey	katsih3	NA	NA	103	NA	hollenbach1992syntactic
 3440	flor12	miel	ntǔxi	NA	NA	103	NA	oxnard2020
+6221	jica13	miel	ñu̠ñú	NA	NA	103	NA	Emily John-Martin
 3442	mixt11	miel	ndǔxì	NA	NA	103	NA	oxnard2020
 3441	mont12	miel	ñoñò	NA	NA	103	NA	oxnard2020
 5303	papa11	miel, chahuistle	dan⁴³	NA	NA	103	NA	anderson1983diccionario
@@ -2782,10 +2991,12 @@ ID	DOCULECT	GLOSS	VALUE	FORM	FLOATTONE	IDlist	NOTES	SOURCE
 4042	chay11	grasa, manteca	xahan	NA	NA	104	NA	pensinger1974diccionario
 1718	chic02	grasa	Nnami	NA	NA	104	NA	belmar1897ensayo
 1719	chic02	manteca	Nnanúyaha	NA	NA	104	NA	belmar1897ensayo
+6009	chic12	grasa, manteca	nami³⁴	NA	NA	104	NA	good1978diccionario
 938	coat11	lard	dēhén	NA	NA	104	NA	small1990syntactic
 4254	colo11	manteca	xáhàn	NA	NA	104	NA	stark1986diccionario
 1206	diux11	lard, grease	ðé’hén	NA	NA	104	not basic tones	kuiper1991syntactic
 3445	flor12	manteca	xǎ'ân	NA	NA	104	NA	oxnard2020
+6222	jica13	grasa, manteca	xǎ'an	NA	NA	104	NA	Emily John-Martin
 3447	mixt11	manteca	xǎ'àn	NA	NA	104	NA	oxnard2020
 3446	mont12	manteca	xà'án	NA	NA	104	NA	oxnard2020
 547	ocot11	lard	shehēn	NA	NA	104	NA	alexander1988syntactic
@@ -2812,12 +3023,14 @@ ID	DOCULECT	GLOSS	VALUE	FORM	FLOATTONE	IDlist	NOTES	SOURCE
 5711	chal11	huevo	ⁿdɨ²u¹	NA	+³	105	NA	swanton2020observaciones
 4043	chay11	huevo	ndɨ̀vɨ̀	NA	NA	105	NA	pensinger1974diccionario
 1720	chic02	huevo	Trú	NA	NA	105	NA	belmar1897ensayo
+6010	chic12	blanquillo, huevo	chruj³	NA	NA	105	NA	good1978diccionario
 939	coat11	egg	ndɨvi	NA	NA	105	NA	small1990syntactic
 4255	colo11	huevo	ndɨ̀vɨ̀	NA	NA	105	NA	stark1986diccionario
 1323	conc11	egg	dūtúhú	NA	NA	105	NA	bradley1991preliminary
 1556	copa11	egg, fruit	chrux3	NA	NA	105	NA	hollenbach1992syntactic
 1207	diux11	egg	ndɨu	NA	NA	105	NA	kuiper1991syntactic
 3450	flor12	huevo	ntsìjvǐ	NA	NA	105	NA	oxnard2020
+6223	jica13	blanquillo, huevo	nti̠ví	NA	NA	105	NA	Emily John-Martin
 3452	mixt11	huevo	ndìvǐ	NA	NA	105	NA	oxnard2020
 3451	mont12	huevo	ndìvì	NA	NA	105	NA	oxnard2020
 548	ocot11	egg	ndivi	NA	NA	105	NA	alexander1988syntactic
@@ -2841,11 +3054,13 @@ ID	DOCULECT	GLOSS	VALUE	FORM	FLOATTONE	IDlist	NOTES	SOURCE
 808	ayut11	tomato	tinanah	NA	NA	106	NA	hills1990syntactic
 4044	chay11	tomate, jitomate	tinana	NA	NA	106	NA	pensinger1974diccionario
 1721	chic02	jitomate	Natsii	NA	NA	106	NA	belmar1897ensayo
+6011	chic12	tomate	rinïj⁴ï	NA	NA	106	NA	good1978diccionario
 4256	colo11	tomate, jitomate	tinana	NA	NA	106	NA	stark1986diccionario
 4257	colo11	tomate, jitomate	tɨnana	NA	NA	106	NA	stark1986diccionario
 1208	diux11	tomato	t-nána	NA	NA	106	spherical-?	kuiper1991syntactic
 3455	flor12	tomate	tsìnanǎ	tsì-nanǎ	NA	106	NA	oxnard2020
 426	jami11	tomato	tɨ̄-nana	NA	NA	106	NA	johnson1988syntactic
+6224	jica13	tomate	ti̠naná	NA	NA	106	NA	Emily John-Martin
 3457	mixt11	tomate	tinǎna	ti-nǎna	NA	106	NA	oxnard2020
 3456	mont12	tomate	tìnanà	tì-nanà	NA	106	NA	oxnard2020
 549	ocot11	tomato	ti-nāna	NA	NA	106	NA	alexander1988syntactic
@@ -2865,10 +3080,12 @@ ID	DOCULECT	GLOSS	VALUE	FORM	FLOATTONE	IDlist	NOTES	SOURCE
 5716	chal11	camote	ɲa²Ɂmi¹	NA	NA	107	NA	swanton2020observaciones
 4045	chay11	camote	ñahmi	NA	NA	107	NA	pensinger1974diccionario
 1722	chic02	camote	Mme	NA	NA	107	NA	belmar1897ensayo
+6012	chic12	camote	mmi³⁴	NA	NA	107	NA	good1978diccionario
 4258	colo11	camote	yáhmi	NA	NA	107	NA	stark1986diccionario
 1557	copa11	tuber	yume32	NA	NA	107	NA	hollenbach1992syntactic
 3460	flor12	camote	ña'mì	NA	NA	107	NA	oxnard2020
 427	jami11	sweet potato	ñahmi	NA	NA	107	NA	johnson1988syntactic
+6225	jica13	camote	ña'mi	NA	NA	107	NA	Emily John-Martin
 3462	mixt11	camote	ña'mǐ	NA	NA	107	NA	oxnard2020
 3461	mont12	camote	ñamìì	NA	NA	107	NA	oxnard2020
 5307	papa11	camote	m’in²⁴	NA	NA	107	NA	anderson1983diccionario
@@ -2886,11 +3103,13 @@ ID	DOCULECT	GLOSS	VALUE	FORM	FLOATTONE	IDlist	NOTES	SOURCE
 5136	alac11	aguacate	tīchí [B]	NA	NA	108	NA	alexander1980gramatica
 809	ayut11	avocado	tichīh	NA	NA	108	NA	hills1990syntactic
 4046	chay11	aguacate	tyītyí	NA	NA	108	NA	pensinger1974diccionario
+6013	chic12	aguacate	ru²ne³	NA	NA	108	NA	good1978diccionario
 940	coat11	avocado	tɨ̄tsín	NA	NA	108	NA	small1990syntactic
 4259	colo11	aguacate	nyúcu	NA	NA	108	NA	stark1986diccionario
 1209	diux11	avocado	tɨ́chɨ	NA	NA	108	only in tnu-tɨ́chɨ ‘avocado tree’	kuiper1991syntactic
 3465	flor12	aguacate	chìjchí	NA	NA	108	NA	oxnard2020
 428	jami11	avocado	tītyī	NA	NA	108	NA	johnson1988syntactic
+6226	jica13	aguacate	tǐchi	NA	NA	108	NA	Emily John-Martin
 3467	mixt11	aguacate	tǐchi	NA	NA	108	NA	oxnard2020
 3466	mont12	aguacate	tìchí	NA	NA	108	NA	oxnard2020
 550	ocot11	avocado	tichí	NA	NA	108	NA	alexander1988syntactic
@@ -2908,12 +3127,14 @@ ID	DOCULECT	GLOSS	VALUE	FORM	FLOATTONE	IDlist	NOTES	SOURCE
 4047	chay11	plátano	tyitya	NA	NA	109	NA	pensinger1974diccionario
 1723	chic02	plátano	Naatoo	NA	NA	109	NA	belmar1897ensayo
 1826	chic02	plátano	Trunnatoo	NA	NA	109	NA	belmar1897ensayo
+6014	chic12	plátano	nato⁴	NA	NA	109	NA	good1978diccionario
 941	coat11	banana	ndika	NA	NA	109	NA	small1990syntactic
 4260	colo11	plátano	tyityà	NA	NA	109	NA	stark1986diccionario
 1558	copa11	banana	nato32	NA	NA	109	NA	hollenbach1992syntactic
 1210	diux11	banana	kwí’hí	NA	NA	109	not basic tones	kuiper1991syntactic
 3470	flor12	plátano	ntsijkǎ	NA	NA	109	NA	oxnard2020
 429	jami11	banana	ndyītyā	NA	NA	109	only listed as part of tūndyītyā ‘banana plant’	johnson1988syntactic
+6227	jica13	plátano	ntiká	NA	NA	109	NA	Emily John-Martin
 3472	mixt11	plátano	nchikǎ	NA	NA	109	NA	oxnard2020
 3471	mont12	plátano	ndikà	NA	NA	109	NA	oxnard2020
 551	ocot11	banana	ndīkā	NA	NA	109	NA	alexander1988syntactic
@@ -2934,9 +3155,11 @@ ID	DOCULECT	GLOSS	VALUE	FORM	FLOATTONE	IDlist	NOTES	SOURCE
 1067	alac11	prickly pear cactus	ton-vihndá	NA	NA	110	wood-?	zylstra1991syntactic
 5138	alac11	nopal	vihndē [C]	NA	NA	110	NA	alexander1980gramatica
 1724	chic02	nopal	Tinén	NA	NA	110	NA	belmar1897ensayo
+6015	chic12	nopal	dinï⁴	NA	NA	110	NA	good1978diccionario
 4261	colo11	nopal	vìhnyà	NA	NA	110	NA	stark1986diccionario
 1211	diux11	prickly pear cactus	víhndê	NA	NA	110	NA	kuiper1991syntactic
 3475	flor12	nopal	vi'ntsiǎ	NA	NA	110	NA	oxnard2020
+6228	jica13	nopal	chǐki	NA	NA	110	NA	Emily John-Martin
 3477	mixt11	nopal	mì'nchǎ	NA	NA	110	NA	oxnard2020
 3476	mont12	nopal	mindyà	NA	NA	110	NA	oxnard2020
 5310	papa11	nopal	yi²nd’i³tu³	NA	NA	110	NA	anderson1983diccionario
@@ -2950,11 +3173,14 @@ ID	DOCULECT	GLOSS	VALUE	FORM	FLOATTONE	IDlist	NOTES	SOURCE
 4049	chay11	zapote negro	ndyicoho	NA	NA	111	NA	pensinger1974diccionario
 1725	chic02	mamey	Natorrooho	NA	NA	111	NA	belmar1897ensayo
 1726	chic02	zapote negro	Rrekotrun	NA	NA	111	NA	belmar1897ensayo
+6016	chic12	mamey	nato⁴ ro’oj⁵o	NA	NA	111	banana red	good1978diccionario
+6017	chic12	zapote	reco⁴	NA	NA	111	NA	good1978diccionario
 942	coat11	mamey	ndika kwēhé	NA	NA	111	compound: ‘banana red’	small1990syntactic
 4262	colo11	mamey	nyica	NA	NA	111	NA	stark1986diccionario
 4263	colo11	zapote negro	tyitya	NA	NA	111	NA	stark1986diccionario
 3480	flor12	mamey	ntsiká kuá'a	NA	NA	111	banana red	oxnard2020
 3484	flor12	zapote	ntsìká kuá'a	NA	NA	111	banana red	oxnard2020
+6229	jica13	mamey, zapote	ntiká kuá'a	NA	NA	111	NA	Emily John-Martin
 3481	mont12	mamey	ndokò kuaá	NA	NA	111	zapote? red	oxnard2020
 3485	mont12	zapote	ndokò	NA	NA	111	NA	oxnard2020
 5311	papa11	mamey	tia²ccua̠³’a̠³	NA	NA	111	NA	anderson1983diccionario
@@ -2968,10 +3194,12 @@ ID	DOCULECT	GLOSS	VALUE	FORM	FLOATTONE	IDlist	NOTES	SOURCE
 5081	xoch11	mamey, zapote	ndiká xa̠’a̠	NA	NA	111	NA	stark2013diccionario
 276	yolo11	mamey, zapote	ndi3ka4	NA	NA	111	in other pueblos: plátano	amith2020yoloxochitl
 4050	chay11	chirimoya	ndoco	NA	NA	112	unsure, only in one sentential example	pensinger1974diccionario
+6018	chic12	chirimoya, anona	reco⁴ duhua³	NA	NA	112	zapote ?	good1978diccionario
 4264	colo11	chirimoya	ndoco tinúú	NA	NA	112	NA	stark1986diccionario
 1559	copa11	custard apple	rkoo32	NA	NA	112	NA	hollenbach1992syntactic
 3488	flor12	chirimoya	ntojkǒ	NA	NA	112	NA	oxnard2020
 430	jami11	custard apple	ndōkō	NA	NA	112	only listed as part of tūndōkō ‘custard apple tree’	johnson1988syntactic
+6230	jica13	chirimoya	ntokó iñú	NA	NA	112	NA	Emily John-Martin
 552	ocot11	custard apple	ndōkō	NA	NA	112	NA	alexander1988syntactic
 5313	papa11	chirimoya, anona	ndu⁴cu⁴	NA	NA	112	NA	anderson1983diccionario
 3487	pied12	chirimoya	ntokǒ	NA	NA	112	NA	oxnard2020
@@ -2980,7 +3208,10 @@ ID	DOCULECT	GLOSS	VALUE	FORM	FLOATTONE	IDlist	NOTES	SOURCE
 5139	alac11	hongo	jihī [C]	NA	NA	113	NA	alexander1980gramatica
 4051	chay11	hongo	sehye tutyehe	NA	NA	113	NA	pensinger1974diccionario
 1727	chic02	hongo	Rrâân	NA	NA	113	NA	belmar1897ensayo
+6019	chic12	hongo	ran’an⁴³	NA	NA	113	NA	good1978diccionario
 3491	flor12	hongo	xi'ǐ	NA	NA	113	NA	oxnard2020
+6231	jica13	hongo	xi̠'í	NA	NA	113	NA	Emily John-Martin
+6232	jica13	hongo	xi̠'i	NA	NA	113	NA	Emily John-Martin
 3493	mixt11	hongo	tsì'ǐ	NA	NA	113	NA	oxnard2020
 3492	mont12	hongo	sì'ì	NA	NA	113	NA	oxnard2020
 5314	papa11	hongo	gue⁴’e⁴	NA	NA	113	NA	anderson1983diccionario
@@ -3003,6 +3234,7 @@ ID	DOCULECT	GLOSS	VALUE	FORM	FLOATTONE	IDlist	NOTES	SOURCE
 5721	chal11	carne	ku¹ɲu²	NA	NA	114	NA	swanton2020observaciones
 4052	chay11	carne	coño	NA	NA	114	NA	pensinger1974diccionario
 1728	chic02	carne	Nneé	NA	NA	114	NA	belmar1897ensayo
+6020	chic12	carne	nne³⁵	NA	NA	114	NA	good1978diccionario
 943	coat11	meat	kúñū	NA	NA	114	NA	small1990syntactic
 2517	coat11	meat	kùñú̧	NA	NA	114	NA	durr1987preliminary
 4265	colo11	carne	cúñu	NA	NA	114	NA	stark1986diccionario
@@ -3011,6 +3243,7 @@ ID	DOCULECT	GLOSS	VALUE	FORM	FLOATTONE	IDlist	NOTES	SOURCE
 1212	diux11	meat	kú’ñú	NA	NA	114	not basic tones	kuiper1991syntactic
 3496	flor12	carne	koñô	NA	NA	114	NA	oxnard2020
 2520	gran11	meat	kùñū	NA	NA	114	NA	durr1987preliminary
+6233	jica13	carne	ku̠ñu̠	NA	NA	114	NA	Emily John-Martin
 2523	metl11	meat	kùñù	NA	NA	114	NA	durr1987preliminary
 3498	mixt11	carne	kǔñù	NA	NA	114	NA	oxnard2020
 3497	mont12	carne	kòño	NA	NA	114	NA	oxnard2020
@@ -3040,10 +3273,12 @@ ID	DOCULECT	GLOSS	VALUE	FORM	FLOATTONE	IDlist	NOTES	SOURCE
 5726	chal11	comal	ʃo²o¹	NA	+³	115	NA	swanton2020observaciones
 4053	chay11	comal de barro	siyo	NA	NA	115	NA	pensinger1974diccionario
 2533	chay11	comal	sìyò	NA	NA	115	NA	durr1987preliminary
+6021	chic12	comal	xio⁴	NA	NA	115	NA	good1978diccionario
 2526	coat11	comal	šíǒ	NA	NA	115	NA	durr1987preliminary
 4266	colo11	comal	tsìyò	NA	NA	115	NA	stark1986diccionario
 3501	flor12	comal	xìjyǒ	NA	NA	115	NA	oxnard2020
 2528	gran11	comal	xīò	NA	NA	115	NA	durr1987preliminary
+6234	jica13	comal	xi̠yó	NA	NA	115	NA	Emily John-Martin
 3502	mixt11	comal	tsiòó	NA	NA	115	NA	oxnard2020
 5316	papa11	comal	cha²	NA	NA	115	NA	anderson1983diccionario
 4970	pena11	comal	jiyò	NA	{BA}	115	NA	hollenbach2017diccionario
@@ -3070,6 +3305,7 @@ ID	DOCULECT	GLOSS	VALUE	FORM	FLOATTONE	IDlist	NOTES	SOURCE
 5731	chal11	olla	kɨ¹sɨ²	NA	NA	116	NA	swanton2020observaciones
 4054	chay11	olla	quɨzɨ	NA	NA	116	NA	pensinger1974diccionario
 1729	chic02	olla	Titruha	NA	NA	116	NA	belmar1897ensayo
+6022	chic12	olla	ruj³	NA	NA	116	NA	good1978diccionario
 2535	coat11	clay pot	kɨ̀đɨ́	NA	NA	116	NA	durr1987preliminary
 4267	colo11	olla	quɨsɨ	NA	NA	116	NA	stark1986diccionario
 1561	copa11	(clay) pot	shrux3	NA	NA	116	NA	hollenbach1992syntactic
@@ -3077,6 +3313,7 @@ ID	DOCULECT	GLOSS	VALUE	FORM	FLOATTONE	IDlist	NOTES	SOURCE
 3505	flor12	olla	kìsi	NA	NA	116	NA	oxnard2020
 2538	gran11	clay pot	kɨ̀sɨ̄	NA	NA	116	NA	durr1987preliminary
 2544	jica11	clay pot	kísí	NA	NA	116	NA	durr1987preliminary
+6235	jica13	olla	ki̠si	NA	NA	116	NA	Emily John-Martin
 2542	metl11	clay pot	kìsī	NA	NA	116	NA	durr1987preliminary
 2543	mixt11	clay pot	kìsī	NA	NA	116	NA	durr1987preliminary
 3507	mixt11	olla	kìsi	NA	NA	116	NA	oxnard2020
@@ -3101,8 +3338,10 @@ ID	DOCULECT	GLOSS	VALUE	FORM	FLOATTONE	IDlist	NOTES	SOURCE
 96	abas11	horno	tsìtù	NA	NA	117	NA	galindo-sanchez2009vocabulario
 5734	alco11	horno	ʃi¹tũ¹	NA	NA	117	NA	swanton2020observaciones
 5736	chal11	horno	xi²nu¹	NA	NA	117	NA	swanton2020observaciones
+6023	chic12	horno	guchrun'⁴	NA	NA	117	NA	good1978diccionario
 4268	colo11	horno	tsìtùn	NA	NA	117	NA	stark1986diccionario
 1562	copa11	oven, box	chruun5	NA	NA	117	NA	hollenbach1992syntactic
+6236	jica13	horno	xítu̠n	NA	NA	117	NA	Emily John-Martin
 3511	mixt11	horno	tsìtù	NA	NA	117	NA	oxnard2020
 3510	mont12	horno	sìtò	NA	NA	117	NA	oxnard2020
 5318	papa11	horno	ho²rno⁴	NA	NA	117	Sp. loan	anderson1983diccionario
@@ -3121,12 +3360,15 @@ ID	DOCULECT	GLOSS	VALUE	FORM	FLOATTONE	IDlist	NOTES	SOURCE
 4055	chay11	lumbre, fuego	ñūhù	NA	NA	118	NA	pensinger1974diccionario
 1730	chic02	lumbre	Yaghui	NA	NA	118	NA	belmar1897ensayo
 1731	chic02	fuego	Ñiaaha	NA	NA	118	NA	belmar1897ensayo
+6024	chic12	lumbre, fuego	yan³'an⁴	NA	NA	118	NA	good1978diccionario
 944	coat11	fire	ñúhū	NA	NA	118	NA	small1990syntactic
 4269	colo11	lumbre, fuego	ñúhù	NA	NA	118	NA	stark1986diccionario
 1563	copa11	fire	yahan32	NA	NA	118	NA	hollenbach1992syntactic
 1214	diux11	fire	ñúhû	NA	NA	118	NA	kuiper1991syntactic
 3514	flor12	fuego, lumbre	ñu'ù	NA	NA	118	NA	oxnard2020
 431	jami11	fire	ñuhu	NA	NA	118	NA	johnson1988syntactic
+6237	jica13	lumbre, fuego	ñu'u	NA	NA	118	NA	Emily John-Martin
+6238	jica13	lumbre, fuego	ñu̠'u	NA	NA	118	NA	Emily John-Martin
 3516	mixt11	fuego, lumbre	ñu'ù	NA	NA	118	NA	oxnard2020
 3515	mont12	fuego, lumbre	ñoò	NA	NA	118	NA	oxnard2020
 555	ocot11	fire	ñúhun	NA	NA	118	NA	alexander1988syntactic
@@ -3144,9 +3386,11 @@ ID	DOCULECT	GLOSS	VALUE	FORM	FLOATTONE	IDlist	NOTES	SOURCE
 4593	alac11	ceniza (del brasero)	ya̠a̠ nó’o	NA	NA	119	NA	anderson2006vocabulario
 4056	chay11	ceniza	ñiyaa	ñi-yaa	NA	119	NA	pensinger1974diccionario
 1732	chic02	ceniza	Yaaha, Yaa	NA	NA	119	NA	belmar1897ensayo
+6025	chic12	ceniza	yaj³	NA	NA	119	NA	good1978diccionario
 4270	colo11	ceniza	nyaà	NA	NA	119	NA	stark1986diccionario
 1564	copa11	ash	yax3	NA	NA	119	NA	hollenbach1992syntactic
 3519	flor12	ceniza	yàjǎ	NA	NA	119	NA	oxnard2020
+6239	jica13	ceniza	ya̠á	NA	NA	119	NA	Emily John-Martin
 3521	mixt11	ceniza	yàá	NA	NA	119	NA	oxnard2020
 3520	mont12	ceniza	ya'à	NA	NA	119	NA	oxnard2020
 5320	papa11	ceniza	yi⁴ya⁴	NA	NA	119	NA	anderson1983diccionario
@@ -3158,11 +3402,14 @@ ID	DOCULECT	GLOSS	VALUE	FORM	FLOATTONE	IDlist	NOTES	SOURCE
 282	yolo11	ceniza	ya1a4	NA	NA	119	NA	amith2020yoloxochitl
 4057	chay11	carbón	toon	NA	NA	120	NA	pensinger1974diccionario
 1733	chic02	carbón	Rrughuíha	NA	NA	120	NA	belmar1897ensayo
+6026	chic12	carbón (de humo; tizne)	yo'o⁵³	NA	NA	120	NA	good1978diccionario
+6027	chic12	carbón (de leña)	ru'ui'³i	NA	NA	120	NA	good1978diccionario
 945	coat11	charcoal	túūn	NA	NA	120	NA	small1990syntactic
 1565	copa11	charcoal	ruhwih3	NA	NA	120	NA	hollenbach1992syntactic
 3524	flor12	carbón	tòjǔn	NA	NA	120	NA	oxnard2020
 3529	flor12	carbón	tùjun	NA	NA	120	NA	oxnard2020
 432	jami11	charcoal	toon	NA	NA	120	NA	johnson1988syntactic
+6240	jica13	carbón	tu̠ún	NA	NA	120	NA	Emily John-Martin
 3526	mixt11	carbón	tùǔn	NA	NA	120	NA	oxnard2020
 3525	mont12	carbón	tò'òn	NA	NA	120	NA	oxnard2020
 3530	mont12	carbón	to'on	NA	NA	120	NA	oxnard2020
@@ -3184,12 +3431,14 @@ ID	DOCULECT	GLOSS	VALUE	FORM	FLOATTONE	IDlist	NOTES	SOURCE
 5741	chal11	humo	ɲu²Ɂma¹	NA	NA	121	NA	swanton2020observaciones
 4058	chay11	humo	ñuhma	NA	NA	121	NA	pensinger1974diccionario
 1734	chic02	humo	Katseha	NA	NA	121	NA	belmar1897ensayo
+6028	chic12	humo	gatse’⁴e	NA	NA	121	NA	good1978diccionario
 946	coat11	smoke	uhme	NA	NA	121	NA	small1990syntactic
 4271	colo11	humo	yuhmà	NA	NA	121	NA	stark1986diccionario
 1325	conc11	smoke	yhāmhī	NA	NA	121	NA	bradley1991preliminary
 1566	copa11	smoke	katseh3	NA	NA	121	NA	hollenbach1992syntactic
 3533	flor12	humo	ì'mân	NA	NA	121	NA	oxnard2020
 433	jami11	smoke	ñuhma	NA	NA	121	NA	johnson1988syntactic
+6241	jica13	humo	ñu̠'ma̠	NA	NA	121	NA	Emily John-Martin
 3535	mixt11	humo	ñu'mà	NA	NA	121	NA	oxnard2020
 3534	mont12	humo	ñìmà	NA	NA	121	NA	oxnard2020
 5322	papa11	humo	y’a³m’i³	NA	NA	121	NA	anderson1983diccionario
@@ -3209,9 +3458,13 @@ ID	DOCULECT	GLOSS	VALUE	FORM	FLOATTONE	IDlist	NOTES	SOURCE
 1072	alac11	trash	mihí	NA	NA	122	NA	zylstra1991syntactic
 814	ayut11	garbage, trash	mihīh	NA	NA	122	NA	hills1990syntactic
 4059	chay11	basura	mihin	NA	NA	122	NA	pensinger1974diccionario
+6029	chic12	basura	aco⁵³	NA	NA	122	NA	good1978diccionario
 4272	colo11	basura	tsáhan	NA	NA	122	NA	stark1986diccionario
 1215	diux11	garbage, trash	mí’hí	NA	NA	122	NA	kuiper1991syntactic
 3538	flor12	basura	xè'è	NA	NA	122	NA	oxnard2020
+6242	jica13	basura	kuayu	NA	NA	122	ta̠ka̠ if it’s more like dust	Emily John-Martin
+6243	jica13	basura (en el piso)	mǐ'i	NA	NA	122	NA	Emily John-Martin
+6244	jica13	basura (en el piso)	yáká	NA	NA	122	rare	Emily John-Martin
 3540	mixt11	basura	mǐ'in 	NA	NA	122	NA	oxnard2020
 3539	mont12	basura	sè'è	NA	NA	122	NA	oxnard2020
 5323	papa11	basura	da²cu¹⁴	NA	NA	122	NA	anderson1983diccionario
@@ -3228,9 +3481,11 @@ ID	DOCULECT	GLOSS	VALUE	FORM	FLOATTONE	IDlist	NOTES	SOURCE
 5142	alac11	plato	cohō [C]	NA	NA	123	NA	alexander1980gramatica
 4060	chay11	plato	coho	NA	NA	123	NA	pensinger1974diccionario
 1735	chic02	plato	Kooha	NA	NA	123	NA	belmar1897ensayo
+6030	chic12	plato	go’o³	NA	NA	123	NA	good1978diccionario
 4273	colo11	plato	còhò	NA	NA	123	NA	stark1986diccionario
 1326	conc11	plate	kūhū	NA	NA	123	NA	bradley1991preliminary
 1216	diux11	plate	kóhô	NA	NA	123	not basic tones	kuiper1991syntactic
+6245	jica13	plato	ko̠'ó	NA	NA	123	NA	Emily John-Martin
 5324	papa11	plato, traste	cu³’u³	NA	NA	123	NA	anderson1983diccionario
 4978	pena11	plato	ko’ò	NA	[BA]	123	NA	hollenbach2017diccionario
 5503	tepe03	plato	kuú	NA	NA	123	NA	belmar1902el-cuicateco
@@ -3243,10 +3498,12 @@ ID	DOCULECT	GLOSS	VALUE	FORM	FLOATTONE	IDlist	NOTES	SOURCE
 815	ayut11	gourd, gourd bowl	yashīnh	NA	NA	124	NA	hills1990syntactic
 5746	chal11	jícara	ja²ʃĩ²	NA	+³	124	NA	swanton2020observaciones
 4061	chay11	jícara	yasi	NA	NA	124	NA	pensinger1974diccionario
+6031	chic12	jícara	achru’⁴u	NA	NA	124	NA	good1978diccionario
 4274	colo11	jícara	yatsin	NA	NA	124	NA	stark1986diccionario
 4275	colo11	jícara	yatsi	NA	NA	124	NA	stark1986diccionario
 1567	copa11	gourd	yachruh3	NA	NA	124	NA	hollenbach1992syntactic
 3543	flor12	jícara	yaxǐn	NA	NA	124	NA	oxnard2020
+6246	jica13	jícara	yaxín	NA	NA	124	NA	Emily John-Martin
 3545	mixt11	jícara	yátsǐ	NA	NA	124	NA	oxnard2020
 3544	mont12	jícara	yasì	NA	NA	124	NA	oxnard2020
 557	ocot11	gourd bowl	n̄āxīn	NA	NA	124	NA	alexander1988syntactic
@@ -3268,6 +3525,8 @@ ID	DOCULECT	GLOSS	VALUE	FORM	FLOATTONE	IDlist	NOTES	SOURCE
 5143	alac11	tenate	ndohō [C]	NA	NA	125	NA	alexander1980gramatica
 4062	chay11	canasta	tyica zoho	NA	NA	125	chiquihuite ?	pensinger1974diccionario
 4063	chay11	tenate	ndòhò	NA	NA	125	NA	pensinger1974diccionario
+6032	chic12	canasta	xuguti³	NA	NA	125	NA	good1978diccionario
+6033	chic12	tenate	yo²	NA	NA	125	NA	good1978diccionario
 4276	colo11	canasta	tyìcà	NA	NA	125	NA	stark1986diccionario
 4277	colo11	tenate	ndòhò	NA	NA	125	NA	stark1986diccionario
 1568	copa11	palm basket	yoo4	NA	NA	125	NA	hollenbach1992syntactic
@@ -3275,6 +3534,8 @@ ID	DOCULECT	GLOSS	VALUE	FORM	FLOATTONE	IDlist	NOTES	SOURCE
 3548	flor12	tenate	ntò'ǒ	NA	NA	125	NA	oxnard2020
 3553	flor12	canasta	tìká	NA	NA	125	NA	oxnard2020
 434	jami11	basket	tīkā	NA	NA	125	NA	johnson1988syntactic
+6247	jica13	canasta	nto̠'ó	NA	NA	125	NA	Emily John-Martin
+6248	jica13	tenate	to̠ká	NA	NA	125	NA	Emily John-Martin
 3550	mixt11	tenate	ndoò tsítí	NA	NA	125	NA	oxnard2020
 3549	mont12	tenate	ndò'ò	NA	NA	125	NA	oxnard2020
 558	ocot11	basket	ndoho	NA	NA	125	NA	alexander1988syntactic
@@ -3298,10 +3559,12 @@ ID	DOCULECT	GLOSS	VALUE	FORM	FLOATTONE	IDlist	NOTES	SOURCE
 816	ayut11	box	shātunh	NA	NA	126	NA	hills1990syntactic
 4064	chay11	caja	satu	NA	NA	126	NA	pensinger1974diccionario
 1736	chic02	caja	Trûn	NA	NA	126	NA	belmar1897ensayo
+6034	chic12	caja, cajón	chrun¹	NA	NA	126	NA	good1978diccionario
 947	coat11	box	etun	NA	NA	126	NA	small1990syntactic
 4278	colo11	caja (de dinero)	tsàtùn	NA	NA	126	NA	stark1986diccionario
 1569	copa11	box, oven	chruun5	NA	NA	126	same as oven, see 117	hollenbach1992syntactic
 1218	diux11	box, trunk	shá’tnú	NA	NA	126	not basic tones	kuiper1991syntactic
+6249	jica13	caja, cajón	xa̠tún	NA	NA	126	NA	Emily John-Martin
 5328	papa11	caja, baúl	yya²va²	NA	NA	126	NA	anderson1983diccionario
 4984	pena11	cajón, baúl	jatnù	NA	{BA}	126	NA	hollenbach2017diccionario
 684	prog12	box	sato	NA	NA	126	NA	shields1988syntactic
@@ -3316,6 +3579,7 @@ ID	DOCULECT	GLOSS	VALUE	FORM	FLOATTONE	IDlist	NOTES	SOURCE
 5751	chal11	hilo	ju²Ɂa¹	NA	NA	127	NA	swanton2020observaciones
 4065	chay11	hilo	yuhva	NA	NA	127	NA	pensinger1974diccionario
 1737	chic02	hilo	Ghueheha	NA	NA	127	NA	belmar1897ensayo
+6035	chic12	hilo	'uej³e	NA	NA	127	NA	good1978diccionario
 948	coat11	thread	shuhve	NA	NA	127	NA	small1990syntactic
 2547	coat11	thread	šúʔƀé	NA	NA	127	NA	durr1987preliminary
 4279	colo11	hilo	yùhvà	NA	NA	127	NA	stark1986diccionario
@@ -3325,6 +3589,7 @@ ID	DOCULECT	GLOSS	VALUE	FORM	FLOATTONE	IDlist	NOTES	SOURCE
 2549	gran11	thread	žūʔà	NA	NA	127	NA	durr1987preliminary
 435	jami11	thread	yuhya	NA	NA	127	NA	johnson1988syntactic
 2553	jica11	thread	yūʔƀā	NA	NA	127	NA	durr1987preliminary
+6250	jica13	hilo	yu̠'va̠	NA	NA	127	NA	Emily John-Martin
 3558	mixt11	hilo	yù'à	NA	NA	127	NA	oxnard2020
 3557	mont12	hilo	yìvà	NA	NA	127	NA	oxnard2020
 5329	papa11	hilo	hi²lu⁴	NA	NA	127	Sp. loan	anderson1983diccionario
@@ -3341,8 +3606,11 @@ ID	DOCULECT	GLOSS	VALUE	FORM	FLOATTONE	IDlist	NOTES	SOURCE
 105	abas11	peine	kuika	NA	NA	128	NA	galindo-sanchez2009vocabulario
 4066	chay11	peine	cuca	NA	NA	128	NA	pensinger1974diccionario
 1738	chic02	peine	Gutsihiha	NA	NA	128	NA	belmar1897ensayo
+6036	chic12	peine	gutsï’⁴ïj	NA	NA	128	NA	good1978diccionario
 4280	colo11	peine	cùcà	NA	NA	128	NA	stark1986diccionario
 3561	flor12	peine	kuikà	NA	NA	128	NA	oxnard2020
+6251	jica13	peine	vi̠ka̠	NA	NA	128	NA	Emily John-Martin
+6252	jica13	peine	kui̠ka̠	NA	NA	128	NA	Emily John-Martin
 3563	mixt11	peine	kwìkà	NA	NA	128	NA	oxnard2020
 3562	mont12	peine	kuìkà	NA	NA	128	NA	oxnard2020
 5330	papa11	peine	ca²ca⁴	NA	NA	128	NA	anderson1983diccionario
@@ -3363,6 +3631,7 @@ ID	DOCULECT	GLOSS	VALUE	FORM	FLOATTONE	IDlist	NOTES	SOURCE
 5756	chal11	mecate	jo²Ɂo²	NA	+³	129	NA	swanton2020observaciones
 4067	chay11	mecate, cuerda, lazo	yōhō	NA	NA	129	NA	pensinger1974diccionario
 2565	chay11	rope	yōʔō	NA	NA	129	NA	durr1987preliminary
+6037	chic12	mecate, cuerda	nne’³e	NA	NA	129	NA	good1978diccionario
 2555	coat11	rope	šòʔò	NA	NA	129	NA	durr1987preliminary
 4281	colo11	mecate, raíz	yoho	NA	NA	129	NA	stark1986diccionario
 1327	conc11	rope	hīiyu	NA	NA	129	NA	bradley1991preliminary
@@ -3372,6 +3641,7 @@ ID	DOCULECT	GLOSS	VALUE	FORM	FLOATTONE	IDlist	NOTES	SOURCE
 2558	gran11	rope	žōʔō	NA	NA	129	NA	durr1987preliminary
 436	jami11	rope	yōhō	NA	NA	129	NA	johnson1988syntactic
 2564	jica11	rope	yòʔò	NA	NA	129	NA	durr1987preliminary
+6253	jica13	mecate, cuerda	yo'ó	NA	NA	129	NA	Emily John-Martin
 2561	metl11	rope	yōʔó	NA	NA	129	NA	durr1987preliminary
 2562	mixt11	rope	yōʔó	NA	NA	129	NA	durr1987preliminary
 3568	mixt11	mecate	yo'ó	NA	NA	129	NA	oxnard2020
@@ -3403,12 +3673,14 @@ ID	DOCULECT	GLOSS	VALUE	FORM	FLOATTONE	IDlist	NOTES	SOURCE
 4068	chay11	hoyo	yāvì	NA	NA	130	NA	pensinger1974diccionario
 2575	chay11	hole	yāƀì	NA	NA	130	NA	durr1987preliminary
 1739	chic02	hoyo	Chuúhu	NA	NA	130	NA	belmar1897ensayo
+6038	chic12	agujero, hoyo	yu’uj⁴u	NA	NA	130	NA	good1978diccionario
 2567	coat11	hole	šáƀǐ	NA	NA	130	NA	durr1987preliminary
 4282	colo11	agujero, hoyo	yávi	NA	NA	130	NA	stark1986diccionario
 1328	conc11	hole	xīvā	NA	NA	130	NA	bradley1991preliminary
 1220	diux11	hole	yɨ́hɨ	NA	NA	130	only in compound yu-yau-yɨ́hɨ mouth-hole-tiger ‘edge of the tiger’s hole’	kuiper1991syntactic
 3571	flor12	agujero	yavì	NA	NA	130	NA	oxnard2020
 2569	gran11	hole	žāù	NA	NA	130	NA	durr1987preliminary
+6254	jica13	agujero, hoyo	ya̠vi̠	NA	NA	130	NA	Emily John-Martin
 2573	mixt11	hole	yàƀì	NA	NA	130	NA	durr1987preliminary
 3573	mixt11	agujero	yavì	NA	NA	130	NA	oxnard2020
 3572	mont12	agujero	yavì	NA	NA	130	NA	oxnard2020
@@ -3429,10 +3701,13 @@ ID	DOCULECT	GLOSS	VALUE	FORM	FLOATTONE	IDlist	NOTES	SOURCE
 4069	chay11	red	tɨraya	NA	NA	131	NA	pensinger1974diccionario
 4070	chay11	bolsa hecha como una red	yono	NA	NA	131	NA	pensinger1974diccionario
 1740	chic02	red	Nuaha	NA	NA	131	NA	belmar1897ensayo
+6039	chic12	red, ayate	nnanj³	NA	NA	131	NA	good1978diccionario
+6040	chic12	red	xinaj⁴	NA	NA	131	NA	good1978diccionario
 4283	colo11	red	trayá	NA	NA	131	NA	stark1986diccionario
 4284	colo11	bolsa hecha como una red	yunu	NA	NA	131	NA	stark1986diccionario
 1572	copa11	net bag	nanx3	NA	NA	131	NA	hollenbach1992syntactic
 1221	diux11	net, net bag	ñúnú	NA	NA	131	NA	kuiper1991syntactic
+6255	jica13	red	nuñú	NA	NA	131	NA	Emily John-Martin
 3577	mixt11	red	ñunǔ	NA	NA	131	NA	oxnard2020
 3576	mont12	red	tiyivá	NA	NA	131	NA	oxnard2020
 560	ocot11	net bag	ñūnū	NA	NA	131	NA	alexander1988syntactic
@@ -3454,6 +3729,7 @@ ID	DOCULECT	GLOSS	VALUE	FORM	FLOATTONE	IDlist	NOTES	SOURCE
 4071	chay11	jabón	nàmà	NA	NA	132	NA	pensinger1974diccionario
 2586	chay11	soap	nàmà	NA	NA	132	NA	durr1987preliminary
 1741	chic02	jabón	Mmistila	NA	NA	132	NA	belmar1897ensayo
+6041	chic12	jabón	mmi’³i	NA	NA	132	NA	good1978diccionario
 949	coat11	soap	nama	NA	NA	132	NA	small1990syntactic
 4285	colo11	jabón	nàmà	NA	NA	132	NA	stark1986diccionario
 1573	copa11	soap	yumih3	NA	NA	132	NA	hollenbach1992syntactic
@@ -3461,6 +3737,7 @@ ID	DOCULECT	GLOSS	VALUE	FORM	FLOATTONE	IDlist	NOTES	SOURCE
 3579	flor12	jabón	nǎjma	NA	NA	132	NA	oxnard2020
 2580	gran11	soap	nāmà	NA	NA	132	NA	durr1987preliminary
 437	jami11	soap	nama	NA	NA	132	NA	johnson1988syntactic
+6256	jica13	jabón	na̠má	NA	NA	132	NA	Emily John-Martin
 2583	metl11	soap	nàmà	NA	NA	132	NA	durr1987preliminary
 2587	metl11	soap	nàmā	NA	NA	132	NA	durr1987preliminary
 2584	mixt11	soap	nàmǎ	NA	NA	132	NA	durr1987preliminary
@@ -3480,7 +3757,9 @@ ID	DOCULECT	GLOSS	VALUE	FORM	FLOATTONE	IDlist	NOTES	SOURCE
 4072	chay11	anillo	xehe	NA	NA	133	NA	pensinger1974diccionario
 1742	chic02	anillo	Tsee	NA	NA	133	NA	belmar1897ensayo
 1743	chic02	anillo	Chunaha	NA	NA	133	NA	belmar1897ensayo
+6042	chic12	anillo	se’ej⁵e	NA	NA	133	NA	good1978diccionario
 4286	colo11	anillo	xehe	NA	NA	133	NA	stark1986diccionario
+6257	jica13	anillo	xe'é	NA	NA	133	NA	Emily John-Martin
 5335	papa11	anillo	cu⁴³ yi³nun³ ta̠³’a̠⁴	NA	NA	133	NA	anderson1983diccionario
 4991	pena11	anillo	xe’e	NA	[A]	133	NA	hollenbach2017diccionario
 5509	tepe03	anillo	chinta	NA	NA	133	NA	belmar1902el-cuicateco
@@ -3500,6 +3779,7 @@ ID	DOCULECT	GLOSS	VALUE	FORM	FLOATTONE	IDlist	NOTES	SOURCE
 5761	chal11	luna	jo²o¹	NA	+³	134	NA	swanton2020observaciones
 4073	chay11	luna	yoo	NA	NA	134	NA	pensinger1974diccionario
 2598	chay11	moon	yòò	NA	NA	134	NA	durr1987preliminary
+6043	chic12	luna, mes	ahui⁴	NA	NA	134	NA	good1978diccionario
 950	coat11	moon	shóō	NA	NA	134	NA	small1990syntactic
 2589	coat11	moon	šóǒ	NA	NA	134	NA	durr1987preliminary
 4287	colo11	luna	yòò	NA	NA	134	NA	stark1986diccionario
@@ -3510,6 +3790,7 @@ ID	DOCULECT	GLOSS	VALUE	FORM	FLOATTONE	IDlist	NOTES	SOURCE
 2592	gran11	moon	žōò	NA	NA	134	NA	durr1987preliminary
 438	jami11	moon	yoo	NA	NA	134	NA	johnson1988syntactic
 2597	jica11	moon	yóó	NA	NA	134	NA	durr1987preliminary
+6258	jica13	luna	yo̠ó	NA	NA	134	NA	Emily John-Martin
 2595	mixt11	moon	yòó	NA	NA	134	NA	durr1987preliminary
 3585	mixt11	luna	yòó	NA	NA	134	NA	oxnard2020
 2590	moli11	moon	žòò	NA	NA	134	NA	durr1987preliminary
@@ -3535,9 +3816,11 @@ ID	DOCULECT	GLOSS	VALUE	FORM	FLOATTONE	IDlist	NOTES	SOURCE
 820	ayut11	cloud	vīkoh	NA	NA	135	NA	hills1990syntactic
 4074	chay11	nube	vico	NA	NA	135	NA	pensinger1974diccionario
 1745	chic02	nube	Nga	NA	NA	135	NA	belmar1897ensayo
+6044	chic12	nube	nga³	NA	NA	135	NA	good1978diccionario
 4288	colo11	nube	vìcò	NA	NA	135	NA	stark1986diccionario
 1224	diux11	cloud	víkô	NA	NA	135	NA	kuiper1991syntactic
 3588	flor12	nube	vìjkǒ	NA	NA	135	NA	oxnard2020
+6259	jica13	nube	vi̠kó	NA	NA	135	NA	Emily John-Martin
 3590	mixt11	nube	vìkǒ	NA	NA	135	NA	oxnard2020
 3589	mont12	nube	vìkò	NA	NA	135	NA	oxnard2020
 562	ocot11	cloud	viko	NA	NA	135	NA	alexander1988syntactic
@@ -3557,9 +3840,12 @@ ID	DOCULECT	GLOSS	VALUE	FORM	FLOATTONE	IDlist	NOTES	SOURCE
 4075	chay11	rayo, relámpago	tasa	NA	NA	136	NA	pensinger1974diccionario
 1746	chic02	rayo	Tughuiiha	NA	NA	136	NA	belmar1897ensayo
 1747	chic02	relámpago	Rrânha	NA	NA	136	NA	belmar1897ensayo
+6045	chic12	rayo	du’ui³	NA	NA	136	NA	good1978diccionario
+6046	chic12	relámpago	ran³⁵	NA	NA	136	NA	good1978diccionario
 3593	flor12	relámpago	kááni sàjvǐ	NA	NA	136	NA	oxnard2020
 3947	flor12	relámpago	taxa	NA	NA	136	NA	oxnard2020
 3597	flor12	rayo	taxa	NA	NA	136	NA	oxnard2020
+6260	jica13	rayo, relámpago	taxa	NA	NA	136	NA	Emily John-Martin
 3594	mixt11	relámpago	ntsá nduchǎ	NA	NA	136	NA	oxnard2020
 3599	mixt11	rayo	tatsa	NA	NA	136	NA	oxnard2020
 3598	mont12	rayo	ndasa	NA	NA	136	NA	oxnard2020
@@ -3588,6 +3874,7 @@ ID	DOCULECT	GLOSS	VALUE	FORM	FLOATTONE	IDlist	NOTES	SOURCE
 2605	ayut11	water	ti kʷii	NA	NA	137	NA	durr1987preliminary
 2606	cahu11	water	ta kʷiyi	NA	NA	137	NA	durr1987preliminary
 4076	chay11	agua	ndutya	NA	NA	137	NA	pensinger1974diccionario
+6047	chic12	agua	nne³⁴	NA	NA	137	NA	good1978diccionario
 951	coat11	water	ndute	NA	NA	137	NA	small1990syntactic
 2600	coat11	water	ⁿdùʔtè	NA	NA	137	NA	durr1987preliminary
 4289	colo11	agua, líquido	ndutya	NA	NA	137	NA	stark1986diccionario
@@ -3598,6 +3885,7 @@ ID	DOCULECT	GLOSS	VALUE	FORM	FLOATTONE	IDlist	NOTES	SOURCE
 2604	gran11	water	ⁿdūčā	NA	NA	137	NA	durr1987preliminary
 439	jami11	water	ndūtyā	NA	NA	137	NA	johnson1988syntactic
 2607	jica11	water	ⁿdùtà	NA	NA	137	NA	durr1987preliminary
+6261	jica13	agua	ti̠kuǐi	NA	NA	137	NA	Emily John-Martin
 3604	mixt11	agua	chukwíi	chu-kwíi	NA	137	NA	oxnard2020
 2601	moli11	water	ⁿdūtē	NA	NA	137	NA	durr1987preliminary
 3603	mont12	agua	tikuií	ti-kuií	NA	137	NA	oxnard2020
@@ -3623,12 +3911,14 @@ ID	DOCULECT	GLOSS	VALUE	FORM	FLOATTONE	IDlist	NOTES	SOURCE
 822	ayut11	rain (precipitation)	sāvih	NA	NA	138	NA	hills1990syntactic
 4077	chay11	lluvia	zavi	NA	NA	138	NA	pensinger1974diccionario
 1748	chic02	lluvia	Kumánha	NA	NA	138	NA	belmar1897ensayo
+6048	chic12	lluvia	guman⁵³	NA	NA	138	NA	good1978diccionario
 952	coat11	rain (precipitation)	dávī	NA	NA	138	NA	small1990syntactic
 4290	colo11	lluvia	sàvì	NA	NA	138	NA	stark1986diccionario
 1576	copa11	rain (precipitation)	maan31	NA	NA	138	NA	hollenbach1992syntactic
 1226	diux11	rain (precipitation)	ðá’ú	NA	NA	138	NA	kuiper1991syntactic
 3607	flor12	lluvia	sàjvǐ	NA	NA	138	NA	oxnard2020
 440	jami11	rain (precipitation)	savi	NA	NA	138	NA	johnson1988syntactic
+6262	jica13	lluvia	sa̠ví	NA	NA	138	NA	Emily John-Martin
 3609	mixt11	lluvia	sàvǐ	NA	NA	138	NA	oxnard2020
 3608	mont12	lluvia	jàvì	NA	NA	138	NA	oxnard2020
 564	ocot11	rain (precipitation)	sávi	NA	NA	138	NA	alexander1988syntactic
@@ -3653,6 +3943,7 @@ ID	DOCULECT	GLOSS	VALUE	FORM	FLOATTONE	IDlist	NOTES	SOURCE
 5771	chal11	río	ju¹ʧa²	NA	NA	139	NA	swanton2020observaciones
 4078	chay11	río	yūù	NA	NA	139	NA	pensinger1974diccionario
 1749	chic02	río	Nekîngaha	NA	NA	139	NA	belmar1897ensayo
+6049	chic12	río	quïn³	NA	NA	139	NA	good1978diccionario
 4291	colo11	río	yutya	NA	NA	139	NA	stark1986diccionario
 1331	conc11	river	xīkū	NA	NA	139	NA	bradley1991preliminary
 1577	copa11	river	chraa5	NA	NA	139	NA	hollenbach1992syntactic
@@ -3661,6 +3952,7 @@ ID	DOCULECT	GLOSS	VALUE	FORM	FLOATTONE	IDlist	NOTES	SOURCE
 2612	gran11	river	žùčā	NA	NA	139	NA	durr1987preliminary
 441	jami11	river	yūtya	NA	NA	139	NA	johnson1988syntactic
 2617	jica11	river	yútá	NA	NA	139	NA	durr1987preliminary
+6263	jica13	río	i̠tia	NA	NA	139	NA	Emily John-Martin
 2613	metl11	river	ítʸā	NA	NA	139	NA	durr1987preliminary
 2615	mixt11	river	yùčā	NA	NA	139	NA	durr1987preliminary
 3614	mixt11	río	yùcha	NA	NA	139	NA	oxnard2020
@@ -3690,8 +3982,10 @@ ID	DOCULECT	GLOSS	VALUE	FORM	FLOATTONE	IDlist	NOTES	SOURCE
 5776	chal11	rocío	ju³ju³	NA	+³	140	NA	swanton2020observaciones
 4079	chay11	rocío	yuyu	NA	NA	140	NA	pensinger1974diccionario
 1750	chic02	rocío	Niaáha	NA	NA	140	NA	belmar1897ensayo
+6050	chic12	rocío	nia⁵³	NA	NA	140	NA	good1978diccionario
 4292	colo11	rocío	catsin	NA	NA	140	NA	stark1986diccionario
 3617	flor12	rocío, brisa	yúyú	NA	NA	140	NA	oxnard2020
+6264	jica13	rocío	yúyú	NA	NA	140	NA	Emily John-Martin
 3619	mixt11	rocío	yúyú	NA	NA	140	NA	oxnard2020
 3618	mont12	rocío	yúyú	NA	NA	140	NA	oxnard2020
 5343	papa11	rocío	nu⁴ni⁴ d’i²v’i³yu³	NA	NA	140	NA	anderson1983diccionario
@@ -3713,6 +4007,7 @@ ID	DOCULECT	GLOSS	VALUE	FORM	FLOATTONE	IDlist	NOTES	SOURCE
 4080	chay11	cerro	yucu	NA	NA	141	NA	pensinger1974diccionario
 2625	chay11	mountain	yūkū	NA	NA	141	NA	durr1987preliminary
 1751	chic02	cerro	Kihiha	NA	NA	141	NA	belmar1897ensayo
+6051	chic12	cerro, monte	quïj³ï	NA	NA	141	NA	good1978diccionario
 953	coat11	mountain	shuku	NA	NA	141	NA	small1990syntactic
 4293	colo11	cerro	yucu	NA	NA	141	NA	stark1986diccionario
 1332	conc11	mountain	chēeno	NA	NA	141	NA	bradley1991preliminary
@@ -3721,6 +4016,7 @@ ID	DOCULECT	GLOSS	VALUE	FORM	FLOATTONE	IDlist	NOTES	SOURCE
 3622	flor12	cerro	ko'nto	NA	NA	141	NA	oxnard2020
 2622	gran11	mountain	žūkū	NA	NA	141	NA	durr1987preliminary
 442	jami11	mountain, hill	yūkū	NA	NA	141	NA	johnson1988syntactic
+6265	jica13	cerro	yukú	NA	NA	141	NA	Emily John-Martin
 3624	mixt11	cerro	yùkǔ	NA	NA	141	NA	oxnard2020
 2619	moli11	mountain	žūkū	NA	NA	141	NA	durr1987preliminary
 3623	mont12	cerro	yukù	NA	NA	141	NA	oxnard2020
@@ -3743,10 +4039,12 @@ ID	DOCULECT	GLOSS	VALUE	FORM	FLOATTONE	IDlist	NOTES	SOURCE
 4081	chay11	llano	nduhva	NA	NA	142	NA	pensinger1974diccionario
 1752	chic02	llano	Ta	NA	NA	142	NA	belmar1897ensayo
 1753	chic02	llanura	Tanikó	NA	NA	142	NA	belmar1897ensayo
+6052	chic12	llano	ta³	NA	NA	142	NA	good1978diccionario
 4294	colo11	llano	ndúhvà	NA	NA	142	NA	stark1986diccionario
 1579	copa11	plain	taa3	NA	NA	142	NA	hollenbach1992syntactic
 3627	flor12	llano	yosǒ 	NA	NA	142	NA	oxnard2020
 443	jami11	plain, lowland	nduhva	NA	NA	142	NA	johnson1988syntactic
+6266	jica13	llanura, llano	yosó	NA	NA	142	NA	Emily John-Martin
 3629	mixt11	llano	yosǒ	NA	NA	142	NA	oxnard2020
 3628	mont12	llano	yojò	NA	NA	142	NA	oxnard2020
 5345	papa11	llanura, llano	yu²du⁴	NA	NA	142	NA	anderson1983diccionario
@@ -3772,6 +4070,7 @@ ID	DOCULECT	GLOSS	VALUE	FORM	FLOATTONE	IDlist	NOTES	SOURCE
 5781	chal11	piedra	ju²u¹	NA	+³	143	NA	swanton2020observaciones
 4082	chay11	piedra	yuu	NA	NA	143	NA	pensinger1974diccionario
 2640	chay11	stone	yùù	NA	NA	143	NA	durr1987preliminary
+6053	chic12	piedra	yëj³	NA	NA	143	NA	good1978diccionario
 954	coat11	stone, rock	shúū	NA	NA	143	NA	small1990syntactic
 2628	coat11	stone	šúǔ	NA	NA	143	NA	durr1987preliminary
 4295	colo11	piedra	yùù	NA	NA	143	NA	stark1986diccionario
@@ -3782,6 +4081,8 @@ ID	DOCULECT	GLOSS	VALUE	FORM	FLOATTONE	IDlist	NOTES	SOURCE
 2631	gran11	stone	žūù	NA	NA	143	NA	durr1987preliminary
 444	jami11	rock	yuu	NA	NA	143	NA	johnson1988syntactic
 2639	jica11	stone	yúú	NA	NA	143	NA	durr1987preliminary
+6267	jica13	piedra	yu̠ú	NA	NA	143	NA	Emily John-Martin
+6268	jica13	piedra	kavá	NA	NA	143	NA	Emily John-Martin
 2636	metl11	stone	yùū	NA	NA	143	NA	durr1987preliminary
 2638	mixt11	stone	yùú	NA	NA	143	NA	durr1987preliminary
 3634	mixt11	piedra	yùú	NA	NA	143	NA	oxnard2020
@@ -3812,6 +4113,7 @@ ID	DOCULECT	GLOSS	VALUE	FORM	FLOATTONE	IDlist	NOTES	SOURCE
 5786	chal11	algodón	ka²ʧi¹	NA	+³	144	NA	swanton2020observaciones
 4083	chay11	algodón	catyi	NA	NA	144	NA	pensinger1974diccionario
 1754	chic02	algodón	Kaachihia	NA	NA	144	NA	belmar1897ensayo
+6054	chic12	algodón	gachij⁴i	NA	NA	144	NA	good1978diccionario
 2641	coat11	cotton	káʔȼǐ	NA	NA	144	NA	durr1987preliminary
 4296	colo11	algodón	càtyì	NA	NA	144	NA	stark1986diccionario
 1581	copa11	cotton	kachix32	NA	NA	144	NA	hollenbach1992syntactic
@@ -3819,6 +4121,7 @@ ID	DOCULECT	GLOSS	VALUE	FORM	FLOATTONE	IDlist	NOTES	SOURCE
 3637	flor12	algodón	kàjchǐ	NA	NA	144	NA	oxnard2020
 2643	gran11	cotton	kāčì	NA	NA	144	NA	durr1987preliminary
 2649	jica11	cotton	kátí	NA	NA	144	NA	durr1987preliminary
+6269	jica13	algodón	ka̠chí	NA	NA	144	NA	Emily John-Martin
 2647	mixt11	cotton	kàčǐ	NA	NA	144	NA	durr1987preliminary
 3639	mixt11	algodón	kàchǐ	NA	NA	144	NA	oxnard2020
 2642	moli11	cotton	kàčì	NA	NA	144	NA	durr1987preliminary
@@ -3849,6 +4152,7 @@ ID	DOCULECT	GLOSS	VALUE	FORM	FLOATTONE	IDlist	NOTES	SOURCE
 2659	cahu11	metal	kàà	NA	NA	145	NA	durr1987preliminary
 5791	chal11	metal	ka¹a²	NA	NA	145	NA	swanton2020observaciones
 4084	chay11	metal, campana, cubeta	caa	NA	NA	145	NA	pensinger1974diccionario
+6055	chic12	metal, hierro, botella	gaga’³a	NA	NA	145	NA	good1978diccionario
 955	coat11	metal, machete, bell	kāá	NA	NA	145	NA	small1990syntactic
 2650	coat11	metal	kàá	NA	NA	145	NA	durr1987preliminary
 4297	colo11	metal, campana	càà	NA	NA	145	NA	stark1986diccionario
@@ -3858,6 +4162,7 @@ ID	DOCULECT	GLOSS	VALUE	FORM	FLOATTONE	IDlist	NOTES	SOURCE
 2654	gran11	metal	kàā	NA	NA	145	NA	durr1987preliminary
 445	jami11	metal	kāa	NA	NA	145	NA	johnson1988syntactic
 2662	jica11	metal	káā	NA	NA	145	NA	durr1987preliminary
+6270	jica13	fierro	ka̠a̠	NA	NA	145	NA	Emily John-Martin
 2658	metl11	metal	kàà	NA	NA	145	NA	durr1987preliminary
 2660	mixt11	metal	kàā	NA	NA	145	NA	durr1987preliminary
 3644	mixt11	fierro	kàa	NA	NA	145	NA	oxnard2020
@@ -3894,6 +4199,7 @@ ID	DOCULECT	GLOSS	VALUE	FORM	FLOATTONE	IDlist	NOTES	SOURCE
 4085	chay11	papel	tutu	NA	NA	146	NA	pensinger1974diccionario
 2676	chay11	paper	tūtù	NA	NA	146	NA	durr1987preliminary
 1755	chic02	papel	Nanha	NA	NA	146	NA	belmar1897ensayo
+6056	chic12	papel	yanj³	NA	NA	146	NA	good1978diccionario
 956	coat11	paper	tutú	NA	NA	146	NA	small1990syntactic
 2665	coat11	paper	túʔtú	NA	NA	146	NA	durr1987preliminary
 4298	colo11	papel	tútu	NA	NA	146	NA	stark1986diccionario
@@ -3904,6 +4210,7 @@ ID	DOCULECT	GLOSS	VALUE	FORM	FLOATTONE	IDlist	NOTES	SOURCE
 2668	gran11	paper	tūtù	NA	NA	146	NA	durr1987preliminary
 446	jami11	paper	tutu	NA	NA	146	NA	johnson1988syntactic
 2675	jica11	paper	tūtū	NA	NA	146	NA	durr1987preliminary
+6271	jica13	papel	tutu	NA	NA	146	NA	Emily John-Martin
 2672	metl11	paper	tūtū	NA	NA	146	NA	durr1987preliminary
 2673	mixt11	paper	tūtù	NA	NA	146	NA	durr1987preliminary
 2666	moli11	paper	tūtù	NA	NA	146	NA	durr1987preliminary
@@ -3936,11 +4243,13 @@ ID	DOCULECT	GLOSS	VALUE	FORM	FLOATTONE	IDlist	NOTES	SOURCE
 2682	cahu11	lime	kākā	NA	NA	147	NA	durr1987preliminary
 4086	chay11	cal	caca	NA	NA	147	NA	pensinger1974diccionario
 1756	chic02	cal	Knáaha	NA	NA	147	NA	belmar1897ensayo
+6057	chic12	cal	nan’anj⁴an	NA	NA	147	NA	good1978diccionario
 957	coat11	lime (material)	kaka	NA	NA	147	NA	small1990syntactic
 4299	colo11	cal	cacà	NA	NA	147	NA	stark1986diccionario
 3651	flor12	cal	kajka	NA	NA	147	NA	oxnard2020
 2679	gran11	lime	kākà	NA	NA	147	NA	durr1987preliminary
 2684	jica11	lime	kākā	NA	NA	147	NA	durr1987preliminary
+6272	jica13	cal	kaka	NA	NA	147	NA	Emily John-Martin
 2681	metl11	lime	kākā’	NA	NA	147	NA	durr1987preliminary
 2683	mixt11	lime	kākà	NA	NA	147	NA	durr1987preliminary
 3653	mixt11	cal	kakà	NA	NA	147	NA	oxnard2020
@@ -3961,12 +4270,14 @@ ID	DOCULECT	GLOSS	VALUE	FORM	FLOATTONE	IDlist	NOTES	SOURCE
 829	ayut11	beeswax, wax	ñūhmah	NA	NA	148	NA	hills1990syntactic
 4087	chay11	cera	ñuma	NA	NA	148	NA	pensinger1974diccionario
 1757	chic02	cera	Yianha	NA	NA	148	NA	belmar1897ensayo
+6058	chic12	cera	yanj³an	NA	NA	148	NA	good1978diccionario
 958	coat11	beeswax, wax	shúmē	NA	NA	148	NA	small1990syntactic
 4300	colo11	cera	yùmà	NA	NA	148	NA	stark1986diccionario
 1584	copa11	wax	yanx5	NA	NA	148	NA	hollenbach1992syntactic
 1233	diux11	wax	ñú’á	NA	NA	148	NA	kuiper1991syntactic
 3656	flor12	cera	ìjmǎ	NA	NA	148	NA	oxnard2020
 447	jami11	wax	ñuma	NA	NA	148	NA	johnson1988syntactic
+6273	jica13	cera	ñu̠má	NA	NA	148	NA	Emily John-Martin
 3658	mixt11	cera	ñùmǎ	NA	NA	148	NA	oxnard2020
 3657	mont12	cera	nìmà	NA	NA	148	NA	oxnard2020
 570	ocot11	wax	ñuma	NA	NA	148	NA	alexander1988syntactic
@@ -3986,6 +4297,7 @@ ID	DOCULECT	GLOSS	VALUE	FORM	FLOATTONE	IDlist	NOTES	SOURCE
 830	ayut11	mud	ndēhi	NA	NA	149	NA	hills1990syntactic
 4088	chay11	lodo	ndyahyu	NA	NA	149	NA	pensinger1974diccionario
 1758	chic02	lodo	Tsegheha	NA	NA	149	NA	belmar1897ensayo
+6059	chic12	lodo	siguë’³ë	NA	NA	149	NA	good1978diccionario
 959	coat11	mud	ndōhshó	NA	NA	149	NA	small1990syntactic
 4301	colo11	lodo, tierra	nyàhyù	NA	NA	149	NA	stark1986diccionario
 1333	conc11	mud	yinchetée	NA	NA	149	NA	bradley1991preliminary
@@ -3993,6 +4305,7 @@ ID	DOCULECT	GLOSS	VALUE	FORM	FLOATTONE	IDlist	NOTES	SOURCE
 1234	diux11	mud	ndehyû	NA	NA	149	NA	kuiper1991syntactic
 3661	flor12	lodo	ntsia'yì	NA	NA	149	NA	oxnard2020
 448	jami11	mud	ndyahyu	NA	NA	149	NA	johnson1988syntactic
+6274	jica13	lodo	ntia̠'yu̠	NA	NA	149	NA	Emily John-Martin
 3663	mixt11	lodo	nchà'ì	NA	NA	149	NA	oxnard2020
 3662	mont12	lodo	ndyàyì	NA	NA	149	NA	oxnard2020
 571	ocot11	mud	ndehyu	NA	NA	149	NA	alexander1988syntactic
@@ -4008,8 +4321,10 @@ ID	DOCULECT	GLOSS	VALUE	FORM	FLOATTONE	IDlist	NOTES	SOURCE
 1444	yoso11	mud	ndēhyu	NA	NA	149	NA	farris1992syntactic
 4089	chay11	espuma	tɨ̀nɨ̀	NA	NA	150	NA	pensinger1974diccionario
 1759	chic02	espuma	Yyatan	NA	NA	150	NA	belmar1897ensayo
+6060	chic12	espuma	atan’⁴an	NA	NA	150	NA	good1978diccionario
 4302	colo11	espuma	tiñùù	NA	NA	150	NA	stark1986diccionario
 3666	flor12	espuma	chìkìñù	NA	NA	150	NA	oxnard2020
+6275	jica13	espuma	ñu̠ñu̠	NA	NA	150	NA	Emily John-Martin
 3668	mixt11	espuma	tiñun	NA	NA	150	NA	oxnard2020
 3667	mont12	espuma	chi'ìñò	NA	NA	150	NA	oxnard2020
 5353	papa11	espuma	yu⁴quien²⁴	NA	NA	150	NA	anderson1983diccionario
@@ -4026,8 +4341,11 @@ ID	DOCULECT	GLOSS	VALUE	FORM	FLOATTONE	IDlist	NOTES	SOURCE
 4619	alac11	polvo	ya̠a̠	NA	NA	151	NA	anderson2006vocabulario
 1090	alac11	dust	yāā	NA	NA	151	only in nā-yāā REP-dust ‘become dry’	zylstra1991syntactic
 4090	chay11	polvo	ñiyaca	NA	NA	151	NA	pensinger1974diccionario
+6061	chic12	polvo	yaj³ yo’o¹	NA	NA	151	ceniza	good1978diccionario
 4303	colo11	polvo	yutyi	NA	NA	151	NA	stark1986diccionario
 3672	flor12	polvo	yakǎ	NA	NA	151	NA	oxnard2020
+6276	jica13	polvo	yuchí	NA	NA	151	NA	Emily John-Martin
+6277	jica13	polvo	yáká	NA	NA	151	NA	Emily John-Martin
 3674	mixt11	polvo	yǎka	NA	NA	151	NA	oxnard2020
 3673	mont12	polvo	yàká	NA	NA	151	NA	oxnard2020
 5354	papa11	polvo	yu⁴ni⁴	NA	NA	151	NA	anderson1983diccionario
@@ -4053,6 +4371,7 @@ ID	DOCULECT	GLOSS	VALUE	FORM	FLOATTONE	IDlist	NOTES	SOURCE
 4091	chay11	rojo	cuaha	NA	NA	152	NA	pensinger1974diccionario
 1760	chic02	rojo	Mereeha	NA	NA	152	NA	belmar1897ensayo
 1761	chic02	rojo	Ghueeha	NA	NA	152	NA	belmar1897ensayo
+6062	chic12	rojo	sa³⁴ mare³	NA	NA	152	sa3⁴ = cosa	good1978diccionario
 960	coat11	red	kwēhé	NA	NA	152	NA	small1990syntactic
 2686	coat11	red	kʷèʔé	NA	NA	152	NA	durr1987preliminary
 4304	colo11	rojo	cuaahá	NA	NA	152	NA	stark1986diccionario
@@ -4061,6 +4380,7 @@ ID	DOCULECT	GLOSS	VALUE	FORM	FLOATTONE	IDlist	NOTES	SOURCE
 1236	diux11	red	kwéhe	NA	NA	152	not basic tones	kuiper1991syntactic
 3677	flor12	rojo	kuá'a	NA	NA	152	NA	oxnard2020
 2687	gran11	red	kʷáʔá	NA	NA	152	NA	durr1987preliminary
+6278	jica13	rojo	kuá'a	NA	NA	152	NA	Emily John-Martin
 2692	metl11	red	kʷáʔā	NA	NA	152	NA	durr1987preliminary
 2694	mixt11	red	kʷáʔà	NA	NA	152	NA	durr1987preliminary
 3679	mixt11	rojo	kwaá	NA	NA	152	NA	oxnard2020
@@ -4096,6 +4416,7 @@ ID	DOCULECT	GLOSS	VALUE	FORM	FLOATTONE	IDlist	NOTES	SOURCE
 4092	chay11	verde	ñiyɨhɨ	NA	NA	153	NA	pensinger1974diccionario
 4093	chay11	verde	cuii	NA	NA	153	NA	pensinger1974diccionario
 1762	chic02	verde	Meréha	NA	NA	153	NA	belmar1897ensayo
+6063	chic12	verde	sa³⁴ mare³⁴	NA	NA	153	NA	good1978diccionario
 2697	coat11	green	kʷìì	NA	NA	153	NA	durr1987preliminary
 4305	colo11	verde	cuíí	NA	NA	153	NA	stark1986diccionario
 1587	copa11	green	maree31	NA	NA	153	NA	hollenbach1992syntactic
@@ -4103,6 +4424,7 @@ ID	DOCULECT	GLOSS	VALUE	FORM	FLOATTONE	IDlist	NOTES	SOURCE
 3682	flor12	verde	kuijǐ	NA	NA	153	NA	oxnard2020
 2698	gran11	green	kʷíì	NA	NA	153	NA	durr1987preliminary
 2704	jica11	green	kʷìì	NA	NA	153	NA	durr1987preliminary
+6279	jica13	verde	kuîí	NA	NA	153	NA	Emily John-Martin
 2702	mixt11	green	kʷîí	NA	NA	153	NA	durr1987preliminary
 3684	mixt11	verde	kwíìí  (o) kwíǐ	kwíǐ	NA	153	NA	oxnard2020
 3683	mont12	verde	kuíì	NA	NA	153	NA	oxnard2020
@@ -4135,6 +4457,7 @@ ID	DOCULECT	GLOSS	VALUE	FORM	FLOATTONE	IDlist	NOTES	SOURCE
 5811	chal11	amarillo	kʷa³ã³	NA	NA	154	NA	swanton2020observaciones
 4094	chay11	amarillo	cuaan	NA	NA	154	NA	pensinger1974diccionario
 1763	chic02	amarillo	Guamiaha	NA	NA	154	NA	belmar1897ensayo
+6064	chic12	amarillo	sa³⁴ mayaj⁴a	NA	NA	154	NA	good1978diccionario
 2708	coat11	yellow	kʷà̧á̧	NA	NA	154	NA	durr1987preliminary
 4306	colo11	amarillo	cuaán	NA	NA	154	NA	stark1986diccionario
 1588	copa11	yellow	mii5	NA	NA	154	NA	hollenbach1992syntactic
@@ -4143,6 +4466,7 @@ ID	DOCULECT	GLOSS	VALUE	FORM	FLOATTONE	IDlist	NOTES	SOURCE
 3687	flor12	amarillo	kuáan	NA	NA	154	NA	oxnard2020
 2710	gran11	yellow	kʷá̧á̧	NA	NA	154	NA	durr1987preliminary
 2705	jica11	it is yellow	kʷà̧ā̧-čí	NA	NA	154	NA	durr1987preliminary
+6280	jica13	amarillo	kuáan	NA	NA	154	NA	Emily John-Martin
 2715	metl11	yellow	kʷá̧á̧	NA	NA	154	NA	durr1987preliminary
 2717	mixt11	yellow	kʷá̧à̧	NA	NA	154	NA	durr1987preliminary
 3689	mixt11	amarillo	kwáan	NA	NA	154	NA	oxnard2020
@@ -4175,6 +4499,7 @@ ID	DOCULECT	GLOSS	VALUE	FORM	FLOATTONE	IDlist	NOTES	SOURCE
 4095	chay11	negro	toon	NA	NA	155	NA	pensinger1974diccionario
 1764	chic02	negro	Nurrnúú	NA	NA	155	NA	belmar1897ensayo
 1765	chic02	negro	Trunma	NA	NA	155	NA	belmar1897ensayo
+6065	chic12	negro	sa³⁴ maru⁵³	NA	NA	155	NA	good1978diccionario
 961	coat11	black	tūún	NA	NA	155	NA	small1990syntactic
 4307	colo11	negro	tuun	NA	NA	155	NA	stark1986diccionario
 1589	copa11	black	maruu31	NA	NA	155	NA	hollenbach1992syntactic
@@ -4183,6 +4508,7 @@ ID	DOCULECT	GLOSS	VALUE	FORM	FLOATTONE	IDlist	NOTES	SOURCE
 2722	gran11	black	tú̧ú̧	NA	NA	155	NA	durr1987preliminary
 449	jami11	black	tōōn	NA	NA	155	NA	johnson1988syntactic
 2727	jica11	black	tù̧ù̧	NA	NA	155	NA	durr1987preliminary
+6281	jica13	negro	ntiáá	NA	NA	155	NA	Emily John-Martin
 3694	mixt11	negro	nché'ì	NA	NA	155	NA	oxnard2020
 3697	mixt11	negro	nché'ì	NA	NA	155	NA	oxnard2020
 2720	moli11	black	tū̧ū̧	NA	NA	155	NA	durr1987preliminary
@@ -4212,6 +4538,7 @@ ID	DOCULECT	GLOSS	VALUE	FORM	FLOATTONE	IDlist	NOTES	SOURCE
 2733	caca11	white	kúší	NA	NA	156	NA	durr1987preliminary
 4096	chay11	blanco	cuisi	NA	NA	156	NA	pensinger1974diccionario
 1766	chic02	blanco	Kaatsiha	NA	NA	156	NA	belmar1897ensayo
+6066	chic12	blanco	gatsi⁵³	NA	NA	156	NA	good1978diccionario
 962	coat11	white	kwīshín	NA	NA	156	NA	small1990syntactic
 2729	coat11	white	kʷìʔší̧	NA	NA	156	NA	durr1987preliminary
 4308	colo11	blanco	cuitsín	NA	NA	156	NA	stark1986diccionario
@@ -4220,6 +4547,7 @@ ID	DOCULECT	GLOSS	VALUE	FORM	FLOATTONE	IDlist	NOTES	SOURCE
 3700	flor12	blanco	yaa	NA	NA	156	NA	oxnard2020
 2732	gran11	white	kʷíxí̧	NA	NA	156	NA	durr1987preliminary
 450	jami11	white	kwīchín	NA	NA	156	NA	johnson1988syntactic
+6282	jica13	blanco	yaa	NA	NA	156	NA	Emily John-Martin
 2734	mixt11	white	kʷíȼì	NA	NA	156	NA	durr1987preliminary
 3702	mixt11	blanco	yaa	NA	NA	156	NA	oxnard2020
 3701	mont12	blanco	yaa	NA	NA	156	NA	oxnard2020
@@ -4249,6 +4577,7 @@ ID	DOCULECT	GLOSS	VALUE	FORM	FLOATTONE	IDlist	NOTES	SOURCE
 4097	chay11	uno	ɨɨn	NA	NA	157	NA	pensinger1974diccionario
 2748	chay11	one	ī̧ī̧	NA	NA	157	NA	durr1987preliminary
 1767	chic02	uno	Ngo	NA	NA	157	NA	belmar1897ensayo
+6067	chic12	uno	'ngo⁵³	NA	NA	157	NA	good1978diccionario
 963	coat11	one	uun	NA	NA	157	NA	small1990syntactic
 964	coat11	one	ɨɨn	NA	NA	157	following ‘ten’	small1990syntactic
 4309	colo11	uno	iin	NA	NA	157	NA	stark1986diccionario
@@ -4261,6 +4590,7 @@ ID	DOCULECT	GLOSS	VALUE	FORM	FLOATTONE	IDlist	NOTES	SOURCE
 2739	gran11	one	ī̧ī̧	NA	NA	157	NA	durr1987preliminary
 451	jami11	one	ɨ̄ɨ̄n	NA	NA	157	also nóō from Spanish uno	johnson1988syntactic
 2747	jica11	one	ì̧ì̧	NA	NA	157	NA	durr1987preliminary
+6283	jica13	uno	iin	NA	NA	157	NA	Emily John-Martin
 2743	metl11	one	ī̧ī̧	NA	NA	157	NA	durr1987preliminary
 2745	mixt11	one	ī̧ī̧	NA	NA	157	NA	durr1987preliminary
 3707	mixt11	uno	iin	NA	NA	157	NA	oxnard2020
@@ -4294,6 +4624,7 @@ ID	DOCULECT	GLOSS	VALUE	FORM	FLOATTONE	IDlist	NOTES	SOURCE
 4098	chay11	dos	uu	NA	NA	158	NA	pensinger1974diccionario
 1768	chic02	dos	Ghuiiha	NA	NA	158	dictionary	belmar1897ensayo
 1769	chic02	dos	nghui	NA	NA	158	grammar part	belmar1897ensayo
+6068	chic12	dos	huui⁵³	NA	NA	158	NA	good1978diccionario
 965	coat11	two	úvī	NA	NA	158	NA	small1990syntactic
 2751	coat11	two	úƀǐ	NA	NA	158	NA	durr1987preliminary
 4310	colo11	dos	uvi	NA	NA	158	NA	stark1986diccionario
@@ -4305,6 +4636,7 @@ ID	DOCULECT	GLOSS	VALUE	FORM	FLOATTONE	IDlist	NOTES	SOURCE
 2754	gran11	two	ūù	NA	NA	158	NA	durr1987preliminary
 452	jami11	two	uvi	NA	NA	158	NA	johnson1988syntactic
 2759	jica11	two	úƀí	NA	NA	158	NA	durr1987preliminary
+6284	jica13	dos	u̠vi̠	NA	NA	158	NA	Emily John-Martin
 3712	mixt11	dos	ùvì	NA	NA	158	NA	oxnard2020
 2752	moli11	two	ùù	NA	NA	158	NA	durr1987preliminary
 3711	mont12	dos	ìvì	NA	NA	158	NA	oxnard2020
@@ -4334,6 +4666,7 @@ ID	DOCULECT	GLOSS	VALUE	FORM	FLOATTONE	IDlist	NOTES	SOURCE
 4099	chay11	tres	uñi	NA	NA	159	NA	pensinger1974diccionario
 1770	chic02	tres	Guanénha	NA	NA	159	dictionary	belmar1897ensayo
 1771	chic02	tres	guañânha	NA	NA	159	grammar part	belmar1897ensayo
+6069	chic12	tres	hua’⁵nï³	NA	NA	159	NA	good1978diccionario
 966	coat11	three	únī	NA	NA	159	NA	small1990syntactic
 4311	colo11	tres	uñi	NA	NA	159	NA	stark1986diccionario
 1337	conc11	three	inu	NA	NA	159	NA	bradley1991preliminary
@@ -4341,6 +4674,7 @@ ID	DOCULECT	GLOSS	VALUE	FORM	FLOATTONE	IDlist	NOTES	SOURCE
 1243	diux11	three	únî	NA	NA	159	basic tones	kuiper1991syntactic
 3715	flor12	tres	ònì	NA	NA	159	NA	oxnard2020
 453	jami11	three	uñi	NA	NA	159	NA	johnson1988syntactic
+6285	jica13	tres	u̠ni̠	NA	NA	159	NA	Emily John-Martin
 3717	mixt11	tres	ùnì	NA	NA	159	NA	oxnard2020
 3716	mont12	tres	ònì	NA	NA	159	NA	oxnard2020
 576	ocot11	three	uni	NA	NA	159	NA	alexander1988syntactic
@@ -4367,6 +4701,7 @@ ID	DOCULECT	GLOSS	VALUE	FORM	FLOATTONE	IDlist	NOTES	SOURCE
 4100	chay11	cuatro	cumi	NA	NA	160	NA	pensinger1974diccionario
 2775	chay11	four	kùmì	NA	NA	160	NA	durr1987preliminary
 1772	chic02	cuatro	kaha	NA	NA	160	grammar part	belmar1897ensayo
+6070	chic12	cuatro	gan’⁵an³	NA	NA	160	NA	good1978diccionario
 967	coat11	four	kɨ́mī	NA	NA	160	NA	small1990syntactic
 2762	coat11	four	kɨ́mǐ̧	NA	NA	160	NA	durr1987preliminary
 4312	colo11	cuatro	cumi	NA	NA	160	NA	stark1986diccionario
@@ -4378,6 +4713,7 @@ ID	DOCULECT	GLOSS	VALUE	FORM	FLOATTONE	IDlist	NOTES	SOURCE
 2766	gran11	four	kū̧ù̧	NA	NA	160	NA	durr1987preliminary
 454	jami11	four	kumi	NA	NA	160	NA	johnson1988syntactic
 2774	jica11	four	kúmí	NA	NA	160	NA	durr1987preliminary
+6286	jica13	cuatro	ko̠mí	NA	NA	160	NA	Emily John-Martin
 2770	metl11	four	kùmī	NA	NA	160	NA	durr1987preliminary
 2772	mixt11	four	kùmǐ	NA	NA	160	NA	durr1987preliminary
 3722	mixt11	cuatro	kùmǐ	NA	NA	160	NA	oxnard2020
@@ -4413,6 +4749,7 @@ ID	DOCULECT	GLOSS	VALUE	FORM	FLOATTONE	IDlist	NOTES	SOURCE
 1773	chic02	cinco	Huú	NA	NA	161	dictionary	belmar1897ensayo
 1774	chic02	cinco	Huhu	NA	NA	161	dictionary	belmar1897ensayo
 1775	chic02	cinco	huhûha	NA	NA	161	grammar part	belmar1897ensayo
+6071	chic12	cinco	un’⁵un³	NA	NA	161	NA	good1978diccionario
 968	coat11	five	úhūn	NA	NA	161	NA	small1990syntactic
 2777	coat11	five	ú̧ʔǔ̧	NA	NA	161	NA	durr1987preliminary
 4313	colo11	cinco	uhun	NA	NA	161	NA	stark1986diccionario
@@ -4424,6 +4761,7 @@ ID	DOCULECT	GLOSS	VALUE	FORM	FLOATTONE	IDlist	NOTES	SOURCE
 2780	gran11	five	ū̧ʔù̧	NA	NA	161	NA	durr1987preliminary
 455	jami11	five	ohon	NA	NA	161	NA	johnson1988syntactic
 2784	jica11	five	ú̧ʔú̧	NA	NA	161	NA	durr1987preliminary
+6287	jica13	cinco	u̠'u̠n	NA	NA	161	NA	Emily John-Martin
 2782	mixt11	five	ù̧ʔù̧	NA	NA	161	NA	durr1987preliminary
 3727	mixt11	cinco	ù'ùn	NA	NA	161	NA	oxnard2020
 2778	moli11	five	ù̧ʔù̧	NA	NA	161	NA	durr1987preliminary
@@ -4454,6 +4792,7 @@ ID	DOCULECT	GLOSS	VALUE	FORM	FLOATTONE	IDlist	NOTES	SOURCE
 5826	chal11	seis	i²ɲu¹	NA	NA	162	NA	swanton2020observaciones
 4102	chay11	seis	iñu	NA	NA	162	NA	pensinger1974diccionario
 1776	chic02	seis	guatânka	NA	NA	162	grammar part	belmar1897ensayo
+6072	chic12	seis	huatan’³	NA	NA	162	NA	good1978diccionario
 969	coat11	six	íñū	NA	NA	162	NA	small1990syntactic
 4314	colo11	seis	iñu	NA	NA	162	NA	stark1986diccionario
 1340	conc11	six	xan	NA	NA	162	NA	bradley1991preliminary
@@ -4461,6 +4800,7 @@ ID	DOCULECT	GLOSS	VALUE	FORM	FLOATTONE	IDlist	NOTES	SOURCE
 1246	diux11	six	íñû	NA	NA	162	basic tones	kuiper1991syntactic
 3730	flor12	seis	ìñù	NA	NA	162	NA	oxnard2020
 456	jami11	six	iñu	NA	NA	162	NA	johnson1988syntactic
+6288	jica13	seis	i̠ñu̠	NA	NA	162	NA	Emily John-Martin
 3732	mixt11	seis	ìñù	NA	NA	162	NA	oxnard2020
 3731	mont12	seis	ìñò	NA	NA	162	NA	oxnard2020
 579	ocot11	six	iñu	NA	NA	162	NA	alexander1988syntactic
@@ -4485,6 +4825,7 @@ ID	DOCULECT	GLOSS	VALUE	FORM	FLOATTONE	IDlist	NOTES	SOURCE
 840	ayut11	seven	ūsha	NA	NA	163	NA	hills1990syntactic
 4103	chay11	siete	usa	NA	NA	163	NA	pensinger1974diccionario
 1777	chic02	siete	chiha	NA	NA	163	grammar part, dictionary	belmar1897ensayo
+6073	chic12	siete	chij⁴	NA	NA	163	NA	good1978diccionario
 970	coat11	seven	úhshē	NA	NA	163	NA	small1990syntactic
 4315	colo11	siete	utsa	NA	NA	163	NA	stark1986diccionario
 1341	conc11	seven	ntacha	NA	NA	163	NA	bradley1991preliminary
@@ -4493,6 +4834,7 @@ ID	DOCULECT	GLOSS	VALUE	FORM	FLOATTONE	IDlist	NOTES	SOURCE
 1247	diux11	seven	úshâ	NA	NA	163	basic tones	kuiper1991syntactic
 3735	flor12	siete	ùxà	NA	NA	163	NA	oxnard2020
 457	jami11	seven	ucha	NA	NA	163	NA	johnson1988syntactic
+6289	jica13	siete	u̠xa̠	NA	NA	163	NA	Emily John-Martin
 3737	mixt11	siete	ùtsà	NA	NA	163	NA	oxnard2020
 3736	mont12	siete	ùsà	NA	NA	163	NA	oxnard2020
 580	ocot11	seven	uxa	NA	NA	163	NA	alexander1988syntactic
@@ -4515,6 +4857,7 @@ ID	DOCULECT	GLOSS	VALUE	FORM	FLOATTONE	IDlist	NOTES	SOURCE
 4104	chay11	ocho	uña	NA	NA	164	NA	pensinger1974diccionario
 1778	chic02	ocho	tônha	NA	NA	164	grammar part	belmar1897ensayo
 1779	chic02	ocho	Tênha	NA	NA	164	dictionary	belmar1897ensayo
+6074	chic12	ocho	tïnj⁴	NA	NA	164	NA	good1978diccionario
 971	coat11	eight	únā	NA	NA	164	NA	small1990syntactic
 4316	colo11	ocho	una	NA	NA	164	NA	stark1986diccionario
 1342	conc11	eight	nīnī	NA	NA	164	NA	bradley1991preliminary
@@ -4523,6 +4866,7 @@ ID	DOCULECT	GLOSS	VALUE	FORM	FLOATTONE	IDlist	NOTES	SOURCE
 1248	diux11	eight	únâ	NA	NA	164	basic tones	kuiper1991syntactic
 3740	flor12	ocho	ònà	NA	NA	164	NA	oxnard2020
 458	jami11	eight	un̄a	NA	NA	164	NA	johnson1988syntactic
+6290	jica13	ocho	u̠na̠	NA	NA	164	NA	Emily John-Martin
 3742	mixt11	ocho	ùnà	NA	NA	164	NA	oxnard2020
 3741	mont12	ocho	ònà	NA	NA	164	NA	oxnard2020
 581	ocot11	eight	una	NA	NA	164	NA	alexander1988syntactic
@@ -4548,6 +4892,7 @@ ID	DOCULECT	GLOSS	VALUE	FORM	FLOATTONE	IDlist	NOTES	SOURCE
 4105	chay11	nueve	ɨɨn	NA	NA	165	NA	pensinger1974diccionario
 1780	chic02	nueve	hûnha	NA	NA	165	grammar part	belmar1897ensayo
 1781	chic02	nueve	Úú	NA	NA	165	dictionary	belmar1897ensayo
+6075	chic12	nueve	'ïn⁴	NA	NA	165	NA	good1978diccionario
 972	coat11	nine	ɨ̄ɨ̄n	NA	NA	165	NA	small1990syntactic
 4317	colo11	nueve	ɨɨn	NA	NA	165	NA	stark1986diccionario
 1343	conc11	nine	nū	NA	NA	165	NA	bradley1991preliminary
@@ -4558,6 +4903,7 @@ ID	DOCULECT	GLOSS	VALUE	FORM	FLOATTONE	IDlist	NOTES	SOURCE
 2789	gran11	nine	ɨ̧̄ɨ̧̀	NA	NA	165	NA	durr1987preliminary
 459	jami11	nine	ɨɨn	NA	NA	165	NA	johnson1988syntactic
 2795	jica11	nine	í̧í̧	NA	NA	165	NA	durr1987preliminary
+6291	jica13	nueve	i̠i̠n	NA	NA	165	NA	Emily John-Martin
 2793	mixt11	nine	ì̧ì̧	NA	NA	165	NA	durr1987preliminary
 3747	mixt11	nueve	ììn	NA	NA	165	NA	oxnard2020
 2787	moli11	nine	ì̧ì̧	NA	NA	165	NA	durr1987preliminary
@@ -4585,6 +4931,7 @@ ID	DOCULECT	GLOSS	VALUE	FORM	FLOATTONE	IDlist	NOTES	SOURCE
 4106	chay11	diez	usi	NA	NA	166	NA	pensinger1974diccionario
 1782	chic02	diez	chia	NA	NA	166	grammar part	belmar1897ensayo
 1783	chic02	diez	Chiía	NA	NA	166	dictionary	belmar1897ensayo
+6076	chic12	diez	chi’⁴	NA	NA	166	NA	good1978diccionario
 973	coat11	ten	úhshī	NA	NA	166	NA	small1990syntactic
 4318	colo11	diez	utsi	NA	NA	166	NA	stark1986diccionario
 1344	conc11	ten	ntīchī	NA	NA	166	NA	bradley1991preliminary
@@ -4593,6 +4940,7 @@ ID	DOCULECT	GLOSS	VALUE	FORM	FLOATTONE	IDlist	NOTES	SOURCE
 1250	diux11	ten	úshî	NA	NA	166	basic tones	kuiper1991syntactic
 3750	flor12	diez	ùxì	NA	NA	166	NA	oxnard2020
 460	jami11	ten	uchi	NA	NA	166	NA	johnson1988syntactic
+6292	jica13	diez	u̠xi̠	NA	NA	166	NA	Emily John-Martin
 3752	mixt11	diez	ùtsì	NA	NA	166	NA	oxnard2020
 3751	mont12	diez	ùsì	NA	NA	166	NA	oxnard2020
 583	ocot11	ten	ushi	NA	NA	166	NA	alexander1988syntactic
@@ -4615,6 +4963,7 @@ ID	DOCULECT	GLOSS	VALUE	FORM	FLOATTONE	IDlist	NOTES	SOURCE
 4107	chay11	quince	sahun	NA	NA	167	NA	pensinger1974diccionario
 1784	chic02	quince	chinôônha	NA	NA	167	grammar part	belmar1897ensayo
 1785	chic02	quince	Chinuú	NA	NA	167	dictionary	belmar1897ensayo
+6077	chic12	quince	xinun’³	NA	NA	167	NA	good1978diccionario
 974	coat11	fifteen	shéhūn	NA	NA	167	NA	small1990syntactic
 4319	colo11	quince	tsahun	NA	NA	167	NA	stark1986diccionario
 1345	conc11	fifteen	ntīthíyūn	NA	NA	167	NA	bradley1991preliminary
@@ -4622,6 +4971,7 @@ ID	DOCULECT	GLOSS	VALUE	FORM	FLOATTONE	IDlist	NOTES	SOURCE
 1251	diux11	fifteen	shánhûn	NA	NA	167	basic tones	kuiper1991syntactic
 3755	flor12	quince	xa'ùn	NA	NA	167	NA	oxnard2020
 461	jami11	fifteen	chahun	NA	NA	167	NA	johnson1988syntactic
+6293	jica13	quince	xa̠'u̠n	NA	NA	167	NA	Emily John-Martin
 3757	mixt11	quince	tsà'ùn	NA	NA	167	NA	oxnard2020
 3756	mont12	quince	sà'òn	NA	NA	167	NA	oxnard2020
 584	ocot11	fifteen	shahun	NA	NA	167	NA	alexander1988syntactic
@@ -4644,6 +4994,7 @@ ID	DOCULECT	GLOSS	VALUE	FORM	FLOATTONE	IDlist	NOTES	SOURCE
 4108	chay11	veinte	oco	NA	NA	168	NA	pensinger1974diccionario
 1786	chic02	veinte	hikoo	NA	NA	168	grammar part	belmar1897ensayo
 1787	chic02	veinte	Kooha	NA	NA	168	dictionary	belmar1897ensayo
+6078	chic12	veinte	co⁴	NA	NA	168	NA	good1978diccionario
 975	coat11	twenty	ókō	NA	NA	168	NA	small1990syntactic
 4320	colo11	veinte	oco	NA	NA	168	NA	stark1986diccionario
 1346	conc11	twenty	ntīkū	NA	NA	168	NA	bradley1991preliminary
@@ -4652,6 +5003,7 @@ ID	DOCULECT	GLOSS	VALUE	FORM	FLOATTONE	IDlist	NOTES	SOURCE
 1252	diux11	twenty	ókô	NA	NA	168	basic tones	kuiper1991syntactic
 3760	flor12	veinte	òkò	NA	NA	168	NA	oxnard2020
 462	jami11	twenty	oko	NA	NA	168	NA	johnson1988syntactic
+6294	jica13	veinte	o̠ko̠	NA	NA	168	NA	Emily John-Martin
 3761	mont12	veinte	òkò	NA	NA	168	NA	oxnard2020
 585	ocot11	twenty	oko	NA	NA	168	NA	alexander1988syntactic
 5371	papa11	veinte	ndi³cu²	NA	NA	168	NA	anderson1983diccionario
@@ -4678,6 +5030,7 @@ ID	DOCULECT	GLOSS	VALUE	FORM	FLOATTONE	IDlist	NOTES	SOURCE
 4109	chay11	pobre	ndahvi	NA	NA	169	NA	pensinger1974diccionario
 2805	chay11	poor	ⁿdāʔƀí	NA	NA	169	NA	durr1987preliminary
 1788	chic02	pobre	Ganikighuaha	NA	NA	169	NA	belmar1897ensayo
+6079	chic12	pobre	aco³	NA	NA	169	NA	good1978diccionario
 976	coat11	poor	ndāhví	NA	NA	169	NA	small1990syntactic
 2797	coat11	poor	ⁿdàʔƀí	NA	NA	169	NA	durr1987preliminary
 4321	colo11	pobre	ndaahví	NA	NA	169	NA	stark1986diccionario
@@ -4686,6 +5039,7 @@ ID	DOCULECT	GLOSS	VALUE	FORM	FLOATTONE	IDlist	NOTES	SOURCE
 3764	flor12	pobre	ntá'vi	NA	NA	169	NA	oxnard2020
 2801	gran11	poor	ⁿdáʔú	NA	NA	169	NA	durr1987preliminary
 463	jami11	poor	ndāhví	NA	NA	169	NA	johnson1988syntactic
+6295	jica13	pobre	ntá'vi	NA	NA	169	NA	Emily John-Martin
 3766	mixt11	pobre	ndávì	NA	NA	169	NA	oxnard2020
 2798	moli11	poor	ⁿdáʔƀí	NA	NA	169	NA	durr1987preliminary
 3765	mont12	pobre	ndaví	NA	NA	169	NA	oxnard2020
@@ -4714,10 +5068,12 @@ ID	DOCULECT	GLOSS	VALUE	FORM	FLOATTONE	IDlist	NOTES	SOURCE
 847	ayut11	rich	vīkāh	NA	NA	170	NA	hills1990syntactic
 4110	chay11	rico	cuca	NA	NA	170	NA	pensinger1974diccionario
 1789	chic02	rico	Chirughueeha	NA	NA	170	NA	belmar1897ensayo
+6080	chic12	rico	xiru’ue⁴ sij³	NA	NA	170	NA	good1978diccionario
 4322	colo11	rico	cúcá	NA	NA	170	NA	stark1986diccionario
 1610	copa11	rich person	ruhwee32	NA	NA	170	I think this a tone-derived form of the stative verb	hollenbach1992syntactic
 3769	flor12	rico 	kuíka	NA	NA	170	NA	oxnard2020
 464	jami11	rich	tyāyɨ̄ɨ̄	NA	NA	170	NA	johnson1988syntactic
+6296	jica13	rico	kuíka	NA	NA	170	NA	Emily John-Martin
 3771	mixt11	rico 	kwíka	NA	NA	170	NA	oxnard2020
 3770	mont12	rico 	kuíká	NA	NA	170	NA	oxnard2020
 587	ocot11	rich	kwiká	NA	NA	170	NA	alexander1988syntactic
@@ -4745,12 +5101,14 @@ ID	DOCULECT	GLOSS	VALUE	FORM	FLOATTONE	IDlist	NOTES	SOURCE
 2816	cahu11	cold	wìšī̧	NA	NA	171	NA	durr1987preliminary
 5836	chal11	frio	bi¹xĩ²	NA	NA	171	NA	swanton2020observaciones
 4111	chay11	frío	visi	NA	NA	171	NA	pensinger1974diccionario
+6081	chic12	frío	nuhuij³	NA	NA	171	NA	good1978diccionario
 978	coat11	cold	vishín	NA	NA	171	NA	small1990syntactic
 2807	coat11	cold	ƀíʔšǐ̧	NA	NA	171	NA	durr1987preliminary
 4323	colo11	frío	vitsin	NA	NA	171	NA	stark1986diccionario
 1254	diux11	cold	víshî	NA	NA	171	NA	kuiper1991syntactic
 3774	flor12	frío	vìxin	NA	NA	171	NA	oxnard2020
 2810	gran11	cold	ƀìxī̧	NA	NA	171	NA	durr1987preliminary
+6297	jica13	frío	vi̠xin	NA	NA	171	NA	Emily John-Martin
 2815	metl11	cold	ƀìšī̧	NA	NA	171	NA	durr1987preliminary
 2817	mixt11	cold	ƀìȼī	NA	NA	171	NA	durr1987preliminary
 3776	mixt11	frío	vìtsi	NA	NA	171	NA	oxnard2020
@@ -4779,12 +5137,15 @@ ID	DOCULECT	GLOSS	VALUE	FORM	FLOATTONE	IDlist	NOTES	SOURCE
 4112	chay11	está caliente, caliente	ihñi	NA	NA	172	NA	pensinger1974diccionario
 1790	chic02	caliente	Hiaân	NA	NA	172	NA	belmar1897ensayo
 1791	chic02	caliente	Yiaân	NA	NA	172	NA	belmar1897ensayo
+6082	chic12	caliente	a’man³	NA	NA	172	NA	good1978diccionario
+6083	chic12	caliente, caluroso	yan⁴’an³	NA	NA	172	NA	good1978diccionario
 979	coat11	hot	ihni	NA	NA	172	NA	small1990syntactic
 4324	colo11	caliente	ihñí	NA	NA	172	NA	stark1986diccionario
 1611	copa11	hot	yahaan13	NA	NA	172	NA	hollenbach1992syntactic
 1255	diux11	hot	ínhní	NA	NA	172	not basic tones	kuiper1991syntactic
 3779	flor12	caliente	i'ní	NA	NA	172	NA	oxnard2020
 465	jami11	hot	īhñí	NA	NA	172	NA	johnson1988syntactic
+6298	jica13	está caliente, caliente	i'ní	NA	NA	172	NA	Emily John-Martin
 3781	mixt11	caliente	i'ní	NA	NA	172	NA	oxnard2020
 3780	mont12	caliente	iní	NA	NA	172	NA	oxnard2020
 588	ocot11	hot	īhní	NA	NA	172	NA	alexander1988syntactic
@@ -4812,6 +5173,7 @@ ID	DOCULECT	GLOSS	VALUE	FORM	FLOATTONE	IDlist	NOTES	SOURCE
 4113	chay11	grande.SG	cahnu	NA	NA	173	NA	pensinger1974diccionario
 2829	chay11	big.SG	kàʔnū	NA	NA	173	NA	durr1987preliminary
 1792	chic02	grande	Chachiia	NA	NA	173	NA	belmar1897ensayo
+6084	chic12	grande (de tamaño)	xa⁴chi³	NA	NA	173	NA	good1978diccionario
 980	coat11	big.SG	kahnu	NA	NA	173	NA	small1990syntactic
 2821	coat11	big.SG	kàʔnù̧	NA	NA	173	NA	durr1987preliminary
 4325	colo11	grande.SG	cahnu	NA	NA	173	NA	stark1986diccionario
@@ -4823,6 +5185,7 @@ ID	DOCULECT	GLOSS	VALUE	FORM	FLOATTONE	IDlist	NOTES	SOURCE
 3784	flor12	grande.SG	ka'nu	NA	NA	173	NA	oxnard2020
 2824	gran11	big.SG	káʔnū	NA	NA	173	NA	durr1987preliminary
 466	jami11	big.SG	kāhnú	NA	NA	173	NA	johnson1988syntactic
+6299	jica13	grande.SG	ká'nu	NA	NA	173	NA	Emily John-Martin
 2825	metl11	big.SG	káʔnū	NA	NA	173	NA	durr1987preliminary
 2827	mixt11	big.SG	káʔnū	NA	NA	173	NA	durr1987preliminary
 3786	mixt11	grande.SG	ká'nu	NA	NA	173	NA	oxnard2020
@@ -4857,6 +5220,7 @@ ID	DOCULECT	GLOSS	VALUE	FORM	FLOATTONE	IDlist	NOTES	SOURCE
 1348	conc11	big.PL	hātā	NA	NA	174	NA	bradley1991preliminary
 1257	diux11	big.PL	nánhnu	NA	NA	174	basic tones	kuiper1991syntactic
 467	jami11	big.PL	nāhnú	NA	NA	174	NA	johnson1988syntactic
+6300	jica13	grande.PL	ná'nu	NA	NA	174	NA	Emily John-Martin
 590	ocot11	big.PL	náhnú	NA	NA	174	NA	alexander1988syntactic
 5377	papa11	grande.PL	'a³ta³	NA	NA	174	NA	anderson1983diccionario
 5037	pena11	grande.PL	ná’nú	NA	[B/A]	174	NA	hollenbach2017diccionario
@@ -4878,6 +5242,7 @@ ID	DOCULECT	GLOSS	VALUE	FORM	FLOATTONE	IDlist	NOTES	SOURCE
 2844	chay11	little.SG	lúʔlū	NA	NA	175	NA	durr1987preliminary
 1793	chic02	pequeño	Kuniha	NA	NA	175	NA	belmar1897ensayo
 1794	chic02	chico	Nliha	NA	NA	175	NA	belmar1897ensayo
+6085	chic12	pequeño, chico	sa³⁴ lij³	NA	NA	175	NA	good1978diccionario
 982	coat11	small.SG	lúhndī	NA	NA	175	NA	small1990syntactic
 2833	coat11	little.SG	lùʔⁿdí	NA	NA	175	NA	durr1987preliminary
 4327	colo11	pequeño.SG, chico.SG	tyuvaa	NA	NA	175	NA	stark1986diccionario
@@ -4890,6 +5255,7 @@ ID	DOCULECT	GLOSS	VALUE	FORM	FLOATTONE	IDlist	NOTES	SOURCE
 2837	gran11	little.SG	lúlí	NA	NA	175	NA	durr1987preliminary
 468	jami11	small.SG	lúhlū	NA	NA	175	NA	johnson1988syntactic
 2843	jica11	little.SG	lùʔù	NA	NA	175	NA	durr1987preliminary
+6301	jica13	pequeño.SG, chico.SG	lo'o	NA	NA	175	NA	Emily John-Martin
 2841	mixt11	little.SG	lūū	NA	NA	175	NA	durr1987preliminary
 3791	mixt11	pequeño.SG	kwáchi	NA	NA	175	NA	oxnard2020
 2834	moli11	little.SG	lūlī	NA	NA	175	NA	durr1987preliminary
@@ -4934,6 +5300,7 @@ ID	DOCULECT	GLOSS	VALUE	FORM	FLOATTONE	IDlist	NOTES	SOURCE
 470	jami11	small.PL	kwātyi	NA	NA	176	NA	johnson1988syntactic
 471	jami11	small.PL	kwatyaa	NA	NA	176	NA	johnson1988syntactic
 2852	jica11	small (in pieces)	kʷàtì	NA	NA	176	NA	durr1987preliminary
+6302	jica13	pequeño.PL, chico.PL	válí	NA	NA	176	NA	Emily John-Martin
 2850	metl11	small (in pieces)	kʷàčī	NA	NA	176	NA	durr1987preliminary
 3795	mixt11	pequeño.PL	kwáchi	NA	NA	176	NA	oxnard2020
 3798	mixt11	pequeño (en pedazos?)	kwáchi	NA	NA	176	NA	oxnard2020
@@ -4963,6 +5330,7 @@ ID	DOCULECT	GLOSS	VALUE	FORM	FLOATTONE	IDlist	NOTES	SOURCE
 2862	chay11	long.SG	káñí	NA	NA	177	NA	durr1987preliminary
 1795	chic02	largo	Chihiha	NA	NA	177	NA	belmar1897ensayo
 1796	chic02	largo	Chehea	NA	NA	177	NA	belmar1897ensayo
+6086	chic12	largo	xe’e⁵³	NA	NA	177	NA	good1978diccionario
 984	coat11	long.SG	kani	NA	NA	177	NA	small1990syntactic
 2854	coat11	long.SG	kànì̧	NA	NA	177	NA	durr1987preliminary
 4329	colo11	largo.SG, lejos	cañi	NA	NA	177	NA	stark1986diccionario
@@ -4971,6 +5339,7 @@ ID	DOCULECT	GLOSS	VALUE	FORM	FLOATTONE	IDlist	NOTES	SOURCE
 3801	flor12	largo.SG	kajnǐ	NA	NA	177	NA	oxnard2020
 2858	gran11	long.SG	kánī	NA	NA	177	NA	durr1987preliminary
 472	jami11	long.SG	kāñí	NA	NA	177	NA	johnson1988syntactic
+6303	jica13	largo.SG	kâní	NA	NA	177	NA	Emily John-Martin
 3803	mixt11	largo.SG	kanǐ	NA	NA	177	NA	oxnard2020
 2855	moli11	long.SG	kání	NA	NA	177	NA	durr1987preliminary
 3802	mont12	largo.SG	kánìì	NA	NA	177	NA	oxnard2020
@@ -4998,6 +5367,7 @@ ID	DOCULECT	GLOSS	VALUE	FORM	FLOATTONE	IDlist	NOTES	SOURCE
 1352	conc11	long.PL	henu	NA	NA	178	NA	bradley1991preliminary
 1261	diux11	long.PL	naní	NA	NA	178	basic tones	kuiper1991syntactic
 473	jami11	long.PL	nāñí	NA	NA	178	NA	johnson1988syntactic
+6304	jica13	largo.PL	nâní	NA	NA	178	NA	Emily John-Martin
 593	ocot11	long.PL	nání	NA	NA	178	NA	alexander1988syntactic
 5381	papa11	largo.PL	'e⁴nu⁴	NA	NA	178	NA	anderson1983diccionario
 5045	pena11	largo.PL	nání	NA	[A/B]	178	NA	hollenbach2017diccionario
@@ -5021,6 +5391,7 @@ ID	DOCULECT	GLOSS	VALUE	FORM	FLOATTONE	IDlist	NOTES	SOURCE
 1797	chic02	bueno	Saa	NA	NA	179	NA	belmar1897ensayo
 1798	chic02	bueno	Tsaa	NA	NA	179	NA	belmar1897ensayo
 1799	chic02	bueno	Guatsaaha	NA	NA	179	NA	belmar1897ensayo
+6087	chic12	bueno	sa’⁵a	NA	NA	179	NA	good1978diccionario
 986	coat11	good	vāhá	NA	NA	179	NA	small1990syntactic
 2865	coat11	good	ƀáʔǎ	NA	NA	179	NA	durr1987preliminary
 4331	colo11	bueno	vaha	NA	NA	179	NA	stark1986diccionario
@@ -5032,6 +5403,7 @@ ID	DOCULECT	GLOSS	VALUE	FORM	FLOATTONE	IDlist	NOTES	SOURCE
 2869	gran11	good	ƀàʔā	NA	NA	179	NA	durr1987preliminary
 474	jami11	good	vāha	NA	NA	179	NA	johnson1988syntactic
 2878	jica11	good	ƀáʔá	NA	NA	179	NA	durr1987preliminary
+6305	jica13	bueno	va̠'a	NA	NA	179	NA	Emily John-Martin
 2874	metl11	good	ƀàʔā	NA	NA	179	NA	durr1987preliminary
 2876	mixt11	good	ƀàʔā	NA	NA	179	NA	durr1987preliminary
 3808	mixt11	bueno	và'a	NA	NA	179	NA	oxnard2020
@@ -5063,6 +5435,7 @@ ID	DOCULECT	GLOSS	VALUE	FORM	FLOATTONE	IDlist	NOTES	SOURCE
 2888	cahu11	sweet	wīsī	NA	NA	180	NA	durr1987preliminary
 4119	chay11	dulce	vixi	NA	NA	180	NA	pensinger1974diccionario
 1800	chic02	dulce	Tsi tsihi	NA	NA	180	NA	belmar1897ensayo
+6088	chic12	dulce	si³ tsi’ij³	NA	NA	180	NA	good1978diccionario
 2881	coat11	sweet	ƀí̧dǐ̧	NA	NA	180	NA	durr1987preliminary
 4332	colo11	dulce	vixì	NA	NA	180	NA	stark1986diccionario
 1616	copa11	sweet	tsih1	NA	NA	180	NA	hollenbach1992syntactic
@@ -5070,6 +5443,7 @@ ID	DOCULECT	GLOSS	VALUE	FORM	FLOATTONE	IDlist	NOTES	SOURCE
 3811	flor12	dulce	vìxì	NA	NA	180	NA	oxnard2020
 2884	gran11	sweet	ƀīšì	NA	NA	180	NA	durr1987preliminary
 475	jami11	sweet	vishi	NA	NA	180	NA	johnson1988syntactic
+6306	jica13	dulce	vi̠xi̠	NA	NA	180	NA	Emily John-Martin
 2887	metl11	sweet	ƀìšì	NA	NA	180	NA	durr1987preliminary
 3813	mixt11	dulce	vìxì	NA	NA	180	NA	oxnard2020
 2882	moli11	sweet	ƀìšì	NA	NA	180	NA	durr1987preliminary
@@ -5092,8 +5466,10 @@ ID	DOCULECT	GLOSS	VALUE	FORM	FLOATTONE	IDlist	NOTES	SOURCE
 4651	alac11	salado	yo̠’va̠	NA	NA	181	NA	zylstra2012gramatica
 5181	alac11	salado	ñɨ́ɨ́ [C]	NA	NA	181	NA	alexander1980gramatica
 4120	chay11	salado	ùhvà	NA	NA	181	NA	pensinger1974diccionario
+6089	chic12	salado	ni’⁴⁵ huaj³	NA	NA	181	NA	good1978diccionario
 4333	colo11	salado	ùhvà	NA	NA	181	NA	stark1986diccionario
 3816	flor12	salado	ò'vâ	NA	NA	181	NA	oxnard2020
+6307	jica13	salado	u̠'va̠	NA	NA	181	NA	Emily John-Martin
 3818	mixt11	salado	ù'và	NA	NA	181	NA	oxnard2020
 3817	mont12	salado	ìvà	NA	NA	181	NA	oxnard2020
 5384	papa11	salado	di⁴ni⁴	NA	NA	181	NA	anderson1983diccionario
@@ -5106,10 +5482,12 @@ ID	DOCULECT	GLOSS	VALUE	FORM	FLOATTONE	IDlist	NOTES	SOURCE
 149	abas11	amargo	uva	NA	NA	182	NA	galindo-sanchez2009vocabulario
 4652	alac11	amargo	yo̠va̠	NA	NA	182	NA	anderson2006vocabulario
 4121	chay11	amargo	uva	NA	NA	182	NA	pensinger1974diccionario
+6090	chic12	amargo	ai’⁴⁵	NA	NA	182	NA	good1978diccionario
 4334	colo11	amargo	ùvà	NA	NA	182	NA	stark1986diccionario
 1617	copa11	bitter	eh1	NA	NA	182	NA	hollenbach1992syntactic
 3821	flor12	amargo	òvà	NA	NA	182	NA	oxnard2020
 3825	flor12	amargo	òvà	NA	NA	182	NA	oxnard2020
+6308	jica13	amargo	u̠va̠	NA	NA	182	NA	Emily John-Martin
 3823	mixt11	amargo	ùvà	NA	NA	182	NA	oxnard2020
 3822	mont12	amargo	ìvà	NA	NA	182	NA	oxnard2020
 5385	papa11	amargo	ya̠³	NA	NA	182	NA	anderson1983diccionario
@@ -5131,11 +5509,13 @@ ID	DOCULECT	GLOSS	VALUE	FORM	FLOATTONE	IDlist	NOTES	SOURCE
 859	ayut11	delicious	āsinh	NA	NA	183	NA	hills1990syntactic
 4122	chay11	sabroso	azi	NA	NA	183	NA	pensinger1974diccionario
 1801	chic02	sabroso	Chiiñiaha	NA	NA	183	NA	belmar1897ensayo
+6091	chic12	sabroso, delicioso	daj³⁴	NA	NA	183	NA	good1978diccionario
 4335	colo11	sabroso	àsɨ̀n	NA	NA	183	NA	stark1986diccionario
 1618	copa11	tasty, pleasing	shianh1	NA	NA	183	NA	hollenbach1992syntactic
 1264	diux11	tasty, delicious	aðɨ̄	NA	NA	183	not basic tones	kuiper1991syntactic
 3828	flor12	sabroso	àsǐn	NA	NA	183	NA	oxnard2020
 476	jami11	delicious	asɨn	NA	NA	183	NA	johnson1988syntactic
+6309	jica13	sabroso	yasín	NA	NA	183	NA	Emily John-Martin
 3830	mixt11	sabroso	àsǐ	NA	NA	183	NA	oxnard2020
 3829	mont12	sabroso	ànjìn	NA	NA	183	NA	oxnard2020
 596	ocot11	delicious	āsin	NA	NA	183	NA	alexander1988syntactic
@@ -5151,10 +5531,12 @@ ID	DOCULECT	GLOSS	VALUE	FORM	FLOATTONE	IDlist	NOTES	SOURCE
 860	ayut11	wide	ndīká	NA	NA	184	only as part of sa-ndīká ‘will widen’	hills1990syntactic
 4123	chay11	ancho	coho	NA	NA	184	NA	pensinger1974diccionario
 1802	chic02	ancho	Katraa	NA	NA	184	NA	belmar1897ensayo
+6092	chic12	ancho, amplio	gachra’⁴	NA	NA	184	NA	good1978diccionario
 4336	colo11	ancho	quiihín	NA	NA	184	NA	stark1986diccionario
 1619	copa11	wide	kashrah1	NA	NA	184	NA	hollenbach1992syntactic
 1265	diux11	wide	nunu	NA	NA	184	basic tones	kuiper1991syntactic
 3833	flor12	ancho	ntsíjkà	NA	NA	184	NA	oxnard2020
+6310	jica13	ancho	ntíka̠	NA	NA	184	NA	Emily John-Martin
 3834	mont12	ancho	ndika	NA	NA	184	NA	oxnard2020
 5387	papa11	ancho	ch’e⁴n’u⁴	NA	NA	184	NA	anderson1983diccionario
 5053	pena11	ancho	jìté	NA	[B]	184	NA	hollenbach2017diccionario
@@ -5174,12 +5556,14 @@ ID	DOCULECT	GLOSS	VALUE	FORM	FLOATTONE	IDlist	NOTES	SOURCE
 4124	chay11	nuevo	sāá	NA	NA	185	NA	pensinger1974diccionario
 2900	chay11	new	sāá	NA	NA	185	NA	durr1987preliminary
 1803	chic02	nuevo	Tsinakaha	NA	NA	185	NA	belmar1897ensayo
+6093	chic12	nuevo	naca⁵	NA	NA	185	NA	good1978diccionario
 2891	coat11	new	šèě	NA	NA	185	NA	durr1987preliminary
 4337	colo11	nuevo	tsàà	NA	NA	185	NA	stark1986diccionario
 1620	copa11	new	naka1	NA	NA	185	NA	hollenbach1992syntactic
 3837	flor12	nuevo	xàá	NA	NA	185	NA	oxnard2020
 2894	gran11	new	xáá	NA	NA	185	NA	durr1987preliminary
 2899	jica11	new	čàà	NA	NA	185	NA	durr1987preliminary
+6311	jica13	nuevo	xaá	NA	NA	185	NA	Emily John-Martin
 2897	mixt11	new	ȼǎā	NA	NA	185	NA	durr1987preliminary
 3839	mixt11	nuevo	tsaâ	NA	NA	185	MAM	oxnard2020
 3838	mont12	nuevo	sàá	NA	NA	185	NA	oxnard2020
@@ -5203,6 +5587,7 @@ ID	DOCULECT	GLOSS	VALUE	FORM	FLOATTONE	IDlist	NOTES	SOURCE
 4125	chay11	flojo, perezoso, vago	susa	NA	NA	186	NA	pensinger1974diccionario
 4126	chay11	flojo (de cosas)	taya	NA	NA	186	NA	pensinger1974diccionario
 1804	chic02	flojo	Rrumii	NA	NA	186	NA	belmar1897ensayo
+6094	chic12	flojo	rumi⁵³	NA	NA	186	NA	good1978diccionario
 987	coat11	lazy, bothersome	duhshēn	NA	NA	186	NA	small1990syntactic
 4338	colo11	flojo, perezoso	jutsan	NA	NA	186	NA	stark1986diccionario
 1354	conc11	lazy	dāanthi	NA	NA	186	NA	bradley1991preliminary
@@ -5210,6 +5595,7 @@ ID	DOCULECT	GLOSS	VALUE	FORM	FLOATTONE	IDlist	NOTES	SOURCE
 1266	diux11	lazy	kúðí	NA	NA	186	not basic tones	kuiper1991syntactic
 3842	flor12	flojo	xúxan	NA	NA	186	NA	oxnard2020
 477	jami11	lazy	sūchān	NA	NA	186	NA	johnson1988syntactic
+6312	jica13	flojo	xúxan	NA	NA	186	NA	Emily John-Martin
 3844	mixt11	flojo	kukuxà	ku-kuxà	NA	186	NA	oxnard2020
 3843	mont12	flojo	júsá	NA	NA	186	NA	oxnard2020
 597	ocot11	lazy	kū-kúshí	kúshí	NA	186	only as part of a verb ‘be lazy’	alexander1988syntactic
@@ -5243,6 +5629,7 @@ ID	DOCULECT	GLOSS	VALUE	FORM	FLOATTONE	IDlist	NOTES	SOURCE
 1267	diux11	ugly	kwihá	NA	NA	187	NA	kuiper1991syntactic
 3847	flor12	feo	kini	NA	NA	187	NA	oxnard2020
 478	jami11	ugly	kīñī	NA	NA	187	NA	johnson1988syntactic
+6313	jica13	feo	kini	NA	NA	187	NA	Emily John-Martin
 3849	mixt11	feo	kini	NA	NA	187	NA	oxnard2020
 3848	mont12	feo	kini	NA	NA	187	NA	oxnard2020
 5390	papa11	feo, malo	gua² nd’a̠²ca̠⁴	NA	NA	187	NA	anderson1983diccionario
@@ -5261,8 +5648,10 @@ ID	DOCULECT	GLOSS	VALUE	FORM	FLOATTONE	IDlist	NOTES	SOURCE
 5850	chal11	celoso	kʷi³ɲi³	NA	NA	188	NA	swanton2020observaciones
 4128	chay11	celoso	cuiño	NA	NA	188	NA	pensinger1974diccionario
 1806	chic02	celoso	Chikoosi	NA	NA	188	NA	belmar1897ensayo
+6095	chic12	celoso	xico’⁴⁵	NA	NA	188	NA	good1978diccionario
 1268	diux11	jealous	kwiñā	NA	NA	188	NA	kuiper1991syntactic
 3852	flor12	celoso	kuíñû	NA	NA	188	NA	oxnard2020
+6314	jica13	celoso	kuíñu	NA	NA	188	NA	Emily John-Martin
 5391	papa11	celoso	nd’²ta³	NA	NA	188	NA	anderson1983diccionario
 5058	pena11	celoso	kuéñú	NA	[B/A]	188	NA	hollenbach2017diccionario
 3851	pied12	celoso	kuíñun	NA	NA	188	NA	oxnard2020
@@ -5284,12 +5673,14 @@ ID	DOCULECT	GLOSS	VALUE	FORM	FLOATTONE	IDlist	NOTES	SOURCE
 4129	chay11	cerca	yatyi	NA	NA	189	NA	pensinger1974diccionario
 1807	chic02	cerca	Nitrûha	NA	NA	189	NA	belmar1897ensayo
 1808	chic02	cerca, cercado	Trunchighuéha	NA	NA	189	NA	belmar1897ensayo
+6096	chic12	cerca	nichrun’⁴⁵	NA	NA	189	NA	good1978diccionario
 989	coat11	near	etsin	NA	NA	189	NA	small1990syntactic
 4340	colo11	cerca	yatyin	NA	NA	189	NA	stark1986diccionario
 1355	conc11	near	nīnū	NA	NA	189	NA	bradley1991preliminary
 1623	copa11	near	nichrunh1	NA	NA	189	NA	hollenbach1992syntactic
 1269	diux11	near	yátní	NA	NA	189	NA	kuiper1991syntactic
 3855	flor12	cerca, próximo	yajtsin	NA	NA	189	NA	oxnard2020
+6315	jica13	cerca de, está cerca	yachin	NA	NA	189	NA	Emily John-Martin
 3857	mixt11	cerca, próximo	yachi	NA	NA	189	NA	oxnard2020
 3856	mont12	cerca, próximo	yati	NA	NA	189	NA	oxnard2020
 598	ocot11	near	ñātīn	NA	NA	189	NA	alexander1988syntactic
@@ -5312,12 +5703,14 @@ ID	DOCULECT	GLOSS	VALUE	FORM	FLOATTONE	IDlist	NOTES	SOURCE
 864	ayut11	far	shīkāh	NA	NA	190	NA	hills1990syntactic
 4130	chay11	lejos	sica	NA	NA	190	NA	pensinger1974diccionario
 1809	chic02	lejos	Gânha	NA	NA	190	NA	belmar1897ensayo
+6097	chic12	lejos	gan’⁵	NA	NA	190	NA	good1978diccionario
 990	coat11	far	ikā	NA	NA	190	NA	small1990syntactic
 4341	colo11	lejos	cañi	NA	NA	190	NA	stark1986diccionario
 1356	conc11	far	yāhān	NA	NA	190	NA	bradley1991preliminary
 1624	copa11	far	ganh1	NA	NA	190	NA	hollenbach1992syntactic
 1270	diux11	far	shíká	NA	NA	190	NA	kuiper1991syntactic
 3860	flor12	lejos	xíka	NA	NA	190	NA	oxnard2020
+6316	jica13	lejos	xíka	NA	NA	190	NA	Emily John-Martin
 599	ocot11	far	xíká	NA	NA	190	NA	alexander1988syntactic
 5393	papa11	lejos	ye³’en²	NA	NA	190	NA	anderson1983diccionario
 5060	pena11	lejos, lejano	jíká	NA	[A]	190	NA	hollenbach2017diccionario
@@ -5336,11 +5729,13 @@ ID	DOCULECT	GLOSS	VALUE	FORM	FLOATTONE	IDlist	NOTES	SOURCE
 865	ayut11	heavy	vīe	NA	NA	191	NA	hills1990syntactic
 5860	chal11	pesado	be¹e²	NA	NA	191	NA	swanton2020observaciones
 4131	chay11	pesado	vee	NA	NA	191	NA	pensinger1974diccionario
+6098	chic12	pesado	a’i⁴⁵	NA	NA	191	NA	good1978diccionario
 991	coat11	heavy	vií	NA	NA	191	NA	small1990syntactic
 4342	colo11	pesado	vee	NA	NA	191	NA	stark1986diccionario
 1625	copa11	heavy	hee1	NA	NA	191	NA	hollenbach1992syntactic
 1271	diux11	heavy	vēé	NA	NA	191	not basic tones	kuiper1991syntactic
 3863	flor12	pesado	vèje	NA	NA	191	NA	oxnard2020
+6317	jica13	pesado	ve̠e	NA	NA	191	NA	Emily John-Martin
 3865	mixt11	pesado	vèe	NA	NA	191	NA	oxnard2020
 3864	mont12	pesado	vè'e	NA	NA	191	NA	oxnard2020
 5394	papa11	pesado	i³	NA	NA	191	NA	anderson1983diccionario
@@ -5359,8 +5754,10 @@ ID	DOCULECT	GLOSS	VALUE	FORM	FLOATTONE	IDlist	NOTES	SOURCE
 866	ayut11	raw	īhīn	NA	NA	192	NA	hills1990syntactic
 5864	chal11	crudo	ji³Ɂi³	NA	NA	192	NA	swanton2020observaciones
 4132	chay11	crudo, inmaduro	yɨhɨ	NA	NA	192	NA	pensinger1974diccionario
+6099	chic12	crudo	'ui⁵³	NA	NA	192	NA	good1978diccionario
 4343	colo11	crudo	yɨhɨ	NA	NA	192	NA	stark1986diccionario
 3868	flor12	crudo	í'i	NA	NA	192	NA	oxnard2020
+6318	jica13	crudo	í'í	NA	NA	192	NA	Emily John-Martin
 3869	mont12	crudo	yíí	NA	NA	192	NA	oxnard2020
 600	ocot11	raw	yíhí	NA	NA	192	NA	alexander1988syntactic
 5395	papa11	crudo, verde, azul	cue³	NA	NA	192	NA	anderson1983diccionario
@@ -5377,9 +5774,11 @@ ID	DOCULECT	GLOSS	VALUE	FORM	FLOATTONE	IDlist	NOTES	SOURCE
 867	ayut11	smooth	ndiih	NA	NA	193	only as part of sa-ndiih ‘will smooth’	hills1990syntactic
 4133	chay11	liso, resbaloso	ndɨhvɨ	NA	NA	193	NA	pensinger1974diccionario
 1810	chic02	liso	Nughui	NA	NA	193	NA	belmar1897ensayo
+6100	chic12	liso	nu’ui³	NA	NA	193	NA	good1978diccionario
 992	coat11	smooth	ndɨɨ́	NA	NA	193	only as part of ndu-ndɨɨ́ ‘to become smooth, get ironed’	small1990syntactic
 1626	copa11	smooth	nuhwe13	NA	NA	193	NA	hollenbach1992syntactic
 3872	flor12	liso	kaní	NA	NA	193	NA	oxnard2020
+6319	jica13	liso	nti'ví	NA	NA	193	NA	Emily John-Martin
 3874	mixt11	liso	ndiìí	NA	NA	193	NA	oxnard2020
 3873	mont12	liso	vilá	NA	NA	193	NA	oxnard2020
 5396	papa11	liso	du⁴nu⁴	NA	NA	193	NA	anderson1983diccionario
@@ -5403,6 +5802,7 @@ ID	DOCULECT	GLOSS	VALUE	FORM	FLOATTONE	IDlist	NOTES	SOURCE
 5869	chal11	despacio	kʷe³e³	NA	NA	194	NA	swanton2020observaciones
 4134	chay11	despacio, lento	cuee	NA	NA	194	NA	pensinger1974diccionario
 1811	chic02	despacio	Ninóha	NA	NA	194	NA	belmar1897ensayo
+6101	chic12	despacio	nanaj⁴	NA	NA	194	NA	good1978diccionario
 4345	colo11	despacio (indica desprecio)	láya	NA	NA	194	NA	stark1986diccionario
 4346	colo11	despacio	vayɨ́	NA	NA	194	NA	stark1986diccionario
 4347	colo11	despacio	cueé	NA	NA	194	NA	stark1986diccionario
@@ -5410,6 +5810,7 @@ ID	DOCULECT	GLOSS	VALUE	FORM	FLOATTONE	IDlist	NOTES	SOURCE
 3877	flor12	despacio	kuée	NA	NA	194	NA	oxnard2020
 3882	flor12	despacio	kuée	NA	NA	194	NA	oxnard2020
 479	jami11	slow	kwēē	NA	NA	194	NA	johnson1988syntactic
+6320	jica13	despacio	kuée	NA	NA	194	NA	Emily John-Martin
 3879	mixt11	despacio	kwée	NA	NA	194	NA	oxnard2020
 3878	mont12	despacio	kueé	NA	NA	194	NA	oxnard2020
 5397	papa11	despacio, lento	yi²nu⁴	NA	NA	194	NA	anderson1983diccionario
@@ -5436,6 +5837,7 @@ ID	DOCULECT	GLOSS	VALUE	FORM	FLOATTONE	IDlist	NOTES	SOURCE
 5874	chal11	ayer	i²ku²	NA	NA	195	NA	swanton2020observaciones
 4135	chay11	ayer	icu	NA	NA	195	NA	pensinger1974diccionario
 1812	chic02	ayer tarde	Kukihdinên	NA	NA	195	NA	belmar1897ensayo
+6102	chic12	ayer	guquï³	NA	NA	195	NA	good1978diccionario
 993	coat11	yesterday	iku	NA	NA	195	NA	small1990syntactic
 4348	colo11	ayer	icu	NA	NA	195	NA	stark1986diccionario
 1357	conc11	yesterday	ikū	NA	NA	195	NA	bradley1991preliminary
@@ -5445,6 +5847,7 @@ ID	DOCULECT	GLOSS	VALUE	FORM	FLOATTONE	IDlist	NOTES	SOURCE
 2905	gran11	yesterday	īkū	NA	NA	195	NA	durr1987preliminary
 480	jami11	yesterday	íkú	NA	NA	195	NA	johnson1988syntactic
 2907	jica11	yesterday	ìkù	NA	NA	195	NA	durr1987preliminary
+6321	jica13	ayer	kuni	NA	NA	195	NA	Emily John-Martin
 3887	mixt11	ayer	kuni	NA	NA	195	NA	oxnard2020
 2902	moli11	yesterday	īkū	NA	NA	195	NA	durr1987preliminary
 3886	mont12	ayer	koni	NA	NA	195	NA	oxnard2020
@@ -5476,6 +5879,7 @@ ID	DOCULECT	GLOSS	VALUE	FORM	FLOATTONE	IDlist	NOTES	SOURCE
 4136	chay11	año	cuiya	NA	NA	196	NA	pensinger1974diccionario
 2916	chay11	year	kʷìyà	NA	NA	196	NA	durr1987preliminary
 1813	chic02	año	Yioho	NA	NA	196	NA	belmar1897ensayo
+6103	chic12	año	yo’³o	NA	NA	196	NA	good1978diccionario
 994	coat11	year	kwíā	NA	NA	196	NA	small1990syntactic
 2909	coat11	year	kʷíǎ	NA	NA	196	NA	durr1987preliminary
 4349	colo11	año	cuìyà	NA	NA	196	NA	stark1986diccionario
@@ -5485,6 +5889,7 @@ ID	DOCULECT	GLOSS	VALUE	FORM	FLOATTONE	IDlist	NOTES	SOURCE
 3890	flor12	año	kuìyà	NA	NA	196	NA	oxnard2020
 2911	gran11	year	kʷīà	NA	NA	196	NA	durr1987preliminary
 481	jami11	year	kwiya	NA	NA	196	NA	johnson1988syntactic
+6322	jica13	año	kui̠ya̠	NA	NA	196	NA	Emily John-Martin
 2914	mixt11	year	kʷìà	NA	NA	196	NA	durr1987preliminary
 3892	mixt11	año	kwìyà	NA	NA	196	NA	oxnard2020
 2910	moli11	year	kʷìžà	NA	NA	196	NA	durr1987preliminary
@@ -5517,6 +5922,7 @@ ID	DOCULECT	GLOSS	VALUE	FORM	FLOATTONE	IDlist	NOTES	SOURCE
 5879	chal11	ahora	bi²na²	NA	NA	197	NA	swanton2020observaciones
 4137	chay11	ahora, hoy	vityi	NA	NA	197	NA	pensinger1974diccionario
 2929	chay11	now	ƀītʸī	NA	NA	197	NA	durr1987preliminary
+6104	chic12	ahora, hoy	yyaj⁵⁴	NA	NA	197	NA	good1978diccionario
 995	coat11	now, today	ve	NA	NA	197	NA	small1990syntactic
 4350	colo11	ahora, hoy	vityin	NA	NA	197	NA	stark1986diccionario
 1359	conc11	now	mā	NA	NA	197	NA	bradley1991preliminary
@@ -5527,6 +5933,7 @@ ID	DOCULECT	GLOSS	VALUE	FORM	FLOATTONE	IDlist	NOTES	SOURCE
 2921	gran11	now	ƀītā̧	NA	NA	197	NA	durr1987preliminary
 482	jami11	now, today	vītyīn	NA	NA	197	NA	johnson1988syntactic
 2928	jica11	now	ƀìtì̧	NA	NA	197	NA	durr1987preliminary
+6323	jica13	ahora, hoy	vichin	NA	NA	197	NA	Emily John-Martin
 3897	mixt11	ahora, hoy	vichi	NA	NA	197	NA	oxnard2020
 2918	moli11	now	ƀītā̧	NA	NA	197	NA	durr1987preliminary
 3896	mont12	ahora, hoy	viti	NA	NA	197	NA	oxnard2020
@@ -5553,11 +5960,13 @@ ID	DOCULECT	GLOSS	VALUE	FORM	FLOATTONE	IDlist	NOTES	SOURCE
 872	ayut11	night	ñuū	NA	NA	198	NA	hills1990syntactic
 4138	chay11	noche	ñúú	NA	NA	198	NA	pensinger1974diccionario
 1814	chic02	noche	Niihi	NA	NA	198	NA	belmar1897ensayo
+6105	chic12	noche	yan’⁵anj³	NA	NA	198	NA	good1978diccionario
 4351	colo11	noche	tsacuaa	NA	NA	198	NA	stark1986diccionario
 1630	copa11	night	nii31	NA	NA	198	NA	hollenbach1992syntactic
 1276	diux11	night, blind	kwaá	NA	NA	198	the gloss is ‘blind’, but in the free translation ‘night’ in all examples	kuiper1991syntactic
 3900	flor12	noche	ñǔu	NA	NA	198	NA	oxnard2020
 483	jami11	night	n̄ūú	NA	NA	198	NA	johnson1988syntactic
+6324	jica13	noche	ñǔu	NA	NA	198	NA	Emily John-Martin
 3902	mixt11	noche	tsi kwaǎ	NA	NA	198	NA	oxnard2020
 3901	mont12	noche	ñoó	NA	NA	198	NA	oxnard2020
 604	ocot11	night	xā-kwáa	NA	NA	198	NA	alexander1988syntactic
@@ -5584,6 +5993,7 @@ ID	DOCULECT	GLOSS	VALUE	FORM	FLOATTONE	IDlist	NOTES	SOURCE
 4352	colo11	toda la noche	ñiñu	NA	NA	199	NA	stark1986diccionario
 1277	diux11	night time, at night	niu	NA	NA	199	NA	kuiper1991syntactic
 484	jami11	night time	ñīyākā	NA	NA	199	NA	johnson1988syntactic
+6325	jica13	de noche	ñǔu	NA	NA	199	NA	Emily John-Martin
 605	ocot11	night time	ñūú	NA	NA	199	NA	alexander1988syntactic
 5404	papa11	de noche, noche	'an³	NA	NA	199	NA	anderson1983diccionario
 5070	pena11	de noche	ñuu	NA	[A]	199	NA	hollenbach2017diccionario
@@ -5601,6 +6011,7 @@ ID	DOCULECT	GLOSS	VALUE	FORM	FLOATTONE	IDlist	NOTES	SOURCE
 4140	chay11	día	quɨvɨ	NA	NA	200	NA	pensinger1974diccionario
 2938	chay11	day	kɨ̀ƀɨ̀	NA	NA	200	NA	durr1987preliminary
 1816	chic02	día	Kuuía	NA	NA	200	NA	belmar1897ensayo
+6106	chic12	día	güi³	NA	NA	200	NA	good1978diccionario
 997	coat11	day	ndúvi	NA	NA	200	NA	small1990syntactic
 4353	colo11	día	quɨ̀vɨ̀	NA	NA	200	NA	stark1986diccionario
 1360	conc11	day	xūvī	NA	NA	200	NA	bradley1991preliminary
@@ -5611,6 +6022,7 @@ ID	DOCULECT	GLOSS	VALUE	FORM	FLOATTONE	IDlist	NOTES	SOURCE
 2933	gran11	day	kɨ̄ƀɨ̀	NA	NA	200	NA	durr1987preliminary
 485	jami11	day	kɨvɨ	NA	NA	200	NA	johnson1988syntactic
 486	jami11	day	kɨ	NA	NA	200	NA	johnson1988syntactic
+6326	jica13	día	ki̠í	NA	NA	200	NA	Emily John-Martin
 2935	metl11	day	kìƀì	NA	NA	200	NA	durr1987preliminary
 2939	metl11	day	kìƀī	NA	NA	200	NA	durr1987preliminary
 3907	mixt11	día, fecha	kìí	NA	NA	200	NA	oxnard2020
@@ -5633,11 +6045,13 @@ ID	DOCULECT	GLOSS	VALUE	FORM	FLOATTONE	IDlist	NOTES	SOURCE
 1132	alac11	day time	ndīví	NA	NA	201	NA	zylstra1991syntactic
 5193	alac11	todo el día	ndiáca [A]	NA	NA	201	NA	alexander1980gramatica
 875	ayut11	day time	nduvīh	NA	NA	201	NA	hills1990syntactic
+6107	chic12	de día	guni’yanj⁴an	NA	NA	201	NA	good1978diccionario
 998	coat11	day time	ndúvi	NA	NA	201	NA	small1990syntactic
 4354	colo11	todo el día	nduví	NA	NA	201	NA	stark1986diccionario
 1279	diux11	day time	ndúú	NA	NA	201	NA	kuiper1991syntactic
 3910	flor12	de día	ntiví	NA	NA	201	NA	oxnard2020
 487	jami11	all day	ndī-yāká	NA	NA	201	compound from ndɨ̄hɨ̄ ‘all’	johnson1988syntactic
+6327	jica13	de día	ntuví	NA	NA	201	NA	Emily John-Martin
 3912	mixt11	de día	nduú	NA	NA	201	NA	oxnard2020
 3911	mont12	de día	ndiví	NA	NA	201	NA	oxnard2020
 607	ocot11	day time	ndūú	NA	NA	201	NA	alexander1988syntactic
@@ -5657,12 +6071,14 @@ ID	DOCULECT	GLOSS	VALUE	FORM	FLOATTONE	IDlist	NOTES	SOURCE
 5194	alac11	medio, algunos	sava [A]	NA	NA	202	NA	alexander1980gramatica
 876	ayut11	half, middle	sava	NA	NA	202	NA	hills1990syntactic
 4141	chay11	mitad	zava	NA	NA	202	NA	pensinger1974diccionario
+6108	chic12	mitad	da’aj⁵	NA	NA	202	NA	good1978diccionario
 999	coat11	half, middle	dava	NA	NA	202	NA	small1990syntactic
 4355	colo11	mitad	sava	NA	NA	202	NA	stark1986diccionario
 1632	copa11	half, side, part	yanex1	NA	NA	202	NA	hollenbach1992syntactic
 1280	diux11	half, middle	ðáva	NA	NA	202	NA	kuiper1991syntactic
 3915	flor12	mitad	mà'ñú	NA	NA	202	NA	oxnard2020
 488	jami11	half, middle	sāvā	NA	NA	202	NA	johnson1988syntactic
+6328	jica13	mitad	sava	NA	NA	202	NA	Emily John-Martin
 3917	mixt11	mitad	mǎ'in	NA	NA	202	NA	oxnard2020
 3916	mont12	mitad	java	NA	NA	202	NA	oxnard2020
 608	ocot11	half, middle	savá	NA	NA	202	NA	alexander1988syntactic
@@ -5683,12 +6099,14 @@ ID	DOCULECT	GLOSS	VALUE	FORM	FLOATTONE	IDlist	NOTES	SOURCE
 877	ayut11	money	shuhūnh	NA	NA	203	NA	hills1990syntactic
 4142	chay11	dinero	xuhun	NA	NA	203	NA	pensinger1974diccionario
 1817	chic02	dinero	Tsaàha	NA	NA	203	NA	belmar1897ensayo
+6109	chic12	dinero	san’anj⁴an	NA	NA	203	NA	good1978diccionario
 1000	coat11	money	dyuhun	NA	NA	203	NA	small1990syntactic
 4356	colo11	dinero	xùhùn	NA	NA	203	NA	stark1986diccionario
 1633	copa11	money	sahanx32	NA	NA	203	NA	hollenbach1992syntactic
 1281	diux11	money	tviní	NA	NA	203	from Old Sp. tomín	kuiper1991syntactic
 3920	flor12	dinero	xù'ún	NA	NA	203	NA	oxnard2020
 489	jami11	money	shuhun	NA	NA	203	NA	johnson1988syntactic
+6329	jica13	dinero	xǔ'un	NA	NA	203	NA	Emily John-Martin
 3922	mixt11	dinero	xǔ'un	NA	NA	203	NA	oxnard2020
 3921	mont12	dinero	xò'ón	NA	NA	203	NA	oxnard2020
 609	ocot11	money	shuhún	NA	NA	203	NA	alexander1988syntactic
@@ -5717,6 +6135,7 @@ ID	DOCULECT	GLOSS	VALUE	FORM	FLOATTONE	IDlist	NOTES	SOURCE
 5884	chal11	trabajo	ti²ũ²	NA	NA	204	NA	swanton2020observaciones
 4143	chay11	trabajo	tyiño	NA	NA	204	NA	pensinger1974diccionario
 1818	chic02	trabajo	Sunha	NA	NA	204	NA	belmar1897ensayo
+6110	chic12	trabajo	sun³⁴	NA	NA	204	NA	good1978diccionario
 1001	coat11	work	tsiñu	NA	NA	204	NA	small1990syntactic
 2941	coat11	work	ȼìñù	NA	NA	204	NA	durr1987preliminary
 4357	colo11	trabajo, mandado	tyiñu	NA	NA	204	NA	stark1986diccionario
@@ -5726,6 +6145,7 @@ ID	DOCULECT	GLOSS	VALUE	FORM	FLOATTONE	IDlist	NOTES	SOURCE
 3929	flor12	trabajo	chuun	NA	NA	204	NA	oxnard2020
 2945	gran11	work	tīñū	NA	NA	204	NA	durr1987preliminary
 490	jami11	work	tyīñō	NA	NA	204	NA	johnson1988syntactic
+6330	jica13	trabajo	chiñu	NA	NA	204	NA	Emily John-Martin
 2951	mixt11	work	čī̧ū̧	NA	NA	204	NA	durr1987preliminary
 3927	mixt11	trabajo	chuun	NA	NA	204	NA	oxnard2020
 2942	moli11	work	tī̧ñū̧	NA	NA	204	NA	durr1987preliminary
@@ -5762,6 +6182,7 @@ ID	DOCULECT	GLOSS	VALUE	FORM	FLOATTONE	IDlist	NOTES	SOURCE
 4144	chay11	palabra	tùhūn	NA	NA	205	NA	pensinger1974diccionario
 2963	chay11	word	tù̧ʔū̧	NA	NA	205	NA	durr1987preliminary
 1819	chic02	palabra	Ngoánha	NA	NA	205	NA	belmar1897ensayo
+6111	chic12	palabra	nuguan’⁴an	NA	NA	205	NA	good1978diccionario
 1002	coat11	word	túhūn	NA	NA	205	NA	small1990syntactic
 2954	coat11	word	tù̧ʔú̧	NA	NA	205	NA	durr1987preliminary
 4358	colo11	palabra	tuhun	NA	NA	205	NA	stark1986diccionario
@@ -5771,6 +6192,7 @@ ID	DOCULECT	GLOSS	VALUE	FORM	FLOATTONE	IDlist	NOTES	SOURCE
 2956	gran11	word	tù̧ʔū̧	NA	NA	205	NA	durr1987preliminary
 491	jami11	word	tūhun	NA	NA	205	NA	johnson1988syntactic
 2962	jica11	word	tú̧ʔú̧	NA	NA	205	NA	durr1987preliminary
+6331	jica13	palabra	tu̠'un	NA	NA	205	NA	Emily John-Martin
 2958	metl11	word	tù̧ʔū̧	NA	NA	205	NA	durr1987preliminary
 2960	mixt11	word	tù̧ʔū̧	NA	NA	205	NA	durr1987preliminary
 3934	mixt11	palabra	tù'un	NA	NA	205	NA	oxnard2020
@@ -5799,12 +6221,14 @@ ID	DOCULECT	GLOSS	VALUE	FORM	FLOATTONE	IDlist	NOTES	SOURCE
 5894	chal11	culpa	kʷa¹ʧi²	NA	NA	206	NA	swanton2020observaciones
 4145	chay11	culpa	cuatyi	NA	NA	206	NA	pensinger1974diccionario
 1820	chic02	culpa	Kakenha	NA	NA	206	NA	belmar1897ensayo
+6112	chic12	culpa	gaquïn’⁴ïn	NA	NA	206	NA	good1978diccionario
 1003	coat11	fault, blame, sin	kwétsi	NA	NA	206	NA	small1990syntactic
 4359	colo11	culpa, pecado	cuatyí	NA	NA	206	NA	stark1986diccionario
 1636	copa11	blame	kakunh3	NA	NA	206	NA	hollenbach1992syntactic
 1284	diux11	fault, sin	kwéchí	NA	NA	206	not basic tones	kuiper1991syntactic
 3937	flor12	culpa	kuàjchi	NA	NA	206	NA	oxnard2020
 492	jami11	fault, sin	kwātyi	NA	NA	206	NA	johnson1988syntactic
+6332	jica13	culpa	kua̠chi	NA	NA	206	NA	Emily John-Martin
 3939	mixt11	culpa	kwàchi	NA	NA	206	NA	oxnard2020
 3938	mont12	culpa	kuàchi	NA	NA	206	NA	oxnard2020
 612	ocot11	sin	kwachī	NA	NA	206	NA	alexander1988syntactic
@@ -5823,9 +6247,11 @@ ID	DOCULECT	GLOSS	VALUE	FORM	FLOATTONE	IDlist	NOTES	SOURCE
 5899	chal11	sueño	xa¹ni²	NA	NA	207	NA	swanton2020observaciones
 4146	chay11	sueño	ñimahna	NA	NA	207	NA	pensinger1974diccionario
 1821	chic02	sueño	Nneheha	NA	NA	207	NA	belmar1897ensayo
+6113	chic12	sueño	nnej³e	NA	NA	207	NA	good1978diccionario
 4360	colo11	sueño	ñúmaahná	NA	NA	207	NA	stark1986diccionario
 4361	colo11	sueño	ñímaahná	NA	NA	207	NA	stark1986diccionario
 3942	flor12	sueño	xànì	NA	NA	207	NA	oxnard2020
+6333	jica13	sueño	xǎni	NA	NA	207	NA	Emily John-Martin
 5411	papa11	sueño, noche	yan³	NA	NA	207	NA	anderson1983diccionario
 5078	pena11	sueño	ñùmà’ná	NA	[B]	207	NA	hollenbach2017diccionario
 3941	pied12	sueño	xànì	NA	NA	207	NA	oxnard2020
@@ -5844,12 +6270,14 @@ ID	DOCULECT	GLOSS	VALUE	FORM	FLOATTONE	IDlist	NOTES	SOURCE
 880	ayut11	when	ama	NA	NA	208	NA	hills1990syntactic
 4147	chay11	cuándo	ama	NA	NA	208	NA	pensinger1974diccionario
 1822	chic02	cuándo	Amaaha	NA	NA	208	NA	belmar1897ensayo
+6114	chic12	cuándo	aman⁴	NA	NA	208	NA	good1978diccionario
 1004	coat11	when	amá	NA	NA	208	NA	small1990syntactic
 4362	colo11	cuándo	ámá	NA	NA	208	NA	stark1986diccionario
 4363	colo11	cuándo	jámá	NA	NA	208	NA	stark1986diccionario
 1361	conc11	when	tikwáhān	NA	NA	208	NA	bradley1991preliminary
 1285	diux11	when	ná	NA	NA	208	not sure if this used as a question too	kuiper1991syntactic
 493	jami11	when	ámá	NA	NA	208	NA	johnson1988syntactic
+6334	jica13	cuándo	ama	NA	NA	208	NA	Emily John-Martin
 613	ocot11	when	nāmā	NA	NA	208	NA	alexander1988syntactic
 5079	pena11	cuándo	ama	NA	[A]	208	NA	hollenbach2017diccionario
 742	prog12	when	ndáhmā	NA	NA	208	NA	shields1988syntactic
@@ -5866,10 +6294,12 @@ ID	DOCULECT	GLOSS	VALUE	FORM	FLOATTONE	IDlist	NOTES	SOURCE
 5904	chal11	canción,  música	ja²a¹	NA	NA	209	NA	swanton2020observaciones
 4148	chay11	canción, baile	yaa	NA	NA	209	NA	pensinger1974diccionario
 1823	chic02	música	Tsiañiaha	NA	NA	209	NA	belmar1897ensayo
+6115	chic12	canción, música	chra’³a	NA	NA	209	NA	good1978diccionario
 4364	colo11	canción, música; danza	yáa	NA	NA	209	NA	stark1986diccionario
 1286	diux11	song, music	yáa	NA	NA	209	only as part of tnu-yáa wood-music ‘oak’	kuiper1991syntactic
 3945	flor12	canción	yaà	NA	NA	209	NA	oxnard2020
 494	jami11	song	yaa	NA	NA	209	NA	johnson1988syntactic
+6335	jica13	canción, música	yaa	NA	NA	209	NA	Emily John-Martin
 5412	papa11	música	ca³ta³	NA	NA	209	NA	anderson1983diccionario
 5080	pena11	canción, canto	yaà	NA	[BA]	209	NA	hollenbach2017diccionario
 3944	pied12	canción	yaà	NA	NA	209	NA	oxnard2020

@@ -56,7 +56,6 @@ wl3 %>% count(ID) %>% filter(n > 1)
 which(is.na(wl3$ID))
 which(is.na(wl3$DOCULECT))
 which(is.na(wl3$IDlist))
-wl3[5550, ]
 
 
 # sort by list item, then variety
@@ -77,7 +76,7 @@ ctdf
 
 # total varieties
 length(unique(wl3$DOCULECT))
-# 39
+# 41
 
 # entries per variety
 ev <- wl3 %>% group_by(DOCULECT) %>% summarise(entries = n()) %>% arrange(desc(entries))
@@ -86,11 +85,11 @@ tail(ev)
 
 # list all varieties
 sort(unique(wl3$DOCULECT))
-
+# 41 varieties
 
 # export to tsv for further processing
 write_tsv(wl3, "/Users/auderset/Documents/GitHub/mixteca/ComparativeList/mixt_complist.tsv")
 
 # to know where to continue IDs
 max(wl3$ID, na.rm = TRUE)
-# 5905
+# 6335
