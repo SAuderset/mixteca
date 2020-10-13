@@ -1,3 +1,4 @@
+# create comparative Mixtecan list
 
 library(tidyverse)
 library(stringi)
@@ -17,7 +18,7 @@ wl1 <- wl %>% select(ID, DOCULECT, GLOSS, VALUE, FORM, IDlist, NOTES, SOURCE) %>
 glimpse(wl1)
 
 # move floating tones in Hollenbach 2013/pena11 to new column
-hb <- wl1 %>% filter(SOURCE=="hollenbach2017diccionario") %>% 
+hb <- wl1 %>% filter(SOURCE=="hollenbach2017diccionario" | SOURCE=="alexander1980gramatica") %>% 
   separate(VALUE, into = c("VALUE", "FLOAT1"), sep = "(?= \\[)") %>% 
   separate(VALUE, into = c("VALUE", "FLOAT2"), sep = "(?= \\{)") %>% 
   unite("FLOATTONE", FLOAT1, FLOAT2) %>%
@@ -34,16 +35,17 @@ sm <- wl1 %>% filter(SOURCE=="swanton2020observaciones") %>%
 glimpse(sm)
 
 # add column to main df, paste two other dfs back
-wl1 <- wl1 %>% filter(SOURCE!="swanton2020observaciones") %>% filter(SOURCE!="hollenbach2017diccionario") %>% mutate(FLOATTONE=NA)
+wl1 <- wl1 %>% filter(SOURCE!="swanton2020observaciones") %>% filter(SOURCE!="hollenbach2017diccionario") %>% filter(SOURCE!="alexander1980gramatica") %>% mutate(FLOATTONE=NA)
 glimpse(wl1)
 wl2 <- bind_rows(wl1, hb, sm)
 wl2 <- filter(distinct(wl2))
 
+
 # copy values to form, if form is empty, order columns
-wl3 <- wl2 %>% mutate(FORM = if_else(is.na(FORM), VALUE, FORM)) %>%
-  select(ID:VALUE, FORM, FLOATTONE, IDlist:SOURCE)
+# for some reason it didn't work without coalesce...
+wl3 <- wl2 %>% mutate(FORM = ifelse(is.na(FORM), coalesce(VALUE, FORM), coalesce(FORM, FORM)))
 # normalize unicode
-wl3$FORM <- stri_trans_nfd(wl2$FORM)
+wl3$FORM <- stri_trans_nfd(wl3$FORM)
 # lower case
 wl3$FORM <- tolower(wl3$FORM)
 glimpse(wl3)
@@ -52,14 +54,15 @@ head(wl3)
 # check for duplicate IDs after every list to avoid issues!
 wl3 %>% count(ID) %>% filter(n > 1)
 
+
 # check for NA in identifier columns
 which(is.na(wl3$ID))
 which(is.na(wl3$DOCULECT))
 which(is.na(wl3$IDlist))
-
+wl3[6313, ]
 
 # sort by list item, then variety
-wl3 <- wl3 %>% arrange(IDlist, DOCULECT) 
+wl3 <- wl3 %>% arrange(IDlist, DOCULECT)
 
 # entries per concept
 ct <- table(wl3$IDlist)
