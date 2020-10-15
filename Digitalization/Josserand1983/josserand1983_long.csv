@@ -5383,6 +5383,4518 @@ IDjoss,GLOSS_E,GLOSS_S,VALUE,DOCULECT
 117,cat,gato,gato,Spanish
 118,prickly pear,nopal,nopal,Spanish
 119,foot,pie,pie,Spanish
+120,cut,cortar,corta,Spanish
+121,fifteen,quince,quince,Spanish
+122,guts,tripas,tripas,Spanish
+123,ten,diez,diez,Spanish
+124,cold,frío,frio,Spanish
+125,sandal,huarache,huarache,Spanish
+126,housepot,horcón,horcon,Spanish
+127,name,nombre,nombre,Spanish
+128,cacao,cacao,cacao,Spanish
+129,ear,oreja,oreja,Spanish
+130,tasty,sabroso,sabroso,Spanish
+131,closed,cerrado,cerrado,Spanish
+132,day after tomorrow,pasado mañana,pasado mabana,Spanish
+133,sweet,dulce,dulce,Spanish
+134,now,ahora,abora,Spanish
+135,hole,agujero,agujero,Spanish
+136,afraid,tiene miedo,tiene miedo,Spanish
+137,poor,pobre,pobre,Spanish
+138,two,dos,dos,Spanish
+139,scorpion,alacrán,alacran,Spanish
+140,go out,salir,salir,Spanish
+141,paint,pintar,pintar,Spanish
+142,rat,rata,rata,Spanish
+143,swelling,hinchazón,hinchazon,Spanish
+144,pimple,grano,grano,Spanish
+145,it thunders,truena,truena,Spanish
+146,rainbow,arco iris,arco iris,Spanish
+147,bird,pájaro,pajaro,Spanish
+148,frog,rana,rana,Spanish
+149,navel,ombligo,ombligo,Spanish
+150,urine,orina,orina,Spanish
+151,chachalaca,chachalaca,chachalaca,Spanish
+152,smooth,lisa,liso,Spanish
+153,little,chico,chico,Spanish
+154,day,día,dia,Spanish
+155,when,cuándo,cuando,Spanish
+156,plain,llano,llano,Spanish
+157,how,cómo,como,Spanish
+158,carry,cargar,cargar,Spanish
+159,cockroach,cucaracha,cucaracha,Spanish
+160,glue,pegamento,pegameuto,Spanish
+161,sickness,enfermedad,enfermedad,Spanish
+162,see,ver,ver,Spanish
+163,slow,despacio,despacio,Spanish
+164,house,casa,casa,Spanish
+165,mamey,mamey,mamey,Spanish
+166,grind,moler,moler,Spanish
+167,wing,ala,ala,Spanish
+168,stool,banquito,banquito,Spanish
+169,cornfield,milpa,milpa,Spanish
+170,yesterday,ayer,ayer,Spanish
+171,other,otro,otro,Spanish
+172,comb,peine,peine,Spanish
+173,be born,se nació,se nacio,Spanish
+174,smart,sabio,sabio,Spanish
+175,stone,piedra,piedra,Spanish
+176,mouth,boca,boca,Spanish
+177,I,yo,yo,Spanish
+178,dew,rocío,rocio,Spanish
+179,brush,hierba,hierba,Spanish
+180,furrow,surco,surco,Spanish
+181,trousers,calzón,calzon,Spanish
+182,priest,sacerdote,sacerdote,Spanish
+183,brand,fierro,fierro,Spanish
+184,will know,sabrá,sabra,Spanish
+185,squirrel,ardilla,ardilla,Spanish
+186,loose,floja,floja,Spanish
+187,heavy,pesado,pesado,Spanish
+188,tobacco,tobaco,tobaco,Spanish
+1,rain,lluvia,rain,English
+2,agave,maguey,agave,English
+3,straw mat,petate,straw mat,English
+4,four,cuatro,four,English
+5,feather,pluma,feather,English
+6,tail,cola,tail,English
+7,wax,cera,wax,English
+8,nose,nariz,nose,English
+9,word,palabra,word,English
+10,near,está cerca,near,English
+11,tree,árbol,tree,English
+12,deer,venado,deer,English
+13,lard,manteca,lard,English
+14,smell,olor,smell,English
+15,tortilla,tortilla,tortilla,English
+16,vomits,vomita,vomits,English
+17,lazy,flojo,lazy,English
+18,bed,cama,bed,English
+19,griddle,comal,griddle,English
+20,sin,culpa,sin,English
+21,bean,frijol,bean,English
+22,water,agua,water,English
+23,river,río,river,English
+24,mud,lodo,mud,English
+25,man's brother,hermano de h.,man's brother,English
+26,three,tres,three,English
+27,tooth,diente,tooth,English
+28,five,cinco,five,English
+29,bitter,amargo,bitter,English
+30,meat,carne,meat,English
+31,red,rojo,red,English
+32,(he) went,se fue,(he) went,English
+33,seven,siete,seven,English
+34,thread,hilo,thread,English
+35,animal,animal,animal,English
+36,it finishes,se acaba,it finishes,English
+37,egg,blanquillo,egg,English
+38,foam,espuma,foam,English
+39,blood,sangre,blood,English
+40,husband,marido,husband,English
+41,salt,sal,salt,English
+42,net bag,red,net bag,English
+43,gourd,jícara,gourd,English
+44,squash,calabaza,squash,English
+45,coati,tejón coatí,coati,English
+46,food,comida,food,English
+47,salty,salado,salty,English
+48,blouse,huipil,blouse,English
+49,work,trabajo,work,English
+50,cotton,algodón,cotton,English
+51,wind,viento,wind,English
+52,man,hombre,man,English
+53,round,redondon,round,English
+54,oven,horno,oven,English
+55,box / drawer,cajón,box / drawer,English
+56,mosquito,zancudo,mosquito,English
+57,wait for,esperar,wait for,English
+58,rotten,podrido,rotten,English
+59,grab,agarrar,grab,English
+60,tendon,tendón,tendon,English
+61,blow,soplar,blow,English
+62,handspan,cuarta,handspan,English
+63,owner,dueño,owner,English
+64,lay (egg),poner (huevo),lay (egg),English
+65,big (sg.),grande (sg.),big (sg.),English
+66,neck,cuello,neck,English
+67,will come,va a venir,will come,English
+68,horn,cuerno,horn,English
+69,snake,culebra,snake,English
+70,ugly,feo,ugly,English
+71,hill,cerro,hill,English
+72,armadillo,armadillo,armadillo,English
+73,crooked,chueco,crooked,English
+74,year,año,year,English
+75,eyebrow,ceja,eyebrow,English
+76,pus,pus,pus,English
+77,demon,demonio,demon,English
+78,yellow,amarillo,yellow,English
+79,sew,coser,sew,English
+80,will carry,va a cargar,will carry,English
+81,that,aquel,that,English
+82,below,abajo,below,English
+83,all night,toda la noche,all night,English
+84,hot,caliente,hot,English
+85,grain of corn,maíz,grain of corn,English
+86,wall,pared,wall,English
+87,early,temprano,early,English
+88,open,abierto,open,English
+89,eight,ocho,eight,English
+90,tomato,jitomate,tomato,English
+91,green bean,ejote,green bean,English
+92,half,mitad,half,English
+93,cane,caña,cane,English
+94,clay pot,olla,clay pot,English
+95,liquor,aguardiente,liquor,English
+96,honey,miel,honey,English
+97,armpit,sobaco,armpit,English
+98,tassel,espiga,tassel,English
+99,people,gente,people,English
+100,town,pueblo,town,English
+101,smoke,humo,smoke,English
+102,eat,comer,eat,English
+103,hawk,gavilán,hawk,English
+104,truth,verdad,truth,English
+105,fire,lumbre,fire,English
+106,six,seis,six,English
+107,fingernail,uña,fingernail,English
+108,cornstalk,rastrojo,cornstalk,English
+109,cornmeal,masa,cornmeal,English
+110,child,hijo,child,English
+111,"cold, phlegm",catarro,"cold, phlegm",English
+112,good,bueno,good,English
+113,because,porque,because,English
+114,this one,este mismo,this one,English
+115,is coming,ya viene,is coming,English
+116,trash,basura,trash,English
+117,cat,gato,cat,English
+118,prickly pear,nopal,prickly pear,English
+119,foot,pie,foot,English
+120,cut,cortar,cuts,English
+121,fifteen,quince,fifteen,English
+122,guts,tripas,guts,English
+123,ten,diez,ten,English
+124,cold,frío,cold,English
+125,sandal,huarache,sandal,English
+126,housepot,horcón,housepost,English
+127,name,nombre,name,English
+128,cacao,cacao,cacao,English
+129,ear,oreja,ear,English
+130,tasty,sabroso,tasty,English
+131,closed,cerrado,closed,English
+132,day after tomorrow,pasado mañana,day after tomorrow,English
+133,sweet,dulce,sweet,English
+134,now,ahora,now,English
+135,hole,agujero,hole,English
+136,afraid,tiene miedo,afraid,English
+137,poor,pobre,poor,English
+138,two,dos,two,English
+139,scorpion,alacrán,scorpion,English
+140,go out,salir,go out,English
+141,paint,pintar,paint,English
+142,rat,rata,rat,English
+143,swelling,hinchazón,swelling,English
+144,pimple,grano,pimple,English
+145,it thunders,truena,it thunders,English
+146,rainbow,arco iris,rainbow,English
+147,bird,pájaro,bird,English
+148,frog,rana,frog,English
+149,navel,ombligo,navel,English
+150,urine,orina,urine,English
+151,chachalaca,chachalaca,chachalaca,English
+152,smooth,lisa,smooth,English
+153,little,chico,little,English
+154,day,día,day,English
+155,when,cuándo,when,English
+156,plain,llano,plain,English
+157,how,cómo,how,English
+158,carry,cargar,carry,English
+159,cockroach,cucaracha,cockroach,English
+160,glue,pegamento,glue,English
+161,sickness,enfermedad,sickness,English
+162,see,ver,see,English
+163,slow,despacio,slow,English
+164,house,casa,house,English
+165,mamey,mamey,mamey,English
+166,grind,moler,grind,English
+167,wing,ala,wing,English
+168,stool,banquito,stool,English
+169,cornfield,milpa,cornfield,English
+170,yesterday,ayer,yesterday,English
+171,other,otro,other,English
+172,comb,peine,comb,English
+173,be born,se nació,be born,English
+174,smart,sabio,smart,English
+175,stone,piedra,stone,English
+176,mouth,boca,mouth,English
+177,I,yo,I,English
+178,dew,rocío,dew,English
+179,brush,hierba,brush,English
+180,furrow,surco,furrow,English
+181,trousers,calzón,trousers,English
+182,priest,sacerdote,priest,English
+183,brand,fierro,brand,English
+184,will know,sabrá,will know,English
+185,squirrel,ardilla,squirrel,English
+186,loose,floja,loose,English
+187,heavy,pesado,heavy,English
+188,tobacco,tobaco,tobacco,English
+1,rain,lluvia,*sawiʔ,P-Mixtec
+2,agave,maguey,*yawiʔ,P-Mixtec
+3,straw mat,petate,*yuwiʔ,P-Mixtec
+4,four,cuatro,*kɨwĩʔ,P-Mixtec
+5,feather,pluma,*towĩ,P-Mixtec
+6,tail,cola,*luʔwe͂ʔ,P-Mixtec
+7,wax,cera,*yuwe͂ʔ,P-Mixtec
+8,nose,nariz,*sitĩʔ,P-Mixtec
+9,word,palabra,*toʔõ,P-Mixtec
+10,near,está cerca,*yetĩ,P-Mixtec
+11,tree,árbol,*yutũʔ,P-Mixtec
+12,deer,venado,*isu,P-Mixtec
+13,lard,manteca,*seʔe͂,P-Mixtec
+14,smell,olor,*siko,P-Mixtec
+15,tortilla,tortilla,*sitaʔ,P-Mixtec
+16,vomits,vomita,*ⁿduxe͂ʔ,P-Mixtec
+17,lazy,flojo,*suxe͂ʔ,P-Mixtec
+18,bed,cama,*xito,P-Mixtec
+19,griddle,comal,*xiyoʔ,P-Mixtec
+20,sin,culpa,*kʷeti,P-Mixtec
+21,bean,frijol,*ⁿdutiʔ,P-Mixtec
+22,water,agua,*ⁿdute,P-Mixtec
+23,river,río,*yute,P-Mixtec
+24,mud,lodo,*ⁿdeʔyu,P-Mixtec
+25,man's brother,hermano de h.,*yeni,P-Mixtec
+26,three,tres,*oni,P-Mixtec
+27,tooth,diente,*noʔo,P-Mixtec
+28,five,cinco,*oʔõ,P-Mixtec
+29,bitter,amargo,*owe,P-Mixtec
+30,meat,carne,*koyõ,P-Mixtec
+31,red,rojo,*kʷeʔe,P-Mixtec
+32,(he) went,se fue,*kʷeʔe͂,P-Mixtec
+33,seven,siete,*uxe,P-Mixtec
+34,thread,hilo,*yuʔwe,P-Mixtec
+35,animal,animal,*kɨtɨʔ,P-Mixtec
+36,it finishes,se acaba,*ⁿdɨʔɨʔ,P-Mixtec
+37,egg,blanquillo,*ⁿdɨwɨʔ,P-Mixtec
+38,foam,espuma,*tɨ iyũ,P-Mixtec
+39,blood,sangre,*nɨyĩʔ,P-Mixtec
+40,husband,marido,*yɨɨʔ,P-Mixtec
+41,salt,sal,*yɨɨ͂ʔ,P-Mixtec
+42,net bag,red,*yonoʔ,P-Mixtec
+43,gourd,jícara,*yexĩʔ,P-Mixtec
+44,squash,calabaza,*yɨkɨ͂ʔ,P-Mixtec
+45,coati,tejón coatí,*yɨyɨ,P-Mixtec
+46,food,comida,*ⁿdeyuʔ,P-Mixtec
+47,salty,salado,*oʔwe,P-Mixtec
+48,blouse,huipil,*sikõ,P-Mixtec
+49,work,trabajo,*tiyõ,P-Mixtec
+50,cotton,algodón,*katiʔ,P-Mixtec
+51,wind,viento,*tatiʔ,P-Mixtec
+52,man,hombre,*teye,P-Mixtec
+53,round,redondon,*kute,P-Mixtec
+54,oven,horno,*xitũ,P-Mixtec
+55,box / drawer,cajón,*xetũʔ,P-Mixtec
+56,mosquito,zancudo,*tɨ kʷeyɨʔ,P-Mixtec
+57,wait for,esperar,*ⁿdetuʔ,P-Mixtec
+58,rotten,podrido,*teʔyu,P-Mixtec
+59,grab,agarrar,*tɨɨ̃ʔ,P-Mixtec
+60,tendon,tendón,*tuti,P-Mixtec
+61,blow,soplar,*tɨwɨ,P-Mixtec
+62,handspan,cuarta,*too,P-Mixtec
+63,owner,dueño,*xi toʔo,P-Mixtec
+64,lay (egg),poner (huevo),*xekĩ,P-Mixtec
+65,big (sg.),grande (sg.),*kaʔnuʔ,P-Mixtec
+66,neck,cuello,*sukũʔ,P-Mixtec
+67,will come,va a venir,*kixi,P-Mixtec
+68,horn,cuerno,*ⁿdɨkɨʔ,P-Mixtec
+69,snake,culebra,*kooʔ,P-Mixtec
+70,ugly,feo,*kini,P-Mixtec
+71,hill,cerro,*yukuʔ,P-Mixtec
+72,armadillo,armadillo,*yakʷĩʔ,P-Mixtec
+73,crooked,chueco,*yakʷeʔ,P-Mixtec
+74,year,año,*kʷiya,P-Mixtec
+75,eyebrow,ceja,*sɨkʷaʔ,P-Mixtec
+76,pus,pus,*lakʷaʔ,P-Mixtec
+77,demon,demonio,*kʷiʔna,P-Mixtec
+78,yellow,amarillo,*kʷaã,P-Mixtec
+79,sew,coser,*ku ɨku,P-Mixtec
+80,will carry,va a cargar,*ku iso,P-Mixtec
+81,that,aquel,*yuku ã,P-Mixtec
+82,below,abajo,*nino,P-Mixtec
+83,all night,toda la noche,*niyũ,P-Mixtec
+84,hot,caliente,*iʔniʔ,P-Mixtec
+85,grain of corn,maíz,*noniʔ,P-Mixtec
+86,wall,pared,*nawã,P-Mixtec
+87,early,temprano,*neʔe,P-Mixtec
+88,open,abierto,*nuneʔ,P-Mixtec
+89,eight,ocho,*one,P-Mixtec
+90,tomato,jitomate,*tɨ lanaʔ,P-Mixtec
+91,green bean,ejote,*ⁿditi,P-Mixtec
+92,half,mitad,*sawa,P-Mixtec
+93,cane,caña,*ⁿdooʔ,P-Mixtec
+94,clay pot,olla,*kɨsɨ,P-Mixtec
+95,liquor,aguardiente,*ⁿdɨsi,P-Mixtec
+96,honey,miel,*ⁿdusi,P-Mixtec
+97,armpit,sobaco,*leʔyiʔ,P-Mixtec
+98,tassel,espiga,*yokoʔ,P-Mixtec
+99,people,gente,*ye͂ yɨwɨʔ,P-Mixtec
+100,town,pueblo,*yuũ,P-Mixtec
+101,smoke,humo,*yuʔwe͂,P-Mixtec
+102,eat,comer,*xexiʔ,P-Mixtec
+103,hawk,gavilán,*tasũʔ,P-Mixtec
+104,truth,verdad,*ⁿdixe,P-Mixtec
+105,fire,lumbre,*yuʔũ,P-Mixtec
+106,six,seis,*iyõ,P-Mixtec
+107,fingernail,uña,*tiyĩʔ,P-Mixtec
+108,cornstalk,rastrojo,*yawãʔ,P-Mixtec
+109,cornmeal,masa,*yuxe͂ʔ,P-Mixtec
+110,child,hijo,*saʔyi,P-Mixtec
+111,"cold, phlegm",catarro,*sayu,P-Mixtec
+112,good,bueno,*waʔa,P-Mixtec
+113,because,porque,*wati,P-Mixtec
+114,this one,este mismo,*weye͂,P-Mixtec
+115,is coming,ya viene,*wexi,P-Mixtec
+116,trash,basura,*wiʔĩʔ,P-Mixtec
+117,cat,gato,*wiluʔ,P-Mixtec
+118,prickly pear,nopal,*wiʔⁿdeʔ,P-Mixtec
+119,foot,pie,*xeʔe,P-Mixtec
+120,cut,cortar,*xeʔⁿde,P-Mixtec
+121,fifteen,quince,*xeʔũ,P-Mixtec
+122,guts,tripas,*xɨtɨ,P-Mixtec
+123,ten,diez,*uxi,P-Mixtec
+124,cold,frío,*wixĩ,P-Mixtec
+125,sandal,huarache,*ⁿdixe͂ʔ,P-Mixtec
+126,housepot,horcón,*sɨʔɨ͂,P-Mixtec
+127,name,nombre,*sɨwɨʔ,P-Mixtec
+128,cacao,cacao,*sɨʔwa,P-Mixtec
+129,ear,oreja,*loʔo,P-Mixtec
+130,tasty,sabroso,*asɨ͂ʔ,P-Mixtec
+131,closed,cerrado,*ⁿdesɨ,P-Mixtec
+132,day after tomorrow,pasado mañana,*isa,P-Mixtec
+133,sweet,dulce,*wisĩ,P-Mixtec
+134,now,ahora,*witĩ,P-Mixtec
+135,hole,agujero,*yawi,P-Mixtec
+136,afraid,tiene miedo,*yuʔwi,P-Mixtec
+137,poor,pobre,ⁿdaʔwi,P-Mixtec
+138,two,dos,*uwi,P-Mixtec
+139,scorpion,alacrán,*tɨ luʔwe͂ʔ,P-Mixtec
+140,go out,salir,*keyiʔ,P-Mixtec
+141,paint,pintar,*kaʔyu,P-Mixtec
+142,rat,rata,*tɨyɨ͂ʔ,P-Mixtec
+143,swelling,hinchazón,*kʷɨyɨ͂,P-Mixtec
+144,pimple,grano,*ⁿdɨʔyɨ,P-Mixtec
+145,it thunders,truena,*kaʔⁿdɨ,P-Mixtec
+146,rainbow,arco iris,*koo yeʔⁿdiʔ,P-Mixtec
+147,bird,pájaro,*tɨ laa,P-Mixtec
+148,frog,rana,*laʔwa,P-Mixtec
+149,navel,ombligo,*leⁿdu,P-Mixtec
+150,urine,orina,*lele,P-Mixtec
+151,chachalaca,chachalaca,*laxe͂ʔ,P-Mixtec
+152,smooth,lisa,*lɨʔwɨʔ,P-Mixtec
+153,little,chico,*luʔu,P-Mixtec
+154,day,día,*kɨwɨʔ,P-Mixtec
+155,when,cuándo,*awã,P-Mixtec
+156,plain,llano,*yosoʔ,P-Mixtec
+157,how,cómo,*ⁿdese,P-Mixtec
+158,carry,cargar,*ⁿdisoʔ,P-Mixtec
+159,cockroach,cucaracha,*tɨ teʔyaʔ,P-Mixtec
+160,glue,pegamento,*ⁿdeka,P-Mixtec
+161,sickness,enfermedad,*kʷweʔyi,P-Mixtec
+162,see,ver,*ⁿdeʔya,P-Mixtec
+163,slow,despacio,*kʷeye,P-Mixtec
+164,house,casa,*weʔyi,P-Mixtec
+165,mamey,mamey,*ⁿdikaʔ,P-Mixtec
+166,grind,moler,*ⁿdikoʔ,P-Mixtec
+167,wing,ala,*ⁿdixĩ,P-Mixtec
+168,stool,banquito,*teyu,P-Mixtec
+169,cornfield,milpa,*itu,P-Mixtec
+170,yesterday,ayer,*iku,P-Mixtec
+171,other,otro,*tuku,P-Mixtec
+172,comb,peine,*kuka,P-Mixtec
+173,be born,se nació,*ni kaku,P-Mixtec
+174,smart,sabio,*tuʔwe,P-Mixtec
+175,stone,piedra,*yuuʔ,P-Mixtec
+176,mouth,boca,*yuʔuʔ,P-Mixtec
+177,I,yo,*yuʔu,P-Mixtec
+178,dew,rocío,*yuyuʔ,P-Mixtec
+179,brush,hierba,*yuku,P-Mixtec
+180,furrow,surco,*yukũ,P-Mixtec
+181,trousers,calzón,*xetu,P-Mixtec
+182,priest,sacerdote,*sutu,P-Mixtec
+183,brand,fierro,*tuni,P-Mixtec
+184,will know,sabrá,*kuni,P-Mixtec
+185,squirrel,ardilla,*kʷeyũʔ,P-Mixtec
+186,loose,floja,*taya,P-Mixtec
+187,heavy,pesado,*weyi,P-Mixtec
+188,tobacco,tobaco,*ino,P-Mixtec
+1,rain,lluvia,sabiʔ,Zac
+2,agave,maguey,yabiʔ,Zac
+3,straw mat,petate,yubiʔ,Zac
+4,four,cuatro,kũmĩʔ,Zac
+5,feather,pluma,tũmĩ,Zac
+6,tail,cola,sũʔmãʔ,Zac
+7,wax,cera,ñũmãʔ,Zac
+8,nose,nariz,šitĩʔ,Zac
+9,word,palabra,tũʔũ,Zac
+10,near,está cerca,yatĩ,Zac
+11,tree,árbol,yutũʔ,Zac
+12,deer,venado,isu,Zac
+13,lard,manteca,šãʔã,Zac
+14,smell,olor,šiko,Zac
+15,tortilla,tortilla,šitaʔ,Zac
+16,vomits,vomita,ⁿduča/ⁿduče͂,Zac
+17,lazy,flojo,suča,Zac
+18,bed,cama,čito,Zac
+19,griddle,comal,čiyoʔ,Zac
+20,sin,culpa,kʷati,Zac
+21,bean,frijol,ⁿdutiʔ,Zac
+22,water,agua,[ta kʷii],Zac
+23,river,río,yuta,Zac
+24,mud,lodo,ⁿdaʔyu,Zac
+25,man's brother,hermano de h.,ñãnĩ,Zac
+26,three,tres,ũnĩ,Zac
+27,tooth,diente,nũʔũ/nõʔõ,Zac
+28,five,cinco,ũʔũ,Zac
+29,bitter,amargo,uba,Zac
+30,meat,carne,[sãʔã],Zac
+31,red,rojo,kʷaʔa,Zac
+32,(he) went,se fue,kʷãʔã,Zac
+33,seven,siete,uča,Zac
+34,thread,hilo,yuʔwa,Zac
+35,animal,animal,kitiʔ,Zac
+36,it finishes,se acaba,ⁿdiʔi,Zac
+37,egg,blanquillo,ⁿdibi,Zac
+38,foam,espuma,šiki ñũũ,Zac
+39,blood,sangre,nĩĩʔ,Zac
+40,husband,marido,iiʔ,Zac
+41,salt,sal,ñĩĩ,Zac
+42,net bag,red,ñũnũʔ,Zac
+43,gourd,jícara,yačiʔ,Zac
+44,squash,calabaza,ikĩʔ,Zac
+45,coati,tejón coatí,ii,Zac
+46,food,comida,ⁿdayu,Zac
+47,salty,salado,uʔba,Zac
+48,blouse,huipil,šikũ,Zac
+49,work,trabajo,ha tiñũ /sa tiñũ,Zac
+50,cotton,algodón,katiʔ,Zac
+51,wind,viento,tatiʔ,Zac
+52,man,hombre,ra iiʔ／raa,Zac
+53,round,redondon,kuta,Zac
+54,oven,horno,čitũ,Zac
+55,box / drawer,cajón,čatũʔ,Zac
+56,mosquito,zancudo,ti kʷañĩʔ,Zac
+57,wait for,esperar,ⁿdatuʔ,Zac
+58,rotten,podrido,taʔyu,Zac
+59,grab,agarrar,tĩĩ,Zac
+60,tendon,tendón,tuti,Zac
+61,blow,soplar,[ⁿdati]/tibi,Zac
+62,handspan,cuarta,too,Zac
+63,owner,dueño,či toʔo,Zac
+64,lay (egg),poner (huevo),[čati],Zac
+65,big (sg.),grande (sg.),kaʔnũʔ,Zac
+66,neck,cuello,sukũʔ,Zac
+67,will come,va a venir,kiči,Zac
+68,horn,cuerno,ⁿdikiʔ,Zac
+69,snake,culebra,kooʔ,Zac
+70,ugly,feo,kini kaa,Zac
+71,hill,cerro,yukuʔ,Zac
+72,armadillo,armadillo,žakʷĩʔ,Zac
+73,crooked,chueco,yakʷaʔ,Zac
+74,year,año,kʷiya,Zac
+75,eyebrow,ceja,sukʷaʔ,Zac
+76,pus,pus,lakʷaʔ,Zac
+77,demon,demonio,[ra suʔu]/kʷĩʔnãʔ,Zac
+78,yellow,amarillo,kʷãã,Zac
+79,sew,coser,[nã taa],Zac
+80,will carry,va a cargar,kʷiso,Zac
+81,that,aquel,ikã,Zac
+82,below,abajo,nĩnũ,Zac
+83,all night,toda la noche,nĩñũ,Zac
+84,hot,caliente,nĩʔnĩ,Zac
+85,grain of corn,maíz,nũnĩʔ,Zac
+86,wall,pared,nãmã/[čaʔa],Zac
+87,early,temprano,nãʔã (nĩ),Zac
+88,open,abierto,[i koʔo]/nũnã,Zac
+89,eight,ocho,ũnã,Zac
+90,tomato,jitomate,ti nãnãʔ,Zac
+91,green bean,ejote,[ⁿdutiʔ yuta],Zac
+92,half,mitad,saba,Zac
+93,cane,caña,ⁿdooʔ,Zac
+94,clay pot,olla,kisi,Zac
+95,liquor,aguardiente,ⁿdiši,Zac
+96,honey,miel,ⁿduši,Zac
+97,armpit,sobaco,ti šeʔe,Zac
+98,tassel,espiga,yokoʔ,Zac
+99,people,gente,ñĩbiʔ,Zac
+100,town,pueblo,ñũũ,Zac
+101,smoke,humo,yũʔmã/ñũʔmã,Zac
+102,eat,comer,čačiʔ,Zac
+103,hawk,gavilán,tasuʔ,Zac
+104,truth,verdad,ⁿdiča,Zac
+105,fire,lumbre,ñũʔũ,Zac
+106,six,seis,ĩñũ,Zac
+107,fingernail,uña,tĩĩʔ,Zac
+108,cornstalk,rastrojo,ñãmãʔ,Zac
+109,cornmeal,masa,yučãʔ,Zac
+110,child,hijo,seʔe,Zac
+111,"cold, phlegm",catarro,sayu,Zac
+112,good,bueno,baʔa,Zac
+113,because,porque,ti,Zac
+114,this one,este mismo,mãã,Zac
+115,is coming,ya viene,bači,Zac
+116,trash,basura,(čãʔã)biʔbiʔ =cuita,Zac
+117,cat,gato,mĩluʔ,Zac
+118,prickly pear,nopal,bĩʔⁿdaʔ,Zac
+119,foot,pie,čaʔa(ʔ),Zac
+120,cut,cortar,čaʔⁿda,Zac
+121,fifteen,quince,čãʔũ,Zac
+122,guts,tripas,čiti,Zac
+123,ten,diez,uči,Zac
+124,cold,frío,bičĩ,Zac
+125,sandal,huarache,ⁿdičãʔ,Zac
+126,housepot,horcón,sĩʔĩ,Zac
+127,name,nombre,sibiʔ,Zac
+128,cacao,cacao,siʔba,Zac
+129,ear,oreja,soʔo,Zac
+130,tasty,sabroso,asɨ͂ʔ,Zac
+131,closed,cerrado,ⁿdasi,Zac
+132,day after tomorrow,pasado mañana,isa,Zac
+133,sweet,dulce,biši,Zac
+134,now,ahora,bitĩ,Zac
+135,hole,agujero,yabi,Zac
+136,afraid,tiene miedo,[ⁿdasi]/yuʔbi,Zac
+137,poor,pobre,ⁿdaʔbi,Zac
+138,two,dos,ubi,Zac
+139,scorpion,alacrán,ti sũʔmãʔ,Zac
+140,go out,salir,kee,Zac
+141,paint,pintar,kaʔyu,Zac
+142,rat,rata,tĩĩʔ,Zac
+143,swelling,hinchazón,kʷĩñũ,Zac
+144,pimple,grano,ⁿdiʔi,Zac
+145,it thunders,truena,kãʔⁿdi,Zac
+146,rainbow,arco iris,ko lãʔⁿdi,Zac
+147,bird,pájaro,saa,Zac
+148,frog,rana,[lekʷe],Zac
+149,navel,ombligo,šãⁿdu,Zac
+150,urine,orina,[tata],Zac
+151,chachalaca,chachalaca,lačãʔ,Zac
+152,smooth,lisa,ⁿdiʔbiʔ,Zac
+153,little,chico,[baliʔ],Zac
+154,day,día,kibiʔ,Zac
+155,when,cuándo,ãwã/ⁿda kibiʔ,Zac
+156,plain,llano,[ⁿduʔba],Zac
+157,how,cómo,nãsa/nãha,Zac
+158,carry,cargar,ⁿdiso/kʷisõ,Zac
+159,cockroach,cucaracha,ti taʔya,Zac
+160,glue,pegamento,ⁿdaka,Zac
+161,sickness,enfermedad,kʷweʔe/[ti ⁿdoo],Zac
+162,see,ver,[kuni],Zac
+163,slow,despacio,kʷee,Zac
+164,house,casa,beʔe,Zac
+165,mamey,mamey,ⁿdika čaʔa/ⁿdika kʷaʔa,Zac
+166,grind,moler,ⁿdiko,Zac
+167,wing,ala,ⁿdičĩ,Zac
+168,stool,banquito,tayu,Zac
+169,cornfield,milpa,itu,Zac
+170,yesterday,ayer,iku,Zac
+171,other,otro,tuku,Zac
+172,comb,peine,kʷika,Zac
+173,be born,se nació,kaku,Zac
+174,smart,sabio,[yati],Zac
+175,stone,piedra,yuu,Zac
+176,mouth,boca,yuʔu,Zac
+177,I,yo,*yuʔu,Zac
+178,dew,rocío,yuyuʔ,Zac
+179,brush,hierba,[yuba]/yuku,Zac
+180,furrow,surco,[surku],Zac
+181,trousers,calzón,čatu,Zac
+182,priest,sacerdote,sutu,Zac
+183,brand,fierro,tũnĩ,Zac
+184,will know,sabrá,[koto],Zac
+185,squirrel,ardilla,kʷãñũ,Zac
+186,loose,floja,taya,Zac
+187,heavy,pesado,bee,Zac
+188,tobacco,tobaco,yuku nũũ,Zac
+1,rain,lluvia,sawi,Sayu
+2,agave,maguey,yawi,Sayu
+3,straw mat,petate,yuwi,Sayu
+4,four,cuatro,kũmĩ,Sayu
+5,feather,pluma,tũmĩ,Sayu
+6,tail,cola,sũʔmã,Sayu
+7,wax,cera,ñũmã,Sayu
+8,nose,nariz,šitʸĩ,Sayu
+9,word,palabra,tũʔũ,Sayu
+10,near,está cerca,yatʸĩ,Sayu
+11,tree,árbol,yutũ,Sayu
+12,deer,venado,isu,Sayu
+13,lard,manteca,šãʔã,Sayu
+14,smell,olor,šiko,Sayu
+15,tortilla,tortilla,šita,Sayu
+16,vomits,vomita,ⁿdučã,Sayu
+17,lazy,flojo,suča,Sayu
+18,bed,cama,čito,Sayu
+19,griddle,comal,čiyo,Sayu
+20,sin,culpa,kʷatʸi,Sayu
+21,bean,frijol,ⁿdutʸi,Sayu
+22,water,agua,[ta kʷii],Sayu
+23,river,río,yuta,Sayu
+24,mud,lodo,ⁿdaʔyu,Sayu
+25,man's brother,hermano de h.,yãñĩ,Sayu
+26,three,tres,ũñĩ,Sayu
+27,tooth,diente,nũʔũ,Sayu
+28,five,cinco,ũʔũ,Sayu
+29,bitter,amargo,uwa,Sayu
+30,meat,carne,[sãʔã]/kũñũ,Sayu
+31,red,rojo,kʷaʔa,Sayu
+32,(he) went,se fue,kʷãʔã,Sayu
+33,seven,siete,uča,Sayu
+34,thread,hilo,yuʔwa,Sayu
+35,animal,animal,kiti,Sayu
+36,it finishes,se acaba,ⁿdiʔi,Sayu
+37,egg,blanquillo,ⁿdiwi,Sayu
+38,foam,espuma,ĩñũ,Sayu
+39,blood,sangre,nĩ́ĩ́,Sayu
+40,husband,marido,ii,Sayu
+41,salt,sal,ñĩĩ,Sayu
+42,net bag,red,yũnũ,Sayu
+43,gourd,jícara,yačĩ,Sayu
+44,squash,calabaza,ikĩ,Sayu
+45,coati,tejón coatí,[te šũũ] / [ti mãʔã],Sayu
+46,food,comida,ⁿdayu,Sayu
+47,salty,salado,uʔwa,Sayu
+48,blouse,huipil,šukũ,Sayu
+49,work,trabajo,tʸiñũ,Sayu
+50,cotton,algodón,katʸi,Sayu
+51,wind,viento,tatʸi,Sayu
+52,man,hombre,raa,Sayu
+53,round,redondon,kuta,Sayu
+54,oven,horno,čitũ,Sayu
+55,box / drawer,cajón,čatũ,Sayu
+56,mosquito,zancudo,ti kʷañĩ,Sayu
+57,wait for,esperar,ⁿdatu,Sayu
+58,rotten,podrido,taʔyu,Sayu
+59,grab,agarrar,tĩĩ,Sayu
+60,tendon,tendón,tutʸi,Sayu
+61,blow,soplar,tiwi,Sayu
+62,handspan,cuarta,too,Sayu
+63,owner,dueño,či toʔo,Sayu
+64,lay (egg),poner (huevo),čakĩ,Sayu
+65,big (sg.),grande (sg.),kaʔnũ,Sayu
+66,neck,cuello,sukũ,Sayu
+67,will come,va a venir,kiči,Sayu
+68,horn,cuerno,ⁿdiki,Sayu
+69,snake,culebra,koo,Sayu
+70,ugly,feo,kiñĩ,Sayu
+71,hill,cerro,yuku,Sayu
+72,armadillo,armadillo,yakʷĩ,Sayu
+73,crooked,chueco,yakʷa,Sayu
+74,year,año,kʷiya,Sayu
+75,eyebrow,ceja,sukʷa,Sayu
+76,pus,pus,ⁿdakʷa,Sayu
+77,demon,demonio,kʷĩʔña,Sayu
+78,yellow,amarillo,kʷãã,Sayu
+79,sew,coser,[ⁿdi taa],Sayu
+80,will carry,va a cargar,kʷiso,Sayu
+81,that,aquel,ikã,Sayu
+82,below,abajo,NA,Sayu
+83,all night,toda la noche,nĩñũ,Sayu
+84,hot,caliente,ĩʔñĩ,Sayu
+85,grain of corn,maíz,nũñĩ,Sayu
+86,wall,pared,nãmã,Sayu
+87,early,temprano,nãʔã(ñĩ),Sayu
+88,open,abierto,nũnã,Sayu
+89,eight,ocho,ũnã,Sayu
+90,tomato,jitomate,ti nãnã,Sayu
+91,green bean,ejote,[ⁿdutʸi yuta],Sayu
+92,half,mitad,sawa,Sayu
+93,cane,caña,ⁿdoo,Sayu
+94,clay pot,olla,kisi,Sayu
+95,liquor,aguardiente,ⁿdiši,Sayu
+96,honey,miel,ⁿduši,Sayu
+97,armpit,sobaco,šeʔe,Sayu
+98,tassel,espiga,yókó,Sayu
+99,people,gente,ñĩwi,Sayu
+100,town,pueblo,ñũũ,Sayu
+101,smoke,humo,ñũʔmã,Sayu
+102,eat,comer,čači,Sayu
+103,hawk,gavilán,tasũ,Sayu
+104,truth,verdad,ⁿdiča,Sayu
+105,fire,lumbre,ñũʔũ,Sayu
+106,six,seis,ĩñũ,Sayu
+107,fingernail,uña,tʸĩĩ,Sayu
+108,cornstalk,rastrojo,ñãmã,Sayu
+109,cornmeal,masa,yučã,Sayu
+110,child,hijo,seʔe,Sayu
+111,"cold, phlegm",catarro,sayu,Sayu
+112,good,bueno,waʔa,Sayu
+113,because,porque,NA,Sayu
+114,this one,este mismo,mãã,Sayu
+115,is coming,ya viene,wači,Sayu
+116,trash,basura,mĩʔĩ,Sayu
+117,cat,gato,(mĩču),Sayu
+118,prickly pear,nopal,wĩʔⁿda,Sayu
+119,foot,pie,čaʔa,Sayu
+120,cut,cortar,čaʔⁿda,Sayu
+121,fifteen,quince,čãʔũ,Sayu
+122,guts,tripas,čiti,Sayu
+123,ten,diez,uči,Sayu
+124,cold,frío,wičĩ,Sayu
+125,sandal,huarache,ⁿdičãʔ,Sayu
+126,housepot,horcón,sĩʔĩ,Sayu
+127,name,nombre,siwi,Sayu
+128,cacao,cacao,siʔwa,Sayu
+129,ear,oreja,soʔo,Sayu
+130,tasty,sabroso,asĩ,Sayu
+131,closed,cerrado,ⁿdasi,Sayu
+132,day after tomorrow,pasado mañana,isa,Sayu
+133,sweet,dulce,wiši,Sayu
+134,now,ahora,witʸĩ,Sayu
+135,hole,agujero,yawi,Sayu
+136,afraid,tiene miedo,[ⁿdasi]/yuʔwi,Sayu
+137,poor,pobre,ⁿdaʔwi,Sayu
+138,two,dos,uwi,Sayu
+139,scorpion,alacrán,ti sũʔmã,Sayu
+140,go out,salir,kee,Sayu
+141,paint,pintar,kaʔyu,Sayu
+142,rat,rata,tĩĩ,Sayu
+143,swelling,hinchazón,kʷĩñũ,Sayu
+144,pimple,grano,ⁿdiʔi,Sayu
+145,it thunders,truena,kãʔⁿdi,Sayu
+146,rainbow,arco iris,kʷãⁿdi,Sayu
+147,bird,pájaro,saa,Sayu
+148,frog,rana,[lekʷe],Sayu
+149,navel,ombligo,šãⁿdu,Sayu
+150,urine,orina,[takʷii],Sayu
+151,chachalaca,chachalaca,ⁿdačã,Sayu
+152,smooth,lisa,ⁿdiʔwi,Sayu
+153,little,chico,luʔu,Sayu
+154,day,día,kiwi,Sayu
+155,when,cuándo,ãwã,Sayu
+156,plain,llano,[ⁿduʔwa],Sayu
+157,how,cómo,nã saa,Sayu
+158,carry,cargar,ⁿdiso,Sayu
+159,cockroach,cucaracha,ti tʸeʔe,Sayu
+160,glue,pegamento,ⁿdaka,Sayu
+161,sickness,enfermedad,kʷweʔe,Sayu
+162,see,ver,ⁿdʸeʔe,Sayu
+163,slow,despacio,kʷee,Sayu
+164,house,casa,weʔe,Sayu
+165,mamey,mamey,ⁿdʸika čaʔa,Sayu
+166,grind,moler,ⁿdʸiko,Sayu
+167,wing,ala,ⁿdičĩ,Sayu
+168,stool,banquito,tayu,Sayu
+169,cornfield,milpa,itu,Sayu
+170,yesterday,ayer,iku,Sayu
+171,other,otro,tuku,Sayu
+172,comb,peine,wika,Sayu
+173,be born,se nació,kaku,Sayu
+174,smart,sabio,tuʔwa,Sayu
+175,stone,piedra,yuu,Sayu
+176,mouth,boca,yuʔu,Sayu
+177,I,yo,*yuʔu,Sayu
+178,dew,rocío,[kačĩ],Sayu
+179,brush,hierba,[kuʔu],Sayu
+180,furrow,surco,yukũ,Sayu
+181,trousers,calzón,čatu,Sayu
+182,priest,sacerdote,sutu,Sayu
+183,brand,fierro,tũñĩ,Sayu
+184,will know,sabrá,[koto],Sayu
+185,squirrel,ardilla,kʷãñũ,Sayu
+186,loose,floja,taya,Sayu
+187,heavy,pesado,wee,Sayu
+188,tobacco,tobaco,yuu kũnũ,Sayu
+1,rain,lluvia,(kũũ)sawi,Tept
+2,agave,maguey,yawi,Tept
+3,straw mat,petate,yuwi,Tept
+4,four,cuatro,kũmĩ,Tept
+5,feather,pluma,tũmĩ,Tept
+6,tail,cola,sũʔmã,Tept
+7,wax,cera,ñũmã,Tept
+8,nose,nariz,šitĩ,Tept
+9,word,palabra,tũʔũ,Tept
+10,near,está cerca,yatĩ,Tept
+11,tree,árbol,yutũ,Tept
+12,deer,venado,isu,Tept
+13,lard,manteca,šãʔã,Tept
+14,smell,olor,šiko,Tept
+15,tortilla,tortilla,šita,Tept
+16,vomits,vomita,ⁿdačã,Tept
+17,lazy,flojo,sučã,Tept
+18,bed,cama,čito,Tept
+19,griddle,comal,čiyo,Tept
+20,sin,culpa,kʷati,Tept
+21,bean,frijol,ⁿduti,Tept
+22,water,agua,ⁿduta,Tept
+23,river,río,yuta,Tept
+24,mud,lodo,ⁿdaʔyu,Tept
+25,man's brother,hermano de h.,ñãnĩ,Tept
+26,three,tres,ũnĩ,Tept
+27,tooth,diente,nũʔũ,Tept
+28,five,cinco,ũʔũ,Tept
+29,bitter,amargo,uwa,Tept
+30,meat,carne,[sãʔã],Tept
+31,red,rojo,kʷaʔa,Tept
+32,(he) went,se fue,kʷãʔã,Tept
+33,seven,siete,uča,Tept
+34,thread,hilo,yuʔwa,Tept
+35,animal,animal,kiti,Tept
+36,it finishes,se acaba,ⁿdiʔi,Tept
+37,egg,blanquillo,ⁿdiwi,Tept
+38,foam,espuma,ĩñũ,Tept
+39,blood,sangre,nĩ́ĩ́,Tept
+40,husband,marido,ii,Tept
+41,salt,sal,ñĩĩ,Tept
+42,net bag,red,ñũnũ,Tept
+43,gourd,jícara,yači,Tept
+44,squash,calabaza,ikĩ,Tept
+45,coati,tejón coatí,ii,Tept
+46,food,comida,ⁿdayu,Tept
+47,salty,salado,uʔwa,Tept
+48,blouse,huipil,šikũ/[saʔmã nũũ,Tept
+49,work,trabajo,tiñũ,Tept
+50,cotton,algodón,kati,Tept
+51,wind,viento,tati,Tept
+52,man,hombre,rai,Tept
+53,round,redondon,kuta,Tept
+54,oven,horno,čitũ,Tept
+55,box / drawer,cajón,čatũ,Tept
+56,mosquito,zancudo,ti kʷañĩ,Tept
+57,wait for,esperar,ⁿdatu,Tept
+58,rotten,podrido,taʔyu,Tept
+59,grab,agarrar,tĩĩ,Tept
+60,tendon,tendón,tuti,Tept
+61,blow,soplar,tiwi,Tept
+62,handspan,cuarta,too,Tept
+63,owner,dueño,či toʔo,Tept
+64,lay (egg),poner (huevo),[čati],Tept
+65,big (sg.),grande (sg.),kaʔnũ,Tept
+66,neck,cuello,sukũ,Tept
+67,will come,va a venir,kiči,Tept
+68,horn,cuerno,ⁿdiki,Tept
+69,snake,culebra,koo,Tept
+70,ugly,feo,kinĩ,Tept
+71,hill,cerro,yuku,Tept
+72,armadillo,armadillo,yakʷĩ,Tept
+73,crooked,chueco,yakʷa,Tept
+74,year,año,kʷiya,Tept
+75,eyebrow,ceja,sukʷa,Tept
+76,pus,pus,ⁿdakʷa,Tept
+77,demon,demonio,kʷĩʔnã,Tept
+78,yellow,amarillo,kʷãã,Tept
+79,sew,coser,kiku,Tept
+80,will carry,va a cargar,kʷiso,Tept
+81,that,aquel,ikã,Tept
+82,below,abajo,NA,Tept
+83,all night,toda la noche,nĩñũ,Tept
+84,hot,caliente,ĩʔnĩ,Tept
+85,grain of corn,maíz,nũnĩ,Tept
+86,wall,pared,nãmã,Tept
+87,early,temprano,nãʔã,Tept
+88,open,abierto,nũnã,Tept
+89,eight,ocho,ũnã,Tept
+90,tomato,jitomate,ti nãnã,Tept
+91,green bean,ejote,[ⁿduti yuta),Tept
+92,half,mitad,sawa,Tept
+93,cane,caña,ⁿdoo,Tept
+94,clay pot,olla,kisi,Tept
+95,liquor,aguardiente,ⁿdiši,Tept
+96,honey,miel,ⁿduši,Tept
+97,armpit,sobaco,tiči šeʔe,Tept
+98,tassel,espiga,yòyò,Tept
+99,people,gente,ñĩmĩ/ñĩwi,Tept
+100,town,pueblo,ñũũ,Tept
+101,smoke,humo,ñũʔmã,Tept
+102,eat,comer,čači,Tept
+103,hawk,gavilán,tasũ,Tept
+104,truth,verdad,ⁿdiča,Tept
+105,fire,lumbre,ñũʔũ,Tept
+106,six,seis,ĩñũ,Tept
+107,fingernail,uña,tĩñĩ,Tept
+108,cornstalk,rastrojo,ñãmã,Tept
+109,cornmeal,masa,yučã,Tept
+110,child,hijo,seʔe,Tept
+111,"cold, phlegm",catarro,sayu,Tept
+112,good,bueno,waʔa,Tept
+113,because,porque,ča,Tept
+114,this one,este mismo,mãã,Tept
+115,is coming,ya viene,wači,Tept
+116,trash,basura,(čãʔã),Tept
+117,cat,gato,mĩlu,Tept
+118,prickly pear,nopal,wĩʔⁿda,Tept
+119,foot,pie,čaʔa,Tept
+120,cut,cortar,čaʔⁿda,Tept
+121,fifteen,quince,čãʔũ,Tept
+122,guts,tripas,čiti,Tept
+123,ten,diez,uči,Tept
+124,cold,frío,wičĩ,Tept
+125,sandal,huarache,ⁿdičãʔ,Tept
+126,housepot,horcón,NA,Tept
+127,name,nombre,siwi,Tept
+128,cacao,cacao,siʔwa,Tept
+129,ear,oreja,soʔo,Tept
+130,tasty,sabroso,asĩ,Tept
+131,closed,cerrado,ⁿdasi,Tept
+132,day after tomorrow,pasado mañana,isa,Tept
+133,sweet,dulce,wišĩ,Tept
+134,now,ahora,witĩ,Tept
+135,hole,agujero,yawi,Tept
+136,afraid,tiene miedo,yuʔwi,Tept
+137,poor,pobre,ⁿdaʔwi,Tept
+138,two,dos,uwi,Tept
+139,scorpion,alacrán,ti sũʔmã,Tept
+140,go out,salir,kee,Tept
+141,paint,pintar,kaʔyu,Tept
+142,rat,rata,tĩñĩ,Tept
+143,swelling,hinchazón,kʷĩñũ,Tept
+144,pimple,grano,ⁿdiʔi,Tept
+145,it thunders,truena,kãʔⁿdi,Tept
+146,rainbow,arco iris,ku yõʔⁿdi,Tept
+147,bird,pájaro,saa,Tept
+148,frog,rana,saʔwa,Tept
+149,navel,ombligo,šãⁿdu,Tept
+150,urine,orina,čaša,Tept
+151,chachalaca,chachalaca,ⁿdačã,Tept
+152,smooth,lisa,ⁿdiʔwi/ⁿdii,Tept
+153,little,chico,luʔu,Tept
+154,day,día,kiwi,Tept
+155,when,cuándo,ãwã,Tept
+156,plain,llano,yoso,Tept
+157,how,cómo,nasa/naha,Tept
+158,carry,cargar,ⁿdiso,Tept
+159,cockroach,cucaracha,ti taʔya,Tept
+160,glue,pegamento,ⁿdaka,Tept
+161,sickness,enfermedad,kʷweʔe,Tept
+162,see,ver,ⁿdeʔe,Tept
+163,slow,despacio,kʷee,Tept
+164,house,casa,weʔe,Tept
+165,mamey,mamey,ⁿdika čaʔa,Tept
+166,grind,moler,ⁿdiko,Tept
+167,wing,ala,ⁿdičĩ,Tept
+168,stool,banquito,tayu,Tept
+169,cornfield,milpa,itu,Tept
+170,yesterday,ayer,iku,Tept
+171,other,otro,tuku,Tept
+172,comb,peine,kuka,Tept
+173,be born,se nació,kaku,Tept
+174,smart,sabio,tuʔwa,Tept
+175,stone,piedra,yuu,Tept
+176,mouth,boca,yuʔu,Tept
+177,I,yo,*yuʔu,Tept
+178,dew,rocío,[kačĩ],Tept
+179,brush,hierba,[kuʔu]/[yuwa],Tept
+180,furrow,surco,yukũ,Tept
+181,trousers,calzón,čatu,Tept
+182,priest,sacerdote,sutu,Tept
+183,brand,fierro,tũnĩ,Tept
+184,will know,sabrá,[koto/ⁿdeʔe],Tept
+185,squirrel,ardilla,kʷãñũ,Tept
+186,loose,floja,ⁿdu taya,Tept
+187,heavy,pesado,wee,Tept
+188,tobacco,tobaco,ĩnũ,Tept
+1,rain,lluvia,sawi,Atoy
+2,agave,maguey,yawi,Atoy
+3,straw mat,petate,yuwi,Atoy
+4,four,cuatro,kũmĩ,Atoy
+5,feather,pluma,tũmĩ,Atoy
+6,tail,cola,sũʔmã,Atoy
+7,wax,cera,yũmã,Atoy
+8,nose,nariz,šitĩ,Atoy
+9,word,palabra,tũʔũ,Atoy
+10,near,está cerca,yatĩ,Atoy
+11,tree,árbol,yutũ,Atoy
+12,deer,venado,isu,Atoy
+13,lard,manteca,šãʔã,Atoy
+14,smell,olor,šiko,Atoy
+15,tortilla,tortilla,šita,Atoy
+16,vomits,vomita,ⁿdučã,Atoy
+17,lazy,flojo,hučã,Atoy
+18,bed,cama,čito,Atoy
+19,griddle,comal,čiyo,Atoy
+20,sin,culpa,kʷati,Atoy
+21,bean,frijol,ⁿduti,Atoy
+22,water,agua,ⁿduta,Atoy
+23,river,río,yuta,Atoy
+24,mud,lodo,ⁿdaʔyu,Atoy
+25,man's brother,hermano de h.,yãnĩ,Atoy
+26,three,tres,ũnĩ,Atoy
+27,tooth,diente,nũʔũ,Atoy
+28,five,cinco,ũʔũ,Atoy
+29,bitter,amargo,uwa,Atoy
+30,meat,carne,[sãʔã]/kõñõ,Atoy
+31,red,rojo,kʷaʔa,Atoy
+32,(he) went,se fue,kʷãʔã,Atoy
+33,seven,siete,uča,Atoy
+34,thread,hilo,yuʔwa,Atoy
+35,animal,animal,kiti,Atoy
+36,it finishes,se acaba,ⁿdiʔi,Atoy
+37,egg,blanquillo,ⁿdiwi,Atoy
+38,foam,espuma,ĩñũ,Atoy
+39,blood,sangre,nĩñĩ,Atoy
+40,husband,marido,ii,Atoy
+41,salt,sal,ñĩĩ,Atoy
+42,net bag,red,yũnũ,Atoy
+43,gourd,jícara,yačĩ,Atoy
+44,squash,calabaza,ikĩ,Atoy
+45,coati,tejón coatí,ii,Atoy
+46,food,comida,ⁿdayu,Atoy
+47,salty,salado,uʔwa,Atoy
+48,blouse,huipil,šiku,Atoy
+49,work,trabajo,tiñũ,Atoy
+50,cotton,algodón,kati,Atoy
+51,wind,viento,tati,Atoy
+52,man,hombre,rai,Atoy
+53,round,redondon,kuta,Atoy
+54,oven,horno,čitũ,Atoy
+55,box / drawer,cajón,čatũ,Atoy
+56,mosquito,zancudo,ti kʷañĩ,Atoy
+57,wait for,esperar,ⁿdatu,Atoy
+58,rotten,podrido,taʔyu,Atoy
+59,grab,agarrar,tĩĩ,Atoy
+60,tendon,tendón,tuti,Atoy
+61,blow,soplar,tiwi,Atoy
+62,handspan,cuarta,too,Atoy
+63,owner,dueño,či toʔo,Atoy
+64,lay (egg),poner (huevo),[čati],Atoy
+65,big (sg.),grande (sg.),kaʔnũ,Atoy
+66,neck,cuello,sukũ,Atoy
+67,will come,va a venir,kiči,Atoy
+68,horn,cuerno,ⁿdiki,Atoy
+69,snake,culebra,koo,Atoy
+70,ugly,feo,kinĩ,Atoy
+71,hill,cerro,yuku,Atoy
+72,armadillo,armadillo,yakʷi,Atoy
+73,crooked,chueco,yakʷa,Atoy
+74,year,año,kʷiya,Atoy
+75,eyebrow,ceja,sikʷa,Atoy
+76,pus,pus,lakʷa,Atoy
+77,demon,demonio,kʷĩʔnã,Atoy
+78,yellow,amarillo,kʷãã,Atoy
+79,sew,coser,kiku,Atoy
+80,will carry,va a cargar,kʷiso,Atoy
+81,that,aquel,ikã,Atoy
+82,below,abajo,NA,Atoy
+83,all night,toda la noche,nĩñũ,Atoy
+84,hot,caliente,ĩʔnĩ,Atoy
+85,grain of corn,maíz,nũnĩ,Atoy
+86,wall,pared,nãmã,Atoy
+87,early,temprano,[sa tãã]/nãʔã,Atoy
+88,open,abierto,nũnã,Atoy
+89,eight,ocho,ũnã,Atoy
+90,tomato,jitomate,ti nãnã,Atoy
+91,green bean,ejote,[ⁿduti],Atoy
+92,half,mitad,sawa,Atoy
+93,cane,caña,ⁿdoo,Atoy
+94,clay pot,olla,kisi,Atoy
+95,liquor,aguardiente,ⁿdiši,Atoy
+96,honey,miel,ⁿduši,Atoy
+97,armpit,sobaco,či šeʔe,Atoy
+98,tassel,espiga,yoko,Atoy
+99,people,gente,ñĩwi,Atoy
+100,town,pueblo,ñũũ,Atoy
+101,smoke,humo,yũʔmã,Atoy
+102,eat,comer,čači,Atoy
+103,hawk,gavilán,tasũ,Atoy
+104,truth,verdad,[ⁿdaa]/ⁿdiča,Atoy
+105,fire,lumbre,ñũʔũ,Atoy
+106,six,seis,ĩñũ,Atoy
+107,fingernail,uña,tĩñĩ,Atoy
+108,cornstalk,rastrojo,yãmã,Atoy
+109,cornmeal,masa,yučã,Atoy
+110,child,hijo,seʔe,Atoy
+111,"cold, phlegm",catarro,sayu,Atoy
+112,good,bueno,waʔa,Atoy
+113,because,porque,ti,Atoy
+114,this one,este mismo,mãã,Atoy
+115,is coming,ya viene,wači,Atoy
+116,trash,basura,mĩʔĩ,Atoy
+117,cat,gato,(mĩču)/milu/(čumĩ),Atoy
+118,prickly pear,nopal,wĩʔⁿda,Atoy
+119,foot,pie,čaʔa,Atoy
+120,cut,cortar,čaʔⁿda,Atoy
+121,fifteen,quince,čãʔũ,Atoy
+122,guts,tripas,čiti,Atoy
+123,ten,diez,uči,Atoy
+124,cold,frío,wičĩ,Atoy
+125,sandal,huarache,ⁿdičãʔ,Atoy
+126,housepot,horcón,sĩʔĩ,Atoy
+127,name,nombre,siwi,Atoy
+128,cacao,cacao,siʔwa,Atoy
+129,ear,oreja,soʔo,Atoy
+130,tasty,sabroso,asĩ,Atoy
+131,closed,cerrado,NA,Atoy
+132,day after tomorrow,pasado mañana,isa,Atoy
+133,sweet,dulce,wašĩ,Atoy
+134,now,ahora,witĩ,Atoy
+135,hole,agujero,yawi,Atoy
+136,afraid,tiene miedo,yuʔwi,Atoy
+137,poor,pobre,ⁿdaʔwi,Atoy
+138,two,dos,uwi,Atoy
+139,scorpion,alacrán,ti sũʔmã,Atoy
+140,go out,salir,[keta],Atoy
+141,paint,pintar,kaʔyu,Atoy
+142,rat,rata,tĩñĩ,Atoy
+143,swelling,hinchazón,[ⁿdaa]/kʷĩñũ,Atoy
+144,pimple,grano,ⁿdiʔi,Atoy
+145,it thunders,truena,[šii],Atoy
+146,rainbow,arco iris,ku yõʔⁿdi,Atoy
+147,bird,pájaro,saa,Atoy
+148,frog,rana,saʔwa,Atoy
+149,navel,ombligo,šãⁿdu,Atoy
+150,urine,orina,ⁿduta čaša,Atoy
+151,chachalaca,chachalaca,ⁿdačã,Atoy
+152,smooth,lisa,ⁿdiʔwi/ⁿdii,Atoy
+153,little,chico,luʔu,Atoy
+154,day,día,kiwi,Atoy
+155,when,cuándo,ãwã,Atoy
+156,plain,llano,[ⁿduʔwa],Atoy
+157,how,cómo,nohõ,Atoy
+158,carry,cargar,ⁿdiso,Atoy
+159,cockroach,cucaracha,[ti kuka],Atoy
+160,glue,pegamento,ⁿdaka,Atoy
+161,sickness,enfermedad,kʷweʔe,Atoy
+162,see,ver,ⁿdeʔe,Atoy
+163,slow,despacio,kʷee,Atoy
+164,house,casa,weʔe,Atoy
+165,mamey,mamey,ⁿdika čaʔa,Atoy
+166,grind,moler,ⁿdiko,Atoy
+167,wing,ala,ⁿdičĩ/[soko],Atoy
+168,stool,banquito,tayu,Atoy
+169,cornfield,milpa,itu,Atoy
+170,yesterday,ayer,iku,Atoy
+171,other,otro,tuku,Atoy
+172,comb,peine,kuka,Atoy
+173,be born,se nació,kaku,Atoy
+174,smart,sabio,ku tuʔwa,Atoy
+175,stone,piedra,yuu,Atoy
+176,mouth,boca,yuʔu,Atoy
+177,I,yo,*yuʔu,Atoy
+178,dew,rocío,NA,Atoy
+179,brush,hierba,yuku,Atoy
+180,furrow,surco,yukũ,Atoy
+181,trousers,calzón,čatu,Atoy
+182,priest,sacerdote,sutu,Atoy
+183,brand,fierro,tũnĩ,Atoy
+184,will know,sabrá,[koto],Atoy
+185,squirrel,ardilla,kʷãñũ,Atoy
+186,loose,floja,taya,Atoy
+187,heavy,pesado,wee,Atoy
+188,tobacco,tobaco,ĩnũ,Atoy
+1,rain,lluvia,sabi,Jicy
+2,agave,maguey,yabi,Jicy
+3,straw mat,petate,yubi,Jicy
+4,four,cuatro,kũmĩ,Jicy
+5,feather,pluma,tũmĩ,Jicy
+6,tail,cola,sũʔmã,Jicy
+7,wax,cera,yũmã,Jicy
+8,nose,nariz,šitĩ,Jicy
+9,word,palabra,tũʔũ,Jicy
+10,near,está cerca,yatĩ,Jicy
+11,tree,árbol,yutũ,Jicy
+12,deer,venado,isu,Jicy
+13,lard,manteca,šãʔã,Jicy
+14,smell,olor,šiko,Jicy
+15,tortilla,tortilla,šita,Jicy
+16,vomits,vomita,ⁿduča,Jicy
+17,lazy,flojo,sučã,Jicy
+18,bed,cama,čito,Jicy
+19,griddle,comal,čiyo,Jicy
+20,sin,culpa,kʷati,Jicy
+21,bean,frijol,ⁿduti,Jicy
+22,water,agua,ⁿduta,Jicy
+23,river,río,yuta,Jicy
+24,mud,lodo,ⁿdaʔyu,Jicy
+25,man's brother,hermano de h.,yãnĩ,Jicy
+26,three,tres,ũnĩ,Jicy
+27,tooth,diente,nũʔũ,Jicy
+28,five,cinco,ũʔũ,Jicy
+29,bitter,amargo,uba,Jicy
+30,meat,carne,kũñũ,Jicy
+31,red,rojo,kʷaʔa,Jicy
+32,(he) went,se fue,kʷãʔã,Jicy
+33,seven,siete,uča,Jicy
+34,thread,hilo,yuʔwa,Jicy
+35,animal,animal,kiti,Jicy
+36,it finishes,se acaba,ⁿdiʔi,Jicy
+37,egg,blanquillo,ⁿdibi,Jicy
+38,foam,espuma,ĩñũ,Jicy
+39,blood,sangre,nĩñĩ,Jicy
+40,husband,marido,ii,Jicy
+41,salt,sal,ñĩĩ,Jicy
+42,net bag,red,yõnõ,Jicy
+43,gourd,jícara,yačĩ,Jicy
+44,squash,calabaza,ikĩ,Jicy
+45,coati,tejón coatí,ii,Jicy
+46,food,comida,ⁿdayu,Jicy
+47,salty,salado,uʔba,Jicy
+48,blouse,huipil,šiku,Jicy
+49,work,trabajo,tiñũ,Jicy
+50,cotton,algodón,kati,Jicy
+51,wind,viento,tati,Jicy
+52,man,hombre,rai,Jicy
+53,round,redondon,kuta,Jicy
+54,oven,horno,NA,Jicy
+55,box / drawer,cajón,čatũ,Jicy
+56,mosquito,zancudo,ti kʷañĩ,Jicy
+57,wait for,esperar,ⁿdatu,Jicy
+58,rotten,podrido,taʔyu,Jicy
+59,grab,agarrar,tĩĩ,Jicy
+60,tendon,tendón,tuti,Jicy
+61,blow,soplar,tibi,Jicy
+62,handspan,cuarta,too,Jicy
+63,owner,dueño,či toʔo,Jicy
+64,lay (egg),poner (huevo),[čati],Jicy
+65,big (sg.),grande (sg.),kaʔnũ,Jicy
+66,neck,cuello,hukũ,Jicy
+67,will come,va a venir,kiči,Jicy
+68,horn,cuerno,ⁿdiki,Jicy
+69,snake,culebra,koo,Jicy
+70,ugly,feo,kinĩ kaa,Jicy
+71,hill,cerro,yuku,Jicy
+72,armadillo,armadillo,yakʷĩ,Jicy
+73,crooked,chueco,yakʷa,Jicy
+74,year,año,kʷiya,Jicy
+75,eyebrow,ceja,sukʷa,Jicy
+76,pus,pus,ⁿdakʷa,Jicy
+77,demon,demonio,kʷĩʔnã,Jicy
+78,yellow,amarillo,kʷãã,Jicy
+79,sew,coser,kiku,Jicy
+80,will carry,va a cargar,kʷiso,Jicy
+81,that,aquel,ikã,Jicy
+82,below,abajo,nĩnũ,Jicy
+83,all night,toda la noche,nĩñũ,Jicy
+84,hot,caliente,ĩʔnĩ,Jicy
+85,grain of corn,maíz,nũnĩ,Jicy
+86,wall,pared,nãmã/[ⁿdika],Jicy
+87,early,temprano,nãʔã,Jicy
+88,open,abierto,nũnã,Jicy
+89,eight,ocho,ũnã,Jicy
+90,tomato,jitomate,ti nãnã,Jicy
+91,green bean,ejote,[ⁿduti],Jicy
+92,half,mitad,saba,Jicy
+93,cane,caña,ⁿdoo,Jicy
+94,clay pot,olla,kisi,Jicy
+95,liquor,aguardiente,ⁿdiši,Jicy
+96,honey,miel,ⁿduši,Jicy
+97,armpit,sobaco,či šeʔe,Jicy
+98,tassel,espiga,yoko,Jicy
+99,people,gente,ñĩbi,Jicy
+100,town,pueblo,ñũũ,Jicy
+101,smoke,humo,yũʔmã,Jicy
+102,eat,comer,čači,Jicy
+103,hawk,gavilán,tasu,Jicy
+104,truth,verdad,ⁿdiča,Jicy
+105,fire,lumbre,ñũʔũ,Jicy
+106,six,seis,ĩñũ,Jicy
+107,fingernail,uña,tĩñĩ,Jicy
+108,cornstalk,rastrojo,yãmã,Jicy
+109,cornmeal,masa,yučã,Jicy
+110,child,hijo,seʔe,Jicy
+111,"cold, phlegm",catarro,sayu,Jicy
+112,good,bueno,baʔa,Jicy
+113,because,porque,NA,Jicy
+114,this one,este mismo,mãã,Jicy
+115,is coming,ya viene,bači,Jicy
+116,trash,basura,(čãʔã),Jicy
+117,cat,gato,(mĩtu),Jicy
+118,prickly pear,nopal,bĩʔⁿda,Jicy
+119,foot,pie,čaʔa,Jicy
+120,cut,cortar,čaʔⁿda,Jicy
+121,fifteen,quince,čãʔũ,Jicy
+122,guts,tripas,čiti,Jicy
+123,ten,diez,uči,Jicy
+124,cold,frío,bičĩ,Jicy
+125,sandal,huarache,ⁿdičãʔ,Jicy
+126,housepot,horcón,sĩʔĩ,Jicy
+127,name,nombre,sibi,Jicy
+128,cacao,cacao,čikula/siʔba,Jicy
+129,ear,oreja,soʔo,Jicy
+130,tasty,sabroso,asi,Jicy
+131,closed,cerrado,ⁿdaki,Jicy
+132,day after tomorrow,pasado mañana,isa,Jicy
+133,sweet,dulce,bišĩ,Jicy
+134,now,ahora,bitĩ,Jicy
+135,hole,agujero,yabi,Jicy
+136,afraid,tiene miedo,yuʔbi,Jicy
+137,poor,pobre,ⁿdaʔbi,Jicy
+138,two,dos,ubi,Jicy
+139,scorpion,alacrán,ti sũʔmã,Jicy
+140,go out,salir,kee,Jicy
+141,paint,pintar,kaʔyu,Jicy
+142,rat,rata,tĩñĩ,Jicy
+143,swelling,hinchazón,kʷĩñũ,Jicy
+144,pimple,grano,ⁿdiʔi,Jicy
+145,it thunders,truena,kãʔⁿdi,Jicy
+146,rainbow,arco iris,[ko ⁿdãʔyo],Jicy
+147,bird,pájaro,saa,Jicy
+148,frog,rana,saʔba,Jicy
+149,navel,ombligo,šãⁿdu,Jicy
+150,urine,orina,čaša (tata),Jicy
+151,chachalaca,chachalaca,ⁿdačã,Jicy
+152,smooth,lisa,ⁿdiʔbi/ⁿdii,Jicy
+153,little,chico,luʔu,Jicy
+154,day,día,kibi,Jicy
+155,when,cuándo,ãwã,Jicy
+156,plain,llano,[ⁿduʔba],Jicy
+157,how,cómo,ñãã,Jicy
+158,carry,cargar,ⁿdiso,Jicy
+159,cockroach,cucaracha,ti taʔya,Jicy
+160,glue,pegamento,ⁿdaka,Jicy
+161,sickness,enfermedad,kʷweʔe,Jicy
+162,see,ver,ⁿdeʔe,Jicy
+163,slow,despacio,kʷee,Jicy
+164,house,casa,beʔe,Jicy
+165,mamey,mamey,ⁿdika čaʔa,Jicy
+166,grind,moler,ⁿdiko,Jicy
+167,wing,ala,ⁿdičĩ,Jicy
+168,stool,banquito,tayu,Jicy
+169,cornfield,milpa,itu,Jicy
+170,yesterday,ayer,iku,Jicy
+171,other,otro,tuku,Jicy
+172,comb,peine,kuka,Jicy
+173,be born,se nació,kaku,Jicy
+174,smart,sabio,tuʔba,Jicy
+175,stone,piedra,yuu,Jicy
+176,mouth,boca,yuʔu,Jicy
+177,I,yo,*yuʔu,Jicy
+178,dew,rocío,[kačĩ],Jicy
+179,brush,hierba,yuku,Jicy
+180,furrow,surco,yukũ,Jicy
+181,trousers,calzón,čatu,Jicy
+182,priest,sacerdote,sutu,Jicy
+183,brand,fierro,tũnĩ,Jicy
+184,will know,sabrá,[ⁿdeʔe],Jicy
+185,squirrel,ardilla,la kʷãñũ,Jicy
+186,loose,floja,taya,Jicy
+187,heavy,pesado,bee,Jicy
+188,tobacco,tobaco,ĩnũ,Jicy
+1,rain,lluvia,sabi,Jict
+2,agave,maguey,yabi,Jict
+3,straw mat,petate,yubi,Jict
+4,four,cuatro,kũmĩ,Jict
+5,feather,pluma,tũmĩ,Jict
+6,tail,cola,sũʔmã,Jict
+7,wax,cera,yũmã,Jict
+8,nose,nariz,šitĩ,Jict
+9,word,palabra,tũʔũ,Jict
+10,near,está cerca,yatĩ,Jict
+11,tree,árbol,yutũ,Jict
+12,deer,venado,isu,Jict
+13,lard,manteca,šãʔã,Jict
+14,smell,olor,šiko,Jict
+15,tortilla,tortilla,šita,Jict
+16,vomits,vomita,ⁿduča,Jict
+17,lazy,flojo,sučã,Jict
+18,bed,cama,čito,Jict
+19,griddle,comal,čiyo,Jict
+20,sin,culpa,kʷati,Jict
+21,bean,frijol,ⁿduti,Jict
+22,water,agua,ⁿduta,Jict
+23,river,río,yuta,Jict
+24,mud,lodo,ⁿdaʔyu,Jict
+25,man's brother,hermano de h.,yãnĩ,Jict
+26,three,tres,ũnĩ,Jict
+27,tooth,diente,nũʔũ,Jict
+28,five,cinco,ũʔũ,Jict
+29,bitter,amargo,uba,Jict
+30,meat,carne,kũñũ,Jict
+31,red,rojo,kʷaʔa,Jict
+32,(he) went,se fue,kʷãʔã,Jict
+33,seven,siete,uča,Jict
+34,thread,hilo,yuʔba,Jict
+35,animal,animal,kiti,Jict
+36,it finishes,se acaba,ⁿdiʔi,Jict
+37,egg,blanquillo,ⁿdibi,Jict
+38,foam,espuma,ĩñũ,Jict
+39,blood,sangre,nĩñĩ,Jict
+40,husband,marido,ii,Jict
+41,salt,sal,ñĩĩ,Jict
+42,net bag,red,yũnũ,Jict
+43,gourd,jícara,yačĩ,Jict
+44,squash,calabaza,ikĩ,Jict
+45,coati,tejón coatí,ii,Jict
+46,food,comida,NA,Jict
+47,salty,salado,uʔba,Jict
+48,blouse,huipil,šiku,Jict
+49,work,trabajo,tiñũ,Jict
+50,cotton,algodón,kati,Jict
+51,wind,viento,tati,Jict
+52,man,hombre,rai,Jict
+53,round,redondon,kuta,Jict
+54,oven,horno,čitũ,Jict
+55,box / drawer,cajón,čatũ,Jict
+56,mosquito,zancudo,ti kʷañĩ,Jict
+57,wait for,esperar,ⁿdatu,Jict
+58,rotten,podrido,taʔyu,Jict
+59,grab,agarrar,tĩĩ,Jict
+60,tendon,tendón,tuti,Jict
+61,blow,soplar,tibi,Jict
+62,handspan,cuarta,too,Jict
+63,owner,dueño,či toʔo,Jict
+64,lay (egg),poner (huevo),[čati],Jict
+65,big (sg.),grande (sg.),kaʔnũ,Jict
+66,neck,cuello,sukũ,Jict
+67,will come,va a venir,kiči,Jict
+68,horn,cuerno,ⁿdiki,Jict
+69,snake,culebra,koo,Jict
+70,ugly,feo,kinĩ,Jict
+71,hill,cerro,yuku,Jict
+72,armadillo,armadillo,yakʷĩ,Jict
+73,crooked,chueco,yakʷa,Jict
+74,year,año,kʷiya,Jict
+75,eyebrow,ceja,sukʷa,Jict
+76,pus,pus,ⁿdakʷa,Jict
+77,demon,demonio,kʷĩʔnã,Jict
+78,yellow,amarillo,kʷãã,Jict
+79,sew,coser,kiku,Jict
+80,will carry,va a cargar,kʷiso,Jict
+81,that,aquel,ikã,Jict
+82,below,abajo,nĩnũ,Jict
+83,all night,toda la noche,nĩñũ,Jict
+84,hot,caliente,ĩʔnĩ,Jict
+85,grain of corn,maíz,nũnĩ,Jict
+86,wall,pared,nãmã,Jict
+87,early,temprano,nãʔã,Jict
+88,open,abierto,nũnã,Jict
+89,eight,ocho,ũnã,Jict
+90,tomato,jitomate,ti nãnã,Jict
+91,green bean,ejote,ⁿditi,Jict
+92,half,mitad,saba,Jict
+93,cane,caña,ⁿdoo,Jict
+94,clay pot,olla,kisi,Jict
+95,liquor,aguardiente,ⁿdiši,Jict
+96,honey,miel,ⁿduši,Jict
+97,armpit,sobaco,šeʔe,Jict
+98,tassel,espiga,yoko,Jict
+99,people,gente,ñĩbi,Jict
+100,town,pueblo,ñũũ,Jict
+101,smoke,humo,yũʔmã,Jict
+102,eat,comer,čači,Jict
+103,hawk,gavilán,tasũ,Jict
+104,truth,verdad,ⁿdiča,Jict
+105,fire,lumbre,ñũʔũ,Jict
+106,six,seis,ĩñũ,Jict
+107,fingernail,uña,tĩñũ,Jict
+108,cornstalk,rastrojo,yãmã,Jict
+109,cornmeal,masa,yučã,Jict
+110,child,hijo,seʔe,Jict
+111,"cold, phlegm",catarro,sayu,Jict
+112,good,bueno,baʔa,Jict
+113,because,porque,bati,Jict
+114,this one,este mismo,mãã,Jict
+115,is coming,ya viene,bači,Jict
+116,trash,basura,mĩʔĩ,Jict
+117,cat,gato,(mĩstu),Jict
+118,prickly pear,nopal,bĩʔⁿda,Jict
+119,foot,pie,čaʔa,Jict
+120,cut,cortar,čaʔⁿda,Jict
+121,fifteen,quince,čãʔũ,Jict
+122,guts,tripas,čiti,Jict
+123,ten,diez,uči,Jict
+124,cold,frío,bičĩ,Jict
+125,sandal,huarache,ⁿdičãʔ,Jict
+126,housepot,horcón,sĩʔĩ,Jict
+127,name,nombre,sibi,Jict
+128,cacao,cacao,siʔba/čikula,Jict
+129,ear,oreja,soʔo,Jict
+130,tasty,sabroso,asĩ,Jict
+131,closed,cerrado,ⁿdasi,Jict
+132,day after tomorrow,pasado mañana,isa,Jict
+133,sweet,dulce,biši,Jict
+134,now,ahora,[yatĩ],Jict
+135,hole,agujero,yabi,Jict
+136,afraid,tiene miedo,yuʔbi,Jict
+137,poor,pobre,ⁿdaʔbi,Jict
+138,two,dos,ubi,Jict
+139,scorpion,alacrán,ti sũʔmã,Jict
+140,go out,salir,kee,Jict
+141,paint,pintar,kaʔyu,Jict
+142,rat,rata,tĩñĩ,Jict
+143,swelling,hinchazón,kʷĩñũ,Jict
+144,pimple,grano,ⁿdiʔi,Jict
+145,it thunders,truena,kãʔⁿdi,Jict
+146,rainbow,arco iris,ko yõʔⁿdi,Jict
+147,bird,pájaro,saa,Jict
+148,frog,rana,saʔba,Jict
+149,navel,ombligo,šãⁿdu,Jict
+150,urine,orina,čaša,Jict
+151,chachalaca,chachalaca,ⁿdačã,Jict
+152,smooth,lisa,ⁿdii/ⁿdiʔbi,Jict
+153,little,chico,luʔu,Jict
+154,day,día,kibi,Jict
+155,when,cuándo,ãwã,Jict
+156,plain,llano,[ⁿduʔba],Jict
+157,how,cómo,ñãã,Jict
+158,carry,cargar,ⁿdiso,Jict
+159,cockroach,cucaracha,ti teʔe,Jict
+160,glue,pegamento,ⁿdaka,Jict
+161,sickness,enfermedad,kʷweʔe,Jict
+162,see,ver,ⁿdeʔe,Jict
+163,slow,despacio,kʷee,Jict
+164,house,casa,beʔe,Jict
+165,mamey,mamey,NA,Jict
+166,grind,moler,ⁿdiko,Jict
+167,wing,ala,ⁿdičĩ,Jict
+168,stool,banquito,tayu,Jict
+169,cornfield,milpa,itu,Jict
+170,yesterday,ayer,iku,Jict
+171,other,otro,tuku,Jict
+172,comb,peine,kuka,Jict
+173,be born,se nació,kaku,Jict
+174,smart,sabio,tuʔba,Jict
+175,stone,piedra,yuu,Jict
+176,mouth,boca,yuʔu,Jict
+177,I,yo,*yuʔu,Jict
+178,dew,rocío,[kačĩ],Jict
+179,brush,hierba,yuku,Jict
+180,furrow,surco,yuku,Jict
+181,trousers,calzón,čatu,Jict
+182,priest,sacerdote,sutu,Jict
+183,brand,fierro,tũnĩ,Jict
+184,will know,sabrá,[koto],Jict
+185,squirrel,ardilla,kʷãñũ,Jict
+186,loose,floja,taya,Jict
+187,heavy,pesado,bee,Jict
+188,tobacco,tobaco,ĩnũ,Jict
+1,rain,lluvia,sabi,PinN
+2,agave,maguey,yabi,PinN
+3,straw mat,petate,yuwi/yui,PinN
+4,four,cuatro,kũmĩ,PinN
+5,feather,pluma,tũmĩ,PinN
+6,tail,cola,sũʔmã,PinN
+7,wax,cera,yũmã,PinN
+8,nose,nariz,šiti,PinN
+9,word,palabra,tũʔũ,PinN
+10,near,está cerca,[tĩʔa]/yati,PinN
+11,tree,árbol,yutu,PinN
+12,deer,venado,isu,PinN
+13,lard,manteca,šãʔã,PinN
+14,smell,olor,šiko,PinN
+15,tortilla,tortilla,šita,PinN
+16,vomits,vomita,ⁿduča,PinN
+17,lazy,flojo,suča,PinN
+18,bed,cama,čito,PinN
+19,griddle,comal,čio,PinN
+20,sin,culpa,kʷati,PinN
+21,bean,frijol,ⁿduti,PinN
+22,water,agua,ⁿduta,PinN
+23,river,río,yuta,PinN
+24,mud,lodo,ⁿdaʔyu,PinN
+25,man's brother,hermano de h.,yãnĩ,PinN
+26,three,tres,ũnĩ,PinN
+27,tooth,diente,nũʔũ,PinN
+28,five,cinco,ũʔũ,PinN
+29,bitter,amargo,ua,PinN
+30,meat,carne,kũñũ,PinN
+31,red,rojo,kʷaʔa,PinN
+32,(he) went,se fue,kʷãʔã,PinN
+33,seven,siete,uča,PinN
+34,thread,hilo,yuʔa,PinN
+35,animal,animal,kiti (kuʔu),PinN
+36,it finishes,se acaba,ⁿdiʔi,PinN
+37,egg,blanquillo,ⁿdibi,PinN
+38,foam,espuma,ĩñũ,PinN
+39,blood,sangre,nĩñĩ,PinN
+40,husband,marido,ii,PinN
+41,salt,sal,ñĩĩ,PinN
+42,net bag,red,yũnũ,PinN
+43,gourd,jícara,žači/yači,PinN
+44,squash,calabaza,iki,PinN
+45,coati,tejón coatí,ii,PinN
+46,food,comida,ⁿdayu,PinN
+47,salty,salado,NA,PinN
+48,blouse,huipil,NA,PinN
+49,work,trabajo,tiñũ,PinN
+50,cotton,algodón,kati,PinN
+51,wind,viento,tati,PinN
+52,man,hombre,rai,PinN
+53,round,redondon,kuta,PinN
+54,oven,horno,čitu,PinN
+55,box / drawer,cajón,čatu,PinN
+56,mosquito,zancudo,ti kʷañĩ,PinN
+57,wait for,esperar,ⁿdatu,PinN
+58,rotten,podrido,taʔžu / taʔyu,PinN
+59,grab,agarrar,tĩĩ,PinN
+60,tendon,tendón,tuti,PinN
+61,blow,soplar,tibi,PinN
+62,handspan,cuarta,too,PinN
+63,owner,dueño,či toʔo,PinN
+64,lay (egg),poner (huevo),[čati],PinN
+65,big (sg.),grande (sg.),kaʔnũ,PinN
+66,neck,cuello,suku,PinN
+67,will come,va a venir,ba(ki)či,PinN
+68,horn,cuerno,ⁿdiki,PinN
+69,snake,culebra,koo,PinN
+70,ugly,feo,[ⁿdasi]/kinĩ,PinN
+71,hill,cerro,yuku/žuku,PinN
+72,armadillo,armadillo,yakʷi,PinN
+73,crooked,chueco,yakʷa,PinN
+74,year,año,kʷia,PinN
+75,eyebrow,ceja,(iši)sukʷa,PinN
+76,pus,pus,ⁿdakʷa,PinN
+77,demon,demonio,kʷĩʔnã,PinN
+78,yellow,amarillo,kʷãã,PinN
+79,sew,coser,kiku,PinN
+80,will carry,va a cargar,kʷiso,PinN
+81,that,aquel,ikã,PinN
+82,below,abajo,nĩnũ/[ⁿdašu],PinN
+83,all night,toda la noche,nĩñũ/[ča kʷaʔa],PinN
+84,hot,caliente,ĩʔnĩ,PinN
+85,grain of corn,maíz,nũnĩ,PinN
+86,wall,pared,[ča beʔe]/nãmã,PinN
+87,early,temprano,(ⁿda)nãʔã,PinN
+88,open,abierto,nũnã,PinN
+89,eight,ocho,ũnã,PinN
+90,tomato,jitomate,ti nãnã,PinN
+91,green bean,ejote,ⁿditi,PinN
+92,half,mitad,saba,PinN
+93,cane,caña,ⁿdoo,PinN
+94,clay pot,olla,kisi,PinN
+95,liquor,aguardiente,ⁿdiši,PinN
+96,honey,miel,[ñũñũ],PinN
+97,armpit,sobaco,ti šeʔe,PinN
+98,tassel,espiga,yoko,PinN
+99,people,gente,ñĩbi,PinN
+100,town,pueblo,ñṹṹ,PinN
+101,smoke,humo,yũʔmã/ⁿžũʔmã,PinN
+102,eat,comer,čači,PinN
+103,hawk,gavilán,tasũ,PinN
+104,truth,verdad,ⁿdiča,PinN
+105,fire,lumbre,ñũʔũ,PinN
+106,six,seis,ĩñũ,PinN
+107,fingernail,uña,tĩñĩ,PinN
+108,cornstalk,rastrojo,čeʔe/yamã,PinN
+109,cornmeal,masa,yuča/žuča,PinN
+110,child,hijo,seʔe,PinN
+111,"cold, phlegm",catarro,sayu,PinN
+112,good,bueno,baʔa,PinN
+113,because,porque,(ba)ti,PinN
+114,this one,este mismo,mãã,PinN
+115,is coming,ya viene,bači,PinN
+116,trash,basura,mĩʔĩ,PinN
+117,cat,gato,(mičũ),PinN
+118,prickly pear,nopal,bĩʔⁿda,PinN
+119,foot,pie,čaʔa,PinN
+120,cut,cortar,čaʔⁿda,PinN
+121,fifteen,quince,čãʔũ,PinN
+122,guts,tripas,čiti,PinN
+123,ten,diez,uči,PinN
+124,cold,frío,biči,PinN
+125,sandal,huarache,ⁿdiča,PinN
+126,housepot,horcón,sĩʔĩ,PinN
+127,name,nombre,sibi,PinN
+128,cacao,cacao,siʔba,PinN
+129,ear,oreja,soʔo,PinN
+130,tasty,sabroso,asi,PinN
+131,closed,cerrado,ⁿdasi,PinN
+132,day after tomorrow,pasado mañana,isa,PinN
+133,sweet,dulce,biši,PinN
+134,now,ahora,biti,PinN
+135,hole,agujero,yabi,PinN
+136,afraid,tiene miedo,žuʔu/yuʔi,PinN
+137,poor,pobre,ⁿdaʔbi,PinN
+138,two,dos,ui,PinN
+139,scorpion,alacrán,ti suʔmã,PinN
+140,go out,salir,(ča)kee,PinN
+141,paint,pintar,kaʔyu,PinN
+142,rat,rata,tĩñĩ,PinN
+143,swelling,hinchazón,[ⁿdaa],PinN
+144,pimple,grano,ⁿdiʔi,PinN
+145,it thunders,truena,kãʔⁿdi,PinN
+146,rainbow,arco iris,kuu yoʔⁿdi,PinN
+147,bird,pájaro,saa,PinN
+148,frog,rana,saʔba,PinN
+149,navel,ombligo,šaⁿdu,PinN
+150,urine,orina,čaša/tata,PinN
+151,chachalaca,chachalaca,ⁿdačã,PinN
+152,smooth,lisa,ⁿdiʔbi,PinN
+153,little,chico,luʔu,PinN
+154,day,día,kibi,PinN
+155,when,cuándo,ãwã,PinN
+156,plain,llano,[ⁿduʔa],PinN
+157,how,cómo,[yoso],PinN
+158,carry,cargar,ⁿdiso,PinN
+159,cockroach,cucaracha,ti teʔe,PinN
+160,glue,pegamento,[kiši/suča],PinN
+161,sickness,enfermedad,kʷweʔe,PinN
+162,see,ver,ⁿdeʔe,PinN
+163,slow,despacio,kʷee-ni,PinN
+164,house,casa,beʔe,PinN
+165,mamey,mamey,ⁿdika kʷaʔa,PinN
+166,grind,moler,ⁿdiko,PinN
+167,wing,ala,ⁿdiči,PinN
+168,stool,banquito,tayu,PinN
+169,cornfield,milpa,itu,PinN
+170,yesterday,ayer,iku,PinN
+171,other,otro,tuku/[iŋɡa],PinN
+172,comb,peine,kuka,PinN
+173,be born,se nació,kaku/[ni tui],PinN
+174,smart,sabio,[čini tuni],PinN
+175,stone,piedra,yuu,PinN
+176,mouth,boca,yuʔu,PinN
+177,I,yo,*yuʔu,PinN
+178,dew,rocío,[kačĩ],PinN
+179,brush,hierba,yuku,PinN
+180,furrow,surco,yuku,PinN
+181,trousers,calzón,čatu,PinN
+182,priest,sacerdote,sutu,PinN
+183,brand,fierro,tũnĩ,PinN
+184,will know,sabrá,[koto]/kũnĩ,PinN
+185,squirrel,ardilla,kʷãñũ,PinN
+186,loose,floja,NA,PinN
+187,heavy,pesado,bee,PinN
+188,tobacco,tobaco,NA,PinN
+1,rain,lluvia,sabi,PinL
+2,agave,maguey,yabi,PinL
+3,straw mat,petate,yubi,PinL
+4,four,cuatro,kũmĩ,PinL
+5,feather,pluma,tũmĩ,PinL
+6,tail,cola,sũʔmã,PinL
+7,wax,cera,yũmã,PinL
+8,nose,nariz,šitĩ,PinL
+9,word,palabra,tũʔũ,PinL
+10,near,está cerca,yatĩ,PinL
+11,tree,árbol,yutũ,PinL
+12,deer,venado,isu,PinL
+13,lard,manteca,šãʔã,PinL
+14,smell,olor,šiko,PinL
+15,tortilla,tortilla,šita,PinL
+16,vomits,vomita,ⁿduča,PinL
+17,lazy,flojo,suča,PinL
+18,bed,cama,čito,PinL
+19,griddle,comal,čiyo/čio,PinL
+20,sin,culpa,kʷati,PinL
+21,bean,frijol,ⁿduti,PinL
+22,water,agua,ⁿduta,PinL
+23,river,río,yuta,PinL
+24,mud,lodo,ⁿdaʔyu,PinL
+25,man's brother,hermano de h.,yãnĩ,PinL
+26,three,tres,ũnĩ,PinL
+27,tooth,diente,nũʔũ,PinL
+28,five,cinco,ũʔũ,PinL
+29,bitter,amargo,uwa,PinL
+30,meat,carne,kũñũ,PinL
+31,red,rojo,kʷaʔa,PinL
+32,(he) went,se fue,kʷãʔã,PinL
+33,seven,siete,uča,PinL
+34,thread,hilo,yuʔwa,PinL
+35,animal,animal,kɨtɨ,PinL
+36,it finishes,se acaba,ⁿdɨʔɨ,PinL
+37,egg,blanquillo,ⁿdɨwɨ,PinL
+38,foam,espuma,tũñũ,PinL
+39,blood,sangre,nɨ͂ñɨ͂̀,PinL
+40,husband,marido,yɨɨ,PinL
+41,salt,sal,ñɨ͂ɨ͂,PinL
+42,net bag,red,yũnũ,PinL
+43,gourd,jícara,yačĩ,PinL
+44,squash,calabaza,yɨkɨ,PinL
+45,coati,tejón coatí,yɨyɨ,PinL
+46,food,comida,ⁿdayu,PinL
+47,salty,salado,uʔwa,PinL
+48,blouse,huipil,šikũ,PinL
+49,work,trabajo,tiñũ,PinL
+50,cotton,algodón,kati,PinL
+51,wind,viento,tati,PinL
+52,man,hombre,ra yɨɨ,PinL
+53,round,redondon,kuta,PinL
+54,oven,horno,čitũ,PinL
+55,box / drawer,cajón,čatũ,PinL
+56,mosquito,zancudo,tu kʷañɨ̃,PinL
+57,wait for,esperar,ⁿdatu,PinL
+58,rotten,podrido,taʔyu,PinL
+59,grab,agarrar,tɨ͂ɨ͂,PinL
+60,tendon,tendón,tuti,PinL
+61,blow,soplar,tɨwɨ,PinL
+62,handspan,cuarta,too,PinL
+63,owner,dueño,či toʔo,PinL
+64,lay (egg),poner (huevo),[čatɨ̃],PinL
+65,big (sg.),grande (sg.),kaʔnũ,PinL
+66,neck,cuello,sukũ,PinL
+67,will come,va a venir,kiči,PinL
+68,horn,cuerno,ⁿdɨkɨ,PinL
+69,snake,culebra,koo,PinL
+70,ugly,feo,[ⁿdasɨ]/kinĩ,PinL
+71,hill,cerro,yuku,PinL
+72,armadillo,armadillo,yakʷĩ,PinL
+73,crooked,chueco,yakʷa,PinL
+74,year,año,kʷiya,PinL
+75,eyebrow,ceja,sukʷa,PinL
+76,pus,pus,ⁿdakʷa,PinL
+77,demon,demonio,kʷĩʔnã,PinL
+78,yellow,amarillo,kʷãã,PinL
+79,sew,coser,kiku,PinL
+80,will carry,va a cargar,kʷiso,PinL
+81,that,aquel,ikã,PinL
+82,below,abajo,nĩnũ,PinL
+83,all night,toda la noche,nĩñũ,PinL
+84,hot,caliente,ĩʔnĩ,PinL
+85,grain of corn,maíz,nũnĩ,PinL
+86,wall,pared,nãmã,PinL
+87,early,temprano,nãʔã,PinL
+88,open,abierto,nũnã,PinL
+89,eight,ocho,ũnã,PinL
+90,tomato,jitomate,tɨ nãnã,PinL
+91,green bean,ejote,ⁿditi,PinL
+92,half,mitad,saba,PinL
+93,cane,caña,ⁿdoo,PinL
+94,clay pot,olla,kɨsɨ,PinL
+95,liquor,aguardiente,ⁿdiši,PinL
+96,honey,miel,[ñũñũ]/ⁿduši,PinL
+97,armpit,sobaco,šeʔe,PinL
+98,tassel,espiga,yoko,PinL
+99,people,gente,ñã yɨbɨ,PinL
+100,town,pueblo,ñũũ,PinL
+101,smoke,humo,yũʔmã,PinL
+102,eat,comer,čači,PinL
+103,hawk,gavilán,tasu,PinL
+104,truth,verdad,ⁿdiča,PinL
+105,fire,lumbre,ñũʔũ,PinL
+106,six,seis,ĩñũ,PinL
+107,fingernail,uña,tĩñũ,PinL
+108,cornstalk,rastrojo,yãmã,PinL
+109,cornmeal,masa,yuča,PinL
+110,child,hijo,seʔe,PinL
+111,"cold, phlegm",catarro,sayu,PinL
+112,good,bueno,baʔa,PinL
+113,because,porque,ti,PinL
+114,this one,este mismo,mãã,PinL
+115,is coming,ya viene,(kiči),PinL
+116,trash,basura,(čãʔã),PinL
+117,cat,gato,(mĩhta),PinL
+118,prickly pear,nopal,bĩʔⁿda,PinL
+119,foot,pie,čaʔa,PinL
+120,cut,cortar,čaʔⁿda,PinL
+121,fifteen,quince,čãʔũ,PinL
+122,guts,tripas,čɨtɨ,PinL
+123,ten,diez,uči,PinL
+124,cold,frío,bičĩ,PinL
+125,sandal,huarache,ⁿdičãʔ,PinL
+126,housepot,horcón,sɨ͂ʔɨ͂,PinL
+127,name,nombre,sɨwɨ,PinL
+128,cacao,cacao,čikula/suʔba,PinL
+129,ear,oreja,soʔo,PinL
+130,tasty,sabroso,asɨ͂,PinL
+131,closed,cerrado,ⁿdasɨ,PinL
+132,day after tomorrow,pasado mañana,isa,PinL
+133,sweet,dulce,biši,PinL
+134,now,ahora,bitĩ,PinL
+135,hole,agujero,yabi,PinL
+136,afraid,tiene miedo,yuʔbi,PinL
+137,poor,pobre,ⁿdaʔbi,PinL
+138,two,dos,ubi,PinL
+139,scorpion,alacrán,tɨ sũʔmã,PinL
+140,go out,salir,[keta],PinL
+141,paint,pintar,kaʔyu,PinL
+142,rat,rata,tɨ͂ñɨ͂,PinL
+143,swelling,hinchazón,kʷĩñũ,PinL
+144,pimple,grano,ⁿdɨʔyɨ,PinL
+145,it thunders,truena,kãʔⁿdi,PinL
+146,rainbow,arco iris,koo yãʔⁿdi,PinL
+147,bird,pájaro,saa,PinL
+148,frog,rana,saʔba,PinL
+149,navel,ombligo,[čɨtɨ koʔo],PinL
+150,urine,orina,(tata) čaša,PinL
+151,chachalaca,chachalaca,ⁿdačã,PinL
+152,smooth,lisa,ⁿdɨɨ/ⁿdɨʔbɨ,PinL
+153,little,chico,luʔu,PinL
+154,day,día,kɨwɨ,PinL
+155,when,cuándo,ãwã,PinL
+156,plain,llano,[ⁿduʔba],PinL
+157,how,cómo,nãã ša,PinL
+158,carry,cargar,ⁿdiso,PinL
+159,cockroach,cucaracha,[tu koso],PinL
+160,glue,pegamento,ⁿdaka,PinL
+161,sickness,enfermedad,kʷweʔe,PinL
+162,see,ver,ⁿdeʔe,PinL
+163,slow,despacio,kʷee,PinL
+164,house,casa,beʔe,PinL
+165,mamey,mamey,ⁿdika čaʔa,PinL
+166,grind,moler,ⁿdiko,PinL
+167,wing,ala,ⁿdičĩ,PinL
+168,stool,banquito,tayu,PinL
+169,cornfield,milpa,itu,PinL
+170,yesterday,ayer,iku,PinL
+171,other,otro,tuku,PinL
+172,comb,peine,kuka,PinL
+173,be born,se nació,kaku,PinL
+174,smart,sabio,[kɨyɨ],PinL
+175,stone,piedra,yuu,PinL
+176,mouth,boca,yuʔu,PinL
+177,I,yo,*yuʔu,PinL
+178,dew,rocío,[kačĩ],PinL
+179,brush,hierba,[kuʔu]/yuku,PinL
+180,furrow,surco,yukũ,PinL
+181,trousers,calzón,čatu,PinL
+182,priest,sacerdote,sutu,PinL
+183,brand,fierro,tũnĩ,PinL
+184,will know,sabrá,[koto],PinL
+185,squirrel,ardilla,kʷãñũ,PinL
+186,loose,floja,taya,PinL
+187,heavy,pesado,bee,PinL
+188,tobacco,tobaco,ĩñũ,PinL
+1,rain,lluvia,sabi,Colo
+2,agave,maguey,yabi,Colo
+3,straw mat,petate,yuwi,Colo
+4,four,cuatro,kũmĩ,Colo
+5,feather,pluma,tũmĩ,Colo
+6,tail,cola,hũʔmã,Colo
+7,wax,cera,yũmã,Colo
+8,nose,nariz,šitʸi,Colo
+9,word,palabra,tũʔũ,Colo
+10,near,está cerca,yatʸĩ,Colo
+11,tree,árbol,yutũ,Colo
+12,deer,venado,isu,Colo
+13,lard,manteca,šãʔã,Colo
+14,smell,olor,NA,Colo
+15,tortilla,tortilla,šita/išta,Colo
+16,vomits,vomita,ⁿduča,Colo
+17,lazy,flojo,učã,Colo
+18,bed,cama,čito,Colo
+19,griddle,comal,čiyo,Colo
+20,sin,culpa,kʷatʸi,Colo
+21,bean,frijol,ⁿdutʸi,Colo
+22,water,agua,ⁿdutʸa,Colo
+23,river,río,yutʸa,Colo
+24,mud,lodo,ⁿdʸaʔyu,Colo
+25,man's brother,hermano de h.,yãñĩ,Colo
+26,three,tres,ũñĩ,Colo
+27,tooth,diente,nũʔũ,Colo
+28,five,cinco,ũʔũ,Colo
+29,bitter,amargo,uba,Colo
+30,meat,carne,kũñũ,Colo
+31,red,rojo,kʷaʔa,Colo
+32,(he) went,se fue,kʷãʔã,Colo
+33,seven,siete,uča,Colo
+34,thread,hilo,yuʔba,Colo
+35,animal,animal,kɨtɨ,Colo
+36,it finishes,se acaba,ⁿdɨʔɨ,Colo
+37,egg,blanquillo,ⁿdɨbɨ,Colo
+38,foam,espuma,ti ñũũ,Colo
+39,blood,sangre,nɨ͂ñɨ͂,Colo
+40,husband,marido,yɨɨ,Colo
+41,salt,sal,ñɨ͂ɨ͂,Colo
+42,net bag,red,yũnũ,Colo
+43,gourd,jícara,yači,Colo
+44,squash,calabaza,yɨkɨ,Colo
+45,coati,tejón coatí,yɨyɨ,Colo
+46,food,comida,ⁿdʸayu,Colo
+47,salty,salado,uʔba,Colo
+48,blouse,huipil,šikũ,Colo
+49,work,trabajo,tʸiñũ,Colo
+50,cotton,algodón,katʸi,Colo
+51,wind,viento,tatʸi,Colo
+52,man,hombre,ra yɨɨ,Colo
+53,round,redondon,kutʸa,Colo
+54,oven,horno,čitũ,Colo
+55,box / drawer,cajón,čatũ,Colo
+56,mosquito,zancudo,ti kʷañĩ,Colo
+57,wait for,esperar,ⁿdatu,Colo
+58,rotten,podrido,tʸaʔyu,Colo
+59,grab,agarrar,tɨ͂ɨ͂,Colo
+60,tendon,tendón,tutʸi,Colo
+61,blow,soplar,tɨwɨ,Colo
+62,handspan,cuarta,too,Colo
+63,owner,dueño,či toʔo,Colo
+64,lay (egg),poner (huevo),[čatɨ],Colo
+65,big (sg.),grande (sg.),kaʔnũ,Colo
+66,neck,cuello,hukũ,Colo
+67,will come,va a venir,kiči,Colo
+68,horn,cuerno,ⁿdɨkɨ,Colo
+69,snake,culebra,koo,Colo
+70,ugly,feo,kiñĩ,Colo
+71,hill,cerro,yuku,Colo
+72,armadillo,armadillo,yakʷĩ,Colo
+73,crooked,chueco,yakʷa,Colo
+74,year,año,kʷiya,Colo
+75,eyebrow,ceja,sukʷa,Colo
+76,pus,pus,ⁿdakʷa,Colo
+77,demon,demonio,kʷĩʔnã,Colo
+78,yellow,amarillo,kʷãã,Colo
+79,sew,coser,kiku,Colo
+80,will carry,va a cargar,kʷiso,Colo
+81,that,aquel,ikã,Colo
+82,below,abajo,nĩnũ,Colo
+83,all night,toda la noche,ñĩñũ,Colo
+84,hot,caliente,ĩʔnĩ,Colo
+85,grain of corn,maíz,nũñĩ,Colo
+86,wall,pared,nãmã,Colo
+87,early,temprano,[ha tʸãã]/nãʔã,Colo
+88,open,abierto,nũñã,Colo
+89,eight,ocho,ũnã,Colo
+90,tomato,jitomate,tɨ nãnã,Colo
+91,green bean,ejote,ⁿdʸitʸi,Colo
+92,half,mitad,saba,Colo
+93,cane,caña,ⁿdoo,Colo
+94,clay pot,olla,kɨsɨ,Colo
+95,liquor,aguardiente,ⁿdiši,Colo
+96,honey,miel,ⁿduši,Colo
+97,armpit,sobaco,tʸi šeʔe,Colo
+98,tassel,espiga,yoko,Colo
+99,people,gente,ñã yɨbɨ,Colo
+100,town,pueblo,ñũũ,Colo
+101,smoke,humo,yũʔmã,Colo
+102,eat,comer,čači,Colo
+103,hawk,gavilán,tasu,Colo
+104,truth,verdad,ⁿdʸiča,Colo
+105,fire,lumbre,ñũʔũ,Colo
+106,six,seis,ĩñũ,Colo
+107,fingernail,uña,tʸĩñũ,Colo
+108,cornstalk,rastrojo,yãmã,Colo
+109,cornmeal,masa,yučã,Colo
+110,child,hijo,seʔe,Colo
+111,"cold, phlegm",catarro,sayu,Colo
+112,good,bueno,waʔa,Colo
+113,because,porque,bati,Colo
+114,this one,este mismo,mãã,Colo
+115,is coming,ya viene,bači,Colo
+116,trash,basura,(čãʔã),Colo
+117,cat,gato,(mĩstu),Colo
+118,prickly pear,nopal,bĩʔⁿda,Colo
+119,foot,pie,čaʔa,Colo
+120,cut,cortar,čaʔⁿdʸa,Colo
+121,fifteen,quince,čãʔũ,Colo
+122,guts,tripas,čɨtɨ,Colo
+123,ten,diez,uči,Colo
+124,cold,frío,bičĩ,Colo
+125,sandal,huarache,ⁿdʸičã,Colo
+126,housepot,horcón,sɨ͂ʔɨ͂,Colo
+127,name,nombre,sɨwi,Colo
+128,cacao,cacao,[čikula],Colo
+129,ear,oreja,soʔo,Colo
+130,tasty,sabroso,asɨ,Colo
+131,closed,cerrado,ⁿdasɨ,Colo
+132,day after tomorrow,pasado mañana,isa,Colo
+133,sweet,dulce,biši,Colo
+134,now,ahora,bitʸĩ,Colo
+135,hole,agujero,yabi,Colo
+136,afraid,tiene miedo,yuʔwi,Colo
+137,poor,pobre,ⁿdaʔbi,Colo
+138,two,dos,ubi,Colo
+139,scorpion,alacrán,tu hũʔmã,Colo
+140,go out,salir,[keta],Colo
+141,paint,pintar,kaʔyu,Colo
+142,rat,rata,tɨ͂ñɨ͂,Colo
+143,swelling,hinchazón,kʷĩñũ,Colo
+144,pimple,grano,ⁿdɨʔyɨ,Colo
+145,it thunders,truena,kãʔⁿdi,Colo
+146,rainbow,arco iris,[koo kʷiiya],Colo
+147,bird,pájaro,saa,Colo
+148,frog,rana,saʔba,Colo
+149,navel,ombligo,[čɨtɨ koʔo],Colo
+150,urine,orina,tʸatʸa čaša/laša,Colo
+151,chachalaca,chachalaca,ⁿdačã,Colo
+152,smooth,lisa,ⁿdɨʔbɨ/ⁿdɨɨ,Colo
+153,little,chico,luʔu,Colo
+154,day,día,kɨbɨ,Colo
+155,when,cuándo,(h) ãwã,Colo
+156,plain,llano,[ⁿduʔba],Colo
+157,how,cómo,nãã,Colo
+158,carry,cargar,ⁿdiso,Colo
+159,cockroach,cucaracha,[tu koso],Colo
+160,glue,pegamento,[kiši] ⁿdaka,Colo
+161,sickness,enfermedad,kʷweʔe,Colo
+162,see,ver,ⁿdʸeʔe,Colo
+163,slow,despacio,beʔe,Colo
+164,house,casa,NA,Colo
+165,mamey,mamey,ⁿdʸika,Colo
+166,grind,moler,ⁿdʸiko,Colo
+167,wing,ala,ⁿdʸičĩ,Colo
+168,stool,banquito,tʸayu,Colo
+169,cornfield,milpa,itu,Colo
+170,yesterday,ayer,iku,Colo
+171,other,otro,tuku,Colo
+172,comb,peine,kuka,Colo
+173,be born,se nació,kaku,Colo
+174,smart,sabio,ku tuʔba,Colo
+175,stone,piedra,yuu,Colo
+176,mouth,boca,yuʔu,Colo
+177,I,yo,*yuʔu,Colo
+178,dew,rocío,[kačĩ],Colo
+179,brush,hierba,yuku/[yuba],Colo
+180,furrow,surco,yukũ,Colo
+181,trousers,calzón,[ti čaʔa],Colo
+182,priest,sacerdote,hutu,Colo
+183,brand,fierro,tũñĩ,Colo
+184,will know,sabrá,[ku ⁿdʸeʔe],Colo
+185,squirrel,ardilla,kʷãñũ,Colo
+186,loose,floja,taya,Colo
+187,heavy,pesado,bee,Colo
+188,tobacco,tobaco,ĩnũ,Colo
+1,rain,lluvia,sabi,Nuti
+2,agave,maguey,yabi,Nuti
+3,straw mat,petate,yubi,Nuti
+4,four,cuatro,kũmĩ,Nuti
+5,feather,pluma,tũmĩ,Nuti
+6,tail,cola,sũʔmã,Nuti
+7,wax,cera,yũmã,Nuti
+8,nose,nariz,šitʸĩ,Nuti
+9,word,palabra,tõʔõ,Nuti
+10,near,está cerca,yatʸi,Nuti
+11,tree,árbol,yutũ,Nuti
+12,deer,venado,isu,Nuti
+13,lard,manteca,šãʔã,Nuti
+14,smell,olor,šiko,Nuti
+15,tortilla,tortilla,šita,Nuti
+16,vomits,vomita,NA,Nuti
+17,lazy,flojo,NA,Nuti
+18,bed,cama,čito,Nuti
+19,griddle,comal,č̯iyo,Nuti
+20,sin,culpa,NA,Nuti
+21,bean,frijol,ⁿdutʸi,Nuti
+22,water,agua,ⁿdutʸa,Nuti
+23,river,río,yutʸa,Nuti
+24,mud,lodo,ⁿdʸaʔyu,Nuti
+25,man's brother,hermano de h.,NA,Nuti
+26,three,tres,ũñĩ,Nuti
+27,tooth,diente,NA,Nuti
+28,five,cinco,õʔõ/ũʔũ,Nuti
+29,bitter,amargo,NA,Nuti
+30,meat,carne,kũñũ,Nuti
+31,red,rojo,kʷaʔa,Nuti
+32,(he) went,se fue,kʷãʔã,Nuti
+33,seven,siete,uča,Nuti
+34,thread,hilo,yuʔba,Nuti
+35,animal,animal,kɨtɨ,Nuti
+36,it finishes,se acaba,NA,Nuti
+37,egg,blanquillo,ⁿdɨbɨ,Nuti
+38,foam,espuma,tĩñõ,Nuti
+39,blood,sangre,nɨ͂ñɨ͂̀,Nuti
+40,husband,marido,yɨɨ,Nuti
+41,salt,sal,ñɨ͂̀ɨ͂̀,Nuti
+42,net bag,red,yũnũ/yõnõ,Nuti
+43,gourd,jícara,yačĩ,Nuti
+44,squash,calabaza,yɨkɨ͂,Nuti
+45,coati,tejón coatí,[tɨ mãʔã],Nuti
+46,food,comida,NA,Nuti
+47,salty,salado,NA,Nuti
+48,blouse,huipil,NA,Nuti
+49,work,trabajo,tʸiñũ,Nuti
+50,cotton,algodón,katʸi,Nuti
+51,wind,viento,tatʸi,Nuti
+52,man,hombre,ra yɨɨ,Nuti
+53,round,redondon,kutʸa,Nuti
+54,oven,horno,[ur̃nõ],Nuti
+55,box / drawer,cajón,[kaxa],Nuti
+56,mosquito,zancudo,[tʸukũ],Nuti
+57,wait for,esperar,ⁿdatu,Nuti
+58,rotten,podrido,tʸaʔyu,Nuti
+59,grab,agarrar,tɨ͂ɨ͂,Nuti
+60,tendon,tendón,NA,Nuti
+61,blow,soplar,tɨbɨ,Nuti
+62,handspan,cuarta,NA,Nuti
+63,owner,dueño,NA,Nuti
+64,lay (egg),poner (huevo),NA,Nuti
+65,big (sg.),grande (sg.),kaʔnũ,Nuti
+66,neck,cuello,š̩ukũ,Nuti
+67,will come,va a venir,kiči,Nuti
+68,horn,cuerno,ⁿdɨkɨ,Nuti
+69,snake,culebra,NA,Nuti
+70,ugly,feo,NA,Nuti
+71,hill,cerro,yuku,Nuti
+72,armadillo,armadillo,NA,Nuti
+73,crooked,chueco,NA,Nuti
+74,year,año,kʷiya,Nuti
+75,eyebrow,ceja,NA,Nuti
+76,pus,pus,ⁿdakʷa,Nuti
+77,demon,demonio,NA,Nuti
+78,yellow,amarillo,kʷãã,Nuti
+79,sew,coser,kiku,Nuti
+80,will carry,va a cargar,kʷa kʷiso,Nuti
+81,that,aquel,ikã,Nuti
+82,below,abajo,NA,Nuti
+83,all night,toda la noche,NA,Nuti
+84,hot,caliente,NA,Nuti
+85,grain of corn,maíz,nɨ͂ñĩ,Nuti
+86,wall,pared,[čaʔa],Nuti
+87,early,temprano,nãʔã-ri,Nuti
+88,open,abierto,lũñã,Nuti
+89,eight,ocho,ũñã,Nuti
+90,tomato,jitomate,NA,Nuti
+91,green bean,ejote,NA,Nuti
+92,half,mitad,saba,Nuti
+93,cane,caña,ⁿdoo,Nuti
+94,clay pot,olla,NA,Nuti
+95,liquor,aguardiente,ⁿdʸiši,Nuti
+96,honey,miel,ⁿduši,Nuti
+97,armpit,sobaco,t̯ʸič̯i šeʔe,Nuti
+98,tassel,espiga,NA,Nuti
+99,people,gente,ñɨ͂wɨ/ñɨ͂́ɨ͂́,Nuti
+100,town,pueblo,ñũũ,Nuti
+101,smoke,humo,ñũʔmã,Nuti
+102,eat,comer,čači,Nuti
+103,hawk,gavilán,NA,Nuti
+104,truth,verdad,NA,Nuti
+105,fire,lumbre,ñũʔũ,Nuti
+106,six,seis,ĩñũ,Nuti
+107,fingernail,uña,tʸĩñũ,Nuti
+108,cornstalk,rastrojo,NA,Nuti
+109,cornmeal,masa,yučã,Nuti
+110,child,hijo,seʔe,Nuti
+111,"cold, phlegm",catarro,NA,Nuti
+112,good,bueno,NA,Nuti
+113,because,porque,či,Nuti
+114,this one,este mismo,mãã,Nuti
+115,is coming,ya viene,bači,Nuti
+116,trash,basura,NA,Nuti
+117,cat,gato,(mištu),Nuti
+118,prickly pear,nopal,NA,Nuti
+119,foot,pie,čaʔa,Nuti
+120,cut,cortar,čaʔⁿdʸa,Nuti
+121,fifteen,quince,čãʔũ,Nuti
+122,guts,tripas,čitʸi,Nuti
+123,ten,diez,uči,Nuti
+124,cold,frío,biči,Nuti
+125,sandal,huarache,ⁿdʸiča,Nuti
+126,housepot,horcón,NA,Nuti
+127,name,nombre,sɨbɨ,Nuti
+128,cacao,cacao,siʔba,Nuti
+129,ear,oreja,soʔo,Nuti
+130,tasty,sabroso,NA,Nuti
+131,closed,cerrado,(kasɨ),Nuti
+132,day after tomorrow,pasado mañana,NA,Nuti
+133,sweet,dulce,biši,Nuti
+134,now,ahora,NA,Nuti
+135,hole,agujero,NA,Nuti
+136,afraid,tiene miedo,yuʔbi,Nuti
+137,poor,pobre,ⁿdaʔbi,Nuti
+138,two,dos,ubi,Nuti
+139,scorpion,alacrán,NA,Nuti
+140,go out,salir,NA,Nuti
+141,paint,pintar,NA,Nuti
+142,rat,rata,tɨ͂ñɨ͂,Nuti
+143,swelling,hinchazón,NA,Nuti
+144,pimple,grano,[ⁿdɨkɨ],Nuti
+145,it thunders,truena,kãʔⁿdɨ,Nuti
+146,rainbow,arco iris,NA,Nuti
+147,bird,pájaro,saa,Nuti
+148,frog,rana,saʔba,Nuti
+149,navel,ombligo,NA,Nuti
+150,urine,orina,NA,Nuti
+151,chachalaca,chachalaca,NA,Nuti
+152,smooth,lisa,NA,Nuti
+153,little,chico,luʔlu,Nuti
+154,day,día,kɨbɨ,Nuti
+155,when,cuándo,ãwã,Nuti
+156,plain,llano,[nũ ⁿdaa],Nuti
+157,how,cómo,nasa/naha,Nuti
+158,carry,cargar,kʷa kʷiso],Nuti
+159,cockroach,cucaracha,NA,Nuti
+160,glue,pegamento,NA,Nuti
+161,sickness,enfermedad,kʷweʔe,Nuti
+162,see,ver,ⁿdʸeʔe,Nuti
+163,slow,despacio,kʷee,Nuti
+164,house,casa,beʔe,Nuti
+165,mamey,mamey,NA,Nuti
+166,grind,moler,NA,Nuti
+167,wing,ala,NA,Nuti
+168,stool,banquito,[banka],Nuti
+169,cornfield,milpa,itu,Nuti
+170,yesterday,ayer,iku,Nuti
+171,other,otro,[ɨnɡa čiki],Nuti
+172,comb,peine,NA,Nuti
+173,be born,se nació,NA,Nuti
+174,smart,sabio,NA,Nuti
+175,stone,piedra,yuu,Nuti
+176,mouth,boca,NA,Nuti
+177,I,yo,[mãĩ],Nuti
+178,dew,rocío,NA,Nuti
+179,brush,hierba,NA,Nuti
+180,furrow,surco,NA,Nuti
+181,trousers,calzón,NA,Nuti
+182,priest,sacerdote,NA,Nuti
+183,brand,fierro,NA,Nuti
+184,will know,sabrá,[koto],Nuti
+185,squirrel,ardilla,kʷãñũ,Nuti
+186,loose,floja,NA,Nuti
+187,heavy,pesado,bee,Nuti
+188,tobacco,tobaco,NA,Nuti
+1,rain,lluvia,sabi,Ixty
+2,agave,maguey,yabi,Ixty
+3,straw mat,petate,yubi,Ixty
+4,four,cuatro,kũmĩ,Ixty
+5,feather,pluma,tũmĩ,Ixty
+6,tail,cola,sũʔmã,Ixty
+7,wax,cera,ñũmã,Ixty
+8,nose,nariz,šitʸĩ,Ixty
+9,word,palabra,tũʔũ,Ixty
+10,near,está cerca,yatʸĩ,Ixty
+11,tree,árbol,yutũ,Ixty
+12,deer,venado,isu,Ixty
+13,lard,manteca,šãʔã,Ixty
+14,smell,olor,šiko,Ixty
+15,tortilla,tortilla,šita,Ixty
+16,vomits,vomita,ⁿdača,Ixty
+17,lazy,flojo,sučã,Ixty
+18,bed,cama,čito,Ixty
+19,griddle,comal,čiyo,Ixty
+20,sin,culpa,kʷatʸi,Ixty
+21,bean,frijol,ⁿdutʸi,Ixty
+22,water,agua,ⁿdutʸa,Ixty
+23,river,río,yutʸa,Ixty
+24,mud,lodo,ⁿdʸaʔyu,Ixty
+25,man's brother,hermano de h.,ñãñĩ,Ixty
+26,three,tres,ũñĩ,Ixty
+27,tooth,diente,nũʔũ,Ixty
+28,five,cinco,ũʔũ,Ixty
+29,bitter,amargo,uba,Ixty
+30,meat,carne,kũñũ,Ixty
+31,red,rojo,kʷãʔã,Ixty
+32,(he) went,se fue,k°ãʔã,Ixty
+33,seven,siete,uča,Ixty
+34,thread,hilo,yuʔwa,Ixty
+35,animal,animal,kɨtɨ,Ixty
+36,it finishes,se acaba,(i)ⁿdɨʔɨ,Ixty
+37,egg,blanquillo,ⁿdɨbɨ,Ixty
+38,foam,espuma,tɨ͂ñɨ͂,Ixty
+39,blood,sangre,nɨ͂ñɨ͂,Ixty
+40,husband,marido,yɨɨ,Ixty
+41,salt,sal,ñɨ͂ɨ͂,Ixty
+42,net bag,red,ñũnũ,Ixty
+43,gourd,jícara,yačĩ,Ixty
+44,squash,calabaza,yɨkɨ,Ixty
+45,coati,tejón coatí,yɨyɨ,Ixty
+46,food,comida,NA,Ixty
+47,salty,salado,uʔba,Ixty
+48,blouse,huipil,šikũ,Ixty
+49,work,trabajo,tʸiñũ,Ixty
+50,cotton,algodón,katʸi,Ixty
+51,wind,viento,tatʸi,Ixty
+52,man,hombre,ra yɨɨ,Ixty
+53,round,redondon,kutʸa,Ixty
+54,oven,horno,čitu,Ixty
+55,box / drawer,cajón,čatũ,Ixty
+56,mosquito,zancudo,tɨ kʷañĩ/tɨ kʷañɨ̃,Ixty
+57,wait for,esperar,ⁿdatu,Ixty
+58,rotten,podrido,tʸaʔyu,Ixty
+59,grab,agarrar,tɨ͂ɨ͂,Ixty
+60,tendon,tendón,tutʸi,Ixty
+61,blow,soplar,tɨbɨ,Ixty
+62,handspan,cuarta,too,Ixty
+63,owner,dueño,či toʔo,Ixty
+64,lay (egg),poner (huevo),[čatɨ],Ixty
+65,big (sg.),grande (sg.),kaʔnũ,Ixty
+66,neck,cuello,sukũ,Ixty
+67,will come,va a venir,kiči,Ixty
+68,horn,cuerno,ⁿdɨkɨ,Ixty
+69,snake,culebra,koo,Ixty
+70,ugly,feo,kinĩ,Ixty
+71,hill,cerro,yuku,Ixty
+72,armadillo,armadillo,yakʷĩ,Ixty
+73,crooked,chueco,yakʷa,Ixty
+74,year,año,kʷiya,Ixty
+75,eyebrow,ceja,sɨkʷa,Ixty
+76,pus,pus,lakʷa,Ixty
+77,demon,demonio,kʷĩʔnã,Ixty
+78,yellow,amarillo,kʷãã,Ixty
+79,sew,coser,kiku,Ixty
+80,will carry,va a cargar,kiso,Ixty
+81,that,aquel,yukʷã,Ixty
+82,below,abajo,[yɨɨ ñũũ] /nĩnũ,Ixty
+83,all night,toda la noche,[ñũũ],Ixty
+84,hot,caliente,ñĩʔnĩ,Ixty
+85,grain of corn,maíz,nũñĩ,Ixty
+86,wall,pared,nãmã,Ixty
+87,early,temprano,ñãʔã,Ixty
+88,open,abierto,[ta koʔo],Ixty
+89,eight,ocho,ũñã,Ixty
+90,tomato,jitomate,tɨ nãnã,Ixty
+91,green bean,ejote,ⁿdʸitʸi,Ixty
+92,half,mitad,saba,Ixty
+93,cane,caña,ⁿdoo,Ixty
+94,clay pot,olla,kɨsɨ,Ixty
+95,liquor,aguardiente,ⁿdiši,Ixty
+96,honey,miel,ⁿduši,Ixty
+97,armpit,sobaco,ča šeʔe,Ixty
+98,tassel,espiga,yoko,Ixty
+99,people,gente,ñã yɨbɨ,Ixty
+100,town,pueblo,ñũũ,Ixty
+101,smoke,humo,ñũʔmã,Ixty
+102,eat,comer,čači,Ixty
+103,hawk,gavilán,tasu,Ixty
+104,truth,verdad,ⁿdiča/[ⁿdaa],Ixty
+105,fire,lumbre,ñũʔũ,Ixty
+106,six,seis,ĩñũ,Ixty
+107,fingernail,uña,tʸĩĩ,Ixty
+108,cornstalk,rastrojo,nãmã,Ixty
+109,cornmeal,masa,yučã,Ixty
+110,child,hijo,seʔe,Ixty
+111,"cold, phlegm",catarro,sayu,Ixty
+112,good,bueno,baʔa,Ixty
+113,because,porque,či,Ixty
+114,this one,este mismo,mãã,Ixty
+115,is coming,ya viene,bači,Ixty
+116,trash,basura,mĩʔĩ,Ixty
+117,cat,gato,bilu,Ixty
+118,prickly pear,nopal,bĩʔⁿdʸa,Ixty
+119,foot,pie,čaʔa,Ixty
+120,cut,cortar,čaʔⁿdya,Ixty
+121,fifteen,quince,čãʔũ,Ixty
+122,guts,tripas,čɨtɨ,Ixty
+123,ten,diez,uči,Ixty
+124,cold,frío,bičĩ,Ixty
+125,sandal,huarache,ⁿdičãʔ,Ixty
+126,housepot,horcón,sɨ͂ʔɨ͂,Ixty
+127,name,nombre,sɨbɨ,Ixty
+128,cacao,cacao,suʔba,Ixty
+129,ear,oreja,soʔo,Ixty
+130,tasty,sabroso,asɨ͂,Ixty
+131,closed,cerrado,ⁿdasɨ,Ixty
+132,day after tomorrow,pasado mañana,isa,Ixty
+133,sweet,dulce,bišĩ,Ixty
+134,now,ahora,bitʸĩ,Ixty
+135,hole,agujero,yabi,Ixty
+136,afraid,tiene miedo,yuʔbi,Ixty
+137,poor,pobre,ⁿdaʔbi,Ixty
+138,two,dos,ubi,Ixty
+139,scorpion,alacrán,tu sũʔmã,Ixty
+140,go out,salir,[keta],Ixty
+141,paint,pintar,kaʔyu,Ixty
+142,rat,rata,tɨ͂ñɨ͂,Ixty
+143,swelling,hinchazón,kʷĩñũ,Ixty
+144,pimple,grano,ⁿdɨʔyɨ,Ixty
+145,it thunders,truena,kãʔⁿdɨ,Ixty
+146,rainbow,arco iris,koo ñãʔⁿdi,Ixty
+147,bird,pájaro,saa,Ixty
+148,frog,rana,saʔba,Ixty
+149,navel,ombligo,[čoʔle]/šãⁿdu,Ixty
+150,urine,orina,[ⁿdutʸa yuʔu]/šaša,Ixty
+151,chachalaca,chachalaca,lačã,Ixty
+152,smooth,lisa,ⁿdɨʔbɨ/lɨʔbɨ/ⁿdɨɨ,Ixty
+153,little,chico,loʔo,Ixty
+154,day,día,kɨbɨ,Ixty
+155,when,cuándo,ãwã,Ixty
+156,plain,llano,[ⁿduʔba],Ixty
+157,how,cómo,iso,Ixty
+158,carry,cargar,ⁿdiso,Ixty
+159,cockroach,cucaracha,ti tʸeʔe,Ixty
+160,glue,pegamento,ⁿdʸaka,Ixty
+161,sickness,enfermedad,kʷweʔe,Ixty
+162,see,ver,ⁿdʸeʔe,Ixty
+163,slow,despacio,kʷee(ñi),Ixty
+164,house,casa,beʔe,Ixty
+165,mamey,mamey,ⁿdʸika,Ixty
+166,grind,moler,ⁿdʸiko,Ixty
+167,wing,ala,ⁿdičĩ,Ixty
+168,stool,banquito,[silʸa]/tʸayu,Ixty
+169,cornfield,milpa,itu,Ixty
+170,yesterday,ayer,iku,Ixty
+171,other,otro,tuku,Ixty
+172,comb,peine,kuka,Ixty
+173,be born,se nació,[i tubi]/i kaku,Ixty
+174,smart,sabio,ku tuʔba,Ixty
+175,stone,piedra,yuu,Ixty
+176,mouth,boca,yuʔu,Ixty
+177,I,yo,[mãĩ]/yuʔu,Ixty
+178,dew,rocío,yuyu,Ixty
+179,brush,hierba,yuba,Ixty
+180,furrow,surco,yukũ,Ixty
+181,trousers,calzón,čatu,Ixty
+182,priest,sacerdote,sutu,Ixty
+183,brand,fierro,tũñĩ,Ixty
+184,will know,sabrá,[koto/ku ⁿdʸeʔe],Ixty
+185,squirrel,ardilla,[biši],Ixty
+186,loose,floja,taya/[yaʔla],Ixty
+187,heavy,pesado,bee,Ixty
+188,tobacco,tobaco,ĩnũ,Ixty
+1,rain,lluvia,sabi,Cris
+2,agave,maguey,[maɡeĩ],Cris
+3,straw mat,petate,ǰubi,Cris
+4,four,cuatro,kũmĩ,Cris
+5,feather,pluma,tũmĩ,Cris
+6,tail,cola,čũʔmã,Cris
+7,wax,cera,ñũmã,Cris
+8,nose,nariz,šiči,Cris
+9,word,palabra,tũʔũ,Cris
+10,near,está cerca,yačĩ,Cris
+11,tree,árbol,yutũ,Cris
+12,deer,venado,iču,Cris
+13,lard,manteca,čãʔã,Cris
+14,smell,olor,šiko,Cris
+15,tortilla,tortilla,čita,Cris
+16,vomits,vomita,NA,Cris
+17,lazy,flojo,NA,Cris
+18,bed,cama,[kama],Cris
+19,griddle,comal,čiyo,Cris
+20,sin,culpa,NA,Cris
+21,bean,frijol,ⁿduči,Cris
+22,water,agua,ⁿdutʸa/ⁿduča,Cris
+23,river,río,ⁿǰu ⁿǰuča,Cris
+24,mud,lodo,ⁿǰaʔyu/ⁿǰaʔžu,Cris
+25,man's brother,hermano de h.,yãñũ/žãñũ,Cris
+26,three,tres,ũñĩ,Cris
+27,tooth,diente,NA,Cris
+28,five,cinco,ũʔũ,Cris
+29,bitter,amargo,NA,Cris
+30,meat,carne,kõñõ,Cris
+31,red,rojo,kʷaʔa,Cris
+32,(he) went,se fue,NA,Cris
+33,seven,siete,uča,Cris
+34,thread,hilo,žuʔba,Cris
+35,animal,animal,kɨtɨ,Cris
+36,it finishes,se acaba,NA,Cris
+37,egg,blanquillo,ⁿdɨwɨ,Cris
+38,foam,espuma,tɨ͂ñũ,Cris
+39,blood,sangre,nɨ͂ñɨ͂,Cris
+40,husband,marido,ⁿǰɨɨ,Cris
+41,salt,sal,ñɨ͂ɨ͂,Cris
+42,net bag,red,yõnõ,Cris
+43,gourd,jícara,yačĩ,Cris
+44,squash,calabaza,yɨkɨ͂/žɨkɨ͂,Cris
+45,coati,tejón coatí,ⁿǰɨǰɨ,Cris
+46,food,comida,NA,Cris
+47,salty,salado,NA,Cris
+48,blouse,huipil,NA,Cris
+49,work,trabajo,činũ,Cris
+50,cotton,algodón,kači,Cris
+51,wind,viento,tači,Cris
+52,man,hombre,ra yɨɨ,Cris
+53,round,redondon,kuča,Cris
+54,oven,horno,[ʔornũ],Cris
+55,box / drawer,cajón,[kaxa],Cris
+56,mosquito,zancudo,ti kʷãñĩ,Cris
+57,wait for,esperar,čatu,Cris
+58,rotten,podrido,čaʔǰu,Cris
+59,grab,agarrar,tɨ͂ɨ͂,Cris
+60,tendon,tendón,NA,Cris
+61,blow,soplar,tɨbɨ,Cris
+62,handspan,cuarta,NA,Cris
+63,owner,dueño,NA,Cris
+64,lay (egg),poner (huevo),NA,Cris
+65,big (sg.),grande (sg.),kaʔnũ,Cris
+66,neck,cuello,čukũ,Cris
+67,will come,va a venir,kis̯i,Cris
+68,horn,cuerno,ⁿdɨkɨ,Cris
+69,snake,culebra,NA,Cris
+70,ugly,feo,NA,Cris
+71,hill,cerro,žuku/ⁿǰuku,Cris
+72,armadillo,armadillo,NA,Cris
+73,crooked,chueco,NA,Cris
+74,year,año,kʷiya,Cris
+75,eyebrow,ceja,NA,Cris
+76,pus,pus,lakʷa,Cris
+77,demon,demonio,NA,Cris
+78,yellow,amarillo,kʷãã,Cris
+79,sew,coser,kiku,Cris
+80,will carry,va a cargar,kʷa kʷičo,Cris
+81,that,aquel,(i)kã,Cris
+82,below,abajo,NA,Cris
+83,all night,toda la noche,NA,Cris
+84,hot,caliente,NA,Cris
+85,grain of corn,maíz,nũñĩ,Cris
+86,wall,pared,[ⁿčika],Cris
+87,early,temprano,ti ñãʔã,Cris
+88,open,abierto,[ⁿdika],Cris
+89,eight,ocho,ũñã,Cris
+90,tomato,jitomate,NA,Cris
+91,green bean,ejote,NA,Cris
+92,half,mitad,čaba,Cris
+93,cane,caña,ⁿdoo,Cris
+94,clay pot,olla,NA,Cris
+95,liquor,aguardiente,ⁿdišči,Cris
+96,honey,miel,ⁿduši,Cris
+97,armpit,sobaco,šeʔe,Cris
+98,tassel,espiga,NA,Cris
+99,people,gente,ñã ǰɨwɨ,Cris
+100,town,pueblo,ñũũ,Cris
+101,smoke,humo,ñũʔmã,Cris
+102,eat,comer,čači,Cris
+103,hawk,gavilán,NA,Cris
+104,truth,verdad,NA,Cris
+105,fire,lumbre,ñũʔũ,Cris
+106,six,seis,ĩñũ,Cris
+107,fingernail,uña,čĩĩ,Cris
+108,cornstalk,rastrojo,NA,Cris
+109,cornmeal,masa,žučã/ⁿǰučã,Cris
+110,child,hijo,seʔe,Cris
+111,"cold, phlegm",catarro,NA,Cris
+112,good,bueno,NA,Cris
+113,because,porque,či,Cris
+114,this one,este mismo,mãã,Cris
+115,is coming,ya viene,bači,Cris
+116,trash,basura,NA,Cris
+117,cat,gato,milu/ᵐbilu,Cris
+118,prickly pear,nopal,NA,Cris
+119,foot,pie,saʔa,Cris
+120,cut,cortar,čaʔⁿdʸa,Cris
+121,fifteen,quince,čãʔũ,Cris
+122,guts,tripas,(sisi),Cris
+123,ten,diez,uči,Cris
+124,cold,frío,ᵐbiči,Cris
+125,sandal,huarache,ⁿdiščã,Cris
+126,housepot,horcón,NA,Cris
+127,name,nombre,sɨbɨ,Cris
+128,cacao,cacao,[kakao],Cris
+129,ear,oreja,soʔo,Cris
+130,tasty,sabroso,NA,Cris
+131,closed,cerrado,(kači),Cris
+132,day after tomorrow,pasado mañana,NA,Cris
+133,sweet,dulce,biši,Cris
+134,now,ahora,NA,Cris
+135,hole,agujero,NA,Cris
+136,afraid,tiene miedo,ⁿǰuʔu,Cris
+137,poor,pobre,ⁿdaʔbi,Cris
+138,two,dos,ubi,Cris
+139,scorpion,alacrán,NA,Cris
+140,go out,salir,NA,Cris
+141,paint,pintar,NA,Cris
+142,rat,rata,tɨ͂ñɨ͂,Cris
+143,swelling,hinchazón,NA,Cris
+144,pimple,grano,ⁿdɨʔyɨ,Cris
+145,it thunders,truena,kãʔⁿdɨ,Cris
+146,rainbow,arco iris,NA,Cris
+147,bird,pájaro,čaa,Cris
+148,frog,rana,čaʔba/saʔba,Cris
+149,navel,ombligo,NA,Cris
+150,urine,orina,NA,Cris
+151,chachalaca,chachalaca,NA,Cris
+152,smooth,lisa,NA,Cris
+153,little,chico,luʔlu,Cris
+154,day,día,kɨbɨ,Cris
+155,when,cuándo,ãwã,Cris
+156,plain,llano,[ⁿdaa],Cris
+157,how,cómo,ⁿǰosa,Cris
+158,carry,cargar,kʷa kʷičo],Cris
+159,cockroach,cucaracha,NA,Cris
+160,glue,pegamento,NA,Cris
+161,sickness,enfermedad,kʷweʔe,Cris
+162,see,ver,ni čeʔe,Cris
+163,slow,despacio,kʷee,Cris
+164,house,casa,beʔe,Cris
+165,mamey,mamey,NA,Cris
+166,grind,moler,NA,Cris
+167,wing,ala,NA,Cris
+168,stool,banquito,čažu,Cris
+169,cornfield,milpa,itʸu,Cris
+170,yesterday,ayer,iku,Cris
+171,other,otro,[inɡa čaʔa],Cris
+172,comb,peine,NA,Cris
+173,be born,se nació,NA,Cris
+174,smart,sabio,NA,Cris
+175,stone,piedra,žuu,Cris
+176,mouth,boca,NA,Cris
+177,I,yo,[ⁿčuʔbi],Cris
+178,dew,rocío,NA,Cris
+179,brush,hierba,NA,Cris
+180,furrow,surco,NA,Cris
+181,trousers,calzón,NA,Cris
+182,priest,sacerdote,NA,Cris
+183,brand,fierro,NA,Cris
+184,will know,sabrá,[koto/kotũ],Cris
+185,squirrel,ardilla,kʷãñũ,Cris
+186,loose,floja,NA,Cris
+187,heavy,pesado,bee,Cris
+188,tobacco,tobaco,NA,Cris
+1,rain,lluvia,(kũũ)sawi,Lor
+2,agave,maguey,yawi,Lor
+3,straw mat,petate,yuu/yuwi,Lor
+4,four,cuatro,kũmĩ,Lor
+5,feather,pluma,tũmĩ,Lor
+6,tail,cola,sũʔmã,Lor
+7,wax,cera,yũmã,Lor
+8,nose,nariz,šitʸi,Lor
+9,word,palabra,tũʔũ,Lor
+10,near,está cerca,yatʸi,Lor
+11,tree,árbol,yutũ,Lor
+12,deer,venado,isu,Lor
+13,lard,manteca,šãʔã,Lor
+14,smell,olor,šiko,Lor
+15,tortilla,tortilla,šita,Lor
+16,vomits,vomita,ⁿduča,Lor
+17,lazy,flojo,suča,Lor
+18,bed,cama,čito,Lor
+19,griddle,comal,čiyo,Lor
+20,sin,culpa,[čatɨ],Lor
+21,bean,frijol,ⁿdutʸi,Lor
+22,water,agua,ⁿdutʸa,Lor
+23,river,río,yutʸa,Lor
+24,mud,lodo,ⁿdʸaʔyu,Lor
+25,man's brother,hermano de h.,yãñĩ,Lor
+26,three,tres,ũñĩ,Lor
+27,tooth,diente,nũʔũ,Lor
+28,five,cinco,ũʔũ,Lor
+29,bitter,amargo,uwa,Lor
+30,meat,carne,kõñõ,Lor
+31,red,rojo,kʷaʔa,Lor
+32,(he) went,se fue,kʷãʔã,Lor
+33,seven,siete,uča,Lor
+34,thread,hilo,yuʔwa,Lor
+35,animal,animal,kɨtɨ,Lor
+36,it finishes,se acaba,(ñĩ)ⁿdɨʔɨ,Lor
+37,egg,blanquillo,ⁿdɨwɨ,Lor
+38,foam,espuma,tɨ͂ñɨ͂,Lor
+39,blood,sangre,nɨ͂ñɨ͂,Lor
+40,husband,marido,yɨɨ,Lor
+41,salt,sal,ñɨ͂ɨ͂,Lor
+42,net bag,red,yõnõ,Lor
+43,gourd,jícara,yači,Lor
+44,squash,calabaza,yɨkɨ,Lor
+45,coati,tejón coatí,yɨyɨ,Lor
+46,food,comida,ⁿdayu,Lor
+47,salty,salado,uʔwa,Lor
+48,blouse,huipil,šukũ,Lor
+49,work,trabajo,tʸiñũ,Lor
+50,cotton,algodón,katʸi,Lor
+51,wind,viento,tatʸi,Lor
+52,man,hombre,ra yɨɨ,Lor
+53,round,redondon,kutʸa,Lor
+54,oven,horno,NA,Lor
+55,box / drawer,cajón,čatũ,Lor
+56,mosquito,zancudo,tɨ kʷañɨ̃,Lor
+57,wait for,esperar,ⁿdatu,Lor
+58,rotten,podrido,tʸaʔyu,Lor
+59,grab,agarrar,tɨ͂ɨ͂,Lor
+60,tendon,tendón,tutʸi,Lor
+61,blow,soplar,tɨwɨ,Lor
+62,handspan,cuarta,too,Lor
+63,owner,dueño,či toʔo,Lor
+64,lay (egg),poner (huevo),[čatɨ],Lor
+65,big (sg.),grande (sg.),kaʔnũ,Lor
+66,neck,cuello,suku,Lor
+67,will come,va a venir,kiči,Lor
+68,horn,cuerno,ⁿdɨkɨ,Lor
+69,snake,culebra,koo,Lor
+70,ugly,feo,kiñĩ kaa,Lor
+71,hill,cerro,yuku,Lor
+72,armadillo,armadillo,yakʷi,Lor
+73,crooked,chueco,yakʷa,Lor
+74,year,año,kʷiya,Lor
+75,eyebrow,ceja,sɨkʷa,Lor
+76,pus,pus,ⁿdakʷa,Lor
+77,demon,demonio,kʷĩʔnã,Lor
+78,yellow,amarillo,kʷãã,Lor
+79,sew,coser,kiku,Lor
+80,will carry,va a cargar,kʷiso,Lor
+81,that,aquel,ikã,Lor
+82,below,abajo,ĩñĩ nũũ,Lor
+83,all night,toda la noche,ñĩñũ,Lor
+84,hot,caliente,ĩʔñĩ,Lor
+85,grain of corn,maíz,nũñĩ,Lor
+86,wall,pared,nãmã/[ⁿdʸika],Lor
+87,early,temprano,ñãʔã,Lor
+88,open,abierto,nũñã,Lor
+89,eight,ocho,ũñã,Lor
+90,tomato,jitomate,tɨ nãnã,Lor
+91,green bean,ejote,ⁿdʸitʸi,Lor
+92,half,mitad,sawa,Lor
+93,cane,caña,ⁿdoo,Lor
+94,clay pot,olla,kɨsɨ,Lor
+95,liquor,aguardiente,ⁿdiši,Lor
+96,honey,miel,ⁿduši,Lor
+97,armpit,sobaco,čaʔa šeʔe,Lor
+98,tassel,espiga,yoko,Lor
+99,people,gente,ñã yɨwɨ,Lor
+100,town,pueblo,ñũũ,Lor
+101,smoke,humo,yũʔmã,Lor
+102,eat,comer,čači,Lor
+103,hawk,gavilán,tasɨ,Lor
+104,truth,verdad,ⁿdʸiča,Lor
+105,fire,lumbre,ñũʔũ,Lor
+106,six,seis,ĩñũ,Lor
+107,fingernail,uña,tʸĩĩ,Lor
+108,cornstalk,rastrojo,yãmã,Lor
+109,cornmeal,masa,yuča,Lor
+110,child,hijo,seʔe,Lor
+111,"cold, phlegm",catarro,sayu,Lor
+112,good,bueno,waʔa,Lor
+113,because,porque,NA,Lor
+114,this one,este mismo,mãã,Lor
+115,is coming,ya viene,wači,Lor
+116,trash,basura,mĩʔĩ,Lor
+117,cat,gato,mĩlu,Lor
+118,prickly pear,nopal,wĩʔⁿdʸa,Lor
+119,foot,pie,čaʔa,Lor
+120,cut,cortar,saʔya,Lor
+121,fifteen,quince,čãʔũ,Lor
+122,guts,tripas,čɨtɨ,Lor
+123,ten,diez,uči,Lor
+124,cold,frío,wiči,Lor
+125,sandal,huarache,ⁿdʸičã,Lor
+126,housepot,horcón,sɨ͂ʔñɨ͂,Lor
+127,name,nombre,sɨwɨ,Lor
+128,cacao,cacao,suʔwa,Lor
+129,ear,oreja,soʔo,Lor
+130,tasty,sabroso,asɨ,Lor
+131,closed,cerrado,ⁿdasɨ,Lor
+132,day after tomorrow,pasado mañana,isa,Lor
+133,sweet,dulce,wiši,Lor
+134,now,ahora,witʸi,Lor
+135,hole,agujero,yawi,Lor
+136,afraid,tiene miedo,yuʔu/yuʔwi,Lor
+137,poor,pobre,ⁿdaʔwi,Lor
+138,two,dos,uwi/uu,Lor
+139,scorpion,alacrán,tɨ sũʔmã,Lor
+140,go out,salir,[kita],Lor
+141,paint,pintar,(nã)kaʔyu,Lor
+142,rat,rata,tɨ͂ñɨ͂,Lor
+143,swelling,hinchazón,NA,Lor
+144,pimple,grano,ⁿdɨʔyɨ,Lor
+145,it thunders,truena,kãʔⁿdɨ,Lor
+146,rainbow,arco iris,koo yãʔnã,Lor
+147,bird,pájaro,saa,Lor
+148,frog,rana,saʔwa,Lor
+149,navel,ombligo,[čɨtɨ kãʔnũ],Lor
+150,urine,orina,[tʸatʸa],Lor
+151,chachalaca,chachalaca,ⁿdačã,Lor
+152,smooth,lisa,ⁿdɨʔwɨ/ⁿdɨɨ,Lor
+153,little,chico,luʔlu,Lor
+154,day,día,kɨwɨ,Lor
+155,when,cuándo,ãwã,Lor
+156,plain,llano,[čɨkɨ],Lor
+157,how,cómo,[yoso],Lor
+158,carry,cargar,ⁿdʸiso,Lor
+159,cockroach,cucaracha,[ti kʷãã],Lor
+160,glue,pegamento,NA,Lor
+161,sickness,enfermedad,kʷweʔe,Lor
+162,see,ver,ⁿdʸeʔe,Lor
+163,slow,despacio,kʷee,Lor
+164,house,casa,weʔe,Lor
+165,mamey,mamey,ⁿdʸika,Lor
+166,grind,moler,ⁿdʸiko,Lor
+167,wing,ala,ⁿdʸičĩ,Lor
+168,stool,banquito,tʸayu,Lor
+169,cornfield,milpa,itu,Lor
+170,yesterday,ayer,iku,Lor
+171,other,otro,tuku,Lor
+172,comb,peine,kuka,Lor
+173,be born,se nació,(ñi) kaku,Lor
+174,smart,sabio,NA,Lor
+175,stone,piedra,yuu,Lor
+176,mouth,boca,yuʔu,Lor
+177,I,yo,yuʔu,Lor
+178,dew,rocío,yuyu,Lor
+179,brush,hierba,yuku,Lor
+180,furrow,surco,yukũ,Lor
+181,trousers,calzón,[ti čaʔa],Lor
+182,priest,sacerdote,sutu,Lor
+183,brand,fierro,tũñĩ,Lor
+184,will know,sabrá,[koto],Lor
+185,squirrel,ardilla,kʷãñũ,Lor
+186,loose,floja,taya,Lor
+187,heavy,pesado,wee,Lor
+188,tobacco,tobaco,ĩnõ,Lor
+1,rain,lluvia,(kũũ)sawi,Mech
+2,agave,maguey,yawi,Mech
+3,straw mat,petate,yuu/yuwi,Mech
+4,four,cuatro,kũmĩ,Mech
+5,feather,pluma,tũmĩ,Mech
+6,tail,cola,sũʔmã,Mech
+7,wax,cera,ñũmã,Mech
+8,nose,nariz,šitʸĩ,Mech
+9,word,palabra,tũʔũ,Mech
+10,near,está cerca,yatʸĩ,Mech
+11,tree,árbol,yutũ,Mech
+12,deer,venado,isu,Mech
+13,lard,manteca,šãʔã,Mech
+14,smell,olor,šiko,Mech
+15,tortilla,tortilla,šita,Mech
+16,vomits,vomita,ⁿdučã,Mech
+17,lazy,flojo,sučã,Mech
+18,bed,cama,čito,Mech
+19,griddle,comal,čiyo,Mech
+20,sin,culpa,[čatɨ],Mech
+21,bean,frijol,ⁿdutʸi,Mech
+22,water,agua,ⁿdutʸa,Mech
+23,river,río,[yuu],Mech
+24,mud,lodo,ⁿdʸaʔyu,Mech
+25,man's brother,hermano de h.,yãñĩ,Mech
+26,three,tres,ũñĩ,Mech
+27,tooth,diente,nõʔõ,Mech
+28,five,cinco,õʔõ,Mech
+29,bitter,amargo,uwa,Mech
+30,meat,carne,kõñõ,Mech
+31,red,rojo,kʷaʔa,Mech
+32,(he) went,se fue,kʷãʔã,Mech
+33,seven,siete,uča,Mech
+34,thread,hilo,yuʔwa,Mech
+35,animal,animal,kɨtɨ,Mech
+36,it finishes,se acaba,ⁿdɨʔɨ,Mech
+37,egg,blanquillo,ⁿdɨwɨ,Mech
+38,foam,espuma,tɨ͂ñɨ͂,Mech
+39,blood,sangre,nɨ͂̀ñɨ͂̀,Mech
+40,husband,marido,yɨɨ,Mech
+41,salt,sal,ñɨ͂̀ɨ͂̀,Mech
+42,net bag,red,yõnõ,Mech
+43,gourd,jícara,yačĩ,Mech
+44,squash,calabaza,NA,Mech
+45,coati,tejón coatí,yɨyɨ,Mech
+46,food,comida,ⁿdʸayu,Mech
+47,salty,salado,uʔwa,Mech
+48,blouse,huipil,šukũ,Mech
+49,work,trabajo,tʸiñũ,Mech
+50,cotton,algodón,katʸi,Mech
+51,wind,viento,tatʸi,Mech
+52,man,hombre,ra yɨɨ,Mech
+53,round,redondon,kutʸa,Mech
+54,oven,horno,čitũ,Mech
+55,box / drawer,cajón,čatũ,Mech
+56,mosquito,zancudo,tɨ kʷañĩ,Mech
+57,wait for,esperar,ⁿdatu,Mech
+58,rotten,podrido,tʸaʔyu,Mech
+59,grab,agarrar,tɨ͂ɨ͂,Mech
+60,tendon,tendón,tutʸi,Mech
+61,blow,soplar,tɨwɨ,Mech
+62,handspan,cuarta,too,Mech
+63,owner,dueño,či toʔo,Mech
+64,lay (egg),poner (huevo),[čatɨ],Mech
+65,big (sg.),grande (sg.),kaʔnũ,Mech
+66,neck,cuello,sùkũ̀,Mech
+67,will come,va a venir,kiči,Mech
+68,horn,cuerno,ⁿdɨkɨ,Mech
+69,snake,culebra,koo,Mech
+70,ugly,feo,kiñĩ,Mech
+71,hill,cerro,yuku,Mech
+72,armadillo,armadillo,yakʷĩ,Mech
+73,crooked,chueco,yakʷa,Mech
+74,year,año,kʷiya,Mech
+75,eyebrow,ceja,sukʷa,Mech
+76,pus,pus,ⁿdakʷa,Mech
+77,demon,demonio,kʷĩʔnã,Mech
+78,yellow,amarillo,kʷãã,Mech
+79,sew,coser,kiku,Mech
+80,will carry,va a cargar,kʷiso,Mech
+81,that,aquel,yukʷã,Mech
+82,below,abajo,nĩnõ,Mech
+83,all night,toda la noche,NA,Mech
+84,hot,caliente,ĩʔñĩ,Mech
+85,grain of corn,maíz,nũñĩ,Mech
+86,wall,pared,nãmã/[čaʔa],Mech
+87,early,temprano,ñãʔã,Mech
+88,open,abierto,[ta koʔo]/ta nũñã,Mech
+89,eight,ocho,ũñã,Mech
+90,tomato,jitomate,tɨ nãnã,Mech
+91,green bean,ejote,ⁿdʸitʸi,Mech
+92,half,mitad,sawa,Mech
+93,cane,caña,ⁿdoo,Mech
+94,clay pot,olla,kɨsɨ,Mech
+95,liquor,aguardiente,ⁿdiši,Mech
+96,honey,miel,[ñũñũ]/ⁿduši,Mech
+97,armpit,sobaco,šeʔe,Mech
+98,tassel,espiga,yókó,Mech
+99,people,gente,ñã yɨvɨ,Mech
+100,town,pueblo,ñũũ,Mech
+101,smoke,humo,ñũʔmã,Mech
+102,eat,comer,čači,Mech
+103,hawk,gavilán,tasũ,Mech
+104,truth,verdad,ⁿdiča,Mech
+105,fire,lumbre,ñũʔũ,Mech
+106,six,seis,ĩñũ,Mech
+107,fingernail,uña,tʸĩĩ,Mech
+108,cornstalk,rastrojo,ñãmã,Mech
+109,cornmeal,masa,yučã,Mech
+110,child,hijo,seʔe,Mech
+111,"cold, phlegm",catarro,θayu/sayu,Mech
+112,good,bueno,waʔa,Mech
+113,because,porque,či,Mech
+114,this one,este mismo,mãã,Mech
+115,is coming,ya viene,wači,Mech
+116,trash,basura,mĩʔĩ,Mech
+117,cat,gato,(čumĩ),Mech
+118,prickly pear,nopal,wĩʔⁿdʸa,Mech
+119,foot,pie,čaʔa,Mech
+120,cut,cortar,čaʔⁿdʸa,Mech
+121,fifteen,quince,čãʔũ,Mech
+122,guts,tripas,čɨtɨ,Mech
+123,ten,diez,uči,Mech
+124,cold,frío,wičĩ,Mech
+125,sandal,huarache,ⁿdičã,Mech
+126,housepot,horcón,sɨ͂ʔñɨ͂,Mech
+127,name,nombre,sɨwɨ,Mech
+128,cacao,cacao,suʔwa,Mech
+129,ear,oreja,soʔo,Mech
+130,tasty,sabroso,asɨ,Mech
+131,closed,cerrado,ⁿdasɨ,Mech
+132,day after tomorrow,pasado mañana,isa,Mech
+133,sweet,dulce,wiši,Mech
+134,now,ahora,witʸĩ,Mech
+135,hole,agujero,yawi,Mech
+136,afraid,tiene miedo,yuʔu/yuʔwi,Mech
+137,poor,pobre,ⁿdaʔwi,Mech
+138,two,dos,uu/uwi,Mech
+139,scorpion,alacrán,tɨ sũʔmã,Mech
+140,go out,salir,[kita],Mech
+141,paint,pintar,nã kaʔyu,Mech
+142,rat,rata,tɨ͂ñɨ͂,Mech
+143,swelling,hinchazón,[ⁿdaa],Mech
+144,pimple,grano,ⁿdɨʔyɨ,Mech
+145,it thunders,truena,kãʔⁿdɨ,Mech
+146,rainbow,arco iris,koo yãʔⁿdʸi,Mech
+147,bird,pájaro,saa,Mech
+148,frog,rana,saʔwa,Mech
+149,navel,ombligo,[čɨtɨ kãʔnũ],Mech
+150,urine,orina,[tʸatʸa]/čaša,Mech
+151,chachalaca,chachalaca,ⁿdačã,Mech
+152,smooth,lisa,ⁿdɨʔwɨ,Mech
+153,little,chico,luʔlu,Mech
+154,day,día,kɨwɨ,Mech
+155,when,cuándo,ãwã,Mech
+156,plain,llano,[ⁿduʔwa],Mech
+157,how,cómo,ⁿdʸiso,Mech
+158,carry,cargar,ⁿdʸiso,Mech
+159,cockroach,cucaracha,[ti šiko]/ti tʸeʔe,Mech
+160,glue,pegamento,NA,Mech
+161,sickness,enfermedad,kʷweʔe,Mech
+162,see,ver,ⁿdʸeʔe,Mech
+163,slow,despacio,kʷee,Mech
+164,house,casa,weʔe,Mech
+165,mamey,mamey,ⁿdʸika,Mech
+166,grind,moler,ⁿdʸiko,Mech
+167,wing,ala,ⁿdičĩ,Mech
+168,stool,banquito,tʸayu,Mech
+169,cornfield,milpa,itu,Mech
+170,yesterday,ayer,iku,Mech
+171,other,otro,tuku,Mech
+172,comb,peine,kuka,Mech
+173,be born,se nació,kaku,Mech
+174,smart,sabio,ku tuʔwa,Mech
+175,stone,piedra,yuu,Mech
+176,mouth,boca,yuʔu,Mech
+177,I,yo,yuʔu,Mech
+178,dew,rocío,yuyu,Mech
+179,brush,hierba,[kuʔu],Mech
+180,furrow,surco,yukũ,Mech
+181,trousers,calzón,[ti čaʔa],Mech
+182,priest,sacerdote,sutu,Mech
+183,brand,fierro,tũñĩ,Mech
+184,will know,sabrá,[koto],Mech
+185,squirrel,ardilla,kʷãñũ,Mech
+186,loose,floja,taya,Mech
+187,heavy,pesado,wee,Mech
+188,tobacco,tobaco,ĩnõ,Mech
+1,rain,lluvia,(kõõ)sawi,Huaz
+2,agave,maguey,yawi,Huaz
+3,straw mat,petate,yuwi,Huaz
+4,four,cuatro,kũmĩ,Huaz
+5,feather,pluma,tũmĩ,Huaz
+6,tail,cola,sũʔmã,Huaz
+7,wax,cera,yũmã,Huaz
+8,nose,nariz,šitʸĩ,Huaz
+9,word,palabra,tõʔõ,Huaz
+10,near,está cerca,yatʸi,Huaz
+11,tree,árbol,yutũ,Huaz
+12,deer,venado,isu,Huaz
+13,lard,manteca,šãʔã,Huaz
+14,smell,olor,šiko,Huaz
+15,tortilla,tortilla,šita,Huaz
+16,vomits,vomita,ⁿdučã,Huaz
+17,lazy,flojo,sučã,Huaz
+18,bed,cama,čito,Huaz
+19,griddle,comal,čiyo,Huaz
+20,sin,culpa,[čatɨ],Huaz
+21,bean,frijol,ⁿdutʸi,Huaz
+22,water,agua,ⁿdutʸa,Huaz
+23,river,río,[yuu],Huaz
+24,mud,lodo,ⁿdʸaʔyu,Huaz
+25,man's brother,hermano de h.,yãñĩ,Huaz
+26,three,tres,ũñĩ,Huaz
+27,tooth,diente,nõʔõ,Huaz
+28,five,cinco,õʔõ,Huaz
+29,bitter,amargo,uwa,Huaz
+30,meat,carne,kõñõ,Huaz
+31,red,rojo,kʷaʔa,Huaz
+32,(he) went,se fue,kʷãʔã,Huaz
+33,seven,siete,uča,Huaz
+34,thread,hilo,yuʔwa,Huaz
+35,animal,animal,kɨtɨ,Huaz
+36,it finishes,se acaba,ⁿdɨʔɨ,Huaz
+37,egg,blanquillo,ⁿdɨwɨ,Huaz
+38,foam,espuma,tɨ͂ñɨ͂,Huaz
+39,blood,sangre,nɨ͂̀ñɨ͂̀,Huaz
+40,husband,marido,yɨɨ,Huaz
+41,salt,sal,ñɨ͂̀ɨ͂̀,Huaz
+42,net bag,red,yõnõ,Huaz
+43,gourd,jícara,yačĩ,Huaz
+44,squash,calabaza,NA,Huaz
+45,coati,tejón coatí,yɨyɨ,Huaz
+46,food,comida,ⁿdʸayu,Huaz
+47,salty,salado,uʔwa,Huaz
+48,blouse,huipil,šikũ,Huaz
+49,work,trabajo,tʸiñũ,Huaz
+50,cotton,algodón,katʸi,Huaz
+51,wind,viento,tatʸi,Huaz
+52,man,hombre,ra yɨɨ,Huaz
+53,round,redondon,kutʸa,Huaz
+54,oven,horno,NA,Huaz
+55,box / drawer,cajón,čatũ,Huaz
+56,mosquito,zancudo,tɨ kʷañĩ,Huaz
+57,wait for,esperar,ⁿdʸatu,Huaz
+58,rotten,podrido,tʸaʔyu,Huaz
+59,grab,agarrar,tɨ͂ɨ͂,Huaz
+60,tendon,tendón,tutʸi,Huaz
+61,blow,soplar,tɨwɨ,Huaz
+62,handspan,cuarta,too,Huaz
+63,owner,dueño,či toʔo,Huaz
+64,lay (egg),poner (huevo),[čatɨ],Huaz
+65,big (sg.),grande (sg.),kaʔnũ,Huaz
+66,neck,cuello,sùkũ̀,Huaz
+67,will come,va a venir,kiči,Huaz
+68,horn,cuerno,ⁿdɨkɨ,Huaz
+69,snake,culebra,koo,Huaz
+70,ugly,feo,kiñĩ,Huaz
+71,hill,cerro,yuku,Huaz
+72,armadillo,armadillo,yakʷĩ,Huaz
+73,crooked,chueco,yakʷa,Huaz
+74,year,año,kʷiya,Huaz
+75,eyebrow,ceja,sɨkʷa,Huaz
+76,pus,pus,ⁿdak a,Huaz
+77,demon,demonio,kʷĩʔnã,Huaz
+78,yellow,amarillo,kʷãã,Huaz
+79,sew,coser,kiku,Huaz
+80,will carry,va a cargar,kʷiso,Huaz
+81,that,aquel,yukʷã,Huaz
+82,below,abajo,[yuu],Huaz
+83,all night,toda la noche,NA,Huaz
+84,hot,caliente,ĩʔñĩ,Huaz
+85,grain of corn,maíz,nũñĩ,Huaz
+86,wall,pared,nãmã,Huaz
+87,early,temprano,[yu kãʔnũ ka],Huaz
+88,open,abierto,nũñã,Huaz
+89,eight,ocho,ũñã,Huaz
+90,tomato,jitomate,tɨ nãnã,Huaz
+91,green bean,ejote,ⁿdʸitʸi,Huaz
+92,half,mitad,sawa,Huaz
+93,cane,caña,ⁿdoo,Huaz
+94,clay pot,olla,kɨsɨ,Huaz
+95,liquor,aguardiente,ⁿdiši,Huaz
+96,honey,miel,[ⁿdutʸa ñũñũ],Huaz
+97,armpit,sobaco,tʸiči šeʔe,Huaz
+98,tassel,espiga,yoko,Huaz
+99,people,gente,ñã yɨwɨ,Huaz
+100,town,pueblo,ñũũ,Huaz
+101,smoke,humo,yũʔmã,Huaz
+102,eat,comer,čači,Huaz
+103,hawk,gavilán,tasũ,Huaz
+104,truth,verdad,ⁿdiča,Huaz
+105,fire,lumbre,ñũʔũ,Huaz
+106,six,seis,ĩñũ,Huaz
+107,fingernail,uña,tʸĩĩ,Huaz
+108,cornstalk,rastrojo,yãmã,Huaz
+109,cornmeal,masa,yučã,Huaz
+110,child,hijo,seʔe,Huaz
+111,"cold, phlegm",catarro,sayu,Huaz
+112,good,bueno,waʔa,Huaz
+113,because,porque,NA,Huaz
+114,this one,este mismo,NA,Huaz
+115,is coming,ya viene,wači,Huaz
+116,trash,basura,mĩʔĩ,Huaz
+117,cat,gato,(čumĩ),Huaz
+118,prickly pear,nopal,wĩʔⁿdʸa,Huaz
+119,foot,pie,čaʔa,Huaz
+120,cut,cortar,čaʔⁿdʸa,Huaz
+121,fifteen,quince,čãʔũ,Huaz
+122,guts,tripas,čɨtɨ,Huaz
+123,ten,diez,uči,Huaz
+124,cold,frío,wičĩ,Huaz
+125,sandal,huarache,ⁿdičã,Huaz
+126,housepot,horcón,[tu čaʔa],Huaz
+127,name,nombre,sɨwɨ,Huaz
+128,cacao,cacao,suʔwa,Huaz
+129,ear,oreja,soʔo,Huaz
+130,tasty,sabroso,asɨ,Huaz
+131,closed,cerrado,ⁿdasɨ,Huaz
+132,day after tomorrow,pasado mañana,isa,Huaz
+133,sweet,dulce,wiši,Huaz
+134,now,ahora,witʸĩ,Huaz
+135,hole,agujero,yawi,Huaz
+136,afraid,tiene miedo,yuʔu,Huaz
+137,poor,pobre,ⁿdaʔwi,Huaz
+138,two,dos,uu/uwi,Huaz
+139,scorpion,alacrán,tɨ sũʔmã,Huaz
+140,go out,salir,[kita],Huaz
+141,paint,pintar,kaʔyu,Huaz
+142,rat,rata,tɨ͂ñɨ͂,Huaz
+143,swelling,hinchazón,kʷĩñõ/kʷañõʔõ,Huaz
+144,pimple,grano,ⁿdɨʔyɨ,Huaz
+145,it thunders,truena,kãʔⁿdɨ,Huaz
+146,rainbow,arco iris,ko yãʔⁿdʸi,Huaz
+147,bird,pájaro,saa,Huaz
+148,frog,rana,[lekʷe]/saʔwa,Huaz
+149,navel,ombligo,[čɨtɨ koʔo],Huaz
+150,urine,orina,[tʸatʸa]/čaša,Huaz
+151,chachalaca,chachalaca,ⁿdačã,Huaz
+152,smooth,lisa,ⁿdɨʔwɨ,Huaz
+153,little,chico,luʔlu/[tʸu waa],Huaz
+154,day,día,kɨwɨ,Huaz
+155,when,cuándo,ãwã,Huaz
+156,plain,llano,[ⁿduʔwa],Huaz
+157,how,cómo,ñõso kaa,Huaz
+158,carry,cargar,ⁿdʸiso,Huaz
+159,cockroach,cucaracha,[ti šiko]/ti tʸeʔe,Huaz
+160,glue,pegamento,[ča kiši],Huaz
+161,sickness,enfermedad,kʷweʔe,Huaz
+162,see,ver,ⁿdʸeʔe,Huaz
+163,slow,despacio,kʷee,Huaz
+164,house,casa,weʔe,Huaz
+165,mamey,mamey,ⁿdʸika nãʔnã,Huaz
+166,grind,moler,ⁿdʸiko,Huaz
+167,wing,ala,ⁿdičĩ,Huaz
+168,stool,banquito,tʸayu,Huaz
+169,cornfield,milpa,itu,Huaz
+170,yesterday,ayer,iku,Huaz
+171,other,otro,tuku,Huaz
+172,comb,peine,kuka,Huaz
+173,be born,se nació,kaku,Huaz
+174,smart,sabio,ku tuʔwa,Huaz
+175,stone,piedra,yuu,Huaz
+176,mouth,boca,yuʔu,Huaz
+177,I,yo,yuʔu,Huaz
+178,dew,rocío,[kačĩ],Huaz
+179,brush,hierba,[kuʔu],Huaz
+180,furrow,surco,yukũ,Huaz
+181,trousers,calzón,[kutu čaʔa],Huaz
+182,priest,sacerdote,sutu,Huaz
+183,brand,fierro,tũñĩ,Huaz
+184,will know,sabrá,[koto],Huaz
+185,squirrel,ardilla,kʷãñũ,Huaz
+186,loose,floja,taya,Huaz
+187,heavy,pesado,wee,Huaz
+188,tobacco,tobaco,ĩnõ,Huaz
+1,rain,lluvia,sabi,Jam
+2,agave,maguey,yabi,Jam
+3,straw mat,petate,yubi,Jam
+4,four,cuatro,kũmĩ,Jam
+5,feather,pluma,tũmĩ,Jam
+6,tail,cola,sũʔmã,Jam
+7,wax,cera,ñũmã,Jam
+8,nose,nariz,šitʸĩ,Jam
+9,word,palabra,tũʔũ,Jam
+10,near,está cerca,yatʸĩ,Jam
+11,tree,árbol,yutũ,Jam
+12,deer,venado,isu,Jam
+13,lard,manteca,šãʔã,Jam
+14,smell,olor,šiko,Jam
+15,tortilla,tortilla,šita,Jam
+16,vomits,vomita,ⁿdučã,Jam
+17,lazy,flojo,suča,Jam
+18,bed,cama,čito,Jam
+19,griddle,comal,čiyo,Jam
+20,sin,culpa,kʷatʸi,Jam
+21,bean,frijol,ⁿdutʸi,Jam
+22,water,agua,ⁿdutʸa,Jam
+23,river,río,yutʸa,Jam
+24,mud,lodo,ⁿdʸaʔyu,Jam
+25,man's brother,hermano de h.,yãñĩ,Jam
+26,three,tres,ũñĩ,Jam
+27,tooth,diente,nõʔõ,Jam
+28,five,cinco,õʔõ,Jam
+29,bitter,amargo,uba,Jam
+30,meat,carne,kõñõ,Jam
+31,red,rojo,k°aʔa,Jam
+32,(he) went,se fue,kʷãʔã,Jam
+33,seven,siete,uča,Jam
+34,thread,hilo,yuʔba,Jam
+35,animal,animal,kɨtɨ,Jam
+36,it finishes,se acaba,ⁿdɨʔɨ,Jam
+37,egg,blanquillo,ⁿdɨbɨ,Jam
+38,foam,espuma,tɨ͂ñɨ͂,Jam
+39,blood,sangre,nɨ͂ñɨ͂,Jam
+40,husband,marido,yɨɨ,Jam
+41,salt,sal,ñɨ͂ɨ͂,Jam
+42,net bag,red,yõnõ,Jam
+43,gourd,jícara,yačĩ,Jam
+44,squash,calabaza,yɨkɨ (kʷaʔa),Jam
+45,coati,tejón coatí,yɨyɨ,Jam
+46,food,comida,NA,Jam
+47,salty,salado,uʔba,Jam
+48,blouse,huipil,šikũ,Jam
+49,work,trabajo,tʸiñũ,Jam
+50,cotton,algodón,katʸi,Jam
+51,wind,viento,tatʸi,Jam
+52,man,hombre,ra yɨɨ,Jam
+53,round,redondon,kutʸa,Jam
+54,oven,horno,NA,Jam
+55,box / drawer,cajón,čatũ,Jam
+56,mosquito,zancudo,tɨ kʷañɨ̃,Jam
+57,wait for,esperar,ⁿdʸatu,Jam
+58,rotten,podrido,tʸaʔyu,Jam
+59,grab,agarrar,tɨ͂ɨ͂,Jam
+60,tendon,tendón,tutʸi,Jam
+61,blow,soplar,tɨwɨ,Jam
+62,handspan,cuarta,too,Jam
+63,owner,dueño,či toʔo,Jam
+64,lay (egg),poner (huevo),[čatɨ],Jam
+65,big (sg.),grande (sg.),kaʔnũ,Jam
+66,neck,cuello,sukũ,Jam
+67,will come,va a venir,kiči,Jam
+68,horn,cuerno,ⁿdɨkɨ,Jam
+69,snake,culebra,koo,Jam
+70,ugly,feo,kiñĩ kaa,Jam
+71,hill,cerro,yuku,Jam
+72,armadillo,armadillo,yakʷĩ,Jam
+73,crooked,chueco,yakʷa,Jam
+74,year,año,kʷiya,Jam
+75,eyebrow,ceja,sɨkʷa,Jam
+76,pus,pus,ⁿdakʷa,Jam
+77,demon,demonio,kʷĩʔnã,Jam
+78,yellow,amarillo,kʷãã,Jam
+79,sew,coser,kiku,Jam
+80,will carry,va a cargar,kʷiso,Jam
+81,that,aquel,yukʷã,Jam
+82,below,abajo,[(itʸi) yubi],Jam
+83,all night,toda la noche,[ⁿdi ñũũ],Jam
+84,hot,caliente,ĩʔñĩ,Jam
+85,grain of corn,maíz,nũñĩ,Jam
+86,wall,pared,nãmã/[ča beʔe],Jam
+87,early,temprano,ñãʔã,Jam
+88,open,abierto,ta nũñã,Jam
+89,eight,ocho,ũñã,Jam
+90,tomato,jitomate,tɨ nãnã,Jam
+91,green bean,ejote,ⁿdʸitʸi,Jam
+92,half,mitad,saba,Jam
+93,cane,caña,ⁿdoo,Jam
+94,clay pot,olla,kɨsɨ,Jam
+95,liquor,aguardiente,ⁿdiši,Jam
+96,honey,miel,[tʸa ñũñũ]/ⁿdušu,Jam
+97,armpit,sobaco,šeʔe,Jam
+98,tassel,espiga,yoko,Jam
+99,people,gente,ñã yɨbɨ,Jam
+100,town,pueblo,ñũũ,Jam
+101,smoke,humo,ñũʔmã,Jam
+102,eat,comer,čači,Jam
+103,hawk,gavilán,tasũ,Jam
+104,truth,verdad,ⁿdiča,Jam
+105,fire,lumbre,ñũʔũ,Jam
+106,six,seis,ĩñũ,Jam
+107,fingernail,uña,tʸĩĩ,Jam
+108,cornstalk,rastrojo,ñãmã,Jam
+109,cornmeal,masa,yučã,Jam
+110,child,hijo,seʔe,Jam
+111,"cold, phlegm",catarro,sayu,Jam
+112,good,bueno,baʔa,Jam
+113,because,porque,batʸi/či,Jam
+114,this one,este mismo,mãã,Jam
+115,is coming,ya viene,bači,Jam
+116,trash,basura,mĩʔĩ,Jam
+117,cat,gato,(čumĩ),Jam
+118,prickly pear,nopal,bĩʔⁿdʸa,Jam
+119,foot,pie,čaʔa,Jam
+120,cut,cortar,čaʔⁿdʸa,Jam
+121,fifteen,quince,čãʔũ,Jam
+122,guts,tripas,čɨtɨ,Jam
+123,ten,diez,uči,Jam
+124,cold,frío,bičĩ,Jam
+125,sandal,huarache,ⁿdičã,Jam
+126,housepot,horcón,sɨ͂ʔñɨ͂,Jam
+127,name,nombre,sɨbɨ,Jam
+128,cacao,cacao,siʔba,Jam
+129,ear,oreja,soʔo,Jam
+130,tasty,sabroso,asɨ͂,Jam
+131,closed,cerrado,yasɨ,Jam
+132,day after tomorrow,pasado mañana,isa,Jam
+133,sweet,dulce,bišĩ,Jam
+134,now,ahora,bitʸĩ,Jam
+135,hole,agujero,yabi,Jam
+136,afraid,tiene miedo,yuʔbi,Jam
+137,poor,pobre,ⁿdaʔbi,Jam
+138,two,dos,ubi,Jam
+139,scorpion,alacrán,tɨ sũʔmã,Jam
+140,go out,salir,[kita],Jam
+141,paint,pintar,kaʔyu,Jam
+142,rat,rata,tɨ͂ñɨ͂,Jam
+143,swelling,hinchazón,[kʷa ñũʔũ],Jam
+144,pimple,grano,ⁿdɨʔyɨ,Jam
+145,it thunders,truena,kãʔⁿdɨ,Jam
+146,rainbow,arco iris,koo yãʔⁿdʸi,Jam
+147,bird,pájaro,saa,Jam
+148,frog,rana,saʔba,Jam
+149,navel,ombligo,[čɨtɨ koʔo],Jam
+150,urine,orina,čaša,Jam
+151,chachalaca,chachalaca,ⁿdačã,Jam
+152,smooth,lisa,ⁿdɨʔbɨ/ⁿdɨɨ,Jam
+153,little,chico,luʔlu,Jam
+154,day,día,kɨbɨ,Jam
+155,when,cuándo,ãwã,Jam
+156,plain,llano,[ⁿduʔba],Jam
+157,how,cómo,yoso,Jam
+158,carry,cargar,ⁿdʸiso,Jam
+159,cockroach,cucaracha,ti tʸaʔya,Jam
+160,glue,pegamento,[sučã],Jam
+161,sickness,enfermedad,kʷweʔe,Jam
+162,see,ver,ⁿdʸeʔe,Jam
+163,slow,despacio,kʷee,Jam
+164,house,casa,beʔe,Jam
+165,mamey,mamey,ⁿdʸika,Jam
+166,grind,moler,ⁿdʸiko,Jam
+167,wing,ala,ⁿdiči,Jam
+168,stool,banquito,tʸayu,Jam
+169,cornfield,milpa,itu,Jam
+170,yesterday,ayer,iku,Jam
+171,other,otro,tuku,Jam
+172,comb,peine,kuka,Jam
+173,be born,se nació,kaku,Jam
+174,smart,sabio,[yatʸĩ],Jam
+175,stone,piedra,yuu,Jam
+176,mouth,boca,yuʔu,Jam
+177,I,yo,yuʔu,Jam
+178,dew,rocío,[kačĩ],Jam
+179,brush,hierba,[kuʔu],Jam
+180,furrow,surco,yukũ,Jam
+181,trousers,calzón,[kutu čaʔa],Jam
+182,priest,sacerdote,sutu,Jam
+183,brand,fierro,tũñĩ,Jam
+184,will know,sabrá,[koto],Jam
+185,squirrel,ardilla,kʷãñũ,Jam
+186,loose,floja,taya,Jam
+187,heavy,pesado,bee,Jam
+188,tobacco,tobaco,ĩnõ,Jam
+1,rain,lluvia,(kũũ)sawi,Chay
+2,agave,maguey,yawi,Chay
+3,straw mat,petate,yuu/yuwi,Chay
+4,four,cuatro,kũmĩ,Chay
+5,feather,pluma,tũmĩ,Chay
+6,tail,cola,sũʔmã,Chay
+7,wax,cera,ñũmã,Chay
+8,nose,nariz,šitʸi,Chay
+9,word,palabra,tũʔũ,Chay
+10,near,está cerca,yatʸĩ/yačĩ,Chay
+11,tree,árbol,yutu,Chay
+12,deer,venado,isu,Chay
+13,lard,manteca,šãʔã,Chay
+14,smell,olor,šiko,Chay
+15,tortilla,tortilla,šita,Chay
+16,vomits,vomita,ⁿduča,Chay
+17,lazy,flojo,sučã,Chay
+18,bed,cama,čito,Chay
+19,griddle,comal,čiyo,Chay
+20,sin,culpa,[čatɨ],Chay
+21,bean,frijol,ⁿdutʸi,Chay
+22,water,agua,ⁿdutʸa,Chay
+23,river,río,yutʸa,Chay
+24,mud,lodo,ⁿdʸaʔyu,Chay
+25,man's brother,hermano de h.,yãñĩ,Chay
+26,three,tres,ũñĩ,Chay
+27,tooth,diente,nõʔõ,Chay
+28,five,cinco,õʔõ,Chay
+29,bitter,amargo,uwa,Chay
+30,meat,carne,kõñõ,Chay
+31,red,rojo,kʷaʔa,Chay
+32,(he) went,se fue,kʷãʔã,Chay
+33,seven,siete,uča,Chay
+34,thread,hilo,yuʔwa,Chay
+35,animal,animal,kɨtɨ,Chay
+36,it finishes,se acaba,ⁿdɨʔɨ,Chay
+37,egg,blanquillo,ⁿdɨwɨ,Chay
+38,foam,espuma,tɨ͂ñɨ͂,Chay
+39,blood,sangre,nɨ͂̀ñɨ͂̀,Chay
+40,husband,marido,yɨɨ,Chay
+41,salt,sal,ñɨ͂̀ɨ͂̀,Chay
+42,net bag,red,yõnõ,Chay
+43,gourd,jícara,yači,Chay
+44,squash,calabaza,NA,Chay
+45,coati,tejón coatí,yɨyɨ,Chay
+46,food,comida,ⁿdʸayu,Chay
+47,salty,salado,uʔwa,Chay
+48,blouse,huipil,[su ⁿduʔu],Chay
+49,work,trabajo,tʸiñũ,Chay
+50,cotton,algodón,katʸi,Chay
+51,wind,viento,tatʸi,Chay
+52,man,hombre,ra yɨɨ,Chay
+53,round,redondon,kutʸa,Chay
+54,oven,horno,NA,Chay
+55,box / drawer,cajón,čatũ,Chay
+56,mosquito,zancudo,tɨ kʷañɨ̃,Chay
+57,wait for,esperar,ⁿdatu,Chay
+58,rotten,podrido,tʸaʔyu,Chay
+59,grab,agarrar,tɨ͂ɨ͂,Chay
+60,tendon,tendón,tutʸi,Chay
+61,blow,soplar,tɨwɨ,Chay
+62,handspan,cuarta,too,Chay
+63,owner,dueño,či toʔo,Chay
+64,lay (egg),poner (huevo),[čatɨ],Chay
+65,big (sg.),grande (sg.),kaʔnũ,Chay
+66,neck,cuello,sùkũ̀,Chay
+67,will come,va a venir,kiči,Chay
+68,horn,cuerno,ⁿdɨkɨ,Chay
+69,snake,culebra,koo,Chay
+70,ugly,feo,kiñĩ,Chay
+71,hill,cerro,yuku,Chay
+72,armadillo,armadillo,yakʷĩ,Chay
+73,crooked,chueco,yakʷa,Chay
+74,year,año,kʷiya,Chay
+75,eyebrow,ceja,sukʷa,Chay
+76,pus,pus,ⁿdakʷa,Chay
+77,demon,demonio,kʷĩʔnã,Chay
+78,yellow,amarillo,kʷã́ã́,Chay
+79,sew,coser,[ⁿdɨkʷɨ],Chay
+80,will carry,va a cargar,kʷiso,Chay
+81,that,aquel,yukʷã,Chay
+82,below,abajo,nĩnũ,Chay
+83,all night,toda la noche,[ñãku],Chay
+84,hot,caliente,ĩʔñĩ,Chay
+85,grain of corn,maíz,nũñĩ,Chay
+86,wall,pared,nãmã/[ⁿdʸika],Chay
+87,early,temprano,ñãʔã,Chay
+88,open,abierto,nũñã,Chay
+89,eight,ocho,ũñã,Chay
+90,tomato,jitomate,tɨ nãnã,Chay
+91,green bean,ejote,ⁿdʸitʸi,Chay
+92,half,mitad,sawa,Chay
+93,cane,caña,ⁿdoo,Chay
+94,clay pot,olla,[kɨyɨ]/kɨsɨ,Chay
+95,liquor,aguardiente,ⁿdiši,Chay
+96,honey,miel,ⁿduši,Chay
+97,armpit,sobaco,čaʔa šeʔe,Chay
+98,tassel,espiga,yoko,Chay
+99,people,gente,ñĩ yɨwɨ,Chay
+100,town,pueblo,ñũũ,Chay
+101,smoke,humo,ñũʔmã,Chay
+102,eat,comer,čači,Chay
+103,hawk,gavilán,tasũ,Chay
+104,truth,verdad,ⁿdiča,Chay
+105,fire,lumbre,ñũʔũ,Chay
+106,six,seis,ĩñũ,Chay
+107,fingernail,uña,tʸĩĩ,Chay
+108,cornstalk,rastrojo,ñãmã,Chay
+109,cornmeal,masa,yuča,Chay
+110,child,hijo,seʔe,Chay
+111,"cold, phlegm",catarro,sayu,Chay
+112,good,bueno,waʔa,Chay
+113,because,porque,NA,Chay
+114,this one,este mismo,mãã,Chay
+115,is coming,ya viene,wači,Chay
+116,trash,basura,mĩʔĩ,Chay
+117,cat,gato,mĩlu,Chay
+118,prickly pear,nopal,mĩʔⁿdʸa,Chay
+119,foot,pie,čaʔa,Chay
+120,cut,cortar,čaʔⁿdʸa,Chay
+121,fifteen,quince,čãʔũ,Chay
+122,guts,tripas,čɨtɨ,Chay
+123,ten,diez,uči,Chay
+124,cold,frío,wiči,Chay
+125,sandal,huarache,ⁿdiča,Chay
+126,housepot,horcón,sɨ͂ʔñɨ͂,Chay
+127,name,nombre,sɨwɨ,Chay
+128,cacao,cacao,suʔwa,Chay
+129,ear,oreja,soʔo,Chay
+130,tasty,sabroso,asi,Chay
+131,closed,cerrado,ⁿdasi,Chay
+132,day after tomorrow,pasado mañana,isa,Chay
+133,sweet,dulce,wiši,Chay
+134,now,ahora,witʸi,Chay
+135,hole,agujero,yawi,Chay
+136,afraid,tiene miedo,yuʔu/yuʔwi,Chay
+137,poor,pobre,ⁿdaʔwi,Chay
+138,two,dos,uwi/uu,Chay
+139,scorpion,alacrán,ti sũʔmã,Chay
+140,go out,salir,[kita],Chay
+141,paint,pintar,kaʔyu,Chay
+142,rat,rata,tɨ͂ñɨ͂,Chay
+143,swelling,hinchazón,kʷĩñũ,Chay
+144,pimple,grano,ⁿdɨʔyɨ,Chay
+145,it thunders,truena,kãʔⁿdi,Chay
+146,rainbow,arco iris,ko yãʔⁿdʸi,Chay
+147,bird,pájaro,saa,Chay
+148,frog,rana,saʔwa,Chay
+149,navel,ombligo,[čɨtɨ koʔo],Chay
+150,urine,orina,čaša,Chay
+151,chachalaca,chachalaca,ⁿdača,Chay
+152,smooth,lisa,ⁿdɨʔwɨ/ⁿdɨɨ,Chay
+153,little,chico,luʔlu,Chay
+154,day,día,kɨwɨ,Chay
+155,when,cuándo,ãwã,Chay
+156,plain,llano,[ⁿduʔwa],Chay
+157,how,cómo,yoso,Chay
+158,carry,cargar,ⁿdʸiso,Chay
+159,cockroach,cucaracha,ti tʸeʔe,Chay
+160,glue,pegamento,[suča],Chay
+161,sickness,enfermedad,kʷweʔe,Chay
+162,see,ver,ⁿdʸeʔe,Chay
+163,slow,despacio,kʷee,Chay
+164,house,casa,weʔe,Chay
+165,mamey,mamey,ⁿdʸika,Chay
+166,grind,moler,ⁿdʸiko,Chay
+167,wing,ala,ⁿdiči,Chay
+168,stool,banquito,tʸayu,Chay
+169,cornfield,milpa,itu,Chay
+170,yesterday,ayer,iku,Chay
+171,other,otro,tuku,Chay
+172,comb,peine,kuka,Chay
+173,be born,se nació,kaku,Chay
+174,smart,sabio,ku tuʔwa,Chay
+175,stone,piedra,yuu,Chay
+176,mouth,boca,yuʔu,Chay
+177,I,yo,yuʔu,Chay
+178,dew,rocío,[kačĩ],Chay
+179,brush,hierba,yuku,Chay
+180,furrow,surco,yukũ,Chay
+181,trousers,calzón,[čoto čaʔa],Chay
+182,priest,sacerdote,sutu,Chay
+183,brand,fierro,tũñĩ,Chay
+184,will know,sabrá,[čito/koto],Chay
+185,squirrel,ardilla,kʷãñũ,Chay
+186,loose,floja,taya,Chay
+187,heavy,pesado,wee,Chay
+188,tobacco,tobaco,ĩnõ,Chay
+1,rain,lluvia,θabi,ChayC
+2,agave,maguey,yabi,ChayC
+3,straw mat,petate,yubi/žuu/yuu,ChayC
+4,four,cuatro,kũmĩ,ChayC
+5,feather,pluma,tũmĩ,ChayC
+6,tail,cola,θũʔmã,ChayC
+7,wax,cera,ñũmã,ChayC
+8,nose,nariz,šiči/hiči,ChayC
+9,word,palabra,tũʔũ,ChayC
+10,near,está cerca,yačĩ,ChayC
+11,tree,árbol,yutu,ChayC
+12,deer,venado,isu,ChayC
+13,lard,manteca,šãʔã,ChayC
+14,smell,olor,šiko,ChayC
+15,tortilla,tortilla,šita,ChayC
+16,vomits,vomita,ⁿdusa,ChayC
+17,lazy,flojo,susa,ChayC
+18,bed,cama,s̩ito,ChayC
+19,griddle,comal,siyo,ChayC
+20,sin,culpa,kʷači,ChayC
+21,bean,frijol,ⁿduči,ChayC
+22,water,agua,ⁿduča,ChayC
+23,river,río,[yuu]/yuča,ChayC
+24,mud,lodo,NA,ChayC
+25,man's brother,hermano de h.,yãñĩ,ChayC
+26,three,tres,ũñĩ,ChayC
+27,tooth,diente,nõʔõ,ChayC
+28,five,cinco,õʔõ,ChayC
+29,bitter,amargo,uba,ChayC
+30,meat,carne,kõñõ,ChayC
+31,red,rojo,kʷaʔa,ChayC
+32,(he) went,se fue,kʷãʔã,ChayC
+33,seven,siete,usa,ChayC
+34,thread,hilo,yuʔba,ChayC
+35,animal,animal,kete,ChayC
+36,it finishes,se acaba,ⁿdeʔe(-si),ChayC
+37,egg,blanquillo,ⁿdebe,ChayC
+38,foam,espuma,te͂ñe͂,ChayC
+39,blood,sangre,ne͂ñe͂,ChayC
+40,husband,marido,yee,ChayC
+41,salt,sal,ñe͂e͂,ChayC
+42,net bag,red,yõnõ,ChayC
+43,gourd,jícara,yasi,ChayC
+44,squash,calabaza,yeke (kʷaʔa),ChayC
+45,coati,tejón coatí,yeye,ChayC
+46,food,comida,NA,ChayC
+47,salty,salado,NA,ChayC
+48,blouse,huipil,NA,ChayC
+49,work,trabajo,čĩñũ,ChayC
+50,cotton,algodón,kači,ChayC
+51,wind,viento,tači,ChayC
+52,man,hombre,ra yee,ChayC
+53,round,redondon,kuča,ChayC
+54,oven,horno,[ornũ],ChayC
+55,box / drawer,cajón,[kaxõ/kaxa],ChayC
+56,mosquito,zancudo,tu kʷañĩ,ChayC
+57,wait for,esperar,ⁿdatu,ChayC
+58,rotten,podrido,čaʔyu,ChayC
+59,grab,agarrar,tẽẽ,ChayC
+60,tendon,tendón,tuči,ChayC
+61,blow,soplar,tebe,ChayC
+62,handspan,cuarta,(mĩ nõ) too,ChayC
+63,owner,dueño,si toʔo,ChayC
+64,lay (egg),poner (huevo),[sati-te],ChayC
+65,big (sg.),grande (sg.),kaʔnũ,ChayC
+66,neck,cuello,θuku/suku,ChayC
+67,will come,va a venir,ku kisi,ChayC
+68,horn,cuerno,ⁿdeke,ChayC
+69,snake,culebra,koo,ChayC
+70,ugly,feo,[kuši-ka]kene,ChayC
+71,hill,cerro,yuku,ChayC
+72,armadillo,armadillo,yakʷi,ChayC
+73,crooked,chueco,yakʷa,ChayC
+74,year,año,kʷiya,ChayC
+75,eyebrow,ceja,[iši nũũ],ChayC
+76,pus,pus,ⁿdakʷa,ChayC
+77,demon,demonio,kʷĩʔnã/[sãñã baʔa],ChayC
+78,yellow,amarillo,kʷãã,ChayC
+79,sew,coser,[ⁿdekʷe],ChayC
+80,will carry,va a cargar,kʷa kʷiso,ChayC
+81,that,aquel,yukʷã,ChayC
+82,below,abajo,[iči šuu],ChayC
+83,all night,toda la noche,[ñãka kʷii],ChayC
+84,hot,caliente,ĩʔñĩ,ChayC
+85,grain of corn,maíz,nũñĩ,ChayC
+86,wall,pared,nãmã/[ⁿǰika beʔe],ChayC
+87,early,temprano,ñãʔãnĩ,ChayC
+88,open,abierto,[ta koʔo]/nũñã,ChayC
+89,eight,ocho,ũñã,ChayC
+90,tomato,jitomate,te nãnã/tɨ nãnã,ChayC
+91,green bean,ejote,ⁿdʸiči,ChayC
+92,half,mitad,NA,ChayC
+93,cane,caña,ⁿdòò,ChayC
+94,clay pot,olla,kese,ChayC
+95,liquor,aguardiente,ⁿdiši,ChayC
+96,honey,miel,[čiʔi ñũũ/[ñũñũ],ChayC
+97,armpit,sobaco,sa šeʔe,ChayC
+98,tassel,espiga,yoko,ChayC
+99,people,gente,ñã yebe,ChayC
+100,town,pueblo,ñũũ,ChayC
+101,smoke,humo,ñũ̀ʔmã̀,ChayC
+102,eat,comer,sàsì,ChayC
+103,hawk,gavilán,tasũ,ChayC
+104,truth,verdad,(sa) ⁿdisa,ChayC
+105,fire,lumbre,ñũʔũ,ChayC
+106,six,seis,ĩñũ,ChayC
+107,fingernail,uña,čĩĩ,ChayC
+108,cornstalk,rastrojo,ñãmã,ChayC
+109,cornmeal,masa,yusa,ChayC
+110,child,hijo,seʔe,ChayC
+111,"cold, phlegm",catarro,θayu,ChayC
+112,good,bueno,baʔa,ChayC
+113,because,porque,bači,ChayC
+114,this one,este mismo,mãã,ChayC
+115,is coming,ya viene,basi,ChayC
+116,trash,basura,mĩʔĩ,ChayC
+117,cat,gato,mĩlu,ChayC
+118,prickly pear,nopal,mĩʔⁿǰa,ChayC
+119,foot,pie,saʔa,ChayC
+120,cut,cortar,saʔⁿǰa,ChayC
+121,fifteen,quince,saʔũ,ChayC
+122,guts,tripas,sete,ChayC
+123,ten,diez,usi,ChayC
+124,cold,frío,bisi,ChayC
+125,sandal,huarache,ⁿdisa,ChayC
+126,housepot,horcón,seʔe ⁿǰe,ChayC
+127,name,nombre,θebe,ChayC
+128,cacao,cacao,θuʔba,ChayC
+129,ear,oreja,θoʔo/soʔo,ChayC
+130,tasty,sabroso,asi/aθi,ChayC
+131,closed,cerrado,ⁿdasi/ⁿdaθi,ChayC
+132,day after tomorrow,pasado mañana,iθa,ChayC
+133,sweet,dulce,biši,ChayC
+134,now,ahora,biči,ChayC
+135,hole,agujero,yabi,ChayC
+136,afraid,tiene miedo,yuʔu,ChayC
+137,poor,pobre,ⁿdaʔbi,ChayC
+138,two,dos,uu,ChayC
+139,scorpion,alacrán,ti suʔmã/ti θuʔmã,ChayC
+140,go out,salir,[kita],ChayC
+141,paint,pintar,kaʔyu,ChayC
+142,rat,rata,te͂ñe͂,ChayC
+143,swelling,hinchazón,[ⁿdaa],ChayC
+144,pimple,grano,ⁿdeʔye,ChayC
+145,it thunders,truena,kaʔⁿdi,ChayC
+146,rainbow,arco iris,koo yãʔⁿǰi,ChayC
+147,bird,pájaro,θaa,ChayC
+148,frog,rana,θaʔba,ChayC
+149,navel,ombligo,[sete koʔo],ChayC
+150,urine,orina,čaša,ChayC
+151,chachalaca,chachalaca,ⁿdasa,ChayC
+152,smooth,lisa,ⁿdeʔbe,ChayC
+153,little,chico,luʔlu,ChayC
+154,day,día,kewe,ChayC
+155,when,cuándo,ãwã,ChayC
+156,plain,llano,[ⁿduʔba],ChayC
+157,how,cómo,yoso ka/žoso ka,ChayC
+158,carry,cargar,ⁿǰiso,ChayC
+159,cockroach,cucaracha,NA,ChayC
+160,glue,pegamento,NA,ChayC
+161,sickness,enfermedad,NA,ChayC
+162,see,ver,NA,ChayC
+163,slow,despacio,NA,ChayC
+164,house,casa,NA,ChayC
+165,mamey,mamey,NA,ChayC
+166,grind,moler,NA,ChayC
+167,wing,ala,NA,ChayC
+168,stool,banquito,NA,ChayC
+169,cornfield,milpa,NA,ChayC
+170,yesterday,ayer,NA,ChayC
+171,other,otro,NA,ChayC
+172,comb,peine,NA,ChayC
+173,be born,se nació,NA,ChayC
+174,smart,sabio,NA,ChayC
+175,stone,piedra,NA,ChayC
+176,mouth,boca,NA,ChayC
+177,I,yo,NA,ChayC
+178,dew,rocío,NA,ChayC
+179,brush,hierba,NA,ChayC
+180,furrow,surco,NA,ChayC
+181,trousers,calzón,NA,ChayC
+182,priest,sacerdote,NA,ChayC
+183,brand,fierro,NA,ChayC
+184,will know,sabrá,NA,ChayC
+185,squirrel,ardilla,NA,ChayC
+186,loose,floja,NA,ChayC
+187,heavy,pesado,NA,ChayC
+188,tobacco,tobaco,NA,ChayC
+1,rain,lluvia,θavi,ChayD
+2,agave,maguey,yāvī,ChayD
+3,straw mat,petate,yūū,ChayD
+4,four,cuatro,kũmĩ,ChayD
+5,feather,pluma,tũmĩ,ChayD
+6,tail,cola,θũʔmã,ChayD
+7,wax,cera,ñũmã,ChayD
+8,nose,nariz,šitʸi,ChayD
+9,word,palabra,tũʔũ,ChayD
+10,near,está cerca,yatʸi,ChayD
+11,tree,árbol,yutu,ChayD
+12,deer,venado,iθu,ChayD
+13,lard,manteca,šãʔã,ChayD
+14,smell,olor,šiko,ChayD
+15,tortilla,tortilla,šita,ChayD
+16,vomits,vomita,ⁿdusa,ChayD
+17,lazy,flojo,susa,ChayD
+18,bed,cama,sito,ChayD
+19,griddle,comal,siyo,ChayD
+20,sin,culpa,kʷatʸi,ChayD
+21,bean,frijol,ⁿdutʸi,ChayD
+22,water,agua,ⁿdutʸa,ChayD
+23,river,río,[yūù]/yutʸa,ChayD
+24,mud,lodo,ⁿdʸaʔyu,ChayD
+25,man's brother,hermano de h.,yãñĩ,ChayD
+26,three,tres,ũñĩ,ChayD
+27,tooth,diente,nõʔõ,ChayD
+28,five,cinco,õʔõ,ChayD
+29,bitter,amargo,uva,ChayD
+30,meat,carne,kõñõ/[ⁿdʸayu],ChayD
+31,red,rojo,kʷaʔa,ChayD
+32,(he) went,se fue,kʷãʔã,ChayD
+33,seven,siete,usa,ChayD
+34,thread,hilo,yuʔva,ChayD
+35,animal,animal,kɨtɨ,ChayD
+36,it finishes,se acaba,ⁿdɨʔɨ,ChayD
+37,egg,blanquillo,ⁿdɨ̀vɨ̀,ChayD
+38,foam,espuma,tɨ͂̀ñɨ͂̀,ChayD
+39,blood,sangre,nɨ͂ñɨ͂,ChayD
+40,husband,marido,yɨɨ,ChayD
+41,salt,sal,ñɨ͂ɨ͂,ChayD
+42,net bag,red,yõnõ,ChayD
+43,gourd,jícara,yasi,ChayD
+44,squash,calabaza,yɨkɨ (kʷaʔa),ChayD
+45,coati,tejón coatí,yɨyɨ,ChayD
+46,food,comida,ⁿdʸayu,ChayD
+47,salty,salado,ùʔvà,ChayD
+48,blouse,huipil,NA,ChayD
+49,work,trabajo,tʸĩñõ,ChayD
+50,cotton,algodón,katʸi,ChayD
+51,wind,viento,tatʸi,ChayD
+52,man,hombre,ra yɨɨ,ChayD
+53,round,redondon,[ti ⁿduu],ChayD
+54,oven,horno,NA,ChayD
+55,box / drawer,cajón,satu,ChayD
+56,mosquito,zancudo,ti kʷañĩ,ChayD
+57,wait for,esperar,ⁿdatu,ChayD
+58,rotten,podrido,NA,ChayD
+59,grab,agarrar,tɨ͂ɨ͂,ChayD
+60,tendon,tendón,tutʸi,ChayD
+61,blow,soplar,tɨvɨ,ChayD
+62,handspan,cuarta,too,ChayD
+63,owner,dueño,si toʔo,ChayD
+64,lay (egg),poner (huevo),saki,ChayD
+65,big (sg.),grande (sg.),kaʔnu,ChayD
+66,neck,cuello,θuku,ChayD
+67,will come,va a venir,kisi,ChayD
+68,horn,cuerno,ⁿdɨkɨ,ChayD
+69,snake,culebra,koo,ChayD
+70,ugly,feo,kiñĩ,ChayD
+71,hill,cerro,yuku,ChayD
+72,armadillo,armadillo,yakʷi,ChayD
+73,crooked,chueco,yakʷa,ChayD
+74,year,año,kʷiya,ChayD
+75,eyebrow,ceja,θukʷa,ChayD
+76,pus,pus,ⁿdakʷa,ChayD
+77,demon,demonio,kʷĩʔnã,ChayD
+78,yellow,amarillo,kʷãã,ChayD
+79,sew,coser,[ⁿdɨkʷɨ],ChayD
+80,will carry,va a cargar,[ⁿdiθo],ChayD
+81,that,aquel,yukʷã,ChayD
+82,below,abajo,[šuu]/nĩnõ,ChayD
+83,all night,toda la noche,[ñĩ yaka],ChayD
+84,hot,caliente,ĩʔñĩ,ChayD
+85,grain of corn,maíz,nũñĩ,ChayD
+86,wall,pared,[ⁿdʸika beʔe]/nãmã,ChayD
+87,early,temprano,ñãʔã šãã,ChayD
+88,open,abierto,nũñã,ChayD
+89,eight,ocho,ũñã,ChayD
+90,tomato,jitomate,ti nãnã,ChayD
+91,green bean,ejote,ⁿdʸitʸi,ChayD
+92,half,mitad,aba,ChayD
+93,cane,caña,ⁿdoo,ChayD
+94,clay pot,olla,kɨθɨ,ChayD
+95,liquor,aguardiente,ⁿdiši,ChayD
+96,honey,miel,[tʸaʔiñũ]/ⁿduši,ChayD
+97,armpit,sobaco,saʔa šeʔe,ChayD
+98,tassel,espiga,yoko,ChayD
+99,people,gente,ñĩ yɨbɨ,ChayD
+100,town,pueblo,ñũũ,ChayD
+101,smoke,humo,ñũʔmã,ChayD
+102,eat,comer,sasi,ChayD
+103,hawk,gavilán,taθu,ChayD
+104,truth,verdad,sa ⁿdisa,ChayD
+105,fire,lumbre,ñũʔũ,ChayD
+106,six,seis,ĩñũ,ChayD
+107,fingernail,uña,tʸĩĩ,ChayD
+108,cornstalk,rastrojo,ñãmã,ChayD
+109,cornmeal,masa,yusa,ChayD
+110,child,hijo,θeʔe,ChayD
+111,"cold, phlegm",catarro,θayu,ChayD
+112,good,bueno,vaʔa,ChayD
+113,because,porque,vatʸi,ChayD
+114,this one,este mismo,mã̄ã́,ChayD
+115,is coming,ya viene,vasi,ChayD
+116,trash,basura,mĩʔĩ,ChayD
+117,cat,gato,mĩlu,ChayD
+118,prickly pear,nopal,mĩʔⁿdʸa,ChayD
+119,foot,pie,saʔa,ChayD
+120,cut,cortar,saʔⁿdʸa,ChayD
+121,fifteen,quince,sãʔũ,ChayD
+122,guts,tripas,sɨtɨ (ⁿdʸiʔi),ChayD
+123,ten,diez,usi,ChayD
+124,cold,frío,visi,ChayD
+125,sandal,huarache,ⁿdisa,ChayD
+126,housepot,horcón,NA,ChayD
+127,name,nombre,θɨvɨ,ChayD
+128,cacao,cacao,θuʔva,ChayD
+129,ear,oreja,θoʔo,ChayD
+130,tasty,sabroso,aθi,ChayD
+131,closed,cerrado,[nã kaθi],ChayD
+132,day after tomorrow,pasado mañana,iθa,ChayD
+133,sweet,dulce,sa viši,ChayD
+134,now,ahora,vitʸi,ChayD
+135,hole,agujero,yāvì,ChayD
+136,afraid,tiene miedo,yuʔu,ChayD
+137,poor,pobre,ⁿdaʔvi,ChayD
+138,two,dos,uu,ChayD
+139,scorpion,alacrán,ti θuʔmã,ChayD
+140,go out,salir,[kita],ChayD
+141,paint,pintar,nã kaʔyu,ChayD
+142,rat,rata,tɨ͂ñɨ͂́,ChayD
+143,swelling,hinchazón,kʷiñõ/[ⁿdaa-si],ChayD
+144,pimple,grano,ⁿdɨʔyɨ,ChayD
+145,it thunders,truena,kaʔⁿdi,ChayD
+146,rainbow,arco iris,koo yãʔⁿdʸi,ChayD
+147,bird,pájaro,θaa,ChayD
+148,frog,rana,θaʔva,ChayD
+149,navel,ombligo,NA,ChayD
+150,urine,orina,NA,ChayD
+151,chachalaca,chachalaca,ⁿdasa,ChayD
+152,smooth,lisa,ⁿdɨʔvɨ,ChayD
+153,little,chico,luʔlu,ChayD
+154,day,día,kɨvɨ,ChayD
+155,when,cuándo,ãwã,ChayD
+156,plain,llano,[ⁿduʔva],ChayD
+157,how,cómo,[yoθo],ChayD
+158,carry,cargar,ⁿdʸiθo,ChayD
+159,cockroach,cucaracha,ti tʸeʔe,ChayD
+160,glue,pegamento,[susa],ChayD
+161,sickness,enfermedad,kʷweʔe,ChayD
+162,see,ver,ⁿdʸeʔe,ChayD
+163,slow,despacio,kʷee,ChayD
+164,house,casa,veʔe,ChayD
+165,mamey,mamey,ⁿdʸika,ChayD
+166,grind,moler,ⁿdʸiko,ChayD
+167,wing,ala,ⁿdisi,ChayD
+168,stool,banquito,tʸayu,ChayD
+169,cornfield,milpa,itu,ChayD
+170,yesterday,ayer,iku,ChayD
+171,other,otro,tuku,ChayD
+172,comb,peine,kuka,ChayD
+173,be born,se nació,kaku,ChayD
+174,smart,sabio,tuʔba,ChayD
+175,stone,piedra,yùù,ChayD
+176,mouth,boca,yuʔu,ChayD
+177,I,yo,yuʔbi,ChayD
+178,dew,rocío,yuyu,ChayD
+179,brush,hierba,yùkù,ChayD
+180,furrow,surco,yūkù,ChayD
+181,trousers,calzón,[koto saʔa],ChayD
+182,priest,sacerdote,dutu,ChayD
+183,brand,fierro,tũñĩ,ChayD
+184,will know,sabrá,NA,ChayD
+185,squirrel,ardilla,kʷãñõ,ChayD
+186,loose,floja,taya,ChayD
+187,heavy,pesado,vee,ChayD
+188,tobacco,tobaco,ĩnõ,ChayD
+1,rain,lluvia,(kõõ)sawi,Tut
+2,agave,maguey,[ta yee],Tut
+3,straw mat,petate,yuwi,Tut
+4,four,cuatro,kũmĩ,Tut
+5,feather,pluma,tũmĩ,Tut
+6,tail,cola,sũʔmã,Tut
+7,wax,cera,ñũmã,Tut
+8,nose,nariz,šitʸi,Tut
+9,word,palabra,tũʔũ,Tut
+10,near,está cerca,yatʸĩ,Tut
+11,tree,árbol,yutũ,Tut
+12,deer,venado,isu,Tut
+13,lard,manteca,šãʔã,Tut
+14,smell,olor,šiko,Tut
+15,tortilla,tortilla,šita,Tut
+16,vomits,vomita,ⁿduča,Tut
+17,lazy,flojo,suča,Tut
+18,bed,cama,čito,Tut
+19,griddle,comal,čiyo,Tut
+20,sin,culpa,kʷatʸi,Tut
+21,bean,frijol,ⁿdutʸi,Tut
+22,water,agua,ⁿdutʸa,Tut
+23,river,río,yutʸa,Tut
+24,mud,lodo,ⁿdʸaʔyu,Tut
+25,man's brother,hermano de h.,ñãñĩ,Tut
+26,three,tres,ũñĩ,Tut
+27,tooth,diente,nõʔõ,Tut
+28,five,cinco,õʔõ,Tut
+29,bitter,amargo,uwa,Tut
+30,meat,carne,kõñõ,Tut
+31,red,rojo,kʷaʔa,Tut
+32,(he) went,se fue,kʷãʔã,Tut
+33,seven,siete,uča,Tut
+34,thread,hilo,yuʔwa,Tut
+35,animal,animal,kɨtɨ,Tut
+36,it finishes,se acaba,ⁿdɨʔɨ,Tut
+37,egg,blanquillo,ⁿdɨwɨ,Tut
+38,foam,espuma,tɨ͂ñɨ͂,Tut
+39,blood,sangre,ǹɨ͂ñ̀ɨ͂,Tut
+40,husband,marido,yɨɨ,Tut
+41,salt,sal,ñɨ͂̀ɨ͂̀,Tut
+42,net bag,red,yõnõ,Tut
+43,gourd,jícara,yačĩ,Tut
+44,squash,calabaza,yɨkɨ,Tut
+45,coati,tejón coatí,yɨyɨ,Tut
+46,food,comida,ⁿdʸayu,Tut
+47,salty,salado,uʔwa,Tut
+48,blouse,huipil,šikõ,Tut
+49,work,trabajo,tʸiñõ,Tut
+50,cotton,algodón,katʸi,Tut
+51,wind,viento,tatʸi,Tut
+52,man,hombre,ra yɨɨ,Tut
+53,round,redondon,kutʸa,Tut
+54,oven,horno,čitũ,Tut
+55,box / drawer,cajón,čatũ,Tut
+56,mosquito,zancudo,tɨ kʷañĩ,Tut
+57,wait for,esperar,ⁿdʸatu,Tut
+58,rotten,podrido,tʸaʔyu,Tut
+59,grab,agarrar,tɨ͂ɨ͂,Tut
+60,tendon,tendón,tutʸi,Tut
+61,blow,soplar,[tatʸi]/tɨwɨ,Tut
+62,handspan,cuarta,too,Tut
+63,owner,dueño,[ča čii]/či toʔo,Tut
+64,lay (egg),poner (huevo),[čisa kõõ],Tut
+65,big (sg.),grande (sg.),kaʔnũ,Tut
+66,neck,cuello,sukũ,Tut
+67,will come,va a venir,kiči,Tut
+68,horn,cuerno,ⁿdɨkɨ,Tut
+69,snake,culebra,koo,Tut
+70,ugly,feo,kiñĩ,Tut
+71,hill,cerro,yuku,Tut
+72,armadillo,armadillo,yakʷĩ,Tut
+73,crooked,chueco,yakʷa,Tut
+74,year,año,kʷiya,Tut
+75,eyebrow,ceja,sukʷa,Tut
+76,pus,pus,ⁿdakʷa,Tut
+77,demon,demonio,kʷĩʔnã,Tut
+78,yellow,amarillo,kʷãã,Tut
+79,sew,coser,[ⁿdɨkʷɨ],Tut
+80,will carry,va a cargar,kʷiso,Tut
+81,that,aquel,yukʷã,Tut
+82,below,abajo,[šuu],Tut
+83,all night,toda la noche,NA,Tut
+84,hot,caliente,ĩʔñĩ,Tut
+85,grain of corn,maíz,nũñĩ,Tut
+86,wall,pared,nãmã,Tut
+87,early,temprano,ñãʔã/[sa tʸãã],Tut
+88,open,abierto,nũñã,Tut
+89,eight,ocho,ũñã,Tut
+90,tomato,jitomate,tɨ nãnã,Tut
+91,green bean,ejote,ⁿdʸitʸi,Tut
+92,half,mitad,sawa,Tut
+93,cane,caña,ⁿdoo,Tut
+94,clay pot,olla,kɨsɨ,Tut
+95,liquor,aguardiente,ⁿdiši,Tut
+96,honey,miel,[ñũñũ],Tut
+97,armpit,sobaco,šeʔe,Tut
+98,tassel,espiga,yoko,Tut
+99,people,gente,ñã yɨwɨ,Tut
+100,town,pueblo,ñũũ,Tut
+101,smoke,humo,ñũʔmã,Tut
+102,eat,comer,čači,Tut
+103,hawk,gavilán,tasu,Tut
+104,truth,verdad,ⁿdiča,Tut
+105,fire,lumbre,ñũʔũ,Tut
+106,six,seis,ĩñũ,Tut
+107,fingernail,uña,tʸĩĩ,Tut
+108,cornstalk,rastrojo,ñãmã,Tut
+109,cornmeal,masa,yuča,Tut
+110,child,hijo,seʔe,Tut
+111,"cold, phlegm",catarro,sayu,Tut
+112,good,bueno,waʔa,Tut
+113,because,porque,NA,Tut
+114,this one,este mismo,mãã,Tut
+115,is coming,ya viene,wači,Tut
+116,trash,basura,mĩʔĩ,Tut
+117,cat,gato,(čumĩ),Tut
+118,prickly pear,nopal,mĩʔⁿdʸa,Tut
+119,foot,pie,čaʔa,Tut
+120,cut,cortar,čaʔⁿdʸa,Tut
+121,fifteen,quince,čãʔũ,Tut
+122,guts,tripas,čɨtɨ,Tut
+123,ten,diez,uči,Tut
+124,cold,frío,wiči,Tut
+125,sandal,huarache,ⁿdičã,Tut
+126,housepot,horcón,[tu čaʔa],Tut
+127,name,nombre,sɨwɨ,Tut
+128,cacao,cacao,sɨʔwa,Tut
+129,ear,oreja,soʔo,Tut
+130,tasty,sabroso,asɨ,Tut
+131,closed,cerrado,ⁿdasɨ,Tut
+132,day after tomorrow,pasado mañana,isa,Tut
+133,sweet,dulce,wiši,Tut
+134,now,ahora,witʸĩ,Tut
+135,hole,agujero,yawi,Tut
+136,afraid,tiene miedo,yuʔwi,Tut
+137,poor,pobre,ⁿdaʔwi,Tut
+138,two,dos,uwi,Tut
+139,scorpion,alacrán,tɨ sũʔmã,Tut
+140,go out,salir,[keta],Tut
+141,paint,pintar,kaʔyu,Tut
+142,rat,rata,tɨ͂ñɨ͂,Tut
+143,swelling,hinchazón,kʷĩñõ,Tut
+144,pimple,grano,ⁿdɨʔyɨ,Tut
+145,it thunders,truena,kãʔⁿdɨ,Tut
+146,rainbow,arco iris,NA,Tut
+147,bird,pájaro,saa,Tut
+148,frog,rana,saʔwa,Tut
+149,navel,ombligo,[čɨtɨ koʔo],Tut
+150,urine,orina,šaša,Tut
+151,chachalaca,chachalaca,ⁿdačã,Tut
+152,smooth,lisa,ⁿdɨʔwɨ,Tut
+153,little,chico,[tʸi waa],Tut
+154,day,día,kɨwɨ/ⁿduwi,Tut
+155,when,cuándo,ãwã,Tut
+156,plain,llano,[ⁿduʔwa],Tut
+157,how,cómo,yoso kaa,Tut
+158,carry,cargar,ⁿdʸiso,Tut
+159,cockroach,cucaracha,ti tʸeʔe,Tut
+160,glue,pegamento,NA,Tut
+161,sickness,enfermedad,kʷweʔe,Tut
+162,see,ver,ⁿdʸeʔe,Tut
+163,slow,despacio,kʷee,Tut
+164,house,casa,weʔe,Tut
+165,mamey,mamey,[titʸi],Tut
+166,grind,moler,ⁿdʸiko,Tut
+167,wing,ala,ⁿdiči,Tut
+168,stool,banquito,tʸayu,Tut
+169,cornfield,milpa,itu,Tut
+170,yesterday,ayer,iku,Tut
+171,other,otro,tuku,Tut
+172,comb,peine,kuka,Tut
+173,be born,se nació,i kaku,Tut
+174,smart,sabio,i ku tuʔwa,Tut
+175,stone,piedra,yuu,Tut
+176,mouth,boca,yuʔu,Tut
+177,I,yo,yuʔu,Tut
+178,dew,rocío,[kačĩ],Tut
+179,brush,hierba,yuku,Tut
+180,furrow,surco,yukũ,Tut
+181,trousers,calzón,[kʸutu čaʔa],Tut
+182,priest,sacerdote,sutu,Tut
+183,brand,fierro,tũñĩ,Tut
+184,will know,sabrá,[koto],Tut
+185,squirrel,ardilla,kʷãñũ,Tut
+186,loose,floja,taya,Tut
+187,heavy,pesado,wee,Tut
+188,tobacco,tobaco,ĩnõ,Tut
+1,rain,lluvia,(kõõ)sawi,Acat
+2,agave,maguey,[yee],Acat
+3,straw mat,petate,yuwi,Acat
+4,four,cuatro,kũmĩ,Acat
+5,feather,pluma,tũmĩ,Acat
+6,tail,cola,sũʔmã,Acat
+7,wax,cera,ñũmã,Acat
+8,nose,nariz,sičĩ,Acat
+9,word,palabra,tũʔũ,Acat
+10,near,está cerca,yatʸi,Acat
+11,tree,árbol,yutũ,Acat
+12,deer,venado,isu,Acat
+13,lard,manteca,šãʔã,Acat
+14,smell,olor,šiko,Acat
+15,tortilla,tortilla,šita,Acat
+16,vomits,vomita,ⁿdusã,Acat
+17,lazy,flojo,susã,Acat
+18,bed,cama,sito,Acat
+19,griddle,comal,siyo,Acat
+20,sin,culpa,kʷači,Acat
+21,bean,frijol,ⁿduči,Acat
+22,water,agua,ⁿduča,Acat
+23,river,río,yuča/yutʸa,Acat
+24,mud,lodo,ⁿǰaʔyu,Acat
+25,man's brother,hermano de h.,ñãñĩ,Acat
+26,three,tres,ũñĩ,Acat
+27,tooth,diente,nõʔõ,Acat
+28,five,cinco,õʔõ,Acat
+29,bitter,amargo,uwa,Acat
+30,meat,carne,kõñõ,Acat
+31,red,rojo,kʷaʔa,Acat
+32,(he) went,se fue,kʷãʔã,Acat
+33,seven,siete,usa,Acat
+34,thread,hilo,yuʔwa,Acat
+35,animal,animal,kɨtɨ,Acat
+36,it finishes,se acaba,ⁿdɨʔɨ,Acat
+37,egg,blanquillo,ⁿdɨwɨ,Acat
+38,foam,espuma,tɨ͂ñɨ͂,Acat
+39,blood,sangre,nɨ͂́ñɨ͂́,Acat
+40,husband,marido,yɨɨ,Acat
+41,salt,sal,ñɨ͂́ɨ͂́,Acat
+42,net bag,red,yõnõ,Acat
+43,gourd,jícara,yasĩ,Acat
+44,squash,calabaza,yɨkɨ͂,Acat
+45,coati,tejón coatí,yɨyɨ,Acat
+46,food,comida,ⁿǰayu,Acat
+47,salty,salado,uʔwa,Acat
+48,blouse,huipil,šikũ,Acat
+49,work,trabajo,tʸinõ,Acat
+50,cotton,algodón,kači,Acat
+51,wind,viento,tači,Acat
+52,man,hombre,ra yɨɨ,Acat
+53,round,redondon,kuča,Acat
+54,oven,horno,xitũ,Acat
+55,box / drawer,cajón,satũ,Acat
+56,mosquito,zancudo,tɨ kʷañĩ,Acat
+57,wait for,esperar,ⁿǰatu,Acat
+58,rotten,podrido,čaʔyu,Acat
+59,grab,agarrar,tɨ͂ɨ͂,Acat
+60,tendon,tendón,tuči,Acat
+61,blow,soplar,[tači]/tɨwɨ,Acat
+62,handspan,cuarta,too,Acat
+63,owner,dueño,čii stoʔo,Acat
+64,lay (egg),poner (huevo),[sa kõõ],Acat
+65,big (sg.),grande (sg.),kaʔnũ,Acat
+66,neck,cuello,sukũ,Acat
+67,will come,va a venir,kisi,Acat
+68,horn,cuerno,ⁿdɨkɨ,Acat
+69,snake,culebra,koo,Acat
+70,ugly,feo,[ⁿdasɨ]/kiñĩ,Acat
+71,hill,cerro,yuku,Acat
+72,armadillo,armadillo,yakʷĩ,Acat
+73,crooked,chueco,yakʷa,Acat
+74,year,año,kʷiya,Acat
+75,eyebrow,ceja,sukʷa,Acat
+76,pus,pus,ⁿdakʷa,Acat
+77,demon,demonio,kʷĩʔnã,Acat
+78,yellow,amarillo,kʷãã,Acat
+79,sew,coser,[ⁿdɨkʷɨ],Acat
+80,will carry,va a cargar,kʷiso,Acat
+81,that,aquel,yukʷã,Acat
+82,below,abajo,[šuu],Acat
+83,all night,toda la noche,NA,Acat
+84,hot,caliente,ĩʔnĩ,Acat
+85,grain of corn,maíz,nũñĩ,Acat
+86,wall,pared,nãmã,Acat
+87,early,temprano,[sa čãã],Acat
+88,open,abierto,nũñã,Acat
+89,eight,ocho,ũñã,Acat
+90,tomato,jitomate,tɨ nãnã,Acat
+91,green bean,ejote,ⁿǰiči,Acat
+92,half,mitad,sawa,Acat
+93,cane,caña,ⁿdoo,Acat
+94,clay pot,olla,kɨsi,Acat
+95,liquor,aguardiente,ⁿdiši,Acat
+96,honey,miel,[ñũñũ],Acat
+97,armpit,sobaco,ti šeʔe,Acat
+98,tassel,espiga,yoko,Acat
+99,people,gente,ñã yɨ̀wɨ̀,Acat
+100,town,pueblo,ñũũ,Acat
+101,smoke,humo,ñũʔmã,Acat
+102,eat,comer,sasi,Acat
+103,hawk,gavilán,tasu,Acat
+104,truth,verdad,ⁿdisa,Acat
+105,fire,lumbre,ñṹʔũ̀,Acat
+106,six,seis,ĩñũ,Acat
+107,fingernail,uña,čĩĩ/tʸĩĩ,Acat
+108,cornstalk,rastrojo,ñãmã,Acat
+109,cornmeal,masa,yusã,Acat
+110,child,hijo,seʔe,Acat
+111,"cold, phlegm",catarro,sayu,Acat
+112,good,bueno,waʔa,Acat
+113,because,porque,NA,Acat
+114,this one,este mismo,mãã,Acat
+115,is coming,ya viene,wasi,Acat
+116,trash,basura,mĩʔĩ,Acat
+117,cat,gato,(sumĩ),Acat
+118,prickly pear,nopal,mĩʔⁿǰa,Acat
+119,foot,pie,saʔa,Acat
+120,cut,cortar,saʔⁿǰa,Acat
+121,fifteen,quince,sãʔũ,Acat
+122,guts,tripas,sɨtɨ,Acat
+123,ten,diez,usi,Acat
+124,cold,frío,wisĩ,Acat
+125,sandal,huarache,ⁿdisã,Acat
+126,housepot,horcón,[tu saʔa],Acat
+127,name,nombre,sɨwɨ,Acat
+128,cacao,cacao,sɨʔwa,Acat
+129,ear,oreja,soʔo,Acat
+130,tasty,sabroso,asɨ,Acat
+131,closed,cerrado,ⁿdasɨ,Acat
+132,day after tomorrow,pasado mañana,isa,Acat
+133,sweet,dulce,wiši,Acat
+134,now,ahora,witʸĩ,Acat
+135,hole,agujero,yawi,Acat
+136,afraid,tiene miedo,yuʔu,Acat
+137,poor,pobre,ⁿdaʔwi,Acat
+138,two,dos,uwi,Acat
+139,scorpion,alacrán,tɨ sũʔmã,Acat
+140,go out,salir,[keta],Acat
+141,paint,pintar,[tʸaa]/kaʔyu,Acat
+142,rat,rata,tɨ͂ñɨ͂,Acat
+143,swelling,hinchazón,kʷĩñõ,Acat
+144,pimple,grano,ⁿdɨʔyɨ,Acat
+145,it thunders,truena,kãʔⁿdɨ,Acat
+146,rainbow,arco iris,ko yãʔⁿǰi,Acat
+147,bird,pájaro,saa,Acat
+148,frog,rana,saʔwa,Acat
+149,navel,ombligo,[šɨtɨ koʔo],Acat
+150,urine,orina,ča šaša,Acat
+151,chachalaca,chachalaca,ⁿdasã,Acat
+152,smooth,lisa,ⁿdɨɨ/ⁿdɨʔwɨ,Acat
+153,little,chico,[či waa]/luʔlu,Acat
+154,day,día,kɨwɨ,Acat
+155,when,cuándo,ãwã,Acat
+156,plain,llano,[ⁿduʔwa],Acat
+157,how,cómo,ñãã kaa,Acat
+158,carry,cargar,ⁿǰiso,Acat
+159,cockroach,cucaracha,ti čeʔe,Acat
+160,glue,pegamento,ⁿdaka,Acat
+161,sickness,enfermedad,kʷweʔe,Acat
+162,see,ver,ⁿǰeʔe,Acat
+163,slow,despacio,kʷee,Acat
+164,house,casa,weʔe,Acat
+165,mamey,mamey,ⁿǰika kʷaʔa,Acat
+166,grind,moler,ⁿǰiko,Acat
+167,wing,ala,ⁿdisĩ,Acat
+168,stool,banquito,čayu,Acat
+169,cornfield,milpa,itu,Acat
+170,yesterday,ayer,iku,Acat
+171,other,otro,tuku,Acat
+172,comb,peine,kuka,Acat
+173,be born,se nació,i kaku/i kana,Acat
+174,smart,sabio,i ku tuʔwa,Acat
+175,stone,piedra,yuu,Acat
+176,mouth,boca,yuʔu,Acat
+177,I,yo,yuʔu,Acat
+178,dew,rocío,[kasĩ],Acat
+179,brush,hierba,yuku,Acat
+180,furrow,surco,yukũ,Acat
+181,trousers,calzón,[kutu saʔa],Acat
+182,priest,sacerdote,sutu,Acat
+183,brand,fierro,tũñĩ,Acat
+184,will know,sabrá,[koto],Acat
+185,squirrel,ardilla,kʷãñũ,Acat
+186,loose,floja,taya,Acat
+187,heavy,pesado,wee,Acat
+188,tobacco,tobaco,ⁿda ĩnõ,Acat
+1,rain,lluvia,lluvia,Spanish
+2,agave,maguey,maguey,Spanish
+3,straw mat,petate,petate,Spanish
+4,four,cuatro,cuatro,Spanish
+5,feather,pluma,pluma,Spanish
+6,tail,cola,cola,Spanish
+7,wax,cera,cera,Spanish
+8,nose,nariz,nariz,Spanish
+9,word,palabra,palabra,Spanish
+10,near,está cerca,está cerca,Spanish
+11,tree,árbol,árbol,Spanish
+12,deer,venado,venado,Spanish
+13,lard,manteca,manteca,Spanish
+14,smell,olor,olor,Spanish
+15,tortilla,tortilla,tortilla,Spanish
+16,vomits,vomita,vomita,Spanish
+17,lazy,flojo,flojo,Spanish
+18,bed,cama,cama,Spanish
+19,griddle,comal,comal,Spanish
+20,sin,culpa,culpa,Spanish
+21,bean,frijol,frijol,Spanish
+22,water,agua,agua,Spanish
+23,river,río,río,Spanish
+24,mud,lodo,lodo,Spanish
+25,man's brother,hermano de h.,hermano de h.,Spanish
+26,three,tres,tres,Spanish
+27,tooth,diente,diente,Spanish
+28,five,cinco,cinco,Spanish
+29,bitter,amargo,amargo,Spanish
+30,meat,carne,carne,Spanish
+31,red,rojo,rojo,Spanish
+32,(he) went,se fue,se fue,Spanish
+33,seven,siete,siete,Spanish
+34,thread,hilo,hilo,Spanish
+35,animal,animal,animal,Spanish
+36,it finishes,se acaba,se acaba,Spanish
+37,egg,blanquillo,blanquillo,Spanish
+38,foam,espuma,espuma,Spanish
+39,blood,sangre,sangre,Spanish
+40,husband,marido,marido,Spanish
+41,salt,sal,sal,Spanish
+42,net bag,red,red,Spanish
+43,gourd,jícara,jícara,Spanish
+44,squash,calabaza,calabaza,Spanish
+45,coati,tejón coatí,tejón coatí,Spanish
+46,food,comida,comida,Spanish
+47,salty,salado,salado,Spanish
+48,blouse,huipil,huipil,Spanish
+49,work,trabajo,trabajo,Spanish
+50,cotton,algodón,algodón,Spanish
+51,wind,viento,viento,Spanish
+52,man,hombre,hombre,Spanish
+53,round,redondon,redondon,Spanish
+54,oven,horno,horno,Spanish
+55,box / drawer,cajón,cajón,Spanish
+56,mosquito,zancudo,zancudo,Spanish
+57,wait for,esperar,esperar,Spanish
+58,rotten,podrido,podrido,Spanish
+59,grab,agarrar,agarrar,Spanish
+60,tendon,tendón,tendón,Spanish
+61,blow,soplar,soplar,Spanish
+62,handspan,cuarta,cuarta,Spanish
+63,owner,dueño,dueño,Spanish
+64,lay (egg),poner (huevo),poner (huevo),Spanish
+65,big (sg.),grande (sg.),grande (sg.),Spanish
+66,neck,cuello,cuello,Spanish
+67,will come,va a venir,va a venir,Spanish
+68,horn,cuerno,cuerno,Spanish
+69,snake,culebra,culebra,Spanish
+70,ugly,feo,feo,Spanish
+71,hill,cerro,cerro,Spanish
+72,armadillo,armadillo,armadillo,Spanish
+73,crooked,chueco,chueco,Spanish
+74,year,año,año,Spanish
+75,eyebrow,ceja,ceja,Spanish
+76,pus,pus,pus,Spanish
+77,demon,demonio,demonio,Spanish
+78,yellow,amarillo,amarillo,Spanish
+79,sew,coser,coser,Spanish
+80,will carry,va a cargar,va a cargar,Spanish
+81,that,aquel,aquel,Spanish
+82,below,abajo,abajo,Spanish
+83,all night,toda la noche,toda la noche,Spanish
+84,hot,caliente,caliente,Spanish
+85,grain of corn,maíz,maíz,Spanish
+86,wall,pared,pared,Spanish
+87,early,temprano,temprano,Spanish
+88,open,abierto,abierto,Spanish
+89,eight,ocho,ocho,Spanish
+90,tomato,jitomate,jitomate,Spanish
+91,green bean,ejote,ejote,Spanish
+92,half,mitad,mitad,Spanish
+93,cane,caña,caña,Spanish
+94,clay pot,olla,olla,Spanish
+95,liquor,aguardiente,aguardiente,Spanish
+96,honey,miel,miel,Spanish
+97,armpit,sobaco,sobaco,Spanish
+98,tassel,espiga,espiga,Spanish
+99,people,gente,gente,Spanish
+100,town,pueblo,pueblo,Spanish
+101,smoke,humo,humo,Spanish
+102,eat,comer,comer,Spanish
+103,hawk,gavilán,gavilan,Spanish
+104,truth,verdad,verdad,Spanish
+105,fire,lumbre,lumbre,Spanish
+106,six,seis,seis,Spanish
+107,fingernail,uña,uña,Spanish
+108,cornstalk,rastrojo,rastrojo,Spanish
+109,cornmeal,masa,masa,Spanish
+110,child,hijo,hijo,Spanish
+111,"cold, phlegm",catarro,catarro,Spanish
+112,good,bueno,bueno,Spanish
+113,because,porque,porque,Spanish
+114,this one,este mismo,este mismo,Spanish
+115,is coming,ya viene,ya viene,Spanish
+116,trash,basura,basura,Spanish
+117,cat,gato,gato,Spanish
+118,prickly pear,nopal,nopal,Spanish
+119,foot,pie,pie,Spanish
 120,cut,cortar,cortar,Spanish
 121,fifteen,quince,quince,Spanish
 122,guts,tripas,tripas,Spanish
@@ -10904,382 +15416,6 @@ IDjoss,GLOSS_E,GLOSS_S,VALUE,DOCULECT
 186,loose,floja,taša,Coat
 187,heavy,pesado,bii,Coat
 188,tobacco,tobaco,ĩnũ,Coat
-1,rain,lluvia,lluvia,Spanish
-2,agave,maguey,maguey,Spanish
-3,straw mat,petate,petate,Spanish
-4,four,cuatro,cuatro,Spanish
-5,feather,pluma,pluma,Spanish
-6,tail,cola,cola,Spanish
-7,wax,cera,cera,Spanish
-8,nose,nariz,nariz,Spanish
-9,word,palabra,palabra,Spanish
-10,near,está cerca,está cerca,Spanish
-11,tree,árbol,árbol,Spanish
-12,deer,venado,venado,Spanish
-13,lard,manteca,manteca,Spanish
-14,smell,olor,olor,Spanish
-15,tortilla,tortilla,tortilla,Spanish
-16,vomits,vomita,vomita,Spanish
-17,lazy,flojo,flojo,Spanish
-18,bed,cama,cama,Spanish
-19,griddle,comal,comal,Spanish
-20,sin,culpa,culpa,Spanish
-21,bean,frijol,frijol,Spanish
-22,water,agua,agua,Spanish
-23,river,río,río,Spanish
-24,mud,lodo,lodo,Spanish
-25,man's brother,hermano de h.,hermano de h.,Spanish
-26,three,tres,tres,Spanish
-27,tooth,diente,diente,Spanish
-28,five,cinco,cinco,Spanish
-29,bitter,amargo,amargo,Spanish
-30,meat,carne,carne,Spanish
-31,red,rojo,rojo,Spanish
-32,(he) went,se fue,se fue,Spanish
-33,seven,siete,siete,Spanish
-34,thread,hilo,hilo,Spanish
-35,animal,animal,animal,Spanish
-36,it finishes,se acaba,se acaba,Spanish
-37,egg,blanquillo,blanquillo,Spanish
-38,foam,espuma,espuma,Spanish
-39,blood,sangre,sangre,Spanish
-40,husband,marido,marido,Spanish
-41,salt,sal,sal,Spanish
-42,net bag,red,red,Spanish
-43,gourd,jícara,jícara,Spanish
-44,squash,calabaza,calabaza,Spanish
-45,coati,tejón coatí,tejón coatí,Spanish
-46,food,comida,comida,Spanish
-47,salty,salado,salado,Spanish
-48,blouse,huipil,huipil,Spanish
-49,work,trabajo,trabajo,Spanish
-50,cotton,algodón,algodón,Spanish
-51,wind,viento,viento,Spanish
-52,man,hombre,hombre,Spanish
-53,round,redondon,redondon,Spanish
-54,oven,horno,horno,Spanish
-55,box / drawer,cajón,cajón,Spanish
-56,mosquito,zancudo,zancudo,Spanish
-57,wait for,esperar,esperar,Spanish
-58,rotten,podrido,podrido,Spanish
-59,grab,agarrar,agarrar,Spanish
-60,tendon,tendón,tendón,Spanish
-61,blow,soplar,soplar,Spanish
-62,handspan,cuarta,cuarta,Spanish
-63,owner,dueño,dueño,Spanish
-64,lay (egg),poner (huevo),poner (huevo),Spanish
-65,big (sg.),grande (sg.),grande (sg.),Spanish
-66,neck,cuello,cuello,Spanish
-67,will come,va a venir,va a venir,Spanish
-68,horn,cuerno,cuerno,Spanish
-69,snake,culebra,culebra,Spanish
-70,ugly,feo,feo,Spanish
-71,hill,cerro,cerro,Spanish
-72,armadillo,armadillo,armadillo,Spanish
-73,crooked,chueco,chueco,Spanish
-74,year,año,año,Spanish
-75,eyebrow,ceja,ceja,Spanish
-76,pus,pus,pus,Spanish
-77,demon,demonio,demonio,Spanish
-78,yellow,amarillo,amarillo,Spanish
-79,sew,coser,coser,Spanish
-80,will carry,va a cargar,va a cargar,Spanish
-81,that,aquel,aquel,Spanish
-82,below,abajo,abajo,Spanish
-83,all night,toda la noche,toda la noche,Spanish
-84,hot,caliente,caliente,Spanish
-85,grain of corn,maíz,maíz,Spanish
-86,wall,pared,pared,Spanish
-87,early,temprano,temprano,Spanish
-88,open,abierto,abierto,Spanish
-89,eight,ocho,ocho,Spanish
-90,tomato,jitomate,jitomate,Spanish
-91,green bean,ejote,ejote,Spanish
-92,half,mitad,mitad,Spanish
-93,cane,caña,caña,Spanish
-94,clay pot,olla,olla,Spanish
-95,liquor,aguardiente,aguardiente,Spanish
-96,honey,miel,miel,Spanish
-97,armpit,sobaco,sobaco,Spanish
-98,tassel,espiga,espiga,Spanish
-99,people,gente,gente,Spanish
-100,town,pueblo,pueblo,Spanish
-101,smoke,humo,humo,Spanish
-102,eat,comer,comer,Spanish
-103,hawk,gavilán,gavilan,Spanish
-104,truth,verdad,verdad,Spanish
-105,fire,lumbre,lumbre,Spanish
-106,six,seis,seis,Spanish
-107,fingernail,uña,uña,Spanish
-108,cornstalk,rastrojo,rastrojo,Spanish
-109,cornmeal,masa,masa,Spanish
-110,child,hijo,hijo,Spanish
-111,"cold, phlegm",catarro,catarro,Spanish
-112,good,bueno,bueno,Spanish
-113,because,porque,porque,Spanish
-114,this one,este mismo,este mismo,Spanish
-115,is coming,ya viene,ya viene,Spanish
-116,trash,basura,basura,Spanish
-117,cat,gato,gato,Spanish
-118,prickly pear,nopal,nopal,Spanish
-119,foot,pie,pie,Spanish
-120,cut,cortar,corta,Spanish
-121,fifteen,quince,quince,Spanish
-122,guts,tripas,tripas,Spanish
-123,ten,diez,diez,Spanish
-124,cold,frío,frio,Spanish
-125,sandal,huarache,huarache,Spanish
-126,housepot,horcón,horcon,Spanish
-127,name,nombre,nombre,Spanish
-128,cacao,cacao,cacao,Spanish
-129,ear,oreja,oreja,Spanish
-130,tasty,sabroso,sabroso,Spanish
-131,closed,cerrado,cerrado,Spanish
-132,day after tomorrow,pasado mañana,pasado mabana,Spanish
-133,sweet,dulce,dulce,Spanish
-134,now,ahora,abora,Spanish
-135,hole,agujero,agujero,Spanish
-136,afraid,tiene miedo,tiene miedo,Spanish
-137,poor,pobre,pobre,Spanish
-138,two,dos,dos,Spanish
-139,scorpion,alacrán,alacran,Spanish
-140,go out,salir,salir,Spanish
-141,paint,pintar,pintar,Spanish
-142,rat,rata,rata,Spanish
-143,swelling,hinchazón,hinchazon,Spanish
-144,pimple,grano,grano,Spanish
-145,it thunders,truena,truena,Spanish
-146,rainbow,arco iris,arco iris,Spanish
-147,bird,pájaro,pajaro,Spanish
-148,frog,rana,rana,Spanish
-149,navel,ombligo,ombligo,Spanish
-150,urine,orina,orina,Spanish
-151,chachalaca,chachalaca,chachalaca,Spanish
-152,smooth,lisa,liso,Spanish
-153,little,chico,chico,Spanish
-154,day,día,dia,Spanish
-155,when,cuándo,cuando,Spanish
-156,plain,llano,llano,Spanish
-157,how,cómo,como,Spanish
-158,carry,cargar,cargar,Spanish
-159,cockroach,cucaracha,cucaracha,Spanish
-160,glue,pegamento,pegameuto,Spanish
-161,sickness,enfermedad,enfermedad,Spanish
-162,see,ver,ver,Spanish
-163,slow,despacio,despacio,Spanish
-164,house,casa,casa,Spanish
-165,mamey,mamey,mamey,Spanish
-166,grind,moler,moler,Spanish
-167,wing,ala,ala,Spanish
-168,stool,banquito,banquito,Spanish
-169,cornfield,milpa,milpa,Spanish
-170,yesterday,ayer,ayer,Spanish
-171,other,otro,otro,Spanish
-172,comb,peine,peine,Spanish
-173,be born,se nació,se nacio,Spanish
-174,smart,sabio,sabio,Spanish
-175,stone,piedra,piedra,Spanish
-176,mouth,boca,boca,Spanish
-177,I,yo,yo,Spanish
-178,dew,rocío,rocio,Spanish
-179,brush,hierba,hierba,Spanish
-180,furrow,surco,surco,Spanish
-181,trousers,calzón,calzon,Spanish
-182,priest,sacerdote,sacerdote,Spanish
-183,brand,fierro,fierro,Spanish
-184,will know,sabrá,sabra,Spanish
-185,squirrel,ardilla,ardilla,Spanish
-186,loose,floja,floja,Spanish
-187,heavy,pesado,pesado,Spanish
-188,tobacco,tobaco,tobaco,Spanish
-1,rain,lluvia,rain,English
-2,agave,maguey,agave,English
-3,straw mat,petate,straw mat,English
-4,four,cuatro,four,English
-5,feather,pluma,feather,English
-6,tail,cola,tail,English
-7,wax,cera,wax,English
-8,nose,nariz,nose,English
-9,word,palabra,word,English
-10,near,está cerca,near,English
-11,tree,árbol,tree,English
-12,deer,venado,deer,English
-13,lard,manteca,lard,English
-14,smell,olor,smell,English
-15,tortilla,tortilla,tortilla,English
-16,vomits,vomita,vomits,English
-17,lazy,flojo,lazy,English
-18,bed,cama,bed,English
-19,griddle,comal,griddle,English
-20,sin,culpa,sin,English
-21,bean,frijol,bean,English
-22,water,agua,water,English
-23,river,río,river,English
-24,mud,lodo,mud,English
-25,man's brother,hermano de h.,man's brother,English
-26,three,tres,three,English
-27,tooth,diente,tooth,English
-28,five,cinco,five,English
-29,bitter,amargo,bitter,English
-30,meat,carne,meat,English
-31,red,rojo,red,English
-32,(he) went,se fue,(he) went,English
-33,seven,siete,seven,English
-34,thread,hilo,thread,English
-35,animal,animal,animal,English
-36,it finishes,se acaba,it finishes,English
-37,egg,blanquillo,egg,English
-38,foam,espuma,foam,English
-39,blood,sangre,blood,English
-40,husband,marido,husband,English
-41,salt,sal,salt,English
-42,net bag,red,net bag,English
-43,gourd,jícara,gourd,English
-44,squash,calabaza,squash,English
-45,coati,tejón coatí,coati,English
-46,food,comida,food,English
-47,salty,salado,salty,English
-48,blouse,huipil,blouse,English
-49,work,trabajo,work,English
-50,cotton,algodón,cotton,English
-51,wind,viento,wind,English
-52,man,hombre,man,English
-53,round,redondon,round,English
-54,oven,horno,oven,English
-55,box / drawer,cajón,box / drawer,English
-56,mosquito,zancudo,mosquito,English
-57,wait for,esperar,wait for,English
-58,rotten,podrido,rotten,English
-59,grab,agarrar,grab,English
-60,tendon,tendón,tendon,English
-61,blow,soplar,blow,English
-62,handspan,cuarta,handspan,English
-63,owner,dueño,owner,English
-64,lay (egg),poner (huevo),lay (egg),English
-65,big (sg.),grande (sg.),big (sg.),English
-66,neck,cuello,neck,English
-67,will come,va a venir,will come,English
-68,horn,cuerno,horn,English
-69,snake,culebra,snake,English
-70,ugly,feo,ugly,English
-71,hill,cerro,hill,English
-72,armadillo,armadillo,armadillo,English
-73,crooked,chueco,crooked,English
-74,year,año,year,English
-75,eyebrow,ceja,eyebrow,English
-76,pus,pus,pus,English
-77,demon,demonio,demon,English
-78,yellow,amarillo,yellow,English
-79,sew,coser,sew,English
-80,will carry,va a cargar,will carry,English
-81,that,aquel,that,English
-82,below,abajo,below,English
-83,all night,toda la noche,all night,English
-84,hot,caliente,hot,English
-85,grain of corn,maíz,grain of corn,English
-86,wall,pared,wall,English
-87,early,temprano,early,English
-88,open,abierto,open,English
-89,eight,ocho,eight,English
-90,tomato,jitomate,tomato,English
-91,green bean,ejote,green bean,English
-92,half,mitad,half,English
-93,cane,caña,cane,English
-94,clay pot,olla,clay pot,English
-95,liquor,aguardiente,liquor,English
-96,honey,miel,honey,English
-97,armpit,sobaco,armpit,English
-98,tassel,espiga,tassel,English
-99,people,gente,people,English
-100,town,pueblo,town,English
-101,smoke,humo,smoke,English
-102,eat,comer,eat,English
-103,hawk,gavilán,hawk,English
-104,truth,verdad,truth,English
-105,fire,lumbre,fire,English
-106,six,seis,six,English
-107,fingernail,uña,fingernail,English
-108,cornstalk,rastrojo,cornstalk,English
-109,cornmeal,masa,cornmeal,English
-110,child,hijo,child,English
-111,"cold, phlegm",catarro,"cold, phlegm",English
-112,good,bueno,good,English
-113,because,porque,because,English
-114,this one,este mismo,this one,English
-115,is coming,ya viene,is coming,English
-116,trash,basura,trash,English
-117,cat,gato,cat,English
-118,prickly pear,nopal,prickly pear,English
-119,foot,pie,foot,English
-120,cut,cortar,cuts,English
-121,fifteen,quince,fifteen,English
-122,guts,tripas,guts,English
-123,ten,diez,ten,English
-124,cold,frío,cold,English
-125,sandal,huarache,sandal,English
-126,housepot,horcón,housepost,English
-127,name,nombre,name,English
-128,cacao,cacao,cacao,English
-129,ear,oreja,ear,English
-130,tasty,sabroso,tasty,English
-131,closed,cerrado,closed,English
-132,day after tomorrow,pasado mañana,day after tomorrow,English
-133,sweet,dulce,sweet,English
-134,now,ahora,now,English
-135,hole,agujero,hole,English
-136,afraid,tiene miedo,afraid,English
-137,poor,pobre,poor,English
-138,two,dos,two,English
-139,scorpion,alacrán,scorpion,English
-140,go out,salir,go out,English
-141,paint,pintar,paint,English
-142,rat,rata,rat,English
-143,swelling,hinchazón,swelling,English
-144,pimple,grano,pimple,English
-145,it thunders,truena,it thunders,English
-146,rainbow,arco iris,rainbow,English
-147,bird,pájaro,bird,English
-148,frog,rana,frog,English
-149,navel,ombligo,navel,English
-150,urine,orina,urine,English
-151,chachalaca,chachalaca,chachalaca,English
-152,smooth,lisa,smooth,English
-153,little,chico,little,English
-154,day,día,day,English
-155,when,cuándo,when,English
-156,plain,llano,plain,English
-157,how,cómo,how,English
-158,carry,cargar,carry,English
-159,cockroach,cucaracha,cockroach,English
-160,glue,pegamento,glue,English
-161,sickness,enfermedad,sickness,English
-162,see,ver,see,English
-163,slow,despacio,slow,English
-164,house,casa,house,English
-165,mamey,mamey,mamey,English
-166,grind,moler,grind,English
-167,wing,ala,wing,English
-168,stool,banquito,stool,English
-169,cornfield,milpa,cornfield,English
-170,yesterday,ayer,yesterday,English
-171,other,otro,other,English
-172,comb,peine,comb,English
-173,be born,se nació,be born,English
-174,smart,sabio,smart,English
-175,stone,piedra,stone,English
-176,mouth,boca,mouth,English
-177,I,yo,I,English
-178,dew,rocío,dew,English
-179,brush,hierba,brush,English
-180,furrow,surco,furrow,English
-181,trousers,calzón,trousers,English
-182,priest,sacerdote,priest,English
-183,brand,fierro,brand,English
-184,will know,sabrá,will know,English
-185,squirrel,ardilla,squirrel,English
-186,loose,floja,loose,English
-187,heavy,pesado,heavy,English
-188,tobacco,tobaco,tobacco,English
 1,rain,lluvia,*sawiʔ,P-Mixtec
 2,agave,maguey,*yawiʔ,P-Mixtec
 3,straw mat,petate,*yuwiʔ,P-Mixtec
@@ -15604,382 +19740,6 @@ IDjoss,GLOSS_E,GLOSS_S,VALUE,DOCULECT
 186,loose,floja,[nã daya],Chig
 187,heavy,pesado,wee,Chig
 188,tobacco,tobaco,i̡nu̡ (cigarro),Chig
-1,rain,lluvia,lluvia,Spanish
-2,agave,maguey,maguey,Spanish
-3,straw mat,petate,petate,Spanish
-4,four,cuatro,cuatro,Spanish
-5,feather,pluma,pluma,Spanish
-6,tail,cola,cola,Spanish
-7,wax,cera,cera,Spanish
-8,nose,nariz,nariz,Spanish
-9,word,palabra,palabra,Spanish
-10,near,está cerca,está cerca,Spanish
-11,tree,árbol,árbol,Spanish
-12,deer,venado,venado,Spanish
-13,lard,manteca,manteca,Spanish
-14,smell,olor,olor,Spanish
-15,tortilla,tortilla,tortilla,Spanish
-16,vomits,vomita,vomita,Spanish
-17,lazy,flojo,flojo,Spanish
-18,bed,cama,cama,Spanish
-19,griddle,comal,comal,Spanish
-20,sin,culpa,culpa,Spanish
-21,bean,frijol,frijol,Spanish
-22,water,agua,agua,Spanish
-23,river,río,río,Spanish
-24,mud,lodo,lodo,Spanish
-25,man's brother,hermano de h.,hermano de h.,Spanish
-26,three,tres,tres,Spanish
-27,tooth,diente,diente,Spanish
-28,five,cinco,cinco,Spanish
-29,bitter,amargo,amargo,Spanish
-30,meat,carne,carne,Spanish
-31,red,rojo,rojo,Spanish
-32,(he) went,se fue,se fue,Spanish
-33,seven,siete,siete,Spanish
-34,thread,hilo,hilo,Spanish
-35,animal,animal,animal,Spanish
-36,it finishes,se acaba,se acaba,Spanish
-37,egg,blanquillo,blanquillo,Spanish
-38,foam,espuma,espuma,Spanish
-39,blood,sangre,sangre,Spanish
-40,husband,marido,marido,Spanish
-41,salt,sal,sal,Spanish
-42,net bag,red,red,Spanish
-43,gourd,jícara,jícara,Spanish
-44,squash,calabaza,calabaza,Spanish
-45,coati,tejón coatí,tejón coatí,Spanish
-46,food,comida,comida,Spanish
-47,salty,salado,salado,Spanish
-48,blouse,huipil,huipil,Spanish
-49,work,trabajo,trabajo,Spanish
-50,cotton,algodón,algodón,Spanish
-51,wind,viento,viento,Spanish
-52,man,hombre,hombre,Spanish
-53,round,redondon,redondon,Spanish
-54,oven,horno,horno,Spanish
-55,box / drawer,cajón,cajón,Spanish
-56,mosquito,zancudo,zancudo,Spanish
-57,wait for,esperar,esperar,Spanish
-58,rotten,podrido,podrido,Spanish
-59,grab,agarrar,agarrar,Spanish
-60,tendon,tendón,tendón,Spanish
-61,blow,soplar,soplar,Spanish
-62,handspan,cuarta,cuarta,Spanish
-63,owner,dueño,dueño,Spanish
-64,lay (egg),poner (huevo),poner (huevo),Spanish
-65,big (sg.),grande (sg.),grande (sg.),Spanish
-66,neck,cuello,cuello,Spanish
-67,will come,va a venir,va a venir,Spanish
-68,horn,cuerno,cuerno,Spanish
-69,snake,culebra,culebra,Spanish
-70,ugly,feo,feo,Spanish
-71,hill,cerro,cerro,Spanish
-72,armadillo,armadillo,armadillo,Spanish
-73,crooked,chueco,chueco,Spanish
-74,year,año,año,Spanish
-75,eyebrow,ceja,ceja,Spanish
-76,pus,pus,pus,Spanish
-77,demon,demonio,demonio,Spanish
-78,yellow,amarillo,amarillo,Spanish
-79,sew,coser,coser,Spanish
-80,will carry,va a cargar,va a cargar,Spanish
-81,that,aquel,aquel,Spanish
-82,below,abajo,abajo,Spanish
-83,all night,toda la noche,toda la noche,Spanish
-84,hot,caliente,caliente,Spanish
-85,grain of corn,maíz,maíz,Spanish
-86,wall,pared,pared,Spanish
-87,early,temprano,temprano,Spanish
-88,open,abierto,abierto,Spanish
-89,eight,ocho,ocho,Spanish
-90,tomato,jitomate,jitomate,Spanish
-91,green bean,ejote,ejote,Spanish
-92,half,mitad,mitad,Spanish
-93,cane,caña,caña,Spanish
-94,clay pot,olla,olla,Spanish
-95,liquor,aguardiente,aguardiente,Spanish
-96,honey,miel,miel,Spanish
-97,armpit,sobaco,sobaco,Spanish
-98,tassel,espiga,espiga,Spanish
-99,people,gente,gente,Spanish
-100,town,pueblo,pueblo,Spanish
-101,smoke,humo,humo,Spanish
-102,eat,comer,comer,Spanish
-103,hawk,gavilán,gavilan,Spanish
-104,truth,verdad,verdad,Spanish
-105,fire,lumbre,lumbre,Spanish
-106,six,seis,seis,Spanish
-107,fingernail,uña,uña,Spanish
-108,cornstalk,rastrojo,rastrojo,Spanish
-109,cornmeal,masa,masa,Spanish
-110,child,hijo,hijo,Spanish
-111,"cold, phlegm",catarro,catarro,Spanish
-112,good,bueno,bueno,Spanish
-113,because,porque,porque,Spanish
-114,this one,este mismo,este mismo,Spanish
-115,is coming,ya viene,ya viene,Spanish
-116,trash,basura,basura,Spanish
-117,cat,gato,gato,Spanish
-118,prickly pear,nopal,nopal,Spanish
-119,foot,pie,pie,Spanish
-120,cut,cortar,corta,Spanish
-121,fifteen,quince,quince,Spanish
-122,guts,tripas,tripas,Spanish
-123,ten,diez,diez,Spanish
-124,cold,frío,frio,Spanish
-125,sandal,huarache,huarache,Spanish
-126,housepot,horcón,horcon,Spanish
-127,name,nombre,nombre,Spanish
-128,cacao,cacao,cacao,Spanish
-129,ear,oreja,oreja,Spanish
-130,tasty,sabroso,sabroso,Spanish
-131,closed,cerrado,cerrado,Spanish
-132,day after tomorrow,pasado mañana,pasado mabana,Spanish
-133,sweet,dulce,dulce,Spanish
-134,now,ahora,abora,Spanish
-135,hole,agujero,agujero,Spanish
-136,afraid,tiene miedo,tiene miedo,Spanish
-137,poor,pobre,pobre,Spanish
-138,two,dos,dos,Spanish
-139,scorpion,alacrán,alacran,Spanish
-140,go out,salir,salir,Spanish
-141,paint,pintar,pintar,Spanish
-142,rat,rata,rata,Spanish
-143,swelling,hinchazón,hinchazon,Spanish
-144,pimple,grano,grano,Spanish
-145,it thunders,truena,truena,Spanish
-146,rainbow,arco iris,arco iris,Spanish
-147,bird,pájaro,pajaro,Spanish
-148,frog,rana,rana,Spanish
-149,navel,ombligo,ombligo,Spanish
-150,urine,orina,orina,Spanish
-151,chachalaca,chachalaca,chachalaca,Spanish
-152,smooth,lisa,liso,Spanish
-153,little,chico,chico,Spanish
-154,day,día,dia,Spanish
-155,when,cuándo,cuando,Spanish
-156,plain,llano,llano,Spanish
-157,how,cómo,como,Spanish
-158,carry,cargar,cargar,Spanish
-159,cockroach,cucaracha,cucaracha,Spanish
-160,glue,pegamento,pegameuto,Spanish
-161,sickness,enfermedad,enfermedad,Spanish
-162,see,ver,ver,Spanish
-163,slow,despacio,despacio,Spanish
-164,house,casa,casa,Spanish
-165,mamey,mamey,mamey,Spanish
-166,grind,moler,moler,Spanish
-167,wing,ala,ala,Spanish
-168,stool,banquito,banquito,Spanish
-169,cornfield,milpa,milpa,Spanish
-170,yesterday,ayer,ayer,Spanish
-171,other,otro,otro,Spanish
-172,comb,peine,peine,Spanish
-173,be born,se nació,se nacio,Spanish
-174,smart,sabio,sabio,Spanish
-175,stone,piedra,piedra,Spanish
-176,mouth,boca,boca,Spanish
-177,I,yo,yo,Spanish
-178,dew,rocío,rocio,Spanish
-179,brush,hierba,hierba,Spanish
-180,furrow,surco,surco,Spanish
-181,trousers,calzón,calzon,Spanish
-182,priest,sacerdote,sacerdote,Spanish
-183,brand,fierro,fierro,Spanish
-184,will know,sabrá,sabra,Spanish
-185,squirrel,ardilla,ardilla,Spanish
-186,loose,floja,floja,Spanish
-187,heavy,pesado,pesado,Spanish
-188,tobacco,tobaco,tobaco,Spanish
-1,rain,lluvia,rain,English
-2,agave,maguey,agave,English
-3,straw mat,petate,straw mat,English
-4,four,cuatro,four,English
-5,feather,pluma,feather,English
-6,tail,cola,tail,English
-7,wax,cera,wax,English
-8,nose,nariz,nose,English
-9,word,palabra,word,English
-10,near,está cerca,near,English
-11,tree,árbol,tree,English
-12,deer,venado,deer,English
-13,lard,manteca,lard,English
-14,smell,olor,smell,English
-15,tortilla,tortilla,tortilla,English
-16,vomits,vomita,vomits,English
-17,lazy,flojo,lazy,English
-18,bed,cama,bed,English
-19,griddle,comal,griddle,English
-20,sin,culpa,sin,English
-21,bean,frijol,bean,English
-22,water,agua,water,English
-23,river,río,river,English
-24,mud,lodo,mud,English
-25,man's brother,hermano de h.,man's brother,English
-26,three,tres,three,English
-27,tooth,diente,tooth,English
-28,five,cinco,five,English
-29,bitter,amargo,bitter,English
-30,meat,carne,meat,English
-31,red,rojo,red,English
-32,(he) went,se fue,(he) went,English
-33,seven,siete,seven,English
-34,thread,hilo,thread,English
-35,animal,animal,animal,English
-36,it finishes,se acaba,it finishes,English
-37,egg,blanquillo,egg,English
-38,foam,espuma,foam,English
-39,blood,sangre,blood,English
-40,husband,marido,husband,English
-41,salt,sal,salt,English
-42,net bag,red,net bag,English
-43,gourd,jícara,gourd,English
-44,squash,calabaza,squash,English
-45,coati,tejón coatí,coati,English
-46,food,comida,food,English
-47,salty,salado,salty,English
-48,blouse,huipil,blouse,English
-49,work,trabajo,work,English
-50,cotton,algodón,cotton,English
-51,wind,viento,wind,English
-52,man,hombre,man,English
-53,round,redondon,round,English
-54,oven,horno,oven,English
-55,box / drawer,cajón,box / drawer,English
-56,mosquito,zancudo,mosquito,English
-57,wait for,esperar,wait for,English
-58,rotten,podrido,rotten,English
-59,grab,agarrar,grab,English
-60,tendon,tendón,tendon,English
-61,blow,soplar,blow,English
-62,handspan,cuarta,handspan,English
-63,owner,dueño,owner,English
-64,lay (egg),poner (huevo),lay (egg),English
-65,big (sg.),grande (sg.),big (sg.),English
-66,neck,cuello,neck,English
-67,will come,va a venir,will come,English
-68,horn,cuerno,horn,English
-69,snake,culebra,snake,English
-70,ugly,feo,ugly,English
-71,hill,cerro,hill,English
-72,armadillo,armadillo,armadillo,English
-73,crooked,chueco,crooked,English
-74,year,año,year,English
-75,eyebrow,ceja,eyebrow,English
-76,pus,pus,pus,English
-77,demon,demonio,demon,English
-78,yellow,amarillo,yellow,English
-79,sew,coser,sew,English
-80,will carry,va a cargar,will carry,English
-81,that,aquel,that,English
-82,below,abajo,below,English
-83,all night,toda la noche,all night,English
-84,hot,caliente,hot,English
-85,grain of corn,maíz,grain of corn,English
-86,wall,pared,wall,English
-87,early,temprano,early,English
-88,open,abierto,open,English
-89,eight,ocho,eight,English
-90,tomato,jitomate,tomato,English
-91,green bean,ejote,green bean,English
-92,half,mitad,half,English
-93,cane,caña,cane,English
-94,clay pot,olla,clay pot,English
-95,liquor,aguardiente,liquor,English
-96,honey,miel,honey,English
-97,armpit,sobaco,armpit,English
-98,tassel,espiga,tassel,English
-99,people,gente,people,English
-100,town,pueblo,town,English
-101,smoke,humo,smoke,English
-102,eat,comer,eat,English
-103,hawk,gavilán,hawk,English
-104,truth,verdad,truth,English
-105,fire,lumbre,fire,English
-106,six,seis,six,English
-107,fingernail,uña,fingernail,English
-108,cornstalk,rastrojo,cornstalk,English
-109,cornmeal,masa,cornmeal,English
-110,child,hijo,child,English
-111,"cold, phlegm",catarro,"cold, phlegm",English
-112,good,bueno,good,English
-113,because,porque,because,English
-114,this one,este mismo,this one,English
-115,is coming,ya viene,is coming,English
-116,trash,basura,trash,English
-117,cat,gato,cat,English
-118,prickly pear,nopal,prickly pear,English
-119,foot,pie,foot,English
-120,cut,cortar,cuts,English
-121,fifteen,quince,fifteen,English
-122,guts,tripas,guts,English
-123,ten,diez,ten,English
-124,cold,frío,cold,English
-125,sandal,huarache,sandal,English
-126,housepot,horcón,housepost,English
-127,name,nombre,name,English
-128,cacao,cacao,cacao,English
-129,ear,oreja,ear,English
-130,tasty,sabroso,tasty,English
-131,closed,cerrado,closed,English
-132,day after tomorrow,pasado mañana,day after tomorrow,English
-133,sweet,dulce,sweet,English
-134,now,ahora,now,English
-135,hole,agujero,hole,English
-136,afraid,tiene miedo,afraid,English
-137,poor,pobre,poor,English
-138,two,dos,two,English
-139,scorpion,alacrán,scorpion,English
-140,go out,salir,go out,English
-141,paint,pintar,paint,English
-142,rat,rata,rat,English
-143,swelling,hinchazón,swelling,English
-144,pimple,grano,pimple,English
-145,it thunders,truena,it thunders,English
-146,rainbow,arco iris,rainbow,English
-147,bird,pájaro,bird,English
-148,frog,rana,frog,English
-149,navel,ombligo,navel,English
-150,urine,orina,urine,English
-151,chachalaca,chachalaca,chachalaca,English
-152,smooth,lisa,smooth,English
-153,little,chico,little,English
-154,day,día,day,English
-155,when,cuándo,when,English
-156,plain,llano,plain,English
-157,how,cómo,how,English
-158,carry,cargar,carry,English
-159,cockroach,cucaracha,cockroach,English
-160,glue,pegamento,glue,English
-161,sickness,enfermedad,sickness,English
-162,see,ver,see,English
-163,slow,despacio,slow,English
-164,house,casa,house,English
-165,mamey,mamey,mamey,English
-166,grind,moler,grind,English
-167,wing,ala,wing,English
-168,stool,banquito,stool,English
-169,cornfield,milpa,cornfield,English
-170,yesterday,ayer,yesterday,English
-171,other,otro,other,English
-172,comb,peine,comb,English
-173,be born,se nació,be born,English
-174,smart,sabio,smart,English
-175,stone,piedra,stone,English
-176,mouth,boca,mouth,English
-177,I,yo,I,English
-178,dew,rocío,dew,English
-179,brush,hierba,brush,English
-180,furrow,surco,furrow,English
-181,trousers,calzón,trousers,English
-182,priest,sacerdote,priest,English
-183,brand,fierro,brand,English
-184,will know,sabrá,will know,English
-185,squirrel,ardilla,squirrel,English
-186,loose,floja,loose,English
-187,heavy,pesado,heavy,English
-188,tobacco,tobaco,tobacco,English
 1,rain,lluvia,*sawiʔ,P-Mixtec
 2,agave,maguey,*yawiʔ,P-Mixtec
 3,straw mat,petate,*yiwiʔ,P-Mixtec

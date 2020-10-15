@@ -8,12 +8,14 @@ setwd("/Users/auderset/Documents/GitHub/mixteca/Digitalization/Josserand1983/")
 
 joss <- list.files(pattern = "\\w+_raw.csv$") %>% map_df(~read_csv(.))
 glimpse(joss)
-head(joss)
-sort(unique(joss$ID))
 
 # delete last empty column
-joss <- select(joss, -X1, -X2)
+# the Spanish, English and P-Mx will be listed for each df, delete
+joss <- select(joss, -X2) %>% distinct()
 glimpse(joss)
+head(joss)
+sort(unique(joss$ID))
+# 123 varieties plus Spanish, English, Pmx
 
 # transpose
 joss.t <- joss %>% slice(-c(1:2)) %>% 
@@ -24,8 +26,8 @@ unique(joss.t$ID)
 # add the glosses back
 eng <- slice(joss, 2)
 spa <- slice(joss, 1)
-joss.t$GLOSS_E <- rep(as.character(eng[ ,-1]), 120)
-joss.t$GLOSS_S <- rep(as.character(spa[, -1]), 120)
+joss.t$GLOSS_E <- rep(as.character(eng[ ,-1]), (nrow(joss.t)/188))
+joss.t$GLOSS_S <- rep(as.character(spa[, -1]), (nrow(joss.t)/188))
 glimpse(joss.t)
 head(joss.t)
 
@@ -54,17 +56,29 @@ glimpse(joss.tmpl2)
 joss.tmpl3 <- joss.tmpl2 %>% mutate(IDlist = coalesce(IDlist.x, IDlist.y)) %>% select(IDjoss, IDlist, everything())
 glimpse(joss.tmpl3)
 # export for manual correction
-write_csv(joss.tmpl3, "josserand-list-merge.csv")
+write_csv(joss.tmpl3, "josserand-merge-out.csv")
 
 # read back in
-jl <- read_csv("josserand-list-merge.csv")
+jl <- read_csv("josserand-merge-in.csv")
 glimpse(jl)
 # add to main df
-joss.f$IDlist <- rep(as.character(jl$IDlist), 120)
-joss.f$GLOSS_EL <- rep(as.character(jl$GLOSS_1), 120)
-joss.f$GLOSS_SL <- rep(as.character(jl$GLOSS), 120)
+joss.f$IDlist <- rep(as.character(jl$IDlist), (nrow(joss.f)/188))
+joss.f$GLOSS_EL <- rep(as.character(jl$GLOSS_1), (nrow(joss.f)/188))
+joss.f$GLOSS_SL <- rep(as.character(jl$GLOSS), (nrow(joss.f)/188))
 glimpse(joss.f)
-#
+
+# split cells with / into two rows
+# remove [] from entries
+# clean out leading and trailing spaces, convert other spaces to -
+joss.f <- joss.f %>% separate_rows(VALUE, sep = "/") %>%
+  mutate(VALUE = str_remove_all(VALUE, "\\[")) %>%
+  mutate(VALUE = str_remove_all(VALUE, "\\]")) %>%
+  mutate(VALUE = trimws(VALUE, which = "both"))
+
+?str_remove_all()
+
+
+
 
 # filter, reorder for export and manual clean-up
 joss.e <- joss.f %>% filter(!is.na(IDlist)) %>% 
@@ -72,6 +86,7 @@ joss.e <- joss.f %>% filter(!is.na(IDlist)) %>%
   filter(DOCULECT!="English") %>%
   filter(!is.na(VALUE)) %>%
   select(IDlist, GLOSS_EL, GLOSS_E, GLOSS_SL, GLOSS_S, VALUE, DOCULECT, IDjoss) %>% mutate(IDlist = as.double(IDlist)) %>%
+  distinct() %>%
   arrange(IDlist)
 glimpse(joss.e)
 
