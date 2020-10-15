@@ -4,20 +4,23 @@ library(tidyverse)
 library(stringi)
 
 # read in raw data
-setwd("/Users/auderset/Documents/GitHub/mixteca/Digitalization/Josserand1983")
+setwd("/Users/auderset/Documents/GitHub/mixteca/Digitalization/Josserand1983/")
 
-joss <- list.files(pattern = "*_raw.csv") %>% map_df(~read_csv(.))
+joss <- list.files(pattern = "\\w+_raw.csv$") %>% map_df(~read_csv(.))
 glimpse(joss)
 head(joss)
+sort(unique(joss$ID))
 
 # delete last empty column
-joss <- select(joss, -X2)
+joss <- select(joss, -X1, -X2)
 glimpse(joss)
+
 # transpose
 joss.t <- joss %>% slice(-c(1:2)) %>% 
   pivot_longer(`1`:`188`, names_to = "IDjoss", values_to = "VALUE")
 head(joss.t)
 glimpse(joss.t)
+unique(joss.t$ID)
 # add the glosses back
 eng <- slice(joss, 2)
 spa <- slice(joss, 1)
