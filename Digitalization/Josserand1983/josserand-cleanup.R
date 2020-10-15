@@ -21,8 +21,8 @@ glimpse(joss.t)
 # add the glosses back
 eng <- slice(joss, 2)
 spa <- slice(joss, 1)
-joss.t$GLOSS_E <- rep(as.character(eng[ ,-1]), 111)
-joss.t$GLOSS_S <- rep(as.character(spa[, -1]), 111)
+joss.t$GLOSS_E <- rep(as.character(eng[ ,-1]), 120)
+joss.t$GLOSS_S <- rep(as.character(spa[, -1]), 120)
 glimpse(joss.t)
 head(joss.t)
 
@@ -57,9 +57,9 @@ write_csv(joss.tmpl3, "josserand-list-merge.csv")
 jl <- read_csv("josserand-list-merge.csv")
 glimpse(jl)
 # add to main df
-joss.f$IDlist <- rep(as.character(jl$IDlist), 111)
-joss.f$GLOSS_EL <- rep(as.character(jl$GLOSS_1), 111)
-joss.f$GLOSS_SL <- rep(as.character(jl$GLOSS), 111)
+joss.f$IDlist <- rep(as.character(jl$IDlist), 120)
+joss.f$GLOSS_EL <- rep(as.character(jl$GLOSS_1), 120)
+joss.f$GLOSS_SL <- rep(as.character(jl$GLOSS), 120)
 glimpse(joss.f)
 #
 
