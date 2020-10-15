@@ -8,12 +8,12 @@ library(stringi)
 setwd("/Users/auderset/Documents/GitHub/mixteca/ComparativeList/LISTS")
 
 # read in all files (delete template file and all unfinished ones first)
-wl <- list.files(pattern = "*.csv") %>% map_df(~read_csv(.))
+wl <- list.files(pattern = "*_*.csv") %>% map_df(~read_csv(.))
 class(wl)
 head(wl)
 
 # restructure, delete rows with NA
-wl1 <- wl %>% select(ID, DOCULECT, GLOSS, VALUE, FORM, IDlist, NOTES, SOURCE) %>%
+wl1 <- wl %>% select(ID, DOCULECT, GLOSS, VALUE, FORM, IDlist, NOTES, LOAN, LOAN_SOURCE, SOURCE) %>%
   filter(VALUE!="$")
 glimpse(wl1)
 
