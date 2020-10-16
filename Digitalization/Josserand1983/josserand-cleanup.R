@@ -74,7 +74,11 @@ glimpse(conc)
 
 sort(unique(joss.f$DOCULECT))
 # subset just id and josserand_code
-conc.sub <- conc %>% select(id, josserand_code) %>% filter(!is.na(josserand_code))
+conc.sub <- conc %>% select(id, josserand_code) %>% 
+  filter(!is.na(josserand_code)) %>%
+  separate_rows(josserand_code, sep = ",")
+
+# add to new column via lookup
 
 joss.f <- joss.f %>% mutate(ID = conc.sub$id)
 
