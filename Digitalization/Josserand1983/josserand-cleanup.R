@@ -67,17 +67,26 @@ joss.f$GLOSS_EL <- rep(as.character(jl$GLOSS_1), (nrow(joss.f)/188))
 joss.f$GLOSS_SL <- rep(as.character(jl$GLOSS), (nrow(joss.f)/188))
 glimpse(joss.f)
 
+# add the doculects with my identifiers
+# read in concordance file
+conc <- read_csv("/Users/auderset/Documents/GitHub/mixteca/MetaInfo/mixtecan_concordance.csv")
+glimpse(conc)
+
+sort(unique(joss.f$DOCULECT))
+# subset just id and josserand_code
+conc.sub <- conc %>% select(id, josserand_code) %>% filter(!is.na(josserand_code))
+
+joss.f <- joss.f %>% mutate(ID = conc.sub$id)
+
+
 # split cells with / into two rows
 # remove [] from entries
 # clean out leading and trailing spaces, convert other spaces to -
 joss.f <- joss.f %>% separate_rows(VALUE, sep = "/") %>%
   mutate(VALUE = str_remove_all(VALUE, "\\[")) %>%
   mutate(VALUE = str_remove_all(VALUE, "\\]")) %>%
-  mutate(VALUE = trimws(VALUE, which = "both"))
-
-?str_remove_all()
-
-
+  mutate(VALUE = trimws(VALUE, which = "both")) %>%
+  mutate(VALUE = str_replace_all(VALUE, " ", "-"))
 
 
 # filter, reorder for export and manual clean-up
@@ -89,6 +98,7 @@ joss.e <- joss.f %>% filter(!is.na(IDlist)) %>%
   distinct() %>%
   arrange(IDlist)
 glimpse(joss.e)
+
 
 # export to file
 write_csv(joss.e, "josserand_complist.csv")
