@@ -78,9 +78,9 @@ conc.sub <- conc %>% select(id, josserand_code) %>%
   filter(!is.na(josserand_code)) %>%
   separate_rows(josserand_code, sep = ",")
 
-# add to new column via lookup
-
-joss.f <- joss.f %>% mutate(ID = conc.sub$id)
+# add to new column via lookup, convert to lowercase first
+joss.f <- joss.f %>% mutate(DOCULECT = tolower(DOCULECT))
+joss.f <- joss.f %>% right_join(conc.sub, by = c("DOCULECT"="josserand_code"))
 
 
 # split cells with / into two rows
