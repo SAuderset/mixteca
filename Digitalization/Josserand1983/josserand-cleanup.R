@@ -11,7 +11,7 @@ glimpse(joss)
 
 # delete last empty column
 # the Spanish, English and P-Mx will be listed for each df, delete
-joss <- select(joss, -X2) %>% distinct()
+# joss <- select(joss, -X2) %>% distinct()
 glimpse(joss)
 head(joss)
 sort(unique(joss$ID))
@@ -98,7 +98,7 @@ joss.e <- joss.f %>% filter(!is.na(IDlist)) %>%
   filter(DOCULECT!="Spanish") %>%
   filter(DOCULECT!="English") %>%
   filter(!is.na(VALUE)) %>%
-  select(IDlist, GLOSS_EL, GLOSS_E, GLOSS_SL, GLOSS_S, VALUE, DOCULECT, IDjoss) %>% mutate(IDlist = as.double(IDlist)) %>%
+  select(IDlist, GLOSS_EL, GLOSS_E, GLOSS_SL, GLOSS_S, VALUE, DOCULECT = id, IDjoss, CODEjoss = DOCULECT) %>% mutate(IDlist = as.double(IDlist)) %>%
   distinct() %>%
   arrange(IDlist)
 glimpse(joss.e)
