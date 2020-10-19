@@ -79,7 +79,7 @@ ctdf
 
 # total varieties
 length(unique(wl3$DOCULECT))
-# 41
+# 133
 
 # entries per variety
 ev <- wl3 %>% group_by(DOCULECT) %>% summarise(entries = n()) %>% arrange(desc(entries))
@@ -95,4 +95,4 @@ write_tsv(wl3, "/Users/auderset/Documents/GitHub/mixteca/ComparativeList/mixt_co
 
 # to know where to continue IDs
 max(wl3$ID, na.rm = TRUE)
-# 6335
+# 20249
