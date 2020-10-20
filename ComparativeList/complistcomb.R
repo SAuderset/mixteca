@@ -75,6 +75,9 @@ min(ct)
 ctdf <- wl3 %>% group_by(IDlist) %>% summarise(entries = n()) %>% arrange(desc(entries))
 ctdf
 
+# how many loans
+table(wl$LOAN)
+# ca. 70
 
 
 # total varieties
