@@ -8,9 +8,15 @@ library(stringi)
 setwd("/Users/auderset/Documents/GitHub/mixteca/ComparativeList/LISTS")
 
 # read in all files (delete template file and all unfinished ones first)
-wl <- list.files(pattern = "*_*.csv") %>% map_df(~read_csv(.))
+wl <- list.files(pattern = "*_*.csv") %>% map_df(~read_delim(., "\t"))
 class(wl)
 head(wl)
+glimpse(wl)
+
+# subset with just loanwords for meeting
+loans <- wl %>% filter(!is.na(LOAN)) %>% distinct()
+write_csv(loans, "loanwords.csv")
+
 
 # restructure, delete rows with NA
 wl1 <- wl %>% select(ID, DOCULECT, GLOSS, VALUE, FORM, IDlist, NOTES, LOAN, LOAN_SOURCE, SOURCE) %>%
@@ -59,7 +65,7 @@ wl3 %>% count(ID) %>% filter(n > 1)
 which(is.na(wl3$ID))
 which(is.na(wl3$DOCULECT))
 which(is.na(wl3$IDlist))
-wl3[6313, ]
+wl3[26, ]
 
 # sort by list item, then variety
 wl3 <- wl3 %>% arrange(IDlist, DOCULECT)
@@ -91,7 +97,7 @@ tail(ev)
 
 # list all varieties
 sort(unique(wl3$DOCULECT))
-# 41 varieties
+# 133 varieties
 
 # export to tsv for further processing
 write_tsv(wl3, "/Users/auderset/Documents/GitHub/mixteca/ComparativeList/mixt_complist.tsv")
@@ -99,3 +105,7 @@ write_tsv(wl3, "/Users/auderset/Documents/GitHub/mixteca/ComparativeList/mixt_co
 # to know where to continue IDs
 max(wl3$ID, na.rm = TRUE)
 # 20249
+
+
+### export single sheets for Josserand orthography profiles
+jossp <- wl3 %>% group_by()

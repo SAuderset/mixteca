@@ -1,219 +1,219 @@
-IDlist,GLOSS,VALUE,FORM,ID,NOTES,LOAN,LOAN_SOURCE,DOCULECT,SOURCE
-1,mother,nii³,,1489,,,,copa11,hollenbach1992syntactic
-2,"mother!, mom!",'na³nii³,,1490,,,,copa11,hollenbach1992syntactic
-3,father,rex³,,1491,,,,copa11,hollenbach1992syntactic
-4,"father!, dad!",'a³tax¹,,1492,Sp. tata,yes,Spanish,copa11,hollenbach1992syntactic
-5,"son/daughter, child",tahnii⁵,,1493,,,,copa11,hollenbach1992syntactic
-6,son,$,,,,,,copa11,hollenbach1992syntactic
-7,daughter,$,,,,,,copa11,hollenbach1992syntactic
-8,cross-sex sibling,rahwix³²,,1494,only translated as ‘brother of female’,,,copa11,hollenbach1992syntactic
-9,brother of man,tinuu⁵,,1495,,,,copa11,hollenbach1992syntactic
-10,sister of woman,shuhwix³²,,1496,,,,copa11,hollenbach1992syntactic
-11,aunt,tuhwe³,,1497,,,,copa11,hollenbach1992syntactic
-12,uncle,tahnuh³,,1498,,,,copa11,hollenbach1992syntactic
-13,man,chii³,,1499,,,,copa11,hollenbach1992syntactic
-14,woman,sha³na¹,,1500,,,,copa11,hollenbach1992syntactic
-15,"owner, boss",$,,,there are multiple terms depending on what is owned,,,copa11,hollenbach1992syntactic
-16,priest,shrex³,,1501,,,,copa11,hollenbach1992syntactic
-17,blood,ton³²,,1502,,,,copa11,hollenbach1992syntactic
-18,bone,kuu⁵,,1503,,,,copa11,hollenbach1992syntactic
-19,hair,$,,,,,,copa11,hollenbach1992syntactic
-20,face,riaan³²,,1504,,,,copa11,hollenbach1992syntactic
-21,tongue,yaa³²,,1505,,,,copa11,hollenbach1992syntactic
-22,tooth,$,,,,,,copa11,hollenbach1992syntactic
-23,mouth,tuhwa³,,1506,,,,copa11,hollenbach1992syntactic
-24,ear,shree⁵,,1507,,,,copa11,hollenbach1992syntactic
-25,nose,takuun⁵,,1508,,,,copa11,hollenbach1992syntactic
-26,neck,shia⁴,,1509,,,,copa11,hollenbach1992syntactic
-27,hand,raha³,,1510,,,,copa11,hollenbach1992syntactic
-28,fingernail,$,,,,,,copa11,hollenbach1992syntactic
-29,back,shraa⁵,,1511,,,,copa11,hollenbach1992syntactic
-30,stomach,rke³,,1512,,,,copa11,hollenbach1992syntactic
-31,"intestine, guts",$,,,,,,copa11,hollenbach1992syntactic
-32,foot,takoo⁵,,1513,,,,copa11,hollenbach1992syntactic
-32,feet,shehe⁴,,1514,,,,copa11,hollenbach1992syntactic
-33,sickness,shihii³¹,,1515,,,,copa11,hollenbach1992syntactic
-34,remedy,konoho⁴,,1516,,,,copa11,hollenbach1992syntactic
-35,swelling,$,,,,,,copa11,hollenbach1992syntactic
-36,pimple,$,,,,,,copa11,hollenbach1992syntactic
-37,pus,$,,,,,,copa11,hollenbach1992syntactic
-38,urine,$,,,,,,copa11,hollenbach1992syntactic
-39,clothing,sa³ganh¹,,1517,,,,copa11,hollenbach1992syntactic
-39,"clothing, garment",yatsex⁵,,1518,,,,copa11,hollenbach1992syntactic
-39,"clothing, garment",yatsix⁵,,1519,,,,copa11,hollenbach1992syntactic
-40,"sandal, sandals",kanx³,,1520,,,,copa11,hollenbach1992syntactic
-41,pants,$,,,,,,copa11,hollenbach1992syntactic
-42,tunic,rohno⁴,,1521,,,,copa11,hollenbach1992syntactic
-43,town,shumanh³,,1522,,,,copa11,hollenbach1992syntactic
-44,house,weh³,,1523,,,,copa11,hollenbach1992syntactic
-45,trail,chrex³²,,1524,,,,copa11,hollenbach1992syntactic
-46,post,$,,,,,,copa11,hollenbach1992syntactic
-47,"mat, sleeping mat, straw mat",$,,,,,,copa11,hollenbach1992syntactic
-48,bed,$,,,,,,copa11,hollenbach1992syntactic
-49,"stool, chair",$,,,,,,copa11,hollenbach1992syntactic
-50,animal,shkuu³,,1525,,,,copa11,hollenbach1992syntactic
-51,bird,shtax³²,,1526,"probably a compound with wax32 ‘move’, see fish",,,copa11,hollenbach1992syntactic
-52,fish,shkw-ax³²,shkw-ax³²,1527,"animal-move, with wax32 ‘move’",,,copa11,hollenbach1992syntactic
-53,snake,shkw-aa⁵,shkw-aa⁵,1528,"animal-root, with yaa5 ‘root’",,,copa11,hollenbach1992syntactic
-54,frog,ri³kix¹³,,1529,,,,copa11,hollenbach1992syntactic
-55,nighthawk,kuwix⁵,,1530,,,,copa11,hollenbach1992syntactic
-56,scorpion,$,,,,,,copa11,hollenbach1992syntactic
-57,cockroach,$,,,,,,copa11,hollenbach1992syntactic
-58,grasshopper,$,,,,,,copa11,hollenbach1992syntactic
-59,bumblebee,shongo⁴,,1531,,,,copa11,hollenbach1992syntactic
-60,"mouse, rat",sh-tuu³²,sh-tuu³²,1532,"animal-stealing, with ituu32 ‘stealing’",,,copa11,hollenbach1992syntactic
-61,deer,shtax³,sh-tax³,1533,animal-?,,,copa11,hollenbach1992syntactic
-62,squirrel,$,,,,,,copa11,hollenbach1992syntactic
-63,skunk,$,,,,,,copa11,hollenbach1992syntactic
-64,(o)possum,neko⁴,,1534,,,,copa11,hollenbach1992syntactic
-65,raccoon,kahux³,,1535,,,,copa11,hollenbach1992syntactic
-66,rabbit,tuku³ya³²,,1536,,,,copa11,hollenbach1992syntactic
-67,vulture,$,,,,,,copa11,hollenbach1992syntactic
-68,dog,shu-wee³,shu-wee³,1537,animal-?,,,copa11,hollenbach1992syntactic
-69,cat,$,,,,,,copa11,hollenbach1992syntactic
-70,rooster,tohloo³,,1538,,,,copa11,hollenbach1992syntactic
-71,"hen, chicken",shuchee³²,shu-chee³²,1539,animal-?,,,copa11,hollenbach1992syntactic
-72,pig,$,,,,,,copa11,hollenbach1992syntactic
-73,horse,kwa³yo⁴,,1540,Sp. caballo,yes,Colonial Spanish,copa11,hollenbach1992syntactic
-74,sheep,matsinx³²,,1541,,,,copa11,hollenbach1992syntactic
-75,ant,shkw-aa³,shkw-aa³,1542,animal-?,,,copa11,hollenbach1992syntactic
-76,horn (anatomy),$,,,,,,copa11,hollenbach1992syntactic
-77,feather,$,,,,,,copa11,hollenbach1992syntactic
-78,wing,$,,,,,,copa11,hollenbach1992syntactic
-79,tail,tuneh⁴,,1543,"not sure about basic tone, also appears as tuneh3",,,copa11,hollenbach1992syntactic
-80,"tree, wood, pole",chruun³,,1544,,,,copa11,hollenbach1992syntactic
-81,herb,$,,,,,,copa11,hollenbach1992syntactic
-82,grass,$,,,,,,copa11,hollenbach1992syntactic
-83,flower,yax³²,,1545,,,,copa11,hollenbach1992syntactic
-84,"maguey, century plant",$,,,,,,copa11,hollenbach1992syntactic
-85,root,yaa⁵,,1546,,,,copa11,hollenbach1992syntactic
-86,thorn,tanx³²,,1547,,,,copa11,hollenbach1992syntactic
-87,corn,hnuu⁵,,1548,,,,copa11,hollenbach1992syntactic
-88,cornfield,naa³¹,,1549,,,,copa11,hollenbach1992syntactic
-89,ear of corn,tanh³,,1550,,,,copa11,hollenbach1992syntactic
-90,nixtamal,$,,,,,,copa11,hollenbach1992syntactic
-91,"cornmeal, corn dough",$,,,,,,copa11,hollenbach1992syntactic
-92,tortilla,chraa³,,1551,,,,copa11,hollenbach1992syntactic
-93,"cleared field, cornstalk",$,,,,,,copa11,hollenbach1992syntactic
-94,"furrow, planting row",$,,,,,,copa11,hollenbach1992syntactic
-95,"tassel, maize spike",$,,,,,,copa11,hollenbach1992syntactic
-96,bean,rnee³²,,1552,,,,copa11,hollenbach1992syntactic
-97,green bean,$,,,,,,copa11,hollenbach1992syntactic
-98,chili pepper,yahax³,,1553,,,,copa11,hollenbach1992syntactic
-99,salt,yaan³²,,1554,,,,copa11,hollenbach1992syntactic
-100,squash,$,,,,,,copa11,hollenbach1992syntactic
-101,chayote squash,$,,,,,,copa11,hollenbach1992syntactic
-102,sugar cane,$,,,,,,copa11,hollenbach1992syntactic
-103,honey,katsih³,,1555,,,,copa11,hollenbach1992syntactic
-104,"fat, lard, grease",$,,,,,,copa11,hollenbach1992syntactic
-105,"egg, fruit",chrux³,,1556,,,,copa11,hollenbach1992syntactic
-106,tomato,$,,,,,,copa11,hollenbach1992syntactic
-107,tuber,yume³²,,1557,,,,copa11,hollenbach1992syntactic
-108,avocado,$,,,,,,copa11,hollenbach1992syntactic
-109,banana,nato³²,,1558,,,,copa11,hollenbach1992syntactic
-110,prickly pear cactus,$,,,,,,copa11,hollenbach1992syntactic
-111,mamey,$,,,,,,copa11,hollenbach1992syntactic
-112,custard apple,rkoo³²,,1559,,,,copa11,hollenbach1992syntactic
-113,mushroom,$,,,,,,copa11,hollenbach1992syntactic
-114,"meat, flesh",nee³¹,,1560,,,,copa11,hollenbach1992syntactic
-115,griddle,$,,,,,,copa11,hollenbach1992syntactic
-116,(clay) pot,shrux³,,1561,,,,copa11,hollenbach1992syntactic
-117,"oven, box",chruun⁵,,1562,,,,copa11,hollenbach1992syntactic
-118,fire,yahan³²,,1563,,,,copa11,hollenbach1992syntactic
-119,ash,yax³,,1564,,,,copa11,hollenbach1992syntactic
-120,charcoal,ruhwih³,,1565,,,,copa11,hollenbach1992syntactic
-121,smoke,katseh³,,1566,,,,copa11,hollenbach1992syntactic
-122,"garbage, trash",$,,,,,,copa11,hollenbach1992syntactic
-123,plate,$,,,,,,copa11,hollenbach1992syntactic
-124,gourd,yachruh³,,1567,,,,copa11,hollenbach1992syntactic
-125,palm basket,yoo⁴,,1568,,,,copa11,hollenbach1992syntactic
-126,"box, oven",chruun⁵,,1569,"same as oven, see 117",,,copa11,hollenbach1992syntactic
-127,thread,yuhwex³²,,1570,,,,copa11,hollenbach1992syntactic
-128,comb,$,,,,,,copa11,hollenbach1992syntactic
-129,rope,neh³,,1571,,,,copa11,hollenbach1992syntactic
-130,hole,$,,,,,,copa11,hollenbach1992syntactic
-131,net bag,nanx³,,1572,,,,copa11,hollenbach1992syntactic
-132,soap,yumih³,,1573,,,,copa11,hollenbach1992syntactic
-133,ring,$,,,,,,copa11,hollenbach1992syntactic
-134,moon,yawii³,,1574,,,,copa11,hollenbach1992syntactic
-135,cloud,$,,,,,,copa11,hollenbach1992syntactic
-136,lightning,$,,,,,,copa11,hollenbach1992syntactic
-137,water,na³²,,1575,,,,copa11,hollenbach1992syntactic
-138,rain (precipitation),maan³¹,,1576,,,,copa11,hollenbach1992syntactic
-139,river,chraa⁵,,1577,,,,copa11,hollenbach1992syntactic
-140,dew,$,,,,,,copa11,hollenbach1992syntactic
-141,mountain,kix³²,,1578,,,,copa11,hollenbach1992syntactic
-142,plain,taa³,,1579,,,,copa11,hollenbach1992syntactic
-143,"rock, cliff",yuwex³²,,1580,,,,copa11,hollenbach1992syntactic
-144,cotton,kachix³²,,1581,,,,copa11,hollenbach1992syntactic
-145,metal,agah³,,1582,,,,copa11,hollenbach1992syntactic
-146,paper,yanx³,,1583,,,,copa11,hollenbach1992syntactic
-147,lime (material),$,,,,,,copa11,hollenbach1992syntactic
-148,wax,yanx⁵,,1584,,,,copa11,hollenbach1992syntactic
-149,mud,sigih³,,1585,,,,copa11,hollenbach1992syntactic
-150,foam,$,,,,,,copa11,hollenbach1992syntactic
-151,dust,$,,,,,,copa11,hollenbach1992syntactic
-152,red,maree¹³,,1586,,,,copa11,hollenbach1992syntactic
-153,green,maree³¹,,1587,,,,copa11,hollenbach1992syntactic
-154,yellow,mii⁵,,1588,,,,copa11,hollenbach1992syntactic
-155,black,maruu³¹,,1589,,,,copa11,hollenbach1992syntactic
-156,white,katsii¹,,1590,,,,copa11,hollenbach1992syntactic
-157,one,yoho²,,1591,,,,copa11,hollenbach1992syntactic
-157,one,ho²,,1592,,,,copa11,hollenbach1992syntactic
-158,two,wix¹,,1593,,,,copa11,hollenbach1992syntactic
-159,three,wahnux¹,,1594,,,,copa11,hollenbach1992syntactic
-160,four,kahanx¹³,,1595,,,,copa11,hollenbach1992syntactic
-161,five,uhunh¹,,1596,,,,copa11,hollenbach1992syntactic
-161,five,hunh¹,,1597,,,,copa11,hollenbach1992syntactic
-162,six,watanh¹,,1598,,,,copa11,hollenbach1992syntactic
-163,seven,ichix²,,1599,,,,copa11,hollenbach1992syntactic
-163,seven,chix²,,1600,,,,copa11,hollenbach1992syntactic
-164,eight,itunx²,,1601,,,,copa11,hollenbach1992syntactic
-164,eight,tunx²,,1602,,,,copa11,hollenbach1992syntactic
-165,nine,uun²,,1603,,,,copa11,hollenbach1992syntactic
-166,ten,ichih²,,1604,,,,copa11,hollenbach1992syntactic
-166,ten,chih²,,1605,,,,copa11,hollenbach1992syntactic
-167,fifteen,shnuh²,,1606,,,,copa11,hollenbach1992syntactic
-168,twenty,iko²,,1607,,,,copa11,hollenbach1992syntactic
-168,twenty,ko²,,1608,,,,copa11,hollenbach1992syntactic
-169,poor,nike¹³,,1609,,,,copa11,hollenbach1992syntactic
-170,rich person,ruhwee³²,,1610,I think this a tone-derived form of the stative verb,,,copa11,hollenbach1992syntactic
-171,cold,$,,,,,,copa11,hollenbach1992syntactic
-172,hot,yahaan¹³,,1611,,,,copa11,hollenbach1992syntactic
-173,big,shix¹,,1612,not marked for number,,,copa11,hollenbach1992syntactic
-173,big,kahaan¹,,1613,don’t know what the difference is to the other one,,,copa11,hollenbach1992syntactic
-175,small.SG,nii³,,1614,not marked for number,,,copa11,hollenbach1992syntactic
-176,small.PL,$,,,,,,copa11,hollenbach1992syntactic
-177,long.SG,$,,,,,,copa11,hollenbach1992syntactic
-178,long.PL,$,,,,,,copa11,hollenbach1992syntactic
-179,good,zah¹,,1615,,,,copa11,hollenbach1992syntactic
-180,sweet,tsih¹,,1616,,,,copa11,hollenbach1992syntactic
-181,salty,$,,,,,,copa11,hollenbach1992syntactic
-182,bitter,eh¹,,1617,,,,copa11,hollenbach1992syntactic
-183,"tasty, pleasing",shianh¹,,1618,,,,copa11,hollenbach1992syntactic
-184,wide,kashrah¹,,1619,,,,copa11,hollenbach1992syntactic
-185,new,naka¹,,1620,,,,copa11,hollenbach1992syntactic
-186,lazy person,rmii³¹,,1621,could also be a tone-derived form from the stative verb,,,copa11,hollenbach1992syntactic
-187,"ugly, bad",nix³²,,1622,,,,copa11,hollenbach1992syntactic
-188,jealous,$,,,,,,copa11,hollenbach1992syntactic
-189,near,nichrunh¹,,1623,,,,copa11,hollenbach1992syntactic
-190,far,ganh¹,,1624,,,,copa11,hollenbach1992syntactic
-191,heavy,hee¹,,1625,,,,copa11,hollenbach1992syntactic
-192,raw,$,,,,,,copa11,hollenbach1992syntactic
-193,smooth,nuhwe¹³,,1626,,,,copa11,hollenbach1992syntactic
-194,slow,$,,,,,,copa11,hollenbach1992syntactic
-195,yesterday,kii³,,1627,,,,copa11,hollenbach1992syntactic
-196,year,yoh³,,1628,,,,copa11,hollenbach1992syntactic
-197,"now, today",yax¹³,,1629,,,,copa11,hollenbach1992syntactic
-198,night,nii³¹,,1630,,,,copa11,hollenbach1992syntactic
-199,night time,$,,,,,,copa11,hollenbach1992syntactic
-200,day,gwii³,,1631,,,,copa11,hollenbach1992syntactic
-201,day time,$,,,,,,copa11,hollenbach1992syntactic
-202,"half, side, part",yanex¹,,1632,,,,copa11,hollenbach1992syntactic
-203,money,sahanx³²,,1633,,,,copa11,hollenbach1992syntactic
-204,work,zuun³²,,1634,,,,copa11,hollenbach1992syntactic
-205,word,na³na¹,,1635,,,,copa11,hollenbach1992syntactic
-206,blame,kakunh³,,1636,,,,copa11,hollenbach1992syntactic
-207,dream,$,,,,,,copa11,hollenbach1992syntactic
-208,when,$,,,,,,copa11,hollenbach1992syntactic
-209,"song, music",$,,,,,,copa11,hollenbach1992syntactic
+IDlist	GLOSS	VALUE	FORM	ID	NOTES	LOAN	LOAN_SOURCE	DOCULECT	SOURCE
+1	mother	nii³		1489				copa11	hollenbach1992syntactic
+2	mother!, mom!	'na³nii³		1490				copa11	hollenbach1992syntactic
+3	father	rex³		1491				copa11	hollenbach1992syntactic
+4	father!, dad!	'a³tax¹		1492	Sp. tata	yes	Spanish	copa11	hollenbach1992syntactic
+5	son/daughter, child	tahnii⁵		1493				copa11	hollenbach1992syntactic
+6	son	$						copa11	hollenbach1992syntactic
+7	daughter	$						copa11	hollenbach1992syntactic
+8	cross-sex sibling	rahwix³²		1494	only translated as ‘brother of female’			copa11	hollenbach1992syntactic
+9	brother of man	tinuu⁵		1495				copa11	hollenbach1992syntactic
+10	sister of woman	shuhwix³²		1496				copa11	hollenbach1992syntactic
+11	aunt	tuhwe³		1497				copa11	hollenbach1992syntactic
+12	uncle	tahnuh³		1498				copa11	hollenbach1992syntactic
+13	man	chii³		1499				copa11	hollenbach1992syntactic
+14	woman	sha³na¹		1500				copa11	hollenbach1992syntactic
+15	owner, boss	$			there are multiple terms depending on what is owned			copa11	hollenbach1992syntactic
+16	priest	shrex³		1501				copa11	hollenbach1992syntactic
+17	blood	ton³²		1502				copa11	hollenbach1992syntactic
+18	bone	kuu⁵		1503				copa11	hollenbach1992syntactic
+19	hair	$						copa11	hollenbach1992syntactic
+20	face	riaan³²		1504				copa11	hollenbach1992syntactic
+21	tongue	yaa³²		1505				copa11	hollenbach1992syntactic
+22	tooth	$						copa11	hollenbach1992syntactic
+23	mouth	tuhwa³		1506				copa11	hollenbach1992syntactic
+24	ear	shree⁵		1507				copa11	hollenbach1992syntactic
+25	nose	takuun⁵		1508				copa11	hollenbach1992syntactic
+26	neck	shia⁴		1509				copa11	hollenbach1992syntactic
+27	hand	raha³		1510				copa11	hollenbach1992syntactic
+28	fingernail	$						copa11	hollenbach1992syntactic
+29	back	shraa⁵		1511				copa11	hollenbach1992syntactic
+30	stomach	rke³		1512				copa11	hollenbach1992syntactic
+31	intestine, guts	$						copa11	hollenbach1992syntactic
+32	foot	takoo⁵		1513				copa11	hollenbach1992syntactic
+32	feet	shehe⁴		1514				copa11	hollenbach1992syntactic
+33	sickness	shihii³¹		1515				copa11	hollenbach1992syntactic
+34	remedy	konoho⁴		1516				copa11	hollenbach1992syntactic
+35	swelling	$						copa11	hollenbach1992syntactic
+36	pimple	$						copa11	hollenbach1992syntactic
+37	pus	$						copa11	hollenbach1992syntactic
+38	urine	$						copa11	hollenbach1992syntactic
+39	clothing	sa³ganh¹		1517				copa11	hollenbach1992syntactic
+39	clothing, garment	yatsex⁵		1518				copa11	hollenbach1992syntactic
+39	clothing, garment	yatsix⁵		1519				copa11	hollenbach1992syntactic
+40	sandal, sandals	kanx³		1520				copa11	hollenbach1992syntactic
+41	pants	$						copa11	hollenbach1992syntactic
+42	tunic	rohno⁴		1521				copa11	hollenbach1992syntactic
+43	town	shumanh³		1522				copa11	hollenbach1992syntactic
+44	house	weh³		1523				copa11	hollenbach1992syntactic
+45	trail	chrex³²		1524				copa11	hollenbach1992syntactic
+46	post	$						copa11	hollenbach1992syntactic
+47	mat, sleeping mat, straw mat	$						copa11	hollenbach1992syntactic
+48	bed	$						copa11	hollenbach1992syntactic
+49	stool, chair	$						copa11	hollenbach1992syntactic
+50	animal	shkuu³		1525				copa11	hollenbach1992syntactic
+51	bird	shtax³²		1526	probably a compound with wax32 ‘move’, see fish			copa11	hollenbach1992syntactic
+52	fish	shkw-ax³²	shkw-ax³²	1527	animal-move, with wax32 ‘move’			copa11	hollenbach1992syntactic
+53	snake	shkw-aa⁵	shkw-aa⁵	1528	animal-root, with yaa5 ‘root’			copa11	hollenbach1992syntactic
+54	frog	ri³kix¹³		1529				copa11	hollenbach1992syntactic
+55	nighthawk	kuwix⁵		1530				copa11	hollenbach1992syntactic
+56	scorpion	$						copa11	hollenbach1992syntactic
+57	cockroach	$						copa11	hollenbach1992syntactic
+58	grasshopper	$						copa11	hollenbach1992syntactic
+59	bumblebee	shongo⁴		1531				copa11	hollenbach1992syntactic
+60	mouse, rat	sh-tuu³²	sh-tuu³²	1532	animal-stealing, with ituu32 ‘stealing’			copa11	hollenbach1992syntactic
+61	deer	shtax³	sh-tax³	1533	animal-?			copa11	hollenbach1992syntactic
+62	squirrel	$						copa11	hollenbach1992syntactic
+63	skunk	$						copa11	hollenbach1992syntactic
+64	(o)possum	neko⁴		1534				copa11	hollenbach1992syntactic
+65	raccoon	kahux³		1535				copa11	hollenbach1992syntactic
+66	rabbit	tuku³ya³²		1536				copa11	hollenbach1992syntactic
+67	vulture	$						copa11	hollenbach1992syntactic
+68	dog	shu-wee³	shu-wee³	1537	animal-?			copa11	hollenbach1992syntactic
+69	cat	$						copa11	hollenbach1992syntactic
+70	rooster	tohloo³		1538				copa11	hollenbach1992syntactic
+71	hen, chicken	shuchee³²	shu-chee³²	1539	animal-?			copa11	hollenbach1992syntactic
+72	pig	$						copa11	hollenbach1992syntactic
+73	horse	kwa³yo⁴		1540	Sp. caballo	yes	Colonial Spanish	copa11	hollenbach1992syntactic
+74	sheep	matsinx³²		1541				copa11	hollenbach1992syntactic
+75	ant	shkw-aa³	shkw-aa³	1542	animal-?			copa11	hollenbach1992syntactic
+76	horn (anatomy)	$						copa11	hollenbach1992syntactic
+77	feather	$						copa11	hollenbach1992syntactic
+78	wing	$						copa11	hollenbach1992syntactic
+79	tail	tuneh⁴		1543	not sure about basic tone, also appears as tuneh3			copa11	hollenbach1992syntactic
+80	tree, wood, pole	chruun³		1544				copa11	hollenbach1992syntactic
+81	herb	$						copa11	hollenbach1992syntactic
+82	grass	$						copa11	hollenbach1992syntactic
+83	flower	yax³²		1545				copa11	hollenbach1992syntactic
+84	maguey, century plant	$						copa11	hollenbach1992syntactic
+85	root	yaa⁵		1546				copa11	hollenbach1992syntactic
+86	thorn	tanx³²		1547				copa11	hollenbach1992syntactic
+87	corn	hnuu⁵		1548				copa11	hollenbach1992syntactic
+88	cornfield	naa³¹		1549				copa11	hollenbach1992syntactic
+89	ear of corn	tanh³		1550				copa11	hollenbach1992syntactic
+90	nixtamal	$						copa11	hollenbach1992syntactic
+91	cornmeal, corn dough	$						copa11	hollenbach1992syntactic
+92	tortilla	chraa³		1551				copa11	hollenbach1992syntactic
+93	cleared field, cornstalk	$						copa11	hollenbach1992syntactic
+94	furrow, planting row	$						copa11	hollenbach1992syntactic
+95	tassel, maize spike	$						copa11	hollenbach1992syntactic
+96	bean	rnee³²		1552				copa11	hollenbach1992syntactic
+97	green bean	$						copa11	hollenbach1992syntactic
+98	chili pepper	yahax³		1553				copa11	hollenbach1992syntactic
+99	salt	yaan³²		1554				copa11	hollenbach1992syntactic
+100	squash	$						copa11	hollenbach1992syntactic
+101	chayote squash	$						copa11	hollenbach1992syntactic
+102	sugar cane	$						copa11	hollenbach1992syntactic
+103	honey	katsih³		1555				copa11	hollenbach1992syntactic
+104	fat, lard, grease	$						copa11	hollenbach1992syntactic
+105	egg, fruit	chrux³		1556				copa11	hollenbach1992syntactic
+106	tomato	$						copa11	hollenbach1992syntactic
+107	tuber	yume³²		1557				copa11	hollenbach1992syntactic
+108	avocado	$						copa11	hollenbach1992syntactic
+109	banana	nato³²		1558				copa11	hollenbach1992syntactic
+110	prickly pear cactus	$						copa11	hollenbach1992syntactic
+111	mamey	$						copa11	hollenbach1992syntactic
+112	custard apple	rkoo³²		1559				copa11	hollenbach1992syntactic
+113	mushroom	$						copa11	hollenbach1992syntactic
+114	meat, flesh	nee³¹		1560				copa11	hollenbach1992syntactic
+115	griddle	$						copa11	hollenbach1992syntactic
+116	(clay) pot	shrux³		1561				copa11	hollenbach1992syntactic
+117	oven, box	chruun⁵		1562				copa11	hollenbach1992syntactic
+118	fire	yahan³²		1563				copa11	hollenbach1992syntactic
+119	ash	yax³		1564				copa11	hollenbach1992syntactic
+120	charcoal	ruhwih³		1565				copa11	hollenbach1992syntactic
+121	smoke	katseh³		1566				copa11	hollenbach1992syntactic
+122	garbage, trash	$						copa11	hollenbach1992syntactic
+123	plate	$						copa11	hollenbach1992syntactic
+124	gourd	yachruh³		1567				copa11	hollenbach1992syntactic
+125	palm basket	yoo⁴		1568				copa11	hollenbach1992syntactic
+126	box, oven	chruun⁵		1569	same as oven, see 117			copa11	hollenbach1992syntactic
+127	thread	yuhwex³²		1570				copa11	hollenbach1992syntactic
+128	comb	$						copa11	hollenbach1992syntactic
+129	rope	neh³		1571				copa11	hollenbach1992syntactic
+130	hole	$						copa11	hollenbach1992syntactic
+131	net bag	nanx³		1572				copa11	hollenbach1992syntactic
+132	soap	yumih³		1573				copa11	hollenbach1992syntactic
+133	ring	$						copa11	hollenbach1992syntactic
+134	moon	yawii³		1574				copa11	hollenbach1992syntactic
+135	cloud	$						copa11	hollenbach1992syntactic
+136	lightning	$						copa11	hollenbach1992syntactic
+137	water	na³²		1575				copa11	hollenbach1992syntactic
+138	rain (precipitation)	maan³¹		1576				copa11	hollenbach1992syntactic
+139	river	chraa⁵		1577				copa11	hollenbach1992syntactic
+140	dew	$						copa11	hollenbach1992syntactic
+141	mountain	kix³²		1578				copa11	hollenbach1992syntactic
+142	plain	taa³		1579				copa11	hollenbach1992syntactic
+143	rock, cliff	yuwex³²		1580				copa11	hollenbach1992syntactic
+144	cotton	kachix³²		1581				copa11	hollenbach1992syntactic
+145	metal	agah³		1582				copa11	hollenbach1992syntactic
+146	paper	yanx³		1583				copa11	hollenbach1992syntactic
+147	lime (material)	$						copa11	hollenbach1992syntactic
+148	wax	yanx⁵		1584				copa11	hollenbach1992syntactic
+149	mud	sigih³		1585				copa11	hollenbach1992syntactic
+150	foam	$						copa11	hollenbach1992syntactic
+151	dust	$						copa11	hollenbach1992syntactic
+152	red	maree¹³		1586				copa11	hollenbach1992syntactic
+153	green	maree³¹		1587				copa11	hollenbach1992syntactic
+154	yellow	mii⁵		1588				copa11	hollenbach1992syntactic
+155	black	maruu³¹		1589				copa11	hollenbach1992syntactic
+156	white	katsii¹		1590				copa11	hollenbach1992syntactic
+157	one	yoho²		1591				copa11	hollenbach1992syntactic
+157	one	ho²		1592				copa11	hollenbach1992syntactic
+158	two	wix¹		1593				copa11	hollenbach1992syntactic
+159	three	wahnux¹		1594				copa11	hollenbach1992syntactic
+160	four	kahanx¹³		1595				copa11	hollenbach1992syntactic
+161	five	uhunh¹		1596				copa11	hollenbach1992syntactic
+161	five	hunh¹		1597				copa11	hollenbach1992syntactic
+162	six	watanh¹		1598				copa11	hollenbach1992syntactic
+163	seven	ichix²		1599				copa11	hollenbach1992syntactic
+163	seven	chix²		1600				copa11	hollenbach1992syntactic
+164	eight	itunx²		1601				copa11	hollenbach1992syntactic
+164	eight	tunx²		1602				copa11	hollenbach1992syntactic
+165	nine	uun²		1603				copa11	hollenbach1992syntactic
+166	ten	ichih²		1604				copa11	hollenbach1992syntactic
+166	ten	chih²		1605				copa11	hollenbach1992syntactic
+167	fifteen	shnuh²		1606				copa11	hollenbach1992syntactic
+168	twenty	iko²		1607				copa11	hollenbach1992syntactic
+168	twenty	ko²		1608				copa11	hollenbach1992syntactic
+169	poor	nike¹³		1609				copa11	hollenbach1992syntactic
+170	rich person	ruhwee³²		1610	I think this a tone-derived form of the stative verb			copa11	hollenbach1992syntactic
+171	cold	$						copa11	hollenbach1992syntactic
+172	hot	yahaan¹³		1611				copa11	hollenbach1992syntactic
+173	big	shix¹		1612	not marked for number			copa11	hollenbach1992syntactic
+173	big	kahaan¹		1613	don’t know what the difference is to the other one			copa11	hollenbach1992syntactic
+175	small.SG	nii³		1614	not marked for number			copa11	hollenbach1992syntactic
+176	small.PL	$						copa11	hollenbach1992syntactic
+177	long.SG	$						copa11	hollenbach1992syntactic
+178	long.PL	$						copa11	hollenbach1992syntactic
+179	good	zah¹		1615				copa11	hollenbach1992syntactic
+180	sweet	tsih¹		1616				copa11	hollenbach1992syntactic
+181	salty	$						copa11	hollenbach1992syntactic
+182	bitter	eh¹		1617				copa11	hollenbach1992syntactic
+183	tasty, pleasing	shianh¹		1618				copa11	hollenbach1992syntactic
+184	wide	kashrah¹		1619				copa11	hollenbach1992syntactic
+185	new	naka¹		1620				copa11	hollenbach1992syntactic
+186	lazy person	rmii³¹		1621	could also be a tone-derived form from the stative verb			copa11	hollenbach1992syntactic
+187	ugly, bad	nix³²		1622				copa11	hollenbach1992syntactic
+188	jealous	$						copa11	hollenbach1992syntactic
+189	near	nichrunh¹		1623				copa11	hollenbach1992syntactic
+190	far	ganh¹		1624				copa11	hollenbach1992syntactic
+191	heavy	hee¹		1625				copa11	hollenbach1992syntactic
+192	raw	$						copa11	hollenbach1992syntactic
+193	smooth	nuhwe¹³		1626				copa11	hollenbach1992syntactic
+194	slow	$						copa11	hollenbach1992syntactic
+195	yesterday	kii³		1627				copa11	hollenbach1992syntactic
+196	year	yoh³		1628				copa11	hollenbach1992syntactic
+197	now, today	yax¹³		1629				copa11	hollenbach1992syntactic
+198	night	nii³¹		1630				copa11	hollenbach1992syntactic
+199	night time	$						copa11	hollenbach1992syntactic
+200	day	gwii³		1631				copa11	hollenbach1992syntactic
+201	day time	$						copa11	hollenbach1992syntactic
+202	half, side, part	yanex¹		1632				copa11	hollenbach1992syntactic
+203	money	sahanx³²		1633				copa11	hollenbach1992syntactic
+204	work	zuun³²		1634				copa11	hollenbach1992syntactic
+205	word	na³na¹		1635				copa11	hollenbach1992syntactic
+206	blame	kakunh³		1636				copa11	hollenbach1992syntactic
+207	dream	$						copa11	hollenbach1992syntactic
+208	when	$						copa11	hollenbach1992syntactic
+209	song, music	$						copa11	hollenbach1992syntactic

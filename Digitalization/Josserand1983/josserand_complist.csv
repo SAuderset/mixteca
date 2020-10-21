@@ -163,7 +163,7 @@ IDlist,GLOSS_E,FORM,DOCULECT,IDjoss,CODEjoss
 9,man's brother,ña̡nī̡,gran11,25,mig
 9,man's brother,ña̡ni̡,guad11,25,guad
 9,man's brother,ya̡ñi̡,huaz11,25,huaz
-9,man's brother,y̡a̡ni̡,huit11,25,huit
+9,man's brother,ỹa̡ni̡,huit11,25,huit
 9,man's brother,ña̡ni̡,huit11,25,huit
 9,man's brother,ye̡ni̡,itun11,25,itun
 9,man's brother,ña̡ñi̡,ixta11,25,ixty
@@ -411,7 +411,7 @@ IDlist,GLOSS_E,FORM,DOCULECT,IDjoss,CODEjoss
 15,owner,stoʔo,mixt11,63,mix
 15,owner,xi-tóʔo,moli11,63,moli
 15,owner,i-toʔo,mont13,63,verd
-15,owner,ᵐƀaʔa,more11,63,mor
+15,owner,ᵐbaʔa,more11,63,mor
 15,owner,ši-toʔo,nuch11,63,nuch
 15,owner,a-stoʔo,nuxa11,63,nuxa
 15,owner,a-stoʔo,nuxi11,63,nuxi
@@ -616,7 +616,7 @@ IDlist,GLOSS_E,FORM,DOCULECT,IDjoss,CODEjoss
 17,blood,ni̡i̡,prog12,39,silp
 17,blood,*nɨyi̡ʔ,prom01,39,p-mixtec
 17,blood,*nɨyɨ̡ʔ,prom01,39,p-mixtec
-17,blood,*nɨyɨ͂ʔ,prom01,39,p-mixtec
+17,blood,*nɨyɨ̡ʔ,prom01,39,p-mixtec
 17,blood,*nɨyɨ̃ʔ,prom01,39,p-mixtec
 17,blood,nì̡ì̡,reye11,39,rey
 17,blood,ní̡í̡,sayu11,39,sayu
@@ -640,7 +640,7 @@ IDlist,GLOSS_E,FORM,DOCULECT,IDjoss,CODEjoss
 17,blood,nɨ̡̀ñɨ̡̀,tlaz11,39,tlaz
 17,blood,nì̡ì̡,tona11,39,ton
 17,blood,ni̡i̡,toto12,39,tot
-17,blood,ǹɨ̡ñ̀ɨ̡,tutu11,39,tut
+17,blood,nɨ̡ñɨ̡,tutu11,39,tut
 17,blood,ni̡i̡,xaya11,39,jer
 17,blood,nì̡ì̡,xaya12,39,xay
 17,blood,nɨ̡́ñɨ̡́,yolo11,39,yolt
@@ -1051,7 +1051,7 @@ IDlist,GLOSS_E,FORM,DOCULECT,IDjoss,CODEjoss
 25,nose,đi̡tni̡,tepo11,8,tepo
 25,nose,đi̡tni̡,tida11,8,tida
 25,nose,đi̡tni̡,tila11,8,til
-25,nose,stNi̡ĩ,tlac11,8,tlac
+25,nose,stNi̡i̡,tlac11,8,tlac
 25,nose,šìtì,tlac12,8,tlam
 25,nose,đitni̡,tlal11,8,tlal
 25,nose,đitni̡,tlaz11,8,tlaz
@@ -1727,7 +1727,7 @@ IDlist,GLOSS_E,FORM,DOCULECT,IDjoss,CODEjoss
 35,swelling,kʷi̡ñu̡,pino12,143,pinl
 35,swelling,kʷi̡ñu̡,prog12,143,silp
 35,swelling,*kʷɨyɨ̡,prom01,143,p-mixtec
-35,swelling,*kʷɨyɨ͂,prom01,143,p-mixtec
+35,swelling,*kʷɨyɨ̡,prom01,143,p-mixtec
 35,swelling,kʷi̡ñu̡,sayu11,143,sayu
 35,swelling,kʷi̡o̡,sind11,143,sind
 35,swelling,kʷi̡ño̡,soya11,143,soy
@@ -1881,7 +1881,7 @@ IDlist,GLOSS_E,FORM,DOCULECT,IDjoss,CODEjoss
 37,pus,ⁿdakʷa,aten11,76,aten
 37,pus,lakʷa,atoy11,76,atoy
 37,pus,ⁿdakʷāʔ,ayut11,76,ayut
-37,pus,lakʷa-ñe͂-na̡ʔa̡,brav11,76,cruz
+37,pus,lakʷa-ñe̡-na̡ʔa̡,brav11,76,cruz
 37,pus,ⁿdakʷa,caca11,76,cac
 37,pus,lakʷa,cahu11,76,cah
 37,pus,lakʷa,chal11,76,chal
@@ -1903,7 +1903,7 @@ IDlist,GLOSS_E,FORM,DOCULECT,IDjoss,CODEjoss
 37,pus,ⁿdakʷa,diux11,76,diux
 37,pus,ⁿdakʷa,dura11,76,durz
 37,pus,ⁿdakʷa-ta-ɴ͂a̡ʔa̡,esta11,76,silm
-37,pus,ta-kʷjʔna̡,esta11,76,silm
+37,pus,ta-kʷi̡ʔna̡,esta11,76,silm
 37,pus,ⁿdakʷa,este11,76,este
 37,pus,si-pushu̡,flor11,76,flor
 37,pus,lakʷa,gran11,76,mig
@@ -1921,7 +1921,7 @@ IDlist,GLOSS_E,FORM,DOCULECT,IDjoss,CODEjoss
 37,pus,ⁿdakʷa,jica12,76,jicy
 37,pus,ⁿdakʷa,joco11,76,joco
 37,pus,ⁿdakʷa-tʸi-ma̡ʔa̡,juxt11,76,juxt
-37,pus,kjʔna̡,juxt11,76,juxt
+37,pus,ki̡ʔna̡,juxt11,76,juxt
 37,pus,ⁿdakʷa,lore11,76,lor
 37,pus,ⁿdakʷa,mech11,76,mech
 37,pus,ⁿdakʷa,mica11,76,mic
@@ -2127,7 +2127,7 @@ IDlist,GLOSS_E,FORM,DOCULECT,IDjoss,CODEjoss
 40,sandal,ni̡xʸa̡,prog11,125,prog
 40,sandal,ⁿdusa,prog12,125,silp
 40,sandal,*ⁿdixe̡ʔ,prom01,125,p-mixtec
-40,sandal,*ⁿdixe͂ʔ,prom01,125,p-mixtec
+40,sandal,*ⁿdixe̡ʔ,prom01,125,p-mixtec
 40,sandal,ⁿčiša,reye11,125,rey
 40,sandal,ⁿdiča̡ʔ,sayu11,125,sayu
 40,sandal,ⁿǰi̡i̡ᵑ,sind11,125,sind
@@ -2602,7 +2602,7 @@ IDlist,GLOSS_E,FORM,DOCULECT,IDjoss,CODEjoss
 46,housepost,si̡ʔi̡,pino11,126,pinn
 46,housepost,sɨ̡ʔɨ̡,pino12,126,pinl
 46,housepost,*sɨʔɨ̡,prom01,126,p-mixtec
-46,housepost,*sɨʔɨ͂,prom01,126,p-mixtec
+46,housepost,*sɨʔɨ̡,prom01,126,p-mixtec
 46,housepost,si̡ʔi̡,reye11,126,rey
 46,housepost,si̡ʔi̡,sayu11,126,sayu
 46,housepost,đɨ̡ʔɨ̡ᵑ,sind11,126,sind
@@ -2611,7 +2611,7 @@ IDlist,GLOSS_E,FORM,DOCULECT,IDjoss,CODEjoss
 46,housepost,θì̡ʔì̡,tama12,126,tams
 46,housepost,sí̡ʔì̡,teco11,126,teco
 46,housepost,đi̡ʔi̡,teit11,126,teit
-46,housepost,đɨ͂ʔɨ͂,tepe11,126,tepj
+46,housepost,đɨ̡ʔɨ̡,tepe11,126,tepj
 46,housepost,sako,tepo11,126,tepo
 46,leg,đeʔe,tepo11,126,tepo
 46,housepost,đi̡ʔi̡,tida11,126,tida
@@ -2630,7 +2630,7 @@ IDlist,GLOSS_E,FORM,DOCULECT,IDjoss,CODEjoss
 46,housepost,hì̡ʔì̡,yucu13,126,yucñ
 46,housepost,sì̡ʔì̡,yucu15,126,yuco
 46,housepost,si̡ʔi̡,zaca11,126,zac
-46,housepost,đi̡ʔɨ͂,zapo11,126,zap
+46,housepost,đi̡ʔɨ̡,zapo11,126,zap
 47,straw mat,yuwi,acat11,3,acat
 47,straw mat,žúú,achi11,3,achi
 47,straw mat,žuu,adeq11,3,adeq
@@ -2679,7 +2679,7 @@ IDlist,GLOSS_E,FORM,DOCULECT,IDjoss,CODEjoss
 47,straw mat,yuu,itun11,3,itun
 47,straw mat,žiƀi,ixpa11,3,ixpn
 47,straw mat,yuƀi,ixta11,3,ixty
-47,straw mat,ž̩úú,ixta12,3,ixtl
+47,straw mat,ẓ̌úú,ixta12,3,ixtl
 47,straw mat,žuui,ixta13,3,ixtp
 47,straw mat,yuƀi,jami11,3,jam
 47,straw mat,žuu,jate11,3,jalt
@@ -2806,7 +2806,7 @@ IDlist,GLOSS_E,FORM,DOCULECT,IDjoss,CODEjoss
 48,bed,čito,jica11,18,jict
 48,bed,čito,jica12,18,jicy
 48,bed,ṣ̌ito,joco11,18,joco
-48,bed,ʂito,juxt11,18,juxt
+48,bed,ṣito,juxt11,18,juxt
 48,bed,čito,lore11,18,lor
 48,bed,čito,mech11,18,mech
 48,bed,šito,mica11,18,mic
@@ -2961,7 +2961,7 @@ IDlist,GLOSS_E,FORM,DOCULECT,IDjoss,CODEjoss
 49,stool,(ti)-ȼayu,soya11,168,soy
 49,stool,šile,tama11,168,tamj
 49,bench,težu,tama11,168,tamj
-49,stool,teže͂,tama12,168,tams
+49,stool,teže̡,tama12,168,tams
 49,stool,teyu,tata11,168,tata
 49,stool,čei,teco11,168,teco
 49,stool,ti-teyu,teit11,168,teit
@@ -3437,7 +3437,7 @@ IDlist,GLOSS_E,FORM,DOCULECT,IDjoss,CODEjoss
 54,frog,ⁿdīšíkʷí,yucu15,148,yuco
 54,frog,lī-kóʔⁿdó,yucu15,148,yuco
 54,frog,laʔƀa,yucu16,148,yucq
-54,frog,r̡a̡na̡,yuta11,148,yutn
+54,frog,r̃a̡na̡,yuta11,148,yutn
 54,frog,laʔƀa,yuta12,148,yuta
 54,frog,lekʷe,zaca11,148,zac
 54,frog,ȼi-laʔwa,zapo11,148,zap
@@ -3635,13 +3635,13 @@ IDlist,GLOSS_E,FORM,DOCULECT,IDjoss,CODEjoss
 56,scorpion,ⁿǰakʷa,nuxa11,139,nuxa
 56,scorpion,lakʷa,nuxi11,139,nuxi
 56,scorpion,ti-sū̡ʔmā̡,nuyo11,139,nuyo
-56,scorpion,tì-sū̡ʔm̡à,ocot11,139,oco
+56,scorpion,tì-sū̡ʔmà̡,ocot11,139,oco
 56,scorpion,ⁿǰàkʷà,peno11,139,peño
 56,scorpion,tɨ-lu̡ʔme̡,pied11,139,pied
 56,scorpion,ti-suʔma̡,pino11,139,pinn
 56,scorpion,tɨ-su̡ʔma̡,pino12,139,pinl
 56,scorpion,*tɨ-luʔwe̡ʔ,prom01,139,p-mixtec
-56,scorpion,*tɨ-luʔwe͂ʔ,prom01,139,p-mixtec
+56,scorpion,*tɨ-luʔwe̡ʔ,prom01,139,p-mixtec
 56,scorpion,či-sú̡ʔma̡,reye11,139,rey
 56,scorpion,ti-su̡ʔma̡,sayu11,139,sayu
 56,scorpion,koo-đu̡ʔme̡,sind11,139,sind
@@ -3738,7 +3738,7 @@ IDlist,GLOSS_E,FORM,DOCULECT,IDjoss,CODEjoss
 57,cockroach,ti-taʔya,tepe12,159,tept
 57,cockroach,ti-đita,tida11,159,tida
 57,cockroach,tita,tila11,159,til
-57,cockroach,r̡aki,tlac11,159,tlac
+57,cockroach,r̃aki,tlac11,159,tlac
 57,cockroach,ta-koo,tlaz11,159,tlaz
 57,cockroach,si-waa,tona11,159,ton
 57,cockroach,ti-tʸeʔe,tutu11,159,tut
@@ -3847,7 +3847,7 @@ IDlist,GLOSS_E,FORM,DOCULECT,IDjoss,CODEjoss
 60,rat,ti-ñi̡i̡,prog11,142,prog
 60,rat,ti̡i̡,prog12,142,silp
 60,rat,*tɨyɨ̡ʔ,prom01,142,p-mixtec
-60,rat,*tɨyɨ͂ʔ,prom01,142,p-mixtec
+60,rat,*tɨyɨ̡ʔ,prom01,142,p-mixtec
 60,rat,či̡i̡,reye11,142,rey
 60,rat,ti̡i̡,sayu11,142,sayu
 60,rat,čɨ-nɨ̡ñɨ̡,sind11,142,sind
@@ -4158,7 +4158,7 @@ IDlist,GLOSS_E,FORM,DOCULECT,IDjoss,CODEjoss
 69,cat,šitu,coso11,117,cos
 69,cat,ƀilu,coxc11,117,cant
 69,cat,milu,cris11,117,cris
-69,cat,ᵐƀilu,cris11,117,cris
+69,cat,ᵐbilu,cris11,117,cris
 69,cat,mi̡stu̡,cuat11,117,cuat
 69,cat,wiʰȼi,cuau11,117,cuau
 69,cat,mi̡ci,cuil11,117,cui
@@ -4427,7 +4427,7 @@ IDlist,GLOSS_E,FORM,DOCULECT,IDjoss,CODEjoss
 77,feather,tu̡mi̡,mixt11,5,mix
 77,feather,tNu̡mi̡,moli11,5,moli
 77,feather,to̡mi̡,mont12,5,mont
-77,feather,tnũũ,mont13,5,verd
+77,feather,tnu̡u̡,mont13,5,verd
 77,feather,tnu̡u̡,mont14,5,lobo
 77,feather,Nnu̡u̡,mont14,5,lobo
 77,feather,tu̡mi̡,more11,5,mor
@@ -4440,7 +4440,7 @@ IDlist,GLOSS_E,FORM,DOCULECT,IDjoss,CODEjoss
 77,feather,tʸu̡u̡,nuxa11,5,nuxa
 77,feather,tñu̡u̡,nuxi11,5,nuxi
 77,feather,tù̡mī̡,nuyo11,5,nuyo
-77,feather,tũ̀mi̡,ocot11,5,oco
+77,feather,tù̡mi̡,ocot11,5,oco
 77,feather,tnu̡mi̡,pena12,5,peña
 77,feather,tnú̡mì̡,peno11,5,peño
 77,feather,Nu̡me̡,pied11,5,pied
@@ -4479,7 +4479,7 @@ IDlist,GLOSS_E,FORM,DOCULECT,IDjoss,CODEjoss
 77,feather,tu̡mi̡,yolo12,5,yolx
 77,feather,Nnu̡u̡,yoso11,5,yoso
 77,feather,tnu̡u̡,yucu11,5,yuca
-77,feather,tũ̀mī̡,yucu12,5,yuci
+77,feather,tù̡mī̡,yucu12,5,yuci
 77,feather,tò̡mī̡,yucu13,5,yucñ
 77,feather,tù̡mī̡`,yucu15,5,yuco
 77,feather,tu̡mi̡,yucu16,5,yucq
@@ -5352,7 +5352,7 @@ IDlist,GLOSS_E,FORM,DOCULECT,IDjoss,CODEjoss
 91,cornmeal,ñu̡ña̡,prog11,109,prog
 91,cornmeal,žusa,prog12,109,silp
 91,cornmeal,*yuxe̡ʔ,prom01,109,p-mixtec
-91,cornmeal,*yuxe͂ʔ,prom01,109,p-mixtec
+91,cornmeal,*yuxe̡ʔ,prom01,109,p-mixtec
 91,cornmeal,žuša,reye11,109,rey
 91,cornmeal,yuča̡,sayu11,109,sayu
 91,cornmeal,ñu̡ñe̡,sind11,109,sind
@@ -5561,7 +5561,7 @@ IDlist,GLOSS_E,FORM,DOCULECT,IDjoss,CODEjoss
 93,cornstalk,ya̡ma̡,lore11,108,lor
 93,cornstalk,ña̡ma̡,mech11,108,mech
 93,cornstalk,ña̡ma̡,mixt11,108,mix
-93,cornstalk,nu-y̡a̡ma̡,mont13,108,verd
+93,cornstalk,nu-ỹa̡ma̡,mont13,108,verd
 93,wattle,ñu-ña̡ma̡,mont13,108,verd
 93,cornstalk,ña̡ma̡,more11,108,mor
 93,cornstalk,ñà̡mà̡,nuch11,108,nuch
@@ -6058,7 +6058,7 @@ IDlist,GLOSS_E,FORM,DOCULECT,IDjoss,CODEjoss
 99,salt,ñi̡i̡,prog11,41,prog
 99,salt,ñi̡i̡,prog12,41,silp
 99,salt,*yɨɨ̡ʔ,prom01,41,p-mixtec
-99,salt,*yɨɨ͂ʔ,prom01,41,p-mixtec
+99,salt,*yɨɨ̡ʔ,prom01,41,p-mixtec
 99,salt,*yɨɨ̃ʔ,prom01,41,p-mixtec
 99,salt,ʔì̡ì̡,reye11,41,rey
 99,salt,ñi̡i̡,sayu11,41,sayu
@@ -6171,7 +6171,7 @@ IDlist,GLOSS_E,FORM,DOCULECT,IDjoss,CODEjoss
 100,squash,ñi̡ki̡,prog11,44,prog
 100,squash,žiki̡,prog12,44,silp
 100,squash,*yɨkɨ̡ʔ,prom01,44,p-mixtec
-100,squash,*yɨkɨ͂ʔ,prom01,44,p-mixtec
+100,squash,*yɨkɨ̡ʔ,prom01,44,p-mixtec
 100,squash,*yɨkɨ̃ʔ,prom01,44,p-mixtec
 100,squash,žīkì,reye11,44,rey
 100,squash,iki̡,sayu11,44,sayu
@@ -6181,7 +6181,7 @@ IDlist,GLOSS_E,FORM,DOCULECT,IDjoss,CODEjoss
 100,squash,žɨxɨ̡,tama11,44,tamj
 100,squash,žīkǐ,tama12,44,tams
 100,squash,žɨ̡kɨ̡,tata11,44,tata
-100,squash,ž̯íkì,teco11,44,teco
+100,squash,ž̭íkì,teco11,44,teco
 100,squash,ṣ̌iki̡,teit11,44,teit
 100,squash,iki,tejo11,44,tejc
 100,squash,iki,tepe11,44,tepj
@@ -7031,7 +7031,7 @@ IDlist,GLOSS_E,FORM,DOCULECT,IDjoss,CODEjoss
 114,meat,ko̡ño̡,soya11,30,soy
 114,meat,xu̡ñu̡,tama11,30,tamj
 114,meat,ku̡ñu̡,tama12,30,tams
-114,meat,kū̡ñṍ,teco11,30,teco
+114,meat,kū̡ñó̡,teco11,30,teco
 114,meat,ku̡ñu̡,teit11,30,teit
 114,meat,ku̡ñu̡,tejo11,30,tejc
 114,meat,ku̡ñu̡,tepe11,30,tepj
@@ -7128,7 +7128,7 @@ IDlist,GLOSS_E,FORM,DOCULECT,IDjoss,CODEjoss
 115,griddle,čiyo,nund11,19,ndac
 115,griddle,šio,nund12,19,ndi
 115,griddle,xio,nund13,19,ndo
-115,griddle,č̯iyo,nuti11,19,nuti
+115,griddle,č̭iyo,nuti11,19,nuti
 115,griddle,šio,nuxa11,19,nuxa
 115,griddle,šio,nuxi11,19,nuxi
 115,griddle,šʸoo,nuxi11,19,nuxi
@@ -7161,7 +7161,7 @@ IDlist,GLOSS_E,FORM,DOCULECT,IDjoss,CODEjoss
 115,griddle,šio,tida11,19,tida
 115,griddle,šio,tila11,19,til
 115,griddle,xižo,tlac11,19,tlac
-115,griddle,ʂʸoo,tlac12,19,tlam
+115,griddle,ṣ̌ʸoo,tlac12,19,tlam
 115,griddle,ṣ̌ʳoo,tlal11,19,tlal
 115,griddle,šio,tlaz11,19,tlaz
 115,griddle,šio,tona11,19,ton
@@ -7338,7 +7338,7 @@ IDlist,GLOSS_E,FORM,DOCULECT,IDjoss,CODEjoss
 117,oven,i̡nu̡,pied11,54,pied
 117,oven,čitu,pino11,54,pinn
 117,oven,čitu̡,pino12,54,pinl
-117,oven,or̡no̡,prog11,54,prog
+117,oven,or̃no̡,prog11,54,prog
 117,oven,*xity,prom01,54,p-mixtec
 117,oven,*xitu̡,prom01,54,p-mixtec
 117,oven,šito̡,reye11,54,rey
@@ -7554,7 +7554,7 @@ IDlist,GLOSS_E,FORM,DOCULECT,IDjoss,CODEjoss
 121,smoke,ñu̡ʔma̡,moli11,101,moli
 121,smoke,ñi̡ʔma̡,mont12,101,mont
 121,smoke,ñu̡ʔma̡,mont13,101,verd
-121,smoke,y̡u̡ʔma̡,mont13,101,verd
+121,smoke,ỹu̡ʔma̡,mont13,101,verd
 121,smoke,ñu̡ʔu̡,mont14,101,lobo
 121,smoke,ñi̡ʔma̡,more11,101,mor
 121,smoke,ñu̡ʔma̡,ndua11,101,ndua
@@ -7577,7 +7577,7 @@ IDlist,GLOSS_E,FORM,DOCULECT,IDjoss,CODEjoss
 121,smoke,žo̡ʔme̡,prog11,101,prog
 121,smoke,ni̡ʔma̡,prog12,101,silp
 121,smoke,*yuʔwe̡,prom01,101,p-mixtec
-121,smoke,*yuʔwe͂,prom01,101,p-mixtec
+121,smoke,*yuʔwe̡,prom01,101,p-mixtec
 121,smoke,ñi̡ʔma̡,reye11,101,rey
 121,smoke,ñu̡ʔma̡,sayu11,101,sayu
 121,smoke,ñu̡ʔme̡,sind11,101,sind
@@ -7763,8 +7763,8 @@ IDlist,GLOSS_E,FORM,DOCULECT,IDjoss,CODEjoss
 124,gourd,yači̡,jica11,43,jict
 124,gourd,yači̡,jica12,43,jicy
 124,gourd,yaṣ̌i,joco11,43,joco
-124,gourd,yas̯i,juxt11,43,juxt
-124,gourd,žas̯i,juxt11,43,juxt
+124,gourd,yas̭i,juxt11,43,juxt
+124,gourd,žas̭i,juxt11,43,juxt
 124,gourd,yači,lore11,43,lor
 124,gourd,yači̡,mech11,43,mech
 124,gourd,yaši̡,metl11,43,metl
@@ -8253,7 +8253,7 @@ IDlist,GLOSS_E,FORM,DOCULECT,IDjoss,CODEjoss
 131,net bag,(ȼ̣i)-ñu̡nu̡,guad11,42,guad
 131,net bag,yo̡no̡,huaz11,42,huaz
 131,net bag,ñu̡nu̡,huit11,42,huit
-131,net bag,y̡o̡no̡,itun11,42,itun
+131,net bag,ỹo̡no̡,itun11,42,itun
 131,net bag,ñu̡nu̡,ixpa11,42,ixpn
 131,net bag,ñu̡nu̡,ixta11,42,ixty
 131,net bag,ñu̡nu̡,ixta12,42,ixtl
@@ -8271,7 +8271,7 @@ IDlist,GLOSS_E,FORM,DOCULECT,IDjoss,CODEjoss
 131,net bag,ñu̡nu̡,moli11,42,moli
 131,net bag,ređ,mont12,42,mont
 131,net bag,ñu̡nu̡,mont13,42,verd
-131,net bag,y̡u̡nu̡,mont13,42,verd
+131,net bag,ỹu̡nu̡,mont13,42,verd
 131,net bag,ñu̡nu̡,mont14,42,lobo
 131,net bag,ñu̡nu̡,nuch11,42,nuch
 131,net bag,ñu̡nu̡,nund11,42,ndac
@@ -8697,7 +8697,7 @@ IDlist,GLOSS_E,FORM,DOCULECT,IDjoss,CODEjoss
 139,river,žutʸa,yolo11,23,yolt
 139,river,ita,yolo12,23,yolx
 139,river,žuča,yoso11,23,yoso
-139,river,ʐ̌ute,yucu11,23,yuca
+139,river,ẓ̌ute,yucu11,23,yuca
 139,river,žūƀī,yucu12,23,yuci
 139,river,žùtē,yucu12,23,yuci
 139,river,žuta,yucu13,23,yucñ
@@ -8984,7 +8984,7 @@ IDlist,GLOSS_E,FORM,DOCULECT,IDjoss,CODEjoss
 142,plain,nu̡-ⁿdaa,mont13,156,verd
 142,plain,ⁿduʔƀa,mont13,156,verd
 142,plain,žođo,mont14,156,lobo
-142,plain,yōsŏ,more11,156,mor
+142,plain,yōsǒ,more11,156,mor
 142,plain,žođo,ndua11,156,ndua
 142,plain,žoho,nuch11,156,nuch
 142,plain,yoso,nund11,156,ndac
@@ -9012,7 +9012,7 @@ IDlist,GLOSS_E,FORM,DOCULECT,IDjoss,CODEjoss
 142,plain,ⁿduʔƀa,sini11,156,sinc
 142,plain,žođo,soya11,156,soy
 142,plain,žođo,tama11,156,tamj
-142,plain,žōθŏ,tama12,156,tams
+142,plain,žōθǒ,tama12,156,tams
 142,plain,žođo,tata11,156,tata
 142,plain,žoso,teco11,156,teco
 142,plain,ⁿdōʔƀà,teco11,156,teco
@@ -9293,7 +9293,7 @@ IDlist,GLOSS_E,FORM,DOCULECT,IDjoss,CODEjoss
 145,brand,tu̡ni̡,atoy11,183,atoy
 145,brand,kaa,ayut11,183,ayut
 145,brand,marka,caca11,183,cac
-145,brand,fier̡u,chal11,183,chal
+145,brand,fier̃u,chal11,183,chal
 145,brand,tu̡ñi̡,chay11,183,chay
 145,brand,tu̡ni̡,chaz11,183,chaz
 145,brand,fʸer̃u,chic11,183,chic
@@ -9311,7 +9311,7 @@ IDlist,GLOSS_E,FORM,DOCULECT,IDjoss,CODEjoss
 145,brand,tu̡nī̡,gran11,183,mig
 145,brand,tu̡ni̡,guad11,183,guad
 145,brand,tu̡ñi̡,huaz11,183,huaz
-145,brand,žer̡u,huit11,183,huit
+145,brand,žer̃u,huit11,183,huit
 145,brand,tu̡ni̡,itun11,183,itun
 145,brand,to̡ni̡,ixpa11,183,ixpn
 145,brand,tu̡ñi̡,ixta11,183,ixty
@@ -9331,24 +9331,24 @@ IDlist,GLOSS_E,FORM,DOCULECT,IDjoss,CODEjoss
 145,brand,kaa,nuxi11,183,nuxi
 145,brand,tū̡nì̡,ocot11,183,oco
 145,brand,tu̡̡ni̡̡,peno11,183,peño
-145,brand,žer̡u,pied11,183,pied
+145,brand,žer̃u,pied11,183,pied
 145,brand,tu̡ni̡,pino11,183,pinn
 145,brand,tu̡ni̡,pino12,183,pinl
 145,brand,*tuni,prom01,183,p-mixtec
 145,brand,to̡ñi̡,reye11,183,rey
 145,brand,tu̡ñi̡,sayu11,183,sayu
-145,brand,fier̡u,sind11,183,sind
+145,brand,fier̃u,sind11,183,sind
 145,brand,Nnu̡ni̡,tama11,183,tamj
 145,brand,tu̡ni̡,tama12,183,tams
 145,brand,tū̡ní̡,teco11,183,teco
-145,brand,ṣ̌er̡u,teit11,183,teit
+145,brand,ṣ̌er̃u,teit11,183,teit
 145,brand,tu̡ni̡,tepe12,183,tept
 145,"brand, batch, mark",tnuni,tepo11,183,tepo
 145,brand,tnu̡ni̡,tida11,183,tida
 145,brand,žeřu,tila11,183,til
 145,brand,kaa,tlac11,183,tlac
 145,brand,kaa,tlal11,183,tlal
-145,brand,xer̡u,tlaz11,183,tlaz
+145,brand,xer̃u,tlaz11,183,tlaz
 145,brand,tu̡ni̡,tona11,183,ton
 145,brand,tu̡ñi̡,tutu11,183,tut
 145,brand,tnù̡nì̡,xaya12,183,xay
@@ -9357,7 +9357,7 @@ IDlist,GLOSS_E,FORM,DOCULECT,IDjoss,CODEjoss
 145,brand,tu̡ni̡,yolo12,183,yolx
 145,brand,Nnu̡ni̡,yoso11,183,yoso
 145,brand,kaa,yucu11,183,yuca
-145,brand,žer̡u,yucu11,183,yuca
+145,brand,žer̃u,yucu11,183,yuca
 145,brand,tū̡nī̡,yucu12,183,yuci
 145,brand,kàā,yucu13,183,yucñ
 145,brand,tū̡nì̡,yucu15,183,yuco
@@ -9421,7 +9421,7 @@ IDlist,GLOSS_E,FORM,DOCULECT,IDjoss,CODEjoss
 148,wax,ñu̡ma̡,mixt11,7,mix
 148,wax,ñu̡ma̡,moli11,7,moli
 148,wax,ñi̡ma̡,mont12,7,mont
-148,wax,y̡u̡ma̡,mont13,7,verd
+148,wax,ỹu̡ma̡,mont13,7,verd
 148,wax,ñu̡ma̡,mont14,7,lobo
 148,wax,ñu̡a̡,mont14,7,lobo
 148,wax,ñi̡ma̡,more11,7,mor
@@ -9770,7 +9770,7 @@ IDlist,GLOSS_E,FORM,DOCULECT,IDjoss,CODEjoss
 152,red,kʷa̡ʔa̡,ixta11,31,ixty
 152,red,kʷaʔa,ixta12,31,ixtl
 152,red,kʷaʔa,ixta13,31,ixtp
-152,red,k°aʔa,jami11,31,jam
+152,red,kºaʔa,jami11,31,jam
 152,red,kʷaʔa,jate11,31,jalt
 152,red,kʷaʔa,jica11,31,jict
 152,red,kʷaʔa,jica12,31,jicy
@@ -10211,7 +10211,7 @@ IDlist,GLOSS_E,FORM,DOCULECT,IDjoss,CODEjoss
 160,four,ku̡mi̡ʔ,ayut11,4,ayut
 160,four,ku̡mi̡,brav11,4,cruz
 160,four,ko̡mi̡,caca11,4,cac
-160,four,kũmi̡,cahu11,4,cah
+160,four,ku̡mi̡,cahu11,4,cah
 160,four,ku̡u̡,chal11,4,chal
 160,four,ku̡mi̡,chay11,4,chay
 160,four,ku̡mi̡,chay12,4,chap
@@ -10309,9 +10309,9 @@ IDlist,GLOSS_E,FORM,DOCULECT,IDjoss,CODEjoss
 160,four,ku̡mi̡,xaya12,4,xay
 160,four,ku̡u̡,yolo11,4,yolt
 160,four,ku̡mi̡,yolo12,4,yolx
-160,four,kũũ,yoso11,4,yoso
+160,four,ku̡u̡,yoso11,4,yoso
 160,four,ku̡u̡,yucu11,4,yuca
-160,four,kũ̀mĩ̀,yucu12,4,yuci
+160,four,kù̡mì̡,yucu12,4,yuci
 160,four,kò̡mì̡,yucu13,4,yucñ
 160,four,kù̡mí̡,yucu15,4,yuco
 160,four,ko̡mi̡,yucu16,4,yucq
@@ -10404,7 +10404,7 @@ IDlist,GLOSS_E,FORM,DOCULECT,IDjoss,CODEjoss
 161,five,*oʔo̡,prom01,28,p-mixtec
 161,five,ʔù̡ʔù̡,reye11,28,rey
 161,five,u̡ʔu̡,sayu11,28,sayu
-161,five,o̡ʘo̡,sind11,28,sind
+161,five,o̡ʔo̡,sind11,28,sind
 161,five,u̡ʔu̡,sini11,28,sinc
 161,five,o̡ʔo̡,soya11,28,soy
 161,five,o̡ʔo̡,tama11,28,tamj
@@ -10607,7 +10607,7 @@ IDlist,GLOSS_E,FORM,DOCULECT,IDjoss,CODEjoss
 163,seven,uča,jica11,33,jict
 163,seven,uča,jica12,33,jicy
 163,seven,usa,joco11,33,joco
-163,seven,uš̯a,juxt11,33,juxt
+163,seven,uš̭a,juxt11,33,juxt
 163,seven,uča,lore11,33,lor
 163,seven,uča,mech11,33,mech
 163,seven,usa,mica11,33,mic
@@ -10662,7 +10662,7 @@ IDlist,GLOSS_E,FORM,DOCULECT,IDjoss,CODEjoss
 163,seven,usa,xaya11,33,jer
 163,seven,ùsà,xaya12,33,xay
 163,seven,uša,yolo11,33,yolt
-163,seven,uʂa,yolo12,33,yolx
+163,seven,uṣ̌a,yolo12,33,yolx
 163,seven,uša,yoso11,33,yoso
 163,seven,uxa,yucu11,33,yuca
 163,seven,ʔùšà,yucu12,33,yuci
@@ -10838,7 +10838,7 @@ IDlist,GLOSS_E,FORM,DOCULECT,IDjoss,CODEjoss
 166,ten,uši,jate11,123,jalt
 166,ten,uči,jica11,123,jict
 166,ten,uči,jica12,123,jicy
-166,ten,uš̯i,joco11,123,joco
+166,ten,uš̭i,joco11,123,joco
 166,ten,uṣi,juxt11,123,juxt
 166,ten,uči,lore11,123,lor
 166,ten,uči,mech11,123,mech
@@ -10974,7 +10974,7 @@ IDlist,GLOSS_E,FORM,DOCULECT,IDjoss,CODEjoss
 167,fifteen,sa̡ʔu̡,nuxa11,121,nuxa
 167,fifteen,sa̡ʔu̡,nuxi11,121,nuxi
 167,fifteen,šà̡ʔù̡,nuyo11,121,nuyo
-167,fifteen,s̡ā̡ʔò̡,ocot11,121,oco
+167,fifteen,šā̡ʔò̡,ocot11,121,oco
 167,fifteen,su̡ʔu̡,pena12,121,peña
 167,fifteen,sá̡ʔú̡,peno11,121,peño
 167,fifteen,ñe̡ʔu̡,pied11,121,pied
@@ -11034,7 +11034,7 @@ IDlist,GLOSS_E,FORM,DOCULECT,IDjoss,CODEjoss
 169,poor,ⁿdaʔvi,aten11,137,aten
 169,poor,ⁿdaʔwi,atoy11,137,atoy
 169,poor,ⁿdāʔvī,ayut11,137,ayut
-169,poor,ⁿdaʔŵi,brav11,137,cruz
+169,poor,ⁿdaʔwi,brav11,137,cruz
 169,poor,ⁿdaƀi,caca11,137,cac
 169,poor,ⁿdaʔwi,cahu11,137,cah
 169,poor,ⁿdaʔu,chal11,137,chal
@@ -11164,7 +11164,7 @@ IDlist,GLOSS_E,FORM,DOCULECT,IDjoss,CODEjoss
 171,cold,kaši̡,coso11,124,cos
 171,cold,wiši̡,coso11,124,cos
 171,cold,ƀiši,coxc11,124,cant
-171,cold,ᵐƀiči,cris11,124,cris
+171,cold,ᵐbiči,cris11,124,cris
 171,cold,wiši̡,cuat11,124,cuat
 171,cold,wi̡xi̡,cuau11,124,cuau
 171,cold,wiši,cuil11,124,cui
@@ -11187,7 +11187,7 @@ IDlist,GLOSS_E,FORM,DOCULECT,IDjoss,CODEjoss
 171,cold,ƀiši,jate11,124,jalt
 171,cold,ƀiči̡,jica11,124,jict
 171,cold,ƀiči̡,jica12,124,jicy
-171,cold,wiš̯i,joco11,124,joco
+171,cold,wiš̭i,joco11,124,joco
 171,cold,ƀiṣi,juxt11,124,juxt
 171,cold,wiči,lore11,124,lor
 171,cold,wiči̡,mech11,124,mech
@@ -11361,7 +11361,7 @@ IDlist,GLOSS_E,FORM,DOCULECT,IDjoss,CODEjoss
 173,big.SG,kaʔnu̡,aten11,65,aten
 173,big.SG,kaʔnu̡,atoy11,65,atoy
 173,big.SG,kaʔnu̡ʔ,ayut11,65,ayut
-173,big.SG,kaʔnpus,brav11,65,cruz
+173,big.SG,kaʔno̡,brav11,65,cruz
 173,big.SG,ka(ʔ)nu̡,caca11,65,cac
 173,big.SG,kaʔno̡,cahu11,65,cah
 173,big.SG,kaʔnu̡,chal11,65,chal
@@ -11645,7 +11645,7 @@ IDlist,GLOSS_E,FORM,DOCULECT,IDjoss,CODEjoss
 179,good,ƀaʔa,mixt11,112,mix
 179,good,ƀaʔa,moli11,112,moli
 179,good,ƀaʔa,mont13,112,verd
-179,good,ᵐƀaʔa,more11,112,mor
+179,good,ᵐbaʔa,more11,112,mor
 179,good,ƀaʔa,nuch11,112,nuch
 179,good,(io)ƀaʔa,nuxa11,112,nuxa
 179,good,ƀaʔa,nuxi11,112,nuxi
@@ -11730,7 +11730,7 @@ IDlist,GLOSS_E,FORM,DOCULECT,IDjoss,CODEjoss
 180,sweet,ña̡-ƀiši,ixpa11,133,ixpn
 180,sweet,ƀiši̡,ixta11,133,ixty
 180,sweet,wiđi,ixta12,133,ixtl
-180,sweet,ᵐƀiđi,ixta13,133,ixtp
+180,sweet,ᵐbiđi,ixta13,133,ixtp
 180,sweet,ƀiši̡,jami11,133,jam
 180,sweet,ƀiđi,jate11,133,jalt
 180,sweet,ƀiši,jica11,133,jict
@@ -12038,7 +12038,7 @@ IDlist,GLOSS_E,FORM,DOCULECT,IDjoss,CODEjoss
 183,tasty,asi,pino11,130,pinn
 183,tasty,asɨ̡,pino12,130,pinl
 183,tasty,*asɨ̡ʔ,prom01,130,p-mixtec
-183,tasty,*asɨ͂ʔ,prom01,130,p-mixtec
+183,tasty,*asɨ̡ʔ,prom01,130,p-mixtec
 183,tasty,ʔasi,reye11,130,rey
 183,tasty,asi̡,sayu11,130,sayu
 183,tasty,že-waʔa,sind11,130,sind
@@ -12200,7 +12200,7 @@ IDlist,GLOSS_E,FORM,DOCULECT,IDjoss,CODEjoss
 186,lazy,đuše,tama11,17,tamj
 186,loose,na̡-taža,tama11,186,tamj
 186,loose,taža,tama12,186,tams
-186,lazy,kùʂ̌í,teco11,17,teco
+186,lazy,kùṣ̌̌í,teco11,17,teco
 186,loose,taža,teco11,186,teco
 186,lazy,ku-điʔi,teit11,17,teit
 186,loose,na̡-taya,teit11,186,teit
@@ -12226,10 +12226,10 @@ IDlist,GLOSS_E,FORM,DOCULECT,IDjoss,CODEjoss
 186,lazy,suča,tutu11,17,tut
 186,loose,taya,tutu11,186,tut
 186,lazy,đusa̡,xaya11,17,jer
-186,lazy,đūsā̡̄,xaya12,17,xay
+186,lazy,đūsā̡,xaya12,17,xay
 186,loose,đaya,xaya12,186,xay
 186,lazy,ⁿdɨ-kuši,yolo11,17,yolt
-186,lazy,ʂuʂa,yolo12,17,yolx
+186,lazy,ṣuṣa,yolo12,17,yolx
 186,loose,taya,yolo12,186,yolx
 186,lazy,kuši,yoso11,17,yoso
 186,loose,taʔža,yoso11,186,yoso
@@ -12926,7 +12926,7 @@ IDlist,GLOSS_E,FORM,DOCULECT,IDjoss,CODEjoss
 196,year,kʷiya,chay11,74,chay
 196,year,kʷia,chay12,74,chap
 196,year,kʷia,chaz11,74,chaz
-196,year,k°iya,chic11,74,chic
+196,year,kºiya,chic11,74,chic
 196,year,kʷiya,chig11,74,chig
 196,year,kʷia,coat11,74,coat
 196,year,kʷiya,coic11,74,coi
@@ -13152,7 +13152,7 @@ IDlist,GLOSS_E,FORM,DOCULECT,IDjoss,CODEjoss
 199,all night,nɨ̡ɨ̡-ni̡u̡,este11,83,este
 199,all night,ni̡ñū̡,gran11,83,mig
 199,all night,ni̡u̡-yaa,guad11,83,guad
-199,all night,ǰa-ni̡yu̡,huit11,83,huit
+199,all night,ⁿǰa-ni̡yu̡,huit11,83,huit
 199,all night,ⁿǰa-ni̡ñu̡,huit11,83,huit
 199,all night,nɨ̡ñu̡,itun11,83,itun
 199,all night,ⁿčivi-žaa,ixpa11,83,ixpn
@@ -13634,12 +13634,12 @@ IDlist,GLOSS_E,FORM,DOCULECT,IDjoss,CODEjoss
 205,word,tNu̡ʔu̡,moli11,9,moli
 205,word,to̡ʔo̡,mont12,9,mont
 205,word,tnu̡ʔu̡,mont13,9,verd
-205,word,ka̡ʔa̡-nđo,mont14,9,lobo
+205,word,ka̡ʔa̡-ⁿdo,mont14,9,lobo
 205,word,tu̡ʔu̡,more11,9,mor
 205,word,to̡ʔo̡,ndua11,9,ndua
-205,word,tȭʔȭ,nuch11,9,nuch
+205,word,tō̡ʔō̡,nuch11,9,nuch
 205,word,tu̡ʔu̡,nund11,9,ndac
-205,word,palaƀra,nund12,9,ndi
+205,word,palabra,nund12,9,ndi
 205,word,tu̡ʔu̡,nund13,9,ndo
 205,word,to̡ʔo̡,nuti11,9,nuti
 205,word,tʸu̡ʔu̡,nuxa11,9,nuxa
@@ -13753,7 +13753,7 @@ IDlist,GLOSS_E,FORM,DOCULECT,IDjoss,CODEjoss
 206,sin,kʷečǐ,tama11,20,tamj
 206,sin,kʷači,tama12,20,tams
 206,sin,kʷàčí,teco11,20,teco
-206,sin,te-kweči,teit11,20,teit
+206,sin,te-kʷeči,teit11,20,teit
 206,sin,kʷači,tepe11,20,tepj
 206,sin,kʷati,tepe12,20,tept
 206,sin,kʷači,tepo11,20,tepo
@@ -13880,7 +13880,7 @@ IDlist,GLOSS_E,FORM,DOCULECT,IDjoss,CODEjoss
 208,when,na̡a̡,tila11,155,til
 208,when,na̡-ʔa̡ma̡,tlac11,155,tlac
 208,when,ii-đaƀa,tlal11,155,tlal
-208,when,na̡-or̡e,tlaz11,155,tlaz
+208,when,na̡-or̃e,tlaz11,155,tlaz
 208,when,na̡-a̡,toto12,155,tot
 208,when,a̡wa̡,tutu11,155,tut
 208,when,a̡ma̡,xaya11,155,jer

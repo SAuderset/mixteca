@@ -103,8 +103,7 @@ joss.e <- joss.f %>% filter(!is.na(IDlist)) %>%
   arrange(IDlist)
 glimpse(joss.e)
 
-
 # export to file
-write_csv(joss.e, "josserand_complist.csv")
+write_csv(joss.e, "josserand_complist-out.csv")
 
 
