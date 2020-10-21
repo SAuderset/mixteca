@@ -13,15 +13,16 @@ class(wl)
 head(wl)
 glimpse(wl)
 
-# subset with just loanwords for meeting
-loans <- wl %>% filter(!is.na(LOAN)) %>% distinct()
-write_csv(loans, "loanwords.csv")
-
 
 # restructure, delete rows with NA
 wl1 <- wl %>% select(ID, DOCULECT, GLOSS, VALUE, FORM, IDlist, NOTES, LOAN, LOAN_SOURCE, SOURCE) %>%
   filter(VALUE!="$")
 glimpse(wl1)
+
+# subset with just loanwords for meeting
+loans <- wl1 %>% filter(!is.na(LOAN)) %>% distinct()
+write_csv(loans, "loanwords.csv")
+
 
 # move floating tones in Hollenbach 2013/pena11 to new column
 hb <- wl1 %>% filter(SOURCE=="hollenbach2017diccionario" | SOURCE=="alexander1980gramatica") %>% 
