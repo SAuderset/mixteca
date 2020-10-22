@@ -9,7 +9,6 @@ setwd("/Users/auderset/Documents/GitHub/mixteca/ComparativeList/LISTS")
 
 # read in all files (delete template file and all unfinished ones first)
 wl <- list.files(pattern = "*_*.csv") %>% map_df(~read_delim(., "\t"))
-class(wl)
 head(wl)
 glimpse(wl)
 
@@ -42,9 +41,9 @@ sm <- wl1 %>% filter(SOURCE=="swanton2020observaciones") %>%
 glimpse(sm)
 
 # add column to main df, paste two other dfs back
-wl1 <- wl1 %>% filter(SOURCE!="swanton2020observaciones") %>% filter(SOURCE!="hollenbach2017diccionario") %>% filter(SOURCE!="alexander1980gramatica") %>% mutate(FLOATTONE=NA)
-glimpse(wl1)
-wl2 <- bind_rows(wl1, hb, sm)
+wl1.sub <- wl1 %>% filter(SOURCE!="swanton2020observaciones") %>% filter(SOURCE!="hollenbach2017diccionario") %>% filter(SOURCE!="alexander1980gramatica") %>% mutate(FLOATTONE=NA)
+glimpse(wl1.sub)
+wl2 <- bind_rows(wl1.sub, hb, sm)
 wl2 <- filter(distinct(wl2))
 
 
