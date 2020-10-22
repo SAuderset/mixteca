@@ -83,12 +83,18 @@ joss.f <- joss.f %>% mutate(DOCULECT = tolower(DOCULECT))
 joss.f <- joss.f %>% right_join(conc.sub, by = c("DOCULECT"="josserand_code"))
 
 
-# split cells with / into two rows
+# split cells with / into two rows, remove asterisk from protoforms
 # remove [] from entries
-# clean out leading and trailing spaces, convert other spaces to -
-joss.f <- joss.f %>% separate_rows(VALUE, sep = "/") %>%
+# clean out leading and trailing spaces, delete spaces before and after =, convert other spaces to -
+joss.f <- joss.f %>% 
   mutate(VALUE = str_remove_all(VALUE, "\\[")) %>%
   mutate(VALUE = str_remove_all(VALUE, "\\]")) %>%
+  mutate(VALUE = str_remove_all(VALUE, "*")) %>%
+  mutate(VALUE = str_replace_all(VALUE, " =", "=")) %>%
+  mutate(VALUE = str_replace_all(VALUE, "= ", "=")) %>%
+  mutate(VALUE = str_replace_all(VALUE, " /", "/")) %>%
+  mutate(VALUE = str_replace_all(VALUE, "/ ", "/")) %>%
+  separate_rows(VALUE, sep = "/") %>%
   mutate(VALUE = trimws(VALUE, which = "both")) %>%
   mutate(VALUE = str_replace_all(VALUE, " ", "-"))
 
