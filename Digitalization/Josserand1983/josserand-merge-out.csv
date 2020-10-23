@@ -1,189 +1,189 @@
-IDjoss,IDlist,GLOSS_E,GLOSS_S,IDlist.x,GLOSS_1,IDlist.y,GLOSS
-1,138,rain,lluvia,138,rain (precipitation),NA,NA
-2,84,agave,maguey,84,"maguey, century plant",NA,NA
-3,47,straw mat,petate,47,"mat, sleeping mat, straw mat",NA,NA
-4,160,four,cuatro,160,four,160,cuatro
-5,77,feather,pluma,77,feather,77,pluma
-6,79,tail,cola,79,tail,79,cola
-7,148,wax,cera,148,"beeswax, wax",NA,NA
-8,25,nose,nariz,25,nose,25,nariz
-9,205,word,palabra,205,word,205,palabra
-10,189,near,está cerca,NA,NA,189,"cerca de, está cerca"
-11,80,tree,árbol,NA,NA,80,"árbol, palo"
-12,61,deer,venado,61,deer,61,venado
-13,NA,lard,manteca,NA,NA,NA,NA
-14,NA,smell,olor,NA,NA,NA,NA
-15,92,tortilla,tortilla,92,tortilla,92,tortilla
-16,NA,vomits,vomita,NA,NA,NA,NA
-17,186,lazy,flojo,186,lazy,186,flojo
-18,48,bed,cama,NA,NA,48,"cama, lecho"
-19,115,griddle,comal,115,griddle,115,comal
-20,206,sin,culpa,206,"fault, blame, sin",NA,NA
-21,96,bean,frijol,NA,NA,96,frijol(es)
-22,137,water,agua,137,water,137,agua
-23,139,river,río,139,river,139,río
-24,149,mud,lodo,149,mud,149,lodo
-25,NA,man's brother,hermano de h.,NA,NA,NA,NA
-26,159,three,tres,159,three,159,tres
-27,22,tooth,diente,22,tooth,22,diente
-28,161,five,cinco,161,five,161,cinco
-29,182,bitter,amargo,182,bitter,182,amargo
-30,114,meat,carne,114,meat,114,carne
-31,152,red,rojo,152,red,152,rojo
-32,NA,(he) went,se fue,NA,NA,NA,NA
-33,163,seven,siete,163,seven,163,siete
-34,127,thread,hilo,127,thread,127,hilo
-35,50,animal,animal,50,animal,50,animal
-36,NA,it finishes,se acaba,NA,NA,NA,NA
-37,105,egg,blanquillo,NA,NA,105,"blanquillo, huevo"
-38,150,foam,espuma,150,foam,150,espuma
-39,17,blood,sangre,17,blood,17,sangre
-40,NA,husband,marido,NA,NA,NA,NA
-41,99,salt,sal,99,salt,99,sal
-42,131,net bag,red,131,net,NA,NA
-43,124,gourd,jícara,124,"gourd, gourd bowl",NA,NA
-44,100,squash,calabaza,100,squash,100,calabaza
-45,NA,coati,tejón coatí,NA,NA,NA,NA
-46,NA,food,comida,NA,NA,NA,NA
-47,181,salty,salado,181,salty,181,salado
-48,42,blouse,huipil,42,"blouse, woven blouse",NA,NA
-49,204,work,trabajo,204,work,204,trabajo
-50,144,cotton,algodón,144,cotton,144,algodón
-51,NA,wind,viento,NA,NA,NA,NA
-52,13,man,hombre,13,man,13,hombre
-53,NA,round,redondon,NA,NA,NA,NA
-54,117,oven,horno,117,oven,117,horno
-55,NA,box / drawer,cajón,NA,NA,NA,NA
-56,NA,mosquito,zancudo,NA,NA,NA,NA
-57,NA,wait for,esperar,NA,NA,NA,NA
-58,NA,rotten,podrido,NA,NA,NA,NA
-59,NA,grab,agarrar,NA,NA,NA,NA
-60,NA,tendon,tendón,NA,NA,NA,NA
-61,NA,blow,soplar,NA,NA,NA,NA
-62,NA,handspan,cuarta,NA,NA,NA,NA
-63,15,owner,dueño,15,"owner, boss",NA,NA
-64,NA,lay (egg),poner (huevo),NA,NA,NA,NA
-65,NA,big (sg.),grande (sg.),NA,NA,NA,NA
-66,26,neck,cuello,26,neck,26,cuello
-67,NA,will come,va a venir,NA,NA,NA,NA
-68,76,horn,cuerno,76,horn (anatomy),NA,NA
-69,53,snake,culebra,NA,NA,53,"culebra, serpiente"
-70,187,ugly,feo,187,ugly,187,feo
-71,141,hill,cerro,141,"mountain, hill",NA,NA
-72,NA,armadillo,armadillo,NA,NA,NA,NA
-73,NA,crooked,chueco,NA,NA,NA,NA
-74,196,year,año,196,year,196,año
-75,NA,eyebrow,ceja,NA,NA,NA,NA
-76,37,pus,pus,NA,NA,37,"pus, materia"
-77,NA,demon,demonio,NA,NA,NA,NA
-78,154,yellow,amarillo,154,yellow,154,amarillo
-79,NA,sew,coser,NA,NA,NA,NA
-80,NA,will carry,va a cargar,NA,NA,NA,NA
-81,NA,that,aquel,NA,NA,NA,NA
-82,NA,below,abajo,NA,NA,NA,NA
-83,NA,all night,toda la noche,NA,NA,NA,NA
-84,172,hot,caliente,NA,NA,172,"está caliente, caliente"
-85,87,grain of corn,maíz,NA,NA,87,maíz en grano
-86,NA,wall,pared,NA,NA,NA,NA
-87,NA,early,temprano,NA,NA,NA,NA
-88,NA,open,abierto,NA,NA,NA,NA
-89,164,eight,ocho,164,eight,164,ocho
-90,106,tomato,jitomate,NA,NA,106,tomate
-91,97,green bean,ejote,97,green bean,97,ejote
-92,202,half,mitad,202,"half, middle",NA,NA
-93,102,cane,caña,102,sugar cane,NA,NA
-94,116,clay pot,olla,116,"pot, cooking pot",NA,NA
-95,NA,liquor,aguardiente,NA,NA,NA,NA
-96,103,honey,miel,103,honey,103,miel
-97,NA,armpit,sobaco,NA,NA,NA,NA
-98,95,tassel,espiga,95,"tassel, maize spike",NA,NA
-99,NA,people,gente,NA,NA,NA,NA
-100,43,town,pueblo,43,"village, town",NA,NA
-101,121,smoke,humo,121,smoke,121,humo
-102,NA,eat,comer,NA,NA,NA,NA
-103,55,hawk,gavilán,NA,NA,55,gavilán
-104,NA,truth,verdad,NA,NA,NA,NA
-105,118,fire,lumbre,NA,NA,118,"lumbre, fuego"
-106,162,six,seis,162,six,162,seis
-107,28,fingernail,un̡a,NA,NA,28,uña
-108,93,cornstalk,rastrojo,93,"cleared field, cornstalk",NA,NA
-109,91,cornmeal,masa,91,"cornmeal, corn dough",NA,NA
-110,6,child,hijo,6,son,NA,NA
-111,NA,"cold, phlegm",catarro,NA,NA,NA,NA
-112,179,good,bueno,179,good,179,bueno
-113,NA,because,porque,NA,NA,NA,NA
-114,NA,this one,este mismo,NA,NA,NA,NA
-115,NA,is coming,ya viene,NA,NA,NA,NA
-116,122,trash,basura,122,"garbage, trash",NA,NA
-117,69,cat,gato,69,cat,69,gato
-118,110,prickly pear,nopal,110,prickly pear cactus,NA,NA
-119,32,foot,pie,32,foot,32,pie
-120,NA,cut,cortar,NA,NA,NA,NA
-121,167,fifteen,quince,167,fifteen,167,quince
-122,NA,guts,tripas,NA,NA,NA,NA
-123,166,ten,diez,166,ten,166,diez
-124,171,cold,frío,NA,NA,171,frío
-125,40,sandal,huarache,40,"sandal, sandals",NA,NA
-126,NA,housepot,horcón,NA,NA,NA,NA
-127,NA,name,nombre,NA,NA,NA,NA
-128,NA,cacao,cacao,NA,NA,NA,NA
-129,24,ear,oreja,24,ear,24,oreja
-130,183,tasty,sabroso,183,"tasty, delicious",NA,NA
-131,NA,closed,cerrado,NA,NA,NA,NA
-132,NA,day after tomorrow,pasado mañana,NA,NA,NA,NA
-133,180,sweet,dulce,180,sweet,180,dulce
-134,NA,now,ahora,NA,NA,NA,NA
-135,130,hole,agujero,NA,NA,130,"agujero, hoyo"
-136,NA,afraid,tiene miedo,NA,NA,NA,NA
-137,169,poor,pobre,169,poor,169,pobre
-138,158,two,dos,158,two,158,dos
-139,56,scorpion,alacrán,NA,NA,56,alacrán
-140,NA,go out,salir,NA,NA,NA,NA
-141,NA,paint,pintar,NA,NA,NA,NA
-142,NA,rat,rata,NA,NA,NA,NA
-143,35,swelling,hinchazón,NA,NA,35,hinchazón
-144,36,pimple,grano,36,pimple,36,grano
-145,NA,it thunders,truena,NA,NA,NA,NA
-146,NA,rainbow,arco iris,NA,NA,NA,NA
-147,51,bird,pájaro,NA,NA,51,pájaro
-148,54,frog,rana,54,frog,54,rana
-149,NA,navel,ombligo,NA,NA,NA,NA
-150,38,urine,orina,38,urine,38,orina
-151,NA,chachalaca,chachalaca,NA,NA,NA,NA
-152,193,smooth,lisa,NA,NA,193,liso
-153,NA,little,chico,NA,NA,NA,NA
-154,200,day,día,200,day,200,día
-155,208,when,cuándo,NA,NA,208,cuándo
-156,NA,plain,llano,NA,NA,NA,NA
-157,NA,how,cómo,NA,NA,NA,NA
-158,NA,carry,cargar,NA,NA,NA,NA
-159,57,cockroach,cucaracha,57,cockroach,57,cucaracha
-160,NA,glue,pegamento,NA,NA,NA,NA
-161,33,sickness,enfermedad,33,"disease, illness, sickness",NA,NA
-162,NA,see,ver,NA,NA,NA,NA
-163,194,slow,despacio,194,slow,194,despacio
-164,44,house,casa,44,house,44,casa
-165,111,mamey,mamey,NA,NA,111,"mamey, zapote"
-166,NA,grind,moler,NA,NA,NA,NA
-167,78,wing,ala,78,wing,78,ala
-168,NA,stool,banquito,NA,NA,NA,NA
-169,88,cornfield,milpa,88,cornfield,88,milpa
-170,195,yesterday,ayer,195,yesterday,195,ayer
-171,NA,other,otro,NA,NA,NA,NA
-172,128,comb,peine,128,comb,128,peine
-173,NA,be born,se nació,NA,NA,NA,NA
-174,NA,smart,sabio,NA,NA,NA,NA
-175,143,stone,piedra,143,"stone, rock",NA,NA
-176,23,mouth,boca,23,mouth,23,boca
-177,NA,I,yo,NA,NA,NA,NA
-178,140,dew,rocío,NA,NA,140,rocío
-179,81,brush,hierba,81,herb,NA,NA
-180,94,furrow,surco,94,"furrow, planting row",NA,NA
-181,NA,trousers,calzón,NA,NA,NA,NA
-182,16,priest,sacerdote,16,priest,16,sacerdote
-183,145,brand,fierro,145,metal,NA,NA
-184,NA,will know,sabrá,NA,NA,NA,NA
-185,62,squirrel,ardilla,62,squirrel,62,ardilla
-186,NA,loose,floja,NA,NA,NA,NA
-187,191,heavy,pesado,191,heavy,191,pesado
-188,NA,tobacco,tobaco,NA,NA,NA,NA
+IDjoss,IDlist,GLOSS_E,GLOSS_S,GLOSS_1,GLOSS
+1,138,rain,lluvia,rain (precipitation),NA
+2,84,agave,maguey,"maguey, century plant",NA
+3,47,straw mat,petate,"mat, sleeping mat, straw mat",NA
+4,160,four,cuatro,four,cuatro
+5,77,feather,pluma,feather,pluma
+6,79,tail,cola,tail,cola
+7,148,wax,cera,"beeswax, wax",NA
+8,25,nose,nariz,nose,nariz
+9,205,word,palabra,word,palabra
+10,189,near,está cerca,NA,"cerca de, está cerca"
+11,80,tree,árbol,NA,"árbol, palo"
+12,61,deer,venado,deer,venado
+13,NA,lard,manteca,NA,NA
+14,NA,smell,olor,NA,NA
+15,92,tortilla,tortilla,tortilla,tortilla
+16,NA,vomits,vomita,NA,NA
+17,186,lazy,flojo,lazy,flojo
+18,48,bed,cama,NA,"cama, lecho"
+19,115,griddle,comal,griddle,comal
+20,206,sin,culpa,"fault, blame, sin",NA
+21,96,bean,frijol,NA,frijol(es)
+22,137,water,agua,water,agua
+23,139,river,río,river,río
+24,149,mud,lodo,mud,lodo
+25,NA,man's brother,hermano de h.,NA,NA
+26,159,three,tres,three,tres
+27,22,tooth,diente,tooth,diente
+28,161,five,cinco,five,cinco
+29,182,bitter,amargo,bitter,amargo
+30,114,meat,carne,meat,carne
+31,152,red,rojo,red,rojo
+32,NA,(he) went,se fue,NA,NA
+33,163,seven,siete,seven,siete
+34,127,thread,hilo,thread,hilo
+35,50,animal,animal,animal,animal
+36,NA,it finishes,se acaba,NA,NA
+37,105,egg,blanquillo,NA,"blanquillo, huevo"
+38,150,foam,espuma,foam,espuma
+39,17,blood,sangre,blood,sangre
+40,NA,husband,marido,NA,NA
+41,99,salt,sal,salt,sal
+42,131,net bag,red,net,NA
+43,124,gourd,jícara,"gourd, gourd bowl",NA
+44,100,squash,calabaza,squash,calabaza
+45,NA,coati,tejón coatí,NA,NA
+46,NA,food,comida,NA,NA
+47,181,salty,salado,salty,salado
+48,42,blouse,huipil,"blouse, woven blouse",NA
+49,204,work,trabajo,work,trabajo
+50,144,cotton,algodón,cotton,algodón
+51,NA,wind,viento,NA,NA
+52,13,man,hombre,man,hombre
+53,NA,round,redondon,NA,NA
+54,117,oven,horno,oven,horno
+55,NA,box / drawer,cajón,NA,NA
+56,NA,mosquito,zancudo,NA,NA
+57,NA,wait for,esperar,NA,NA
+58,NA,rotten,podrido,NA,NA
+59,NA,grab,agarrar,NA,NA
+60,NA,tendon,tendón,NA,NA
+61,NA,blow,soplar,NA,NA
+62,NA,handspan,cuarta,NA,NA
+63,15,owner,dueño,"owner, boss",NA
+64,NA,lay (egg),poner (huevo),NA,NA
+65,NA,big (sg.),grande (sg.),NA,NA
+66,26,neck,cuello,neck,cuello
+67,NA,will come,va a venir,NA,NA
+68,76,horn,cuerno,horn (anatomy),NA
+69,53,snake,culebra,NA,"culebra, serpiente"
+70,187,ugly,feo,ugly,feo
+71,141,hill,cerro,"mountain, hill",NA
+72,NA,armadillo,armadillo,NA,NA
+73,NA,crooked,chueco,NA,NA
+74,196,year,año,year,año
+75,NA,eyebrow,ceja,NA,NA
+76,37,pus,pus,NA,"pus, materia"
+77,NA,demon,demonio,NA,NA
+78,154,yellow,amarillo,yellow,amarillo
+79,NA,sew,coser,NA,NA
+80,NA,will carry,va a cargar,NA,NA
+81,NA,that,aquel,NA,NA
+82,NA,below,abajo,NA,NA
+83,NA,all night,toda la noche,NA,NA
+84,172,hot,caliente,NA,"está caliente, caliente"
+85,87,grain of corn,maíz,NA,maíz en grano
+86,NA,wall,pared,NA,NA
+87,NA,early,temprano,NA,NA
+88,NA,open,abierto,NA,NA
+89,164,eight,ocho,eight,ocho
+90,106,tomato,jitomate,NA,tomate
+91,97,green bean,ejote,green bean,ejote
+92,202,half,mitad,"half, middle",NA
+93,102,cane,caña,sugar cane,NA
+94,116,clay pot,olla,"pot, cooking pot",NA
+95,NA,liquor,aguardiente,NA,NA
+96,103,honey,miel,honey,miel
+97,NA,armpit,sobaco,NA,NA
+98,95,tassel,espiga,"tassel, maize spike",NA
+99,NA,people,gente,NA,NA
+100,43,town,pueblo,"village, town",NA
+101,121,smoke,humo,smoke,humo
+102,NA,eat,comer,NA,NA
+103,55,hawk,gavilán,NA,gavilán
+104,NA,truth,verdad,NA,NA
+105,118,fire,lumbre,NA,"lumbre, fuego"
+106,162,six,seis,six,seis
+107,28,fingernail,uņa,NA,uña
+108,93,cornstalk,rastrojo,"cleared field, cornstalk",NA
+109,91,cornmeal,masa,"cornmeal, corn dough",NA
+110,6,child,hijo,son,NA
+111,NA,"cold, phlegm",catarro,NA,NA
+112,179,good,bueno,good,bueno
+113,NA,because,porque,NA,NA
+114,NA,this one,este mismo,NA,NA
+115,NA,is coming,ya viene,NA,NA
+116,122,trash,basura,"garbage, trash",NA
+117,69,cat,gato,cat,gato
+118,110,prickly pear,nopal,prickly pear cactus,NA
+119,32,foot,pie,foot,pie
+120,NA,cut,cortar,NA,NA
+121,167,fifteen,quince,fifteen,quince
+122,NA,guts,tripas,NA,NA
+123,166,ten,diez,ten,diez
+124,171,cold,frío,NA,frío
+125,40,sandal,huarache,"sandal, sandals",NA
+126,NA,housepot,horcón,NA,NA
+127,NA,name,nombre,NA,NA
+128,NA,cacao,cacao,NA,NA
+129,24,ear,oreja,ear,oreja
+130,183,tasty,sabroso,"tasty, delicious",NA
+131,NA,closed,cerrado,NA,NA
+132,NA,day after tomorrow,pasado mañana,NA,NA
+133,180,sweet,dulce,sweet,dulce
+134,NA,now,ahora,NA,NA
+135,130,hole,agujero,NA,"agujero, hoyo"
+136,NA,afraid,tiene miedo,NA,NA
+137,169,poor,pobre,poor,pobre
+138,158,two,dos,two,dos
+139,56,scorpion,alacrán,NA,alacrán
+140,NA,go out,salir,NA,NA
+141,NA,paint,pintar,NA,NA
+142,NA,rat,rata,NA,NA
+143,35,swelling,hinchazón,NA,hinchazón
+144,36,pimple,grano,pimple,grano
+145,NA,it thunders,truena,NA,NA
+146,NA,rainbow,arco iris,NA,NA
+147,51,bird,pájaro,NA,pájaro
+148,54,frog,rana,frog,rana
+149,NA,navel,ombligo,NA,NA
+150,38,urine,orina,urine,orina
+151,NA,chachalaca,chachalaca,NA,NA
+152,193,smooth,lisa,NA,liso
+153,NA,little,chico,NA,NA
+154,200,day,día,day,día
+155,208,when,cuándo,NA,cuándo
+156,NA,plain,llano,NA,NA
+157,NA,how,cómo,NA,NA
+158,NA,carry,cargar,NA,NA
+159,57,cockroach,cucaracha,cockroach,cucaracha
+160,NA,glue,pegamento,NA,NA
+161,33,sickness,enfermedad,"disease, illness, sickness",NA
+162,NA,see,ver,NA,NA
+163,194,slow,despacio,slow,despacio
+164,44,house,casa,house,casa
+165,111,mamey,mamey,NA,"mamey, zapote"
+166,NA,grind,moler,NA,NA
+167,78,wing,ala,wing,ala
+168,NA,stool,banquito,NA,NA
+169,88,cornfield,milpa,cornfield,milpa
+170,195,yesterday,ayer,yesterday,ayer
+171,NA,other,otro,NA,NA
+172,128,comb,peine,comb,peine
+173,NA,be born,se nació,NA,NA
+174,NA,smart,sabio,NA,NA
+175,143,stone,piedra,"stone, rock",NA
+176,23,mouth,boca,mouth,boca
+177,NA,I,yo,NA,NA
+178,140,dew,rocío,NA,rocío
+179,81,brush,hierba,herb,NA
+180,94,furrow,surco,"furrow, planting row",NA
+181,NA,trousers,calzón,NA,NA
+182,16,priest,sacerdote,priest,sacerdote
+183,145,brand,fierro,metal,NA
+184,NA,will know,sabrá,NA,NA
+185,62,squirrel,ardilla,squirrel,ardilla
+186,NA,loose,floja,NA,NA
+187,191,heavy,pesado,heavy,pesado
+188,NA,tobacco,tobaco,NA,NA

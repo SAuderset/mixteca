@@ -35,13 +35,10 @@ head(joss.t)
 joss.f <- joss.t %>% select(IDjoss, GLOSS_E, GLOSS_S, VALUE, DOCULECT = ID)
 glimpse(joss.f)
 
-# export to file
-write_csv(joss.f, "josserand1983_long.csv")
-
 
 ### create version to merge with the comparative list ###
 # read in my list
-tmpl <- read_csv("/Users/auderset/Documents/GitHub/mixteca/ComparativeList/LISTS/template.csv")
+tmpl <- read_tsv("/Users/auderset/Documents/GitHub/mixteca/ComparativeList/LISTS/template.csv")
 # select relevant cols
 tmpl <- tmpl %>% select(IDlist, GLOSS, GLOSS_1)
 glimpse(tmpl)
@@ -55,6 +52,8 @@ glimpse(joss.tmpl2)
 # coaleasce list numbers into one column
 joss.tmpl3 <- joss.tmpl2 %>% mutate(IDlist = coalesce(IDlist.x, IDlist.y)) %>% select(IDjoss, IDlist, everything())
 glimpse(joss.tmpl3)
+# combine the IDlist columns
+joss.tmpl3 <- joss.tmpl3 %>% mutate(IDlist = coalesce(IDlist.x, IDlist.y)) %>% select(-IDlist.x, -IDlist.y)
 # export for manual correction
 write_csv(joss.tmpl3, "josserand-merge-out.csv")
 
@@ -83,24 +82,34 @@ joss.f <- joss.f %>% mutate(DOCULECT = tolower(DOCULECT))
 joss.f <- joss.f %>% right_join(conc.sub, by = c("DOCULECT"="josserand_code"))
 
 
-# split cells with / into two rows, remove asterisk from protoforms
-# remove [] from entries
-# clean out leading and trailing spaces, delete spaces before and after =, convert other spaces to -
+# split cells with / into two rows
+# clean out leading and trailing spaces, delete spaces before and after =,
 joss.f <- joss.f %>% 
-  mutate(VALUE = str_remove_all(VALUE, "\\[")) %>%
-  mutate(VALUE = str_remove_all(VALUE, "\\]")) %>%
-  mutate(VALUE = str_remove_all(VALUE, "*")) %>%
+  mutate(VALUE = str_remove_all(VALUE, "\\*")) %>%
   mutate(VALUE = str_replace_all(VALUE, " =", "=")) %>%
   mutate(VALUE = str_replace_all(VALUE, "= ", "=")) %>%
   mutate(VALUE = str_replace_all(VALUE, " /", "/")) %>%
   mutate(VALUE = str_replace_all(VALUE, "/ ", "/")) %>%
   separate_rows(VALUE, sep = "/") %>%
-  mutate(VALUE = trimws(VALUE, which = "both")) %>%
+  mutate(VALUE = trimws(VALUE, which = "both"))
+glimpse(joss.f)
+
+# clean up
+joss.fexp <- joss.f %>% select(IDjoss, CODEjoss = DOCULECT, GLOSSenglish = GLOSS_E, GLOSSspanish = GLOSS_S, VALUE)
+
+# export to file
+write_csv(joss.fexp, "josserand1983_long.csv")
+
+# further clean up for my use
+# remove [] from entries, remove asterisk from protoforms
+#  convert other spaces to -
+joss.f2 <- joss.f %>% 
+  mutate(VALUE = str_remove_all(VALUE, "\\[")) %>%
+  mutate(VALUE = str_remove_all(VALUE, "\\]")) %>%
   mutate(VALUE = str_replace_all(VALUE, " ", "-"))
 
-
 # filter, reorder for export and manual clean-up
-joss.e <- joss.f %>% filter(!is.na(IDlist)) %>% 
+joss.e <- joss.f2 %>% filter(!is.na(IDlist)) %>% 
   filter(DOCULECT!="Spanish") %>%
   filter(DOCULECT!="English") %>%
   filter(!is.na(VALUE)) %>%
