@@ -49,7 +49,10 @@ wl2 <- filter(distinct(wl2))
 
 # copy values to form, if form is empty, order columns
 # for some reason it didn't work without coalesce...
-wl3 <- wl2 %>% mutate(FORM = ifelse(is.na(FORM), coalesce(VALUE, FORM), coalesce(FORM, FORM)))
+# delete brackets from FORM column (pertinent to Josserand 1983)
+wl3 <- wl2 %>% mutate(FORM = ifelse(is.na(FORM), coalesce(VALUE, FORM), coalesce(FORM, FORM))) %>%
+  mutate(FORM = str_remove_all(FORM, "\\(")) %>%
+  mutate(FORM = str_remove_all(FORM, "\\)"))
 # normalize unicode
 wl3$FORM <- stri_trans_nfd(wl3$FORM)
 # lower case
@@ -104,8 +107,21 @@ write_tsv(wl3, "/Users/auderset/Documents/GitHub/mixteca/ComparativeList/mixt_co
 
 # to know where to continue IDs
 max(wl3$ID, na.rm = TRUE)
-# 20249
+# 20465
 
 
 ### export single sheets for Josserand orthography profiles
-jossp <- wl3 %>% group_by()
+# make named list
+group_names <- wl3 %>% group_keys(DOCULECT) %>% pull(1)
+jossp <- wl3 %>% group_split(DOCULECT) %>% set_names(group_names)
+# solution from here: https://martinctc.github.io/blog/vignette-write-and-read-multiple-excel-files-with-purrr/
+# Step 1
+# Define a function for exporting csv with the desired file names and into the right path
+josserand_tsv <- function(data, names){ 
+  folder_path <- "/Users/auderset/Documents/GitHub/mixteca/Digitalization/Josserand1983/"
+  write_tsv(data, paste0(folder_path, "profile-", names, ".tsv"))
+}
+# Step 2
+list(data = jossp,
+     names = names(jossp)) %>% pmap(josserand_tsv) 
+

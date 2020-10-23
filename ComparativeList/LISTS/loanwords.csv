@@ -1,77 +1,250 @@
 ID,DOCULECT,GLOSS,VALUE,FORM,IDlist,NOTES,LOAN,LOAN_SOURCE,SOURCE
 2,abas11,mamá!,ma,NA,2,"not sure, but example suggests so",yes,Spanish,galindo-sanchez2009vocabulario
-1492,copa11,"father!, dad!",'a³tax¹,NA,4,Sp. tata,yes,Spanish,hollenbach1992syntactic
-1364,yoso11,"father!, dad!",papá,NA,4,Sp. loan,yes,Spanish,farris1992syntactic
 4,abas11,papá!,paa,NA,4,NA,yes,Spanish,galindo-sanchez2009vocabulario
-4181,colo11,medicina,numerí,NA,34,NA,yes?,Spanish?,stark1986diccionario
-5236,papa11,pus,ya³cua³,NA,37,loan from Mixtec I think,maybe,Mixtec,anderson1983diccionario
-5239,papa11,huarache,nda̠³cu³,NA,40,loan?,maybe,Mixtec,anderson1983diccionario
-3983,chay11,pantalón,pantalón,NA,41,Sp. loan,yes,Spanish,pensinger1974diccionario
-5240,papa11,pantalón,pa³nta³lón¹,NA,41,Sp. loan,yes,Spanish,anderson1983diccionario
-5247,papa11,cama,ca²ma⁴,NA,48,Sp. loan,yes,Spanish,anderson1983diccionario
-1174,diux11,chair,siyá,NA,49,Sp. silla,yes,Spanish,kuiper1991syntactic
-20300,itun12,silla,chrun³ chi⁴la⁴³,NA,49,wood-seat,partial,Spanish,NA
-5253,papa11,rana,ra²na¹,NA,54,Sp. loan,yes,Spanish,anderson1983diccionario
-5958,chic12,gavilán,xinun’³un,NA,55,NA,maybe,Mixtec?,good1978diccionario
-6177,jica13,zorrillo,lírú,NA,63,NA,probably,Spanish,Emily John-Martin
-4004,chay11,conejo,cuñexu,NA,66,"Sp. loan, in examples only",yes,Spanish,pensinger1974diccionario
-4213,colo11,conejo,cuñexú,NA,66,Sp. loan,yes,Spanish,stark1986diccionario
-6180,jica13,conejo,leso,NA,66,NA,yes,Colonial Spanish,Emily John-Martin
-5265,papa11,conejo,co³ne³jo¹,NA,66,Sp. loan,yes,Spanish,anderson1983diccionario
-233,yolo11,conejo,ku³ni⁴jo²,NA,66,from Sp. conejo,yes,Spanish,amith2020yoloxochitl
-4400,zaca11,conejo,kunexu,NA,66,Sp. loan,yes,Spanish,towne2011gramatica
+4549,alac11,gato,míxtón,NA,69,NA,yes,Colonial Spanish?,zylstra2012gramatica
+4553,alac11,caballo,kuáyí,NA,73,NA,yes,Colonial Spanish,zylstra2012gramatica
+4599,alac11,cajón,xato̠n,NA,126,NA,yes,Spanish,zylstra2012gramatica
 1040,alac11,rabbit,yīsōn,NA,66,Sp. conejo,yes,Spanish,zylstra1991syntactic
 1041,alac11,rabbit,lēsōn,NA,66,Sp. conejo,yes,Spanish,zylstra1991syntactic
-1314,conc11,rabbit,kōnẽxó,NA,66,loan,yes,Spanish,bradley1991preliminary
-1183,diux11,rabbit,konexó,NA,66,Sp. conejo,yes,Spanish,kuiper1991syntactic
-408,jami11,rabbit,kūñēshú,NA,66,Sp. conejo,yes,Spanish,johnson1988syntactic
-530,ocot11,rabbit,lēxō,NA,66,NA,yes?,Spanish,alexander1988syntactic
-656,prog12,rabbit,kāñāxún,NA,66,Sp. conejo,yes,Spanish,shields1988syntactic
-234,yolo11,zopilote,pi³lo⁴,NA,67,from Nahuatl tsopi:lo:tl,yes,Nahuatl,amith2020yoloxochitl
+1047,alac11,horse,kwáyí,NA,73,Sp. caballo,yes,Spanish,zylstra1991syntactic
+1073,alac11,box,káxá,NA,126,Sp. caja,yes,Spanish,zylstra1991syntactic
 787,ayut11,cat,mīshtūn,NA,69,NA,yes,Colonial Spanish,hills1990syntactic
-922,coat11,cat,mishtun,NA,69,from Old Sp. mistón,yes,Colonial Spanish,small1990syntactic
-4549,alac11,gato,míxtón,NA,69,NA,yes,Colonial Spanish?,zylstra2012gramatica
+790,ayut11,horse,kwēī,NA,73,from Sp. caballo,yes ,Spanish,hills1990syntactic
+3983,chay11,pantalón,pantalón,NA,41,Sp. loan,yes,Spanish,pensinger1974diccionario
+4004,chay11,conejo,cuñexu,NA,66,"Sp. loan, in examples only",yes,Spanish,pensinger1974diccionario
 4007,chay11,gato,milu,NA,69,NA,yes,Colonial Spanish,pensinger1974diccionario
+4011,chay11,caballo,cavayu,NA,73,"Sp. loan, in examples only",yes,Spanish,pensinger1974diccionario
+4039,chay11,chayote,chayote,NA,101,"Sp. loan, examples only",yes,Spanish,pensinger1974diccionario
+5958,chic12,gavilán,xinun’³un,NA,55,NA,maybe,Mixtec?,good1978diccionario
+6016,chic12,mamey,nato⁴ ro’oj⁵o,nato⁴ ro’oj⁵o,111,banana-red,partial,Spanish,good1978diccionario
+922,coat11,cat,mishtun,NA,69,from Old Sp. mistón,yes,Colonial Spanish,small1990syntactic
+923,coat11,pig,kutsin,NA,72,from Sp. cochino,yes,Spanish,small1990syntactic
+4181,colo11,medicina,numerí,NA,34,NA,yes?,Spanish?,stark1986diccionario
+4213,colo11,conejo,cuñexú,NA,66,Sp. loan,yes,Spanish,stark1986diccionario
 4216,colo11,gato,mistú,NA,69,Sp. loan,yes,Colonial Spanish,stark1986diccionario
 4217,colo11,gato,mixtú,NA,69,Sp. loan,yes,Colonial Spanish,stark1986diccionario
-3269,mont12,gato,{micho},micho,69,from Sp.,yes,Colonial Spanish,oxnard2020
-236,yolo11,gato domestico,mis⁴tun²,NA,69,NA,yes,Colonial Spanish,amith2020yoloxochitl
-3282,mont12,cerdo,ndìkochí,ndì-kochí,72,NA,partial,Colonial Spanish,oxnard2020
-5271,papa11,marrano,cu²chi¹,NA,72,Sp. loan,yes,Spanish,anderson1983diccionario
-4924,pena11,"marrano, puerco",kuchi,NA,72,NA,yes,Spanish,hollenbach2017diccionario
-923,coat11,pig,kutsin,NA,72,from Sp. cochino,yes,Spanish,small1990syntactic
-1316,conc11,pig,kūchí,NA,72,NA,yes,Spanish,bradley1991preliminary
-659,prog12,pig,kóchí,NA,72,NA,yes,Spanish,shields1988syntactic
-4553,alac11,caballo,kuáyí,NA,73,NA,yes,Colonial Spanish,zylstra2012gramatica
-4011,chay11,caballo,cavayu,NA,73,"Sp. loan, in examples only",yes,Spanish,pensinger1974diccionario
 4221,colo11,caballo,cuayú,NA,73,NA,yes,Colonial Spanish,stark1986diccionario
+1314,conc11,rabbit,kōnẽxó,NA,66,loan,yes,Spanish,bradley1991preliminary
+1316,conc11,pig,kūchí,NA,72,NA,yes,Spanish,bradley1991preliminary
+1492,copa11,"father!, dad!",'a³tax¹,NA,4,Sp. tata,yes,Spanish,hollenbach1992syntactic
+1540,copa11,horse,kwa³yo⁴,NA,73,Sp. caballo,yes,Colonial Spanish,hollenbach1992syntactic
+1174,diux11,chair,siyá,NA,49,Sp. silla,yes,Spanish,kuiper1991syntactic
+1183,diux11,rabbit,konexó,NA,66,Sp. conejo,yes,Spanish,kuiper1991syntactic
+1281,diux11,money,tviní,NA,203,from Old Sp. tomín,yes,Old Spanish,kuiper1991syntactic
+20300,itun12,silla,chrun³ chi⁴la⁴³,NA,49,wood-seat,partial,Spanish,NA
 20325,itun12,caballo,kwa⁴yu⁴³,NA,73,NA,yes,Colonial Spanish,NA
+408,jami11,rabbit,kūñēshú,NA,66,Sp. conejo,yes,Spanish,johnson1988syntactic
+6177,jica13,zorrillo,lírú,NA,63,NA,probably,Spanish,Emily John-Martin
+6180,jica13,conejo,leso,NA,66,NA,yes,Colonial Spanish,Emily John-Martin
 6189,jica13,caballo,kuáyu̠,NA,73,NA,yes ,Colonial Spanish,Emily John-Martin
+530,ocot11,rabbit,lēxō,NA,66,NA,yes?,Spanish,alexander1988syntactic
+534,ocot11,horse,kwáyu,NA,73,NA,yes,Colonial Spanish,alexander1988syntactic
+5236,papa11,pus,ya³cua³,NA,37,loan from Mixtec I think,maybe,Mixtec,anderson1983diccionario
+5239,papa11,huarache,nda̠³cu³,NA,40,loan?,maybe,Mixtec,anderson1983diccionario
+5240,papa11,pantalón,pa³nta³lón¹,NA,41,Sp. loan,yes,Spanish,anderson1983diccionario
+5247,papa11,cama,ca²ma⁴,NA,48,Sp. loan,yes,Spanish,anderson1983diccionario
+5253,papa11,rana,ra²na¹,NA,54,Sp. loan,yes,Spanish,anderson1983diccionario
+5265,papa11,conejo,co³ne³jo¹,NA,66,Sp. loan,yes,Spanish,anderson1983diccionario
+5271,papa11,marrano,cu²chi¹,NA,72,Sp. loan,yes,Spanish,anderson1983diccionario
+5276,papa11,pluma,plu²ma¹,NA,77,Sp. loan,yes,Spanish,anderson1983diccionario
+5294,papa11,surco,su²rcu⁴,NA,94,Sp. loan,yes,Spanish,anderson1983diccionario
+5318,papa11,horno,ho²rno⁴,NA,117,Sp. loan,yes,Spanish,anderson1983diccionario
+5329,papa11,hilo,hi²lu⁴,NA,127,Sp. loan,yes,Spanish,anderson1983diccionario
+5373,papa11,rico,ri²cu⁴,NA,170,Sp. loan,yes,Spanish,anderson1983diccionario
+4924,pena11,"marrano, puerco",kuchi,NA,72,NA,yes,Spanish,hollenbach2017diccionario
 4926,pena11,caballo,kueyú [B],NA,73,old Sp. loan,yes,Colonial Spanish,hollenbach2017diccionario
+656,prog12,rabbit,kāñāxún,NA,66,Sp. conejo,yes,Spanish,shields1988syntactic
+659,prog12,pig,kóchí,NA,72,NA,yes,Spanish,shields1988syntactic
+660,prog12,horse,kwáyi,NA,73,NA,yes,Colonial Spanish,shields1988syntactic
+9200,adeq11,banquito,ƀanku,NA,49,NA,yes,Spanish,josserand1983mixtec
+9643,adeq11,rana,sapu,NA,54,NA,yes,Spanish,josserand1983mixtec
+14038,adeq11,cajón,kaxa,NA,126,NA,yes,Spanish,josserand1983mixtec
+10450,ahue11,gato,(mi̧to),NA,69,NA,yes,Colonial Spanish,josserand1983mixtec
+10451,alac11,gato,(mí̧štó),NA,69,NA,yes,Colonial Spanish,josserand1983mixtec
+10456,alco11,gato,(mištu̧),NA,69,NA,yes,Colonial Spanish,josserand1983mixtec
+9204,amat11,banquito,ƀanku,NA,49,NA,yes,Spanish,josserand1983mixtec
+9648,amat11,rana,ti-rana,NA,54,NA,partial,Spanish,josserand1983mixtec
+10341,amat11,ardilla,mu̧tu,NA,62,NA,maybe,NA,josserand1983mixtec
+14041,amat11,cajón,kaxa,NA,126,NA,yes,Spanish,josserand1983mixtec
+14418,amat11,red,rede,NA,131,NA,yes,Spanish,josserand1983mixtec
+13065,apoa11,mamey,mamey,NA,111,NA,yes,Spanish,josserand1983mixtec
+15488,apoa11,fierro,fier̃u,NA,145,NA,yes,Spanish,josserand1983mixtec
+8577,atat11,huipil,kamisa,NA,42,NA,yes,Spanish,josserand1983mixtec
+9207,atat11,banquito,siya,NA,49,NA,yes,Spanish,josserand1983mixtec
+10462,atoy11,gato,(mi̧ču),NA,69,NA,yes,Colonial Spanish,josserand1983mixtec
+10463,atoy11,gato,milu,NA,69,NA,maybe,NA,josserand1983mixtec
+10465,ayut11,gato,(mī̧šty),NA,69,NA,yes,Colonial Spanish,josserand1983mixtec
+15817,ayut11,espuma,pele,NA,150,NA,maybe,NA,josserand1983mixtec
+10466,brav11,gato,(mi̧štno̧),NA,69,NA,yes,Colonial Spanish,josserand1983mixtec
+10002,caca11,cucaracha,kukarača,NA,57,NA,yes,Spanish,josserand1983mixtec
+10349,caca11,ardilla,arđiya,NA,62,NA,yes,Spanish,josserand1983mixtec
+15493,caca11,fierro,marka,NA,145,NA,yes,Spanish,josserand1983mixtec
+10468,cahu11,gato,(mi̧čo̧),NA,69,NA,yes,Colonial Spanish,josserand1983mixtec
+8505,chal11,"calzón, pantalón",kalso̧ni̧,NA,41,NA,yes,Spanish,josserand1983mixtec
+9214,chal11,banquito,sia,NA,49,NA,yes,Spanish,josserand1983mixtec
+13073,chal11,mamey,mamey,NA,111,NA,yes,Spanish,josserand1983mixtec
+15494,chal11,fierro,fieŗu,NA,145,NA,yes,Spanish,josserand1983mixtec
+10470,chay11,gato,mi̧lu,NA,69,NA,maybe,NA,josserand1983mixtec
+13489,chay12,horno,ornu̧,NA,117,NA,yes,Spanish,josserand1983mixtec
+14053,chay12,cajón,kaxa,NA,126,NA,yes,Spanish,josserand1983mixtec
+15497,chic11,fierro,fʸer̃u,NA,145,NA,yes,Spanish,josserand1983mixtec
+10355,chig11,ardilla,ⁿdo-arđia?,NA,62,NA,partial,Spanish,josserand1983mixtec
+10474,chig11,gato,(mi̧tu),NA,69,NA,yes,Colonial Spanish,josserand1983mixtec
+17691,chig11,chico,peʔe,NA,175,NA,maybe,NA,josserand1983mixtec
+10475,coat11,gato,mi̧stu,NA,69,NA,yes,Colonial Spanish,josserand1983mixtec
+10477,colo11,gato,(mi̧stu),NA,69,NA,yes,Colonial Spanish,josserand1983mixtec
+9225,coxc11,banquito,ƀanku,NA,49,NA,yes,Spanish,josserand1983mixtec
+14060,coxc11,cajón,kaxa,NA,126,NA,yes,Spanish,josserand1983mixtec
+9112,cris11,cama,kama,NA,48,NA,yes,Spanish,josserand1983mixtec
+10480,cris11,gato,milu,NA,69,NA,maybe,NA,josserand1983mixtec
+13498,cris11,horno,ʔornu̧,NA,117,NA,yes,Spanish,josserand1983mixtec
+14061,cris11,cajón,kaxa,NA,126,NA,yes,Spanish,josserand1983mixtec
+10482,cuat11,gato,(mi̧stu̧),NA,69,NA,yes,Colonial Spanish,josserand1983mixtec
+15503,cuau11,fierro,žer̃u,NA,145,NA,yes,Spanish,josserand1983mixtec
+10364,cuil11,ardilla,arđiya,NA,62,NA,yes,Spanish,josserand1983mixtec
+10484,cuil11,gato,mi̧ci,NA,69,NA,maybe,NA,josserand1983mixtec
+14171,cuil11,hilo,ilɨ,NA,127,NA,probably,Spanish,josserand1983mixtec
+15504,cuya11,fierro,yer̃u,NA,145,NA,yes,Spanish,josserand1983mixtec
+14066,diux11,cajón,kaxa,NA,126,NA,yes,Spanish,josserand1983mixtec
+13087,esta11,mamey,mamey,NA,111,NA,yes,Spanish,josserand1983mixtec
+10490,este11,gato,mi̧či,NA,69,NA,maybe,NA,josserand1983mixtec
+15507,este11,fierro,xer̃u,NA,145,NA,yes,Spanish,josserand1983mixtec
+10370,flor11,ardilla,mu̧tu,NA,62,NA,maybe,NA,josserand1983mixtec
+10491,flor11,gato,(ⁿdi-miči),NA,69,NA,yes,Colonial Spanish,josserand1983mixtec
+14070,flor11,cajón,kaxa,NA,126,NA,yes,Spanish,josserand1983mixtec
+14177,flor11,hilo,ilu,NA,127,NA,yes,Spanish,josserand1983mixtec
+15841,flor11,espuma,espuma,NA,150,NA,yes,Spanish,josserand1983mixtec
+10372,guad11,ardilla,mu̧tu,NA,62,NA,maybe,NA,josserand1983mixtec
+14179,guad11,hilo,ilo,NA,127,NA,yes,Spanish,josserand1983mixtec
+8520,huit11,"calzón, pantalón",kasu̧ni̧,NA,41,NA,yes,Spanish,josserand1983mixtec
+15512,huit11,fierro,žeŗu,NA,145,NA,yes,Spanish,josserand1983mixtec
+9242,ixta11,banquito,silʸa,NA,49,NA,yes,Spanish,josserand1983mixtec
+15516,ixta12,fierro,maⁿča,NA,145,NA,yes,Spanish,josserand1983mixtec
+9245,ixta13,banquito,ƀanku,NA,49,NA,yes,Spanish,josserand1983mixtec
+10379,ixta13,ardilla,si-arđiya,NA,62,NA,partial,Spanish,josserand1983mixtec
+14078,ixta13,cajón,kaxa,NA,126,NA,yes,Spanish,josserand1983mixtec
+9131,jate11,cama,kama,NA,48,NA,yes,Spanish,josserand1983mixtec
+9247,jate11,banquito,ƀanku,NA,49,NA,yes,Spanish,josserand1983mixtec
+14080,jate11,cajón,kaxa,NA,126,NA,yes,Spanish,josserand1983mixtec
+10503,jica11,gato,(mi̧stu),NA,69,NA,yes,Colonial Spanish,josserand1983mixtec
+10504,jica12,gato,(mi̧tu),NA,69,NA,yes,Colonial Spanish,josserand1983mixtec
+15520,joco11,fierro,fier̃u,NA,145,NA,yes,Spanish,josserand1983mixtec
+9251,juxt11,banquito,šila,NA,49,NA,yes,Spanish,josserand1983mixtec
+10508,lore11,gato,mi̧lu,NA,69,NA,maybe,NA,josserand1983mixtec
+9256,mica11,banquito,ƀanku,NA,49,NA,yes,Spanish,josserand1983mixtec
+10388,mica11,ardilla,arđiya,NA,62,NA,yes,Spanish,josserand1983mixtec
+14086,mica11,cajón,kaxo̧ⁿ,NA,126,NA,yes,Spanish,josserand1983mixtec
+9259,mont12,banquito,ƀanka,NA,49,NA,yes,Spanish,josserand1983mixtec
+10514,mont12,gato,(ⁿdi-čito),NA,69,NA,yes,Colonial Spanish,josserand1983mixtec
+14088,mont12,cajón,kaxa,NA,126,NA,yes,Spanish,josserand1983mixtec
+14470,mont12,red,red,NA,131,NA,yes,Spanish,josserand1983mixtec
+8533,mont14,"calzón, pantalón",kalso̧ni̧,NA,41,NA,yes,Spanish,josserand1983mixtec
+9261,mont14,banquito,ƀanku,NA,49,NA,yes,Spanish,josserand1983mixtec
+11970,mont14,surco,surku,NA,94,NA,yes,Spanish,josserand1983mixtec
+9262,more11,banquito,ƀanko,NA,49,NA,yes,Spanish,josserand1983mixtec
+9263,ndua11,banquito,ƀanku,NA,49,NA,yes,Spanish,josserand1983mixtec
+10518,nuch11,gato,(mi̧to),NA,69,NA,yes,Colonial Spanish,josserand1983mixtec
+9265,nund11,banquito,ƀanku,NA,49,NA,yes,Spanish,josserand1983mixtec
+9707,nund11,rana,sapu,NA,54,NA,yes,Spanish,josserand1983mixtec
+10395,nund11,ardilla,arđiya,NA,62,NA,yes,Spanish,josserand1983mixtec
+14093,nund11,cajón,kaxa,NA,126,NA,yes,Spanish,josserand1983mixtec
+9148,nund12,cama,kama,NA,48,NA,yes,Spanish,josserand1983mixtec
+9266,nund12,banquito,ƀanku,NA,49,NA,yes,Spanish,josserand1983mixtec
+14094,nund12,cajón,kaxa,NA,126,NA,yes,Spanish,josserand1983mixtec
+19840,nund12,palabra,palabra,NA,205,NA,yes,Spanish,josserand1983mixtec
+14095,nund13,cajón,kaxa,NA,126,NA,yes,Spanish,josserand1983mixtec
+9268,nuti11,banquito,ƀanka,NA,49,NA,yes,Spanish,josserand1983mixtec
+10522,nuti11,gato,(mištu),NA,69,NA,yes,Colonial Spanish,josserand1983mixtec
+13532,nuti11,horno,ur̃nõ,NA,117,NA,yes,Spanish,josserand1983mixtec
+14096,nuti11,cajón,kaxa,NA,126,NA,yes,Spanish,josserand1983mixtec
+20049,nuxa11,cuándo,na̧a̧-or̃e,NA,208,NA,partial,Spanish,josserand1983mixtec
+20050,nuxi11,cuándo,na̧-ore,NA,208,NA,partial,Spanish,josserand1983mixtec
+20051,nuxi11,cuándo,no̧-ore,NA,208,NA,partial,Spanish,josserand1983mixtec
+20054,ocot11,cuándo,nà̧-tʸempo,NA,208,NA,partial,Spanish,josserand1983mixtec
+9273,pena12,banquito,ƀa̧ᵑgu,NA,49,NA,yes,Spanish,josserand1983mixtec
+9717,pena12,rana,sapu,NA,54,NA,yes,Spanish,josserand1983mixtec
+14100,pena12,cajón,kaxa,NA,126,NA,yes,Spanish,josserand1983mixtec
+8540,peno11,"calzón, pantalón",kàrsòni̧,NA,41,NA,yes,Spanish,josserand1983mixtec
+9274,peno11,banquito,šìla̧,NA,49,NA,yes,Spanish,josserand1983mixtec
+10529,peno11,gato,mí̧čì,NA,69,NA,maybe,NA,josserand1983mixtec
+9276,pied11,banquito,šile,NA,49,NA,yes,Spanish,josserand1983mixtec
+15532,pied11,fierro,žeŗu,NA,145,NA,yes,Spanish,josserand1983mixtec
+10531,pino11,gato,(miču̧),NA,69,NA,yes,Colonial Spanish,josserand1983mixtec
+10532,pino12,gato,(mi̧hta),NA,69,NA,yes,Colonial Spanish,josserand1983mixtec
+9280,prog11,banquito,ƀanka,NA,49,NA,yes,Spanish,josserand1983mixtec
+13542,prog11,horno,oŗno̧,NA,117,NA,yes,Spanish,josserand1983mixtec
+14105,prog11,cajón,kaxo,NA,126,NA,yes,Spanish,josserand1983mixtec
+10536,reye11,gato,mi̧li,NA,69,NA,maybe,NA,josserand1983mixtec
+10537,sayu11,gato,(mi̧ču),NA,69,NA,yes,Colonial Spanish,josserand1983mixtec
+15538,sind11,fierro,fieŗu,NA,145,NA,yes,Spanish,josserand1983mixtec
+9167,sini11,cama,kama,NA,48,NA,yes,Spanish,josserand1983mixtec
+9286,sini11,banquito,ƀa̧ᵑgu,NA,49,NA,yes,Spanish,josserand1983mixtec
+14111,sini11,cajón,kaxa,NA,126,NA,yes,Spanish,josserand1983mixtec
+8548,soya11,"calzón, pantalón",kalso̧ni̧,NA,41,NA,yes,Spanish,josserand1983mixtec
+9288,tama11,banquito,šile,NA,49,NA,yes,Spanish,josserand1983mixtec
+14114,tata11,cajón,kaxa,NA,126,NA,yes,Spanish,josserand1983mixtec
+15542,teit11,fierro,ṣ̌eŗu,NA,145,NA,yes,Spanish,josserand1983mixtec
+10423,tejo11,ardilla,arđiya-ȼa,NA,62,NA,yes,Spanish,josserand1983mixtec
+14117,tejo11,cajón,kaxa,NA,126,NA,yes,Spanish,josserand1983mixtec
+10424,tepe11,ardilla,arđiya,NA,62,NA,yes,Spanish,josserand1983mixtec
+10549,tepe12,gato,mi̧lu,NA,69,NA,maybe,NA,josserand1983mixtec
+10551,tepo11,gato,mi̧sto,NA,69,NA,yes,Colonial Spanish,josserand1983mixtec
+9299,tila11,banquito,ṣ̌ila,NA,49,NA,yes,Spanish,josserand1983mixtec
+15546,tila11,fierro,žeřu,NA,145,NA,yes,Spanish,josserand1983mixtec
+10061,tlac11,cucaracha,ŗaki,NA,57,NA,maybe,NA,josserand1983mixtec
+9744,tlal11,rana,sabu,NA,54,NA,yes,Spanish,josserand1983mixtec
+10555,tlal11,gato,(mi̧tu),NA,69,NA,yes,Colonial Spanish,josserand1983mixtec
+11910,tlal11,rastrojo,na̧struxu,NA,93,NA,yes,Spanish,josserand1983mixtec
+13561,tlal11,horno,uřnu,NA,117,NA,yes,Spanish,josserand1983mixtec
+14123,tlal11,cajón,kaxuu,NA,126,NA,yes,Spanish,josserand1983mixtec
+8633,tlaz11,huipil,lusa,NA,42,NA,yes,Spanish,josserand1983mixtec
+10556,tlaz11,gato,mi̧či,NA,69,NA,maybe,NA,josserand1983mixtec
+15549,tlaz11,fierro,xeŗu,NA,145,NA,yes,Spanish,josserand1983mixtec
+20081,tlaz11,cuándo,na̧-oŗe,NA,208,NA,partial,Spanish,josserand1983mixtec
+10430,tona11,ardilla,si-mu̧tu,NA,62,NA,maybe partial,NA,josserand1983mixtec
+9183,toto12,cama,kama,NA,48,NA,yes,Spanish,josserand1983mixtec
+9305,toto12,banquito,siyeta,NA,49,NA,yes,Spanish,josserand1983mixtec
+9747,toto12,rana,rana,NA,54,NA,yes,Spanish,josserand1983mixtec
+10431,toto12,ardilla,si-arđiya,NA,62,NA,partial,Spanish,josserand1983mixtec
+18637,toto12,está cerca,čiɡayo,NA,189,NA,probably,Spanish?,josserand1983mixtec
+19874,toto12,palabra,palabra,NA,205,NA,yes,Spanish,josserand1983mixtec
+9185,xaya11,cama,kama,NA,48,NA,yes,Spanish,josserand1983mixtec
+10433,xaya11,ardilla,si-mu̧tu,NA,62,NA,maybe partial,NA,josserand1983mixtec
+10434,xaya12,ardilla,sì-mū̧tū,NA,62,NA,maybe partial,NA,josserand1983mixtec
+10563,yolo12,gato,(mi̧stu),NA,69,NA,yes,Colonial Spanish,josserand1983mixtec
+15912,yolo12,espuma,pele,NA,150,NA,maybe,NA,josserand1983mixtec
+8565,yoso11,"calzón, pantalón",kalso̧n,NA,41,NA,yes,Spanish,josserand1983mixtec
+15558,yucu11,fierro,žeŗu,NA,145,NA,yes,Spanish,josserand1983mixtec
+9757,yucu13,rana,sapo,NA,54,NA,yes,Spanish,josserand1983mixtec
+10071,yucu13,cucaracha,či-čarra,NA,57,NA,partial,Spanish,josserand1983mixtec
+9316,yucu16,banquito,ƀanku,NA,49,NA,yes,Spanish,josserand1983mixtec
+9195,yuta11,cama,kama,NA,48,NA,yes,Spanish,josserand1983mixtec
+9317,yuta11,banquito,šile,NA,49,NA,yes,Spanish,josserand1983mixtec
+9761,yuta11,rana,ŗa̧na̧,NA,54,NA,yes,Spanish,josserand1983mixtec
+10443,yuta11,ardilla,arđiya,NA,62,NA,yes,Spanish,josserand1983mixtec
+14136,yuta11,cajón,kaxa,NA,126,NA,yes,Spanish,josserand1983mixtec
+15803,yuta11,lodo,lodo,NA,149,NA,yes,Spanish,josserand1983mixtec
+20095,yuta11,cuándo,na̧-ore,NA,208,NA,partial,Spanish,josserand1983mixtec
+14137,yuta12,cajón,kaxa,NA,126,NA,yes,Spanish,josserand1983mixtec
+10573,zaca11,gato,mi̧luʔ,NA,69,NA,maybe,NA,josserand1983mixtec
+12007,zaca11,surco,surku,NA,94,NA,yes,Spanish,josserand1983mixtec
+10446,zapo11,ardilla,ti-arđiya,NA,62,NA,partial,Spanish,josserand1983mixtec
+3269,mont12,gato,{micho},micho,69,from Sp.,yes,Colonial Spanish,oxnard2020
+3282,mont12,cerdo,ndìkochí,ndì-kochí,72,NA,partial,Colonial Spanish,oxnard2020
 3284,tlah11,caballo,kwayì,NA,73,NA,yes,Colonial Spanish,oxnard2020
 3285,pied12,caballo,{kuayì},kuayì,73,NA,yes,Colonial Spanish,oxnard2020
 3286,flor12,caballo,kuayì,NA,73,NA,yes,Colonial Spanish,oxnard2020
 3287,mont12,caballo,kuáyì,NA,73,NA,yes,Colonial Spanish,oxnard2020
 3288,mixt11,caballo,kwa.ìì,NA,73,NA,yes,Colonial Spanish,oxnard2020
-4737,xoch11,caballo,kuái̠,NA,73,NA,yes,Colonial Spanish,stark2013diccionario
-240,yolo11,caballo,kwa⁴yu²,NA,73,NA,yes,Colonial Spanish,amith2020yoloxochitl
-4403,zaca11,caballo,kuayu,NA,73,old Sp. loan,yes,Colonial Spanish,towne2011gramatica
-1047,alac11,horse,kwáyí,NA,73,Sp. caballo,yes,Spanish,zylstra1991syntactic
-790,ayut11,horse,kwēī,NA,73,from Sp. caballo,yes ,Spanish,hills1990syntactic
-1540,copa11,horse,kwa³yo⁴,NA,73,Sp. caballo,yes,Colonial Spanish,hollenbach1992syntactic
-534,ocot11,horse,kwáyu,NA,73,NA,yes,Colonial Spanish,alexander1988syntactic
-660,prog12,horse,kwáyi,NA,73,NA,yes,Colonial Spanish,shields1988syntactic
-1406,yoso11,horse,kwāyū,NA,73,NA,yes,Colonial Spanish,farris1992syntactic
-4738,xoch11,"borrego, oveja",levo,NA,74,NA,maybe,Colonial Spanish,stark2013diccionario
-5276,papa11,pluma,plu²ma¹,NA,77,Sp. loan,yes,Spanish,anderson1983diccionario
-5294,papa11,surco,su²rcu⁴,NA,94,Sp. loan,yes,Spanish,anderson1983diccionario
-4415,zaca11,surco,surku,NA,94,Sp. loan,yes,Spanish,towne2011gramatica
-4039,chay11,chayote,chayote,NA,101,"Sp. loan, examples only",yes,Spanish,pensinger1974diccionario
-6016,chic12,mamey,nato⁴ ro’oj⁵o,nato⁴ ro’oj⁵o,111,banana-red,partial,Spanish,good1978diccionario
-5318,papa11,horno,ho²rno⁴,NA,117,Sp. loan,yes,Spanish,anderson1983diccionario
 3552,pied12,canasta,kanàsta,NA,125,Sp. loan,yes,Spanish,oxnard2020
-1073,alac11,box,káxá,NA,126,Sp. caja,yes,Spanish,zylstra1991syntactic
-4599,alac11,cajón,xato̠n,NA,126,NA,yes,Spanish,zylstra2012gramatica
-5329,papa11,hilo,hi²lu⁴,NA,127,Sp. loan,yes,Spanish,anderson1983diccionario
-5373,papa11,rico,ri²cu⁴,NA,170,Sp. loan,yes,Spanish,anderson1983diccionario
-1281,diux11,money,tviní,NA,203,from Old Sp. tomín,yes,Old Spanish,kuiper1991syntactic
+4737,xoch11,caballo,kuái̠,NA,73,NA,yes,Colonial Spanish,stark2013diccionario
+4738,xoch11,"borrego, oveja",levo,NA,74,NA,maybe,Colonial Spanish,stark2013diccionario
+233,yolo11,conejo,ku³ni⁴jo²,NA,66,from Sp. conejo,yes,Spanish,amith2020yoloxochitl
+234,yolo11,zopilote,pi³lo⁴,NA,67,from Nahuatl tsopi:lo:tl,yes,Nahuatl,amith2020yoloxochitl
+236,yolo11,gato domestico,mis⁴tun²,NA,69,NA,yes,Colonial Spanish,amith2020yoloxochitl
+240,yolo11,caballo,kwa⁴yu²,NA,73,NA,yes,Colonial Spanish,amith2020yoloxochitl
+1364,yoso11,"father!, dad!",papá,NA,4,Sp. loan,yes,Spanish,farris1992syntactic
+1406,yoso11,horse,kwāyū,NA,73,NA,yes,Colonial Spanish,farris1992syntactic
+4400,zaca11,conejo,kunexu,NA,66,Sp. loan,yes,Spanish,towne2011gramatica
+4403,zaca11,caballo,kuayu,NA,73,old Sp. loan,yes,Colonial Spanish,towne2011gramatica
+4415,zaca11,surco,surku,NA,94,Sp. loan,yes,Spanish,towne2011gramatica

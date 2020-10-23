@@ -1,230 +1,230 @@
-IDlist	CATEGORY	GLOSS	VALUE	FORM	ID	NOTES	LOAN	LOAN_SOURCE	DOCULECT	SOURCE
-1	kinship	madre	nnin³		20250				itun12	
-2	kinship	mamá!	nnanj⁴³		20251				itun12	
-3	kinship	padre	che³		20252				itun12	
-4	kinship	papá!	ta³tah⁴		20253				itun12	
-5	kinship	hijo/hija	ta³hninh⁵		20254				itun12	
-6	kinship	hijo	$						itun12	
-7	kinship	hija	$						itun12	
-8	kinship	hermana de hombre	chi³ka⁴hbi⁴³		20255				itun12	
-8	kinship	hermana/hermano de otro genero	chi³ko³hoj³		20256				itun12	
-9	kinship	hermano de hombre	cnanj⁵		20257				itun12	
-10	kinship	hermana de mujer	chu²kwi³hi³²		20258				itun12	
-11	kinship	tía	tu³hbih⁴		20259				itun12	
-12	kinship	tío	ta⁴hnu⁴		20260				itun12	
-13	person	hombre, persona	sinj⁵		20261				itun12	
-13	person	hombre	si⁴sno⁴³		20262				itun12	
-14	person	mujer	yu³hunj³		20263				itun12	
-15	person	dueño	chi³kih³		20264				itun12	
-15	person	dueño, persona que posee una cosa	si³hyaj³		20265				itun12	
-16	person	sacerdote	chej³ sno³ho³²		20266				itun12	
-17	body	sangre	ttun³		20267				itun12	
-18	body	hueso	kuj⁵		20268				itun12	
-19	body	pelo	bbe⁴		20269				itun12	
-20	body	cara	rian³²		20270				itun12	
-21	body	lengua	ya³²		20271				itun12	
-22	body	diente	yanh¹		20272				itun12	
-23	body	boca	tu³hba³		20273				itun12	
-24	body	oreja	cha³kij³		20274				itun12	
-25	body	nariz	ta³kinj⁵		20275				itun12	
-26	body	cuello	cha⁴		20276				itun12	
-27	body	mano	ra³ha³		20277				itun12	
-28	body	uña, garra	stin⁴		20278				itun12	
-29	body	espalda	chi³raj⁵		20279				itun12	
-30	body	panza, barriga	ri³ki³		20280				itun12	
-31	body	tripas, intestinos	chi³rih³		20281				itun12	
-32	body	pie	ta³koj⁵		20282				itun12	
-33	body	enfermedad	chi³hi¹		20283				itun12	
-34	body	medicina	ko³no³ho⁴		20284				itun12	
-35	body	hinchazón	$						itun12	
-36	body	grano del piel	nduj³		20285				itun12	
-36	body	grano, semilla	kkan³²		20286				itun12	
-37	body	pus, materia	kkwej³		20287				itun12	
-38	body	orina	nne³² ri¹hi¹		20288	water-urinate			itun12	
-39	clothing	tela, ropa	a⁴sij³		20289				itun12	
-40	clothing	huarache	kkanj³		20290				itun12	
-41	clothing	pantalones	chi³roj²		20291				itun12	
-42	clothing	huipil	chru³hnuhn⁴		20292				itun12	
-43	living	pueblo, origen	chi³yanj⁵		20293				itun12	
-43		pueblo	chu³manh³		20294				itun12	
-44	living	casa	beh³		20295				itun12	
-45	living	camino	cchej³²		20296				itun12	
-46	living	horcón	tu³kwa⁴hanj⁴		20297				itun12	
-47	living	petate	bbej⁵		20298				itun12	
-48	living	cama	nna³		20299				itun12	
-49	living	silla	chrun³ chi⁴la⁴³		20300	wood-seat	partial	Spanish	itun12	
-50	animal	animal	chu³ku³		20301				itun12	
-51	animal	pájaro	cha³taj²		20302				itun12	
-52	animal	pescado	chu³kwaj²		20303				itun12	
-53	animal	culebra	chu³kwaj⁵		20304				itun12	
-54	animal	rana	kwa³hlah³		20305				itun12	
-55	animal	gavilán	chi³nunh³		20306				itun12	
-56	animal	alacrán	chi³kin³²		20307				itun12	
-57	animal	cucaracha	chi²ra³kin³		20308				itun12	
-58	animal	chapulín	chi³ri³kij⁵		20309				itun12	
-59	animal	abeja	chu³taj³		20310				itun12	
-60	animal	ratón	chu³tu³²		20311				itun12	
-60	animal	rata	sma³te³he³		20312				itun12	
-61	animal	venado	chu³taj³		20313				itun12	
-62	animal	ardilla	chu³ba⁴		20314				itun12	
-63	animal	zorrillo	chu³hman³		20315				itun12	
-64	animal	tlacuache	cna⁴kinj⁴		20316				itun12	
-65	animal	mapache	kwi⁴yuj⁴		20317				itun12	
-66	animal	conejo	cha³to³		20318				itun12	
-67	animal	zopilote	lo³ti³		20319				itun12	
-68	animal	perro	chu³be³		20320				itun12	
-69	animal	gato	chi³lu³		20321				itun12	
-70	animal	gallo	to³hlo³		20322				itun12	
-71	animal	gallina, pollo	chu³che³²		20323				itun12	
-72	animal	marrano	cha³kaj⁵		20324				itun12	
-73	animal	caballo	kwa⁴yu⁴³		20325		yes	Colonial Spanish	itun12	
-74	animal	borrego	cha³chij²		20326				itun12	
-75	animal	hormiga	chu³kwa³		20327				itun12	
-76	animal	cuerno, hueso, botón	kuj⁵		20328				itun12	
-77	animal	pluma, metate	tto³²		20329				itun12	
-78	animal	ala, hombro	chi³koj⁵		20330				itun12	
-79	animal	cola	tu³neh³		20331				itun12	
-80	plant	árbol, palo	chrun³		20332				itun12	
-81	plant	hierba, hoja	kkoj³		20333				itun12	
-82	plant	zacate de milpa que ya está cortada y guardada	ki³hyo¹		20334				itun12	
-82	plant	pasto	cchrinh³		20335				itun12	
-83	plant	flor, color	yyaj³²		20336				itun12	
-84	plant	maguey	bbe³²		20337				itun12	
-85	plant	raíz, cuerda, cable, vena	ya³ha³²		20338				itun12	
-86	plant	espina de cacto	ni³hyo⁴		20339				itun12	
-86	plant	espina (de planta)	ttanj³		20340				itun12	
-87	corn	maíz en grano	hninj⁵		20341				itun12	
-88	corn	milpa	nna³¹		20342				itun12	
-89	corn	elote	nna³¹ kkoj²		20343	milpa+?			itun12	
-89	corn	elote	tsi³²		20344				itun12	
-90	corn	nixtamal	$						itun12	
-91	corn	masa, pozole rojo	kkanh³		20345				itun12	
-91	corn	masa	kkij²		20346				itun12	
-92	corn	tortilla	cchra³		20347				itun12	
-93	corn	rastrojo	$						itun12	
-94	corn	surco de la milpa	tu³kwanj⁵		20348				itun12	
-94		surco, barranco	chi³nej⁵		20349				itun12	
-95	corn	espiga (de milpa)	kka³²		20350				itun12	
-96	food	frijol(es)	ru³ne³²		20351				itun12	
-97	food	ejote	ne³tan³		20352				itun12	
-98	food	chile	ya³haj³		20353				itun12	
-99	food	sal	yan³²		20354				itun12	
-100	food	calabaza	kkan³		20355				itun12	
-101	food	chayote	ni³tin³²		20356				itun12	
-102	food	caña	yo³²		20357				itun12	
-103	food	miel	ka³tsih³		20358				itun12	
-104	food	manteca	cna³min³²		20359				itun12	
-105	food	huevo	cchruj³		20360				itun12	
-106	food	jitomate	na³sin³		20361				itun12	
-106		tomate	ri³nij²		20362				itun12	
-107	food	camote	mmi³²		20363				itun12	
-108	food	aguacate	ru⁴ne⁴³		20364				itun12	
-109	food	plátano	na³to³²		20365				itun12	
-110	food	nopal	ti³ni³²		20366				itun12	
-111	food	mamey	na³to³² ro¹hoj¹		20367	banana-?			itun12	
-111		zapote, anona	re³ko³²		20368				itun12	
-112	food	chirimoya	$						itun12	
-113	food	hongo	ra³han³		20369				itun12	
-114	food	carne	nne³¹		20370				itun12	
-115	cooking	comal	cho³²		20371				itun12	
-116	cooking	olla	chruj³		20372				itun12	
-117	cooking	horno, caja	chrunj⁵		20373	same as 126			itun12	
-118	cooking	fuego, luz	ya³han³²		20374				itun12	
-119	cooking	ceniza	yyaj³		20375				itun12	
-120	cooking	carbón	ru³hbhih³		20376				itun12	
-121	cooking	humo	ka³seh³		20377				itun12	
-122	cooking	basura	ya³ko¹		20378				itun12	
-123	cooking	plato	ko³ho³		20379				itun12	
-124	container	jícara	a³ruh³		20380				itun12	
-124		jícara, cucharón	ya³tu¹		20381				itun12	
-125	container	canasta	chu³ku⁴ti⁴³		20382				itun12	
-125	container	tenate	yo⁴		20383				itun12	
-126	container	caja	chrunj⁵		20384	same as 117			itun12	
-127	thing	hilo	yu³hbej³		20385				itun12	
-128	thing	peine	$						itun12	
-129	thing	mecate	nneh³		20386				itun12	
-130	thing	agujero, hoyo	yu³huj²		20387				itun12	
-131	thing	red	$						itun12	
-132	thing	jabón	mmih³		20388				itun12	
-133	thing	anillo	se³hej²		20389				itun12	
-134	nature	luna, mes	ya³bi³²		20390				itun12	
-135	nature	nube	nga³		20391				itun12	
-136	nature	rayo, relámpago	tu⁴hbej⁴		20392				itun12	
-137	nature	agua	nne³²		20393				itun12	
-138	nature	lluvia	ku³man¹		20394				itun12	
-139	nature	río	chi³nej⁵ nne³²		20395	surco-agua			itun12	
-140	nature	rocío	$						itun12	
-141	nature	cerro, monte	kkij²		20396	only in compounds			itun12	
-142	nature	llano, loma	ta³kanj³		20397				itun12	
-143	nature	piedra	yyej¹		20398				itun12	
-144	material	algodón, esponja	ka³chij²		20399				itun12	
-145	material	fierro, botella	ka³gah³		20400				itun12	
-146	material	papel	yanj⁴		20401				itun12	
-147	material	cal	na³hanj³		20402				itun12	
-148	material	cera	yanj⁴		20403				itun12	
-149	material	lodo	si³keh³		20404				itun12	
-150	material	espuma	ya³tanh³		20405				itun12	
-151	material	polvo (de cualquiera sustancia)	ni³nanj³		20406				itun12	
-152	color	rojo	ma²re³		20407				itun12	
-153	color	verde	ma²re³¹		20408				itun12	
-154	color	amarillo	ma²yaj³²		20409				itun12	
-155	color	negro	ma²ru³¹		20410				itun12	
-156	color	blanco	ka¹si¹		20411				itun12	
-157	number	uno	ngo²		20412				itun12	
-158	number	dos	bbij¹		20413				itun12	
-159	number	tres	ba¹hninj¹		20414				itun12	
-160	number	cuatro	ka¹hanj³		20415				itun12	
-161	number	cinco	u²hunh²		20416				itun12	
-162	number	seis	ba¹tanh¹		20417				itun12	
-163	number	siete	cchij²		20418				itun12	
-164	number	ocho	ttunj²		20419				itun12	
-165	number	nueve	un²		20420				itun12	
-166	number	diez	cchih²		20421				itun12	
-167	number	quince	chi²nunh²		20422				itun12	
-168	number	veinte	ko²		20423				itun12	
-169	property	pobre	la³hbi³		20424				itun12	
-169	property	pobre	ni²ki³		20425				itun12	
-169	property	pobre (al respecto de su carácter o su vestida)	ya¹ko³		20426				itun12	
-170	property	rico	chu²ru³hbe³²		20427				itun12	
-171	property	tener frío	nu²bij³		20428	verb?			itun12	
-172	property	estar caliente	ya²han³		20429	verb?			itun12	
-173	property	grande	xi³		20430				itun12	
-174	property	grande.PL	$						itun12	
-175	property	pequeño, chiquito	li⁴³		20431				itun12	
-176	property	pequeño.PL, chico.PL	$						itun12	
-177	property	ser largo	che¹che¹		20432	verb?			itun12	
-178	property	largo.PL	$						itun12	
-179	property	bueno, limpio	sah¹		20433				itun12	
-180	property	dulce	tsih¹		20434				itun12	
-181	property	ser salado	hnih¹		20435	adjective			itun12	
-182	property	amargo	ya¹ih¹		20436				itun12	
-183	property	sabroso	taj²		20437				itun12	
-184	property	ancho	ka¹ra¹		20438				itun12	
-185	property	nuevo	na¹ka¹		20439				itun12	
-186	property	ser flojo	ru¹mi¹		20440	verb?			itun12	
-187	property	feo, mal hecho	tu²kwe³nta³²		20441				itun12	
-188	property	celoso	chi²ko³koj²		20442				itun12	
-189	property	cerca (de eventos, no de cosas)	ni³chunh³		20443				itun12	
-189		cerca	ni¹chrunh¹		20444				itun12	
-190	property	lejos	kanh²³		20445				itun12	
-190		lejado, lejos	a⁴nej⁴		20446				itun12	
-191	property	ser pesado	ya¹hyi¹		20447	adjective			itun12	
-192	property	crudo (de verduras)	hbi¹		20448				itun12	
-193	property	liso, pulido	nu²hbi³		20449				itun12	
-194	property	despacio	nnaj²		20450				itun12	
-195	time	ayer	ku³ki³		20451				itun12	
-196	time	año	$						itun12	
-197	time	ahora	a³kwa⁴hni⁴³		20452				itun12	
-198	time	noche	ni³¹		20453				itun12	
-199	time	toda la noche	ni²kanh²		20454				itun12	
-200	time	día, sol	kwi³		20455				itun12	
-201	time	de día	ku³ni³hyanj⁴		20456				itun12	
-201		de día	kwi³ni³hyanj²		20457				itun12	
-202	abstract	mitad	ta²haj²		20458				itun12	
-203	abstract	dinero	sa³hanj²		20459				itun12	
-204	abstract	trabajo	sun³²		20460				itun12	
-205	abstract	idioma	sna⁴hanj⁴		20461				itun12	
-206	abstract	pecado	si³sah¹		20462				itun12	
-207	abstract	sueño	nnej³		20463				itun12	
-208	abstract	cuándo	a²man²		20464				itun12	
-209	abstract	música	chah³		20465				itun12	
+IDlist	GLOSS	VALUE	FORM	ID	NOTES	LOAN	LOAN_SOURCE	DOCULECT	SOURCE
+1	madre	nnin³		20250				itun12	
+2	mamá!	nnanj⁴³		20251				itun12	
+3	padre	che³		20252				itun12	
+4	papá!	ta³tah⁴		20253				itun12	
+5	hijo/hija	ta³hninh⁵		20254				itun12	
+6	hijo	$						itun12	
+7	hija	$						itun12	
+8	hermana de hombre	chi³ka⁴hbi⁴³		20255				itun12	
+8	hermana/hermano de otro genero	chi³ko³hoj³		20256				itun12	
+9	hermano de hombre	cnanj⁵		20257				itun12	
+10	hermana de mujer	chu²kwi³hi³²		20258				itun12	
+11	tía	tu³hbih⁴		20259				itun12	
+12	tío	ta⁴hnu⁴		20260				itun12	
+13	hombre, persona	sinj⁵		20261				itun12	
+13	hombre	si⁴sno⁴³		20262				itun12	
+14	mujer	yu³hunj³		20263				itun12	
+15	dueño	chi³kih³		20264				itun12	
+15	dueño, persona que posee una cosa	si³hyaj³		20265				itun12	
+16	sacerdote	chej³ sno³ho³²		20266				itun12	
+17	sangre	ttun³		20267				itun12	
+18	hueso	kuj⁵		20268				itun12	
+19	pelo	bbe⁴		20269				itun12	
+20	cara	rian³²		20270				itun12	
+21	lengua	ya³²		20271				itun12	
+22	diente	yanh¹		20272				itun12	
+23	boca	tu³hba³		20273				itun12	
+24	oreja	cha³kij³		20274				itun12	
+25	nariz	ta³kinj⁵		20275				itun12	
+26	cuello	cha⁴		20276				itun12	
+27	mano	ra³ha³		20277				itun12	
+28	uña, garra	stin⁴		20278				itun12	
+29	espalda	chi³raj⁵		20279				itun12	
+30	panza, barriga	ri³ki³		20280				itun12	
+31	tripas, intestinos	chi³rih³		20281				itun12	
+32	pie	ta³koj⁵		20282				itun12	
+33	enfermedad	chi³hi¹		20283				itun12	
+34	medicina	ko³no³ho⁴		20284				itun12	
+35	hinchazón	$						itun12	
+36	grano del piel	nduj³		20285				itun12	
+36	grano, semilla	kkan³²		20286				itun12	
+37	pus, materia	kkwej³		20287				itun12	
+38	orina	nne³² ri¹hi¹		20288	water-urinate			itun12	
+39	tela, ropa	a⁴sij³		20289				itun12	
+40	huarache	kkanj³		20290				itun12	
+41	pantalones	chi³roj²		20291				itun12	
+42	huipil	chru³hnuhn⁴		20292				itun12	
+43	pueblo, origen	chi³yanj⁵		20293				itun12	
+43	pueblo	chu³manh³		20294				itun12	
+44	casa	beh³		20295				itun12	
+45	camino	cchej³²		20296				itun12	
+46	horcón	tu³kwa⁴hanj⁴		20297				itun12	
+47	petate	bbej⁵		20298				itun12	
+48	cama	nna³		20299				itun12	
+49	silla	chrun³ chi⁴la⁴³		20300	wood-seat	partial	Spanish	itun12	
+50	animal	chu³ku³		20301				itun12	
+51	pájaro	cha³taj²		20302				itun12	
+52	pescado	chu³kwaj²		20303				itun12	
+53	culebra	chu³kwaj⁵		20304				itun12	
+54	rana	kwa³hlah³		20305				itun12	
+55	gavilán	chi³nunh³		20306				itun12	
+56	alacrán	chi³kin³²		20307				itun12	
+57	cucaracha	chi²ra³kin³		20308				itun12	
+58	chapulín	chi³ri³kij⁵		20309				itun12	
+59	abeja	chu³taj³		20310				itun12	
+60	ratón	chu³tu³²		20311				itun12	
+60	rata	sma³te³he³		20312				itun12	
+61	venado	chu³taj³		20313				itun12	
+62	ardilla	chu³ba⁴		20314				itun12	
+63	zorrillo	chu³hman³		20315				itun12	
+64	tlacuache	cna⁴kinj⁴		20316				itun12	
+65	mapache	kwi⁴yuj⁴		20317				itun12	
+66	conejo	cha³to³		20318				itun12	
+67	zopilote	lo³ti³		20319				itun12	
+68	perro	chu³be³		20320				itun12	
+69	gato	chi³lu³		20321				itun12	
+70	gallo	to³hlo³		20322				itun12	
+71	gallina, pollo	chu³che³²		20323				itun12	
+72	marrano	cha³kaj⁵		20324				itun12	
+73	caballo	kwa⁴yu⁴³		20325		yes	Colonial Spanish	itun12	
+74	borrego	cha³chij²		20326				itun12	
+75	hormiga	chu³kwa³		20327				itun12	
+76	cuerno, hueso, botón	kuj⁵		20328				itun12	
+77	pluma, metate	tto³²		20329				itun12	
+78	ala, hombro	chi³koj⁵		20330				itun12	
+79	cola	tu³neh³		20331				itun12	
+80	árbol, palo	chrun³		20332				itun12	
+81	hierba, hoja	kkoj³		20333				itun12	
+82	zacate de milpa que ya está cortada y guardada	ki³hyo¹		20334				itun12	
+82	pasto	cchrinh³		20335				itun12	
+83	flor, color	yyaj³²		20336				itun12	
+84	maguey	bbe³²		20337				itun12	
+85	raíz, cuerda, cable, vena	ya³ha³²		20338				itun12	
+86	espina de cacto	ni³hyo⁴		20339				itun12	
+86	espina (de planta)	ttanj³		20340				itun12	
+87	maíz en grano	hninj⁵		20341				itun12	
+88	milpa	nna³¹		20342				itun12	
+89	elote	nna³¹ kkoj²		20343	milpa+?			itun12	
+89	elote	tsi³²		20344				itun12	
+90	nixtamal	$						itun12	
+91	masa, pozole rojo	kkanh³		20345				itun12	
+91	masa	kkij²		20346				itun12	
+92	tortilla	cchra³		20347				itun12	
+93	rastrojo	$						itun12	
+94	surco de la milpa	tu³kwanj⁵		20348				itun12	
+94	surco, barranco	chi³nej⁵		20349				itun12	
+95	espiga (de milpa)	kka³²		20350				itun12	
+96	frijol(es)	ru³ne³²		20351				itun12	
+97	ejote	ne³tan³		20352				itun12	
+98	chile	ya³haj³		20353				itun12	
+99	sal	yan³²		20354				itun12	
+100	calabaza	kkan³		20355				itun12	
+101	chayote	ni³tin³²		20356				itun12	
+102	caña	yo³²		20357				itun12	
+103	miel	ka³tsih³		20358				itun12	
+104	manteca	cna³min³²		20359				itun12	
+105	huevo	cchruj³		20360				itun12	
+106	jitomate	na³sin³		20361				itun12	
+106	tomate	ri³nij²		20362				itun12	
+107	camote	mmi³²		20363				itun12	
+108	aguacate	ru⁴ne⁴³		20364				itun12	
+109	plátano	na³to³²		20365				itun12	
+110	nopal	ti³ni³²		20366				itun12	
+111	mamey	na³to³² ro¹hoj¹		20367	banana-?			itun12	
+111	zapote, anona	re³ko³²		20368				itun12	
+112	chirimoya	$						itun12	
+113	hongo	ra³han³		20369				itun12	
+114	carne	nne³¹		20370				itun12	
+115	comal	cho³²		20371				itun12	
+116	olla	chruj³		20372				itun12	
+117	horno, caja	chrunj⁵		20373	same as 126			itun12	
+118	fuego, luz	ya³han³²		20374				itun12	
+119	ceniza	yyaj³		20375				itun12	
+120	carbón	ru³hbhih³		20376				itun12	
+121	humo	ka³seh³		20377				itun12	
+122	basura	ya³ko¹		20378				itun12	
+123	plato	ko³ho³		20379				itun12	
+124	jícara	a³ruh³		20380				itun12	
+124	jícara, cucharón	ya³tu¹		20381				itun12	
+125	canasta	chu³ku⁴ti⁴³		20382				itun12	
+125	tenate	yo⁴		20383				itun12	
+126	caja	chrunj⁵		20384	same as 117			itun12	
+127	hilo	yu³hbej³		20385				itun12	
+128	peine	$						itun12	
+129	mecate	nneh³		20386				itun12	
+130	agujero, hoyo	yu³huj²		20387				itun12	
+131	red	$						itun12	
+132	jabón	mmih³		20388				itun12	
+133	anillo	se³hej²		20389				itun12	
+134	luna, mes	ya³bi³²		20390				itun12	
+135	nube	nga³		20391				itun12	
+136	rayo, relámpago	tu⁴hbej⁴		20392				itun12	
+137	agua	nne³²		20393				itun12	
+138	lluvia	ku³man¹		20394				itun12	
+139	río	chi³nej⁵ nne³²		20395	surco-agua			itun12	
+140	rocío	$						itun12	
+141	cerro, monte	kkij²		20396	only in compounds			itun12	
+142	llano, loma	ta³kanj³		20397				itun12	
+143	piedra	yyej¹		20398				itun12	
+144	algodón, esponja	ka³chij²		20399				itun12	
+145	fierro, botella	ka³gah³		20400				itun12	
+146	papel	yanj⁴		20401				itun12	
+147	cal	na³hanj³		20402				itun12	
+148	cera	yanj⁴		20403				itun12	
+149	lodo	si³keh³		20404				itun12	
+150	espuma	ya³tanh³		20405				itun12	
+151	polvo (de cualquiera sustancia)	ni³nanj³		20406				itun12	
+152	rojo	ma²re³		20407				itun12	
+153	verde	ma²re³¹		20408				itun12	
+154	amarillo	ma²yaj³²		20409				itun12	
+155	negro	ma²ru³¹		20410				itun12	
+156	blanco	ka¹si¹		20411				itun12	
+157	uno	ngo²		20412				itun12	
+158	dos	bbij¹		20413				itun12	
+159	tres	ba¹hninj¹		20414				itun12	
+160	cuatro	ka¹hanj³		20415				itun12	
+161	cinco	u²hunh²		20416				itun12	
+162	seis	ba¹tanh¹		20417				itun12	
+163	siete	cchij²		20418				itun12	
+164	ocho	ttunj²		20419				itun12	
+165	nueve	un²		20420				itun12	
+166	diez	cchih²		20421				itun12	
+167	quince	chi²nunh²		20422				itun12	
+168	veinte	ko²		20423				itun12	
+169	pobre	la³hbi³		20424				itun12	
+169	pobre	ni²ki³		20425				itun12	
+169	pobre (al respecto de su carácter o su vestida)	ya¹ko³		20426				itun12	
+170	rico	chu²ru³hbe³²		20427				itun12	
+171	tener frío	nu²bij³		20428	verb?			itun12	
+172	estar caliente	ya²han³		20429	verb?			itun12	
+173	grande	xi³		20430				itun12	
+174	grande.PL	$						itun12	
+175	pequeño, chiquito	li⁴³		20431				itun12	
+176	pequeño.PL, chico.PL	$						itun12	
+177	ser largo	che¹che¹		20432	verb?			itun12	
+178	largo.PL	$						itun12	
+179	bueno, limpio	sah¹		20433				itun12	
+180	dulce	tsih¹		20434				itun12	
+181	ser salado	hnih¹		20435	adjective			itun12	
+182	amargo	ya¹ih¹		20436				itun12	
+183	sabroso	taj²		20437				itun12	
+184	ancho	ka¹ra¹		20438				itun12	
+185	nuevo	na¹ka¹		20439				itun12	
+186	ser flojo	ru¹mi¹		20440	verb?			itun12	
+187	feo, mal hecho	tu²kwe³nta³²		20441				itun12	
+188	celoso	chi²ko³koj²		20442				itun12	
+189	cerca (de eventos, no de cosas)	ni³chunh³		20443				itun12	
+189	cerca	ni¹chrunh¹		20444				itun12	
+190	lejos	kanh²³		20445				itun12	
+190	lejado, lejos	a⁴nej⁴		20446				itun12	
+191	ser pesado	ya¹hyi¹		20447	adjective			itun12	
+192	crudo (de verduras)	hbi¹		20448				itun12	
+193	liso, pulido	nu²hbi³		20449				itun12	
+194	despacio	nnaj²		20450				itun12	
+195	ayer	ku³ki³		20451				itun12	
+196	año	$						itun12	
+197	ahora	a³kwa⁴hni⁴³		20452				itun12	
+198	noche	ni³¹		20453				itun12	
+199	toda la noche	ni²kanh²		20454				itun12	
+200	día, sol	kwi³		20455				itun12	
+201	de día	ku³ni³hyanj⁴		20456				itun12	
+201	de día	kwi³ni³hyanj²		20457				itun12	
+202	mitad	ta²haj²		20458				itun12	
+203	dinero	sa³hanj²		20459				itun12	
+204	trabajo	sun³²		20460				itun12	
+205	idioma	sna⁴hanj⁴		20461				itun12	
+206	pecado	si³sah¹		20462				itun12	
+207	sueño	nnej³		20463				itun12	
+208	cuándo	a²man²		20464				itun12	
+209	música	chah³		20465				itun12	
