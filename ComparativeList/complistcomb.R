@@ -110,18 +110,18 @@ max(wl3$ID, na.rm = TRUE)
 # 20465
 
 
-### export single sheets for Josserand orthography profiles
+### export single sheets for orthography profiles
 # make named list
 group_names <- wl3 %>% group_keys(DOCULECT) %>% pull(1)
-jossp <- wl3 %>% group_split(DOCULECT) %>% set_names(group_names)
+docugroups <- wl3 %>% group_split(DOCULECT) %>% set_names(group_names)
 # solution from here: https://martinctc.github.io/blog/vignette-write-and-read-multiple-excel-files-with-purrr/
 # Step 1
 # Define a function for exporting csv with the desired file names and into the right path
-josserand_tsv <- function(data, names){ 
-  folder_path <- "/Users/auderset/Documents/GitHub/mixteca/Digitalization/Josserand1983/"
-  write_tsv(data, paste0(folder_path, "profile-", names, ".tsv"))
+profiles_tsv <- function(data, names){ 
+  folder_path <- "/Users/auderset/Documents/GitHub/mixteca/ComparativeList/ProfileLists/"
+  write_tsv(data, paste0(folder_path, "profile-basis-", names, ".tsv"))
 }
 # Step 2
-list(data = jossp,
-     names = names(jossp)) %>% pmap(josserand_tsv) 
+list(data = docugroups,
+     names = names(docugroups)) %>% pmap(profiles_tsv) 
 
