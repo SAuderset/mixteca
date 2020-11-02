@@ -107,7 +107,7 @@ write_tsv(wl3, "/Users/auderset/Documents/GitHub/mixteca/ComparativeList/mixt_co
 
 # to know where to continue IDs
 max(wl3$ID, na.rm = TRUE)
-# 20465
+# 20099
 
 
 ### export single sheets for orthography profiles
