@@ -31,6 +31,13 @@ ID,DOCULECT,GLOSS,VALUE,FORM,IDlist,NOTES,LOAN,LOAN_SOURCE,SOURCE
 1174,diux11,chair,siyá,NA,49,Sp. silla,yes,Spanish,kuiper1991syntactic
 1183,diux11,rabbit,konexó,NA,66,Sp. conejo,yes,Spanish,kuiper1991syntactic
 1281,diux11,money,tviní,NA,203,from Old Sp. tomín,yes,Old Spanish,kuiper1991syntactic
+20103,dura11,papá!,tátá,NA,4,NA,yes,Spanish,hernandez2020san-martin
+20161,dura11,tlacuache,lánko,NA,64,NA,maybe,NA,hernandez2020san-martin
+20163,dura11,conejo,leso,NA,66,NA,yes,Colonial Spanish,hernandez2020san-martin
+20164,dura11,zopilote,lònchi,NA,67,NA,yes,Nahuatl (not sure),hernandez2020san-martin
+20169,dura11,"marrano, puerco, cerdo",kóchí,NA,72,NA,yes,Spanish,hernandez2020san-martin
+20170,dura11,caballo,kuéì,NA,73,NA,yes,Colonial Spanish,hernandez2020san-martin
+20362,huen11,caballo,kuáyú,NA,73,NA,yes,Colonial Spanish,becerra-roldan2015un-estudio
 20300,itun12,silla,chrun³ chi⁴la⁴³,NA,49,wood-seat,partial,Spanish,NA
 20325,itun12,caballo,kwa⁴yu⁴³,NA,73,NA,yes,Colonial Spanish,NA
 408,jami11,rabbit,kūñēshú,NA,66,Sp. conejo,yes,Spanish,johnson1988syntactic
@@ -245,6 +252,17 @@ ID,DOCULECT,GLOSS,VALUE,FORM,IDlist,NOTES,LOAN,LOAN_SOURCE,SOURCE
 240,yolo11,caballo,kwa⁴yu²,NA,73,NA,yes,Colonial Spanish,amith2020yoloxochitl
 1364,yoso11,"father!, dad!",papá,NA,4,Sp. loan,yes,Spanish,farris1992syntactic
 1406,yoso11,horse,kwāyū,NA,73,NA,yes,Colonial Spanish,farris1992syntactic
+20507,yoso14,caballo,kuai,NA,73,NA,yes,Colonial Spanish,gittlen2016gramatica
+20585,yucu17,"mother!, mom!",máá,NA,2,NA,yes,Spanish,salazar2020yucunani
+20586,yucu17,father,tatà,NA,3,NA,yes,Spanish,salazar2020yucunani
+20587,yucu17,"father!, dad!",páá,NA,4,NA,yes,Spanish,salazar2020yucunani
+20620,yucu17,cloth,télà,NA,39,NA,yes,Spanish,salazar2020yucunani
+20649,yucu17,vulture,lóchí,NA,67,NA,yes,Nahuatl,salazar2020yucunani
+20655,yucu17,horse,kuáì,NA,73,NA,yes,Colonial Spanish,salazar2020yucunani
+20826,yuta13,silla,sillá,NA,49,NA,yes,Spanish,williams2017diccionario
+20856,yuta13,"marrano, puerco, cerdo",kochí,NA,72,NA,yes,Spanish,williams2017diccionario
+20857,yuta13,caballo,kuéi̠,NA,73,NA,yes,Colonial Spanish,williams2017diccionario
+20914,yuta13,hilo,yi’o̠,NA,127,NA,yes,Spanish,williams2017diccionario
 4400,zaca11,conejo,kunexu,NA,66,Sp. loan,yes,Spanish,towne2011gramatica
 4403,zaca11,caballo,kuayu,NA,73,old Sp. loan,yes,Colonial Spanish,towne2011gramatica
 4415,zaca11,surco,surku,NA,94,Sp. loan,yes,Spanish,towne2011gramatica

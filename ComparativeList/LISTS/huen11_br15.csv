@@ -1,0 +1,211 @@
+IDlist	CATEGORY	GLOSS	VALUE	FORM	ID	NOTES	LOAN	LOAN_SOURCE	DOCULECT	SOURCE
+1	kinship	madre	$						huen11	becerra-roldan2015un-estudio
+2	kinship	mamá!	$						huen11	becerra-roldan2015un-estudio
+3	kinship	padre	$						huen11	becerra-roldan2015un-estudio
+4	kinship	papá!	$						huen11	becerra-roldan2015un-estudio
+5	kinship	hijo/hija	sé’e		20313				huen11	becerra-roldan2015un-estudio
+6	kinship	hijo	$						huen11	becerra-roldan2015un-estudio
+7	kinship	hija	$						huen11	becerra-roldan2015un-estudio
+8	kinship	hermana/hermano de otro genero	$						huen11	becerra-roldan2015un-estudio
+9	kinship	hermano de hombre	ñánì		20314				huen11	becerra-roldan2015un-estudio
+10	kinship	hermana de mujer	$						huen11	becerra-roldan2015un-estudio
+11	kinship	tía	xixi		20315	tones not marked!			huen11	becerra-roldan2015un-estudio
+12	kinship	tío	xítò		20316				huen11	becerra-roldan2015un-estudio
+13	person	hombre	tee		20317				huen11	becerra-roldan2015un-estudio
+14	person	mujer	ja’àn		20318				huen11	becerra-roldan2015un-estudio
+15	person	dueño	jìì tó’ò		20319				huen11	becerra-roldan2015un-estudio
+16	person	sacerdote	sútù		20320				huen11	becerra-roldan2015un-estudio
+17	body	sangre	níñi		20321				huen11	becerra-roldan2015un-estudio
+18	body	hueso	yíkì		20322				huen11	becerra-roldan2015un-estudio
+19	body	pelo	$						huen11	becerra-roldan2015un-estudio
+20	body	cara	nùù		20323				huen11	becerra-roldan2015un-estudio
+21	body	lengua	yaa		20324				huen11	becerra-roldan2015un-estudio
+22	body	diente	nú’ù		20325				huen11	becerra-roldan2015un-estudio
+23	body	boca	yú’ù		20326				huen11	becerra-roldan2015un-estudio
+24	body	oreja	só’o		20327				huen11	becerra-roldan2015un-estudio
+25	body	nariz	xitnìn		20328				huen11	becerra-roldan2015un-estudio
+26	body	cuello	súkùn		20329				huen11	becerra-roldan2015un-estudio
+27	body	mano	ndá’à		20330				huen11	becerra-roldan2015un-estudio
+28	body	uña	tníín		20331				huen11	becerra-roldan2015un-estudio
+29	body	espalda	xàta		20332				huen11	becerra-roldan2015un-estudio
+30	body	panza, barriga	$						huen11	becerra-roldan2015un-estudio
+31	body	tripa, tripas	xítì		20333				huen11	becerra-roldan2015un-estudio
+32	body	pie	xa’à		20334				huen11	becerra-roldan2015un-estudio
+33	body	enfermedad	kué’e		20335				huen11	becerra-roldan2015un-estudio
+34	body	medicina	$						huen11	becerra-roldan2015un-estudio
+35	body	hinchazón	kuíñu		20336				huen11	becerra-roldan2015un-estudio
+36	body	grano	ndí’yì		20337				huen11	becerra-roldan2015un-estudio
+37	body	pus, materia	ndakuà		20338				huen11	becerra-roldan2015un-estudio
+38	body	orina	ndùtè xéxe		20339	water-pee			huen11	becerra-roldan2015un-estudio
+39	clothing	tela, ropa	$						huen11	becerra-roldan2015un-estudio
+40	clothing	huarache	$						huen11	becerra-roldan2015un-estudio
+41	clothing	pantalón	$						huen11	becerra-roldan2015un-estudio
+42	clothing	huipil	$						huen11	becerra-roldan2015un-estudio
+43	living	pueblo	ñúu		20340				huen11	becerra-roldan2015un-estudio
+44	living	casa	vé’e		20341				huen11	becerra-roldan2015un-estudio
+45	living	camino	$						huen11	becerra-roldan2015un-estudio
+46	living	horcón	sí’ìn		20342				huen11	becerra-roldan2015un-estudio
+47	living	petate	yùú		20343				huen11	becerra-roldan2015un-estudio
+48	living	cama, lecho	xítò		20344				huen11	becerra-roldan2015un-estudio
+49	living	banquito	téyù		20345				huen11	becerra-roldan2015un-estudio
+50	animal	animal	kítì		20346				huen11	becerra-roldan2015un-estudio
+51	animal	pájaro	tì saa		20347				huen11	becerra-roldan2015un-estudio
+52	animal	pez, pescado	$						huen11	becerra-roldan2015un-estudio
+53	animal	culebra, serpiente	koo		20348				huen11	becerra-roldan2015un-estudio
+54	animal	rana	sa’va		20349	tones not marked			huen11	becerra-roldan2015un-estudio
+55	animal	gavilán	xí’ñà		20350				huen11	becerra-roldan2015un-estudio
+56	animal	alacrán	ti sú’mà		20351				huen11	becerra-roldan2015un-estudio
+57	animal	cucaracha	ti té’a		20352				huen11	becerra-roldan2015un-estudio
+58	animal	chapulín	$						huen11	becerra-roldan2015un-estudio
+59	animal	abeja	ñuñu		20353	tones not marked			huen11	becerra-roldan2015un-estudio
+60	animal	rata	tníñì		20354				huen11	becerra-roldan2015un-estudio
+61	animal	venado	ísù		20355				huen11	becerra-roldan2015un-estudio
+62	animal	ardilla	$			tones not marked			huen11	becerra-roldan2015un-estudio
+63	animal	zorrillo	xi’in		20356				huen11	becerra-roldan2015un-estudio
+64	animal	tlacuache	$			tones not marked			huen11	becerra-roldan2015un-estudio
+65	animal	mapache	ti ma’a		20357				huen11	becerra-roldan2015un-estudio
+66	animal	conejo	iso		20358	tones not marked			huen11	becerra-roldan2015un-estudio
+67	animal	zopilote	$						huen11	becerra-roldan2015un-estudio
+68	animal	perro	$						huen11	becerra-roldan2015un-estudio
+69	animal	gato	vílú		20359				huen11	becerra-roldan2015un-estudio
+70	animal	gallo	li’i		20360	tones not marked			huen11	becerra-roldan2015un-estudio
+71	animal	pollo	chili		20361	tones not marked			huen11	becerra-roldan2015un-estudio
+72	animal	marrano, puerco, cerdo	$						huen11	becerra-roldan2015un-estudio
+73	animal	caballo	kuáyú		20362		yes	Colonial Spanish	huen11	becerra-roldan2015un-estudio
+74	animal	borrego, oveja	$						huen11	becerra-roldan2015un-estudio
+75	animal	hormiga	$						huen11	becerra-roldan2015un-estudio
+76	animal	cuerno	ndíkì		20363				huen11	becerra-roldan2015un-estudio
+77	animal	pluma	tnúmì		20364				huen11	becerra-roldan2015un-estudio
+78	animal	ala	ndíjin		20365				huen11	becerra-roldan2015un-estudio
+79	animal	cola	sú’mà		20366				huen11	becerra-roldan2015un-estudio
+80	plant	árbol, palo	yútnun		20367				huen11	becerra-roldan2015un-estudio
+81	plant	hierba	yí’í		20368				huen11	becerra-roldan2015un-estudio
+82	plant	zacate, pasto	$						huen11	becerra-roldan2015un-estudio
+83	plant	flor	ita		20369	tones not marked			huen11	becerra-roldan2015un-estudio
+84	plant	maguey	yavi		20370				huen11	becerra-roldan2015un-estudio
+85	plant	raíz	$						huen11	becerra-roldan2015un-estudio
+86	plant	espina	iñu		20371				huen11	becerra-roldan2015un-estudio
+87	corn	maíz	núnì		20372				huen11	becerra-roldan2015un-estudio
+88	corn	milpa	ítù		20373				huen11	becerra-roldan2015un-estudio
+89	corn	elote	$						huen11	becerra-roldan2015un-estudio
+90	corn	nixtamal	$						huen11	becerra-roldan2015un-estudio
+91	corn	masa	yúxàn		20374				huen11	becerra-roldan2015un-estudio
+92	corn	tortilla	stáá		20375				huen11	becerra-roldan2015un-estudio
+93	corn	rastrojo	ñámà		20376				huen11	becerra-roldan2015un-estudio
+94	corn	surco	jukún		20377				huen11	becerra-roldan2015un-estudio
+95	corn	espiga	yokò		20378				huen11	becerra-roldan2015un-estudio
+96	food	frijol(es)	ndúchì		20379				huen11	becerra-roldan2015un-estudio
+97	food	ejote	ndíchí		20380				huen11	becerra-roldan2015un-estudio
+98	food	chile	ya’a		20381	tones not marked			huen11	becerra-roldan2015un-estudio
+99	food	sal	ñíì		20382				huen11	becerra-roldan2015un-estudio
+100	food	calabaza	yíkìn		20383				huen11	becerra-roldan2015un-estudio
+101	food	chayote	$						huen11	becerra-roldan2015un-estudio
+102	food	caña	ndòó		20384				huen11	becerra-roldan2015un-estudio
+103	food	miel	ndúxì		20385				huen11	becerra-roldan2015un-estudio
+104	food	manteca	xe’èn		20386				huen11	becerra-roldan2015un-estudio
+105	food	blanquillo, huevo	ndívi		20387				huen11	becerra-roldan2015un-estudio
+106	food	jitomate	ti nána		20388				huen11	becerra-roldan2015un-estudio
+107	food	camote	ña’mi		20389	tones not marked			huen11	becerra-roldan2015un-estudio
+108	food	aguacate	tichi		20390	tones not marked			huen11	becerra-roldan2015un-estudio
+109	food	plátano	$						huen11	becerra-roldan2015un-estudio
+110	food	nopal	ví’ndè		20391				huen11	becerra-roldan2015un-estudio
+111	food	mamey, zapote	$						huen11	becerra-roldan2015un-estudio
+112	food	chirimoya	$						huen11	becerra-roldan2015un-estudio
+113	food	hongo	$						huen11	becerra-roldan2015un-estudio
+114	food	carne	kúñu		20392				huen11	becerra-roldan2015un-estudio
+115	cooking	comal	jió		20393				huen11	becerra-roldan2015un-estudio
+116	cooking	olla	kísì		20394				huen11	becerra-roldan2015un-estudio
+117	cooking	horno	xitnùn		20395				huen11	becerra-roldan2015un-estudio
+118	cooking	lumbre, fuego	ñú’u		20396				huen11	becerra-roldan2015un-estudio
+119	cooking	ceniza	yaá		20397				huen11	becerra-roldan2015un-estudio
+120	cooking	carbón	$						huen11	becerra-roldan2015un-estudio
+121	cooking	humo	ñú’mà		20398				huen11	becerra-roldan2015un-estudio
+122	cooking	basura	mí’í		20399				huen11	becerra-roldan2015un-estudio
+123	cooking	plato	ko’o		20400	tones not marked			huen11	becerra-roldan2015un-estudio
+124	container	jícara	yájìn		20401				huen11	becerra-roldan2015un-estudio
+125	container	tenate	ndo’o		20402	tones not marked			huen11	becerra-roldan2015un-estudio
+126	container	cajón	xatùn		20403				huen11	becerra-roldan2015un-estudio
+127	thing	hilo	yú’và		20404				huen11	becerra-roldan2015un-estudio
+128	thing	peine	kúkuà		20405				huen11	becerra-roldan2015un-estudio
+129	thing	cuerda	yo’o		20406	tones not marked			huen11	becerra-roldan2015un-estudio
+130	thing	agujero, hoyo	yavì		20407				huen11	becerra-roldan2015un-estudio
+131	thing	red	ñúnù		20408				huen11	becerra-roldan2015un-estudio
+132	thing	jabón	$						huen11	becerra-roldan2015un-estudio
+133	thing	anillo	$						huen11	becerra-roldan2015un-estudio
+134	nature	luna	yòò		20409				huen11	becerra-roldan2015un-estudio
+135	nature	nube	viko		20410				huen11	becerra-roldan2015un-estudio
+136	nature	truena	ka’ndi		20411				huen11	becerra-roldan2015un-estudio
+137	nature	agua	ndutè		20412				huen11	becerra-roldan2015un-estudio
+138	nature	lluvia	savì		20413				huen11	becerra-roldan2015un-estudio
+139	nature	río	yútè		20414				huen11	becerra-roldan2015un-estudio
+140	nature	rocío	yúyú		20415				huen11	becerra-roldan2015un-estudio
+141	nature	cerro	yúkù		20416				huen11	becerra-roldan2015un-estudio
+142	nature	llano	yosó		20417				huen11	becerra-roldan2015un-estudio
+143	nature	piedra	yuú		20418				huen11	becerra-roldan2015un-estudio
+144	material	algodón	kachi		20419				huen11	becerra-roldan2015un-estudio
+145	material	fierro	kaá		20420				huen11	becerra-roldan2015un-estudio
+146	material	papel	tutu		20421	tones not marked			huen11	becerra-roldan2015un-estudio
+147	material	cal	kaka		20422	tones not marked			huen11	becerra-roldan2015un-estudio
+148	material	cera	ñúmà		20423				huen11	becerra-roldan2015un-estudio
+149	material	lodo	nde’yù		20424				huen11	becerra-roldan2015un-estudio
+150	material	espuma	tì íñù		20425				huen11	becerra-roldan2015un-estudio
+151	material	polvo	$						huen11	becerra-roldan2015un-estudio
+152	color	rojo	kua’à		20426				huen11	becerra-roldan2015un-estudio
+153	color	verde	kuii		20427	tones not marked			huen11	becerra-roldan2015un-estudio
+154	color	amarillo	kuaan		20428				huen11	becerra-roldan2015un-estudio
+155	color	negro	tnuu		20429	tones not marked			huen11	becerra-roldan2015un-estudio
+156	color	blanco	kuixin		20430	tones not marked			huen11	becerra-roldan2015un-estudio
+157	number	uno	íín		20431				huen11	becerra-roldan2015un-estudio
+158	number	dos	úú		20432				huen11	becerra-roldan2015un-estudio
+159	number	tres	unì		20433				huen11	becerra-roldan2015un-estudio
+160	number	cuatro	kúún		20434				huen11	becerra-roldan2015un-estudio
+161	number	cinco	u’un		20435				huen11	becerra-roldan2015un-estudio
+162	number	seis	íñù		20436				huen11	becerra-roldan2015un-estudio
+163	number	siete	úxa		20437				huen11	becerra-roldan2015un-estudio
+164	number	ocho	una		20438	tones not marked			huen11	becerra-roldan2015un-estudio
+165	number	nueve	íìn		20439				huen11	becerra-roldan2015un-estudio
+166	number	diez	úxi		20440				huen11	becerra-roldan2015un-estudio
+167	number	quince	xá’un		20441				huen11	becerra-roldan2015un-estudio
+168	number	veinte	$						huen11	becerra-roldan2015un-estudio
+169	property	pobre	ndá’vì		20442				huen11	becerra-roldan2015un-estudio
+170	property	rico	kuíká		20443				huen11	becerra-roldan2015un-estudio
+171	property	frío	víxìn		20444				huen11	becerra-roldan2015un-estudio
+172	property	caliente	í’ní		20445				huen11	becerra-roldan2015un-estudio
+173	property	grande.SG	ká’nú		20446				huen11	becerra-roldan2015un-estudio
+174	property	grande.PL	$						huen11	becerra-roldan2015un-estudio
+175	property	pequeño.SG, chico.SG	luli		20447	tones not marked			huen11	becerra-roldan2015un-estudio
+176	property	pequeño.PL, chico.PL	$						huen11	becerra-roldan2015un-estudio
+177	property	largo.SG	kani		20448	tones not marked			huen11	becerra-roldan2015un-estudio
+178	property	largo.PL	$						huen11	becerra-roldan2015un-estudio
+179	property	bueno	vá’à		20449				huen11	becerra-roldan2015un-estudio
+180	property	dulce	víxì		20450				huen11	becerra-roldan2015un-estudio
+181	property	salado	u’và		20451				huen11	becerra-roldan2015un-estudio
+182	property	amargo	úvà		20452				huen11	becerra-roldan2015un-estudio
+183	property	sabroso	ásin		20453				huen11	becerra-roldan2015un-estudio
+184	property	ancho	xite		20454	tones not marked			huen11	becerra-roldan2015un-estudio
+185	property	nuevo	xaa		20455	tones not marked			huen11	becerra-roldan2015un-estudio
+186	property	flojo	kúxì		20456				huen11	becerra-roldan2015un-estudio
+187	property	feo	kínì		20457				huen11	becerra-roldan2015un-estudio
+188	property	celoso	$						huen11	becerra-roldan2015un-estudio
+189	property	está cerca	yatnin		20458				huen11	becerra-roldan2015un-estudio
+190	property	está lejos, lejos	$						huen11	becerra-roldan2015un-estudio
+191	property	pesado	$						huen11	becerra-roldan2015un-estudio
+192	property	crudo	$						huen11	becerra-roldan2015un-estudio
+193	property	liso	ndi’vi		20459	tones not marked			huen11	becerra-roldan2015un-estudio
+194	property	despacio	kueé		20460				huen11	becerra-roldan2015un-estudio
+195	time	ayer	íkù		20461				huen11	becerra-roldan2015un-estudio
+196	time	año	kuia		20462				huen11	becerra-roldan2015un-estudio
+197	time	ahora, hoy	vítnàn		20463				huen11	becerra-roldan2015un-estudio
+198	time	noche	$						huen11	becerra-roldan2015un-estudio
+199	time	toda la noche	níñù		20464				huen11	becerra-roldan2015un-estudio
+200	time	día	kìvì		20465				huen11	becerra-roldan2015un-estudio
+201	time	de día	$						huen11	becerra-roldan2015un-estudio
+202	abstract	mitad	savà		20466				huen11	becerra-roldan2015un-estudio
+203	abstract	dinero	$						huen11	becerra-roldan2015un-estudio
+204	abstract	trabajo	tníñù		20467				huen11	becerra-roldan2015un-estudio
+204		trabajo	tníùn		20468				huen11	becerra-roldan2015un-estudio
+205	abstract	palabra	tnu’ùn		20469				huen11	becerra-roldan2015un-estudio
+206	abstract	culpa	kuechi		20470				huen11	becerra-roldan2015un-estudio
+207	abstract	sueño	$						huen11	becerra-roldan2015un-estudio
+208	abstract	cuándo	$						huen11	becerra-roldan2015un-estudio
+209	abstract	canción, música	$						huen11	becerra-roldan2015un-estudio

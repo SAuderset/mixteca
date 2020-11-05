@@ -68,7 +68,7 @@ wl3 %>% count(ID) %>% filter(n > 1)
 which(is.na(wl3$ID))
 which(is.na(wl3$DOCULECT))
 which(is.na(wl3$IDlist))
-wl3[26, ]
+wl3[19869, ]
 
 # sort by list item, then variety
 wl3 <- wl3 %>% arrange(IDlist, DOCULECT)
@@ -86,12 +86,12 @@ ctdf
 
 # how many loans
 table(wl$LOAN)
-# ca. 70
+# ca. 270
 
 
 # total varieties
 length(unique(wl3$DOCULECT))
-# 133
+# 137
 
 # entries per variety
 ev <- wl3 %>% group_by(DOCULECT) %>% summarise(entries = n()) %>% arrange(desc(entries))
@@ -107,7 +107,7 @@ write_tsv(wl3, "/Users/auderset/Documents/GitHub/mixteca/ComparativeList/mixt_co
 
 # to know where to continue IDs
 max(wl3$ID, na.rm = TRUE)
-# 20099
+# 21000
 
 
 ### export single sheets for orthography profiles
@@ -123,5 +123,5 @@ profiles_tsv <- function(data, names){
 }
 # Step 2
 list(data = docugroups,
-     names = names(docugroups)) %>% pmap(profiles_tsv) 
+     names = names(docugroups)) %>% pmap(profiles_tsv)
 

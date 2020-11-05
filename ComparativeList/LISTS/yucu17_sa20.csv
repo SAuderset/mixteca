@@ -1,0 +1,213 @@
+IDlist	CATEGORY	GLOSS	VALUE	FORM	ID	NOTES	LOAN	LOAN_SOURCE	DOCULECT	SOURCE
+1	kinship	mother	nanà		20584				yucu17	salazar2020yucunani
+2	kinship	mother!, mom!	máá		20585		yes	Spanish	yucu17	salazar2020yucunani
+3	kinship	father	tatà		20586		yes	Spanish	yucu17	salazar2020yucunani
+4	kinship	father!, dad!	páá		20587		yes	Spanish	yucu17	salazar2020yucunani
+5	kinship	son/daughter, child	sè'e		20588				yucu17	salazar2020yucunani
+6	kinship	son	$						yucu17	salazar2020yucunani
+7	kinship	daughter	$						yucu17	salazar2020yucunani
+8	kinship	cross-sex sibling	kuà'a		20589				yucu17	salazar2020yucunani
+9	kinship	brother of man	ñanì		20590				yucu17	salazar2020yucunani
+10	kinship	sister of woman	kù'ù 		20591				yucu17	salazar2020yucunani
+11	kinship	aunt	xitò		20592				yucu17	salazar2020yucunani
+12	kinship	uncle	xixì		20593				yucu17	salazar2020yucunani
+13	person	man	ñaꞌá		20594				yucu17	salazar2020yucunani
+14	person	woman	chàa		20595				yucu17	salazar2020yucunani
+15	person	owner, boss	stoꞌò		20596				yucu17	salazar2020yucunani
+16	person	priest	sùtù		20597				yucu17	salazar2020yucunani
+17	body	blood	nìí		20598				yucu17	salazar2020yucunani
+18	body	bone	kiché'é	ki-ché'é	20599				yucu17	salazar2020yucunani
+19	body	hair	ixǐ		20600				yucu17	salazar2020yucunani
+20	body	face	nùú		20601				yucu17	salazar2020yucunani
+21	body	tongue	yaǎ		20602				yucu17	salazar2020yucunani
+22	body	tooth	nù'u		20603				yucu17	salazar2020yucunani
+23	body	mouth	yu'ú		20604				yucu17	salazar2020yucunani
+24	body	ear	sòꞌo		20605				yucu17	salazar2020yucunani
+25	body	nose	xìchǐ		20606				yucu17	salazar2020yucunani
+26	body	neck	sùkǔ		20607				yucu17	salazar2020yucunani
+27	body	hand	nta'á		20608				yucu17	salazar2020yucunani
+28	body	fingernail	chíǐn		20609				yucu17	salazar2020yucunani
+29	body	back	sàtǎ		20610				yucu17	salazar2020yucunani
+30	body	stomach, belly	tìtsi		20611				yucu17	salazar2020yucunani
+31	body	tripe	tsitì		20612				yucu17	salazar2020yucunani
+32	body	foot	tsà'ǎ		20613				yucu17	salazar2020yucunani
+33	body	disease, illness, sickness	kuè'è		20614				yucu17	salazar2020yucunani
+34	body	medicine, remedy	tàtǎ 		20615				yucu17	salazar2020yucunani
+35	body	swelling	nìkǎa	nì-kǎa	20616				yucu17	salazar2020yucunani
+36	body	pimple	ntì'i		20617				yucu17	salazar2020yucunani
+37	body	pus	ntakuǎ		20618				yucu17	salazar2020yucunani
+38	body	urine	lálá		20619				yucu17	salazar2020yucunani
+39	clothing	cloth	télà		20620		yes	Spanish	yucu17	salazar2020yucunani
+39		clothes	sa'mǎ		20621				yucu17	salazar2020yucunani
+40	clothing	sandal, footwear	ntsìtsǎ		20622				yucu17	salazar2020yucunani
+41	clothing	pants	tsatù		20623				yucu17	salazar2020yucunani
+42	clothing	blouse, woven blouse	sa'mǎ		20624	same as clothes			yucu17	salazar2020yucunani
+43	living	village, town	ñuù		20625				yucu17	salazar2020yucunani
+44	living	house	ve'e		20626				yucu17	salazar2020yucunani
+45	living	path, road, trail	ichǐ		20627				yucu17	salazar2020yucunani
+46	living	house post	sì'ìn		20628				yucu17	salazar2020yucunani
+47	living	mat, sleeping mat, straw mat	yuvǐ		20629				yucu17	salazar2020yucunani
+48	living	bed	tsìto		20630				yucu17	salazar2020yucunani
+49	living	stool, chair	chaì		20631				yucu17	salazar2020yucunani
+50	animal	animal	kitǐ		20632				yucu17	salazar2020yucunani
+51	animal	bird	saà		20633				yucu17	salazar2020yucunani
+52	animal	fish	chakǎ		20634				yucu17	salazar2020yucunani
+53	animal	snake	kòó		20635				yucu17	salazar2020yucunani
+54	animal	frog	sa'và		20636				yucu17	salazar2020yucunani
+55	animal	hawk	xí'an		20637				yucu17	salazar2020yucunani
+56	animal	scorpion	tìsuꞌmà	tì-suꞌmà	20638				yucu17	salazar2020yucunani
+57	animal	cockroach	ntichéꞌé	nti-chéꞌé	20639				yucu17	salazar2020yucunani
+58	animal	grasshopper	tìka		20640				yucu17	salazar2020yucunani
+59	animal	bee	ñùñǔ		20641				yucu17	salazar2020yucunani
+60	animal	mouse	tǐ'in		20642				yucu17	salazar2020yucunani
+61	animal	deer	isù		20643				yucu17	salazar2020yucunani
+62	animal	squirrel	ntikuáin	nti-kuáin	20644				yucu17	salazar2020yucunani
+63	animal	skunk	tǐ'in ità		20645				yucu17	salazar2020yucunani
+64	animal	(o)possum	tsóko		20646				yucu17	salazar2020yucunani
+65	animal	raccoon	má'à		20647				yucu17	salazar2020yucunani
+66	animal	rabbit	lesû		20648				yucu17	salazar2020yucunani
+67	animal	vulture	lóchí		20649		yes	Nahuatl	yucu17	salazar2020yucunani
+68	animal	dog	tǐnà		20650				yucu17	salazar2020yucunani
+69	animal	cat	vílú		20651				yucu17	salazar2020yucunani
+70	animal	rooster	tó'lo		20652				yucu17	salazar2020yucunani
+71	animal	hen, chicken	chùún		20653				yucu17	salazar2020yucunani
+72	animal	pig	kinì		20654				yucu17	salazar2020yucunani
+73	animal	horse	kuáì		20655		yes	Colonial Spanish	yucu17	salazar2020yucunani
+74	animal	sheep	$						yucu17	salazar2020yucunani
+75	animal	ant	chokǒ		20656				yucu17	salazar2020yucunani
+76	animal	horn (anatomy)	ntikǐ		20657				yucu17	salazar2020yucunani
+77	animal	feather	tùmi		20658				yucu17	salazar2020yucunani
+78	animal	wing	ntsìtsǐ		20659				yucu17	salazar2020yucunani
+79	animal	tail	nto'ó		20660				yucu17	salazar2020yucunani
+80	plant	tree	yutǔ		20661				yucu17	salazar2020yucunani
+81	plant	herbaceous plant	yùkù		20662				yucu17	salazar2020yucunani
+82	plant	grass	ichà		20663				yucu17	salazar2020yucunani
+83	plant	flower	ità		20664				yucu17	salazar2020yucunani
+84	plant	maguey, century plant	yavǐ		20665				yucu17	salazar2020yucunani
+85	plant	root	yo'ó		20666				yucu17	salazar2020yucunani
+86	plant	thorn	iñǔ		20667				yucu17	salazar2020yucunani
+87	corn	grain of corn	nùnǐ		20668				yucu17	salazar2020yucunani
+88	corn	cornfield	itù		20669				yucu17	salazar2020yucunani
+89	corn	fresh ear of corn	ntixǐ		20670				yucu17	salazar2020yucunani
+90	corn	nixtamal	$						yucu17	salazar2020yucunani
+91	corn	cornmeal, corn dough	yutsǎ		20671				yucu17	salazar2020yucunani
+92	corn	tortilla	stàá		20672				yucu17	salazar2020yucunani
+93	corn	cleared field, cornstalk	ntáyò'o	ntá-yò'o	20673				yucu17	salazar2020yucunani
+94	corn	furrow, planting row	yukù		20674				yucu17	salazar2020yucunani
+95	corn	tassel, maize spike	nùmǎ yutǔ	nùmǎ-yutǔ	20675				yucu17	salazar2020yucunani
+96	food	bean	ntuchǐ		20676				yucu17	salazar2020yucunani
+97	food	green bean	nchìxì		20677				yucu17	salazar2020yucunani
+98	food	chili pepper	ya'á		20678				yucu17	salazar2020yucunani
+99	food	salt	ìín		20679				yucu17	salazar2020yucunani
+100	food	squash	ikǐ		20680				yucu17	salazar2020yucunani
+101	food	chayote squash	nañǎ		20681				yucu17	salazar2020yucunani
+102	food	sugar cane	ntòó		20682				yucu17	salazar2020yucunani
+103	food	honey	ntǔxì		20683				yucu17	salazar2020yucunani
+104	food	fat, lard, grease	xà'àn		20684				yucu17	salazar2020yucunani
+105	food	egg	ntìvǐ		20685				yucu17	salazar2020yucunani
+106	food	tomato	tìnanǎ	tì-nanǎ	20686				yucu17	salazar2020yucunani
+107	food	edible tuber	ña'mì		20687				yucu17	salazar2020yucunani
+108	food	avocado	tǐchi		20688				yucu17	salazar2020yucunani
+109	food	banana	nchikǎ		20689				yucu17	salazar2020yucunani
+110	food	prickly pear cactus	mì'nchǎ		20690				yucu17	salazar2020yucunani
+111	food	mamey	nchikatsà'ǎ	nchika-tsà'ǎ	20691	banana-?			yucu17	salazar2020yucunani
+112	food	custard apple	$						yucu17	salazar2020yucunani
+113	food	mushroom	tsìꞌǐ		20692				yucu17	salazar2020yucunani
+114	food	meat	kǔñù		20693				yucu17	salazar2020yucunani
+115	cooking	griddle	tsìǒ		20694				yucu17	salazar2020yucunani
+116	cooking	pot, cooking pot	kìsi		20695				yucu17	salazar2020yucunani
+117	cooking	oven	tsìtù		20696				yucu17	salazar2020yucunani
+118	cooking	fire	ñu'ù		20697				yucu17	salazar2020yucunani
+119	cooking	ash	yàá		20698				yucu17	salazar2020yucunani
+120	cooking	charcoal	tùún		20699				yucu17	salazar2020yucunani
+121	cooking	smoke	ñù'mà		20700				yucu17	salazar2020yucunani
+122	cooking	garbage, trash	mǐ'in		20701				yucu17	salazar2020yucunani
+123	cooking	plate	kò'ǒ		20702				yucu17	salazar2020yucunani
+124	container	gourd, gourd bowl	yatsǐ		20703				yucu17	salazar2020yucunani
+125	container	palm basket	ntò'ǒ		20704				yucu17	salazar2020yucunani
+125		reed basket	tsikàvíchi	tsikà-víchi	20705				yucu17	salazar2020yucunani
+126	container	trunk	tsàtǔ		20706				yucu17	salazar2020yucunani
+127	thing	thread	yùꞌvà		20707				yucu17	salazar2020yucunani
+128	thing	comb	kuìkà		20708				yucu17	salazar2020yucunani
+129	thing	rope	yo'ó		20709				yucu17	salazar2020yucunani
+130	thing	hole	yàvì		20710				yucu17	salazar2020yucunani
+131	thing	net, mesh	ñùnǔ		20711				yucu17	salazar2020yucunani
+132	thing	soap	$						yucu17	salazar2020yucunani
+133	thing	ring	$						yucu17	salazar2020yucunani
+134	nature	moon	yòó		20712				yucu17	salazar2020yucunani
+135	nature	cloud	vìkǒ		20713				yucu17	salazar2020yucunani
+136	nature	lightning	tsántuchǎ	tsá-ntuchǎ	20714				yucu17	salazar2020yucunani
+136		flash	kanchii		20715	tones not marked			yucu17	salazar2020yucunani
+137	nature	water	chìkuíi		20716				yucu17	salazar2020yucunani
+138	nature	rain (precipitation)	sàvǐ		20717				yucu17	salazar2020yucunani
+139	nature	river	yùcha		20718				yucu17	salazar2020yucunani
+140	nature	dew	yúyú		20719				yucu17	salazar2020yucunani
+141	nature	mountain, forest	yukǔ		20720				yucu17	salazar2020yucunani
+142	nature	plain, flatland	yosǒ		20721				yucu17	salazar2020yucunani
+143	nature	stone, rock	yùú		20722				yucu17	salazar2020yucunani
+144	material	cotton	kàchǐ		20723				yucu17	salazar2020yucunani
+145	material	metal	kàa		20724				yucu17	salazar2020yucunani
+146	material	paper	tutù		20725				yucu17	salazar2020yucunani
+147	material	lime (material)	kakà		20726				yucu17	salazar2020yucunani
+148	material	beeswax, wax	ñùmǎ		20727				yucu17	salazar2020yucunani
+149	material	mud	nchaꞌì		20728				yucu17	salazar2020yucunani
+150	material	foam	tìñù		20729				yucu17	salazar2020yucunani
+151	material	dust, powder	ñu'ú		20730				yucu17	salazar2020yucunani
+152	color	red	kuá'à		20731				yucu17	salazar2020yucunani
+153	color	green	kuiǐ		20732				yucu17	salazar2020yucunani
+154	color	yellow	kuáan		20733				yucu17	salazar2020yucunani
+155	color	black	nchá'ì		20734				yucu17	salazar2020yucunani
+156	color	white	yaa		20735				yucu17	salazar2020yucunani
+157	number	one	iin		20736				yucu17	salazar2020yucunani
+158	number	two	ùvì		20737				yucu17	salazar2020yucunani
+159	number	three	ùnì		20738				yucu17	salazar2020yucunani
+160	number	four	kùmǐ		20739				yucu17	salazar2020yucunani
+161	number	five	ù'ùn		20740				yucu17	salazar2020yucunani
+162	number	six	ìñù		20741				yucu17	salazar2020yucunani
+163	number	seven	ùtsà		20742				yucu17	salazar2020yucunani
+164	number	eight	ùnà		20743				yucu17	salazar2020yucunani
+165	number	nine	ììn		20744				yucu17	salazar2020yucunani
+166	number	ten	ùtsì		20745				yucu17	salazar2020yucunani
+167	number	fifteen	tsà'ùn		20746				yucu17	salazar2020yucunani
+168	number	twenty	òkò		20747				yucu17	salazar2020yucunani
+169	property	poor	ntáꞌvì		20748				yucu17	salazar2020yucunani
+170	property	rich	kuíka		20749				yucu17	salazar2020yucunani
+171	property	cold	vìtsi		20750				yucu17	salazar2020yucunani
+172	property	hot	yókó		20751				yucu17	salazar2020yucunani
+173	property	big.SG	luu		20752				yucu17	salazar2020yucunani
+174	property	big.PL	$						yucu17	salazar2020yucunani
+175	property	small.SG	ká'nu		20753				yucu17	salazar2020yucunani
+176	property	small.PL	$						yucu17	salazar2020yucunani
+177	property	long.SG	kánǐ		20754				yucu17	salazar2020yucunani
+178	property	long.PL	$						yucu17	salazar2020yucunani
+179	property	good	và'a		20755				yucu17	salazar2020yucunani
+180	property	sweet	vìxì		20756				yucu17	salazar2020yucunani
+181	property	salty	ù'và		20757				yucu17	salazar2020yucunani
+182	property	bitter	ùvà		20758				yucu17	salazar2020yucunani
+183	property	tasty, delicious	àsǐ		20759				yucu17	salazar2020yucunani
+184	property	wide	ntíkà		20760				yucu17	salazar2020yucunani
+185	property	new	tsaâ		20761				yucu17	salazar2020yucunani
+186	property	lazy	kú'ntú		20762				yucu17	salazar2020yucunani
+187	property	ugly	kini		20763				yucu17	salazar2020yucunani
+188	property	jealous	$						yucu17	salazar2020yucunani
+189	property	near	yachi		20764				yucu17	salazar2020yucunani
+190	property	far	tsíka		20765				yucu17	salazar2020yucunani
+191	property	heavy	vèe		20766				yucu17	salazar2020yucunani
+192	property	raw	í'i		20767				yucu17	salazar2020yucunani
+193	property	smooth	ntiǐ		20768				yucu17	salazar2020yucunani
+194	property	slow	kuéen		20769				yucu17	salazar2020yucunani
+195	time	yesterday	kúní		20770				yucu17	salazar2020yucunani
+196	time	year	kuìà		20771				yucu17	salazar2020yucunani
+197	time	now, today	vichi		20772				yucu17	salazar2020yucunani
+198	time	night	tsikuàá	tsi-kuàá	20773				yucu17	salazar2020yucunani
+199	time	night time	$						yucu17	salazar2020yucunani
+200	time	day, date	kìí		20774				yucu17	salazar2020yucunani
+201	time	day time	$						yucu17	salazar2020yucunani
+202	abstract	half, middle	sava		20775				yucu17	salazar2020yucunani
+203	abstract	money	xǔ'un		20776				yucu17	salazar2020yucunani
+204	abstract	work	chuun		20777				yucu17	salazar2020yucunani
+205	abstract	word	tù'un		20778				yucu17	salazar2020yucunani
+206	abstract	fault, blame, sin	kuàchi		20779				yucu17	salazar2020yucunani
+207	abstract	nap, sleepiness	mǎnà		20780				yucu17	salazar2020yucunani
+208	abstract	when	$						yucu17	salazar2020yucunani
+209	abstract	song, music	yaà		20781				yucu17	salazar2020yucunani
