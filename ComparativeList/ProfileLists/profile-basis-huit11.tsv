@@ -9,7 +9,7 @@ ID	DOCULECT	GLOSS	VALUE	FORM	IDlist	NOTES	LOAN	LOAN_SOURCE	SOURCE	FLOATTONE
 7026	huit11	diente	nu̧ʔu̧	nu̧ʔu̧	22	NA	NA	NA	josserand1983mixtec	NA
 7113	huit11	boca	žuʔu	žuʔu	23	NA	NA	NA	josserand1983mixtec	NA
 7214	huit11	oreja	đoʔo	đoʔo	24	NA	NA	NA	josserand1983mixtec	NA
-7331	huit11	nariz	đi̧Ni̧	đi̧ni̧	25	NA	NA	NA	josserand1983mixtec	NA
+7331	huit11	nariz	đi̧Ni̧	đi̧Ni̧	25	NA	NA	NA	josserand1983mixtec	NA
 7446	huit11	cuello	đuxu̧	đuxu̧	26	NA	NA	NA	josserand1983mixtec	NA
 7560	huit11	uña	Ni̧ñu̧	ni̧ñu̧	28	NA	NA	NA	josserand1983mixtec	NA
 7679	huit11	tripas	žɨtɨ-xʷi̧ñi̧	žɨtɨ-xʷi̧ñi̧	31	NA	NA	NA	josserand1983mixtec	NA
@@ -46,7 +46,7 @@ ID	DOCULECT	GLOSS	VALUE	FORM	IDlist	NOTES	LOAN	LOAN_SOURCE	SOURCE	FLOATTONE
 10731	huit11	pluma	Nu̧u̧	nu̧u̧	77	NA	NA	NA	josserand1983mixtec	NA
 10843	huit11	ala	ⁿdixi	ⁿdixi	78	NA	NA	NA	josserand1983mixtec	NA
 10939	huit11	cola	đu̧ʔmȩ	đu̧ʔmȩ	79	NA	NA	NA	josserand1983mixtec	NA
-11060	huit11	árbol	žuN(n)u̧	žunnu̧	80	NA	NA	NA	josserand1983mixtec	NA
+11060	huit11	árbol	žuN(n)u̧	žuNnu̧	80	NA	NA	NA	josserand1983mixtec	NA
 11174	huit11	hierba	žuku	žuku	81	NA	NA	NA	josserand1983mixtec	NA
 11278	huit11	maguey	žawi	žawi	84	NA	NA	NA	josserand1983mixtec	NA
 11397	huit11	maíz	nu̧ni̧	nu̧ni̧	87	NA	NA	NA	josserand1983mixtec	NA
@@ -70,12 +70,12 @@ ID	DOCULECT	GLOSS	VALUE	FORM	IDlist	NOTES	LOAN	LOAN_SOURCE	SOURCE	FLOATTONE
 13187	huit11	carne	xu̧ñu̧	xu̧ñu̧	114	NA	NA	NA	josserand1983mixtec	NA
 13305	huit11	comal	ižo	ižo	115	NA	NA	NA	josserand1983mixtec	NA
 13420	huit11	olla	kɨđɨ	kɨđɨ	116	NA	NA	NA	josserand1983mixtec	NA
-13510	huit11	horno	iNnu̧	innu̧	117	NA	NA	NA	josserand1983mixtec	NA
+13510	huit11	horno	iNnu̧	iNnu̧	117	NA	NA	NA	josserand1983mixtec	NA
 13621	huit11	lumbre	ñu̧ʔu̧	ñu̧ʔu̧	118	NA	NA	NA	josserand1983mixtec	NA
 13736	huit11	humo	ñu̧ʔmȩ	ñu̧ʔmȩ	121	NA	NA	NA	josserand1983mixtec	NA
 13855	huit11	basura	mi̧ʔi̧	mi̧ʔi̧	122	NA	NA	NA	josserand1983mixtec	NA
 13954	huit11	jícara	žaxi	žaxi	124	NA	NA	NA	josserand1983mixtec	NA
-14073	huit11	cajón	žeNnu̧	žennu̧	126	NA	NA	NA	josserand1983mixtec	NA
+14073	huit11	cajón	žeNnu̧	žeNnu̧	126	NA	NA	NA	josserand1983mixtec	NA
 14181	huit11	hilo	žuʔwe	žuʔwe	127	NA	NA	NA	josserand1983mixtec	NA
 14291	huit11	peine	kuka	kuka	128	NA	NA	NA	josserand1983mixtec	NA
 14368	huit11	agujero	žawi	žawi	130	NA	NA	NA	josserand1983mixtec	NA
@@ -114,13 +114,13 @@ ID	DOCULECT	GLOSS	VALUE	FORM	IDlist	NOTES	LOAN	LOAN_SOURCE	SOURCE	FLOATTONE
 18337	huit11	floja	đa-taža	đa-taža	186	NA	NA	NA	josserand1983mixtec	NA
 18336	huit11	flojo	đuxʸe	đuxʸe	186	NA	NA	NA	josserand1983mixtec	NA
 18479	huit11	feo	nȩʔȩ-kaa	nȩʔȩ-kaa	187	NA	NA	NA	josserand1983mixtec	NA
-18582	huit11	está cerca	žaNni̧	žanni̧	189	NA	NA	NA	josserand1983mixtec	NA
+18582	huit11	está cerca	žaNni̧	žaNni̧	189	NA	NA	NA	josserand1983mixtec	NA
 18690	huit11	pesado	wee	wee	191	NA	NA	NA	josserand1983mixtec	NA
 18804	huit11	lisa, liso	ⁿdɨʔwɨ	ⁿdɨʔwɨ	193	NA	NA	NA	josserand1983mixtec	NA
 18920	huit11	despacio	kʷee(ni̧)	kʷeeni̧	194	NA	NA	NA	josserand1983mixtec	NA
 19034	huit11	ayer	iku	iku	195	NA	NA	NA	josserand1983mixtec	NA
 19149	huit11	año	kʷiža	kʷiža	196	NA	NA	NA	josserand1983mixtec	NA
-19264	huit11	ahora	wi̧N(n)a̧	wi̧nna̧	197	NA	NA	NA	josserand1983mixtec	NA
+19264	huit11	ahora	wi̧N(n)a̧	wi̧Nna̧	197	NA	NA	NA	josserand1983mixtec	NA
 19353	huit11	toda la noche	ǰa-ni̧yu̧	ǰa-ni̧yu̧	199	NA	NA	NA	josserand1983mixtec	NA
 19354	huit11	toda la noche	ⁿǰa-ni̧ñu̧	ⁿǰa-ni̧ñu̧	199	NA	NA	NA	josserand1983mixtec	NA
 19453	huit11	día	ⁿduu	ⁿduu	200	NA	NA	NA	josserand1983mixtec	NA

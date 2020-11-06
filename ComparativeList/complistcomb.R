@@ -53,10 +53,11 @@ wl2 <- filter(distinct(wl2))
 wl3 <- wl2 %>% mutate(FORM = ifelse(is.na(FORM), coalesce(VALUE, FORM), coalesce(FORM, FORM))) %>%
   mutate(FORM = str_remove_all(FORM, "\\(")) %>%
   mutate(FORM = str_remove_all(FORM, "\\)"))
-# normalize unicode
-wl3$FORM <- stri_trans_nfd(wl3$FORM)
-# lower case
-wl3$FORM <- tolower(wl3$FORM)
+# normalize unicode, lower case for initial capitals
+# attention: do not lowercase everything! in Josserand the upper case is used for voiceless segments!
+wl3 <- wl3 %>% mutate(FORM = stri_trans_nfd(wl3$FORM)) %>%
+  mutate(FORM = if_else(stri_detect_regex(FORM, "^[A-Z]"), stri_trans_tolower(FORM), stri_trans_nfd(FORM)))
+# 
 glimpse(wl3)
 head(wl3)
 

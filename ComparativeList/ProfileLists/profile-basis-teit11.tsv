@@ -8,7 +8,7 @@ ID	DOCULECT	GLOSS	VALUE	FORM	IDlist	NOTES	LOAN	LOAN_SOURCE	SOURCE	FLOATTONE
 7059	teit11	diente	nu̧ʔu̧	nu̧ʔu̧	22	NA	NA	NA	josserand1983mixtec	NA
 7150	teit11	boca	ṣ̌uʔu	ṣ̌uʔu	23	NA	NA	NA	josserand1983mixtec	NA
 7261	teit11	oreja	đoʔo	đoʔo	24	NA	NA	NA	josserand1983mixtec	NA
-7377	teit11	nariz	điNni̧	đinni̧	25	NA	NA	NA	josserand1983mixtec	NA
+7377	teit11	nariz	điNni̧	điNni̧	25	NA	NA	NA	josserand1983mixtec	NA
 7492	teit11	cuello	đuku̧	đuku̧	26	NA	NA	NA	josserand1983mixtec	NA
 7610	teit11	uña	Nni̧ñi̧	nni̧ñi̧	28	NA	NA	NA	josserand1983mixtec	NA
 7726	teit11	tripas	iti	iti	31	NA	NA	NA	josserand1983mixtec	NA
@@ -18,7 +18,7 @@ ID	DOCULECT	GLOSS	VALUE	FORM	IDlist	NOTES	LOAN	LOAN_SOURCE	SOURCE	FLOATTONE
 8171	teit11	grano	ⁿdiʔi	ⁿdiʔi	36	NA	NA	NA	josserand1983mixtec	NA
 8285	teit11	pus	ⁿdakʷa	ⁿdakʷa	37	NA	NA	NA	josserand1983mixtec	NA
 8362	teit11	orina	đeđe	đeđe	38	NA	NA	NA	josserand1983mixtec	NA
-8466	teit11	huarache	ⁿdiNña̧	ⁿdinña̧	40	NA	NA	NA	josserand1983mixtec	NA
+8466	teit11	huarache	ⁿdiNña̧	ⁿdiNña̧	40	NA	NA	NA	josserand1983mixtec	NA
 8552	teit11	calzón, pantalón	ṣ̌etu	ṣ̌etu	41	NA	NA	NA	josserand1983mixtec	NA
 8732	teit11	pueblo	ñu̧u̧	ñu̧u̧	43	NA	NA	NA	josserand1983mixtec	NA
 8847	teit11	casa	weʔe	weʔe	44	NA	NA	NA	josserand1983mixtec	NA
@@ -43,7 +43,7 @@ ID	DOCULECT	GLOSS	VALUE	FORM	IDlist	NOTES	LOAN	LOAN_SOURCE	SOURCE	FLOATTONE
 10782	teit11	pluma	Nu̧u̧	nu̧u̧	77	NA	NA	NA	josserand1983mixtec	NA
 10876	teit11	ala	ⁿdixi̧	ⁿdixi̧	78	NA	NA	NA	josserand1983mixtec	NA
 10988	teit11	cola	đu̧ʔma̧	đu̧ʔma̧	79	NA	NA	NA	josserand1983mixtec	NA
-11110	teit11	árbol	ṣ̌uNnu̧	ṣ̌unnu̧	80	NA	NA	NA	josserand1983mixtec	NA
+11110	teit11	árbol	ṣ̌uNnu̧	ṣ̌uNnu̧	80	NA	NA	NA	josserand1983mixtec	NA
 11208	teit11	hierba	kuʔu	kuʔu	81	NA	NA	NA	josserand1983mixtec	NA
 11328	teit11	maguey	ṣ̌awi	ṣ̌awi	84	NA	NA	NA	josserand1983mixtec	NA
 11446	teit11	maíz	nu̧ni̧	nu̧ni̧	87	NA	NA	NA	josserand1983mixtec	NA
@@ -66,12 +66,12 @@ ID	DOCULECT	GLOSS	VALUE	FORM	IDlist	NOTES	LOAN	LOAN_SOURCE	SOURCE	FLOATTONE
 13236	teit11	carne	ku̧ñu̧	ku̧ñu̧	114	NA	NA	NA	josserand1983mixtec	NA
 13356	teit11	comal	iyo	iyo	115	NA	NA	NA	josserand1983mixtec	NA
 13453	teit11	olla	kiđi	kiđi	116	NA	NA	NA	josserand1983mixtec	NA
-13553	teit11	horno	iNnu̧	innu̧	117	NA	NA	NA	josserand1983mixtec	NA
+13553	teit11	horno	iNnu̧	iNnu̧	117	NA	NA	NA	josserand1983mixtec	NA
 13668	teit11	lumbre	ñu̧ʔu̧	ñu̧ʔu̧	118	NA	NA	NA	josserand1983mixtec	NA
 13790	teit11	humo	ñu̧ʔma̧	ñu̧ʔma̧	121	NA	NA	NA	josserand1983mixtec	NA
 13889	teit11	basura	mi̧ʔi̧	mi̧ʔi̧	122	NA	NA	NA	josserand1983mixtec	NA
 14008	teit11	jícara	ṣ̌axi̧	ṣ̌axi̧	124	NA	NA	NA	josserand1983mixtec	NA
-14116	teit11	cajón	ṣ̌eNnu̧	ṣ̌ennu̧	126	NA	NA	NA	josserand1983mixtec	NA
+14116	teit11	cajón	ṣ̌eNnu̧	ṣ̌eNnu̧	126	NA	NA	NA	josserand1983mixtec	NA
 14229	teit11	hilo	šuʔwa	šuʔwa	127	NA	NA	NA	josserand1983mixtec	NA
 14324	teit11	peine	kuka	kuka	128	NA	NA	NA	josserand1983mixtec	NA
 14395	teit11	agujero	ṣ̌awi	ṣ̌awi	130	NA	NA	NA	josserand1983mixtec	NA
@@ -112,14 +112,14 @@ ID	DOCULECT	GLOSS	VALUE	FORM	IDlist	NOTES	LOAN	LOAN_SOURCE	SOURCE	FLOATTONE
 18405	teit11	floja	na̧-taya	na̧-taya	186	NA	NA	NA	josserand1983mixtec	NA
 18404	teit11	flojo	ku-điʔi	ku-điʔi	186	NA	NA	NA	josserand1983mixtec	NA
 18516	teit11	feo	ⁿdeʔe	ⁿdeʔe	187	NA	NA	NA	josserand1983mixtec	NA
-18625	teit11	está cerca	ṣ̌aNni̧	ṣ̌anni̧	189	NA	NA	NA	josserand1983mixtec	NA
+18625	teit11	está cerca	ṣ̌aNni̧	ṣ̌aNni̧	189	NA	NA	NA	josserand1983mixtec	NA
 18735	teit11	pesado	wee	wee	191	NA	NA	NA	josserand1983mixtec	NA
 18851	teit11	lisa, liso	ⁿdii	ⁿdii	193	NA	NA	NA	josserand1983mixtec	NA
 18850	teit11	lisa, liso	ⁿdiʔwi	ⁿdiʔwi	193	NA	NA	NA	josserand1983mixtec	NA
 18967	teit11	despacio	kʷee(ni̧)	kʷeeni̧	194	NA	NA	NA	josserand1983mixtec	NA
 19081	teit11	ayer	iku	iku	195	NA	NA	NA	josserand1983mixtec	NA
 19200	teit11	año	kʷiya	kʷiya	196	NA	NA	NA	josserand1983mixtec	NA
-19299	teit11	ahora	wi̧Na̧	wi̧na̧	197	NA	NA	NA	josserand1983mixtec	NA
+19299	teit11	ahora	wi̧Na̧	wi̧Na̧	197	NA	NA	NA	josserand1983mixtec	NA
 19389	teit11	toda la noche	ni̧ñu̧	ni̧ñu̧	199	NA	NA	NA	josserand1983mixtec	NA
 19503	teit11	día	kiwi	kiwi	200	NA	NA	NA	josserand1983mixtec	NA
 19624	teit11	mitad	đawa	đawa	202	NA	NA	NA	josserand1983mixtec	NA

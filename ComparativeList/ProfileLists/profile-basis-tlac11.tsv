@@ -8,9 +8,9 @@ ID	DOCULECT	GLOSS	VALUE	FORM	IDlist	NOTES	LOAN	LOAN_SOURCE	SOURCE	FLOATTONE
 7065	tlac11	diente	nu̧ʔu̧	nu̧ʔu̧	22	NA	NA	NA	josserand1983mixtec	NA
 7156	tlac11	boca	žuʔu	žuʔu	23	NA	NA	NA	josserand1983mixtec	NA
 7268	tlac11	oreja	soʔo	soʔo	24	NA	NA	NA	josserand1983mixtec	NA
-7384	tlac11	nariz	stNi̧i̧	stni̧i̧	25	NA	NA	NA	josserand1983mixtec	NA
+7384	tlac11	nariz	stNi̧i̧	stNi̧i̧	25	NA	NA	NA	josserand1983mixtec	NA
 7499	tlac11	cuello	suku̧	suku̧	26	NA	NA	NA	josserand1983mixtec	NA
-7618	tlac11	uña	tNi̧i̧	tni̧i̧	28	NA	NA	NA	josserand1983mixtec	NA
+7618	tlac11	uña	tNi̧i̧	tNi̧i̧	28	NA	NA	NA	josserand1983mixtec	NA
 7733	tlac11	tripas	xiti	xiti	31	NA	NA	NA	josserand1983mixtec	NA
 7853	tlac11	pie	xaʔa	xaʔa	32	NA	NA	NA	josserand1983mixtec	NA
 7969	tlac11	enfermedad	kʷeʔe	kʷeʔe	33	NA	NA	NA	josserand1983mixtec	NA
@@ -18,8 +18,8 @@ ID	DOCULECT	GLOSS	VALUE	FORM	IDlist	NOTES	LOAN	LOAN_SOURCE	SOURCE	FLOATTONE
 8178	tlac11	grano	ⁿdiʔiži	ⁿdiʔiži	36	NA	NA	NA	josserand1983mixtec	NA
 8292	tlac11	pus	ⁿdakʷa	ⁿdakʷa	37	NA	NA	NA	josserand1983mixtec	NA
 8474	tlac11	huarache	ⁿdixa̧	ⁿdixa̧	40	NA	NA	NA	josserand1983mixtec	NA
-8558	tlac11	calzón, pantalón	itNi̧	itni̧	41	NA	NA	NA	josserand1983mixtec	NA
-8632	tlac11	huipil	šitNi̧?	šitni̧?	42	NA	NA	NA	josserand1983mixtec	NA
+8558	tlac11	calzón, pantalón	itNi̧	itNi̧	41	NA	NA	NA	josserand1983mixtec	NA
+8632	tlac11	huipil	šitNi̧?	šitNi̧?	42	NA	NA	NA	josserand1983mixtec	NA
 8739	tlac11	pueblo	ñu̧u̧	ñu̧u̧	43	NA	NA	NA	josserand1983mixtec	NA
 8854	tlac11	casa	ƀeʔe	ƀeʔe	44	NA	NA	NA	josserand1983mixtec	NA
 8945	tlac11	horcón	si̧ʔi̧	si̧ʔi̧	46	NA	NA	NA	josserand1983mixtec	NA
@@ -39,10 +39,10 @@ ID	DOCULECT	GLOSS	VALUE	FORM	IDlist	NOTES	LOAN	LOAN_SOURCE	SOURCE	FLOATTONE
 10428	tlac11	ardilla	kʷȩni̧	kʷȩni̧	62	NA	NA	NA	josserand1983mixtec	NA
 10554	tlac11	gato	ƀilu	ƀilu	69	NA	NA	NA	josserand1983mixtec	NA
 10671	tlac11	cuerno	ⁿǰiki	ⁿǰiki	76	NA	NA	NA	josserand1983mixtec	NA
-10789	tlac11	pluma	tNu̧mi̧	tnu̧mi̧	77	NA	NA	NA	josserand1983mixtec	NA
+10789	tlac11	pluma	tNu̧mi̧	tNu̧mi̧	77	NA	NA	NA	josserand1983mixtec	NA
 10882	tlac11	ala	ⁿdixi̧	ⁿdixi̧	78	NA	NA	NA	josserand1983mixtec	NA
 10996	tlac11	cola	su̧ʔma̧	su̧ʔma̧	79	NA	NA	NA	josserand1983mixtec	NA
-11117	tlac11	árbol	žutNu̧	žutnu̧	80	NA	NA	NA	josserand1983mixtec	NA
+11117	tlac11	árbol	žutNu̧	žutNu̧	80	NA	NA	NA	josserand1983mixtec	NA
 11217	tlac11	hierba	žiʔi	žiʔi	81	NA	NA	NA	josserand1983mixtec	NA
 11218	tlac11	hierba	žuku	žuku	81	NA	NA	NA	josserand1983mixtec	NA
 11336	tlac11	maguey	žaƀi	žaƀi	84	NA	NA	NA	josserand1983mixtec	NA
@@ -67,7 +67,7 @@ ID	DOCULECT	GLOSS	VALUE	FORM	IDlist	NOTES	LOAN	LOAN_SOURCE	SOURCE	FLOATTONE
 13243	tlac11	carne	sa̧ʔa̧	sa̧ʔa̧	114	NA	NA	NA	josserand1983mixtec	NA
 13364	tlac11	comal	xižo	xižo	115	NA	NA	NA	josserand1983mixtec	NA
 13459	tlac11	olla	kisi	kisi	116	NA	NA	NA	josserand1983mixtec	NA
-13560	tlac11	horno	xitNu̧	xitnu̧	117	NA	NA	NA	josserand1983mixtec	NA
+13560	tlac11	horno	xitNu̧	xitNu̧	117	NA	NA	NA	josserand1983mixtec	NA
 13675	tlac11	lumbre	ñu̧ʔu̧	ñu̧ʔu̧	118	NA	NA	NA	josserand1983mixtec	NA
 13797	tlac11	humo	ñu̧ʔma̧	ñu̧ʔma̧	121	NA	NA	NA	josserand1983mixtec	NA
 13895	tlac11	basura	mi̧ʔi̧	mi̧ʔi̧	122	NA	NA	NA	josserand1983mixtec	NA
@@ -111,17 +111,17 @@ ID	DOCULECT	GLOSS	VALUE	FORM	IDlist	NOTES	LOAN	LOAN_SOURCE	SOURCE	FLOATTONE
 18417	tlac11	floja	taža	taža	186	NA	NA	NA	josserand1983mixtec	NA
 18416	tlac11	flojo	kuši	kuši	186	NA	NA	NA	josserand1983mixtec	NA
 18524	tlac11	feo	kini	kini	187	NA	NA	NA	josserand1983mixtec	NA
-18632	tlac11	está cerca	žatNi̧	žatni̧	189	NA	NA	NA	josserand1983mixtec	NA
+18632	tlac11	está cerca	žatNi̧	žatNi̧	189	NA	NA	NA	josserand1983mixtec	NA
 18742	tlac11	pesado	ƀee	ƀee	191	NA	NA	NA	josserand1983mixtec	NA
 18860	tlac11	lisa, liso	ⁿǰiʔi	ⁿǰiʔi	193	NA	NA	NA	josserand1983mixtec	NA
 18974	tlac11	despacio	kʷee	kʷee	194	NA	NA	NA	josserand1983mixtec	NA
 19088	tlac11	ayer	iku	iku	195	NA	NA	NA	josserand1983mixtec	NA
 19207	tlac11	año	kʷiža	kʷiža	196	NA	NA	NA	josserand1983mixtec	NA
-19305	tlac11	ahora	ƀitNa̧	ƀitna̧	197	NA	NA	NA	josserand1983mixtec	NA
+19305	tlac11	ahora	ƀitNa̧	ƀitNa̧	197	NA	NA	NA	josserand1983mixtec	NA
 19396	tlac11	toda la noche	nī̧-ni̧ñu̧	nī̧-ni̧ñu̧	199	NA	NA	NA	josserand1983mixtec	NA
 19511	tlac11	día	kíi	kíi	200	NA	NA	NA	josserand1983mixtec	NA
 19632	tlac11	mitad	saƀa	saƀa	202	NA	NA	NA	josserand1983mixtec	NA
-19751	tlac11	trabajo	tNi̧ñu̧	tni̧ñu̧	204	NA	NA	NA	josserand1983mixtec	NA
-19871	tlac11	palabra	tNu̧ʔu̧	tnu̧ʔu̧	205	NA	NA	NA	josserand1983mixtec	NA
+19751	tlac11	trabajo	tNi̧ñu̧	tNi̧ñu̧	204	NA	NA	NA	josserand1983mixtec	NA
+19871	tlac11	palabra	tNu̧ʔu̧	tNu̧ʔu̧	205	NA	NA	NA	josserand1983mixtec	NA
 19961	tlac11	culpa	kʷeči	kʷeči	206	NA	NA	NA	josserand1983mixtec	NA
 20079	tlac11	cuándo	na̧-ʔa̧ma̧	na̧-ʔa̧ma̧	208	NA	NA	NA	josserand1983mixtec	NA
