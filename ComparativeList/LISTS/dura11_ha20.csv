@@ -72,7 +72,7 @@ IDlist	CATEGORY	GLOSS	VALUE	FORM	ID	NOTES	LOAN	LOAN_SOURCE	DOCULECT	SOURCE
 71	animal	gallina, pollo	ntuxí		20168				dura11	hernandez2020san-martin
 72	animal	marrano, puerco, cerdo	kóchí		20169		yes	Spanish	dura11	hernandez2020san-martin
 73	animal	caballo	kuéì		20170		yes	Colonial Spanish	dura11	hernandez2020san-martin
-74	animal	borrego, oveja			20171				dura11	hernandez2020san-martin
+74	animal	borrego, oveja	lánchí		20171		yes	not sure	dura11	hernandez2020san-martin
 75	animal	hormiga	txokó		20172				dura11	hernandez2020san-martin
 76	animal	cuerno	ntxikìn		20173				dura11	hernandez2020san-martin
 77	animal	pluma	tùmi		20174				dura11	hernandez2020san-martin
@@ -212,5 +212,5 @@ IDlist	CATEGORY	GLOSS	VALUE	FORM	ID	NOTES	LOAN	LOAN_SOURCE	DOCULECT	SOURCE
 205	abstract	palabra	tù'un		20308				dura11	hernandez2020san-martin
 206	abstract	culpa	kuàchi		20309				dura11	hernandez2020san-martin
 207	abstract	sueño	mà'ná		20310				dura11	hernandez2020san-martin
-208	abstract	cuándo			20311				dura11	hernandez2020san-martin
+208	abstract	cuándo	ñama		20311				dura11	hernandez2020san-martin
 209	abstract	canción, música	yaa		20312				dura11	hernandez2020san-martin

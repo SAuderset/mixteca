@@ -10,14 +10,14 @@ ID	DOCULECT	GLOSS	VALUE	FORM	IDlist	NOTES	LOAN	LOAN_SOURCE	SOURCE	FLOATTONE
 7547	cris11	uña	či̧i̧	či̧i̧	28	NA	NA	NA	josserand1983mixtec	NA
 7666	cris11	tripas	(sisi)	sisi	31	NA	NA	NA	josserand1983mixtec	NA
 7785	cris11	pie	saʔa	saʔa	32	NA	NA	NA	josserand1983mixtec	NA
-7901	cris11	enfermedad	kʷweʔe	kʷweʔe	33	NA	NA	NA	josserand1983mixtec	NA
+7901	cris11	enfermedad	kʷeʔe	kʷeʔe	33	NA	NA	NA	josserand1983mixtec	NA
 8111	cris11	grano	ⁿdɨʔyɨ	ⁿdɨʔyɨ	36	NA	NA	NA	josserand1983mixtec	NA
 8224	cris11	pus	lakʷa	lakʷa	37	NA	NA	NA	josserand1983mixtec	NA
 8403	cris11	huarache	ⁿdišča̧	ⁿdišča̧	40	NA	NA	NA	josserand1983mixtec	NA
 8670	cris11	pueblo	ñu̧u̧	ñu̧u̧	43	NA	NA	NA	josserand1983mixtec	NA
 8786	cris11	casa	ƀeʔe	ƀeʔe	44	NA	NA	NA	josserand1983mixtec	NA
 8989	cris11	petate	ǰuƀi	ǰuƀi	47	NA	NA	NA	josserand1983mixtec	NA
-9112	cris11	cama	kama	kama	48	NA	yes	Spanish	josserand1983mixtec	NA
+9112	cris11	cama	kama	kama	48	NA	NA	NA	josserand1983mixtec	NA
 9226	cris11	banquito	čažu	čažu	49	NA	NA	NA	josserand1983mixtec	NA
 9348	cris11	animal	kɨtɨ	kɨtɨ	50	NA	NA	NA	josserand1983mixtec	NA
 9466	cris11	pájaro	čaa	čaa	51	NA	NA	NA	josserand1983mixtec	NA
@@ -27,7 +27,7 @@ ID	DOCULECT	GLOSS	VALUE	FORM	IDlist	NOTES	LOAN	LOAN_SOURCE	SOURCE	FLOATTONE
 10245	cris11	venado	iču	iču	61	NA	NA	NA	josserand1983mixtec	NA
 10361	cris11	ardilla	kʷa̧ñu̧	kʷa̧ñu̧	62	NA	NA	NA	josserand1983mixtec	NA
 10481	cris11	gato	ᵐbilu	ᵐbilu	69	NA	NA	NA	josserand1983mixtec	NA
-10480	cris11	gato	milu	milu	69	NA	maybe	NA	josserand1983mixtec	NA
+10480	cris11	gato	milu	milu	69	NA	NA	NA	josserand1983mixtec	NA
 10603	cris11	cuerno	ⁿdɨkɨ	ⁿdɨkɨ	76	NA	NA	NA	josserand1983mixtec	NA
 10718	cris11	pluma	tu̧mi̧	tu̧mi̧	77	NA	NA	NA	josserand1983mixtec	NA
 10926	cris11	cola	ču̧ʔma̧	ču̧ʔma̧	79	NA	NA	NA	josserand1983mixtec	NA
@@ -47,11 +47,11 @@ ID	DOCULECT	GLOSS	VALUE	FORM	IDlist	NOTES	LOAN	LOAN_SOURCE	SOURCE	FLOATTONE
 12796	cris11	blanquillo, huevo	ⁿdɨwɨ	ⁿdɨwɨ	105	NA	NA	NA	josserand1983mixtec	NA
 13174	cris11	carne	ko̧ño̧	ko̧ño̧	114	NA	NA	NA	josserand1983mixtec	NA
 13292	cris11	comal	čiyo	čiyo	115	NA	NA	NA	josserand1983mixtec	NA
-13498	cris11	horno	ʔornu̧	ʔornu̧	117	NA	yes	Spanish	josserand1983mixtec	NA
+13498	cris11	horno	ʔornu̧	ʔornu̧	117	NA	NA	NA	josserand1983mixtec	NA
 13608	cris11	lumbre	ñu̧ʔu̧	ñu̧ʔu̧	118	NA	NA	NA	josserand1983mixtec	NA
 13724	cris11	humo	ñu̧ʔma̧	ñu̧ʔma̧	121	NA	NA	NA	josserand1983mixtec	NA
 13940	cris11	jícara	yači̧	yači̧	124	NA	NA	NA	josserand1983mixtec	NA
-14061	cris11	cajón	kaxa	kaxa	126	NA	yes	Spanish	josserand1983mixtec	NA
+14061	cris11	cajón	kaxa	kaxa	126	NA	NA	NA	josserand1983mixtec	NA
 14168	cris11	hilo	žuʔƀa	žuʔƀa	127	NA	NA	NA	josserand1983mixtec	NA
 14439	cris11	red	yo̧no̧	yo̧no̧	131	NA	NA	NA	josserand1983mixtec	NA
 14562	cris11	agua	ⁿduča	ⁿduča	137	NA	NA	NA	josserand1983mixtec	NA

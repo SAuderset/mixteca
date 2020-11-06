@@ -15,8 +15,8 @@ ID	DOCULECT	GLOSS	VALUE	FORM	IDlist	NOTES	LOAN	LOAN_SOURCE	SOURCE	FLOATTONE
 8709	nund12	pueblo	ñu̧u̧	ñu̧u̧	43	NA	NA	NA	josserand1983mixtec	NA
 8823	nund12	casa	ƀeʔe	ƀeʔe	44	NA	NA	NA	josserand1983mixtec	NA
 9030	nund12	petate	žuu	žuu	47	NA	NA	NA	josserand1983mixtec	NA
-9148	nund12	cama	kama	kama	48	NA	yes	Spanish	josserand1983mixtec	NA
-9266	nund12	banquito	ƀanku	ƀanku	49	NA	yes	Spanish	josserand1983mixtec	NA
+9148	nund12	cama	kama	kama	48	NA	NA	NA	josserand1983mixtec	NA
+9266	nund12	banquito	ƀanku	ƀanku	49	NA	NA	NA	josserand1983mixtec	NA
 9386	nund12	animal	kiti	kiti	50	NA	NA	NA	josserand1983mixtec	NA
 9504	nund12	pájaro	ti-saa	ti-saa	51	NA	NA	NA	josserand1983mixtec	NA
 9708	nund12	rana	saʔƀa	saʔƀa	54	NA	NA	NA	josserand1983mixtec	NA
@@ -44,7 +44,7 @@ ID	DOCULECT	GLOSS	VALUE	FORM	IDlist	NOTES	LOAN	LOAN_SOURCE	SOURCE	FLOATTONE
 13644	nund12	lumbre	ñu̧ʔu̧	ñu̧ʔu̧	118	NA	NA	NA	josserand1983mixtec	NA
 13764	nund12	humo	ñu̧ʔma̧	ñu̧ʔma̧	121	NA	NA	NA	josserand1983mixtec	NA
 13981	nund12	jícara	žaxi	žaxi	124	NA	NA	NA	josserand1983mixtec	NA
-14094	nund12	cajón	kaxa	kaxa	126	NA	yes	Spanish	josserand1983mixtec	NA
+14094	nund12	cajón	kaxa	kaxa	126	NA	NA	NA	josserand1983mixtec	NA
 14204	nund12	hilo	žuʔa	žuʔa	127	NA	NA	NA	josserand1983mixtec	NA
 14476	nund12	red	ñu̧nu̧	ñu̧nu̧	131	NA	NA	NA	josserand1983mixtec	NA
 14602	nund12	agua	ⁿdute	ⁿdute	137	NA	NA	NA	josserand1983mixtec	NA
@@ -78,5 +78,5 @@ ID	DOCULECT	GLOSS	VALUE	FORM	IDlist	NOTES	LOAN	LOAN_SOURCE	SOURCE	FLOATTONE
 19478	nund12	día	kiƀi	kiƀi	200	NA	NA	NA	josserand1983mixtec	NA
 19601	nund12	mitad	saƀa	saƀa	202	NA	NA	NA	josserand1983mixtec	NA
 19718	nund12	trabajo	sa-tiu̧	sa-tiu̧	204	NA	NA	NA	josserand1983mixtec	NA
-19840	nund12	palabra	palabra	palabra	205	NA	yes	Spanish	josserand1983mixtec	NA
+19840	nund12	palabra	palabra	palabra	205	NA	NA	NA	josserand1983mixtec	NA
 20046	nund12	cuándo	na̧-kiƀi	na̧-kiƀi	208	NA	NA	NA	josserand1983mixtec	NA

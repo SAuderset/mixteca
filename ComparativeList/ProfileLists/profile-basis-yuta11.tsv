@@ -15,14 +15,14 @@ ID	DOCULECT	GLOSS	VALUE	FORM	IDlist	NOTES	LOAN	LOAN_SOURCE	SOURCE	FLOATTONE
 8755	yuta11	pueblo	ñu̧u̧	ñu̧u̧	43	NA	NA	NA	josserand1983mixtec	NA
 8870	yuta11	casa	ƀeʔe	ƀeʔe	44	NA	NA	NA	josserand1983mixtec	NA
 9080	yuta11	petate	žuu	žuu	47	NA	NA	NA	josserand1983mixtec	NA
-9195	yuta11	cama	kama	kama	48	NA	yes	Spanish	josserand1983mixtec	NA
-9317	yuta11	banquito	šile	šile	49	NA	yes	Spanish	josserand1983mixtec	NA
+9195	yuta11	cama	kama	kama	48	NA	NA	NA	josserand1983mixtec	NA
+9317	yuta11	banquito	šile	šile	49	NA	NA	NA	josserand1983mixtec	NA
 9435	yuta11	animal	kɨtɨ	kɨtɨ	50	NA	NA	NA	josserand1983mixtec	NA
 9551	yuta11	pájaro	či-đaa	či-đaa	51	NA	NA	NA	josserand1983mixtec	NA
-9761	yuta11	rana	ŗa̧na̧	ŗa̧na̧	54	NA	yes	Spanish	josserand1983mixtec	NA
+9761	yuta11	rana	r̃a̧na̧	r̃a̧na̧	54	NA	NA	NA	josserand1983mixtec	NA
 10213	yuta11	rata	čoto	čoto	60	NA	NA	NA	josserand1983mixtec	NA
 10332	yuta11	venado	iđu	iđu	61	NA	NA	NA	josserand1983mixtec	NA
-10443	yuta11	ardilla	arđiya	arđiya	62	NA	yes	Spanish	josserand1983mixtec	NA
+10443	yuta11	ardilla	arđiya	arđiya	62	NA	NA	NA	josserand1983mixtec	NA
 10571	yuta11	gato	ƀilu	ƀilu	69	NA	NA	NA	josserand1983mixtec	NA
 10687	yuta11	cuerno	kaču	kaču	76	NA	NA	NA	josserand1983mixtec	NA
 10806	yuta11	pluma	nu̧mi̧	nu̧mi̧	77	NA	NA	NA	josserand1983mixtec	NA
@@ -44,7 +44,7 @@ ID	DOCULECT	GLOSS	VALUE	FORM	IDlist	NOTES	LOAN	LOAN_SOURCE	SOURCE	FLOATTONE
 13691	yuta11	lumbre	ñu̧ʔu̧	ñu̧ʔu̧	118	NA	NA	NA	josserand1983mixtec	NA
 13814	yuta11	humo	ñu̧ʔmȩ	ñu̧ʔmȩ	121	NA	NA	NA	josserand1983mixtec	NA
 14033	yuta11	jícara	ñȩ-ⁿdaʔa	ñȩ-ⁿdaʔa	124	NA	NA	NA	josserand1983mixtec	NA
-14136	yuta11	cajón	kaxa	kaxa	126	NA	yes	Spanish	josserand1983mixtec	NA
+14136	yuta11	cajón	kaxa	kaxa	126	NA	NA	NA	josserand1983mixtec	NA
 14254	yuta11	hilo	yuʔƀe	yuʔƀe	127	NA	NA	NA	josserand1983mixtec	NA
 14523	yuta11	red	ño̧no̧	ño̧no̧	131	NA	NA	NA	josserand1983mixtec	NA
 14654	yuta11	agua	ⁿdute	ⁿdute	137	NA	NA	NA	josserand1983mixtec	NA
@@ -55,7 +55,7 @@ ID	DOCULECT	GLOSS	VALUE	FORM	IDlist	NOTES	LOAN	LOAN_SOURCE	SOURCE	FLOATTONE
 15366	yuta11	piedra	žuu	žuu	143	NA	NA	NA	josserand1983mixtec	NA
 15480	yuta11	algodón	kači	kači	144	NA	NA	NA	josserand1983mixtec	NA
 15680	yuta11	cera	ñu̧mȩ	ñu̧mȩ	148	NA	NA	NA	josserand1983mixtec	NA
-15803	yuta11	lodo	lodo	lodo	149	NA	yes	Spanish	josserand1983mixtec	NA
+15803	yuta11	lodo	lodo	lodo	149	NA	NA	NA	josserand1983mixtec	NA
 15921	yuta11	espuma	ti̧-ñu̧	ti̧-ñu̧	150	NA	NA	NA	josserand1983mixtec	NA
 16037	yuta11	rojo	kʷeʔe	kʷeʔe	152	NA	NA	NA	josserand1983mixtec	NA
 16151	yuta11	amarillo	xʷi̧i̧	xʷi̧i̧	154	NA	NA	NA	josserand1983mixtec	NA
@@ -82,4 +82,4 @@ ID	DOCULECT	GLOSS	VALUE	FORM	IDlist	NOTES	LOAN	LOAN_SOURCE	SOURCE	FLOATTONE
 19649	yuta11	mitad	đaƀa	đaƀa	202	NA	NA	NA	josserand1983mixtec	NA
 19769	yuta11	trabajo	ni̧o̧	ni̧o̧	204	NA	NA	NA	josserand1983mixtec	NA
 19886	yuta11	palabra	nu̧ʔu̧	nu̧ʔu̧	205	NA	NA	NA	josserand1983mixtec	NA
-20095	yuta11	cuándo	na̧-ore	na̧-ore	208	NA	partial	Spanish	josserand1983mixtec	NA
+20095	yuta11	cuándo	na̧-ore	na̧-ore	208	NA	NA	NA	josserand1983mixtec	NA

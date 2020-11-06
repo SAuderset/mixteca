@@ -18,10 +18,10 @@ ID	DOCULECT	GLOSS	VALUE	FORM	IDlist	NOTES	LOAN	LOAN_SOURCE	SOURCE	FLOATTONE
 8830	pena12	casa	ƀeʔe	ƀeʔe	44	NA	NA	NA	josserand1983mixtec	NA
 9037	pena12	petate	žuu	žuu	47	NA	NA	NA	josserand1983mixtec	NA
 9155	pena12	cama	xito	xito	48	NA	NA	NA	josserand1983mixtec	NA
-9273	pena12	banquito	ƀa̧ᵑgu	ƀa̧ᵑgu	49	NA	yes	Spanish	josserand1983mixtec	NA
+9273	pena12	banquito	ƀa̧ᵑgu	ƀa̧ᵑgu	49	NA	NA	NA	josserand1983mixtec	NA
 9393	pena12	animal	kiti	kiti	50	NA	NA	NA	josserand1983mixtec	NA
 9511	pena12	pájaro	saa	saa	51	NA	NA	NA	josserand1983mixtec	NA
-9717	pena12	rana	sapu	sapu	54	NA	yes	Spanish	josserand1983mixtec	NA
+9717	pena12	rana	sapu	sapu	54	NA	NA	NA	josserand1983mixtec	NA
 10161	pena12	rata	liᵑgi	liᵑgi	60	NA	NA	NA	josserand1983mixtec	NA
 10289	pena12	venado	isu	isu	61	NA	NA	NA	josserand1983mixtec	NA
 10405	pena12	ardilla	kʷa̧ni̧	kʷa̧ni̧	62	NA	NA	NA	josserand1983mixtec	NA
@@ -45,7 +45,7 @@ ID	DOCULECT	GLOSS	VALUE	FORM	IDlist	NOTES	LOAN	LOAN_SOURCE	SOURCE	FLOATTONE
 13651	pena12	lumbre	ñu̧ʔu̧	ñu̧ʔu̧	118	NA	NA	NA	josserand1983mixtec	NA
 13771	pena12	humo	ñu̧ʔma̧	ñu̧ʔma̧	121	NA	NA	NA	josserand1983mixtec	NA
 13988	pena12	jícara	ña̧xi̧	ña̧xi̧	124	NA	NA	NA	josserand1983mixtec	NA
-14100	pena12	cajón	kaxa	kaxa	126	NA	yes	Spanish	josserand1983mixtec	NA
+14100	pena12	cajón	kaxa	kaxa	126	NA	NA	NA	josserand1983mixtec	NA
 14212	pena12	hilo	žuʔƀa	žuʔƀa	127	NA	NA	NA	josserand1983mixtec	NA
 14484	pena12	red	ñu̧nu̧	ñu̧nu̧	131	NA	NA	NA	josserand1983mixtec	NA
 14609	pena12	agua	ⁿdute	ⁿdute	137	NA	NA	NA	josserand1983mixtec	NA

@@ -17,14 +17,14 @@ ID	DOCULECT	GLOSS	VALUE	FORM	IDlist	NOTES	LOAN	LOAN_SOURCE	SOURCE	FLOATTONE
 8743	toto12	pueblo	ñu̧u̧	ñu̧u̧	43	NA	NA	NA	josserand1983mixtec	NA
 8858	toto12	casa	ƀeʔe	ƀeʔe	44	NA	NA	NA	josserand1983mixtec	NA
 9068	toto12	petate	yuui	yuui	47	NA	NA	NA	josserand1983mixtec	NA
-9183	toto12	cama	kama	kama	48	NA	yes	Spanish	josserand1983mixtec	NA
-9305	toto12	banquito	siyeta	siyeta	49	NA	yes	Spanish	josserand1983mixtec	NA
+9183	toto12	cama	kama	kama	48	NA	NA	NA	josserand1983mixtec	NA
+9305	toto12	banquito	siyeta	siyeta	49	NA	NA	NA	josserand1983mixtec	NA
 9422	toto12	animal	kisi	kisi	50	NA	NA	NA	josserand1983mixtec	NA
 9539	toto12	pájaro	laa	laa	51	NA	NA	NA	josserand1983mixtec	NA
-9747	toto12	rana	rana	rana	54	NA	yes	Spanish	josserand1983mixtec	NA
+9747	toto12	rana	rana	rana	54	NA	NA	NA	josserand1983mixtec	NA
 10196	toto12	rata	si-tni̧i̧	si-tni̧i̧	60	NA	NA	NA	josserand1983mixtec	NA
 10320	toto12	venado	sa-kʷaa	sa-kʷaa	61	NA	NA	NA	josserand1983mixtec	NA
-10431	toto12	ardilla	si-arđiya	si-arđiya	62	NA	partial	Spanish	josserand1983mixtec	NA
+10431	toto12	ardilla	si-arđiya	si-arđiya	62	NA	NA	NA	josserand1983mixtec	NA
 10558	toto12	gato	(čitu)	čitu	69	NA	NA	NA	josserand1983mixtec	NA
 10676	toto12	cuerno	ⁿǰiki	ⁿǰiki	76	NA	NA	NA	josserand1983mixtec	NA
 10794	toto12	pluma	tnu̧mi̧	tnu̧mi̧	77	NA	NA	NA	josserand1983mixtec	NA
@@ -76,7 +76,7 @@ ID	DOCULECT	GLOSS	VALUE	FORM	IDlist	NOTES	LOAN	LOAN_SOURCE	SOURCE	FLOATTONE
 17651	toto12	grande (sg.)	kaʔnu̧	kaʔnu̧	173	NA	NA	NA	josserand1983mixtec	NA
 17778	toto12	chico	kʷači	kʷači	175	NA	NA	NA	josserand1983mixtec	NA
 17987	toto12	dulce	ƀiđi	ƀiđi	180	NA	NA	NA	josserand1983mixtec	NA
-18637	toto12	está cerca	čiɡayo	čiɡayo	189	NA	probably	Spanish?	josserand1983mixtec	NA
+18637	toto12	está cerca	čiɡayo	čiɡayo	189	NA	NA	NA	josserand1983mixtec	NA
 18746	toto12	pesado	ƀee	ƀee	191	NA	NA	NA	josserand1983mixtec	NA
 18978	toto12	despacio	kʷee-ni	kʷee-ni	194	NA	NA	NA	josserand1983mixtec	NA
 19092	toto12	ayer	iku	iku	195	NA	NA	NA	josserand1983mixtec	NA
@@ -84,5 +84,5 @@ ID	DOCULECT	GLOSS	VALUE	FORM	IDlist	NOTES	LOAN	LOAN_SOURCE	SOURCE	FLOATTONE
 19516	toto12	día	ⁿdui	ⁿdui	200	NA	NA	NA	josserand1983mixtec	NA
 19638	toto12	mitad	đaƀa	đaƀa	202	NA	NA	NA	josserand1983mixtec	NA
 19756	toto12	trabajo	ču̧u̧	ču̧u̧	204	NA	NA	NA	josserand1983mixtec	NA
-19874	toto12	palabra	palabra	palabra	205	NA	yes	Spanish	josserand1983mixtec	NA
+19874	toto12	palabra	palabra	palabra	205	NA	NA	NA	josserand1983mixtec	NA
 20082	toto12	cuándo	na̧-a̧	na̧-a̧	208	NA	NA	NA	josserand1983mixtec	NA

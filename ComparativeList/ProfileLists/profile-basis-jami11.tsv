@@ -2,247 +2,247 @@ ID	DOCULECT	GLOSS	VALUE	FORM	IDlist	NOTES	LOAN	LOAN_SOURCE	SOURCE	FLOATTONE
 375	jami11	mother	sɨhɨ	sɨhɨ	1	NA	NA	NA	johnson1988syntactic	NA
 376	jami11	father	sutu	sutu	3	NA	NA	NA	johnson1988syntactic	NA
 377	jami11	son/daughter, child	sēhe	sēhe	5	NA	NA	NA	johnson1988syntactic	NA
+6385	jami11	hijo/hija	seʔe	seʔe	6	NA	NA	NA	josserand1983mixtec	NA
 378	jami11	brother of man	yan̄i	yan̄i	9	NA	NA	NA	johnson1988syntactic	NA
+6505	jami11	hermano de hombre	ya̧ñi̧	ya̧ñi̧	9	NA	NA	NA	josserand1983mixtec	NA
 379	jami11	sister of woman	kuhu	kuhu	10	NA	NA	NA	johnson1988syntactic	NA
 380	jami11	aunt	chishi	chishi	11	NA	NA	NA	johnson1988syntactic	NA
 381	jami11	uncle	shító	shító	12	NA	NA	NA	johnson1988syntactic	NA
 382	jami11	man	ra-yɨɨ	ra-yɨɨ	13	male-?	NA	NA	johnson1988syntactic	NA
+6619	jami11	hombre	ra-yɨɨ	ra-yɨɨ	13	NA	NA	NA	josserand1983mixtec	NA
 383	jami11	woman	ñāhā	ñāhā	14	NA	NA	NA	johnson1988syntactic	NA
 384	jami11	owner, boss	chi-toho	chi-toho	15	NA	NA	NA	johnson1988syntactic	NA
+6737	jami11	dueño	či-toʔo	či-toʔo	15	NA	NA	NA	josserand1983mixtec	NA
 385	jami11	priest	sutu	sutu	16	NA	NA	NA	johnson1988syntactic	NA
+6823	jami11	sacerdote	sutu	sutu	16	NA	NA	NA	josserand1983mixtec	NA
 386	jami11	blood	nɨñɨ	nɨñɨ	17	NA	NA	NA	johnson1988syntactic	NA
+6918	jami11	sangre	nɨ̧ñɨ̧	nɨ̧ñɨ̧	17	NA	NA	NA	josserand1983mixtec	NA
 387	jami11	hair	īshī	īshī	19	NA	NA	NA	johnson1988syntactic	NA
 388	jami11	face	nuu	nuu	20	NA	NA	NA	johnson1988syntactic	NA
-389	jami11	mouth	yūhū	yūhū	23	NA	NA	NA	johnson1988syntactic	NA
-390	jami11	nose	shityin	shityin	25	NA	NA	NA	johnson1988syntactic	NA
-391	jami11	hand	ndāhā	ndāhā	27	NA	NA	NA	johnson1988syntactic	NA
-392	jami11	back	chata	chata	29	NA	NA	NA	johnson1988syntactic	NA
-393	jami11	stomach	chīchi	chīchi	30	NA	NA	NA	johnson1988syntactic	NA
-394	jami11	foot	chaha	chaha	32	NA	NA	NA	johnson1988syntactic	NA
-395	jami11	disease, illness, sickness	kwehe	kwehe	33	NA	NA	NA	johnson1988syntactic	NA
-396	jami11	medicine	tatan	tatan	34	NA	NA	NA	johnson1988syntactic	NA
-397	jami11	cloth	sāhmā	sāhmā	39	NA	NA	NA	johnson1988syntactic	NA
-398	jami11	town	ñuu	ñuu	43	NA	NA	NA	johnson1988syntactic	NA
-399	jami11	house	vēhē	vēhē	44	NA	NA	NA	johnson1988syntactic	NA
-400	jami11	road, trail	ītyī	ītyī	45	NA	NA	NA	johnson1988syntactic	NA
-401	jami11	chair	tyayu	tyayu	49	NA	NA	NA	johnson1988syntactic	NA
-402	jami11	animal	kɨ̄tɨ̄	kɨ̄tɨ̄	50	NA	NA	NA	johnson1988syntactic	NA
-403	jami11	fish	tī-yaka	tī-yaka	52	animal-fish	NA	NA	johnson1988syntactic	NA
-404	jami11	hawk	tású	tású	55	NA	NA	NA	johnson1988syntactic	NA
-405	jami11	scorpion	tī-suhma	tī-suhma	56	animal-tail	NA	NA	johnson1988syntactic	NA
-406	jami11	deer	isu	isu	61	NA	NA	NA	johnson1988syntactic	NA
-407	jami11	opossum	tɨ̄-maha	tɨ̄-maha	64	animal-?	NA	NA	johnson1988syntactic	NA
-408	jami11	rabbit	kūñēshú	kūñēshú	66	Sp. conejo	yes	Spanish	johnson1988syntactic	NA
-409	jami11	dog	ina	ina	68	NA	NA	NA	johnson1988syntactic	NA
-410	jami11	cat	chúmī	chúmī	69	NA	NA	NA	johnson1988syntactic	NA
-411	jami11	rooster	lóhó	lóhó	70	NA	NA	NA	johnson1988syntactic	NA
-412	jami11	ant	tɨ̄-yoko	tɨ̄-yoko	75	animal-ant	NA	NA	johnson1988syntactic	NA
-413	jami11	horn (anatomy)	ndīkī	ndīkī	76	NA	NA	NA	johnson1988syntactic	NA
-414	jami11	feather	tūmi	tūmi	77	NA	NA	NA	johnson1988syntactic	NA
-415	jami11	tail	suhma	suhma	79	NA	NA	NA	johnson1988syntactic	NA
-416	jami11	tree	yūtūn	yūtūn	80	NA	NA	NA	johnson1988syntactic	NA
-417	jami11	maguey, century plant	yāvī	yāvī	84	NA	NA	NA	johnson1988syntactic	NA
-418	jami11	grain of corn	nuñi	nuñi	87	NA	NA	NA	johnson1988syntactic	NA
-419	jami11	cornfield	itu	itu	88	NA	NA	NA	johnson1988syntactic	NA
-420	jami11	cornmeal, corn dough	yūchān	yūchān	91	NA	NA	NA	johnson1988syntactic	NA
-421	jami11	tortilla	shita	shita	92	NA	NA	NA	johnson1988syntactic	NA
-422	jami11	row	yukun	yukun	94	NA	NA	NA	johnson1988syntactic	NA
-423	jami11	bean	ndutyi	ndutyi	96	NA	NA	NA	johnson1988syntactic	NA
-424	jami11	chili pepper	yāhā	yāhā	98	NA	NA	NA	johnson1988syntactic	NA
-425	jami11	salt	ñɨ̄ɨ̄	ñɨ̄ɨ̄	99	NA	NA	NA	johnson1988syntactic	NA
-426	jami11	tomato	tɨ̄-nana	tɨ̄-nana	106	round-tomato?	NA	NA	johnson1988syntactic	NA
-427	jami11	sweet potato	ñahmi	ñahmi	107	NA	NA	NA	johnson1988syntactic	NA
-428	jami11	avocado	tītyī	tītyī	108	NA	NA	NA	johnson1988syntactic	NA
-429	jami11	banana	ndyītyā	ndyītyā	109	only listed as part of tūndyītyā ‘banana plant’	NA	NA	johnson1988syntactic	NA
-430	jami11	custard apple	ndōkō	ndōkō	112	only listed as part of tūndōkō ‘custard apple tree’	NA	NA	johnson1988syntactic	NA
-431	jami11	fire	ñuhu	ñuhu	118	NA	NA	NA	johnson1988syntactic	NA
-432	jami11	charcoal	toon	toon	120	NA	NA	NA	johnson1988syntactic	NA
-433	jami11	smoke	ñuhma	ñuhma	121	NA	NA	NA	johnson1988syntactic	NA
-434	jami11	basket	tīkā	tīkā	125	NA	NA	NA	johnson1988syntactic	NA
-435	jami11	thread	yuhya	yuhya	127	NA	NA	NA	johnson1988syntactic	NA
-436	jami11	rope	yōhō	yōhō	129	NA	NA	NA	johnson1988syntactic	NA
-437	jami11	soap	nama	nama	132	NA	NA	NA	johnson1988syntactic	NA
-438	jami11	moon	yoo	yoo	134	NA	NA	NA	johnson1988syntactic	NA
-439	jami11	water	ndūtyā	ndūtyā	137	NA	NA	NA	johnson1988syntactic	NA
-440	jami11	rain (precipitation)	savi	savi	138	NA	NA	NA	johnson1988syntactic	NA
-441	jami11	river	yūtya	yūtya	139	NA	NA	NA	johnson1988syntactic	NA
-442	jami11	mountain, hill	yūkū	yūkū	141	NA	NA	NA	johnson1988syntactic	NA
-443	jami11	plain, lowland	nduhva	nduhva	142	NA	NA	NA	johnson1988syntactic	NA
-444	jami11	rock	yuu	yuu	143	NA	NA	NA	johnson1988syntactic	NA
-445	jami11	metal	kāa	kāa	145	NA	NA	NA	johnson1988syntactic	NA
-446	jami11	paper	tutu	tutu	146	NA	NA	NA	johnson1988syntactic	NA
-447	jami11	wax	ñuma	ñuma	148	NA	NA	NA	johnson1988syntactic	NA
-448	jami11	mud	ndyahyu	ndyahyu	149	NA	NA	NA	johnson1988syntactic	NA
-449	jami11	black	tōōn	tōōn	155	NA	NA	NA	johnson1988syntactic	NA
-450	jami11	white	kwīchín	kwīchín	156	NA	NA	NA	johnson1988syntactic	NA
-451	jami11	one	ɨ̄ɨ̄n	ɨ̄ɨ̄n	157	also nóō from Spanish uno	NA	NA	johnson1988syntactic	NA
-452	jami11	two	uvi	uvi	158	NA	NA	NA	johnson1988syntactic	NA
-453	jami11	three	uñi	uñi	159	NA	NA	NA	johnson1988syntactic	NA
-454	jami11	four	kumi	kumi	160	NA	NA	NA	johnson1988syntactic	NA
-455	jami11	five	ohon	ohon	161	NA	NA	NA	johnson1988syntactic	NA
-456	jami11	six	iñu	iñu	162	NA	NA	NA	johnson1988syntactic	NA
-457	jami11	seven	ucha	ucha	163	NA	NA	NA	johnson1988syntactic	NA
-458	jami11	eight	un̄a	un̄a	164	NA	NA	NA	johnson1988syntactic	NA
-459	jami11	nine	ɨɨn	ɨɨn	165	NA	NA	NA	johnson1988syntactic	NA
-460	jami11	ten	uchi	uchi	166	NA	NA	NA	johnson1988syntactic	NA
-461	jami11	fifteen	chahun	chahun	167	NA	NA	NA	johnson1988syntactic	NA
-462	jami11	twenty	oko	oko	168	NA	NA	NA	johnson1988syntactic	NA
-463	jami11	poor	ndāhví	ndāhví	169	NA	NA	NA	johnson1988syntactic	NA
-464	jami11	rich	tyāyɨ̄ɨ̄	tyāyɨ̄ɨ̄	170	NA	NA	NA	johnson1988syntactic	NA
-465	jami11	hot	īhñí	īhñí	172	NA	NA	NA	johnson1988syntactic	NA
-466	jami11	big.SG	kāhnú	kāhnú	173	NA	NA	NA	johnson1988syntactic	NA
-467	jami11	big.PL	nāhnú	nāhnú	174	NA	NA	NA	johnson1988syntactic	NA
-468	jami11	small.SG	lúhlū	lúhlū	175	NA	NA	NA	johnson1988syntactic	NA
-469	jami11	small.PL	ndyihi	ndyihi	176	NA	NA	NA	johnson1988syntactic	NA
-470	jami11	small.PL	kwātyi	kwātyi	176	NA	NA	NA	johnson1988syntactic	NA
-471	jami11	small.PL	kwatyaa	kwatyaa	176	NA	NA	NA	johnson1988syntactic	NA
-472	jami11	long.SG	kāñí	kāñí	177	NA	NA	NA	johnson1988syntactic	NA
-473	jami11	long.PL	nāñí	nāñí	178	NA	NA	NA	johnson1988syntactic	NA
-474	jami11	good	vāha	vāha	179	NA	NA	NA	johnson1988syntactic	NA
-475	jami11	sweet	vishi	vishi	180	NA	NA	NA	johnson1988syntactic	NA
-476	jami11	delicious	asɨn	asɨn	183	NA	NA	NA	johnson1988syntactic	NA
-477	jami11	lazy	sūchān	sūchān	186	NA	NA	NA	johnson1988syntactic	NA
-478	jami11	ugly	kīñī	kīñī	187	NA	NA	NA	johnson1988syntactic	NA
-479	jami11	slow	kwēē	kwēē	194	NA	NA	NA	johnson1988syntactic	NA
-480	jami11	yesterday	íkú	íkú	195	NA	NA	NA	johnson1988syntactic	NA
-481	jami11	year	kwiya	kwiya	196	NA	NA	NA	johnson1988syntactic	NA
-482	jami11	now, today	vītyīn	vītyīn	197	NA	NA	NA	johnson1988syntactic	NA
-483	jami11	night	n̄ūú	n̄ūú	198	NA	NA	NA	johnson1988syntactic	NA
-484	jami11	night time	ñīyākā	ñī-yākā	199	NA	NA	NA	johnson1988syntactic	NA
-485	jami11	day	kɨvɨ	kɨvɨ	200	NA	NA	NA	johnson1988syntactic	NA
-486	jami11	day	kɨ	kɨ	200	NA	NA	NA	johnson1988syntactic	NA
-487	jami11	all day	ndī-yāká	ndī-yāká	201	all-? ; compound from ndɨ̄hɨ̄ ‘all’	NA	NA	johnson1988syntactic	NA
-488	jami11	half, middle	sāvā	sāvā	202	NA	NA	NA	johnson1988syntactic	NA
-489	jami11	money	shuhun	shuhun	203	NA	NA	NA	johnson1988syntactic	NA
-490	jami11	work	tyīñō	tyīñō	204	NA	NA	NA	johnson1988syntactic	NA
-491	jami11	word	tūhun	tūhun	205	NA	NA	NA	johnson1988syntactic	NA
-492	jami11	fault, sin	kwātyi	kwātyi	206	NA	NA	NA	johnson1988syntactic	NA
-493	jami11	when	ámá	ámá	208	NA	NA	NA	johnson1988syntactic	NA
-494	jami11	song	yaa	yaa	209	NA	NA	NA	johnson1988syntactic	NA
-6385	jami11	hijo/hija	seʔe	seʔe	6	NA	NA	NA	josserand1983mixtec	NA
-6505	jami11	hermano de hombre	ya̧ñi̧	ya̧ñi̧	9	NA	NA	NA	josserand1983mixtec	NA
-6619	jami11	hombre	ra-yɨɨ	ra-yɨɨ	13	NA	NA	NA	josserand1983mixtec	NA
-6737	jami11	dueño	či-toʔo	či-toʔo	15	NA	NA	NA	josserand1983mixtec	NA
-6823	jami11	sacerdote	sutu	sutu	16	NA	NA	NA	josserand1983mixtec	NA
-6918	jami11	sangre	nɨ̧ñɨ̧	nɨ̧ñɨ̧	17	NA	NA	NA	josserand1983mixtec	NA
 7031	jami11	diente	no̧ʔo̧	no̧ʔo̧	22	NA	NA	NA	josserand1983mixtec	NA
+389	jami11	mouth	yūhū	yūhū	23	NA	NA	NA	johnson1988syntactic	NA
 7118	jami11	boca	yuʔu	yuʔu	23	NA	NA	NA	josserand1983mixtec	NA
 7220	jami11	oreja	soʔo	soʔo	24	NA	NA	NA	josserand1983mixtec	NA
+390	jami11	nose	shityin	shityin	25	NA	NA	NA	johnson1988syntactic	NA
 7337	jami11	nariz	šitʸi̧	šitʸi̧	25	NA	NA	NA	josserand1983mixtec	NA
 7452	jami11	cuello	suku̧	suku̧	26	NA	NA	NA	josserand1983mixtec	NA
+391	jami11	hand	ndāhā	ndāhā	27	NA	NA	NA	johnson1988syntactic	NA
 7566	jami11	uña	tʸi̧i̧	tʸi̧i̧	28	NA	NA	NA	josserand1983mixtec	NA
+392	jami11	back	chata	chata	29	NA	NA	NA	johnson1988syntactic	NA
+393	jami11	stomach	chīchi	chīchi	30	NA	NA	NA	johnson1988syntactic	NA
 7685	jami11	tripas	čɨtɨ	čɨtɨ	31	NA	NA	NA	josserand1983mixtec	NA
+394	jami11	foot	chaha	chaha	32	NA	NA	NA	johnson1988syntactic	NA
 7804	jami11	pie	čaʔa	čaʔa	32	NA	NA	NA	josserand1983mixtec	NA
-7920	jami11	enfermedad	kʷweʔe	kʷweʔe	33	NA	NA	NA	josserand1983mixtec	NA
+395	jami11	disease, illness, sickness	kwehe	kwehe	33	NA	NA	NA	johnson1988syntactic	NA
+7920	jami11	enfermedad	kʷeʔe	kʷeʔe	33	NA	NA	NA	josserand1983mixtec	NA
+396	jami11	medicine	tatan	tatan	34	NA	NA	NA	johnson1988syntactic	NA
 8031	jami11	hinchazón	kʷa-ñu̧ʔu̧	kʷa-ñu̧ʔu̧	35	NA	NA	NA	josserand1983mixtec	NA
 8130	jami11	grano	ⁿdɨʔyɨ	ⁿdɨʔyɨ	36	NA	NA	NA	josserand1983mixtec	NA
 8244	jami11	pus	ⁿdakʷa	ⁿdakʷa	37	NA	NA	NA	josserand1983mixtec	NA
 8341	jami11	orina	čaša	čaša	38	NA	NA	NA	josserand1983mixtec	NA
+397	jami11	cloth	sāhmā	sāhmā	39	NA	NA	NA	johnson1988syntactic	NA
 8422	jami11	huarache	ⁿdiča̧	ⁿdiča̧	40	NA	NA	NA	josserand1983mixtec	NA
 8525	jami11	calzón, pantalón	kutu-čaʔa	kutu-čaʔa	41	NA	NA	NA	josserand1983mixtec	NA
 8603	jami11	huipil	šiku̧	šiku̧	42	NA	NA	NA	josserand1983mixtec	NA
+398	jami11	town	ñuu	ñuu	43	NA	NA	NA	johnson1988syntactic	NA
 8691	jami11	pueblo	ñu̧u̧	ñu̧u̧	43	NA	NA	NA	josserand1983mixtec	NA
+399	jami11	house	vēhē	vēhē	44	NA	NA	NA	johnson1988syntactic	NA
 8805	jami11	casa	ƀeʔe	ƀeʔe	44	NA	NA	NA	josserand1983mixtec	NA
+400	jami11	road, trail	ītyī	ītyī	45	NA	NA	NA	johnson1988syntactic	NA
 8911	jami11	horcón	sɨ̧ʔñɨ̧	sɨ̧ʔñɨ̧	46	NA	NA	NA	josserand1983mixtec	NA
 9010	jami11	petate	yuƀi	yuƀi	47	NA	NA	NA	josserand1983mixtec	NA
 9130	jami11	cama	čito	čito	48	NA	NA	NA	josserand1983mixtec	NA
+401	jami11	chair	tyayu	tyayu	49	NA	NA	NA	johnson1988syntactic	NA
 9246	jami11	banquito	tʸayu	tʸayu	49	NA	NA	NA	josserand1983mixtec	NA
+402	jami11	animal	kɨ̄tɨ̄	kɨ̄tɨ̄	50	NA	NA	NA	johnson1988syntactic	NA
 9367	jami11	animal	kɨtɨ	kɨtɨ	50	NA	NA	NA	josserand1983mixtec	NA
 9485	jami11	pájaro	saa	saa	51	NA	NA	NA	josserand1983mixtec	NA
+403	jami11	fish	tī-yaka	tī-yaka	52	animal-fish	NA	NA	johnson1988syntactic	NA
 9592	jami11	culebra	koo	koo	53	NA	NA	NA	josserand1983mixtec	NA
 9691	jami11	rana	saʔƀa	saʔƀa	54	NA	NA	NA	josserand1983mixtec	NA
+404	jami11	hawk	tású	tású	55	NA	NA	NA	johnson1988syntactic	NA
 9824	jami11	gavilán	tasu̧	tasu̧	55	NA	NA	NA	josserand1983mixtec	NA
+405	jami11	scorpion	tī-suhma	tī-suhma	56	animal-tail	NA	NA	johnson1988syntactic	NA
 9942	jami11	alacrán	tɨ-su̧ʔma̧	tɨ-su̧ʔma̧	56	NA	NA	NA	josserand1983mixtec	NA
 10027	jami11	cucaracha	ti-tʸaʔya	ti-tʸaʔya	57	NA	NA	NA	josserand1983mixtec	NA
 10131	jami11	rata	tɨ̧ñɨ̧	tɨ̧ñɨ̧	60	NA	NA	NA	josserand1983mixtec	NA
+406	jami11	deer	isu	isu	61	NA	NA	NA	johnson1988syntactic	NA
 10264	jami11	venado	isu	isu	61	NA	NA	NA	josserand1983mixtec	NA
 10380	jami11	ardilla	kʷa̧ñu̧	kʷa̧ñu̧	62	NA	NA	NA	josserand1983mixtec	NA
+407	jami11	opossum	tɨ̄-maha	tɨ̄-maha	64	animal-?	NA	NA	johnson1988syntactic	NA
+408	jami11	rabbit	kūñēshú	kūñēshú	66	Sp. conejo	yes	Spanish	johnson1988syntactic	NA
+409	jami11	dog	ina	ina	68	NA	NA	NA	johnson1988syntactic	NA
+410	jami11	cat	chúmī	chúmī	69	NA	NA	NA	johnson1988syntactic	NA
 10501	jami11	gato	(čumi̧)	čumi̧	69	NA	NA	NA	josserand1983mixtec	NA
+411	jami11	rooster	lóhó	lóhó	70	NA	NA	NA	johnson1988syntactic	NA
+412	jami11	ant	tɨ̄-yoko	tɨ̄-yoko	75	animal-ant	NA	NA	johnson1988syntactic	NA
+413	jami11	horn (anatomy)	ndīkī	ndīkī	76	NA	NA	NA	johnson1988syntactic	NA
 10622	jami11	cuerno	ⁿdɨkɨ	ⁿdɨkɨ	76	NA	NA	NA	josserand1983mixtec	NA
+414	jami11	feather	tūmi	tūmi	77	NA	NA	NA	johnson1988syntactic	NA
 10737	jami11	pluma	tu̧mi̧	tu̧mi̧	77	NA	NA	NA	josserand1983mixtec	NA
 10848	jami11	ala	ⁿdiči	ⁿdiči	78	NA	NA	NA	josserand1983mixtec	NA
+415	jami11	tail	suhma	suhma	79	NA	NA	NA	johnson1988syntactic	NA
 10945	jami11	cola	su̧ʔma̧	su̧ʔma̧	79	NA	NA	NA	josserand1983mixtec	NA
+416	jami11	tree	yūtūn	yūtūn	80	NA	NA	NA	johnson1988syntactic	NA
 11066	jami11	árbol	yutu̧	yutu̧	80	NA	NA	NA	josserand1983mixtec	NA
 11179	jami11	hierba	kuʔu	kuʔu	81	NA	NA	NA	josserand1983mixtec	NA
+417	jami11	maguey, century plant	yāvī	yāvī	84	NA	NA	NA	johnson1988syntactic	NA
 11285	jami11	maguey	yaƀi	yaƀi	84	NA	NA	NA	josserand1983mixtec	NA
+418	jami11	grain of corn	nuñi	nuñi	87	NA	NA	NA	johnson1988syntactic	NA
 11403	jami11	maíz	nu̧ñi̧	nu̧ñi̧	87	NA	NA	NA	josserand1983mixtec	NA
+419	jami11	cornfield	itu	itu	88	NA	NA	NA	johnson1988syntactic	NA
 11525	jami11	milpa	itu	itu	88	NA	NA	NA	josserand1983mixtec	NA
+420	jami11	cornmeal, corn dough	yūchān	yūchān	91	NA	NA	NA	johnson1988syntactic	NA
 11639	jami11	masa	yuča̧	yuča̧	91	NA	NA	NA	josserand1983mixtec	NA
+421	jami11	tortilla	shita	shita	92	NA	NA	NA	johnson1988syntactic	NA
 11761	jami11	tortilla	šita	šita	92	NA	NA	NA	josserand1983mixtec	NA
 11875	jami11	rastrojo	ña̧ma̧	ña̧ma̧	93	NA	NA	NA	josserand1983mixtec	NA
+422	jami11	row	yukun	yukun	94	NA	NA	NA	johnson1988syntactic	NA
 11961	jami11	surco	yuku̧	yuku̧	94	NA	NA	NA	josserand1983mixtec	NA
 12047	jami11	espiga	yoko	yoko	95	NA	NA	NA	josserand1983mixtec	NA
+423	jami11	bean	ndutyi	ndutyi	96	NA	NA	NA	johnson1988syntactic	NA
 12143	jami11	frijol(es)	ⁿdutʸi	ⁿdutʸi	96	NA	NA	NA	josserand1983mixtec	NA
 12250	jami11	ejote	ⁿdʸitʸi	ⁿdʸitʸi	97	NA	NA	NA	josserand1983mixtec	NA
+424	jami11	chili pepper	yāhā	yāhā	98	NA	NA	NA	johnson1988syntactic	NA
+425	jami11	salt	ñɨ̄ɨ̄	ñɨ̄ɨ̄	99	NA	NA	NA	johnson1988syntactic	NA
 12346	jami11	sal	ñɨ̧ɨ̧	ñɨ̧ɨ̧	99	NA	NA	NA	josserand1983mixtec	NA
 12461	jami11	calabaza	yɨkɨ-(kʷaʔa)	yɨkɨ-kʷaʔa	100	NA	NA	NA	josserand1983mixtec	NA
 12577	jami11	caña	ⁿdoo	ⁿdoo	102	NA	NA	NA	josserand1983mixtec	NA
 12691	jami11	miel	ⁿdušu	ⁿdušu	103	NA	NA	NA	josserand1983mixtec	NA
 12690	jami11	miel	tʸa-ñu̧ñu̧	tʸa-ñu̧ñu̧	103	NA	NA	NA	josserand1983mixtec	NA
 12815	jami11	blanquillo, huevo	ⁿdɨƀɨ	ⁿdɨƀɨ	105	NA	NA	NA	josserand1983mixtec	NA
+426	jami11	tomato	tɨ̄-nana	tɨ̄-nana	106	round-tomato?	NA	NA	johnson1988syntactic	NA
 12926	jami11	jitomate	tɨ-na̧na̧	tɨ-na̧na̧	106	NA	NA	NA	josserand1983mixtec	NA
+427	jami11	sweet potato	ñahmi	ñahmi	107	NA	NA	NA	johnson1988syntactic	NA
+428	jami11	avocado	tītyī	tītyī	108	NA	NA	NA	johnson1988syntactic	NA
+429	jami11	banana	ndyītyā	ndyītyā	109	only listed as part of tūndyītyā ‘banana plant’	NA	NA	johnson1988syntactic	NA
 13012	jami11	nopal	ƀi̧ʔⁿdʸa	ƀi̧ʔⁿdʸa	110	NA	NA	NA	josserand1983mixtec	NA
 13097	jami11	mamey	ⁿdʸika	ⁿdʸika	111	NA	NA	NA	josserand1983mixtec	NA
+430	jami11	custard apple	ndōkō	ndōkō	112	only listed as part of tūndōkō ‘custard apple tree’	NA	NA	johnson1988syntactic	NA
 13193	jami11	carne	ko̧ño̧	ko̧ño̧	114	NA	NA	NA	josserand1983mixtec	NA
 13311	jami11	comal	čiyo	čiyo	115	NA	NA	NA	josserand1983mixtec	NA
 13425	jami11	olla	kɨsɨ	kɨsɨ	116	NA	NA	NA	josserand1983mixtec	NA
+431	jami11	fire	ñuhu	ñuhu	118	NA	NA	NA	johnson1988syntactic	NA
 13627	jami11	lumbre	ñu̧ʔu̧	ñu̧ʔu̧	118	NA	NA	NA	josserand1983mixtec	NA
+432	jami11	charcoal	toon	toon	120	NA	NA	NA	johnson1988syntactic	NA
+433	jami11	smoke	ñuhma	ñuhma	121	NA	NA	NA	johnson1988syntactic	NA
 13742	jami11	humo	ñu̧ʔma̧	ñu̧ʔma̧	121	NA	NA	NA	josserand1983mixtec	NA
 13860	jami11	basura	mi̧ʔi̧	mi̧ʔi̧	122	NA	NA	NA	josserand1983mixtec	NA
 13961	jami11	jícara	yači̧	yači̧	124	NA	NA	NA	josserand1983mixtec	NA
+434	jami11	basket	tīkā	tīkā	125	NA	NA	NA	johnson1988syntactic	NA
 14079	jami11	ataúd	čatu̧	čatu̧	126	NA	NA	NA	josserand1983mixtec	NA
+435	jami11	thread	yuhya	yuhya	127	NA	NA	NA	johnson1988syntactic	NA
 14187	jami11	hilo	yuʔƀa	yuʔƀa	127	NA	NA	NA	josserand1983mixtec	NA
 14296	jami11	peine	kuka	kuka	128	NA	NA	NA	josserand1983mixtec	NA
+436	jami11	rope	yōhō	yōhō	129	NA	NA	NA	johnson1988syntactic	NA
 14373	jami11	agujero	yaƀi	yaƀi	130	NA	NA	NA	josserand1983mixtec	NA
 14459	jami11	red	yo̧no̧	yo̧no̧	131	NA	NA	NA	josserand1983mixtec	NA
+437	jami11	soap	nama	nama	132	NA	NA	NA	johnson1988syntactic	NA
+438	jami11	moon	yoo	yoo	134	NA	NA	NA	johnson1988syntactic	NA
+439	jami11	water	ndūtyā	ndūtyā	137	NA	NA	NA	johnson1988syntactic	NA
 14583	jami11	agua	ⁿdutʸa	ⁿdutʸa	137	NA	NA	NA	josserand1983mixtec	NA
+440	jami11	rain (precipitation)	savi	savi	138	NA	NA	NA	johnson1988syntactic	NA
 14710	jami11	lluvia	saƀi	saƀi	138	NA	NA	NA	josserand1983mixtec	NA
+441	jami11	river	yūtya	yūtya	139	NA	NA	NA	johnson1988syntactic	NA
 14833	jami11	río	yutʸa	yutʸa	139	NA	NA	NA	josserand1983mixtec	NA
 14945	jami11	rocío	kači̧	kači̧	140	NA	NA	NA	josserand1983mixtec	NA
+442	jami11	mountain, hill	yūkū	yūkū	141	NA	NA	NA	johnson1988syntactic	NA
 15047	jami11	cerro	yuku	yuku	141	NA	NA	NA	josserand1983mixtec	NA
+443	jami11	plain, lowland	nduhva	nduhva	142	NA	NA	NA	johnson1988syntactic	NA
 15170	jami11	llano	ⁿduʔƀa	ⁿduʔƀa	142	NA	NA	NA	josserand1983mixtec	NA
+444	jami11	rock	yuu	yuu	143	NA	NA	NA	johnson1988syntactic	NA
 15296	jami11	piedra	yuu	yuu	143	NA	NA	NA	josserand1983mixtec	NA
 15415	jami11	algodón	katʸi	katʸi	144	NA	NA	NA	josserand1983mixtec	NA
+445	jami11	metal	kāa	kāa	145	NA	NA	NA	johnson1988syntactic	NA
 15517	jami11	fierro	tu̧ñi̧	tu̧ñi̧	145	NA	NA	NA	josserand1983mixtec	NA
+446	jami11	paper	tutu	tutu	146	NA	NA	NA	johnson1988syntactic	NA
+447	jami11	wax	ñuma	ñuma	148	NA	NA	NA	johnson1988syntactic	NA
 15611	jami11	cera	ñu̧ma̧	ñu̧ma̧	148	NA	NA	NA	josserand1983mixtec	NA
+448	jami11	mud	ndyahyu	ndyahyu	149	NA	NA	NA	johnson1988syntactic	NA
 15736	jami11	lodo	ⁿdʸaʔyu	ⁿdʸaʔyu	149	NA	NA	NA	josserand1983mixtec	NA
 15851	jami11	espuma	tɨ̧ñɨ̧	tɨ̧ñɨ̧	150	NA	NA	NA	josserand1983mixtec	NA
 15971	jami11	rojo	k°aʔa	k°aʔa	152	NA	NA	NA	josserand1983mixtec	NA
 16087	jami11	amarillo	kʷa̧a̧	kʷa̧a̧	154	NA	NA	NA	josserand1983mixtec	NA
+449	jami11	black	tōōn	tōōn	155	NA	NA	NA	johnson1988syntactic	NA
+450	jami11	white	kwīchín	kwīchín	156	NA	NA	NA	johnson1988syntactic	NA
+451	jami11	one	ɨ̄ɨ̄n	ɨ̄ɨ̄n	157	also nóō from Spanish uno	NA	NA	johnson1988syntactic	NA
+452	jami11	two	uvi	uvi	158	NA	NA	NA	johnson1988syntactic	NA
 16203	jami11	dos	uƀi	uƀi	158	NA	NA	NA	josserand1983mixtec	NA
+453	jami11	three	uñi	uñi	159	NA	NA	NA	johnson1988syntactic	NA
 16326	jami11	tres	u̧ñi̧	u̧ñi̧	159	NA	NA	NA	josserand1983mixtec	NA
+454	jami11	four	kumi	kumi	160	NA	NA	NA	johnson1988syntactic	NA
 16445	jami11	cuatro	ku̧mi̧	ku̧mi̧	160	NA	NA	NA	josserand1983mixtec	NA
+455	jami11	five	ohon	ohon	161	NA	NA	NA	johnson1988syntactic	NA
 16568	jami11	cinco	o̧ʔo̧	o̧ʔo̧	161	NA	NA	NA	josserand1983mixtec	NA
+456	jami11	six	iñu	iñu	162	NA	NA	NA	johnson1988syntactic	NA
 16687	jami11	seis	i̧ñu̧	i̧ñu̧	162	NA	NA	NA	josserand1983mixtec	NA
+457	jami11	seven	ucha	ucha	163	NA	NA	NA	johnson1988syntactic	NA
 16803	jami11	siete	uča	uča	163	NA	NA	NA	josserand1983mixtec	NA
+458	jami11	eight	un̄a	un̄a	164	NA	NA	NA	johnson1988syntactic	NA
 16921	jami11	ocho	u̧ña̧	u̧ña̧	164	NA	NA	NA	josserand1983mixtec	NA
+459	jami11	nine	ɨɨn	ɨɨn	165	NA	NA	NA	johnson1988syntactic	NA
+460	jami11	ten	uchi	uchi	166	NA	NA	NA	johnson1988syntactic	NA
 17035	jami11	diez	uči	uči	166	NA	NA	NA	josserand1983mixtec	NA
+461	jami11	fifteen	chahun	chahun	167	NA	NA	NA	johnson1988syntactic	NA
 17151	jami11	quince	ča̧ʔu̧	ča̧ʔu̧	167	NA	NA	NA	josserand1983mixtec	NA
+462	jami11	twenty	oko	oko	168	NA	NA	NA	johnson1988syntactic	NA
+463	jami11	poor	ndāhví	ndāhví	169	NA	NA	NA	johnson1988syntactic	NA
 17270	jami11	pobre	ⁿdaʔƀi	ⁿdaʔƀi	169	NA	NA	NA	josserand1983mixtec	NA
+464	jami11	rich	tyāyɨ̄ɨ̄	tyāyɨ̄ɨ̄	170	NA	NA	NA	johnson1988syntactic	NA
 17386	jami11	frío	ƀiči̧	ƀiči̧	171	NA	NA	NA	josserand1983mixtec	NA
+465	jami11	hot	īhñí	īhñí	172	NA	NA	NA	johnson1988syntactic	NA
 17498	jami11	caliente	i̧ʔñi̧	i̧ʔñi̧	172	NA	NA	NA	josserand1983mixtec	NA
+466	jami11	big.SG	kāhnú	kāhnú	173	NA	NA	NA	johnson1988syntactic	NA
 17597	jami11	grande (sg.)	kaʔnu̧	kaʔnu̧	173	NA	NA	NA	josserand1983mixtec	NA
+467	jami11	big.PL	nāhnú	nāhnú	174	NA	NA	NA	johnson1988syntactic	NA
+468	jami11	small.SG	lúhlū	lúhlū	175	NA	NA	NA	johnson1988syntactic	NA
 17719	jami11	chico	luʔlu	luʔlu	175	NA	NA	NA	josserand1983mixtec	NA
+469	jami11	small.PL	ndyihi	ndyihi	176	NA	NA	NA	johnson1988syntactic	NA
+470	jami11	small.PL	kwātyi	kwātyi	176	NA	NA	NA	johnson1988syntactic	NA
+471	jami11	small.PL	kwatyaa	kwatyaa	176	NA	NA	NA	johnson1988syntactic	NA
+472	jami11	long.SG	kāñí	kāñí	177	NA	NA	NA	johnson1988syntactic	NA
+473	jami11	long.PL	nāñí	nāñí	178	NA	NA	NA	johnson1988syntactic	NA
+474	jami11	good	vāha	vāha	179	NA	NA	NA	johnson1988syntactic	NA
 17837	jami11	bueno	ƀaʔa	ƀaʔa	179	NA	NA	NA	josserand1983mixtec	NA
+475	jami11	sweet	vishi	vishi	180	NA	NA	NA	johnson1988syntactic	NA
 17934	jami11	dulce	ƀiši̧	ƀiši̧	180	NA	NA	NA	josserand1983mixtec	NA
 18046	jami11	salado	uʔƀa	uʔƀa	181	NA	NA	NA	josserand1983mixtec	NA
 18135	jami11	amargo	uƀa	uƀa	182	NA	NA	NA	josserand1983mixtec	NA
+476	jami11	delicious	asɨn	asɨn	183	NA	NA	NA	johnson1988syntactic	NA
 18218	jami11	sabroso	asɨ̧	asɨ̧	183	NA	NA	NA	josserand1983mixtec	NA
+477	jami11	lazy	sūchān	sūchān	186	NA	NA	NA	johnson1988syntactic	NA
 18349	jami11	floja	taya	taya	186	NA	NA	NA	josserand1983mixtec	NA
 18348	jami11	flojo	suča	suča	186	NA	NA	NA	josserand1983mixtec	NA
+478	jami11	ugly	kīñī	kīñī	187	NA	NA	NA	johnson1988syntactic	NA
 18484	jami11	feo	kiñi̧-kaa	kiñi̧-kaa	187	NA	NA	NA	josserand1983mixtec	NA
 18587	jami11	está cerca	yatʸi̧	yatʸi̧	189	NA	NA	NA	josserand1983mixtec	NA
 18696	jami11	pesado	ƀee	ƀee	191	NA	NA	NA	josserand1983mixtec	NA
 18812	jami11	lisa, liso	ⁿdɨɨ	ⁿdɨɨ	193	NA	NA	NA	josserand1983mixtec	NA
 18811	jami11	lisa, liso	ⁿdɨʔƀɨ	ⁿdɨʔƀɨ	193	NA	NA	NA	josserand1983mixtec	NA
+479	jami11	slow	kwēē	kwēē	194	NA	NA	NA	johnson1988syntactic	NA
 18926	jami11	despacio	kʷee	kʷee	194	NA	NA	NA	josserand1983mixtec	NA
+480	jami11	yesterday	íkú	íkú	195	NA	NA	NA	johnson1988syntactic	NA
 19040	jami11	ayer	iku	iku	195	NA	NA	NA	josserand1983mixtec	NA
+481	jami11	year	kwiya	kwiya	196	NA	NA	NA	johnson1988syntactic	NA
 19155	jami11	año	kʷiya	kʷiya	196	NA	NA	NA	josserand1983mixtec	NA
+482	jami11	now, today	vītyīn	vītyīn	197	NA	NA	NA	johnson1988syntactic	NA
 19269	jami11	ahora	ƀitʸi̧	ƀitʸi̧	197	NA	NA	NA	josserand1983mixtec	NA
+483	jami11	night	n̄ūú	n̄ūú	198	NA	NA	NA	johnson1988syntactic	NA
+484	jami11	night time	ñīyākā	ñī-yākā	199	NA	NA	NA	johnson1988syntactic	NA
 19359	jami11	toda la noche	ⁿdi ñu̧u̧	ⁿdi ñu̧u̧	199	NA	NA	NA	josserand1983mixtec	NA
+485	jami11	day	kɨvɨ	kɨvɨ	200	NA	NA	NA	johnson1988syntactic	NA
+486	jami11	day	kɨ	kɨ	200	NA	NA	NA	johnson1988syntactic	NA
 19459	jami11	día	kɨƀɨ	kɨƀɨ	200	NA	NA	NA	josserand1983mixtec	NA
+487	jami11	all day	ndī-yāká	ndī-yāká	201	all-? ; compound from ndɨ̄hɨ̄ ‘all’	NA	NA	johnson1988syntactic	NA
+488	jami11	half, middle	sāvā	sāvā	202	NA	NA	NA	johnson1988syntactic	NA
 19583	jami11	mitad	saƀa	saƀa	202	NA	NA	NA	josserand1983mixtec	NA
+489	jami11	money	shuhun	shuhun	203	NA	NA	NA	johnson1988syntactic	NA
+490	jami11	work	tyīñō	tyīñō	204	NA	NA	NA	johnson1988syntactic	NA
 19698	jami11	trabajo	tʸiñu̧	tʸiñu̧	204	NA	NA	NA	josserand1983mixtec	NA
+491	jami11	word	tūhun	tūhun	205	NA	NA	NA	johnson1988syntactic	NA
 19821	jami11	palabra	tu̧ʔu̧	tu̧ʔu̧	205	NA	NA	NA	josserand1983mixtec	NA
+492	jami11	fault, sin	kwātyi	kwātyi	206	NA	NA	NA	johnson1988syntactic	NA
 19927	jami11	culpa	kʷatʸi	kʷatʸi	206	NA	NA	NA	josserand1983mixtec	NA
+493	jami11	when	ámá	ámá	208	NA	NA	NA	johnson1988syntactic	NA
 20028	jami11	cuándo	a̧wa̧	a̧wa̧	208	NA	NA	NA	josserand1983mixtec	NA
+494	jami11	song	yaa	yaa	209	NA	NA	NA	johnson1988syntactic	NA

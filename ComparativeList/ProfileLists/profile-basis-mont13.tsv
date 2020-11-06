@@ -41,7 +41,7 @@ ID	DOCULECT	GLOSS	VALUE	FORM	IDlist	NOTES	LOAN	LOAN_SOURCE	SOURCE	FLOATTONE
 10392	mont13	ardilla	kʷȩñu̧	kʷȩñu̧	62	NA	NA	NA	josserand1983mixtec	NA
 10515	mont13	gato	ƀilu	ƀilu	69	NA	NA	NA	josserand1983mixtec	NA
 10635	mont13	cuerno	ⁿdɨkɨ	ⁿdɨkɨ	76	NA	NA	NA	josserand1983mixtec	NA
-10750	mont13	pluma	tnũũ	tnũũ	77	NA	NA	NA	josserand1983mixtec	NA
+10750	mont13	pluma	tnu̧u̧	tnu̧u̧	77	NA	NA	NA	josserand1983mixtec	NA
 10857	mont13	ala	ⁿdixi̧	ⁿdixi̧	78	NA	NA	NA	josserand1983mixtec	NA
 10958	mont13	cola	su̧(ʔ)ma̧	su̧ʔma̧	79	NA	NA	NA	josserand1983mixtec	NA
 11079	mont13	árbol	yutnu̧	yutnu̧	80	NA	NA	NA	josserand1983mixtec	NA
@@ -52,7 +52,7 @@ ID	DOCULECT	GLOSS	VALUE	FORM	IDlist	NOTES	LOAN	LOAN_SOURCE	SOURCE	FLOATTONE
 11651	mont13	masa	yuxȩ	yuxȩ	91	NA	NA	NA	josserand1983mixtec	NA
 11774	mont13	tortilla	ista	ista	92	NA	NA	NA	josserand1983mixtec	NA
 11884	mont13	cañizo	ñu-ña̧ma̧	ñu-ña̧ma̧	93	NA	NA	NA	josserand1983mixtec	NA
-11883	mont13	rastrojo	nu-y̧a̧ma̧	nu-y̧a̧ma̧	93	NA	NA	NA	josserand1983mixtec	NA
+11883	mont13	rastrojo	nu-ỹa̧ma̧	nu-ỹa̧ma̧	93	NA	NA	NA	josserand1983mixtec	NA
 11969	mont13	surco	yuku̧	yuku̧	94	NA	NA	NA	josserand1983mixtec	NA
 12056	mont13	espiga	yoko	yoko	95	NA	NA	NA	josserand1983mixtec	NA
 12155	mont13	frijol(es)	ⁿduči	ⁿduči	96	NA	NA	NA	josserand1983mixtec	NA
@@ -71,7 +71,7 @@ ID	DOCULECT	GLOSS	VALUE	FORM	IDlist	NOTES	LOAN	LOAN_SOURCE	SOURCE	FLOATTONE
 13525	mont13	horno	itnu̧	itnu̧	117	NA	NA	NA	josserand1983mixtec	NA
 13638	mont13	lumbre	ñu̧ʔu̧	ñu̧ʔu̧	118	NA	NA	NA	josserand1983mixtec	NA
 13756	mont13	humo	ñu̧ʔma̧	ñu̧ʔma̧	121	NA	NA	NA	josserand1983mixtec	NA
-13757	mont13	humo	y̧u̧ʔma̧	y̧u̧ʔma̧	121	NA	NA	NA	josserand1983mixtec	NA
+13757	mont13	humo	ỹu̧ʔma̧	ỹu̧ʔma̧	121	NA	NA	NA	josserand1983mixtec	NA
 13868	mont13	basura	kʷeyo	kʷeyo	122	NA	NA	NA	josserand1983mixtec	NA
 13975	mont13	jícara	yaxi̧	yaxi̧	124	NA	NA	NA	josserand1983mixtec	NA
 14089	mont13	cajón	xetnu̧	xetnu̧	126	NA	NA	NA	josserand1983mixtec	NA
@@ -79,7 +79,7 @@ ID	DOCULECT	GLOSS	VALUE	FORM	IDlist	NOTES	LOAN	LOAN_SOURCE	SOURCE	FLOATTONE
 14305	mont13	peine	kuka	kuka	128	NA	NA	NA	josserand1983mixtec	NA
 14382	mont13	agujero	žau	žau	130	NA	NA	NA	josserand1983mixtec	NA
 14471	mont13	red	ñu̧nu̧	ñu̧nu̧	131	NA	NA	NA	josserand1983mixtec	NA
-14472	mont13	red	y̧u̧nu̧	y̧u̧nu̧	131	NA	NA	NA	josserand1983mixtec	NA
+14472	mont13	red	ỹu̧nu̧	ỹu̧nu̧	131	NA	NA	NA	josserand1983mixtec	NA
 14597	mont13	agua	ⁿdute	ⁿdute	137	NA	NA	NA	josserand1983mixtec	NA
 14723	mont13	lluvia	sau	sau	138	NA	NA	NA	josserand1983mixtec	NA
 14846	mont13	río	yute	yute	139	NA	NA	NA	josserand1983mixtec	NA
@@ -90,7 +90,7 @@ ID	DOCULECT	GLOSS	VALUE	FORM	IDlist	NOTES	LOAN	LOAN_SOURCE	SOURCE	FLOATTONE
 15309	mont13	piedra	yuu	yuu	143	NA	NA	NA	josserand1983mixtec	NA
 15427	mont13	algodón	kači	kači	144	NA	NA	NA	josserand1983mixtec	NA
 15525	mont13	fierro	tnu̧ni̧	tnu̧ni̧	145	NA	NA	NA	josserand1983mixtec	NA
-15622	mont13	cera	y̧u̧ma̧	y̧u̧ma̧	148	NA	NA	NA	josserand1983mixtec	NA
+15622	mont13	cera	ỹu̧ma̧	ỹu̧ma̧	148	NA	NA	NA	josserand1983mixtec	NA
 15748	mont13	lodo	lakʷa	lakʷa	149	NA	NA	NA	josserand1983mixtec	NA
 15749	mont13	lodo	ⁿdeʔyu	ⁿdeʔyu	149	NA	NA	NA	josserand1983mixtec	NA
 15864	mont13	espuma	ti̧ñu̧	ti̧ñu̧	150	NA	NA	NA	josserand1983mixtec	NA

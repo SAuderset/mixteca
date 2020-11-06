@@ -11,15 +11,15 @@ ID	DOCULECT	GLOSS	VALUE	FORM	IDlist	NOTES	LOAN	LOAN_SOURCE	SOURCE	FLOATTONE
 7342	juxt11	nariz	šiti	šiti	25	NA	NA	NA	josserand1983mixtec	NA
 7457	juxt11	cuello	suku	suku	26	NA	NA	NA	josserand1983mixtec	NA
 7572	juxt11	uña	či̧i̧	či̧i̧	28	NA	NA	NA	josserand1983mixtec	NA
-7690	juxt11	tripas	ṣitʸi	ṣitʸi	31	NA	NA	NA	josserand1983mixtec	NA
-7809	juxt11	pie	ṣaʔa	ṣaʔa	32	NA	NA	NA	josserand1983mixtec	NA
+7690	juxt11	tripas	ṣitʸi	ṣitʸi	31	NA	NA	NA	josserand1983mixtec	NA
+7809	juxt11	pie	ṣaʔa	ṣaʔa	32	NA	NA	NA	josserand1983mixtec	NA
 7925	juxt11	enfermedad	kʷeʔe	kʷeʔe	33	NA	NA	NA	josserand1983mixtec	NA
 8036	juxt11	hinchazón	kʷi̧ñu̧	kʷi̧ñu̧	35	NA	NA	NA	josserand1983mixtec	NA
 8134	juxt11	grano	ⁿdʸiʔi	ⁿdʸiʔi	36	NA	NA	NA	josserand1983mixtec	NA
 8250	juxt11	pus	kjʔna̧	kjʔna̧	37	NA	NA	NA	josserand1983mixtec	NA
 8249	juxt11	pus	ⁿdakʷa-tʸi-ma̧ʔa̧	ⁿdakʷa-tʸi-ma̧ʔa̧	37	NA	NA	NA	josserand1983mixtec	NA
 8345	juxt11	orina	lala	lala	38	NA	NA	NA	josserand1983mixtec	NA
-8427	juxt11	huarache	ⁿdiṣa	ⁿdiṣa	40	NA	NA	NA	josserand1983mixtec	NA
+8427	juxt11	huarache	ⁿdiṣa	ⁿdiṣa	40	NA	NA	NA	josserand1983mixtec	NA
 8528	juxt11	calzón, pantalón	satu	satu	41	NA	NA	NA	josserand1983mixtec	NA
 8608	juxt11	huipil	šiku	šiku	42	NA	NA	NA	josserand1983mixtec	NA
 8607	juxt11	huipil	su̧ʔnu̧	su̧ʔnu̧	42	NA	NA	NA	josserand1983mixtec	NA
@@ -27,8 +27,8 @@ ID	DOCULECT	GLOSS	VALUE	FORM	IDlist	NOTES	LOAN	LOAN_SOURCE	SOURCE	FLOATTONE
 8810	juxt11	casa	weʔe	weʔe	44	NA	NA	NA	josserand1983mixtec	NA
 8915	juxt11	horcón	siʔi	siʔi	46	NA	NA	NA	josserand1983mixtec	NA
 9015	juxt11	petate	žuƀi	žuƀi	47	NA	NA	NA	josserand1983mixtec	NA
-9135	juxt11	cama	ʂito	ʂito	48	NA	NA	NA	josserand1983mixtec	NA
-9251	juxt11	banquito	šila	šila	49	NA	yes	Spanish	josserand1983mixtec	NA
+9135	juxt11	cama	ṣito	ṣito	48	NA	NA	NA	josserand1983mixtec	NA
+9251	juxt11	banquito	šila	šila	49	NA	NA	NA	josserand1983mixtec	NA
 9252	juxt11	banquito	tʸʰai	tʸʰai	49	NA	NA	NA	josserand1983mixtec	NA
 9373	juxt11	animal	kitʸi	kitʸi	50	NA	NA	NA	josserand1983mixtec	NA
 9490	juxt11	pájaro	laa	laa	51	NA	NA	NA	josserand1983mixtec	NA
@@ -98,12 +98,12 @@ ID	DOCULECT	GLOSS	VALUE	FORM	IDlist	NOTES	LOAN	LOAN_SOURCE	SOURCE	FLOATTONE
 16450	juxt11	cuatro	ku̧mi̧	ku̧mi̧	160	NA	NA	NA	josserand1983mixtec	NA
 16573	juxt11	cinco	u̧ʔu̧	u̧ʔu̧	161	NA	NA	NA	josserand1983mixtec	NA
 16692	juxt11	seis	i̧ñu̧	i̧ñu̧	162	NA	NA	NA	josserand1983mixtec	NA
-16808	juxt11	siete	uš̯a	uš̯a	163	NA	NA	NA	josserand1983mixtec	NA
+16808	juxt11	siete	uš̭a	uš̭a	163	NA	NA	NA	josserand1983mixtec	NA
 16926	juxt11	ocho	u̧na̧	u̧na̧	164	NA	NA	NA	josserand1983mixtec	NA
-17040	juxt11	diez	uṣi	uṣi	166	NA	NA	NA	josserand1983mixtec	NA
-17156	juxt11	quince	ṣa̧ʔu̧	ṣa̧ʔu̧	167	NA	NA	NA	josserand1983mixtec	NA
+17040	juxt11	diez	uṣi	uṣi	166	NA	NA	NA	josserand1983mixtec	NA
+17156	juxt11	quince	ṣa̧ʔu̧	ṣa̧ʔu̧	167	NA	NA	NA	josserand1983mixtec	NA
 17275	juxt11	pobre	ⁿdaʔƀi	ⁿdaʔƀi	169	NA	NA	NA	josserand1983mixtec	NA
-17391	juxt11	frío	ƀiṣi	ƀiṣi	171	NA	NA	NA	josserand1983mixtec	NA
+17391	juxt11	frío	ƀiṣi	ƀiṣi	171	NA	NA	NA	josserand1983mixtec	NA
 17502	juxt11	caliente	i̧ʔni̧	i̧ʔni̧	172	NA	NA	NA	josserand1983mixtec	NA
 17602	juxt11	grande (sg.)	kaʔnu̧	kaʔnu̧	173	NA	NA	NA	josserand1983mixtec	NA
 17724	juxt11	chico	luu	luu	175	NA	NA	NA	josserand1983mixtec	NA

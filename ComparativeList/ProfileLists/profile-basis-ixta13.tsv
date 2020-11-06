@@ -19,13 +19,13 @@ ID	DOCULECT	GLOSS	VALUE	FORM	IDlist	NOTES	LOAN	LOAN_SOURCE	SOURCE	FLOATTONE
 8804	ixta13	casa	ƀeʔe	ƀeʔe	44	NA	NA	NA	josserand1983mixtec	NA
 9009	ixta13	petate	žuui	žuui	47	NA	NA	NA	josserand1983mixtec	NA
 9129	ixta13	cama	šito	šito	48	NA	NA	NA	josserand1983mixtec	NA
-9245	ixta13	banquito	ƀanku	ƀanku	49	NA	yes	Spanish	josserand1983mixtec	NA
+9245	ixta13	banquito	ƀanku	ƀanku	49	NA	NA	NA	josserand1983mixtec	NA
 9366	ixta13	animal	kisi	kisi	50	NA	NA	NA	josserand1983mixtec	NA
 9484	ixta13	pájaro	laa	laa	51	NA	NA	NA	josserand1983mixtec	NA
 9690	ixta13	rana	rana	rana	54	NA	NA	NA	josserand1983mixtec	NA
 10130	ixta13	rata	si-ti̧i̧	si-ti̧i̧	60	NA	NA	NA	josserand1983mixtec	NA
 10263	ixta13	venado	sa-kʷaa	sa-kʷaa	61	NA	NA	NA	josserand1983mixtec	NA
-10379	ixta13	ardilla	si-arđiya	si-arđiya	62	NA	partial	Spanish	josserand1983mixtec	NA
+10379	ixta13	ardilla	si-arđiya	si-arđiya	62	NA	NA	NA	josserand1983mixtec	NA
 10500	ixta13	gato	(čitu)	čitu	69	NA	NA	NA	josserand1983mixtec	NA
 10621	ixta13	cuerno	ⁿǰiki	ⁿǰiki	76	NA	NA	NA	josserand1983mixtec	NA
 10736	ixta13	pluma	tu̧mi̧	tu̧mi̧	77	NA	NA	NA	josserand1983mixtec	NA
@@ -37,7 +37,7 @@ ID	DOCULECT	GLOSS	VALUE	FORM	IDlist	NOTES	LOAN	LOAN_SOURCE	SOURCE	FLOATTONE
 11638	ixta13	masa	žusa	žusa	91	NA	NA	NA	josserand1983mixtec	NA
 11760	ixta13	tortilla	đita	đita	92	NA	NA	NA	josserand1983mixtec	NA
 12142	ixta13	frijol(es)	ⁿduči	ⁿduči	96	NA	NA	NA	josserand1983mixtec	NA
-12345	ixta13	sal	ī̧̀ì̧	ī̧̀ì̧	99	NA	NA	NA	josserand1983mixtec	NA
+12345	ixta13	sal	ì̧ì̧	ì̧ì̧	99	NA	NA	NA	josserand1983mixtec	NA
 12460	ixta13	calabaza	iki	iki	100	NA	NA	NA	josserand1983mixtec	NA
 12576	ixta13	caña	ⁿdoo	ⁿdoo	102	NA	NA	NA	josserand1983mixtec	NA
 12689	ixta13	miel	ñu̧ñi̧	ñu̧ñi̧	103	NA	NA	NA	josserand1983mixtec	NA
@@ -48,7 +48,7 @@ ID	DOCULECT	GLOSS	VALUE	FORM	IDlist	NOTES	LOAN	LOAN_SOURCE	SOURCE	FLOATTONE
 13626	ixta13	lumbre	ñu̧ʔu̧	ñu̧ʔu̧	118	NA	NA	NA	josserand1983mixtec	NA
 13741	ixta13	humo	ñu̧(ʔ)ma̧	ñu̧ʔma̧	121	NA	NA	NA	josserand1983mixtec	NA
 13960	ixta13	jícara	žaši	žaši	124	NA	NA	NA	josserand1983mixtec	NA
-14078	ixta13	cajón	kaxa	kaxa	126	NA	yes	Spanish	josserand1983mixtec	NA
+14078	ixta13	cajón	kaxa	kaxa	126	NA	NA	NA	josserand1983mixtec	NA
 14186	ixta13	hilo	žua	žua	127	NA	NA	NA	josserand1983mixtec	NA
 14458	ixta13	hamaca	ñu̧nu̧	ñu̧nu̧	131	NA	NA	NA	josserand1983mixtec	NA
 14581	ixta13	agua	te-kʷii	te-kʷii	137	NA	NA	NA	josserand1983mixtec	NA

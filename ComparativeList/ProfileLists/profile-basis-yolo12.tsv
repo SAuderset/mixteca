@@ -36,7 +36,7 @@ ID	DOCULECT	GLOSS	VALUE	FORM	IDlist	NOTES	LOAN	LOAN_SOURCE	SOURCE	FLOATTONE
 10202	yolo12	rata	ti̧i̧	ti̧i̧	60	NA	NA	NA	josserand1983mixtec	NA
 10325	yolo12	venado	isu	isu	61	NA	NA	NA	josserand1983mixtec	NA
 10436	yolo12	ardilla	ⁿdi-kʷa̧ñu̧	ⁿdi-kʷa̧ñu̧	62	NA	NA	NA	josserand1983mixtec	NA
-10563	yolo12	gato	(mi̧stu)	mi̧stu	69	NA	yes	Colonial Spanish	josserand1983mixtec	NA
+10563	yolo12	gato	(mi̧stu)	mi̧stu	69	NA	NA	NA	josserand1983mixtec	NA
 10681	yolo12	cuerno	ⁿdiki	ⁿdiki	76	NA	NA	NA	josserand1983mixtec	NA
 10799	yolo12	pluma	tu̧mi̧	tu̧mi̧	77	NA	NA	NA	josserand1983mixtec	NA
 10889	yolo12	ala	ⁿdiši̧	ⁿdiši̧	78	NA	NA	NA	josserand1983mixtec	NA
@@ -71,7 +71,7 @@ ID	DOCULECT	GLOSS	VALUE	FORM	IDlist	NOTES	LOAN	LOAN_SOURCE	SOURCE	FLOATTONE
 13807	yolo12	humo	yu̧ʔma̧	yu̧ʔma̧	121	NA	NA	NA	josserand1983mixtec	NA
 13903	yolo12	basura	mi̧ʔi̧	mi̧ʔi̧	122	NA	NA	NA	josserand1983mixtec	NA
 14025	yolo12	jícara	yaši̧	yaši̧	124	NA	NA	NA	josserand1983mixtec	NA
-14129	yolo12	cajón	ṣatu	ṣatu	126	NA	NA	NA	josserand1983mixtec	NA
+14129	yolo12	cajón	ṣatu	ṣatu	126	NA	NA	NA	josserand1983mixtec	NA
 14247	yolo12	hilo	yuʔwa	yuʔwa	127	NA	NA	NA	josserand1983mixtec	NA
 14338	yolo12	peine	wika	wika	128	NA	NA	NA	josserand1983mixtec	NA
 14407	yolo12	agujero	yawi	yawi	130	NA	NA	NA	josserand1983mixtec	NA
@@ -90,7 +90,7 @@ ID	DOCULECT	GLOSS	VALUE	FORM	IDlist	NOTES	LOAN	LOAN_SOURCE	SOURCE	FLOATTONE
 15673	yolo12	cera	yu̧ma̧	yu̧ma̧	148	NA	NA	NA	josserand1983mixtec	NA
 15796	yolo12	lodo	ⁿdaʔyu	ⁿdaʔyu	149	NA	NA	NA	josserand1983mixtec	NA
 15913	yolo12	espuma	ñu̧ñu̧	ñu̧ñu̧	150	NA	NA	NA	josserand1983mixtec	NA
-15912	yolo12	espuma	pele	pele	150	NA	maybe	NA	josserand1983mixtec	NA
+15912	yolo12	espuma	pele	pele	150	NA	NA	NA	josserand1983mixtec	NA
 15914	yolo12	espuma	ỹu̧ỹu̧	ỹu̧ỹu̧	150	NA	NA	NA	josserand1983mixtec	NA
 16030	yolo12	rojo	kʷaʔa	kʷaʔa	152	NA	NA	NA	josserand1983mixtec	NA
 16144	yolo12	amarillo	kʷa̧a̧	kʷa̧a̧	154	NA	NA	NA	josserand1983mixtec	NA
@@ -99,7 +99,7 @@ ID	DOCULECT	GLOSS	VALUE	FORM	IDlist	NOTES	LOAN	LOAN_SOURCE	SOURCE	FLOATTONE
 16509	yolo12	cuatro	ku̧mi̧	ku̧mi̧	160	NA	NA	NA	josserand1983mixtec	NA
 16628	yolo12	cinco	u̧ʔu̧	u̧ʔu̧	161	NA	NA	NA	josserand1983mixtec	NA
 16746	yolo12	seis	i̧ñu̧	i̧ñu̧	162	NA	NA	NA	josserand1983mixtec	NA
-16863	yolo12	siete	uʂa	uʂa	163	NA	NA	NA	josserand1983mixtec	NA
+16863	yolo12	siete	uṣa	uṣa	163	NA	NA	NA	josserand1983mixtec	NA
 16977	yolo12	ocho	u̧na̧	u̧na̧	164	NA	NA	NA	josserand1983mixtec	NA
 17094	yolo12	diez	uši	uši	166	NA	NA	NA	josserand1983mixtec	NA
 17213	yolo12	quince	sa̧ʔu̧	sa̧ʔu̧	167	NA	NA	NA	josserand1983mixtec	NA
@@ -114,7 +114,7 @@ ID	DOCULECT	GLOSS	VALUE	FORM	IDlist	NOTES	LOAN	LOAN_SOURCE	SOURCE	FLOATTONE
 18175	yolo12	amargo	uwa	uwa	182	NA	NA	NA	josserand1983mixtec	NA
 18262	yolo12	sabroso	asi̧	asi̧	183	NA	NA	NA	josserand1983mixtec	NA
 18432	yolo12	floja	taya	taya	186	NA	NA	NA	josserand1983mixtec	NA
-18431	yolo12	flojo	ʂuʂa	ʂuʂa	186	NA	NA	NA	josserand1983mixtec	NA
+18431	yolo12	flojo	ṣuṣa	ṣuṣa	186	NA	NA	NA	josserand1983mixtec	NA
 18531	yolo12	feo	kini̧	kini̧	187	NA	NA	NA	josserand1983mixtec	NA
 18641	yolo12	está cerca	yati̧	yati̧	189	NA	NA	NA	josserand1983mixtec	NA
 18751	yolo12	pesado	wee	wee	191	NA	NA	NA	josserand1983mixtec	NA
@@ -128,5 +128,5 @@ ID	DOCULECT	GLOSS	VALUE	FORM	IDlist	NOTES	LOAN	LOAN_SOURCE	SOURCE	FLOATTONE
 19643	yolo12	mitad	sawa	sawa	202	NA	NA	NA	josserand1983mixtec	NA
 19761	yolo12	trabajo	čiñu̧	čiñu̧	204	NA	NA	NA	josserand1983mixtec	NA
 19879	yolo12	palabra	tu̧ʔu̧	tu̧ʔu̧	205	NA	NA	NA	josserand1983mixtec	NA
-19969	yolo12	culpa	kʷwači	kʷwači	206	NA	NA	NA	josserand1983mixtec	NA
+19969	yolo12	culpa	kʷači	kʷači	206	NA	NA	NA	josserand1983mixtec	NA
 20088	yolo12	cuándo	a̧ma̧	a̧ma̧	208	NA	NA	NA	josserand1983mixtec	NA
