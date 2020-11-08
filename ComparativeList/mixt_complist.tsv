@@ -2,7 +2,7 @@ ID	DOCULECT	GLOSS	VALUE	FORM	IDlist	NOTES	LOAN	LOAN_SOURCE	SOURCE	FLOATTONE
 1	abas11	madre	nana	nana	1	NA	NA	NA	galindo-sanchez2009vocabulario	NA
 4494	alac11	madre	si’í	si’í	1	NA	NA	NA	zylstra2012gramatica	NA
 1005	alac11	mother	sīhí	sīhí	1	NA	NA	NA	zylstra1991syntactic	NA
-5082	alac11	madre	náná	náná	1	NA	NA	NA	alexander1980gramatica	[C]
+5082	atat11	madre	náná	náná	1	NA	NA	NA	alexander1980gramatica	[C]
 743	ayut11	mother	sihīn	sihīn	1	NA	NA	NA	hills1990syntactic	NA
 3948	chay11	madre	zɨhɨ	zɨhɨ	1	NA	NA	NA	pensinger1974diccionario	NA
 1637	chic02	madre	Nni	nni	1	NA	NA	NA	belmar1897ensayo	NA
@@ -34,7 +34,7 @@ ID	DOCULECT	GLOSS	VALUE	FORM	IDlist	NOTES	LOAN	LOAN_SOURCE	SOURCE	FLOATTONE
 2	abas11	mamá!	ma	ma	2	not sure, but example suggests so	yes	Spanish	galindo-sanchez2009vocabulario	NA
 4495	alac11	mamá!	nana	nana	2	NA	NA	NA	zylstra2012gramatica	NA
 1006	alac11	mother!, mom!	nāná	nāná	2	NA	NA	NA	zylstra1991syntactic	NA
-5083	alac11	mamá!	nánā	nánā	2	NA	NA	NA	alexander1980gramatica	[C]
+5083	atat11	mamá!	nánā	nánā	2	NA	NA	NA	alexander1980gramatica	[C]
 744	ayut11	mother!, mom!	nanāa	nanāa	2	sentence final form, no other one given	NA	NA	hills1990syntactic	NA
 21002	chic12	mamá!	nã³⁴²	nã³⁴²	2	NA	NA	NA	hernandez-mendoza2020vocabulario	NA
 882	coat11	mother!, mom!	ñāâ	ñāâ	2	NA	NA	NA	small1990syntactic	NA
@@ -54,7 +54,7 @@ ID	DOCULECT	GLOSS	VALUE	FORM	IDlist	NOTES	LOAN	LOAN_SOURCE	SOURCE	FLOATTONE
 3	abas11	padre	tata	tata	3	NA	NA	NA	galindo-sanchez2009vocabulario	NA
 4496	alac11	padre	yivá	yivá	3	NA	NA	NA	zylstra2012gramatica	NA
 1007	alac11	father	yīvā	yīvā	3	NA	NA	NA	zylstra1991syntactic	NA
-5084	alac11	padre	tátá	tátá	3	NA	NA	NA	alexander1980gramatica	[C]
+5084	atat11	padre	tátá	tátá	3	NA	NA	NA	alexander1980gramatica	[C]
 745	ayut11	father	yuvāh	yuvāh	3	NA	NA	NA	hills1990syntactic	NA
 3949	chay11	padre	zutu	zutu	3	NA	NA	NA	pensinger1974diccionario	NA
 1638	chic02	padre	Treeha	treeha	3	NA	NA	NA	belmar1897ensayo	NA
@@ -109,9 +109,9 @@ ID	DOCULECT	GLOSS	VALUE	FORM	IDlist	NOTES	LOAN	LOAN_SOURCE	SOURCE	FLOATTONE
 20785	yuta13	papá!	tá’a̠	tá’a̠	4	NA	NA	NA	williams2017diccionario	NA
 4498	alac11	hijo/hija	sa̠’ya	sa̠’ya	5	NA	NA	NA	zylstra2012gramatica	NA
 1008	alac11	son/daughter, child	sāhya	sāhya	5	NA	NA	NA	zylstra1991syntactic	NA
-5085	alac11	hijo/hija	sēhe	sēhe	5	NA	NA	NA	alexander1980gramatica	[A]
 5574	alco11	hijo	se¹Ɂe³	se¹Ɂe³	5	NA	NA	NA	swanton2020observaciones	NA
 2053	atat11	child	sèʔē	sèʔē	5	NA	NA	NA	durr1987preliminary	NA
+5085	atat11	hijo/hija	sēhe	sēhe	5	NA	NA	NA	alexander1980gramatica	[A]
 748	ayut11	son/daughter, child	sīhe	sīhe	5	NA	NA	NA	hills1990syntactic	NA
 2057	ayut11	child	sīʔè	sīʔè	5	NA	NA	NA	durr1987preliminary	NA
 2055	caca11	child	đèʔē	đèʔē	5	NA	NA	NA	durr1987preliminary	NA
@@ -176,7 +176,7 @@ ID	DOCULECT	GLOSS	VALUE	FORM	IDlist	NOTES	LOAN	LOAN_SOURCE	SOURCE	FLOATTONE
 6345	atat11	hijo/hija	sèʔē	sèʔē	6	NA	NA	NA	josserand1983mixtec	NA
 6346	aten11	hijo/hija	haʔyi	haʔyi	6	NA	NA	NA	josserand1983mixtec	NA
 6347	atoy11	hijo/hija	seʔe	seʔe	6	NA	NA	NA	josserand1983mixtec	NA
-6348	ayut11	hijo/hija	sʸēʔɛ→siʔɛ	sʸēʔɛ→siʔɛ	6	NA	NA	NA	josserand1983mixtec	NA
+6348	ayut11	hijo/hija	sʸēʔɛ→siʔɛ	siʔɛ	6	NA	NA	NA	josserand1983mixtec	NA
 6349	brav11	hijo/hija	seʔe	seʔe	6	NA	NA	NA	josserand1983mixtec	NA
 6350	caca11	hijo/hija	đee	đee	6	NA	NA	NA	josserand1983mixtec	NA
 6351	cahu11	hijo/hija	seʔe	seʔe	6	NA	NA	NA	josserand1983mixtec	NA
@@ -288,8 +288,8 @@ ID	DOCULECT	GLOSS	VALUE	FORM	IDlist	NOTES	LOAN	LOAN_SOURCE	SOURCE	FLOATTONE
 6448	yucu12	hijo/hija	sèʔyā	sèʔyā	6	NA	NA	NA	josserand1983mixtec	NA
 6449	yucu13	hijo/hija	hèʔē	hèʔē	6	NA	NA	NA	josserand1983mixtec	NA
 6450	yucu15	hijo/hija	sèʔē	sèʔē	6	NA	NA	NA	josserand1983mixtec	NA
-6452	yucu16	hijo/hija de hembra	seʔe	seʔe	6	NA	NA	NA	josserand1983mixtec	NA
 6451	yucu16	hijo/hija de varón	đeʔi	đeʔi	6	NA	NA	NA	josserand1983mixtec	NA
+6452	yucu16	hijo/hija de hembra	seʔe	seʔe	6	NA	NA	NA	josserand1983mixtec	NA
 6453	yuta11	hijo/hija	đaʔa	đaʔa	6	NA	NA	NA	josserand1983mixtec	NA
 6454	yuta12	hijo/hija	đaʔža	đaʔža	6	NA	NA	NA	josserand1983mixtec	NA
 6455	zaca11	hijo/hija	seʔe	seʔe	6	NA	NA	NA	josserand1983mixtec	NA
@@ -306,8 +306,8 @@ ID	DOCULECT	GLOSS	VALUE	FORM	IDlist	NOTES	LOAN	LOAN_SOURCE	SOURCE	FLOATTONE
 7	abas11	hermana/hermano de otro genero	kua’à	kua’à	8	NA	NA	NA	galindo-sanchez2009vocabulario	NA
 4499	alac11	hermana/hermano de otro genero	ki̠’va̠	ki̠’va̠	8	NA	NA	NA	zylstra2012gramatica	NA
 1009	alac11	cross-sex sibling	kīhvā	kīhvā	8	NA	NA	NA	zylstra1991syntactic	NA
-5086	alac11	hermana/hermano de otro genero	cuāha	cuāha	8	NA	NA	NA	alexander1980gramatica	[A]
 2068	atat11	cross-sex sibling	kʷàʔā	kʷàʔā	8	NA	NA	NA	durr1987preliminary	NA
+5086	atat11	hermana/hermano de otro genero	cuāha	cuāha	8	NA	NA	NA	alexander1980gramatica	[A]
 749	ayut11	cross-sex sibling	kuhva	kuhva	8	NA	NA	NA	hills1990syntactic	NA
 3951	chay11	hermana/hermano de otro genero	cùhvā	cùhvā	8	NA	NA	NA	pensinger1974diccionario	NA
 2073	chay11	cross-sex sibling	kùʔƀā	kùʔƀā	8	NA	NA	NA	durr1987preliminary	NA
@@ -350,7 +350,6 @@ ID	DOCULECT	GLOSS	VALUE	FORM	IDlist	NOTES	LOAN	LOAN_SOURCE	SOURCE	FLOATTONE
 1010	alac11	brother of man	ñānī	ñānī	9	NA	NA	NA	zylstra1991syntactic	NA
 6462	alac11	hermano de hombre	ña̧ni̧	ña̧ni̧	9	NA	NA	NA	josserand1983mixtec	NA
 6461	alac11	hermano de hombre	ya̧ni̧	ya̧ni̧	9	NA	NA	NA	josserand1983mixtec	NA
-5087	alac11	hermano de hombre	ñani	ñani	9	NA	NA	NA	alexander1980gramatica	[C]
 6463	alco11	hermano de hombre	ña̧ni̧	ña̧ni̧	9	NA	NA	NA	josserand1983mixtec	NA
 5579	alco11	hermano de hombre	ɲa³ni²	ɲa³ni²	9	NA	NA	NA	swanton2020observaciones	NA
 6464	amat11	hermano de hombre	ña̧ni̧	ña̧ni̧	9	NA	NA	NA	josserand1983mixtec	NA
@@ -359,6 +358,7 @@ ID	DOCULECT	GLOSS	VALUE	FORM	IDlist	NOTES	LOAN	LOAN_SOURCE	SOURCE	FLOATTONE
 6466	apoa11	hermano de hombre	ša̧ni̧	ša̧ni̧	9	NA	NA	NA	josserand1983mixtec	NA
 2078	atat11	brother of man	ñānī	ñānī	9	NA	NA	NA	durr1987preliminary	NA
 6468	atat11	hermano de hombre	ña̧ni̧	ña̧ni̧	9	NA	NA	NA	josserand1983mixtec	NA
+5087	atat11	hermano de hombre	ñani	ñani	9	NA	NA	NA	alexander1980gramatica	[C]
 6469	aten11	hermano de hombre	ña̧ni̧	ña̧ni̧	9	NA	NA	NA	josserand1983mixtec	NA
 6470	atoy11	hermano de hombre	ya̧ni̧	ya̧ni̧	9	NA	NA	NA	josserand1983mixtec	NA
 750	ayut11	brother of man	n̄ani	n̄ani	9	NA	NA	NA	hills1990syntactic	NA
@@ -467,7 +467,7 @@ ID	DOCULECT	GLOSS	VALUE	FORM	IDlist	NOTES	LOAN	LOAN_SOURCE	SOURCE	FLOATTONE
 6540	tama11	hermano de hombre	ña̧ni̧	ña̧ni̧	9	NA	NA	NA	josserand1983mixtec	NA
 6541	tama12	hermano de hombre	ña̧ni̧	ña̧ni̧	9	NA	NA	NA	josserand1983mixtec	NA
 6542	tata11	hermano de hombre	ña̧ni̧	ña̧ni̧	9	NA	NA	NA	josserand1983mixtec	NA
-6543	teco11	hermano de hombre	ñā̧ñī̧(-ī̧)	ñā̧ñī̧-ī̧	9	NA	NA	NA	josserand1983mixtec	NA
+6543	teco11	hermano de hombre	ñā̧ñī̧(-ī̧)	ñā̧ñī̧ī̧	9	NA	NA	NA	josserand1983mixtec	NA
 6544	teit11	hermano de hombre	ña̧ni̧	ña̧ni̧	9	NA	NA	NA	josserand1983mixtec	NA
 5416	tepe03	hermano	ndinu	ndinu	9	in general?	NA	NA	belmar1902el-cuicateco	NA
 6545	tepe11	hermano de hombre	ña̧ni̧	ña̧ni̧	9	NA	NA	NA	josserand1983mixtec	NA
@@ -651,7 +651,6 @@ ID	DOCULECT	GLOSS	VALUE	FORM	IDlist	NOTES	LOAN	LOAN_SOURCE	SOURCE	FLOATTONE
 4504	alac11	hombre	ta̠a	ta̠a	13	NA	NA	NA	zylstra2012gramatica	NA
 1014	alac11	man	taā	taā	13	NA	NA	NA	zylstra1991syntactic	NA
 6574	alac11	hombre	taa	taa	13	NA	NA	NA	josserand1983mixtec	NA
-5088	alac11	hombre	tēe	tēe	13	NA	NA	NA	alexander1980gramatica	[A]
 6575	alco11	hombre	taa	taa	13	NA	NA	NA	josserand1983mixtec	NA
 6576	amat11	hombre	ta-čaa	ta-čaa	13	NA	NA	NA	josserand1983mixtec	NA
 6577	apas11	hombre	čee	čee	13	NA	NA	NA	josserand1983mixtec	NA
@@ -659,6 +658,7 @@ ID	DOCULECT	GLOSS	VALUE	FORM	IDlist	NOTES	LOAN	LOAN_SOURCE	SOURCE	FLOATTONE
 6579	apoa11	hombre	čee	čee	13	NA	NA	NA	josserand1983mixtec	NA
 2129	atat11	man	tèē	tèē	13	NA	NA	NA	durr1987preliminary	NA
 6580	atat11	hombre	tēe	tēe	13	NA	NA	NA	josserand1983mixtec	NA
+5088	atat11	hombre	tēe	tēe	13	NA	NA	NA	alexander1980gramatica	[A]
 6581	aten11	hombre	tʸaa	tʸaa	13	NA	NA	NA	josserand1983mixtec	NA
 6582	atoy11	hombre	rai	rai	13	NA	NA	NA	josserand1983mixtec	NA
 753	ayut11	man	tyāa	tyāa	13	NA	NA	NA	hills1990syntactic	NA
@@ -820,8 +820,8 @@ ID	DOCULECT	GLOSS	VALUE	FORM	IDlist	NOTES	LOAN	LOAN_SOURCE	SOURCE	FLOATTONE
 13	abas11	mujer	ñà’an	ñà’an	14	NA	NA	NA	galindo-sanchez2009vocabulario	NA
 4505	alac11	mujer	ña’a̠n	ña’a̠n	14	NA	NA	NA	zylstra2012gramatica	NA
 1015	alac11	woman	ñáha	ñáha	14	NA	NA	NA	zylstra1991syntactic	NA
-5089	alac11	mujer	ñahan	ñahan	14	NA	NA	NA	alexander1980gramatica	[A]
 2137	atat11	woman	ñā̧ʔā̧	ñā̧ʔā̧	14	NA	NA	NA	durr1987preliminary	NA
+5089	atat11	mujer	ñahan	ñahan	14	NA	NA	NA	alexander1980gramatica	[A]
 754	ayut11	woman	ñahāh	ñahāh	14	NA	NA	NA	hills1990syntactic	NA
 2140	cahu11	woman	ñāʔà	ñāʔà	14	NA	NA	NA	durr1987preliminary	NA
 3957	chay11	mujer	ñaha	ñaha	14	NA	NA	NA	pensinger1974diccionario	NA
@@ -867,7 +867,7 @@ ID	DOCULECT	GLOSS	VALUE	FORM	IDlist	NOTES	LOAN	LOAN_SOURCE	SOURCE	FLOATTONE
 1016	alac11	owner, boss	shi-tóhó	shi-tóhó	15	?-respect	NA	NA	zylstra1991syntactic	NA
 6702	alac11	dueño	šito	šito	15	NA	NA	NA	josserand1983mixtec	NA
 6703	alco11	dueño	iš-toʔo	iš-toʔo	15	NA	NA	NA	josserand1983mixtec	NA
-6704	apas11	dueño	(s)toʔo	stoʔo	15	NA	NA	NA	josserand1983mixtec	NA
+6704	apas11	dueño	(s)toʔo	s-toʔo	15	NA	NA	NA	josserand1983mixtec	NA
 6705	apoa11	dueño	toʔo	toʔo	15	NA	NA	NA	josserand1983mixtec	NA
 6706	atat11	dueño	xi-toʔo	xi-toʔo	15	NA	NA	NA	josserand1983mixtec	NA
 6707	aten11	dueño	stoʔo	stoʔo	15	NA	NA	NA	josserand1983mixtec	NA
@@ -984,11 +984,11 @@ ID	DOCULECT	GLOSS	VALUE	FORM	IDlist	NOTES	LOAN	LOAN_SOURCE	SOURCE	FLOATTONE
 4506	alac11	sacerdote	su̠tu̠	su̠tu̠	16	NA	NA	NA	zylstra2012gramatica	NA
 1017	alac11	priest	sutu	sutu	16	NA	NA	NA	zylstra1991syntactic	NA
 6789	alac11	sacerdote	sùtù	sùtù	16	NA	NA	NA	josserand1983mixtec	NA
-5090	alac11	sacerdote	sutū	sutū	16	NA	NA	NA	alexander1980gramatica	[C]
 6790	alco11	sacerdote	sutu	sutu	16	NA	NA	NA	josserand1983mixtec	NA
 6791	apas11	sacerdote	đutu	đutu	16	NA	NA	NA	josserand1983mixtec	NA
 6792	apoa11	sacerdote	đutu	đutu	16	NA	NA	NA	josserand1983mixtec	NA
 6793	atat11	sacerdote	sūtù	sūtù	16	NA	NA	NA	josserand1983mixtec	NA
+5090	atat11	sacerdote	sutū	sutū	16	NA	NA	NA	alexander1980gramatica	[C]
 6794	aten11	sacerdote	huti	huti	16	NA	NA	NA	josserand1983mixtec	NA
 6795	atoy11	sacerdote	sutu	sutu	16	NA	NA	NA	josserand1983mixtec	NA
 755	ayut11	priest	sūtu	sūtu	16	NA	NA	NA	hills1990syntactic	NA
@@ -1249,8 +1249,8 @@ ID	DOCULECT	GLOSS	VALUE	FORM	IDlist	NOTES	LOAN	LOAN_SOURCE	SOURCE	FLOATTONE
 6990	zapo11	sangre	nì̧ì̧	nì̧ì̧	17	NA	NA	NA	josserand1983mixtec	NA
 4508	alac11	hueso	leke	leke	18	NA	NA	NA	zylstra2012gramatica	NA
 1018	alac11	bone	yīki	yīki	18	NA	NA	NA	zylstra1991syntactic	NA
-5091	alac11	hueso	yɨquɨ	yɨquɨ	18	NA	NA	NA	alexander1980gramatica	[A]
 2146	atat11	bone	žɨ̄kɨ̄	žɨ̄kɨ̄	18	NA	NA	NA	durr1987preliminary	NA
+5091	atat11	hueso	yɨquɨ	yɨquɨ	18	NA	NA	NA	alexander1980gramatica	[A]
 756	ayut11	bone	ikīh	ikīh	18	NA	NA	NA	hills1990syntactic	NA
 2148	ayut11	bone	ìkìʔ	ìkìʔ	18	NA	NA	NA	durr1987preliminary	NA
 2150	cahu11	bone	yīkī	yīkī	18	NA	NA	NA	durr1987preliminary	NA
@@ -1327,8 +1327,8 @@ ID	DOCULECT	GLOSS	VALUE	FORM	IDlist	NOTES	LOAN	LOAN_SOURCE	SOURCE	FLOATTONE
 18	abas11	cara	nùù	nùù	20	NA	NA	NA	galindo-sanchez2009vocabulario	NA
 4510	alac11	cara	no̠o̠	no̠o̠	20	NA	NA	NA	zylstra2012gramatica	NA
 1020	alac11	face	noo	noo	20	NA	NA	NA	zylstra1991syntactic	NA
-5092	alac11	cara	nuū	nuū	20	NA	NA	NA	alexander1980gramatica	[C]
 2155	atat11	face	nūù	nūù	20	NA	NA	NA	durr1987preliminary	NA
+5092	atat11	cara	nuū	nuū	20	NA	NA	NA	alexander1980gramatica	[C]
 758	ayut11	face	nūuh	nūuh	20	NA	NA	NA	hills1990syntactic	NA
 2158	cahu11	face	nò̧ò̧	nò̧ò̧	20	NA	NA	NA	durr1987preliminary	NA
 3963	chay11	cara	nuu yo	nuu	20	NA	NA	NA	pensinger1974diccionario	NA
@@ -1537,13 +1537,13 @@ ID	DOCULECT	GLOSS	VALUE	FORM	IDlist	NOTES	LOAN	LOAN_SOURCE	SOURCE	FLOATTONE
 4512	alac11	boca	yu’u̠	yu’u̠	23	NA	NA	NA	zylstra2012gramatica	NA
 1021	alac11	mouth	yūhu	yūhu	23	NA	NA	NA	zylstra1991syntactic	NA
 2189	alac11	mouth	yūʔù	yūʔù	23	NA	NA	NA	durr1987preliminary	NA
-5093	alac11	boca	yuhu	yuhu	23	NA	NA	NA	alexander1980gramatica	[A]
 7084	alco11	boca	yuʔu	yuʔu	23	NA	NA	NA	josserand1983mixtec	NA
 5599	alco11	boca, borde	ju³Ɂu⁴	ju³Ɂu⁴	23	NA	NA	NA	swanton2020observaciones	NA
 7085	apas11	boca	žuʔu	žuʔu	23	NA	NA	NA	josserand1983mixtec	NA
 7086	apoa11	boca	žuʔu	žuʔu	23	NA	NA	NA	josserand1983mixtec	NA
 2185	atat11	mouth	žūʔū	žūʔū	23	NA	NA	NA	durr1987preliminary	NA
 7087	atat11	boca	žuʔu	žuʔu	23	NA	NA	NA	josserand1983mixtec	NA
+5093	atat11	boca	yuhu	yuhu	23	NA	NA	NA	alexander1980gramatica	[A]
 7088	aten11	boca	žuʔu	žuʔu	23	NA	NA	NA	josserand1983mixtec	NA
 7089	atoy11	boca	yuʔu	yuʔu	23	NA	NA	NA	josserand1983mixtec	NA
 760	ayut11	mouth	yuhūh	yuhūh	23	NA	NA	NA	hills1990syntactic	NA
@@ -1844,12 +1844,12 @@ ID	DOCULECT	GLOSS	VALUE	FORM	IDlist	NOTES	LOAN	LOAN_SOURCE	SOURCE	FLOATTONE
 7292	ahue11	nariz	θiti	θiti	25	NA	NA	NA	josserand1983mixtec	NA
 7293	alac11	nariz	siti̧	siti̧	25	NA	NA	NA	josserand1983mixtec	NA
 7294	alac11	nariz	sitni̧	sitni̧	25	NA	NA	NA	josserand1983mixtec	NA
-5094	alac11	nariz	xijnī	xijnī	25	NA	NA	NA	alexander1980gramatica	[C]
 7295	alco11	nariz	išti̧	išti̧	25	NA	NA	NA	josserand1983mixtec	NA
 7296	amat11	nariz	điči	điči	25	NA	NA	NA	josserand1983mixtec	NA
 7297	apas11	nariz	šiči	šiči	25	NA	NA	NA	josserand1983mixtec	NA
 7298	apoa11	nariz	šiči	šiči	25	NA	NA	NA	josserand1983mixtec	NA
 7299	atat11	nariz	šiNni̧	šiNni̧	25	NA	NA	NA	josserand1983mixtec	NA
+5094	atat11	nariz	xijnī	xijnī	25	NA	NA	NA	alexander1980gramatica	[C]
 7300	aten11	nariz	šiti	šiti	25	NA	NA	NA	josserand1983mixtec	NA
 7301	atoy11	nariz	šiti̧	šiti̧	25	NA	NA	NA	josserand1983mixtec	NA
 7302	ayut11	nariz	šiti̧ʔ	šiti̧ʔ	25	NA	NA	NA	josserand1983mixtec	NA
@@ -2129,8 +2129,8 @@ ID	DOCULECT	GLOSS	VALUE	FORM	IDlist	NOTES	LOAN	LOAN_SOURCE	SOURCE	FLOATTONE
 4514	alac11	mano	nda’a̠	nda’a̠	27	NA	NA	NA	zylstra2012gramatica	NA
 1023	alac11	hand	ndāha	ndāha	27	NA	NA	NA	zylstra1991syntactic	NA
 2212	alac11	hand	ⁿdàʔā	ⁿdàʔā	27	NA	NA	NA	durr1987preliminary	NA
-5095	alac11	mano	ndaha	ndaha	27	NA	NA	NA	alexander1980gramatica	[A]
 2208	atat11	hand	ⁿdāʔā	ⁿdāʔā	27	NA	NA	NA	durr1987preliminary	NA
+5095	atat11	mano	ndaha	ndaha	27	NA	NA	NA	alexander1980gramatica	[A]
 763	ayut11	hand	ndahāh	ndahāh	27	NA	NA	NA	hills1990syntactic	NA
 2211	ayut11	hand	ⁿdàʔáʔ	ⁿdàʔáʔ	27	NA	NA	NA	durr1987preliminary	NA
 2214	cahu11	hand	ⁿdāʔā	ⁿdāʔā	27	NA	NA	NA	durr1987preliminary	NA
@@ -2337,7 +2337,7 @@ ID	DOCULECT	GLOSS	VALUE	FORM	IDlist	NOTES	LOAN	LOAN_SOURCE	SOURCE	FLOATTONE
 26	abas11	espalda	sata	sata	29	NA	NA	NA	galindo-sanchez2009vocabulario	NA
 4516	alac11	espalda	sa̠ta̠	sa̠ta̠	29	NA	NA	NA	zylstra2012gramatica	NA
 1024	alac11	back	sata	sata	29	NA	NA	NA	zylstra1991syntactic	NA
-5096	alac11	espalda	yatā	yatā	29	NA	NA	NA	alexander1980gramatica	[C]
+5096	atat11	espalda	yatā	yatā	29	NA	NA	NA	alexander1980gramatica	[C]
 764	ayut11	back	shātah	shātah	29	NA	NA	NA	hills1990syntactic	NA
 3972	chay11	espalda	sata yo	sata	29	NA	NA	NA	pensinger1974diccionario	NA
 1663	chic02	espalda	Xitraha	xitraha	29	NA	NA	NA	belmar1897ensayo	NA
@@ -2370,8 +2370,8 @@ ID	DOCULECT	GLOSS	VALUE	FORM	IDlist	NOTES	LOAN	LOAN_SOURCE	SOURCE	FLOATTONE
 4381	zaca11	espalda	chata	chata	29	NA	NA	NA	towne2011gramatica	NA
 4517	alac11	panza, barriga	ti̠xin	ti̠xin	30	NA	NA	NA	zylstra2012gramatica	NA
 1025	alac11	stomach	tishīn	tishīn	30	NA	NA	NA	zylstra1991syntactic	NA
-5097	alac11	estómago	chīji	chīji	30	NA	NA	NA	alexander1980gramatica	[A]
 2232	atat11	stomach	čìhī	čìhī	30	NA	NA	NA	durr1987preliminary	NA
+5097	atat11	estómago	chīji	chīji	30	NA	NA	NA	alexander1980gramatica	[A]
 765	ayut11	stomach	tishin	tishin	30	NA	NA	NA	hills1990syntactic	NA
 2234	caca11	stomach	tìšī	tìšī	30	NA	NA	NA	durr1987preliminary	NA
 2236	cahu11	stomach	tīšī	tīšī	30	NA	NA	NA	durr1987preliminary	NA
@@ -2528,8 +2528,8 @@ ID	DOCULECT	GLOSS	VALUE	FORM	IDlist	NOTES	LOAN	LOAN_SOURCE	SOURCE	FLOATTONE
 7735	tlal11	tripas	či-lipa	či-lipa	31	NA	NA	NA	josserand1983mixtec	NA
 7736	tlaz11	tripas	šɨtɨ	šɨtɨ	31	NA	NA	NA	josserand1983mixtec	NA
 7737	tona11	tripas	sisi	sisi	31	NA	NA	NA	josserand1983mixtec	NA
-7739	toto12	dentro	i̧ni̧	i̧ni̧	31	NA	NA	NA	josserand1983mixtec	NA
 7738	toto12	estómago	a̧ni̧ma̧	a̧ni̧ma̧	31	NA	NA	NA	josserand1983mixtec	NA
+7739	toto12	dentro	i̧ni̧	i̧ni̧	31	NA	NA	NA	josserand1983mixtec	NA
 7740	tutu11	tripas	čɨtɨ	čɨtɨ	31	NA	NA	NA	josserand1983mixtec	NA
 7741	xaya11	tripas	(tiši)	tiši	31	NA	NA	NA	josserand1983mixtec	NA
 7742	xaya12	tripas	sīsī	sīsī	31	NA	NA	NA	josserand1983mixtec	NA
@@ -2559,13 +2559,13 @@ ID	DOCULECT	GLOSS	VALUE	FORM	IDlist	NOTES	LOAN	LOAN_SOURCE	SOURCE	FLOATTONE
 1026	alac11	foot	shaha	shaha	32	NA	NA	NA	zylstra1991syntactic	NA
 2246	alac11	foot	šàʔà	šàʔà	32	NA	NA	NA	durr1987preliminary	NA
 7761	alac11	pie	šàʔà	šàʔà	32	NA	NA	NA	josserand1983mixtec	NA
-5098	alac11	pie	jehē	jehē	32	NA	NA	NA	alexander1980gramatica	[C]
 7762	alco11	pie	šaʔa	šaʔa	32	NA	NA	NA	josserand1983mixtec	NA
 7763	amat11	pie	saʔa	saʔa	32	NA	NA	NA	josserand1983mixtec	NA
 7764	apas11	pie	saʔa	saʔa	32	NA	NA	NA	josserand1983mixtec	NA
 7765	apoa11	pie	saʔa	saʔa	32	NA	NA	NA	josserand1983mixtec	NA
 2243	atat11	foot	xēʔè	xēʔè	32	NA	NA	NA	durr1987preliminary	NA
 7766	atat11	pie	xeʔē	xeʔē	32	NA	NA	NA	josserand1983mixtec	NA
+5098	atat11	pie	jehē	jehē	32	NA	NA	NA	alexander1980gramatica	[C]
 7767	aten11	pie	saʔa	saʔa	32	NA	NA	NA	josserand1983mixtec	NA
 7768	atoy11	pie	čaʔa	čaʔa	32	NA	NA	NA	josserand1983mixtec	NA
 767	ayut11	foot	shāhan	shāhan	32	NA	NA	NA	hills1990syntactic	NA
@@ -2723,12 +2723,12 @@ ID	DOCULECT	GLOSS	VALUE	FORM	IDlist	NOTES	LOAN	LOAN_SOURCE	SOURCE	FLOATTONE
 4519	alac11	enfermedad	kue̠’e̠	kue̠’e̠	33	NA	NA	NA	zylstra2012gramatica	NA
 1027	alac11	sickness	kwehe	kwehe	33	NA	NA	NA	zylstra1991syntactic	NA
 7877	alac11	enfermedad	kʷeʔe	kʷeʔe	33	NA	NA	NA	josserand1983mixtec	NA
-5099	alac11	enfermedad	cuehyɨ	cuehyɨ	33	NA	NA	NA	alexander1980gramatica	[A]
 7878	alco11	enfermedad	kʷeʔe	kʷeʔe	33	NA	NA	NA	josserand1983mixtec	NA
 7879	amat11	enfermedad	kʷeʔe	kʷeʔe	33	NA	NA	NA	josserand1983mixtec	NA
 7880	apas11	enfermedad	kʷeʔe	kʷeʔe	33	NA	NA	NA	josserand1983mixtec	NA
 7881	apoa11	enfermedad	kʷeʔe	kʷeʔe	33	NA	NA	NA	josserand1983mixtec	NA
 7882	atat11	enfermedad	kʷeʔyī	kʷeʔyī	33	NA	NA	NA	josserand1983mixtec	NA
+5099	atat11	enfermedad	cuehyɨ	cuehyɨ	33	NA	NA	NA	alexander1980gramatica	[A]
 7883	aten11	enfermedad	kʷeʔe	kʷeʔe	33	NA	NA	NA	josserand1983mixtec	NA
 7884	atoy11	enfermedad	kʷeʔe	kʷeʔe	33	NA	NA	NA	josserand1983mixtec	NA
 768	ayut11	disease, illness, sickness	kwīhe	kwīhe	33	NA	NA	NA	hills1990syntactic	NA
@@ -2867,8 +2867,8 @@ ID	DOCULECT	GLOSS	VALUE	FORM	IDlist	NOTES	LOAN	LOAN_SOURCE	SOURCE	FLOATTONE
 7989	zapo11	enfermedad	kʷeʔe	kʷeʔe	33	NA	NA	NA	josserand1983mixtec	NA
 4520	alac11	medicina	ta̠ta̠n	ta̠ta̠n	34	NA	NA	NA	zylstra2012gramatica	NA
 1028	alac11	medicine	tatan	tatan	34	NA	NA	NA	zylstra1991syntactic	NA
-5100	alac11	medicina	tajnā	tajnā	34	NA	NA	NA	alexander1980gramatica	[C]
 2254	atat11	medicine	tāNà	tāNà	34	NA	NA	NA	durr1987preliminary	NA
+5100	atat11	medicina	tajnā	tajnā	34	NA	NA	NA	alexander1980gramatica	[C]
 769	ayut11	medicine, remedy	tātanh	tātanh	34	NA	NA	NA	hills1990syntactic	NA
 2256	caca11	medicine	tàtà 	tàtà 	34	NA	NA	NA	durr1987preliminary	NA
 3976	chay11	medicina	tata	tata	34	only appears in examples	NA	NA	pensinger1974diccionario	NA
@@ -2950,8 +2950,8 @@ ID	DOCULECT	GLOSS	VALUE	FORM	IDlist	NOTES	LOAN	LOAN_SOURCE	SOURCE	FLOATTONE
 8024	huaz11	hinchazón	kʷaño̧ʔo̧	kʷaño̧ʔo̧	35	NA	NA	NA	josserand1983mixtec	NA
 8023	huaz11	hinchazón	kʷi̧ño̧	kʷi̧ño̧	35	NA	NA	NA	josserand1983mixtec	NA
 20336	huen11	hinchazón	kuíñu	kuíñu	35	NA	NA	NA	becerra-roldan2015un-estudio	NA
-8026	huit11	hinchado	xʷi̧ñi̧	xʷi̧ñi̧	35	NA	NA	NA	josserand1983mixtec	NA
 8025	huit11	hinchazón	nȩñu̧	nȩñu̧	35	NA	NA	NA	josserand1983mixtec	NA
+8026	huit11	hinchado	xʷi̧ñi̧	xʷi̧ñi̧	35	NA	NA	NA	josserand1983mixtec	NA
 8027	itun11	hinchazón	kʷi̧i̧	kʷi̧i̧	35	NA	NA	NA	josserand1983mixtec	NA
 8028	ixpa11	hinchazón	kà-kʷi̧ñu̧	kà-kʷi̧ñu̧	35	NA	NA	NA	josserand1983mixtec	NA
 8029	ixta11	hinchazón	kʷi̧ñu̧	kʷi̧ñu̧	35	NA	NA	NA	josserand1983mixtec	NA
@@ -3240,7 +3240,7 @@ ID	DOCULECT	GLOSS	VALUE	FORM	IDlist	NOTES	LOAN	LOAN_SOURCE	SOURCE	FLOATTONE
 8265	nuxa11	pus	ⁿdakʷa	ⁿdakʷa	37	NA	NA	NA	josserand1983mixtec	NA
 8266	nuxi11	pus	ⁿdakʷa	ⁿdakʷa	37	NA	NA	NA	josserand1983mixtec	NA
 8267	nuyo11	pus	nā̧kʷā	nā̧kʷā	37	NA	NA	NA	josserand1983mixtec	NA
-8268	ocot11	pus	ntakʷa	ntakʷa	37	NA	NA	NA	josserand1983mixtec	NA
+8268	ocot11	pus	ⁿtakʷa	ⁿtakʷa	37	NA	NA	NA	josserand1983mixtec	NA
 5236	papa11	pus	ya³cua³	ya³cua³	37	loan from Mixtec I think	maybe	Mixtec	anderson1983diccionario	NA
 4887	pena11	pus	ndakua	ndakua	37	NA	NA	NA	hollenbach2017diccionario	[A]
 8269	pena12	pus	ⁿdakʷa	ⁿdakʷa	37	NA	NA	NA	josserand1983mixtec	NA
@@ -3376,8 +3376,8 @@ ID	DOCULECT	GLOSS	VALUE	FORM	IDlist	NOTES	LOAN	LOAN_SOURCE	SOURCE	FLOATTONE
 30	abas11	tela, ropa	sa’ma	sa’ma	39	NA	NA	NA	galindo-sanchez2009vocabulario	NA
 4521	alac11	ropa	tiko̠to̠	tiko̠to̠	39	NA	NA	NA	zylstra2012gramatica	NA
 1029	alac11	clothes	tīkoto	tīkoto	39	NA	NA	NA	zylstra1991syntactic	NA
-5101	alac11	tela, ropa	sahma	sahma	39	NA	NA	NA	alexander1980gramatica	[A]
 2265	atat11	clothes	sāʔmā	sāʔmā	39	NA	NA	NA	durr1987preliminary	NA
+5101	atat11	tela, ropa	sahma	sahma	39	NA	NA	NA	alexander1980gramatica	[A]
 770	ayut11	tortilla cloth	sahmāh	sahmāh	39	NA	NA	NA	hills1990syntactic	NA
 771	ayut11	cloth	tōto	tōto	39	NA	NA	NA	hills1990syntactic	NA
 2269	ayut11	clothes	sàʔmáʔ	sàʔmáʔ	39	NA	NA	NA	durr1987preliminary	NA
@@ -3743,8 +3743,8 @@ ID	DOCULECT	GLOSS	VALUE	FORM	IDlist	NOTES	LOAN	LOAN_SOURCE	SOURCE	FLOATTONE
 8620	prom01	huipil	siko̧	siko̧	42	NA	NA	NA	josserand1983mixtec	NA
 5617	prom01	huipil	sìkõ̀	sìkõ̀	42	NA	NA	NA	swanton2020observaciones	NA
 8621	sayu11	huipil	šuku̧	šuku̧	42	NA	NA	NA	josserand1983mixtec	NA
-8623	soya11	camisa	đu̧ʔnu̧	đu̧ʔnu̧	42	NA	NA	NA	josserand1983mixtec	NA
 8622	soya11	huipil	đo̧ʔno̧	đo̧ʔno̧	42	NA	NA	NA	josserand1983mixtec	NA
+8623	soya11	camisa	đu̧ʔnu̧	đu̧ʔnu̧	42	NA	NA	NA	josserand1983mixtec	NA
 8624	tama11	huipil	đa̧ʔma̧	đa̧ʔma̧	42	NA	NA	NA	josserand1983mixtec	NA
 8625	tama11	huipil	đixu̧	đixu̧	42	NA	NA	NA	josserand1983mixtec	NA
 8626	tama12	huipil	θiko	θiko	42	NA	NA	NA	josserand1983mixtec	NA
@@ -3779,7 +3779,6 @@ ID	DOCULECT	GLOSS	VALUE	FORM	IDlist	NOTES	LOAN	LOAN_SOURCE	SOURCE	FLOATTONE
 1030	alac11	town	ñōō	ñōō	43	NA	NA	NA	zylstra1991syntactic	NA
 2290	alac11	town	ñō̧ō̧	ñō̧ō̧	43	NA	NA	NA	durr1987preliminary	NA
 8647	alac11	pueblo	ño̧o̧	ño̧o̧	43	NA	NA	NA	josserand1983mixtec	NA
-5102	alac11	pueblo	ñuu	ñuu	43	NA	NA	NA	alexander1980gramatica	[C]
 8648	alco11	pueblo	ñu̧u̧	ñu̧u̧	43	NA	NA	NA	josserand1983mixtec	NA
 5622	alco11	pueblo	ɲu³u²	ɲu³u²	43	NA	NA	NA	swanton2020observaciones	NA
 8649	amat11	pueblo	ñu̧u̧	ñu̧u̧	43	NA	NA	NA	josserand1983mixtec	NA
@@ -3787,6 +3786,7 @@ ID	DOCULECT	GLOSS	VALUE	FORM	IDlist	NOTES	LOAN	LOAN_SOURCE	SOURCE	FLOATTONE
 8651	apoa11	pueblo	ñu̧u̧	ñu̧u̧	43	NA	NA	NA	josserand1983mixtec	NA
 2286	atat11	town	ñūū	ñūū	43	NA	NA	NA	durr1987preliminary	NA
 8652	atat11	pueblo	ñu̧u̧	ñu̧u̧	43	NA	NA	NA	josserand1983mixtec	NA
+5102	atat11	pueblo	ñuu	ñuu	43	NA	NA	NA	alexander1980gramatica	[C]
 8653	aten11	pueblo	ñu̧u̧	ñu̧u̧	43	NA	NA	NA	josserand1983mixtec	NA
 8654	atoy11	pueblo	ñu̧u̧	ñu̧u̧	43	NA	NA	NA	josserand1983mixtec	NA
 772	ayut11	village, town	ñuu	ñuu	43	NA	NA	NA	hills1990syntactic	NA
@@ -3950,13 +3950,13 @@ ID	DOCULECT	GLOSS	VALUE	FORM	IDlist	NOTES	LOAN	LOAN_SOURCE	SOURCE	FLOATTONE
 1031	alac11	house	vēhē	vēhē	44	NA	NA	NA	zylstra1991syntactic	NA
 2305	alac11	house	ƀēʔē	ƀēʔē	44	NA	NA	NA	durr1987preliminary	NA
 8763	alac11	casa	ƀeʔe	ƀeʔe	44	NA	NA	NA	josserand1983mixtec	NA
-5103	alac11	casa	vehe	vehe	44	NA	NA	NA	alexander1980gramatica	[A]
 8764	alco11	casa	weʔe	weʔe	44	NA	NA	NA	josserand1983mixtec	NA
 8765	amat11	casa	ƀeʔe	ƀeʔe	44	NA	NA	NA	josserand1983mixtec	NA
 8766	apas11	casa	weʔe	weʔe	44	NA	NA	NA	josserand1983mixtec	NA
 8767	apoa11	casa	weʔe	weʔe	44	NA	NA	NA	josserand1983mixtec	NA
 2300	atat11	house	ƀēʔē	ƀēʔē	44	NA	NA	NA	durr1987preliminary	NA
 8768	atat11	casa	veʔe	veʔe	44	NA	NA	NA	josserand1983mixtec	NA
+5103	atat11	casa	vehe	vehe	44	NA	NA	NA	alexander1980gramatica	[A]
 8769	aten11	casa	veʔe	veʔe	44	NA	NA	NA	josserand1983mixtec	NA
 8770	atoy11	casa	weʔe	weʔe	44	NA	NA	NA	josserand1983mixtec	NA
 773	ayut11	house	vihe	vihe	44	NA	NA	NA	hills1990syntactic	NA
@@ -4112,9 +4112,9 @@ ID	DOCULECT	GLOSS	VALUE	FORM	IDlist	NOTES	LOAN	LOAN_SOURCE	SOURCE	FLOATTONE
 35	abas11	camino	ichi	ichi	45	NA	NA	NA	galindo-sanchez2009vocabulario	NA
 4526	alac11	camino	yichi̠	yichi̠	45	NA	NA	NA	zylstra2012gramatica	NA
 1032	alac11	road	yīchi	yīchi	45	NA	NA	NA	zylstra1991syntactic	NA
-5104	alac11	camino	ichi	ichi	45	NA	NA	NA	alexander1980gramatica	[A]
 5627	alco11	camino	i³ʧi⁴	i³ʧi⁴	45	NA	NA	NA	swanton2020observaciones	NA
 2315	atat11	road	īčī	īčī	45	NA	NA	NA	durr1987preliminary	NA
+5104	atat11	camino	ichi	ichi	45	NA	NA	NA	alexander1980gramatica	[A]
 774	ayut11	path	ichīh	ichīh	45	NA	NA	NA	hills1990syntactic	NA
 2318	cahu11	road	yīčī	yīčī	45	NA	NA	NA	durr1987preliminary	NA
 5629	chal11	camino	i²ʧi²	i²ʧi²	45	NA	NA	NA	swanton2020observaciones	+³
@@ -4238,8 +4238,8 @@ ID	DOCULECT	GLOSS	VALUE	FORM	IDlist	NOTES	LOAN	LOAN_SOURCE	SOURCE	FLOATTONE
 8938	teco11	horcón	sí̧ʔì̧	sí̧ʔì̧	46	NA	NA	NA	josserand1983mixtec	NA
 8939	teit11	horcón	đi̧ʔi̧	đi̧ʔi̧	46	NA	NA	NA	josserand1983mixtec	NA
 8940	tepe11	horcón	đi̧ʔi̧	đi̧ʔi̧	46	NA	NA	NA	josserand1983mixtec	NA
-8941	tepo11	horcón	sako	sako	46	NA	NA	NA	josserand1983mixtec	NA
 8942	tepo11	pierna	đeʔe	đeʔe	46	NA	NA	NA	josserand1983mixtec	NA
+8941	tepo11	horcón	sako	sako	46	NA	NA	NA	josserand1983mixtec	NA
 8943	tida11	horcón	đi̧ʔi̧	đi̧ʔi̧	46	NA	NA	NA	josserand1983mixtec	NA
 8944	tila11	horcón	ti̧ʔi̧	ti̧ʔi̧	46	NA	NA	NA	josserand1983mixtec	NA
 8945	tlac11	horcón	si̧ʔi̧	si̧ʔi̧	46	NA	NA	NA	josserand1983mixtec	NA
@@ -4567,14 +4567,14 @@ ID	DOCULECT	GLOSS	VALUE	FORM	IDlist	NOTES	LOAN	LOAN_SOURCE	SOURCE	FLOATTONE
 9198	zapo11	cama	šito	šito	48	NA	NA	NA	josserand1983mixtec	NA
 39	abas11	silla	chai	chai	49	NA	NA	NA	galindo-sanchez2009vocabulario	NA
 9199	acat11	banquito	čayu	čayu	49	NA	NA	NA	josserand1983mixtec	NA
-9200	adeq11	banquito	ƀanku	ƀanku	49	NA	NA	NA	josserand1983mixtec	NA
+9200	adeq11	banquito	banku	banku	49	NA	NA	NA	josserand1983mixtec	NA
 9201	ahue11	banquito	teže	teže	49	NA	NA	NA	josserand1983mixtec	NA
 4528	alac11	silla	táyi̠	táyi̠	49	NA	NA	NA	zylstra2012gramatica	NA
 1033	alac11	chair	tāyi	tāyi	49	NA	NA	NA	zylstra1991syntactic	NA
 2337	alac11	stool	tāyì	tāyì	49	NA	NA	NA	durr1987preliminary	NA
 9202	alac11	banquito	tayì	tayì	49	NA	NA	NA	josserand1983mixtec	NA
 9203	alco11	banquito	tayu	tayu	49	NA	NA	NA	josserand1983mixtec	NA
-9204	amat11	banquito	ƀanku	ƀanku	49	NA	NA	NA	josserand1983mixtec	NA
+9204	amat11	banquito	banku	banku	49	NA	NA	NA	josserand1983mixtec	NA
 9205	apas11	banquito	ȼayu	ȼayu	49	NA	NA	NA	josserand1983mixtec	NA
 9206	apoa11	banco	ȼayu	ȼayu	49	NA	NA	NA	josserand1983mixtec	NA
 9207	atat11	banquito	siya	siya	49	NA	NA	NA	josserand1983mixtec	NA
@@ -4603,7 +4603,7 @@ ID	DOCULECT	GLOSS	VALUE	FORM	IDlist	NOTES	LOAN	LOAN_SOURCE	SOURCE	FLOATTONE
 4196	colo11	banquito, silla	tyáyu	tyáyu	49	NA	NA	NA	stark1986diccionario	NA
 9223	colo11	banquito	tʸayu	tʸayu	49	NA	NA	NA	josserand1983mixtec	NA
 9224	coso11	banquito	tei	tei	49	NA	NA	NA	josserand1983mixtec	NA
-9225	coxc11	banquito	ƀanku	ƀanku	49	NA	NA	NA	josserand1983mixtec	NA
+9225	coxc11	banquito	banku	banku	49	NA	NA	NA	josserand1983mixtec	NA
 9226	cris11	banquito	čažu	čažu	49	NA	NA	NA	josserand1983mixtec	NA
 9227	cuat11	banquito	tayi	tayi	49	NA	NA	NA	josserand1983mixtec	NA
 9228	cuau11	banquito	teyu	teyu	49	NA	NA	NA	josserand1983mixtec	NA
@@ -4628,10 +4628,10 @@ ID	DOCULECT	GLOSS	VALUE	FORM	IDlist	NOTES	LOAN	LOAN_SOURCE	SOURCE	FLOATTONE
 9242	ixta11	banquito	silʸa	silʸa	49	NA	NA	NA	josserand1983mixtec	NA
 9243	ixta11	banquito	tʸayu	tʸayu	49	NA	NA	NA	josserand1983mixtec	NA
 9244	ixta12	banquito	(ti)-ȼayu	ti-ȼayu	49	NA	NA	NA	josserand1983mixtec	NA
-9245	ixta13	banquito	ƀanku	ƀanku	49	NA	NA	NA	josserand1983mixtec	NA
+9245	ixta13	banquito	banku	banku	49	NA	NA	NA	josserand1983mixtec	NA
 401	jami11	chair	tyayu	tyayu	49	NA	NA	NA	johnson1988syntactic	NA
 9246	jami11	banquito	tʸayu	tʸayu	49	NA	NA	NA	josserand1983mixtec	NA
-9247	jate11	banquito	ƀanku	ƀanku	49	NA	NA	NA	josserand1983mixtec	NA
+9247	jate11	banquito	banku	banku	49	NA	NA	NA	josserand1983mixtec	NA
 2340	jica11	stool	tāyū	tāyū	49	NA	NA	NA	durr1987preliminary	NA
 9248	jica11	banquito	tayu	tayu	49	NA	NA	NA	josserand1983mixtec	NA
 9249	jica12	banquito	tayu	tayu	49	NA	NA	NA	josserand1983mixtec	NA
@@ -4643,28 +4643,28 @@ ID	DOCULECT	GLOSS	VALUE	FORM	IDlist	NOTES	LOAN	LOAN_SOURCE	SOURCE	FLOATTONE
 9254	mech11	banquito	tʸayu	tʸayu	49	NA	NA	NA	josserand1983mixtec	NA
 2338	metl11	stool	tʸāyù	tʸāyù	49	NA	NA	NA	durr1987preliminary	NA
 9255	metl11	banquito	tʸāyù	tʸāyù	49	NA	NA	NA	josserand1983mixtec	NA
-9256	mica11	banquito	ƀanku	ƀanku	49	NA	NA	NA	josserand1983mixtec	NA
+9256	mica11	banquito	banku	banku	49	NA	NA	NA	josserand1983mixtec	NA
 9257	mixt11	banquito	tʸai	tʸai	49	NA	NA	NA	josserand1983mixtec	NA
 3167	mixt11	silla	chei	chei	49	NA	NA	NA	oxnard2020	NA
 9258	moli11	banquito	težu	težu	49	NA	NA	NA	josserand1983mixtec	NA
-9259	mont12	banquito	ƀanka	ƀanka	49	NA	NA	NA	josserand1983mixtec	NA
+9259	mont12	banquito	banka	banka	49	NA	NA	NA	josserand1983mixtec	NA
 3166	mont12	silla	tyáyì	tyáyì	49	NA	NA	NA	oxnard2020	NA
 9260	mont13	banquito	teyu	teyu	49	NA	NA	NA	josserand1983mixtec	NA
-9261	mont14	banquito	ƀanku	ƀanku	49	NA	NA	NA	josserand1983mixtec	NA
-9262	more11	banquito	ƀanko	ƀanko	49	NA	NA	NA	josserand1983mixtec	NA
-9263	ndua11	banquito	ƀanku	ƀanku	49	NA	NA	NA	josserand1983mixtec	NA
+9261	mont14	banquito	banku	banku	49	NA	NA	NA	josserand1983mixtec	NA
+9262	more11	banquito	banko	banko	49	NA	NA	NA	josserand1983mixtec	NA
+9263	ndua11	banquito	banku	banku	49	NA	NA	NA	josserand1983mixtec	NA
 9264	nuch11	banquito	teži	teži	49	NA	NA	NA	josserand1983mixtec	NA
-9265	nund11	banquito	ƀanku	ƀanku	49	NA	NA	NA	josserand1983mixtec	NA
-9266	nund12	banquito	ƀanku	ƀanku	49	NA	NA	NA	josserand1983mixtec	NA
+9265	nund11	banquito	banku	banku	49	NA	NA	NA	josserand1983mixtec	NA
+9266	nund12	banquito	banku	banku	49	NA	NA	NA	josserand1983mixtec	NA
 9267	nund13	banquito	tei	tei	49	NA	NA	NA	josserand1983mixtec	NA
-9268	nuti11	banquito	ƀanka	ƀanka	49	NA	NA	NA	josserand1983mixtec	NA
+9268	nuti11	banquito	banka	banka	49	NA	NA	NA	josserand1983mixtec	NA
 9269	nuxa11	banquito	(či)težu	čitežu	49	NA	NA	NA	josserand1983mixtec	NA
 9270	nuxi11	banquito	či-teyu	či-teyu	49	NA	NA	NA	josserand1983mixtec	NA
 9271	nuyo11	banquito	tēyūʔ-(lúlí)	tēyūʔ-lúlí	49	NA	NA	NA	josserand1983mixtec	NA
 9272	ocot11	banquito	tēžù	tēžù	49	NA	NA	NA	josserand1983mixtec	NA
 5248	papa11	banco	yi²ta²³⁴	yi²ta²³⁴	49	NA	NA	NA	anderson1983diccionario	NA
 4899	pena11	banquito	teyù	teyù	49	NA	NA	NA	hollenbach2017diccionario	{BA}
-9273	pena12	banquito	ƀa̧ᵑgu	ƀa̧ᵑgu	49	NA	NA	NA	josserand1983mixtec	NA
+9273	pena12	banquito	ba̧ᵑgu	ba̧ᵑgu	49	NA	NA	NA	josserand1983mixtec	NA
 2334	peno11	stool	tèžú	tèžú	49	NA	NA	NA	durr1987preliminary	NA
 9274	peno11	banquito	šìla̧	šìla̧	49	NA	NA	NA	josserand1983mixtec	NA
 9275	peno11	banquito	težu	težu	49	NA	NA	NA	josserand1983mixtec	NA
@@ -4673,16 +4673,16 @@ ID	DOCULECT	GLOSS	VALUE	FORM	IDlist	NOTES	LOAN	LOAN_SOURCE	SOURCE	FLOATTONE
 3164	pied12	silla	tsiáyi	tsiáyi	49	NA	NA	NA	oxnard2020	NA
 9278	pino11	banquito	tayu	tayu	49	NA	NA	NA	josserand1983mixtec	NA
 9279	pino12	banquito	tayu	tayu	49	NA	NA	NA	josserand1983mixtec	NA
-9280	prog11	banquito	ƀanka	ƀanka	49	NA	NA	NA	josserand1983mixtec	NA
+9280	prog11	banquito	banka	banka	49	NA	NA	NA	josserand1983mixtec	NA
 9281	prog12	banquito	taži	taži	49	NA	NA	NA	josserand1983mixtec	NA
 9282	prom01	banquito	teyu	teyu	49	NA	NA	NA	josserand1983mixtec	NA
 9283	reye11	banquito	čʸei	čʸei	49	NA	NA	NA	josserand1983mixtec	NA
 9284	sayu11	banquito	tayu	tayu	49	NA	NA	NA	josserand1983mixtec	NA
 9285	sind11	banquito	težu	težu	49	NA	NA	NA	josserand1983mixtec	NA
-9286	sini11	banquito	ƀa̧ᵑgu	ƀa̧ᵑgu	49	NA	NA	NA	josserand1983mixtec	NA
+9286	sini11	banquito	ba̧ᵑgu	ba̧ᵑgu	49	NA	NA	NA	josserand1983mixtec	NA
 9287	soya11	banquito	(ti)-ȼayu	ti-ȼayu	49	NA	NA	NA	josserand1983mixtec	NA
-9289	tama11	banco	težu	težu	49	NA	NA	NA	josserand1983mixtec	NA
 9288	tama11	banquito	šile	šile	49	NA	NA	NA	josserand1983mixtec	NA
+9289	tama11	banco	težu	težu	49	NA	NA	NA	josserand1983mixtec	NA
 9290	tama12	banquito	težȩ	težȩ	49	NA	NA	NA	josserand1983mixtec	NA
 9291	tata11	banquito	teyu	teyu	49	NA	NA	NA	josserand1983mixtec	NA
 9292	teco11	banquito	čei	čei	49	NA	NA	NA	josserand1983mixtec	NA
@@ -4713,7 +4713,7 @@ ID	DOCULECT	GLOSS	VALUE	FORM	IDlist	NOTES	LOAN	LOAN_SOURCE	SOURCE	FLOATTONE
 9313	yucu12	banquito	tèyū	tèyū	49	NA	NA	NA	josserand1983mixtec	NA
 9314	yucu13	banquito	tēì-kʷàʔá	tēì-kʷàʔá	49	NA	NA	NA	josserand1983mixtec	NA
 9315	yucu15	banquito	tažu	tažu	49	NA	NA	NA	josserand1983mixtec	NA
-9316	yucu16	banquito	ƀanku	ƀanku	49	NA	NA	NA	josserand1983mixtec	NA
+9316	yucu16	banquito	banku	banku	49	NA	NA	NA	josserand1983mixtec	NA
 20631	yucu17	stool, chair	chaì	chaì	49	NA	NA	NA	salazar2020yucunani	NA
 9317	yuta11	banquito	šile	šile	49	NA	NA	NA	josserand1983mixtec	NA
 9318	yuta12	banquito	težu	težu	49	NA	NA	NA	josserand1983mixtec	NA
@@ -4730,7 +4730,6 @@ ID	DOCULECT	GLOSS	VALUE	FORM	IDlist	NOTES	LOAN	LOAN_SOURCE	SOURCE	FLOATTONE
 4529	alac11	animal	kiti̠	kiti̠	50	NA	NA	NA	zylstra2012gramatica	NA
 1034	alac11	animal	kīti	kīti	50	NA	NA	NA	zylstra1991syntactic	NA
 9325	alac11	animal	kiti	kiti	50	NA	NA	NA	josserand1983mixtec	NA
-5105	alac11	animal	quɨtɨ	quɨtɨ	50	NA	NA	NA	alexander1980gramatica	[A]
 9326	alco11	animal	kiti	kiti	50	NA	NA	NA	josserand1983mixtec	NA
 5636	alco11	animal	ki³ti⁴	ki³ti⁴	50	NA	NA	NA	swanton2020observaciones	NA
 5641	alco11	cuándo	a³ma³	a³ma³	50	NA	NA	NA	swanton2020observaciones	NA
@@ -4739,6 +4738,7 @@ ID	DOCULECT	GLOSS	VALUE	FORM	IDlist	NOTES	LOAN	LOAN_SOURCE	SOURCE	FLOATTONE
 9329	apoa11	animal	kiti(tata)	kititata	50	NA	NA	NA	josserand1983mixtec	NA
 2346	atat11	animal	kɨ̄tɨ̄	kɨ̄tɨ̄	50	NA	NA	NA	durr1987preliminary	NA
 9330	atat11	animal	kɨtɨ	kɨtɨ	50	NA	NA	NA	josserand1983mixtec	NA
+5105	atat11	animal	quɨtɨ	quɨtɨ	50	NA	NA	NA	alexander1980gramatica	[A]
 9331	aten11	animal	kītì	kītì	50	NA	NA	NA	josserand1983mixtec	NA
 9332	atoy11	animal	kiti	kiti	50	NA	NA	NA	josserand1983mixtec	NA
 778	ayut11	animal	kitīh	kitīh	50	NA	NA	NA	hills1990syntactic	NA
@@ -4883,8 +4883,8 @@ ID	DOCULECT	GLOSS	VALUE	FORM	IDlist	NOTES	LOAN	LOAN_SOURCE	SOURCE	FLOATTONE
 1394	yoso11	animal	kɨ̄tɨ̄	kɨ̄tɨ̄	50	NA	NA	NA	farris1992syntactic	NA
 20499	yoso14	animal	kiti	kiti	50	NA	NA	NA	gittlen2016gramatica	NA
 9429	yucu11	animal	kiti	kiti	50	NA	NA	NA	josserand1983mixtec	NA
-9430	yucu12	animal	tìì	tìì	50	NA	NA	NA	josserand1983mixtec	NA
 9431	yucu12	horse	kītɨ̄	kītɨ̄	50	NA	NA	NA	josserand1983mixtec	NA
+9430	yucu12	animal	tìì	tìì	50	NA	NA	NA	josserand1983mixtec	NA
 9432	yucu13	animal	kiti	kiti	50	NA	NA	NA	josserand1983mixtec	NA
 9433	yucu15	animal	kītí	kītí	50	NA	NA	NA	josserand1983mixtec	NA
 9434	yucu16	animal	kiti	kiti	50	NA	NA	NA	josserand1983mixtec	NA
@@ -4906,13 +4906,13 @@ ID	DOCULECT	GLOSS	VALUE	FORM	IDlist	NOTES	LOAN	LOAN_SOURCE	SOURCE	FLOATTONE
 4530	alac11	pájaro	saa	saa	51	NA	NA	NA	zylstra2012gramatica	NA
 1035	alac11	bird	sāā	sāā	51	NA	NA	NA	zylstra1991syntactic	NA
 9443	alac11	pájaro	saa	saa	51	NA	NA	NA	josserand1983mixtec	NA
-5106	alac11	pájaro	saa	saa	51	NA	NA	NA	alexander1980gramatica	[C]
 9444	alco11	pájaro	saa	saa	51	NA	NA	NA	josserand1983mixtec	NA
 9445	amat11	pájaro	laa	laa	51	NA	NA	NA	josserand1983mixtec	NA
 9446	apas11	pájaro	ti-đaa	ti-đaa	51	NA	NA	NA	josserand1983mixtec	NA
 9447	apoa11	pájaro	ti-đaa	ti-đaa	51	NA	NA	NA	josserand1983mixtec	NA
 2358	atat11	bird	sāā	sāā	51	NA	NA	NA	durr1987preliminary	NA
 9448	atat11	pájaro	saa	saa	51	NA	NA	NA	josserand1983mixtec	NA
+5106	atat11	pájaro	saa	saa	51	NA	NA	NA	alexander1980gramatica	[C]
 9449	aten11	pájaro	laa	laa	51	NA	NA	NA	josserand1983mixtec	NA
 9450	atoy11	pájaro	saa	saa	51	NA	NA	NA	josserand1983mixtec	NA
 779	ayut11	bird	saa	saa	51	NA	NA	NA	hills1990syntactic	NA
@@ -5062,8 +5062,8 @@ ID	DOCULECT	GLOSS	VALUE	FORM	IDlist	NOTES	LOAN	LOAN_SOURCE	SOURCE	FLOATTONE
 4531	alac11	pescado	tia̠ká	tia̠ká	52	NA	NA	NA	anderson2006vocabulario	NA
 1036	alac11	fish	ti-yaká	ti-yaká	52	animal-fish	NA	NA	zylstra1991syntactic	NA
 2376	alac11	fish	tiáká	tiáká	52	NA	NA	NA	durr1987preliminary	NA
-5107	alac11	pez	chācá	chācá	52	tones are 4-1	NA	NA	alexander1980gramatica	[B]
 2370	atat11	fish	čàká	čàká	52	NA	NA	NA	durr1987preliminary	NA
+5107	atat11	pez	chācá	chācá	52	tones are 4-1	NA	NA	alexander1980gramatica	[B]
 780	ayut11	fish	t-yakāh	t-yakāh	52	animal-fish	NA	NA	hills1990syntactic	NA
 2375	ayut11	fish	tʸàkáʔ	tʸàkáʔ	52	NA	NA	NA	durr1987preliminary	NA
 2373	caca11	fish	tì-žākā	tì-žākā	52	animal-fish	NA	NA	durr1987preliminary	NA
@@ -5110,12 +5110,12 @@ ID	DOCULECT	GLOSS	VALUE	FORM	IDlist	NOTES	LOAN	LOAN_SOURCE	SOURCE	FLOATTONE
 4532	alac11	culebra, serpiente	ko̠o̠	ko̠o̠	53	NA	NA	NA	zylstra2012gramatica	NA
 2388	alac11	snake	kòò	kòò	53	NA	NA	NA	durr1987preliminary	NA
 9558	alac11	culebra	kòò	kòò	53	NA	NA	NA	josserand1983mixtec	NA
-5108	alac11	culebra	coō	coō	53	NA	NA	NA	alexander1980gramatica	[C]
 9559	alco11	culebra	koo	koo	53	NA	NA	NA	josserand1983mixtec	NA
 9560	apas11	culebra	koo	koo	53	NA	NA	NA	josserand1983mixtec	NA
 9561	apoa11	culebra	koo	koo	53	NA	NA	NA	josserand1983mixtec	NA
 2383	atat11	snake	kōò	kōò	53	NA	NA	NA	durr1987preliminary	NA
 9562	atat11	culebra	koō	koō	53	NA	NA	NA	josserand1983mixtec	NA
+5108	atat11	culebra	coō	coō	53	NA	NA	NA	alexander1980gramatica	[C]
 9563	aten11	culebra	kòò	kòò	53	NA	NA	NA	josserand1983mixtec	NA
 9564	atoy11	culebra	koo	koo	53	NA	NA	NA	josserand1983mixtec	NA
 781	ayut11	snake	kōoh	kōoh	53	NA	NA	NA	hills1990syntactic	NA
@@ -5337,8 +5337,8 @@ ID	DOCULECT	GLOSS	VALUE	FORM	IDlist	NOTES	LOAN	LOAN_SOURCE	SOURCE	FLOATTONE
 9717	pena12	rana	sapu	sapu	54	NA	NA	NA	josserand1983mixtec	NA
 2394	peno11	frog	làʔƀá	làʔƀá	54	NA	NA	NA	durr1987preliminary	NA
 9718	peno11	rana	la̧ʔƀa̧	la̧ʔƀa̧	54	NA	NA	NA	josserand1983mixtec	NA
-9719	pied11	rana	laʔⁿdu	laʔⁿdu	54	NA	NA	NA	josserand1983mixtec	NA
 9720	pied11	sapo	đaʔwa	đaʔwa	54	NA	NA	NA	josserand1983mixtec	NA
+9719	pied11	rana	laʔⁿdu	laʔⁿdu	54	NA	NA	NA	josserand1983mixtec	NA
 3189	pied12	rana	sá'và	sá'và	54	NA	NA	NA	oxnard2020	NA
 9721	pino11	rana	saʔƀa	saʔƀa	54	NA	NA	NA	josserand1983mixtec	NA
 9722	pino12	rana	saʔƀa	saʔƀa	54	NA	NA	NA	josserand1983mixtec	NA
@@ -5444,20 +5444,20 @@ ID	DOCULECT	GLOSS	VALUE	FORM	IDlist	NOTES	LOAN	LOAN_SOURCE	SOURCE	FLOATTONE
 9804	dura11	gavilán	tasi	tasi	55	NA	NA	NA	josserand1983mixtec	NA
 9806	esta11	gavilán	ⁿdi-θi̧ʔa̧	ⁿdi-θi̧ʔa̧	55	NA	NA	NA	josserand1983mixtec	NA
 9807	esta11	gavilán	ña̧u̧	ña̧u̧	55	NA	NA	NA	josserand1983mixtec	NA
-9808	este11	á́guila	žaʔa	žaʔa	55	NA	NA	NA	josserand1983mixtec	NA
 9809	este11	gavilán	đi̧ʔña̧	đi̧ʔña̧	55	NA	NA	NA	josserand1983mixtec	NA
 9810	este11	gavilucha	tađu̧	tađu̧	55	NA	NA	NA	josserand1983mixtec	NA
+9808	este11	á́guila	žaʔa	žaʔa	55	NA	NA	NA	josserand1983mixtec	NA
 3195	flor12	gavilán	xí'ña	xí'ña	55	NA	NA	NA	oxnard2020	NA
 9811	gran11	gavilán	ši̧ʔā̧	ši̧ʔā̧	55	NA	NA	NA	josserand1983mixtec	NA
 9812	gran11	halcón	tasu̧	tasu̧	55	NA	NA	NA	josserand1983mixtec	NA
 9813	guad11	gavilán	šaʔa	šaʔa	55	NA	NA	NA	josserand1983mixtec	NA
 9814	huaz11	gavilán	tasu̧	tasu̧	55	NA	NA	NA	josserand1983mixtec	NA
 20350	huen11	gavilán	xí’ñà	xí’ñà	55	NA	NA	NA	becerra-roldan2015un-estudio	NA
-9817	huit11	á́guila	tađu	tađu	55	NA	NA	NA	josserand1983mixtec	NA
 9815	huit11	gavilán	đi̧ʔña̧	đi̧ʔña̧	55	NA	NA	NA	josserand1983mixtec	NA
+9817	huit11	á́guila	tađu	tađu	55	NA	NA	NA	josserand1983mixtec	NA
 9816	huit11	gavilán	žaʔa	žaʔa	55	NA	NA	NA	josserand1983mixtec	NA
-9819	itun11	á́guila	tasu̧	tasu̧	55	NA	NA	NA	josserand1983mixtec	NA
 9818	itun11	gavilán	ṣ̌i̧ʔña̧	ṣ̌i̧ʔña̧	55	NA	NA	NA	josserand1983mixtec	NA
+9819	itun11	á́guila	tasu̧	tasu̧	55	NA	NA	NA	josserand1983mixtec	NA
 9820	ixpa11	gavilán	šiʔa̧	šiʔa̧	55	NA	NA	NA	josserand1983mixtec	NA
 9821	ixta11	gavilán	tasu	tasu	55	NA	NA	NA	josserand1983mixtec	NA
 9822	ixta12	gavilán	đi̧ʔỹa̧	đi̧ʔỹa̧	55	NA	NA	NA	josserand1983mixtec	NA
@@ -5467,8 +5467,8 @@ ID	DOCULECT	GLOSS	VALUE	FORM	IDlist	NOTES	LOAN	LOAN_SOURCE	SOURCE	FLOATTONE
 9825	jica11	gavilán	tasu̧	tasu̧	55	NA	NA	NA	josserand1983mixtec	NA
 9826	jica12	gavilán	tasu	tasu	55	NA	NA	NA	josserand1983mixtec	NA
 6169	jica13	gavilán	saa xí'ña	saa-xí'ña	55	bird-?	NA	NA	Emily John-Martin	NA
-9828	joco11	á́guila	tađu̧	tađu̧	55	NA	NA	NA	josserand1983mixtec	NA
 9827	joco11	gavilán	đi̧ʔña̧	đi̧ʔña̧	55	NA	NA	NA	josserand1983mixtec	NA
+9828	joco11	á́guila	tađu̧	tađu̧	55	NA	NA	NA	josserand1983mixtec	NA
 9829	juxt11	gavilán	ši̧ʔa̧	ši̧ʔa̧	55	NA	NA	NA	josserand1983mixtec	NA
 9830	lore11	gavilán	tasɨ	tasɨ	55	NA	NA	NA	josserand1983mixtec	NA
 9831	mech11	gavilán	tasu̧	tasu̧	55	NA	NA	NA	josserand1983mixtec	NA
@@ -5488,14 +5488,14 @@ ID	DOCULECT	GLOSS	VALUE	FORM	IDlist	NOTES	LOAN	LOAN_SOURCE	SOURCE	FLOATTONE
 9843	nuxi11	gavilán	ña̧mi̧	ña̧mi̧	55	NA	NA	NA	josserand1983mixtec	NA
 9844	nuyo11	gavilán	sī̧ʔñā̧	sī̧ʔñā̧	55	NA	NA	NA	josserand1983mixtec	NA
 9845	nuyo11	gavilán	tàsù̧	tàsù̧	55	NA	NA	NA	josserand1983mixtec	NA
-9846	ocot11	gavilán	žāʔa	žāʔa	55	NA	NA	NA	josserand1983mixtec	NA
 9847	ocot11	halcón	tàsù̧	tàsù̧	55	NA	NA	NA	josserand1983mixtec	NA
+9846	ocot11	gavilán	žāʔa	žāʔa	55	NA	NA	NA	josserand1983mixtec	NA
 5254	papa11	gavilán	i³yun³	i³yun³	55	NA	NA	NA	anderson1983diccionario	NA
 4905	pena11	gavilán	xí’ñá	xí’ñá	55	NA	NA	NA	hollenbach2017diccionario	[A]
 9848	peno11	gavilán	đì̧ʔà	đì̧ʔà	55	NA	NA	NA	josserand1983mixtec	NA
 9849	peno11	gavilán	táđú̧	táđú̧	55	NA	NA	NA	josserand1983mixtec	NA
-9852	pied11	á́guila	tađu	tađu	55	NA	NA	NA	josserand1983mixtec	NA
 9850	pied11	gavilán	đi̧ʔña̧	đi̧ʔña̧	55	NA	NA	NA	josserand1983mixtec	NA
+9852	pied11	á́guila	tađu	tađu	55	NA	NA	NA	josserand1983mixtec	NA
 9851	pied11	gavilán	žaʔa	žaʔa	55	NA	NA	NA	josserand1983mixtec	NA
 3194	pied12	gavilán	xi'ña	xi'ña	55	NA	NA	NA	oxnard2020	NA
 9853	pino11	gavilán	tasu̧	tasu̧	55	NA	NA	NA	josserand1983mixtec	NA
@@ -5523,8 +5523,8 @@ ID	DOCULECT	GLOSS	VALUE	FORM	IDlist	NOTES	LOAN	LOAN_SOURCE	SOURCE	FLOATTONE
 9876	tida11	gavilán	ña̧ʔwi̧	ña̧ʔwi̧	55	NA	NA	NA	josserand1983mixtec	NA
 9874	tida11	gavilán	tađu̧	tađu̧	55	NA	NA	NA	josserand1983mixtec	NA
 9875	tida11	gavilán	ti-đi̧ʔa̧	ti-đi̧ʔa̧	55	NA	NA	NA	josserand1983mixtec	NA
-9878	tila11	á́guila	tađu̧	tađu̧	55	NA	NA	NA	josserand1983mixtec	NA
 9877	tila11	gavilán	đi̧ʔa̧	đi̧ʔa̧	55	NA	NA	NA	josserand1983mixtec	NA
+9878	tila11	á́guila	tađu̧	tađu̧	55	NA	NA	NA	josserand1983mixtec	NA
 9880	tlac11	gavilán	ȼioko	ȼioko	55	NA	NA	NA	josserand1983mixtec	NA
 9879	tlac11	gavilán	ši̧ʔña̧	ši̧ʔña̧	55	NA	NA	NA	josserand1983mixtec	NA
 3193	tlah11	gavilán	xí'ña	xí'ña	55	NA	NA	NA	oxnard2020	NA
@@ -5537,8 +5537,8 @@ ID	DOCULECT	GLOSS	VALUE	FORM	IDlist	NOTES	LOAN	LOAN_SOURCE	SOURCE	FLOATTONE
 9887	tutu11	gavilán	tasu	tasu	55	NA	NA	NA	josserand1983mixtec	NA
 9888	xaya12	gavilán	tàđù	tàđù	55	NA	NA	NA	josserand1983mixtec	NA
 4718	xoch11	gavilán, águila	tasún	tasún	55	NA	NA	NA	stark2013diccionario	NA
-9890	yolo11	á́guila	žaʔa	žaʔa	55	NA	NA	NA	josserand1983mixtec	NA
 9889	yolo11	gavilán	ši̧ʔña̧	ši̧ʔña̧	55	NA	NA	NA	josserand1983mixtec	NA
+9890	yolo11	á́guila	žaʔa	žaʔa	55	NA	NA	NA	josserand1983mixtec	NA
 222	yolo11	gavilán	ta¹su'⁴u⁴	ta¹su'⁴u⁴	55	NA	NA	NA	amith2020yoloxochitl	NA
 9891	yolo12	gavilán	tasu̧	tasu̧	55	NA	NA	NA	josserand1983mixtec	NA
 9892	yoso11	gavilán	ši̧ʔya̧	ši̧ʔya̧	55	NA	NA	NA	josserand1983mixtec	NA
@@ -5546,9 +5546,9 @@ ID	DOCULECT	GLOSS	VALUE	FORM	IDlist	NOTES	LOAN	LOAN_SOURCE	SOURCE	FLOATTONE
 9894	yucu11	gavilán	ña̧mi̧	ña̧mi̧	55	NA	NA	NA	josserand1983mixtec	NA
 9895	yucu11	gavilán	ši̧ʔña̧	ši̧ʔña̧	55	NA	NA	NA	josserand1983mixtec	NA
 9896	yucu11	gavilán	tasu̧	tasu̧	55	NA	NA	NA	josserand1983mixtec	NA
+9899	yucu12	zopilote grande	čìī-žāʔā	čìī-žāʔā	55	NA	NA	NA	josserand1983mixtec	NA
 9897	yucu12	gavilán	ší̧ʔña̧	ší̧ʔña̧	55	NA	NA	NA	josserand1983mixtec	NA
 9898	yucu12	gavilán	tàsú̧	tàsú̧	55	NA	NA	NA	josserand1983mixtec	NA
-9899	yucu12	zopilote grande	čìī-žāʔā	čìī-žāʔā	55	NA	NA	NA	josserand1983mixtec	NA
 9900	yucu13	gavilán	tahi-yaʔa	tahi-yaʔa	55	NA	NA	NA	josserand1983mixtec	NA
 9901	yucu15	gavilán	ší̧ʔñá̧	ší̧ʔñá̧	55	NA	NA	NA	josserand1983mixtec	NA
 9902	yucu15	gavilán	žāʔá	žāʔá	55	NA	NA	NA	josserand1983mixtec	NA
@@ -5560,11 +5560,11 @@ ID	DOCULECT	GLOSS	VALUE	FORM	IDlist	NOTES	LOAN	LOAN_SOURCE	SOURCE	FLOATTONE
 9906	acat11	alacrán	tɨ-su̧ʔma̧	tɨ-su̧ʔma̧	56	NA	NA	NA	josserand1983mixtec	NA
 9907	ahue11	alacrán	ti-hi̧ʔma̧	ti-hi̧ʔma̧	56	NA	NA	NA	josserand1983mixtec	NA
 4535	alac11	alacrán	tísi̠’ma	tí-si̠’ma	56	animal-tail	NA	NA	zylstra2012gramatica	NA
-5109	alac11	alacrán	tɨsuhma	tɨsuhma	56	NA	NA	NA	alexander1980gramatica	[C]
 9908	alco11	alacrán	ti-so̧ʔma̧	ti-so̧ʔma̧	56	NA	NA	NA	josserand1983mixtec	NA
 9909	apas11	alacrán	ⁿdi-đu̧ʔma̧	ⁿdi-đu̧ʔma̧	56	NA	NA	NA	josserand1983mixtec	NA
 9910	apoa11	alacrán	ⁿdi-đu̧ʔma̧	ⁿdi-đu̧ʔma̧	56	NA	NA	NA	josserand1983mixtec	NA
 9911	atat11	alacrán	tɨ-su̧ʔma̧	tɨ-su̧ʔma̧	56	NA	NA	NA	josserand1983mixtec	NA
+5109	atat11	alacrán	tɨsuhma	tɨsuhma	56	NA	NA	NA	alexander1980gramatica	[C]
 9912	aten11	alacrán	(ti-hʸa̧ʔa̧)	ti-hʸa̧ʔa̧	56	NA	NA	NA	josserand1983mixtec	NA
 9913	atoy11	alacrán	ti-su̧ʔma̧	ti-su̧ʔma̧	56	NA	NA	NA	josserand1983mixtec	NA
 782	ayut11	scorpion	ti-sūhma	ti-sūhma	56	animal-tail	NA	NA	hills1990syntactic	NA
@@ -5777,8 +5777,8 @@ ID	DOCULECT	GLOSS	VALUE	FORM	IDlist	NOTES	LOAN	LOAN_SOURCE	SOURCE	FLOATTONE
 10073	zaca11	cucaracha	ti-taʔya	ti-taʔya	57	NA	NA	NA	josserand1983mixtec	NA
 10074	zapo11	cucaracha	ȼiši-waa	ȼiši-waa	57	NA	NA	NA	josserand1983mixtec	NA
 4537	alac11	chapulín	ti̠ka	ti̠ka	58	NA	NA	NA	anderson2006vocabulario	NA
-5110	alac11	chapulín	tɨ́ca	tɨ́ca	58	tones are 1-32	NA	NA	alexander1980gramatica	[C]
 5645	alco11	chapulín	ti²ka²	ti²ka²	58	NA	NA	NA	swanton2020observaciones	NA
+5110	atat11	chapulín	tɨ́ca	tɨ́ca	58	tones are 1-32	NA	NA	alexander1980gramatica	[C]
 5647	chal11	chapulín	tɨ¹ka²	tɨ¹ka²	58	NA	NA	NA	swanton2020observaciones	NA
 1682	chic02	chapulín	Chukuahha	chukuahha	58	NA	NA	NA	belmar1897ensayo	NA
 5961	chic12	chapulín	xiriqui¹	xiriqui¹	58	NA	NA	NA	good1978diccionario	NA
@@ -5844,13 +5844,13 @@ ID	DOCULECT	GLOSS	VALUE	FORM	IDlist	NOTES	LOAN	LOAN_SOURCE	SOURCE	FLOATTONE
 1038	alac11	mouse	tiín	tiín	60	NA	NA	NA	zylstra1991syntactic	NA
 10081	alac11	rata	tì̧í̧	tì̧í̧	60	NA	NA	NA	josserand1983mixtec	NA
 10080	alac11	rata	tnì̧í̧	tnì̧í̧	60	NA	NA	NA	josserand1983mixtec	NA
-5111	alac11	ratón	jnɨ́nɨ́	jnɨ́nɨ́	60	NA	NA	NA	alexander1980gramatica	[C]
 10083	alco11	rata	ti̧i̧	ti̧i̧	60	NA	NA	NA	josserand1983mixtec	NA
 10084	amat11	rata	či-či̧i̧	či-či̧i̧	60	NA	NA	NA	josserand1983mixtec	NA
 10085	apas11	rata	ti̧ñi̧	ti̧ñi̧	60	NA	NA	NA	josserand1983mixtec	NA
 10086	apoa11	rata	ti̧ñi̧	ti̧ñi̧	60	NA	NA	NA	josserand1983mixtec	NA
 2401	atat11	rat	Nɨ́ñɨ́	nɨ́ñɨ́	60	NA	NA	NA	durr1987preliminary	NA
 10087	atat11	rata	Nnɨ̧ñɨ̧́	nnɨ̧ñɨ̧́	60	NA	NA	NA	josserand1983mixtec	NA
+5111	atat11	ratón	jnɨ́nɨ́	jnɨ́nɨ́	60	NA	NA	NA	alexander1980gramatica	[C]
 10088	aten11	rata	ti-žoto	ti-žoto	60	NA	NA	NA	josserand1983mixtec	NA
 10089	aten11	rata	tì̧í̧	tì̧í̧	60	NA	NA	NA	josserand1983mixtec	NA
 10090	atoy11	rata	ti̧ñi̧	ti̧ñi̧	60	NA	NA	NA	josserand1983mixtec	NA
@@ -6028,12 +6028,12 @@ ID	DOCULECT	GLOSS	VALUE	FORM	IDlist	NOTES	LOAN	LOAN_SOURCE	SOURCE	FLOATTONE
 2410	alac11	deer	yūsū	yūsū	61	NA	NA	NA	durr1987preliminary	NA
 10222	alac11	venado	ⁿdʸusu	ⁿdʸusu	61	NA	NA	NA	josserand1983mixtec	NA
 10221	alac11	venado	yusu	yusu	61	NA	NA	NA	josserand1983mixtec	NA
-5112	alac11	venado	isu	isu	61	NA	NA	NA	alexander1980gramatica	[C]
 10223	alco11	venado	isu	isu	61	NA	NA	NA	josserand1983mixtec	NA
 10224	amat11	venado	sa-kʷaa	sa-kʷaa	61	NA	NA	NA	josserand1983mixtec	NA
 10225	apas11	venado	iđu	iđu	61	NA	NA	NA	josserand1983mixtec	NA
 10226	apoa11	venado	iđu	iđu	61	NA	NA	NA	josserand1983mixtec	NA
 10227	atat11	venado	isu	isu	61	NA	NA	NA	josserand1983mixtec	NA
+5112	atat11	venado	isu	isu	61	NA	NA	NA	alexander1980gramatica	[C]
 10228	aten11	venado	sa-kʷaa	sa-kʷaa	61	NA	NA	NA	josserand1983mixtec	NA
 10229	atoy11	venado	isu	isu	61	NA	NA	NA	josserand1983mixtec	NA
 783	ayut11	deer	isu	isu	61	NA	NA	NA	hills1990syntactic	NA
@@ -6193,7 +6193,7 @@ ID	DOCULECT	GLOSS	VALUE	FORM	IDlist	NOTES	LOAN	LOAN_SOURCE	SOURCE	FLOATTONE
 10346	atoy11	ardilla	kʷa̧ñu̧	kʷa̧ñu̧	62	NA	NA	NA	josserand1983mixtec	NA
 10347	ayut11	ardilla	ⁿdi-kʷēī	ⁿdi-kʷēī	62	NA	NA	NA	josserand1983mixtec	NA
 10348	brav11	ardilla	ⁿdi-kʷa̧ñu̧	ⁿdi-kʷa̧ñu̧	62	NA	NA	NA	josserand1983mixtec	NA
-10349	caca11	ardilla	arđiya	arđiya	62	NA	NA	NA	josserand1983mixtec	NA
+10349	caca11	ardilla	ardiya	ardiya	62	NA	NA	NA	josserand1983mixtec	NA
 10350	cahu11	ardilla	ⁿdi-kʷa̧ñu̧	ⁿdi-kʷa̧ñu̧	62	NA	NA	NA	josserand1983mixtec	NA
 10351	chal11	ardilla	kʷa̧ñu̧	kʷa̧ñu̧	62	NA	NA	NA	josserand1983mixtec	NA
 4001	chay11	ardilla	cuaño	cuaño	62	NA	NA	NA	pensinger1974diccionario	NA
@@ -6203,7 +6203,7 @@ ID	DOCULECT	GLOSS	VALUE	FORM	IDlist	NOTES	LOAN	LOAN_SOURCE	SOURCE	FLOATTONE
 10354	chic11	ardilla	kʷa̧ñu̧	kʷa̧ñu̧	62	NA	NA	NA	josserand1983mixtec	NA
 5966	chic12	ardilla	xuhua¹	xuhua¹	62	NA	NA	NA	good1978diccionario	NA
 21066	chic12	ardilla	ʃu³wa⁴	ʃu³wa⁴	62	NA	NA	NA	hernandez-mendoza2020vocabulario	NA
-10355	chig11	ardilla	ⁿdo-arđia?	ⁿdo-arđia?	62	NA	NA	NA	josserand1983mixtec	NA
+10355	chig11	ardilla	ⁿdo-ardia?	ⁿdo-ardia?	62	NA	NA	NA	josserand1983mixtec	NA
 10356	coat11	ardilla	kʷȩñu̧	kʷȩñu̧	62	NA	NA	NA	josserand1983mixtec	NA
 10357	coic11	ardilla	ⁿdi-kʷa̧ñu̧	ⁿdi-kʷa̧ñu̧	62	NA	NA	NA	josserand1983mixtec	NA
 4210	colo11	ardilla	cuañu	cuañu	62	NA	NA	NA	stark1986diccionario	NA
@@ -6213,7 +6213,7 @@ ID	DOCULECT	GLOSS	VALUE	FORM	IDlist	NOTES	LOAN	LOAN_SOURCE	SOURCE	FLOATTONE
 10361	cris11	ardilla	kʷa̧ñu̧	kʷa̧ñu̧	62	NA	NA	NA	josserand1983mixtec	NA
 10362	cuat11	ardilla	ⁿdi-kʷa̧ñu̧	ⁿdi-kʷa̧ñu̧	62	NA	NA	NA	josserand1983mixtec	NA
 10363	cuau11	ardilla	kʷȩñu̧	kʷȩñu̧	62	NA	NA	NA	josserand1983mixtec	NA
-10364	cuil11	ardilla	arđiya	arđiya	62	NA	NA	NA	josserand1983mixtec	NA
+10364	cuil11	ardilla	ardiya	ardiya	62	NA	NA	NA	josserand1983mixtec	NA
 10365	cuya11	ardilla	kʷȩñu̧	kʷȩñu̧	62	NA	NA	NA	josserand1983mixtec	NA
 10366	diux11	ardilla	kʷȩñu̧	kʷȩñu̧	62	NA	NA	NA	josserand1983mixtec	NA
 20159	dura11	ardilla	ntxikuání	ntxi-kuání	62	NA	NA	NA	hernandez2020san-martin	NA
@@ -6230,7 +6230,7 @@ ID	DOCULECT	GLOSS	VALUE	FORM	IDlist	NOTES	LOAN	LOAN_SOURCE	SOURCE	FLOATTONE
 10376	ixpa11	ardilla	ⁿdi-kʷa̧ni̧	ⁿdi-kʷa̧ni̧	62	NA	NA	NA	josserand1983mixtec	NA
 10377	ixta11	ardilla	ƀiši	ƀiši	62	NA	NA	NA	josserand1983mixtec	NA
 10378	ixta12	ardilla	kʷa̧ñu̧	kʷa̧ñu̧	62	NA	NA	NA	josserand1983mixtec	NA
-10379	ixta13	ardilla	si-arđiya	si-arđiya	62	NA	NA	NA	josserand1983mixtec	NA
+10379	ixta13	ardilla	si-ardiya	si-ardiya	62	NA	NA	NA	josserand1983mixtec	NA
 10380	jami11	ardilla	kʷa̧ñu̧	kʷa̧ñu̧	62	NA	NA	NA	josserand1983mixtec	NA
 10381	jate11	ardilla	laƀiči	laƀiči	62	NA	NA	NA	josserand1983mixtec	NA
 10382	jica11	ardilla	kʷa̧ñu̧	kʷa̧ñu̧	62	NA	NA	NA	josserand1983mixtec	NA
@@ -6240,7 +6240,7 @@ ID	DOCULECT	GLOSS	VALUE	FORM	IDlist	NOTES	LOAN	LOAN_SOURCE	SOURCE	FLOATTONE
 10385	juxt11	ardilla	ⁿdʸi-kʷa̧i̧	ⁿdʸi-kʷa̧i̧	62	NA	NA	NA	josserand1983mixtec	NA
 10386	lore11	ardilla	kʷa̧ñu̧	kʷa̧ñu̧	62	NA	NA	NA	josserand1983mixtec	NA
 10387	mech11	ardilla	kʷa̧ñu̧	kʷa̧ñu̧	62	NA	NA	NA	josserand1983mixtec	NA
-10388	mica11	ardilla	arđiya	arđiya	62	NA	NA	NA	josserand1983mixtec	NA
+10388	mica11	ardilla	ardiya	ardiya	62	NA	NA	NA	josserand1983mixtec	NA
 10389	mixt11	ardilla	ⁿdʸi-kʷa̧i̧	ⁿdʸi-kʷa̧i̧	62	NA	NA	NA	josserand1983mixtec	NA
 3231	mixt11	ardilla	ndikwáín	ndi-kwáín	62	NA	NA	NA	oxnard2020	NA
 10390	moli11	ardilla	kʷa̧nu̧	kʷa̧nu̧	62	NA	NA	NA	josserand1983mixtec	NA
@@ -6249,7 +6249,7 @@ ID	DOCULECT	GLOSS	VALUE	FORM	IDlist	NOTES	LOAN	LOAN_SOURCE	SOURCE	FLOATTONE
 10392	mont13	ardilla	kʷȩñu̧	kʷȩñu̧	62	NA	NA	NA	josserand1983mixtec	NA
 10393	ndua11	ardilla	kʷa̧ñu̧	kʷa̧ñu̧	62	NA	NA	NA	josserand1983mixtec	NA
 10394	nuch11	ardilla	ti-kʷa̧ñi̧	ti-kʷa̧ñi̧	62	NA	NA	NA	josserand1983mixtec	NA
-10395	nund11	ardilla	arđiya	arđiya	62	NA	NA	NA	josserand1983mixtec	NA
+10395	nund11	ardilla	ardiya	ardiya	62	NA	NA	NA	josserand1983mixtec	NA
 10396	nund12	ardilla	ti-kʷa̧nu̧	ti-kʷa̧nu̧	62	NA	NA	NA	josserand1983mixtec	NA
 10397	nund13	ardilla	ⁿdi-kʷa̧i̧	ⁿdi-kʷa̧i̧	62	NA	NA	NA	josserand1983mixtec	NA
 10398	nund13	ardilla	ⁿdi-kʷa̧ñu̧	ⁿdi-kʷa̧ñu̧	62	NA	NA	NA	josserand1983mixtec	NA
@@ -6282,9 +6282,9 @@ ID	DOCULECT	GLOSS	VALUE	FORM	IDlist	NOTES	LOAN	LOAN_SOURCE	SOURCE	FLOATTONE
 10420	tata11	ardilla	kʷȩni̧	kʷȩni̧	62	NA	NA	NA	josserand1983mixtec	NA
 10421	teco11	ardilla	la-kʷa̧ñi̧	la-kʷa̧ñi̧	62	NA	NA	NA	josserand1983mixtec	NA
 10422	teit11	ardilla	kʷȩni̧	kʷȩni̧	62	NA	NA	NA	josserand1983mixtec	NA
-10423	tejo11	ardilla	arđiya-ȼa	arđiya-ȼa	62	NA	NA	NA	josserand1983mixtec	NA
+10423	tejo11	ardilla	ardiya-ȼa	ardiya-ȼa	62	NA	NA	NA	josserand1983mixtec	NA
 5460	tepe03	ardilla	iyu	iyu	62	NA	NA	NA	belmar1902el-cuicateco	NA
-10424	tepe11	ardilla	arđiya	arđiya	62	NA	NA	NA	josserand1983mixtec	NA
+10424	tepe11	ardilla	ardiya	ardiya	62	NA	NA	NA	josserand1983mixtec	NA
 10425	tepe12	ardilla	kʷa̧ñu̧	kʷa̧ñu̧	62	NA	NA	NA	josserand1983mixtec	NA
 10426	tida11	ardilla	ti-kʷa̧i̧	ti-kʷa̧i̧	62	NA	NA	NA	josserand1983mixtec	NA
 10427	tila11	ardilla	kʷa̧ñu̧	kʷa̧ñu̧	62	NA	NA	NA	josserand1983mixtec	NA
@@ -6292,7 +6292,7 @@ ID	DOCULECT	GLOSS	VALUE	FORM	IDlist	NOTES	LOAN	LOAN_SOURCE	SOURCE	FLOATTONE
 3227	tlah11	ardilla	ndigwáñu	ndi-gwáñu	62	NA	NA	NA	oxnard2020	NA
 10429	tlaz11	ardilla	kʷelu	kʷelu	62	NA	NA	NA	josserand1983mixtec	NA
 10430	tona11	ardilla	si-mu̧tu	si-mu̧tu	62	NA	NA	NA	josserand1983mixtec	NA
-10431	toto12	ardilla	si-arđiya	si-arđiya	62	NA	NA	NA	josserand1983mixtec	NA
+10431	toto12	ardilla	si-ardiya	si-ardiya	62	NA	NA	NA	josserand1983mixtec	NA
 10432	tutu11	ardilla	kʷa̧ñu̧	kʷa̧ñu̧	62	NA	NA	NA	josserand1983mixtec	NA
 10433	xaya11	ardilla	si-mu̧tu	si-mu̧tu	62	NA	NA	NA	josserand1983mixtec	NA
 10434	xaya12	ardilla	sì-mū̧tū	sì-mū̧tū	62	NA	NA	NA	josserand1983mixtec	NA
@@ -6307,11 +6307,11 @@ ID	DOCULECT	GLOSS	VALUE	FORM	IDlist	NOTES	LOAN	LOAN_SOURCE	SOURCE	FLOATTONE
 10441	yucu15	ardilla	ⁿdī-kʷá̧ñu̧	ⁿdī-kʷá̧ñu̧	62	NA	NA	NA	josserand1983mixtec	NA
 10442	yucu16	ardilla	ⁿdi-kʷi̧i̧	ⁿdi-kʷi̧i̧	62	NA	NA	NA	josserand1983mixtec	NA
 20644	yucu17	squirrel	ntikuáin	nti-kuáin	62	NA	NA	NA	salazar2020yucunani	NA
-10443	yuta11	ardilla	arđiya	arđiya	62	NA	NA	NA	josserand1983mixtec	NA
+10443	yuta11	ardilla	ardiya	ardiya	62	NA	NA	NA	josserand1983mixtec	NA
 10444	yuta12	ardilla	kʷȩñɨ̧	kʷȩñɨ̧	62	NA	NA	NA	josserand1983mixtec	NA
 20846	yuta13	ardilla	ndikuéín	ndi-kuéín	62	NA	NA	NA	williams2017diccionario	NA
 10445	zaca11	ardilla	kʷa̧ñu̧	kʷa̧ñu̧	62	NA	NA	NA	josserand1983mixtec	NA
-10446	zapo11	ardilla	ti-arđiya	ti-arđiya	62	NA	NA	NA	josserand1983mixtec	NA
+10446	zapo11	ardilla	ti-ardiya	ti-ardiya	62	NA	NA	NA	josserand1983mixtec	NA
 4542	alac11	zorrillo	ti̠’ín	ti̠’ín	63	NA	NA	NA	zylstra2012gramatica	NA
 5650	alco11	ardilla	ⁿdi³=kʷa⁴ɲu³	ⁿdi³-kʷa⁴ɲu³	63	NA	NA	NA	swanton2020observaciones	NA
 1688	chic02	zorrillo	Cháán	cháán	63	NA	NA	NA	belmar1897ensayo	NA
@@ -6340,7 +6340,7 @@ ID	DOCULECT	GLOSS	VALUE	FORM	IDlist	NOTES	LOAN	LOAN_SOURCE	SOURCE	FLOATTONE
 20847	yuta13	zorrillo	ti̠ñi̠’í	ti̠-ñi̠’í	63	NA	NA	NA	williams2017diccionario	NA
 50	abas11	tlacuache	tsoko	tsoko	64	NA	NA	NA	galindo-sanchez2009vocabulario	NA
 4543	alac11	tlacuache	xáko	xáko	64	NA	NA	NA	zylstra2012gramatica	NA
-5113	alac11	tlacuache	chéngo	chéngo	64	tones are 1-32	NA	NA	alexander1980gramatica	[A]
+5113	atat11	tlacuache	chéngo	chéngo	64	tones are 1-32	NA	NA	alexander1980gramatica	[A]
 4002	chay11	tlacuache	soco	soco	64	NA	NA	NA	pensinger1974diccionario	NA
 5968	chic12	tlacuache	jnaquïnj³ïn	jnaquïnj³ïn	64	NA	NA	NA	good1978diccionario	NA
 21068	chic12	tlacuache	ta⁴kɨ̃¹ʰ	ta⁴kɨ̃¹ʰ	64	NA	NA	NA	hernandez-mendoza2020vocabulario	NA
@@ -6391,7 +6391,7 @@ ID	DOCULECT	GLOSS	VALUE	FORM	IDlist	NOTES	LOAN	LOAN_SOURCE	SOURCE	FLOATTONE
 4546	alac11	conejo	leson	leson	66	NA	NA	NA	anderson2006vocabulario	NA
 1040	alac11	rabbit	yīsōn	yīsōn	66	Sp. conejo	yes	Spanish	zylstra1991syntactic	NA
 1041	alac11	rabbit	lēsōn	lēsōn	66	Sp. conejo	yes	Spanish	zylstra1991syntactic	NA
-5114	alac11	conejo	iso	iso	66	NA	NA	NA	alexander1980gramatica	[C]
+5114	atat11	conejo	iso	iso	66	NA	NA	NA	alexander1980gramatica	[C]
 785	ayut11	rabbit	iso	iso	66	NA	NA	NA	hills1990syntactic	NA
 4004	chay11	conejo	cuñexu	cuñexu	66	Sp. loan, in examples only	yes	Spanish	pensinger1974diccionario	NA
 1690	chic02	conejo	Chatooha	chatooha	66	NA	NA	NA	belmar1897ensayo	NA
@@ -6448,9 +6448,9 @@ ID	DOCULECT	GLOSS	VALUE	FORM	IDlist	NOTES	LOAN	LOAN_SOURCE	SOURCE	FLOATTONE
 4548	alac11	perro	ina	ina	68	NA	NA	NA	zylstra2012gramatica	NA
 1042	alac11	dog	īnā	īnā	68	NA	NA	NA	zylstra1991syntactic	NA
 2421	alac11	dog	īnā̧	īnā̧	68	NA	NA	NA	durr1987preliminary	NA
-5115	alac11	perro	ina	ina	68	NA	NA	NA	alexander1980gramatica	[C]
 5655	alco11	perro	ti²na²	t-i²na²	68	animal-dog	NA	NA	swanton2020observaciones	NA
 2417	atat11	dog	īnā	īnā	68	NA	NA	NA	durr1987preliminary	NA
+5115	atat11	perro	ina	ina	68	NA	NA	NA	alexander1980gramatica	[C]
 786	ayut11	dog	nāyah	nāyah	68	NA	NA	NA	hills1990syntactic	NA
 2419	caca11	dog	t-ì̧nā̧	t-ì̧nā̧	68	animal-dog	NA	NA	durr1987preliminary	NA
 2422	cahu11	dog	ñīnā	ñīnā	68	NA	NA	NA	durr1987preliminary	NA
@@ -6508,13 +6508,13 @@ ID	DOCULECT	GLOSS	VALUE	FORM	IDlist	NOTES	LOAN	LOAN_SOURCE	SOURCE	FLOATTONE
 10451	alac11	gato	(mí̧štó)	mí̧štó	69	NA	NA	NA	josserand1983mixtec	NA
 10454	alac11	gato	čitno̧)	čitno̧	69	NA	NA	NA	josserand1983mixtec	NA
 10453	alac11	gato	čitu̧	čitu̧	69	NA	NA	NA	josserand1983mixtec	NA
-5116	alac11	gato	vílu	vílu	69	NA	NA	NA	alexander1980gramatica	[A]
 10456	alco11	gato	(mištu̧)	mištu̧	69	NA	NA	NA	josserand1983mixtec	NA
 10455	alco11	gato	wilu	wilu	69	NA	NA	NA	josserand1983mixtec	NA
 10457	amat11	gato	(čutu)	čutu	69	NA	NA	NA	josserand1983mixtec	NA
 10458	apas11	gato	wilu	wilu	69	NA	NA	NA	josserand1983mixtec	NA
 10459	apoa11	gato	ƀilu	ƀilu	69	NA	NA	NA	josserand1983mixtec	NA
 10460	atat11	gato	ƀílū	ƀílū	69	NA	NA	NA	josserand1983mixtec	NA
+5116	atat11	gato	vílu	vílu	69	NA	NA	NA	alexander1980gramatica	[A]
 10461	aten11	gato	(čito)	čito	69	NA	NA	NA	josserand1983mixtec	NA
 10464	atoy11	gato	(čumi̧)	čumi̧	69	NA	NA	NA	josserand1983mixtec	NA
 10462	atoy11	gato	(mi̧ču)	mi̧ču	69	NA	NA	NA	josserand1983mixtec	NA
@@ -6665,7 +6665,7 @@ ID	DOCULECT	GLOSS	VALUE	FORM	IDlist	NOTES	LOAN	LOAN_SOURCE	SOURCE	FLOATTONE
 54	abas11	gallo	to’lo	to’lo	70	NA	NA	NA	galindo-sanchez2009vocabulario	NA
 4550	alac11	gallo	nduxú chée	nduxú-chée	70	chicken-big	NA	NA	zylstra2012gramatica	NA
 1044	alac11	rooster	ndūshú chée	ndūshú chée	70	chicken big:male	NA	NA	zylstra1991syntactic	NA
-5117	alac11	gallo	líhli	líhli	70	NA	NA	NA	alexander1980gramatica	[C]
+5117	atat11	gallo	líhli	líhli	70	NA	NA	NA	alexander1980gramatica	[C]
 4008	chay11	gallo	ndɨvɨ tyahnu	ndɨvɨ-tyahnu	70	chicken-?	NA	NA	pensinger1974diccionario	NA
 1694	chic02	gallo	Daloho	daloho	70	NA	NA	NA	belmar1897ensayo	NA
 5974	chic12	gallo	de’loj⁵o	de’loj⁵o	70	NA	NA	NA	good1978diccionario	NA
@@ -6696,7 +6696,7 @@ ID	DOCULECT	GLOSS	VALUE	FORM	IDlist	NOTES	LOAN	LOAN_SOURCE	SOURCE	FLOATTONE
 55	abas11	gallina	chata	chata	71	NA	NA	NA	galindo-sanchez2009vocabulario	NA
 4551	alac11	gallina	nduxú	nduxú	71	NA	NA	NA	zylstra2012gramatica	NA
 1045	alac11	chicken	ndūshú	ndūshú	71	NA	NA	NA	zylstra1991syntactic	NA
-5118	alac11	gallina	ndují	ndují	71	tones are 1-32	NA	NA	alexander1980gramatica	[B]
+5118	atat11	gallina	ndují	ndují	71	tones are 1-32	NA	NA	alexander1980gramatica	[B]
 788	ayut11	hen	ndushīh	ndushīh	71	NA	NA	NA	hills1990syntactic	NA
 4009	chay11	gallina	ndɨvɨ	ndɨvɨ	71	NA	NA	NA	pensinger1974diccionario	NA
 1695	chic02	gallina	Yuchehe	yuchehe	71	NA	NA	NA	belmar1897ensayo	NA
@@ -6728,7 +6728,7 @@ ID	DOCULECT	GLOSS	VALUE	FORM	IDlist	NOTES	LOAN	LOAN_SOURCE	SOURCE	FLOATTONE
 56	abas11	marrano, puerco, cerdo	kìni	kìni	72	NA	NA	NA	galindo-sanchez2009vocabulario	NA
 4552	alac11	marrano	kini̠	kini̠	72	NA	NA	NA	zylstra2012gramatica	NA
 1046	alac11	pig	kīni	kīni	72	NA	NA	NA	zylstra1991syntactic	NA
-5119	alac11	marrano	quɨnɨ̄	quɨnɨ̄	72	NA	NA	NA	alexander1980gramatica	[C]
+5119	atat11	marrano	quɨnɨ̄	quɨnɨ̄	72	NA	NA	NA	alexander1980gramatica	[C]
 789	ayut11	pig	kīni	kīni	72	NA	NA	NA	hills1990syntactic	NA
 4010	chay11	cerdo	quɨnɨ	quɨnɨ	72	NA	NA	NA	pensinger1974diccionario	NA
 1696	chic02	marrano	Chakaha	chakaha	72	NA	NA	NA	belmar1897ensayo	NA
@@ -6793,7 +6793,7 @@ ID	DOCULECT	GLOSS	VALUE	FORM	IDlist	NOTES	LOAN	LOAN_SOURCE	SOURCE	FLOATTONE
 58	abas11	borrego, oveja	ntikachi	nti-kachi	74	animal?-cotton	NA	NA	galindo-sanchez2009vocabulario	NA
 4554	alac11	borrego	ndikachi	ndi-kachi	74	animal?-cotton	NA	NA	zylstra2012gramatica	NA
 1048	alac11	sheep	ndī-kāchī	ndī-kāchī	74	animal?-cotton	NA	NA	zylstra1991syntactic	NA
-5120	alac11	borrego	lanchi	lanchi	74	NA	NA	NA	alexander1980gramatica	[A]
+5120	atat11	borrego	lanchi	lanchi	74	NA	NA	NA	alexander1980gramatica	[A]
 4012	chay11	borrego, oveja	mvee ticatyi	mvee-ti-catyi	74	goat-animal-cotton	NA	NA	pensinger1974diccionario	NA
 1697	chic02	oveja	Chachihi	chachihi	74	NA	NA	NA	belmar1897ensayo	NA
 1698	chic02	oveja	Matsihi	matsihi	74	NA	NA	NA	belmar1897ensayo	NA
@@ -6861,13 +6861,13 @@ ID	DOCULECT	GLOSS	VALUE	FORM	IDlist	NOTES	LOAN	LOAN_SOURCE	SOURCE	FLOATTONE
 10578	ahue11	cuerno	ⁿdiki	ⁿdiki	76	NA	NA	NA	josserand1983mixtec	NA
 1049	alac11	horn (anatomy)	ndiki	ndiki	76	NA	NA	NA	zylstra1991syntactic	NA
 10579	alac11	cuerno	ⁿdiki	ⁿdiki	76	NA	NA	NA	josserand1983mixtec	NA
-5121	alac11	cuerno	ndɨquɨ	ndɨquɨ	76	NA	NA	NA	alexander1980gramatica	[A]
 10580	alco11	cuerno	ⁿdiki̧	ⁿdiki̧	76	NA	NA	NA	josserand1983mixtec	NA
 10581	amat11	cuerno	ⁿdiki	ⁿdiki	76	NA	NA	NA	josserand1983mixtec	NA
 10582	amat11	cuerno	nyiki	nyiki	76	NA	NA	NA	josserand1983mixtec	NA
 10583	apas11	cuerno	ⁿdiki	ⁿdiki	76	NA	NA	NA	josserand1983mixtec	NA
 10584	apoa11	cuerno	ⁿdiki	ⁿdiki	76	NA	NA	NA	josserand1983mixtec	NA
 10585	atat11	cuerno	ⁿdiki̧	ⁿdiki̧	76	NA	NA	NA	josserand1983mixtec	NA
+5121	atat11	cuerno	ndɨquɨ	ndɨquɨ	76	NA	NA	NA	alexander1980gramatica	[A]
 10586	aten11	cuerno	ⁿdiki	ⁿdiki	76	NA	NA	NA	josserand1983mixtec	NA
 10587	atoy11	cuerno	ⁿdiki	ⁿdiki	76	NA	NA	NA	josserand1983mixtec	NA
 792	ayut11	horn (anatomy)	ndikīh	ndikīh	76	NA	NA	NA	hills1990syntactic	NA
@@ -6955,7 +6955,6 @@ ID	DOCULECT	GLOSS	VALUE	FORM	IDlist	NOTES	LOAN	LOAN_SOURCE	SOURCE	FLOATTONE
 663	prog12	horn (anatomy)	ndiki	ndiki	76	NA	NA	NA	shields1988syntactic	NA
 10653	prog12	cuerno	ⁿdiki	ⁿdiki	76	NA	NA	NA	josserand1983mixtec	NA
 10655	prom01	cuerno	ⁿdɨkɨʔ	ⁿdɨkɨʔ	76	NA	NA	NA	josserand1983mixtec	NA
-10654	prom01	cuerno	nđɨkɨʔ	nđɨkɨʔ	76	NA	NA	NA	josserand1983mixtec	NA
 10656	reye11	cuerno	ⁿčiki	ⁿčiki	76	NA	NA	NA	josserand1983mixtec	NA
 10657	sayu11	cuerno	ⁿdiki	ⁿdiki	76	NA	NA	NA	josserand1983mixtec	NA
 10658	sind11	cuerno	ⁿdɨkɨ	ⁿdɨkɨ	76	NA	NA	NA	josserand1983mixtec	NA
@@ -7152,11 +7151,11 @@ ID	DOCULECT	GLOSS	VALUE	FORM	IDlist	NOTES	LOAN	LOAN_SOURCE	SOURCE	FLOATTONE
 10812	ahue11	ala	ⁿdiši	ⁿdiši	78	NA	NA	NA	josserand1983mixtec	NA
 4556	alac11	ala	ndixi̠n	ndixi̠n	78	only in one example	NA	NA	anderson2006vocabulario	NA
 10813	alac11	ala	ⁿdiši	ⁿdiši	78	NA	NA	NA	josserand1983mixtec	NA
-5122	alac11	ala	ndijēn	ndijēn	78	NA	NA	NA	alexander1980gramatica	[C]
 10814	alco11	ala	ⁿdiši̧	ⁿdiši̧	78	NA	NA	NA	josserand1983mixtec	NA
 10815	apas11	ala	ⁿǰiši	ⁿǰiši	78	NA	NA	NA	josserand1983mixtec	NA
 10816	apoa11	ala	ⁿžiši̧	ⁿžiši̧	78	NA	NA	NA	josserand1983mixtec	NA
 10817	atat11	ala	ⁿdisi	ⁿdisi	78	NA	NA	NA	josserand1983mixtec	NA
+5122	atat11	ala	ndijēn	ndijēn	78	NA	NA	NA	alexander1980gramatica	[C]
 10818	aten11	ala	ⁿdìsì	ⁿdìsì	78	NA	NA	NA	josserand1983mixtec	NA
 10819	atoy11	ala	ⁿdiči̧	ⁿdiči̧	78	NA	NA	NA	josserand1983mixtec	NA
 10820	atoy11	ala	soko	soko	78	NA	NA	NA	josserand1983mixtec	NA
@@ -7420,7 +7419,6 @@ ID	DOCULECT	GLOSS	VALUE	FORM	IDlist	NOTES	LOAN	LOAN_SOURCE	SOURCE	FLOATTONE
 1050	alac11	tree	yīton	yīton	80	NA	NA	NA	zylstra1991syntactic	NA
 11022	alac11	árbol	yitnò̧	yitnò̧	80	NA	NA	NA	josserand1983mixtec	NA
 11021	alac11	árbol	yitò̧	yitò̧	80	NA	NA	NA	josserand1983mixtec	NA
-5123	alac11	árbol, palo	yujnu	yujnu	80	NA	NA	NA	alexander1980gramatica	[A]
 11023	alco11	árbol	itu̧	itu̧	80	NA	NA	NA	josserand1983mixtec	NA
 5665	alco11	árbol	i³tũ⁴	i³tũ⁴	80	NA	NA	NA	swanton2020observaciones	NA
 11024	amat11	árbol	žutu̧	žutu̧	80	NA	NA	NA	josserand1983mixtec	NA
@@ -7428,6 +7426,7 @@ ID	DOCULECT	GLOSS	VALUE	FORM	IDlist	NOTES	LOAN	LOAN_SOURCE	SOURCE	FLOATTONE
 11026	apoa11	árbol	žutu	žutu	80	NA	NA	NA	josserand1983mixtec	NA
 2431	atat11	tree	žūNū	žūNū	80	NA	NA	NA	durr1987preliminary	NA
 11027	atat11	árbol	yuNnu̧	yuNnu̧	80	NA	NA	NA	josserand1983mixtec	NA
+5123	atat11	árbol, palo	yujnu	yujnu	80	NA	NA	NA	alexander1980gramatica	[A]
 11028	aten11	árbol	yuto	yuto	80	NA	NA	NA	josserand1983mixtec	NA
 11029	atoy11	árbol	yutu̧	yutu̧	80	NA	NA	NA	josserand1983mixtec	NA
 794	ayut11	tree	itūnh	itūnh	80	NA	NA	NA	hills1990syntactic	NA
@@ -7722,8 +7721,8 @@ ID	DOCULECT	GLOSS	VALUE	FORM	IDlist	NOTES	LOAN	LOAN_SOURCE	SOURCE	FLOATTONE
 65	abas11	zacate, pasto	icha	icha	82	NA	NA	NA	galindo-sanchez2009vocabulario	NA
 4560	alac11	zacate de milpa	ndáyo’o	ndá-yo’o	82	hand-?	NA	NA	anderson2006vocabulario	NA
 4561	alac11	zacate	yita	yita	82	NA	NA	NA	anderson2006vocabulario	NA
-5124	alac11	zacate	ndayóhō	nda-yóhō	82	hand-?	NA	NA	alexander1980gramatica	[C]
 5675	alco11	pasto	i³ca²	i³ca²	82	NA	NA	NA	swanton2020observaciones	NA
+5124	atat11	zacate	ndayóhō	nda-yóhō	82	hand-?	NA	NA	alexander1980gramatica	[C]
 795	ayut11	grass	itya	itya	82	NA	NA	NA	hills1990syntactic	NA
 5677	chal11	pasto	i²ʧa¹	i²ʧa¹	82	NA	NA	NA	swanton2020observaciones	NA
 4020	chay11	zacate	itya	itya	82	NA	NA	NA	pensinger1974diccionario	NA
@@ -7758,9 +7757,9 @@ ID	DOCULECT	GLOSS	VALUE	FORM	IDlist	NOTES	LOAN	LOAN_SOURCE	SOURCE	FLOATTONE
 66	abas11	flor	ita	ita	83	NA	NA	NA	galindo-sanchez2009vocabulario	NA
 4562	alac11	flor	yita	yita	83	NA	NA	NA	zylstra2012gramatica	NA
 1051	alac11	flower	yītā	yītā	83	NA	NA	NA	zylstra1991syntactic	NA
-5125	alac11	flor	ita	ita	83	NA	NA	NA	alexander1980gramatica	[C]
 5680	alco11	flor	i³ta²	i³ta²	83	NA	NA	NA	swanton2020observaciones	NA
 2452	atat11	flower	ītā	ītā	83	NA	NA	NA	durr1987preliminary	NA
+5125	atat11	flor	ita	ita	83	NA	NA	NA	alexander1980gramatica	[C]
 2454	ayut11	flower	ìtà	ìtà	83	NA	NA	NA	durr1987preliminary	NA
 2456	cahu11	flower	yītā	yītā	83	NA	NA	NA	durr1987preliminary	NA
 5682	chal11	flor	i²ta¹	i²ta¹	83	NA	NA	NA	swanton2020observaciones	NA
@@ -8015,7 +8014,6 @@ ID	DOCULECT	GLOSS	VALUE	FORM	IDlist	NOTES	LOAN	LOAN_SOURCE	SOURCE	FLOATTONE
 4565	alac11	maíz	no̠ni̠	no̠ni̠	87	NA	NA	NA	zylstra2012gramatica	NA
 1052	alac11	corn	noni	noni	87	NA	NA	NA	zylstra1991syntactic	NA
 11361	alac11	maíz	no̧ni̧	no̧ni̧	87	NA	NA	NA	josserand1983mixtec	NA
-5126	alac11	maíz	nunī	nunī	87	NA	NA	NA	alexander1980gramatica	[C]
 11362	alco11	maíz	nu̧ni̧	nu̧ni̧	87	NA	NA	NA	josserand1983mixtec	NA
 5690	alco11	maíz	nu¹ni⁴	nu¹ni⁴	87	NA	NA	NA	swanton2020observaciones	NA
 11363	amat11	maíz	nu̧ni̧	nu̧ni̧	87	NA	NA	NA	josserand1983mixtec	NA
@@ -8023,6 +8021,7 @@ ID	DOCULECT	GLOSS	VALUE	FORM	IDlist	NOTES	LOAN	LOAN_SOURCE	SOURCE	FLOATTONE
 11365	apoa11	maíz	nu̧ni̧	nu̧ni̧	87	NA	NA	NA	josserand1983mixtec	NA
 2463	atat11	corn	nūnì	nūnì	87	NA	NA	NA	durr1987preliminary	NA
 11366	atat11	maíz	nu̧ni̧	nu̧ni̧	87	NA	NA	NA	josserand1983mixtec	NA
+5126	atat11	maíz	nunī	nunī	87	NA	NA	NA	alexander1980gramatica	[C]
 11367	aten11	maíz	no̧ni̧	no̧ni̧	87	NA	NA	NA	josserand1983mixtec	NA
 11368	atoy11	maíz	nu̧ni̧	nu̧ni̧	87	NA	NA	NA	josserand1983mixtec	NA
 798	ayut11	corn kernel	nūnih	nūnih	87	NA	NA	NA	hills1990syntactic	NA
@@ -8184,7 +8183,6 @@ ID	DOCULECT	GLOSS	VALUE	FORM	IDlist	NOTES	LOAN	LOAN_SOURCE	SOURCE	FLOATTONE
 4566	alac11	milpa	yutu	yutu	88	NA	NA	NA	zylstra2012gramatica	NA
 1053	alac11	cornfield	yūtū	yūtū	88	NA	NA	NA	zylstra1991syntactic	NA
 11479	alac11	milpa	yutu	yutu	88	NA	NA	NA	josserand1983mixtec	NA
-5127	alac11	milpa	itu	itu	88	NA	NA	NA	alexander1980gramatica	[C]
 11480	alco11	milpa	itu	itu	88	NA	NA	NA	josserand1983mixtec	NA
 11481	amat11	milpa	iči	iči	88	NA	NA	NA	josserand1983mixtec	NA
 11482	amat11	milpa	iti	iti	88	NA	NA	NA	josserand1983mixtec	NA
@@ -8193,6 +8191,7 @@ ID	DOCULECT	GLOSS	VALUE	FORM	IDlist	NOTES	LOAN	LOAN_SOURCE	SOURCE	FLOATTONE
 11485	apoa11	milpa	ƀiyu	ƀiyu	88	NA	NA	NA	josserand1983mixtec	NA
 11486	apoa11	milpa	itu	itu	88	NA	NA	NA	josserand1983mixtec	NA
 11487	atat11	milpa	itu	itu	88	NA	NA	NA	josserand1983mixtec	NA
+5127	atat11	milpa	itu	itu	88	NA	NA	NA	alexander1980gramatica	[C]
 11488	aten11	milpa	ʔiti	ʔiti	88	NA	NA	NA	josserand1983mixtec	NA
 11489	atoy11	milpa	itu	itu	88	NA	NA	NA	josserand1983mixtec	NA
 799	ayut11	cornfield, corn plant	itu	itu	88	corn plant, but in ex. translated as cornfield	NA	NA	hills1990syntactic	NA
@@ -8531,7 +8530,6 @@ ID	DOCULECT	GLOSS	VALUE	FORM	IDlist	NOTES	LOAN	LOAN_SOURCE	SOURCE	FLOATTONE
 1055	alac11	tortilla	sita	sita	92	NA	NA	NA	zylstra1991syntactic	NA
 2480	alac11	tortilla	sìtà	sìtà	92	NA	NA	NA	durr1987preliminary	NA
 11716	alac11	tortilla	sìtà	sìtà	92	NA	NA	NA	josserand1983mixtec	NA
-5128	alac11	tortilla	staā	staā	92	NA	NA	NA	alexander1980gramatica	[C]
 11718	alco11	tortilla	išta	išta	92	NA	NA	NA	josserand1983mixtec	NA
 11717	alco11	tortilla	šta	šta	92	NA	NA	NA	josserand1983mixtec	NA
 11719	amat11	tortilla	đita	đita	92	NA	NA	NA	josserand1983mixtec	NA
@@ -8539,6 +8537,7 @@ ID	DOCULECT	GLOSS	VALUE	FORM	IDlist	NOTES	LOAN	LOAN_SOURCE	SOURCE	FLOATTONE
 11721	apoa11	tortilla	ita	ita	92	NA	NA	NA	josserand1983mixtec	NA
 2475	atat11	tortilla	stāà	stāà	92	NA	NA	NA	durr1987preliminary	NA
 11722	atat11	tortilla	staā	staā	92	NA	NA	NA	josserand1983mixtec	NA
+5128	atat11	tortilla	staā	staā	92	NA	NA	NA	alexander1980gramatica	[C]
 11723	aten11	tortilla	šita	šita	92	NA	NA	NA	josserand1983mixtec	NA
 11724	atoy11	tortilla	šita	šita	92	NA	NA	NA	josserand1983mixtec	NA
 802	ayut11	tortilla	shītah	shītah	92	NA	NA	NA	hills1990syntactic	NA
@@ -8713,8 +8712,8 @@ ID	DOCULECT	GLOSS	VALUE	FORM	IDlist	NOTES	LOAN	LOAN_SOURCE	SOURCE	FLOATTONE
 11847	brav11	rastrojo	ña̧ma̧	ña̧ma̧	93	NA	NA	NA	josserand1983mixtec	NA
 11848	caca11	mazorca	ni̧-ña̧ma̧	ni̧-ña̧ma̧	93	NA	NA	NA	josserand1983mixtec	NA
 11849	cahu11	rastrojo	ña̧ma̧	ña̧ma̧	93	NA	NA	NA	josserand1983mixtec	NA
-11851	chal11	hoja	ña̧ma̧	ña̧ma̧	93	NA	NA	NA	josserand1983mixtec	NA
 11850	chal11	rastrojo	ⁿda-yoʔo	ⁿda-yoʔo	93	NA	NA	NA	josserand1983mixtec	NA
+11851	chal11	hoja	ña̧ma̧	ña̧ma̧	93	NA	NA	NA	josserand1983mixtec	NA
 4031	chay11	rastrojo, guamil	ñàmà	ñàmà	93	NA	NA	NA	pensinger1974diccionario	NA
 11852	chay11	rastrojo	ña̧ma̧	ña̧ma̧	93	NA	NA	NA	josserand1983mixtec	NA
 11853	chaz11	rastrojo	ña̧ma̧	ña̧ma̧	93	NA	NA	NA	josserand1983mixtec	NA
@@ -8735,14 +8734,14 @@ ID	DOCULECT	GLOSS	VALUE	FORM	IDlist	NOTES	LOAN	LOAN_SOURCE	SOURCE	FLOATTONE
 11863	esta11	rastrojo	ña̧ma̧	ña̧ma̧	93	NA	NA	NA	josserand1983mixtec	NA
 11864	este11	rastrojo	ña̧ma̧	ña̧ma̧	93	NA	NA	NA	josserand1983mixtec	NA
 3386	flor12	rastrojo	xè'è mii	xè'è mii	93	NA	NA	NA	oxnard2020	NA
-11865	gran11	rastrojo	tɨ-kuʔlu	tɨ-kuʔlu	93	NA	NA	NA	josserand1983mixtec	NA
 11866	gran11	totomoxtle	ña̧mā̧	ña̧mā̧	93	NA	NA	NA	josserand1983mixtec	NA
+11865	gran11	rastrojo	tɨ-kuʔlu	tɨ-kuʔlu	93	NA	NA	NA	josserand1983mixtec	NA
 11867	guad11	rastrojo	ña̧ma̧	ña̧ma̧	93	NA	NA	NA	josserand1983mixtec	NA
 11868	huaz11	rastrojo	ya̧ma̧	ya̧ma̧	93	NA	NA	NA	josserand1983mixtec	NA
 20376	huen11	rastrojo	ñámà	ñámà	93	NA	NA	NA	becerra-roldan2015un-estudio	NA
 11869	huit11	rastrojo	ña̧ma̧	ña̧ma̧	93	NA	NA	NA	josserand1983mixtec	NA
-11871	itun11	hojas	ña̧ma̧	ña̧ma̧	93	NA	NA	NA	josserand1983mixtec	NA
 11870	itun11	rastrojo	ⁿdo-yoʔo	ⁿdo-yoʔo	93	NA	NA	NA	josserand1983mixtec	NA
+11871	itun11	hojas	ña̧ma̧	ña̧ma̧	93	NA	NA	NA	josserand1983mixtec	NA
 11872	ixpa11	rastrojo	ña̧ma̧	ña̧ma̧	93	NA	NA	NA	josserand1983mixtec	NA
 11873	ixta11	rastrojo	na̧ma̧	na̧ma̧	93	NA	NA	NA	josserand1983mixtec	NA
 11874	ixta12	cañuela	ña̧ma̧	ña̧ma̧	93	NA	NA	NA	josserand1983mixtec	NA
@@ -8757,8 +8756,8 @@ ID	DOCULECT	GLOSS	VALUE	FORM	IDlist	NOTES	LOAN	LOAN_SOURCE	SOURCE	FLOATTONE
 11882	mixt11	rastrojo	ña̧ma̧	ña̧ma̧	93	NA	NA	NA	josserand1983mixtec	NA
 3388	mixt11	rastrojo	tiàmá	tiàmá	93	NA	NA	NA	oxnard2020	NA
 3387	mont12	rastrojo	ñàmà	ñàmà	93	NA	NA	NA	oxnard2020	NA
-11884	mont13	cañizo	ñu-ña̧ma̧	ñu-ña̧ma̧	93	NA	NA	NA	josserand1983mixtec	NA
 11883	mont13	rastrojo	nu-ỹa̧ma̧	nu-ỹa̧ma̧	93	NA	NA	NA	josserand1983mixtec	NA
+11884	mont13	cañizo	ñu-ña̧ma̧	ñu-ña̧ma̧	93	NA	NA	NA	josserand1983mixtec	NA
 11885	more11	rastrojo	ña̧ma̧	ña̧ma̧	93	NA	NA	NA	josserand1983mixtec	NA
 11886	nuch11	rastrojo	ñà̧mà̧	ñà̧mà̧	93	NA	NA	NA	josserand1983mixtec	NA
 11887	nuxa11	rastrojo	ña̧ma̧	ña̧ma̧	93	NA	NA	NA	josserand1983mixtec	NA
@@ -8770,8 +8769,8 @@ ID	DOCULECT	GLOSS	VALUE	FORM	IDlist	NOTES	LOAN	LOAN_SOURCE	SOURCE	FLOATTONE
 11891	peno11	rastrojo	ñá̧má̧	ñá̧má̧	93	NA	NA	NA	josserand1983mixtec	NA
 11892	pied11	rastrojo	ña̧ma̧	ña̧ma̧	93	NA	NA	NA	josserand1983mixtec	NA
 3385	pied12	rastrojo	xè'è	xè'è	93	NA	NA	NA	oxnard2020	NA
-11894	pino11	hoja	yama̧	yama̧	93	NA	NA	NA	josserand1983mixtec	NA
 11893	pino11	rastrojo	čeʔe	čeʔe	93	NA	NA	NA	josserand1983mixtec	NA
+11894	pino11	hoja	yama̧	yama̧	93	NA	NA	NA	josserand1983mixtec	NA
 11895	pino12	rastrojo	ya̧ma̧	ya̧ma̧	93	NA	NA	NA	josserand1983mixtec	NA
 11896	prom01	rastrojo	yawa̧ʔ	yawa̧ʔ	93	NA	NA	NA	josserand1983mixtec	NA
 11897	reye11	rastrojo	to-ña̧ma̧	to-ña̧ma̧	93	NA	NA	NA	josserand1983mixtec	NA
@@ -8799,10 +8798,10 @@ ID	DOCULECT	GLOSS	VALUE	FORM	IDlist	NOTES	LOAN	LOAN_SOURCE	SOURCE	FLOATTONE
 11916	yolo11	rastrojo	ña̧ma̧	ña̧ma̧	93	NA	NA	NA	josserand1983mixtec	NA
 258	yolo11	rastrojo	ya¹ma⁴	ya¹ma⁴	93	guamile, terreno de sembrado después de haberse levantado la cosecha quedando el puro rastrojo	NA	NA	amith2020yoloxochitl	NA
 11917	yolo12	rastrojo	ya̧ma̧	ya̧ma̧	93	NA	NA	NA	josserand1983mixtec	NA
-11919	yoso11	hojas	ña̧ma̧	ña̧ma̧	93	NA	NA	NA	josserand1983mixtec	NA
 11918	yoso11	rastrojo	ⁿda-zoʔo	ⁿda-zoʔo	93	NA	NA	NA	josserand1983mixtec	NA
-11920	yucu11	chala	žaka	žaka	93	NA	NA	NA	josserand1983mixtec	NA
+11919	yoso11	hojas	ña̧ma̧	ña̧ma̧	93	NA	NA	NA	josserand1983mixtec	NA
 11921	yucu11	totomoxtle	ña̧ma̧	ña̧ma̧	93	NA	NA	NA	josserand1983mixtec	NA
+11920	yucu11	chala	žaka	žaka	93	NA	NA	NA	josserand1983mixtec	NA
 11922	yucu12	rastrojo	ñà̧mà̧	ñà̧mà̧	93	NA	NA	NA	josserand1983mixtec	NA
 11923	yucu13	rastrojo	ña̧ma̧	ña̧ma̧	93	NA	NA	NA	josserand1983mixtec	NA
 11924	yucu15	rastrojo	tī-á̧má̧	tī-á̧má̧	93	NA	NA	NA	josserand1983mixtec	NA
@@ -9251,7 +9250,7 @@ ID	DOCULECT	GLOSS	VALUE	FORM	IDlist	NOTES	LOAN	LOAN_SOURCE	SOURCE	FLOATTONE
 12263	nuxa11	ejote	ⁿǰiči	ⁿǰiči	97	NA	NA	NA	josserand1983mixtec	NA
 12264	nuxi11	ejote	ⁿǰiči	ⁿǰiči	97	NA	NA	NA	josserand1983mixtec	NA
 12265	nuyo11	ejote	nì̧čī	nì̧čī	97	NA	NA	NA	josserand1983mixtec	NA
-12266	ocot11	ejote	ntìčī	ntìčī	97	NA	NA	NA	josserand1983mixtec	NA
+12266	ocot11	ejote	ⁿtìčī	ⁿtìčī	97	NA	NA	NA	josserand1983mixtec	NA
 5297	papa11	ejote	nde³te³	nde³te³	97	NA	NA	NA	anderson1983diccionario	NA
 4952	pena11	ejote	ndìchi	ndìchi	97	NA	NA	NA	hollenbach2017diccionario	
 12267	peno11	ejote	ⁿǰi̧či	ⁿǰi̧či	97	NA	NA	NA	josserand1983mixtec	NA
@@ -9347,12 +9346,12 @@ ID	DOCULECT	GLOSS	VALUE	FORM	IDlist	NOTES	LOAN	LOAN_SOURCE	SOURCE	FLOATTONE
 4576	alac11	sal	ñi̠i̠	ñi̠i̠	99	NA	NA	NA	zylstra2012gramatica	NA
 1059	alac11	salt	ñii	ñii	99	NA	NA	NA	zylstra1991syntactic	NA
 12303	alac11	sal	yi̧i̧	yi̧i̧	99	NA	NA	NA	josserand1983mixtec	NA
-5129	alac11	sal	ñɨɨ̄	ñɨɨ̄	99	NA	NA	NA	alexander1980gramatica	[C]
 12304	alco11	sal	ì̧í̧	ì̧í̧	99	NA	NA	NA	josserand1983mixtec	NA
 12305	amat11	sal	i̧i̧	i̧i̧	99	NA	NA	NA	josserand1983mixtec	NA
 12306	apas11	sal	ñi̧i̧	ñi̧i̧	99	NA	NA	NA	josserand1983mixtec	NA
 12307	apoa11	sal	ñȩȩ	ñȩȩ	99	NA	NA	NA	josserand1983mixtec	NA
 12308	atat11	sal	ñɨ̧ɨ̧̄	ñɨ̧ɨ̧̄	99	NA	NA	NA	josserand1983mixtec	NA
+5129	atat11	sal	ñɨɨ̄	ñɨɨ̄	99	NA	NA	NA	alexander1980gramatica	[C]
 12309	aten11	sal	ñi̧i̧	ñi̧i̧	99	NA	NA	NA	josserand1983mixtec	NA
 12310	atoy11	sal	ñi̧i̧	ñi̧i̧	99	NA	NA	NA	josserand1983mixtec	NA
 806	ayut11	salt	īīnh	īīnh	99	NA	NA	NA	hills1990syntactic	NA
@@ -9506,11 +9505,11 @@ ID	DOCULECT	GLOSS	VALUE	FORM	IDlist	NOTES	LOAN	LOAN_SOURCE	SOURCE	FLOATTONE
 4577	alac11	calabaza	yiki̠n	yiki̠n	100	NA	NA	NA	anderson2006vocabulario	NA
 1060	alac11	squash	yīkin	yīkin	100	NA	NA	NA	zylstra1991syntactic	NA
 12424	alac11	calabaza	yikì	yikì	100	NA	NA	NA	josserand1983mixtec	NA
-5130	alac11	calabaza	yɨquɨn	yɨquɨn	100	NA	NA	NA	alexander1980gramatica	[A]
 12425	alco11	calabaza	iki̧	iki̧	100	NA	NA	NA	josserand1983mixtec	NA
 12426	amat11	calabaza	iki	iki	100	NA	NA	NA	josserand1983mixtec	NA
 12427	apoa11	calabaza	žiki̧	žiki̧	100	NA	NA	NA	josserand1983mixtec	NA
 12428	atat11	calabaza	yɨkɨ̧	yɨkɨ̧	100	NA	NA	NA	josserand1983mixtec	NA
+5130	atat11	calabaza	yɨquɨn	yɨquɨn	100	NA	NA	NA	alexander1980gramatica	[A]
 12429	aten11	calabaza	žiki	žiki	100	NA	NA	NA	josserand1983mixtec	NA
 12430	atoy11	calabaza	iki̧	iki̧	100	NA	NA	NA	josserand1983mixtec	NA
 12431	ayut11	calabaza	iki̧ʔ	iki̧ʔ	100	NA	NA	NA	josserand1983mixtec	NA
@@ -9644,7 +9643,7 @@ ID	DOCULECT	GLOSS	VALUE	FORM	IDlist	NOTES	LOAN	LOAN_SOURCE	SOURCE	FLOATTONE
 12530	zapo11	calabaza	iki̧	iki̧	100	NA	NA	NA	josserand1983mixtec	NA
 83	abas11	chayote	naña	naña	101	NA	NA	NA	galindo-sanchez2009vocabulario	NA
 4578	alac11	chayote	naña̠	naña̠	101	NA	NA	NA	anderson2006vocabulario	NA
-5131	alac11	chayote	naña	naña	101	NA	NA	NA	alexander1980gramatica	[A]
+5131	atat11	chayote	naña	naña	101	NA	NA	NA	alexander1980gramatica	[A]
 4039	chay11	chayote	chayote	chayote	101	Sp. loan, examples only	yes	Spanish	pensinger1974diccionario	NA
 6006	chic12	chayote (planta)	nitïn⁴	nitïn⁴	101	NA	NA	NA	good1978diccionario	NA
 21107	chic12	chayote	ni³tĩ³²	ni³tĩ³²	101	NA	NA	NA	hernandez-mendoza2020vocabulario	NA
@@ -9668,13 +9667,13 @@ ID	DOCULECT	GLOSS	VALUE	FORM	IDlist	NOTES	LOAN	LOAN_SOURCE	SOURCE	FLOATTONE
 12534	ahue11	caña	ⁿdoo	ⁿdoo	102	NA	NA	NA	josserand1983mixtec	NA
 4579	alac11	caña	ndo̠o̠	ndo̠o̠	102	NA	NA	NA	anderson2006vocabulario	NA
 12535	alac11	caña	ⁿdoo	ⁿdoo	102	NA	NA	NA	josserand1983mixtec	NA
-5132	alac11	caña	ndoō	ndoō	102	NA	NA	NA	alexander1980gramatica	[C]
 12536	alco11	caña	ⁿdoo	ⁿdoo	102	NA	NA	NA	josserand1983mixtec	NA
 12537	amat11	caña	ⁿdoo	ⁿdoo	102	NA	NA	NA	josserand1983mixtec	NA
 12538	apas11	caña	ⁿdoo	ⁿdoo	102	NA	NA	NA	josserand1983mixtec	NA
 12539	apoa11	caña	ⁿdoo	ⁿdoo	102	NA	NA	NA	josserand1983mixtec	NA
 2509	atat11	cane	ⁿdōò	ⁿdōò	102	NA	NA	NA	durr1987preliminary	NA
 12540	atat11	caña	ⁿdoō	ⁿdoō	102	NA	NA	NA	josserand1983mixtec	NA
+5132	atat11	caña	ndoō	ndoō	102	NA	NA	NA	alexander1980gramatica	[C]
 12541	aten11	caña	ⁿdòò	ⁿdòò	102	NA	NA	NA	josserand1983mixtec	NA
 12542	atoy11	caña	ⁿdoo	ⁿdoo	102	NA	NA	NA	josserand1983mixtec	NA
 12543	ayut11	caña	ⁿdooʔ	ⁿdooʔ	102	NA	NA	NA	josserand1983mixtec	NA
@@ -9895,7 +9894,7 @@ ID	DOCULECT	GLOSS	VALUE	FORM	IDlist	NOTES	LOAN	LOAN_SOURCE	SOURCE	FLOATTONE
 12715	nuxi11	miel	ⁿdʸuđi	ⁿdʸuđi	103	NA	NA	NA	josserand1983mixtec	NA
 12714	nuxi11	miel	ⁿǰuđi	ⁿǰuđi	103	NA	NA	NA	josserand1983mixtec	NA
 12716	nuyo11	miel	nù̧šī	nù̧šī	103	NA	NA	NA	josserand1983mixtec	NA
-12717	ocot11	miel	ntùšī	ntùšī	103	NA	NA	NA	josserand1983mixtec	NA
+12717	ocot11	miel	ⁿtùšī	ⁿtùšī	103	NA	NA	NA	josserand1983mixtec	NA
 5303	papa11	miel, chahuistle	dan⁴³	dan⁴³	103	NA	NA	NA	anderson1983diccionario	NA
 4958	pena11	miel	ndùxi	ndùxi	103	NA	NA	NA	hollenbach2017diccionario	
 12718	pena12	miel	ⁿduši	ⁿduši	103	NA	NA	NA	josserand1983mixtec	NA
@@ -9960,8 +9959,8 @@ ID	DOCULECT	GLOSS	VALUE	FORM	IDlist	NOTES	LOAN	LOAN_SOURCE	SOURCE	FLOATTONE
 86	abas11	manteca	xa’an	xa’an	104	NA	NA	NA	galindo-sanchez2009vocabulario	NA
 4581	alac11	grasa	sa̠’an	sa̠’an	104	NA	NA	NA	zylstra2012gramatica	NA
 1062	alac11	grease	sahān	sahān	104	NA	NA	NA	zylstra1991syntactic	NA
-5133	alac11	manteca	xēhen	xēhen	104	NA	NA	NA	alexander1980gramatica	[C]
 5704	alco11	manteca	ʃa²Ɂã²	ʃa²Ɂã²	104	NA	NA	NA	swanton2020observaciones	NA
+5133	atat11	manteca	xēhen	xēhen	104	NA	NA	NA	alexander1980gramatica	[C]
 5706	chal11	manteca	ʃa¹Ɂã²	ʃa¹Ɂã²	104	NA	NA	NA	swanton2020observaciones	NA
 4042	chay11	grasa, manteca	xahan	xahan	104	NA	NA	NA	pensinger1974diccionario	NA
 1718	chic02	grasa	Nnami	nnami	104	NA	NA	NA	belmar1897ensayo	NA
@@ -10003,13 +10002,13 @@ ID	DOCULECT	GLOSS	VALUE	FORM	IDlist	NOTES	LOAN	LOAN_SOURCE	SOURCE	FLOATTONE
 4582	alac11	huevo	ndi̠vi̠	ndi̠vi̠	105	NA	NA	NA	zylstra2012gramatica	NA
 1063	alac11	egg	ndivi	ndivi	105	NA	NA	NA	zylstra1991syntactic	NA
 12773	alac11	blanquillo, huevo	ⁿdìƀì	ⁿdìƀì	105	NA	NA	NA	josserand1983mixtec	NA
-5134	alac11	huevo	ndɨ̄vɨ	ndɨ̄vɨ	105	NA	NA	NA	alexander1980gramatica	[C]
 12774	alco11	blanquillo, huevo	ⁿdiwi	ⁿdiwi	105	NA	NA	NA	josserand1983mixtec	NA
 5709	alco11	huevo	ⁿdi¹bi⁴	ⁿdi¹bi⁴	105	NA	NA	NA	swanton2020observaciones	NA
 12775	amat11	blanquillo, huevo	ⁿyiƀi	ⁿyiƀi	105	NA	NA	NA	josserand1983mixtec	NA
 12776	apas11	blanquillo, huevo	ⁿdiwi	ⁿdiwi	105	NA	NA	NA	josserand1983mixtec	NA
 12777	apoa11	blanquillo, huevo	ⁿdiƀi	ⁿdiƀi	105	NA	NA	NA	josserand1983mixtec	NA
 12778	atat11	blanquillo, huevo	ⁿdɨƀɨ̄	ⁿdɨƀɨ̄	105	NA	NA	NA	josserand1983mixtec	NA
+5134	atat11	huevo	ndɨ̄vɨ	ndɨ̄vɨ	105	NA	NA	NA	alexander1980gramatica	[C]
 12779	aten11	blanquillo, huevo	ⁿdìƀì	ⁿdìƀì	105	NA	NA	NA	josserand1983mixtec	NA
 12780	atoy11	blanquillo, huevo	ⁿdiwi	ⁿdiwi	105	NA	NA	NA	josserand1983mixtec	NA
 807	ayut11	egg	ndīvih	ndīvih	105	NA	NA	NA	hills1990syntactic	NA
@@ -10159,11 +10158,11 @@ ID	DOCULECT	GLOSS	VALUE	FORM	IDlist	NOTES	LOAN	LOAN_SOURCE	SOURCE	FLOATTONE
 1064	alac11	tomato	nāñā	nāñā	106	don’t know what the difference is to the other one	NA	NA	zylstra1991syntactic	NA
 1065	alac11	tomato	ti-nānā	ti-nānā	106	?	NA	NA	zylstra1991syntactic	NA
 12891	alac11	jitomate	ti-na̧na̧	ti-na̧na̧	106	NA	NA	NA	josserand1983mixtec	NA
-5135	alac11	jitomate	tɨnana	tɨ-nana	106	round?-?	NA	NA	alexander1980gramatica	[C]
 12892	alco11	jitomate	ti-na̧na̧-(ⁿdèè)	ti-na̧na̧-ⁿdèè	106	NA	NA	NA	josserand1983mixtec	NA
 12893	apas11	jitomate	ti-na̧na̧	ti-na̧na̧	106	NA	NA	NA	josserand1983mixtec	NA
 12894	apoa11	jitomate	ti-na̧na̧	ti-na̧na̧	106	NA	NA	NA	josserand1983mixtec	NA
 12895	atat11	jitomate	tɨ-na̧na̧	tɨ-na̧na̧	106	NA	NA	NA	josserand1983mixtec	NA
+5135	atat11	jitomate	tɨnana	tɨ-nana	106	round?-?	NA	NA	alexander1980gramatica	[C]
 12896	aten11	jitomate	ti-na̧na̧-na̧ʔna̧	ti-na̧na̧-na̧ʔna̧	106	NA	NA	NA	josserand1983mixtec	NA
 12897	atoy11	jitomate	ti-na̧na̧	ti-na̧na̧	106	NA	NA	NA	josserand1983mixtec	NA
 808	ayut11	tomato	tinanah	ti-nanah	106	round?-?	NA	NA	hills1990syntactic	NA
@@ -10302,7 +10301,7 @@ ID	DOCULECT	GLOSS	VALUE	FORM	IDlist	NOTES	LOAN	LOAN_SOURCE	SOURCE	FLOATTONE
 89	abas11	aguacate	tichi	tichi	108	NA	NA	NA	galindo-sanchez2009vocabulario	NA
 4585	alac11	aguacate	ti̠chí	ti̠chí	108	NA	NA	NA	zylstra2012gramatica	NA
 1066	alac11	avocado	tichí	tichí	108	NA	NA	NA	zylstra1991syntactic	NA
-5136	alac11	aguacate	tīchí	tīchí	108	NA	NA	NA	alexander1980gramatica	[B]
+5136	atat11	aguacate	tīchí	tīchí	108	NA	NA	NA	alexander1980gramatica	[B]
 809	ayut11	avocado	tichīh	tichīh	108	NA	NA	NA	hills1990syntactic	NA
 4046	chay11	aguacate	tyītyí	tyītyí	108	NA	NA	NA	pensinger1974diccionario	NA
 6013	chic12	aguacate	ru²ne³	ru²ne³	108	NA	NA	NA	good1978diccionario	NA
@@ -10329,7 +10328,7 @@ ID	DOCULECT	GLOSS	VALUE	FORM	IDlist	NOTES	LOAN	LOAN_SOURCE	SOURCE	FLOATTONE
 20894	yuta13	aguacate	ti̠chí	ti̠chí	108	NA	NA	NA	williams2017diccionario	NA
 90	abas11	plátano	nchikà	nchikà	109	NA	NA	NA	galindo-sanchez2009vocabulario	NA
 4586	alac11	plátano	chita̠	chita̠	109	NA	NA	NA	zylstra2012gramatica	NA
-5137	alac11	plátano	ndica	ndica	109	NA	NA	NA	alexander1980gramatica	[A]
+5137	atat11	plátano	ndica	ndica	109	NA	NA	NA	alexander1980gramatica	[A]
 810	ayut11	banana	chītya	chītya	109	NA	NA	NA	hills1990syntactic	NA
 4047	chay11	plátano	tyitya	tyitya	109	NA	NA	NA	pensinger1974diccionario	NA
 1723	chic02	plátano	Naatoo	naatoo	109	NA	NA	NA	belmar1897ensayo	NA
@@ -10367,11 +10366,11 @@ ID	DOCULECT	GLOSS	VALUE	FORM	IDlist	NOTES	LOAN	LOAN_SOURCE	SOURCE	FLOATTONE
 12977	ahue11	nopal	tù-ƀi̧ʔⁿda	tù-ƀi̧ʔⁿda	110	NA	NA	NA	josserand1983mixtec	NA
 4587	alac11	nopal	vi̠’nda̠	vi̠’nda̠	110	NA	NA	NA	anderson2006vocabulario	NA
 1067	alac11	prickly pear cactus	ton-vihndá	ton-vihndá	110	wood-?	NA	NA	zylstra1991syntactic	NA
-5138	alac11	nopal	vihndē	vihndē	110	NA	NA	NA	alexander1980gramatica	[C]
 12978	alco11	nopal	wi̧ʔⁿda	wi̧ʔⁿda	110	NA	NA	NA	josserand1983mixtec	NA
 12979	apas11	nopal	mi̧ʔⁿza	mi̧ʔⁿza	110	NA	NA	NA	josserand1983mixtec	NA
 12980	apoa11	nopal	mi̧ʔⁿȼa	mi̧ʔⁿȼa	110	NA	NA	NA	josserand1983mixtec	NA
 12981	atat11	nopal	ƀi̧ʔⁿde	ƀi̧ʔⁿde	110	NA	NA	NA	josserand1983mixtec	NA
+5138	atat11	nopal	vihndē	vihndē	110	NA	NA	NA	alexander1980gramatica	[C]
 12982	aten11	nopal	tu-ƀi̧ʔⁿdá	tu-ƀi̧ʔⁿdá	110	NA	NA	NA	josserand1983mixtec	NA
 12983	atoy11	nopal	wi̧ʔⁿda	wi̧ʔⁿda	110	NA	NA	NA	josserand1983mixtec	NA
 12984	ayut11	nopal	vī̧ʔⁿdʸa	vī̧ʔⁿdʸa	110	NA	NA	NA	josserand1983mixtec	NA
@@ -10596,7 +10595,7 @@ ID	DOCULECT	GLOSS	VALUE	FORM	IDlist	NOTES	LOAN	LOAN_SOURCE	SOURCE	FLOATTONE
 3486	tlah11	chirimoya	ndokó tyá'tàn	ndokó tyá'tàn	112	zapote ?	NA	NA	oxnard2020	NA
 20898	yuta13	chirimoya	ndóko̠	ndóko̠	112	NA	NA	NA	williams2017diccionario	NA
 92	abas11	hongo	tsi’i	tsi’i	113	NA	NA	NA	galindo-sanchez2009vocabulario	NA
-5139	alac11	hongo	jihī	jihī	113	NA	NA	NA	alexander1980gramatica	[C]
+5139	atat11	hongo	jihī	jihī	113	NA	NA	NA	alexander1980gramatica	[C]
 4051	chay11	hongo	sehye tutyehe	sehye-tu-tyehe	113	unsure about parts	NA	NA	pensinger1974diccionario	NA
 1727	chic02	hongo	Rrâân	rrâân	113	NA	NA	NA	belmar1897ensayo	NA
 6019	chic12	hongo	ran’an⁴³	ran’an⁴³	113	NA	NA	NA	good1978diccionario	NA
@@ -10628,7 +10627,6 @@ ID	DOCULECT	GLOSS	VALUE	FORM	IDlist	NOTES	LOAN	LOAN_SOURCE	SOURCE	FLOATTONE
 13147	alac11	carne	kò̧ñu	kò̧ñu	114	NA	NA	NA	josserand1983mixtec	NA
 13146	alac11	carne	kù̧ño̧	kù̧ño̧	114	NA	NA	NA	josserand1983mixtec	NA
 13148	alac11	carne	kù̧ñu̧	kù̧ñu̧	114	NA	NA	NA	josserand1983mixtec	NA
-5140	alac11	carne	cūñu	cūñu	114	NA	NA	NA	alexander1980gramatica	[C]
 13149	alco11	carne	ku̧ñu̧	ku̧ñu̧	114	NA	NA	NA	josserand1983mixtec	NA
 5719	alco11	carne	ku²ɲu²	ku²ɲu²	114	NA	NA	NA	swanton2020observaciones	NA
 13150	amat11	carne	ku̧ñu̧	ku̧ñu̧	114	NA	NA	NA	josserand1983mixtec	NA
@@ -10638,6 +10636,7 @@ ID	DOCULECT	GLOSS	VALUE	FORM	IDlist	NOTES	LOAN	LOAN_SOURCE	SOURCE	FLOATTONE
 13154	apoa11	carne	ko̧ỹo̧	ko̧ỹo̧	114	NA	NA	NA	josserand1983mixtec	NA
 2519	atat11	meat	kùñū	kùñū	114	NA	NA	NA	durr1987preliminary	NA
 13155	atat11	carne	kū̧ñu̧	kū̧ñu̧	114	NA	NA	NA	josserand1983mixtec	NA
+5140	atat11	carne	cūñu	cūñu	114	NA	NA	NA	alexander1980gramatica	[C]
 13156	aten11	carne	ko̧i̧	ko̧i̧	114	NA	NA	NA	josserand1983mixtec	NA
 13158	atoy11	carne	ko̧ño̧	ko̧ño̧	114	NA	NA	NA	josserand1983mixtec	NA
 13157	atoy11	carne	sa̧ʔa̧	sa̧ʔa̧	114	NA	NA	NA	josserand1983mixtec	NA
@@ -10951,13 +10950,13 @@ ID	DOCULECT	GLOSS	VALUE	FORM	IDlist	NOTES	LOAN	LOAN_SOURCE	SOURCE	FLOATTONE
 1069	alac11	pot	kisī	kisī	116	NA	NA	NA	zylstra1991syntactic	NA
 2541	alac11	clay pot	kìsī	kìsī	116	NA	NA	NA	durr1987preliminary	NA
 13389	alac11	olla	kìsi	kìsi	116	NA	NA	NA	josserand1983mixtec	NA
-5141	alac11	olla	quɨ̄sɨ	quɨ̄sɨ	116	NA	NA	NA	alexander1980gramatica	[A]
 13390	alco11	olla	kisi	kisi	116	NA	NA	NA	josserand1983mixtec	NA
 5729	alco11	olla	ki¹si³	ki¹si³	116	NA	NA	NA	swanton2020observaciones	NA
 13391	apas11	olla	kiđi	kiđi	116	NA	NA	NA	josserand1983mixtec	NA
 13392	apoa11	olla	kiđi	kiđi	116	NA	NA	NA	josserand1983mixtec	NA
 2537	atat11	clay pot	kɨ̀sɨ̄	kɨ̀sɨ̄	116	NA	NA	NA	durr1987preliminary	NA
 13393	atat11	olla	kɨ̄sɨ	kɨ̄sɨ	116	NA	NA	NA	josserand1983mixtec	NA
+5141	atat11	olla	quɨ̄sɨ	quɨ̄sɨ	116	NA	NA	NA	alexander1980gramatica	[A]
 13394	aten11	olla	kìhì	kìhì	116	NA	NA	NA	josserand1983mixtec	NA
 13395	atoy11	olla	kisi	kisi	116	NA	NA	NA	josserand1983mixtec	NA
 812	ayut11	clay pot	kisi	kisi	116	NA	NA	NA	hills1990syntactic	NA
@@ -11692,7 +11691,7 @@ ID	DOCULECT	GLOSS	VALUE	FORM	IDlist	NOTES	LOAN	LOAN_SOURCE	SOURCE	FLOATTONE
 13911	zapo11	basura	mi̧ʔi̧	mi̧ʔi̧	122	NA	NA	NA	josserand1983mixtec	NA
 101	abas11	plato	ko’o	ko’o	123	NA	NA	NA	galindo-sanchez2009vocabulario	NA
 4596	alac11	plato	ko̠’o̠	ko̠’o̠	123	NA	NA	NA	zylstra2012gramatica	NA
-5142	alac11	plato	cohō	cohō	123	NA	NA	NA	alexander1980gramatica	[C]
+5142	atat11	plato	cohō	cohō	123	NA	NA	NA	alexander1980gramatica	[C]
 4060	chay11	plato	coho	coho	123	NA	NA	NA	pensinger1974diccionario	NA
 1735	chic02	plato	Kooha	kooha	123	NA	NA	NA	belmar1897ensayo	NA
 6030	chic12	plato	go’o³	go’o³	123	NA	NA	NA	good1978diccionario	NA
@@ -11873,7 +11872,7 @@ ID	DOCULECT	GLOSS	VALUE	FORM	IDlist	NOTES	LOAN	LOAN_SOURCE	SOURCE	FLOATTONE
 14036	zapo11	jícara	yašI	yašI	124	NA	NA	NA	josserand1983mixtec	NA
 103	abas11	tenate	nto’ó	nto’ó	125	NA	NA	NA	galindo-sanchez2009vocabulario	NA
 4598	alac11	canasta	chikiva̠	chikiva̠	125	NA	NA	NA	zylstra2012gramatica	NA
-5143	alac11	tenate	ndohō	ndohō	125	NA	NA	NA	alexander1980gramatica	[C]
+5143	atat11	tenate	ndohō	ndohō	125	NA	NA	NA	alexander1980gramatica	[C]
 4062	chay11	canasta	tyica zoho	tyica-zoho	125	chiquihuite-?	NA	NA	pensinger1974diccionario	NA
 4063	chay11	tenate	ndòhò	ndòhò	125	NA	NA	NA	pensinger1974diccionario	NA
 6032	chic12	canasta	xuguti³	xuguti³	125	NA	NA	NA	good1978diccionario	NA
@@ -12048,7 +12047,6 @@ ID	DOCULECT	GLOSS	VALUE	FORM	IDlist	NOTES	LOAN	LOAN_SOURCE	SOURCE	FLOATTONE
 2552	alac11	thread	yìʔƀà	yìʔƀà	127	NA	NA	NA	durr1987preliminary	NA
 14145	alac11	hilo	ìʔwa	ìʔwa	127	NA	NA	NA	josserand1983mixtec	NA
 14144	alac11	hilo	yìʔwa	yìʔwa	127	NA	NA	NA	josserand1983mixtec	NA
-5144	alac11	hilo, hilado	yuhvā	yuhvā	127	NA	NA	NA	alexander1980gramatica	[C]
 14146	alco11	hilo	iʔwa	iʔwa	127	NA	NA	NA	josserand1983mixtec	NA
 5749	alco11	hilo	i¹Ɂba¹	i¹Ɂba¹	127	NA	NA	NA	swanton2020observaciones	NA
 14147	amat11	hilo	žoʔo	žoʔo	127	NA	NA	NA	josserand1983mixtec	NA
@@ -12056,6 +12054,7 @@ ID	DOCULECT	GLOSS	VALUE	FORM	IDlist	NOTES	LOAN	LOAN_SOURCE	SOURCE	FLOATTONE
 14149	apoa11	hilo	žuʔwa	žuʔwa	127	NA	NA	NA	josserand1983mixtec	NA
 2548	atat11	thread	žūʔƀà	žūʔƀà	127	NA	NA	NA	durr1987preliminary	NA
 14150	atat11	hilo	žuʔwā	žuʔwā	127	NA	NA	NA	josserand1983mixtec	NA
+5144	atat11	hilo, hilado	yuhvā	yuhvā	127	NA	NA	NA	alexander1980gramatica	[C]
 14151	aten11	hilo	žaʔa	žaʔa	127	NA	NA	NA	josserand1983mixtec	NA
 14152	atoy11	hilo	yuʔwa	yuʔwa	127	NA	NA	NA	josserand1983mixtec	NA
 14153	ayut11	hilo	yuʔƀa	yuʔƀa	127	NA	NA	NA	josserand1983mixtec	NA
@@ -12310,9 +12309,9 @@ ID	DOCULECT	GLOSS	VALUE	FORM	IDlist	NOTES	LOAN	LOAN_SOURCE	SOURCE	FLOATTONE
 106	abas11	cuerda	yo’o	yo’o	129	NA	NA	NA	galindo-sanchez2009vocabulario	NA
 4600	alac11	mecate	yo’o̠	yo’o̠	129	NA	NA	NA	zylstra2012gramatica	NA
 1074	alac11	rope	yóho	yóho	129	NA	NA	NA	zylstra1991syntactic	NA
-5145	alac11	mecate	yoho	yoho	129	NA	NA	NA	alexander1980gramatica	[A]
 5754	alco11	mecate	jo³Ɂo⁴	jo³Ɂo⁴	129	NA	NA	NA	swanton2020observaciones	NA
 2557	atat11	rope	žōʔō	žōʔō	129	NA	NA	NA	durr1987preliminary	NA
+5145	atat11	mecate	yoho	yoho	129	NA	NA	NA	alexander1980gramatica	[A]
 817	ayut11	rope	yohōh	yohōh	129	NA	NA	NA	hills1990syntactic	NA
 2559	caca11	rope	žōʔò	žōʔò	129	NA	NA	NA	durr1987preliminary	NA
 5756	chal11	mecate	jo²Ɂo²	jo²Ɂo²	129	NA	NA	NA	swanton2020observaciones	+³
@@ -12359,13 +12358,13 @@ ID	DOCULECT	GLOSS	VALUE	FORM	IDlist	NOTES	LOAN	LOAN_SOURCE	SOURCE	FLOATTONE
 107	abas11	hoyo	yavi	yavi	130	NA	NA	NA	galindo-sanchez2009vocabulario	NA
 14346	acat11	agujero	yawi	yawi	130	NA	NA	NA	josserand1983mixtec	NA
 2571	alac11	hole	yāƀì	yāƀì	130	NA	NA	NA	durr1987preliminary	NA
-5146	alac11	hoyo	yavū	yavū	130	NA	NA	NA	alexander1980gramatica	[C]
 14347	apas11	agujero	žawi	žawi	130	NA	NA	NA	josserand1983mixtec	NA
 14348	apoa11	agujero	yaƀi	yaƀi	130	NA	NA	NA	josserand1983mixtec	NA
 2568	atat11	hole	žāū	žāū	130	NA	NA	NA	durr1987preliminary	NA
 2576	atat11	hole	žāƀū	žāƀū	130	NA	NA	NA	durr1987preliminary	NA
 14349	atat11	agujero	žaū	žaū	130	NA	NA	NA	josserand1983mixtec	NA
 14350	atat11	agujero	žavu	žavu	130	NA	NA	NA	josserand1983mixtec	NA
+5146	atat11	hoyo	yavū	yavū	130	NA	NA	NA	alexander1980gramatica	[C]
 14351	atoy11	agujero	yawi	yawi	130	NA	NA	NA	josserand1983mixtec	NA
 14352	ayut11	agujero	yāvi	yāvi	130	NA	NA	NA	josserand1983mixtec	NA
 14353	caca11	agujero	žawi	žawi	130	NA	NA	NA	josserand1983mixtec	NA
@@ -12783,7 +12782,6 @@ ID	DOCULECT	GLOSS	VALUE	FORM	IDlist	NOTES	LOAN	LOAN_SOURCE	SOURCE	FLOATTONE
 1077	alac11	water	tākwiī	tākwiī	137	NA	NA	NA	zylstra1991syntactic	NA
 14532	alac11	agua	ⁿduta	ⁿduta	137	NA	NA	NA	josserand1983mixtec	NA
 14531	alac11	agua	ti-kʷii	ti-kʷii	137	NA	NA	NA	josserand1983mixtec	NA
-5147	alac11	agua	ndute	ndute	137	NA	NA	NA	alexander1980gramatica	[A]
 14534	alco11	agua	ⁿduta	ⁿduta	137	NA	NA	NA	josserand1983mixtec	NA
 14533	alco11	agua	ti-kʷii	ti-kʷii	137	NA	NA	NA	josserand1983mixtec	NA
 14535	amat11	agua	či-kʷii	či-kʷii	137	NA	NA	NA	josserand1983mixtec	NA
@@ -12791,6 +12789,7 @@ ID	DOCULECT	GLOSS	VALUE	FORM	IDlist	NOTES	LOAN	LOAN_SOURCE	SOURCE	FLOATTONE
 14537	apoa11	agua	ⁿduȼa	ⁿduȼa	137	NA	NA	NA	josserand1983mixtec	NA
 2603	atat11	water	ⁿdūtē	ⁿdūtē	137	NA	NA	NA	durr1987preliminary	NA
 14538	atat11	agua	ⁿdute	ⁿdute	137	NA	NA	NA	josserand1983mixtec	NA
+5147	atat11	agua	ndute	ndute	137	NA	NA	NA	alexander1980gramatica	[A]
 14539	aten11	agua	ti-kʷii	ti-kʷii	137	NA	NA	NA	josserand1983mixtec	NA
 14540	atoy11	agua	ⁿduta	ⁿduta	137	NA	NA	NA	josserand1983mixtec	NA
 821	ayut11	water	tikwī	tikwī	137	NA	NA	NA	hills1990syntactic	NA
@@ -12806,8 +12805,8 @@ ID	DOCULECT	GLOSS	VALUE	FORM	IDlist	NOTES	LOAN	LOAN_SOURCE	SOURCE	FLOATTONE
 4076	chay11	agua	ndutya	ndutya	137	NA	NA	NA	pensinger1974diccionario	NA
 14548	chay11	agua	ⁿdutʸa	ⁿdutʸa	137	NA	NA	NA	josserand1983mixtec	NA
 14549	chay12	agua	ti-kʷii	ti-kʷii	137	NA	NA	NA	josserand1983mixtec	NA
-14550	chaz11	agua	te-kʷii	te-kʷii	137	NA	NA	NA	josserand1983mixtec	NA
 14551	chaz11	liquid	ⁿdute	ⁿdute	137	NA	NA	NA	josserand1983mixtec	NA
+14550	chaz11	agua	te-kʷii	te-kʷii	137	NA	NA	NA	josserand1983mixtec	NA
 14552	chic11	agua	ⁿřuȼa	ⁿřuȼa	137	NA	NA	NA	josserand1983mixtec	NA
 6047	chic12	agua	nne³⁴	nne³⁴	137	NA	NA	NA	good1978diccionario	NA
 21143	chic12	agua	ne³²	ne³²	137	NA	NA	NA	hernandez-mendoza2020vocabulario	NA
@@ -12820,8 +12819,8 @@ ID	DOCULECT	GLOSS	VALUE	FORM	IDlist	NOTES	LOAN	LOAN_SOURCE	SOURCE	FLOATTONE
 14556	colo11	agua	ⁿdutʸa	ⁿdutʸa	137	NA	NA	NA	josserand1983mixtec	NA
 1330	conc11	water	nūnī	nūnī	137	NA	NA	NA	bradley1991preliminary	NA
 1575	copa11	water	na³²	na³²	137	NA	NA	NA	hollenbach1992syntactic	NA
-14557	coso11	agua	ti-kʷii	ti-kʷii	137	NA	NA	NA	josserand1983mixtec	NA
 14558	coso11	liquid	ⁿdute	ⁿdute	137	NA	NA	NA	josserand1983mixtec	NA
+14557	coso11	agua	ti-kʷii	ti-kʷii	137	NA	NA	NA	josserand1983mixtec	NA
 14560	coxc11	agua	ⁿduča	ⁿduča	137	NA	NA	NA	josserand1983mixtec	NA
 14559	coxc11	agua	ⁿdusa	ⁿdusa	137	NA	NA	NA	josserand1983mixtec	NA
 14562	cris11	agua	ⁿduča	ⁿduča	137	NA	NA	NA	josserand1983mixtec	NA
@@ -12849,8 +12848,8 @@ ID	DOCULECT	GLOSS	VALUE	FORM	IDlist	NOTES	LOAN	LOAN_SOURCE	SOURCE	FLOATTONE
 14578	ixpa11	agua	tí-kʷìí	tí-kʷìí	137	NA	NA	NA	josserand1983mixtec	NA
 14579	ixta11	agua	ⁿdutʸa	ⁿdutʸa	137	NA	NA	NA	josserand1983mixtec	NA
 14580	ixta12	agua	ⁿduȼa	ⁿduȼa	137	NA	NA	NA	josserand1983mixtec	NA
-14581	ixta13	agua	te-kʷii	te-kʷii	137	NA	NA	NA	josserand1983mixtec	NA
 14582	ixta13	liquid	ⁿdute	ⁿdute	137	NA	NA	NA	josserand1983mixtec	NA
+14581	ixta13	agua	te-kʷii	te-kʷii	137	NA	NA	NA	josserand1983mixtec	NA
 439	jami11	water	ndūtyā	ndūtyā	137	NA	NA	NA	johnson1988syntactic	NA
 14583	jami11	agua	ⁿdutʸa	ⁿdutʸa	137	NA	NA	NA	josserand1983mixtec	NA
 14584	jate11	agua	ⁿdusa	ⁿdusa	137	NA	NA	NA	josserand1983mixtec	NA
@@ -12910,8 +12909,8 @@ ID	DOCULECT	GLOSS	VALUE	FORM	IDlist	NOTES	LOAN	LOAN_SOURCE	SOURCE	FLOATTONE
 14626	teit11	agua	ⁿdute	ⁿdute	137	NA	NA	NA	josserand1983mixtec	NA
 14627	tejo11	agua	či-kʷii	či-kʷii	137	NA	NA	NA	josserand1983mixtec	NA
 5512	tepe03	agua	nuni	nuni	137	NA	NA	NA	belmar1902el-cuicateco	NA
-14628	tepe11	agua	te-kʷii	te-kʷii	137	NA	NA	NA	josserand1983mixtec	NA
 14629	tepe11	liquid	ⁿdute	ⁿdute	137	NA	NA	NA	josserand1983mixtec	NA
+14628	tepe11	agua	te-kʷii	te-kʷii	137	NA	NA	NA	josserand1983mixtec	NA
 14630	tepe12	agua	ⁿduta	ⁿduta	137	NA	NA	NA	josserand1983mixtec	NA
 1952	tepo01	agua	duta	duta	137	NA	NA	NA	alvarado1593vocabulario	NA
 14631	tepo11	agua	ⁿduta	ⁿduta	137	NA	NA	NA	josserand1983mixtec	NA
@@ -12919,13 +12918,13 @@ ID	DOCULECT	GLOSS	VALUE	FORM	IDlist	NOTES	LOAN	LOAN_SOURCE	SOURCE	FLOATTONE
 14633	tila11	agua	ⁿdute	ⁿdute	137	NA	NA	NA	josserand1983mixtec	NA
 14634	tlac11	agua	ⁿdute	ⁿdute	137	NA	NA	NA	josserand1983mixtec	NA
 3600	tlah11	agua	tìkwíi	tì-kwíi	137	NA	NA	NA	oxnard2020	NA
-14635	tlal11	agua	ti-kʷii	ti-kʷii	137	NA	NA	NA	josserand1983mixtec	NA
 14636	tlal11	liquid	ⁿdute	ⁿdute	137	NA	NA	NA	josserand1983mixtec	NA
+14635	tlal11	agua	ti-kʷii	ti-kʷii	137	NA	NA	NA	josserand1983mixtec	NA
 14637	tlaz11	agua	ⁿdute	ⁿdute	137	NA	NA	NA	josserand1983mixtec	NA
-14638	tona11	agua	te-kʷii	te-kʷii	137	NA	NA	NA	josserand1983mixtec	NA
 14639	tona11	liquid	ⁿdute	ⁿdute	137	NA	NA	NA	josserand1983mixtec	NA
-14640	toto12	agua	te-kʷii	te-kʷii	137	NA	NA	NA	josserand1983mixtec	NA
+14638	tona11	agua	te-kʷii	te-kʷii	137	NA	NA	NA	josserand1983mixtec	NA
 14641	toto12	liquid	ⁿdute	ⁿdute	137	NA	NA	NA	josserand1983mixtec	NA
+14640	toto12	agua	te-kʷii	te-kʷii	137	NA	NA	NA	josserand1983mixtec	NA
 14642	tutu11	agua	ⁿdutʸa	ⁿdutʸa	137	NA	NA	NA	josserand1983mixtec	NA
 14643	xaya11	agua	te-kʷii	te-kʷii	137	NA	NA	NA	josserand1983mixtec	NA
 14644	xaya12	agua	tè-kʷìí	tè-kʷìí	137	NA	NA	NA	josserand1983mixtec	NA
@@ -12962,13 +12961,13 @@ ID	DOCULECT	GLOSS	VALUE	FORM	IDlist	NOTES	LOAN	LOAN_SOURCE	SOURCE	FLOATTONE
 1078	alac11	rain, rain god	savi	savi	138	NA	NA	NA	zylstra1991syntactic	NA
 14666	alac11	lluvia	sàƀì	sàƀì	138	NA	NA	NA	josserand1983mixtec	NA
 14665	alac11	lluvia	sàwì	sàwì	138	NA	NA	NA	josserand1983mixtec	NA
-5148	alac11	lluvia	savū	savū	138	NA	NA	NA	alexander1980gramatica	[C]
 14667	alco11	lluvia	(ku̧u̧)-sawi	ku̧u̧-sawi	138	NA	NA	NA	josserand1983mixtec	NA
 14668	amat11	lluvia	đaƀi	đaƀi	138	NA	NA	NA	josserand1983mixtec	NA
 14670	apas11	lluvia	(ko̧o̧)-đawi	ko̧o̧-đawi	138	NA	NA	NA	josserand1983mixtec	NA
 14671	apoa11	lluvia	đaƀi	đaƀi	138	NA	NA	NA	josserand1983mixtec	NA
 14673	atat11	lluvia	saƀū	saƀū	138	NA	NA	NA	josserand1983mixtec	NA
 14672	atat11	lluvia	saū	saū	138	NA	NA	NA	josserand1983mixtec	NA
+5148	atat11	lluvia	savū	savū	138	NA	NA	NA	alexander1980gramatica	[C]
 14674	aten11	lluvia	(ku̧u̧)-haƀi	ku̧u̧-haƀi	138	NA	NA	NA	josserand1983mixtec	NA
 14675	atoy11	lluvia	sawi	sawi	138	NA	NA	NA	josserand1983mixtec	NA
 822	ayut11	rain (precipitation)	sāvih	sāvih	138	NA	NA	NA	hills1990syntactic	NA
@@ -13284,12 +13283,12 @@ ID	DOCULECT	GLOSS	VALUE	FORM	IDlist	NOTES	LOAN	LOAN_SOURCE	SOURCE	FLOATTONE
 14910	achi11	rocío	žužu	žužu	140	NA	NA	NA	josserand1983mixtec	NA
 14911	ahue11	rocío	žüžü	žüžü	140	NA	NA	NA	josserand1983mixtec	NA
 4610	alac11	rocío	yúyú	yúyú	140	NA	NA	NA	anderson2006vocabulario	NA
-5149	alac11	rocío	yúyú	yúyú	140	NA	NA	NA	alexander1980gramatica	[B]
 14912	alco11	rocío	yuyu	yuyu	140	NA	NA	NA	josserand1983mixtec	NA
 5774	alco11	rocío	ju⁴ju⁴	ju⁴ju⁴	140	NA	NA	NA	swanton2020observaciones	NA
 14913	apas11	rocío	žužu	žužu	140	NA	NA	NA	josserand1983mixtec	NA
 14914	apoa11	rocío	žužu	žužu	140	NA	NA	NA	josserand1983mixtec	NA
 14915	atat11	rocío	yuuyu	yuuyu	140	NA	NA	NA	josserand1983mixtec	NA
+5149	atat11	rocío	yúyú	yúyú	140	NA	NA	NA	alexander1980gramatica	[B]
 14916	aten11	rocío	žuu	žuu	140	NA	NA	NA	josserand1983mixtec	NA
 14917	ayut11	rocío	yūyūʔ	yūyūʔ	140	NA	NA	NA	josserand1983mixtec	NA
 14918	brav11	rocío	yuyu	yuyu	140	NA	NA	NA	josserand1983mixtec	NA
@@ -13402,13 +13401,13 @@ ID	DOCULECT	GLOSS	VALUE	FORM	IDlist	NOTES	LOAN	LOAN_SOURCE	SOURCE	FLOATTONE
 1080	alac11	mountain, mountain country	yūku	yūku	141	NA	NA	NA	zylstra1991syntactic	NA
 1081	alac11	hill	shiki	shiki	141	NA	NA	NA	zylstra1991syntactic	NA
 15001	alac11	cerro	yuku	yuku	141	NA	NA	NA	josserand1983mixtec	NA
-5150	alac11	monte	yucu	yucu	141	NA	NA	NA	alexander1980gramatica	[A]
 15002	alco11	cerro	iku	iku	141	NA	NA	NA	josserand1983mixtec	NA
 15003	amat11	cerro	žuku	žuku	141	NA	NA	NA	josserand1983mixtec	NA
 15004	apas11	cerro	žuku	žuku	141	NA	NA	NA	josserand1983mixtec	NA
 15005	apoa11	cerro	žuku	žuku	141	NA	NA	NA	josserand1983mixtec	NA
 2621	atat11	mountain	žūkū	žūkū	141	NA	NA	NA	durr1987preliminary	NA
 15006	atat11	cerro	yuku	yuku	141	NA	NA	NA	josserand1983mixtec	NA
+5150	atat11	monte	yucu	yucu	141	NA	NA	NA	alexander1980gramatica	[A]
 15007	aten11	cerro	žuku	žuku	141	NA	NA	NA	josserand1983mixtec	NA
 15008	atoy11	cerro	yuku	yuku	141	NA	NA	NA	josserand1983mixtec	NA
 824	ayut11	mountain	ikūh	ikūh	141	NA	NA	NA	hills1990syntactic	NA
@@ -13726,7 +13725,6 @@ ID	DOCULECT	GLOSS	VALUE	FORM	IDlist	NOTES	LOAN	LOAN_SOURCE	SOURCE	FLOATTONE
 1083	alac11	rock	yuu	yuu	143	NA	NA	NA	zylstra1991syntactic	NA
 2635	alac11	stone	yùù	yùù	143	NA	NA	NA	durr1987preliminary	NA
 15253	alac11	piedra	yùù	yùù	143	NA	NA	NA	josserand1983mixtec	NA
-5151	alac11	piedra	yuū	yuū	143	NA	NA	NA	alexander1980gramatica	[C]
 15254	alco11	piedra	yuu	yuu	143	NA	NA	NA	josserand1983mixtec	NA
 5779	alco11	piedra	ju¹u⁴	ju¹u⁴	143	NA	NA	NA	swanton2020observaciones	NA
 15255	amat11	piedra	žuu	žuu	143	NA	NA	NA	josserand1983mixtec	NA
@@ -13734,6 +13732,7 @@ ID	DOCULECT	GLOSS	VALUE	FORM	IDlist	NOTES	LOAN	LOAN_SOURCE	SOURCE	FLOATTONE
 15257	apoa11	piedra	žuu	žuu	143	NA	NA	NA	josserand1983mixtec	NA
 2630	atat11	stone	žūù	žūù	143	NA	NA	NA	durr1987preliminary	NA
 15258	atat11	piedra	yuū	yuū	143	NA	NA	NA	josserand1983mixtec	NA
+5151	atat11	piedra	yuū	yuū	143	NA	NA	NA	alexander1980gramatica	[C]
 15259	aten11	piedra	žuu	žuu	143	NA	NA	NA	josserand1983mixtec	NA
 15260	atoy11	piedra	yuu	yuu	143	NA	NA	NA	josserand1983mixtec	NA
 825	ayut11	stone	yūuh	yūuh	143	NA	NA	NA	hills1990syntactic	NA
@@ -14054,12 +14053,12 @@ ID	DOCULECT	GLOSS	VALUE	FORM	IDlist	NOTES	LOAN	LOAN_SOURCE	SOURCE	FLOATTONE
 15486	ahue11	fierro	tù̧nì̧	tù̧nì̧	145	NA	NA	NA	josserand1983mixtec	NA
 4614	alac11	fierro	ka̠a	ka̠a	145	NA	NA	NA	zylstra2012gramatica	NA
 1085	alac11	metal	kaā	kaā	145	NA	NA	NA	zylstra1991syntactic	NA
-5152	alac11	metal	cāa	cāa	145	NA	NA	NA	alexander1980gramatica	
 15487	alco11	fierro	tu̧ni̧	tu̧ni̧	145	NA	NA	NA	josserand1983mixtec	NA
 5789	alco11	metal	ka²a²	ka²a²	145	NA	NA	NA	swanton2020observaciones	NA
 15488	apoa11	fierro	fier̃u	fier̃u	145	NA	NA	NA	josserand1983mixtec	NA
 2653	atat11	metal	kàā	kàā	145	NA	NA	NA	durr1987preliminary	NA
 15489	atat11	fierro	Nnu̧ni̧	nnu̧ni̧	145	NA	NA	NA	josserand1983mixtec	NA
+5152	atat11	metal	cāa	cāa	145	NA	NA	NA	alexander1980gramatica	
 15490	aten11	fierro	tū̧nì̧	tū̧nì̧	145	NA	NA	NA	josserand1983mixtec	NA
 15491	atoy11	fierro	tu̧ni̧	tu̧ni̧	145	NA	NA	NA	josserand1983mixtec	NA
 826	ayut11	metal	kaa	kaa	145	NA	NA	NA	hills1990syntactic	NA
@@ -14182,9 +14181,9 @@ ID	DOCULECT	GLOSS	VALUE	FORM	IDlist	NOTES	LOAN	LOAN_SOURCE	SOURCE	FLOATTONE
 118	abas11	papel	tutu	tutu	146	NA	NA	NA	galindo-sanchez2009vocabulario	NA
 4615	alac11	papel	tutu	tutu	146	NA	NA	NA	zylstra2012gramatica	NA
 1086	alac11	paper	tūtū	tūtū	146	NA	NA	NA	zylstra1991syntactic	NA
-5153	alac11	papel, libro	tutu	tutu	146	NA	NA	NA	alexander1980gramatica	[C]
 5794	alco11	papel	tu³tu²	tu³tu²	146	NA	NA	NA	swanton2020observaciones	NA
 2667	atat11	paper	tūtū	tūtū	146	NA	NA	NA	durr1987preliminary	NA
+5153	atat11	papel, libro	tutu	tutu	146	NA	NA	NA	alexander1980gramatica	[C]
 827	ayut11	paper	tutu	tutu	146	NA	NA	NA	hills1990syntactic	NA
 2671	ayut11	paper	tùtù	tùtù	146	NA	NA	NA	durr1987preliminary	NA
 2669	caca11	paper	tūtù	tūtù	146	NA	NA	NA	durr1987preliminary	NA
@@ -14236,8 +14235,8 @@ ID	DOCULECT	GLOSS	VALUE	FORM	IDlist	NOTES	LOAN	LOAN_SOURCE	SOURCE	FLOATTONE
 119	abas11	cal	kàkà	kàkà	147	NA	NA	NA	galindo-sanchez2009vocabulario	NA
 4616	alac11	cal	kaka	kaka	147	NA	NA	NA	anderson2006vocabulario	NA
 1087	alac11	lime (material)	kākā	kākā	147	NA	NA	NA	zylstra1991syntactic	NA
-5154	alac11	cal	caca	caca	147	NA	NA	NA	alexander1980gramatica	[C]
 2678	atat11	lime	kākā	kākā	147	NA	NA	NA	durr1987preliminary	NA
+5154	atat11	cal	caca	caca	147	NA	NA	NA	alexander1980gramatica	[C]
 828	ayut11	lime (material)	kaka	kaka	147	NA	NA	NA	hills1990syntactic	NA
 2680	ayut11	lime	kàkà	kàkà	147	NA	NA	NA	durr1987preliminary	NA
 2682	cahu11	lime	kākā	kākā	147	NA	NA	NA	durr1987preliminary	NA
@@ -14429,13 +14428,13 @@ ID	DOCULECT	GLOSS	VALUE	FORM	IDlist	NOTES	LOAN	LOAN_SOURCE	SOURCE	FLOATTONE
 4618	alac11	lodo	nda̠’yi̠	nda̠’yi̠	149	NA	NA	NA	zylstra2012gramatica	NA
 1089	alac11	mud	ndahyi	ndahyi	149	NA	NA	NA	zylstra1991syntactic	NA
 15689	alac11	lodo	ⁿdaʔyi	ⁿdaʔyi	149	NA	NA	NA	josserand1983mixtec	NA
-5155	alac11	lodo	ndehyū	ndehyū	149	NA	NA	NA	alexander1980gramatica	[C]
 15691	alco11	lodo	ⁿdaʔi	ⁿdaʔi	149	NA	NA	NA	josserand1983mixtec	NA
 15690	alco11	lodo	ⁿdaʔyu	ⁿdaʔyu	149	NA	NA	NA	josserand1983mixtec	NA
 15692	amat11	lodo	ⁿǰeʔi	ⁿǰeʔi	149	NA	NA	NA	josserand1983mixtec	NA
 15693	apas11	lodo	ⁿzaʔyu	ⁿzaʔyu	149	NA	NA	NA	josserand1983mixtec	NA
 15694	apoa11	lodo	ⁿzaʔyu	ⁿzaʔyu	149	NA	NA	NA	josserand1983mixtec	NA
 15695	atat11	lodo	ⁿdeʔyū	ⁿdeʔyū	149	NA	NA	NA	josserand1983mixtec	NA
+5155	atat11	lodo	ndehyū	ndehyū	149	NA	NA	NA	alexander1980gramatica	[C]
 15696	aten11	lodo	ⁿdeʔi	ⁿdeʔi	149	NA	NA	NA	josserand1983mixtec	NA
 15697	atoy11	lodo	ⁿdaʔyu	ⁿdaʔyu	149	NA	NA	NA	josserand1983mixtec	NA
 830	ayut11	mud	ndēhi	ndēhi	149	NA	NA	NA	hills1990syntactic	NA
@@ -14753,13 +14752,13 @@ ID	DOCULECT	GLOSS	VALUE	FORM	IDlist	NOTES	LOAN	LOAN_SOURCE	SOURCE	FLOATTONE
 1091	alac11	red	kwáhá	kwáhá	152	NA	NA	NA	zylstra1991syntactic	NA
 2691	alac11	red	kʷáʔá	kʷáʔá	152	NA	NA	NA	durr1987preliminary	NA
 15929	alac11	rojo	kʷáʔá	kʷáʔá	152	NA	NA	NA	josserand1983mixtec	NA
-5156	alac11	rojo	cuéhé	cuéhé	152	NA	NA	NA	alexander1980gramatica	[B]
 15930	alco11	rojo	kʷaʔa	kʷaʔa	152	NA	NA	NA	josserand1983mixtec	NA
 5799	alco11	rojo, colorado	kʷa⁴Ɂa²	kʷa⁴Ɂa²	152	NA	NA	NA	swanton2020observaciones	NA
 15931	amat11	rojo	kʷaʔa	kʷaʔa	152	NA	NA	NA	josserand1983mixtec	NA
 15932	apas11	rojo	kʷaʔa	kʷaʔa	152	NA	NA	NA	josserand1983mixtec	NA
 15933	apoa11	rojo	kʷaʔa	kʷaʔa	152	NA	NA	NA	josserand1983mixtec	NA
 15934	atat11	rojo	kʷēʔé	kʷēʔé	152	NA	NA	NA	josserand1983mixtec	NA
+5156	atat11	rojo	cuéhé	cuéhé	152	NA	NA	NA	alexander1980gramatica	[B]
 15935	aten11	rojo	kʷaʔa	kʷaʔa	152	NA	NA	NA	josserand1983mixtec	NA
 15936	atoy11	rojo	kʷaʔa	kʷaʔa	152	NA	NA	NA	josserand1983mixtec	NA
 2690	ayut11	red	kʷáʔá	kʷáʔá	152	NA	NA	NA	durr1987preliminary	NA
@@ -14966,7 +14965,6 @@ ID	DOCULECT	GLOSS	VALUE	FORM	IDlist	NOTES	LOAN	LOAN_SOURCE	SOURCE	FLOATTONE
 1093	alac11	yellow	kwáán	kwáán	154	NA	NA	NA	zylstra1991syntactic	NA
 2714	alac11	yellow	kʷá̧á̧	kʷá̧á̧	154	NA	NA	NA	durr1987preliminary	NA
 16045	alac11	amarillo	kʷa̧a̧	kʷa̧a̧	154	NA	NA	NA	josserand1983mixtec	NA
-5157	alac11	amarillo	cuáán	cuáán	154	NA	NA	NA	alexander1980gramatica	[B]
 16046	alco11	amarillo	kʷa̧a̧	kʷa̧a̧	154	NA	NA	NA	josserand1983mixtec	NA
 5809	alco11	amarillo	kʷa⁴ã²	kʷa⁴ã²	154	NA	NA	NA	swanton2020observaciones	NA
 16047	amat11	amarillo	kʷa̧a̧	kʷa̧a̧	154	NA	NA	NA	josserand1983mixtec	NA
@@ -14974,6 +14972,7 @@ ID	DOCULECT	GLOSS	VALUE	FORM	IDlist	NOTES	LOAN	LOAN_SOURCE	SOURCE	FLOATTONE
 16049	apoa11	amarillo	kʷa̧a̧	kʷa̧a̧	154	NA	NA	NA	josserand1983mixtec	NA
 2709	atat11	yellow	kʷá̧á̧	kʷá̧á̧	154	NA	NA	NA	durr1987preliminary	NA
 16050	atat11	amarillo	kʷá̧á̧	kʷá̧á̧	154	NA	NA	NA	josserand1983mixtec	NA
+5157	atat11	amarillo	cuáán	cuáán	154	NA	NA	NA	alexander1980gramatica	[B]
 16051	aten11	amarillo	kʷa̧a̧	kʷa̧a̧	154	NA	NA	NA	josserand1983mixtec	NA
 16052	atoy11	amarillo	kʷa̧a̧	kʷa̧a̧	154	NA	NA	NA	josserand1983mixtec	NA
 832	ayut11	yellow	kwāān	kwāān	154	NA	NA	NA	hills1990syntactic	NA
@@ -15126,8 +15125,8 @@ ID	DOCULECT	GLOSS	VALUE	FORM	IDlist	NOTES	LOAN	LOAN_SOURCE	SOURCE	FLOATTONE
 4623	alac11	negro	to̠ón	to̠ón	155	NA	NA	NA	zylstra2012gramatica	NA
 1094	alac11	black, dark	toōn	toōn	155	NA	NA	NA	zylstra1991syntactic	NA
 2724	alac11	black	tò̧ó̧	tò̧ó̧	155	NA	NA	NA	durr1987preliminary	NA
-5158	alac11	negro	jnúú	jnúú	155	NA	NA	NA	alexander1980gramatica	[B]
 2721	atat11	black	Nú̧ú̧	nú̧ú̧	155	NA	NA	NA	durr1987preliminary	NA
+5158	atat11	negro	jnúú	jnúú	155	NA	NA	NA	alexander1980gramatica	[B]
 2723	ayut11	black	tù̧ú̧ʔ	tù̧ú̧ʔ	155	NA	NA	NA	durr1987preliminary	NA
 2725	cahu11	black	tnō̧ó̧	tnō̧ó̧	155	NA	NA	NA	durr1987preliminary	NA
 4095	chay11	negro	toon	toon	155	NA	NA	NA	pensinger1974diccionario	NA
@@ -15172,8 +15171,8 @@ ID	DOCULECT	GLOSS	VALUE	FORM	IDlist	NOTES	LOAN	LOAN_SOURCE	SOURCE	FLOATTONE
 127	abas11	blanco	yaa	yaa	156	NA	NA	NA	galindo-sanchez2009vocabulario	NA
 4624	alac11	blanco	yaa	yaa	156	NA	NA	NA	zylstra2012gramatica	NA
 1095	alac11	white	yāā	yāā	156	NA	NA	NA	zylstra1991syntactic	NA
-5159	alac11	blanco	cuíjín	cuíjín	156	NA	NA	NA	alexander1980gramatica	[B]
 2731	atat11	white	kʷíxí̧	kʷíxí̧	156	NA	NA	NA	durr1987preliminary	NA
+5159	atat11	blanco	cuíjín	cuíjín	156	NA	NA	NA	alexander1980gramatica	[B]
 833	ayut11	white	yaa	yaa	156	only as part of nda-sa-yaa ‘will rewhiten’	NA	NA	hills1990syntactic	NA
 2733	caca11	white	kúší	kúší	156	NA	NA	NA	durr1987preliminary	NA
 4096	chay11	blanco	cuisi	cuisi	156	NA	NA	NA	pensinger1974diccionario	NA
@@ -15215,8 +15214,8 @@ ID	DOCULECT	GLOSS	VALUE	FORM	IDlist	NOTES	LOAN	LOAN_SOURCE	SOURCE	FLOATTONE
 128	abas11	uno	in	in	157	NA	NA	NA	galindo-sanchez2009vocabulario	NA
 4625	alac11	uno	ñii	ñii	157	NA	NA	NA	zylstra2012gramatica	NA
 1096	alac11	one	ñīī	ñīī	157	NA	NA	NA	zylstra1991syntactic	NA
-5160	alac11	uno	ɨɨn	ɨɨn	157	NA	NA	NA	alexander1980gramatica	[A]
 2738	atat11	one	ī̧ī̧	ī̧ī̧	157	NA	NA	NA	durr1987preliminary	NA
+5160	atat11	uno	ɨɨn	ɨɨn	157	NA	NA	NA	alexander1980gramatica	[A]
 834	ayut11	one	iin	iin	157	NA	NA	NA	hills1990syntactic	NA
 2742	ayut11	one	ì̧ì̧	ì̧ì̧	157	NA	NA	NA	durr1987preliminary	NA
 2740	caca11	one	ī̧ī̧	ī̧ī̧	157	NA	NA	NA	durr1987preliminary	NA
@@ -15272,7 +15271,6 @@ ID	DOCULECT	GLOSS	VALUE	FORM	IDlist	NOTES	LOAN	LOAN_SOURCE	SOURCE	FLOATTONE
 4626	alac11	dos	o̠vi̠	o̠vi̠	158	NA	NA	NA	zylstra2012gramatica	NA
 1097	alac11	two	ovi	ovi	158	NA	NA	NA	zylstra1991syntactic	NA
 16159	alac11	dos	oƀi	oƀi	158	NA	NA	NA	josserand1983mixtec	NA
-5161	alac11	dos	uū	uū	158	NA	NA	NA	alexander1980gramatica	[C]
 16160	alco11	dos	uwi	uwi	158	NA	NA	NA	josserand1983mixtec	NA
 5814	alco11	dos	u¹bi¹	u¹bi¹	158	NA	NA	NA	swanton2020observaciones	NA
 16161	amat11	dos	uƀi	uƀi	158	NA	NA	NA	josserand1983mixtec	NA
@@ -15280,6 +15278,7 @@ ID	DOCULECT	GLOSS	VALUE	FORM	IDlist	NOTES	LOAN	LOAN_SOURCE	SOURCE	FLOATTONE
 16163	apoa11	dos	uƀi	uƀi	158	NA	NA	NA	josserand1983mixtec	NA
 2753	atat11	two	ūù	ūù	158	NA	NA	NA	durr1987preliminary	NA
 16164	atat11	dos	uu	uu	158	NA	NA	NA	josserand1983mixtec	NA
+5161	atat11	dos	uū	uū	158	NA	NA	NA	alexander1980gramatica	[C]
 16165	aten11	dos	ʔìvì	ʔìvì	158	NA	NA	NA	josserand1983mixtec	NA
 16166	atoy11	dos	uwi	uwi	158	NA	NA	NA	josserand1983mixtec	NA
 835	ayut11	two	ūvi	ūvi	158	NA	NA	NA	hills1990syntactic	NA
@@ -15448,12 +15447,12 @@ ID	DOCULECT	GLOSS	VALUE	FORM	IDlist	NOTES	LOAN	LOAN_SOURCE	SOURCE	FLOATTONE
 1098	alac11	three	uni	uni	159	NA	NA	NA	zylstra1991syntactic	NA
 16281	alac11	tres	o̧ni̧	o̧ni̧	159	NA	NA	NA	josserand1983mixtec	NA
 16282	alac11	tres	u̧ni̧	u̧ni̧	159	NA	NA	NA	josserand1983mixtec	NA
-5162	alac11	tres	unī	unī	159	NA	NA	NA	alexander1980gramatica	[C]
 16283	alco11	tres	u̧ni̧	u̧ni̧	159	NA	NA	NA	josserand1983mixtec	NA
 16284	amat11	tres	u̧ni̧	u̧ni̧	159	NA	NA	NA	josserand1983mixtec	NA
 16285	apas11	tres	u̧ni̧	u̧ni̧	159	NA	NA	NA	josserand1983mixtec	NA
 16286	apoa11	tres	u̧ni̧	u̧ni̧	159	NA	NA	NA	josserand1983mixtec	NA
 16287	atat11	tres	u̧nī̧	u̧nī̧	159	NA	NA	NA	josserand1983mixtec	NA
+5162	atat11	tres	unī	unī	159	NA	NA	NA	alexander1980gramatica	[C]
 16288	aten11	tres	ʔò̧nì̧	ʔò̧nì̧	159	NA	NA	NA	josserand1983mixtec	NA
 16289	atoy11	tres	u̧ni̧	u̧ni̧	159	NA	NA	NA	josserand1983mixtec	NA
 836	ayut11	three	ūni	ūni	159	NA	NA	NA	hills1990syntactic	NA
@@ -15604,13 +15603,13 @@ ID	DOCULECT	GLOSS	VALUE	FORM	IDlist	NOTES	LOAN	LOAN_SOURCE	SOURCE	FLOATTONE
 4628	alac11	cuatro	ko̠mi̠	ko̠mi̠	160	NA	NA	NA	zylstra2012gramatica	NA
 1099	alac11	four	komi	komi	160	NA	NA	NA	zylstra1991syntactic	NA
 16401	alac11	cuatro	komi̧	komi̧	160	NA	NA	NA	josserand1983mixtec	NA
-5163	alac11	cuatro	cuūn	cuūn	160	NA	NA	NA	alexander1980gramatica	[C]
 16402	alco11	cuatro	ko̧mi̧	ko̧mi̧	160	NA	NA	NA	josserand1983mixtec	NA
 16403	amat11	cuatro	ku̧mi̧	ku̧mi̧	160	NA	NA	NA	josserand1983mixtec	NA
 16404	apas11	cuatro	ku̧mi̧	ku̧mi̧	160	NA	NA	NA	josserand1983mixtec	NA
 16405	apoa11	cuatro	ku̧mi̧	ku̧mi̧	160	NA	NA	NA	josserand1983mixtec	NA
 2765	atat11	four	kū̧ù̧	kū̧ù̧	160	NA	NA	NA	durr1987preliminary	NA
 16406	atat11	cuatro	ku̧ù̧	ku̧ù̧	160	NA	NA	NA	josserand1983mixtec	NA
+5163	atat11	cuatro	cuūn	cuūn	160	NA	NA	NA	alexander1980gramatica	[C]
 16407	aten11	cuatro	kò̧mì̧	kò̧mì̧	160	NA	NA	NA	josserand1983mixtec	NA
 16408	atoy11	cuatro	ku̧mi̧	ku̧mi̧	160	NA	NA	NA	josserand1983mixtec	NA
 837	ayut11	four	kumīh	kumīh	160	NA	NA	NA	hills1990syntactic	NA
@@ -15780,7 +15779,6 @@ ID	DOCULECT	GLOSS	VALUE	FORM	IDlist	NOTES	LOAN	LOAN_SOURCE	SOURCE	FLOATTONE
 4629	alac11	cinco	o̠’o̠n	o̠’o̠n	161	NA	NA	NA	zylstra2012gramatica	NA
 1100	alac11	five	ohon	ohon	161	NA	NA	NA	zylstra1991syntactic	NA
 16524	alac11	cinco	o̧ʔo̧	o̧ʔo̧	161	NA	NA	NA	josserand1983mixtec	NA
-5164	alac11	cinco	uhūn	uhūn	161	NA	NA	NA	alexander1980gramatica	[C]
 16525	alco11	cinco	u̧ʔu̧	u̧ʔu̧	161	NA	NA	NA	josserand1983mixtec	NA
 5819	alco11	cinco	u¹Ɂũ¹	u¹Ɂũ¹	161	NA	NA	NA	swanton2020observaciones	NA
 16526	amat11	cinco	u̧ʔu̧	u̧ʔu̧	161	NA	NA	NA	josserand1983mixtec	NA
@@ -15789,6 +15787,7 @@ ID	DOCULECT	GLOSS	VALUE	FORM	IDlist	NOTES	LOAN	LOAN_SOURCE	SOURCE	FLOATTONE
 16529	apoa11	cinco	o̧ʔo̧	o̧ʔo̧	161	NA	NA	NA	josserand1983mixtec	NA
 2779	atat11	five	ū̧ʔù̧	ū̧ʔù̧	161	NA	NA	NA	durr1987preliminary	NA
 16530	atat11	cinco	u̧ʔū̧	u̧ʔū̧	161	NA	NA	NA	josserand1983mixtec	NA
+5164	atat11	cinco	uhūn	uhūn	161	NA	NA	NA	alexander1980gramatica	[C]
 16531	aten11	cinco	ʔù̧ʔù̧	ʔù̧ʔù̧	161	NA	NA	NA	josserand1983mixtec	NA
 16532	atoy11	cinco	u̧ʔu̧	u̧ʔu̧	161	NA	NA	NA	josserand1983mixtec	NA
 838	ayut11	five	ūhun	ūhun	161	NA	NA	NA	hills1990syntactic	NA
@@ -15952,7 +15951,6 @@ ID	DOCULECT	GLOSS	VALUE	FORM	IDlist	NOTES	LOAN	LOAN_SOURCE	SOURCE	FLOATTONE
 4630	alac11	seis	i̠ño̠	i̠ño̠	162	NA	NA	NA	zylstra2012gramatica	NA
 1101	alac11	six	iño	iño	162	NA	NA	NA	zylstra1991syntactic	NA
 16643	alac11	seis	i̧ño̧	i̧ño̧	162	NA	NA	NA	josserand1983mixtec	NA
-5165	alac11	seis	iñū	iñū	162	NA	NA	NA	alexander1980gramatica	[C]
 16644	alco11	seis	i̧ñu̧	i̧ñu̧	162	NA	NA	NA	josserand1983mixtec	NA
 5824	alco11	seis	i¹ɲu¹	i¹ɲu¹	162	NA	NA	NA	swanton2020observaciones	NA
 16645	amat11	seis	i̧ñu̧	i̧ñu̧	162	NA	NA	NA	josserand1983mixtec	NA
@@ -15960,6 +15958,7 @@ ID	DOCULECT	GLOSS	VALUE	FORM	IDlist	NOTES	LOAN	LOAN_SOURCE	SOURCE	FLOATTONE
 16647	apoa11	seis	i̧ñu̧	i̧ñu̧	162	NA	NA	NA	josserand1983mixtec	NA
 16648	apoa11	seis	i̧ỹu̧	i̧ỹu̧	162	NA	NA	NA	josserand1983mixtec	NA
 16649	atat11	seis	i̧ñu̧	i̧ñu̧	162	NA	NA	NA	josserand1983mixtec	NA
+5165	atat11	seis	iñū	iñū	162	NA	NA	NA	alexander1980gramatica	[C]
 16650	aten11	seis	ʔi̧u̧	ʔi̧u̧	162	NA	NA	NA	josserand1983mixtec	NA
 16651	atoy11	seis	i̧ñu̧	i̧ñu̧	162	NA	NA	NA	josserand1983mixtec	NA
 839	ayut11	six	īñu	īñu	162	NA	NA	NA	hills1990syntactic	NA
@@ -16111,12 +16110,12 @@ ID	DOCULECT	GLOSS	VALUE	FORM	IDlist	NOTES	LOAN	LOAN_SOURCE	SOURCE	FLOATTONE
 4631	alac11	siete	u̠xa̠	u̠xa̠	163	NA	NA	NA	zylstra2012gramatica	NA
 1102	alac11	seven	usha	usha	163	NA	NA	NA	zylstra1991syntactic	NA
 16761	alac11	siete	uša	uša	163	NA	NA	NA	josserand1983mixtec	NA
-5166	alac11	siete	uxā	uxā	163	NA	NA	NA	alexander1980gramatica	[C]
 16762	alco11	siete	uša	uša	163	NA	NA	NA	josserand1983mixtec	NA
 16763	amat11	siete	usa	usa	163	NA	NA	NA	josserand1983mixtec	NA
 16764	apas11	siete	usa	usa	163	NA	NA	NA	josserand1983mixtec	NA
 16765	apoa11	siete	usa	usa	163	NA	NA	NA	josserand1983mixtec	NA
 16766	atat11	siete	ušā	ušā	163	NA	NA	NA	josserand1983mixtec	NA
+5166	atat11	siete	uxā	uxā	163	NA	NA	NA	alexander1980gramatica	[C]
 16767	aten11	siete	ʔusa	ʔusa	163	NA	NA	NA	josserand1983mixtec	NA
 16768	atoy11	siete	uča	uča	163	NA	NA	NA	josserand1983mixtec	NA
 840	ayut11	seven	ūsha	ūsha	163	NA	NA	NA	hills1990syntactic	NA
@@ -16266,12 +16265,12 @@ ID	DOCULECT	GLOSS	VALUE	FORM	IDlist	NOTES	LOAN	LOAN_SOURCE	SOURCE	FLOATTONE
 1103	alac11	eight	ona	ona	164	NA	NA	NA	zylstra1991syntactic	NA
 16878	alac11	ocho	o̧na̧	o̧na̧	164	NA	NA	NA	josserand1983mixtec	NA
 16879	alac11	ocho	u̧na̧	u̧na̧	164	NA	NA	NA	josserand1983mixtec	NA
-5167	alac11	ocho	unā	unā	164	NA	NA	NA	alexander1980gramatica	[C]
 16880	alco11	ocho	u̧na̧	u̧na̧	164	NA	NA	NA	josserand1983mixtec	NA
 16881	amat11	ocho	u̧na̧	u̧na̧	164	NA	NA	NA	josserand1983mixtec	NA
 16882	apas11	ocho	u̧na̧	u̧na̧	164	NA	NA	NA	josserand1983mixtec	NA
 16883	apoa11	ocho	u̧na̧	u̧na̧	164	NA	NA	NA	josserand1983mixtec	NA
 16884	atat11	ocho	u̧nā̧	u̧nā̧	164	NA	NA	NA	josserand1983mixtec	NA
+5167	atat11	ocho	unā	unā	164	NA	NA	NA	alexander1980gramatica	[C]
 16885	aten11	ocho	ʔò̧nà̧	ʔò̧nà̧	164	NA	NA	NA	josserand1983mixtec	NA
 16886	atoy11	ocho	u̧na̧	u̧na̧	164	NA	NA	NA	josserand1983mixtec	NA
 841	ayut11	eight	ūnya	ūnya	164	NA	NA	NA	hills1990syntactic	NA
@@ -16412,8 +16411,8 @@ ID	DOCULECT	GLOSS	VALUE	FORM	IDlist	NOTES	LOAN	LOAN_SOURCE	SOURCE	FLOATTONE
 136	abas11	nueve	ììn	ììn	165	NA	NA	NA	galindo-sanchez2009vocabulario	NA
 4633	alac11	nueve	i̠i̠n	i̠i̠n	165	NA	NA	NA	zylstra2012gramatica	NA
 1104	alac11	nine	ñii	ñii	165	NA	NA	NA	zylstra1991syntactic	NA
-5168	alac11	nueve	ɨɨn	ɨɨn	165	NA	NA	NA	alexander1980gramatica	[C]
 2788	atat11	nine	ɨ̧̄ɨ̧̀	ɨ̧̄ɨ̧̀	165	NA	NA	NA	durr1987preliminary	NA
+5168	atat11	nueve	ɨɨn	ɨɨn	165	NA	NA	NA	alexander1980gramatica	[C]
 842	ayut11	nine	īīn	īīn	165	NA	NA	NA	hills1990syntactic	NA
 2790	caca11	nine	ì̧ì̧	ì̧ì̧	165	NA	NA	NA	durr1987preliminary	NA
 2792	cahu11	nine	ì̧ì̧	ì̧ì̧	165	NA	NA	NA	durr1987preliminary	NA
@@ -16465,12 +16464,12 @@ ID	DOCULECT	GLOSS	VALUE	FORM	IDlist	NOTES	LOAN	LOAN_SOURCE	SOURCE	FLOATTONE
 4634	alac11	diez	u̠xu̠	u̠xu̠	166	NA	NA	NA	zylstra2012gramatica	NA
 1105	alac11	ten	ushu	ushu	166	NA	NA	NA	zylstra1991syntactic	NA
 16992	alac11	diez	ušu	ušu	166	NA	NA	NA	josserand1983mixtec	NA
-5169	alac11	diez	uxī	uxī	166	NA	NA	NA	alexander1980gramatica	[C]
 16993	alco11	diez	uši	uši	166	NA	NA	NA	josserand1983mixtec	NA
 16994	amat11	diez	uši	uši	166	NA	NA	NA	josserand1983mixtec	NA
 16995	apas11	diez	uši	uši	166	NA	NA	NA	josserand1983mixtec	NA
 16996	apoa11	diez	uši	uši	166	NA	NA	NA	josserand1983mixtec	NA
 16997	atat11	diez	uxī	uxī	166	NA	NA	NA	josserand1983mixtec	NA
+5169	atat11	diez	uxī	uxī	166	NA	NA	NA	alexander1980gramatica	[C]
 16998	aten11	diez	ʔùšì	ʔùšì	166	NA	NA	NA	josserand1983mixtec	NA
 16999	atoy11	diez	uči	uči	166	NA	NA	NA	josserand1983mixtec	NA
 843	ayut11	ten	ūshi	ūshi	166	NA	NA	NA	hills1990syntactic	NA
@@ -16620,12 +16619,12 @@ ID	DOCULECT	GLOSS	VALUE	FORM	IDlist	NOTES	LOAN	LOAN_SOURCE	SOURCE	FLOATTONE
 4635	alac11	quince	xa̠’u̠n	xa̠’u̠n	167	NA	NA	NA	zylstra2012gramatica	NA
 1106	alac11	fifteen	shāhun	shāhun	167	NA	NA	NA	zylstra1991syntactic	NA
 17109	alac11	quince	šaʔu̧	šaʔu̧	167	NA	NA	NA	josserand1983mixtec	NA
-5170	alac11	quince	xahūn	xahūn	167	NA	NA	NA	alexander1980gramatica	[C]
 17110	alco11	quince	ša̧ʔu̧	ša̧ʔu̧	167	NA	NA	NA	josserand1983mixtec	NA
 17111	amat11	quince	sa̧ʔu̧	sa̧ʔu̧	167	NA	NA	NA	josserand1983mixtec	NA
 17112	apas11	quince	sa̧ʔa̧	sa̧ʔa̧	167	NA	NA	NA	josserand1983mixtec	NA
 17113	apoa11	quince	sa̧ʔu̧	sa̧ʔu̧	167	NA	NA	NA	josserand1983mixtec	NA
 17114	atat11	quince	xa̧ʔū̧	xa̧ʔū̧	167	NA	NA	NA	josserand1983mixtec	NA
+5170	atat11	quince	xahūn	xahūn	167	NA	NA	NA	alexander1980gramatica	[C]
 17115	aten11	quince	sà̧ʔù̧	sà̧ʔù̧	167	NA	NA	NA	josserand1983mixtec	NA
 17116	atoy11	quince	ča̧ʔu̧	ča̧ʔu̧	167	NA	NA	NA	josserand1983mixtec	NA
 844	ayut11	fifteen	shāhun	shāhun	167	NA	NA	NA	hills1990syntactic	NA
@@ -16770,7 +16769,7 @@ ID	DOCULECT	GLOSS	VALUE	FORM	IDlist	NOTES	LOAN	LOAN_SOURCE	SOURCE	FLOATTONE
 139	abas11	veinte	oko	oko	168	NA	NA	NA	galindo-sanchez2009vocabulario	NA
 4636	alac11	veinte	o̠ko̠	o̠ko̠	168	NA	NA	NA	zylstra2012gramatica	NA
 1107	alac11	twenty	oko	oko	168	NA	NA	NA	zylstra1991syntactic	NA
-5171	alac11	veinte	ocō	ocō	168	NA	NA	NA	alexander1980gramatica	[C]
+5171	atat11	veinte	ocō	ocō	168	NA	NA	NA	alexander1980gramatica	[C]
 845	ayut11	twenty	ōko	ōko	168	NA	NA	NA	hills1990syntactic	NA
 4108	chay11	veinte	oco	oco	168	NA	NA	NA	pensinger1974diccionario	NA
 1786	chic02	veinte	hikoo	hikoo	168	grammar part	NA	NA	belmar1897ensayo	NA
@@ -16811,13 +16810,13 @@ ID	DOCULECT	GLOSS	VALUE	FORM	IDlist	NOTES	LOAN	LOAN_SOURCE	SOURCE	FLOATTONE
 4637	alac11	pobre	ndá’ví	ndá’ví	169	NA	NA	NA	zylstra2012gramatica	NA
 1108	alac11	poor	ndáhví	ndáhví	169	NA	NA	NA	zylstra1991syntactic	NA
 17229	alac11	pobre	ⁿdáʔƀí	ⁿdáʔƀí	169	NA	NA	NA	josserand1983mixtec	NA
-5172	alac11	pobre	ndáhú	ndáhú	169	NA	NA	NA	alexander1980gramatica	[B]
 17230	alco11	pobre	ⁿdaʔwi	ⁿdaʔwi	169	NA	NA	NA	josserand1983mixtec	NA
 5829	alco11	pobre	ⁿda⁴Ɂbi²	ⁿda⁴Ɂbi²	169	NA	NA	NA	swanton2020observaciones	NA
 17231	apas11	pobre	ⁿdaʔwi	ⁿdaʔwi	169	NA	NA	NA	josserand1983mixtec	NA
 17232	apoa11	pobre	ⁿdaʔƀi	ⁿdaʔƀi	169	NA	NA	NA	josserand1983mixtec	NA
 2800	atat11	poor	ⁿdáʔú	ⁿdáʔú	169	NA	NA	NA	durr1987preliminary	NA
 17233	atat11	pobre	ⁿdáʔú	ⁿdáʔú	169	NA	NA	NA	josserand1983mixtec	NA
+5172	atat11	pobre	ndáhú	ndáhú	169	NA	NA	NA	alexander1980gramatica	[B]
 17234	aten11	pobre	ⁿdaʔvi	ⁿdaʔvi	169	NA	NA	NA	josserand1983mixtec	NA
 17235	atoy11	pobre	ⁿdaʔwi	ⁿdaʔwi	169	NA	NA	NA	josserand1983mixtec	NA
 846	ayut11	poor	ndāhvī	ndāhvī	169	NA	NA	NA	hills1990syntactic	NA
@@ -16969,7 +16968,7 @@ ID	DOCULECT	GLOSS	VALUE	FORM	IDlist	NOTES	LOAN	LOAN_SOURCE	SOURCE	FLOATTONE
 17337	zapo11	pobre	ⁿdaʔwi	ⁿdaʔwi	169	NA	NA	NA	josserand1983mixtec	NA
 4638	alac11	rico	kuíká	kuíká	170	NA	NA	NA	zylstra2012gramatica	NA
 1109	alac11	rich	kwíká	kwíká	170	NA	NA	NA	zylstra1991syntactic	NA
-5173	alac11	rico	cúcá	cúcá	170	NA	NA	NA	alexander1980gramatica	[B]
+5173	atat11	rico	cúcá	cúcá	170	NA	NA	NA	alexander1980gramatica	[B]
 847	ayut11	rich	vīkāh	vīkāh	170	NA	NA	NA	hills1990syntactic	NA
 4110	chay11	rico	cuca	cuca	170	NA	NA	NA	pensinger1974diccionario	NA
 1789	chic02	rico	Chirughueeha	chirughueeha	170	NA	NA	NA	belmar1897ensayo	NA
@@ -17174,11 +17173,11 @@ ID	DOCULECT	GLOSS	VALUE	FORM	IDlist	NOTES	LOAN	LOAN_SOURCE	SOURCE	FLOATTONE
 17462	ahue11	caliente	ʔi̧ʔni̧	ʔi̧ʔni̧	172	NA	NA	NA	josserand1983mixtec	NA
 4640	alac11	está caliente, caliente	ñi’ní	ñi’ní	172	NA	NA	NA	zylstra2012gramatica	NA
 17463	alac11	caliente	ñi̧ʔni̧	ñi̧ʔni̧	172	NA	NA	NA	josserand1983mixtec	NA
-5174	alac11	caliente	jihní	jihní	172	NA	NA	NA	alexander1980gramatica	[B]
 17464	alco11	caliente	i̧ʔni̧	i̧ʔni̧	172	NA	NA	NA	josserand1983mixtec	NA
 17465	apas11	caliente	i̧ʔni̧	i̧ʔni̧	172	NA	NA	NA	josserand1983mixtec	NA
 17466	apoa11	caliente	i̧ʔni̧	i̧ʔni̧	172	NA	NA	NA	josserand1983mixtec	NA
 17467	atat11	caliente	xí̧ʔní̧	xí̧ʔní̧	172	NA	NA	NA	josserand1983mixtec	NA
+5174	atat11	caliente	jihní	jihní	172	NA	NA	NA	alexander1980gramatica	[B]
 17468	aten11	caliente	ʔi̧ʔni̧	ʔi̧ʔni̧	172	NA	NA	NA	josserand1983mixtec	NA
 17469	atoy11	caliente	i̧ʔni̧	i̧ʔni̧	172	NA	NA	NA	josserand1983mixtec	NA
 849	ayut11	hot	ihnīh	ihnīh	172	NA	NA	NA	hills1990syntactic	NA
@@ -17303,7 +17302,6 @@ ID	DOCULECT	GLOSS	VALUE	FORM	IDlist	NOTES	LOAN	LOAN_SOURCE	SOURCE	FLOATTONE
 1111	alac11	big.SG	káhnō	káhnō	173	NA	NA	NA	zylstra1991syntactic	NA
 17555	alac11	grande (sg.)	katno̧	katno̧	173	NA	NA	NA	josserand1983mixtec	NA
 17554	alac11	grande (sg.)	kaʔno̧	kaʔno̧	173	NA	NA	NA	josserand1983mixtec	NA
-5175	alac11	grande.SG	cáhnu	cáhnu	173	NA	NA	NA	alexander1980gramatica	[A]
 17556	alco11	grande (sg.)	kaʔnu̧	kaʔnu̧	173	NA	NA	NA	josserand1983mixtec	NA
 5839	alco11	grande	ka⁴Ɂnu³	ka⁴Ɂnu³	173	NA	NA	NA	swanton2020observaciones	NA
 17557	amat11	grande (sg.)	kaʔnu̧	kaʔnu̧	173	NA	NA	NA	josserand1983mixtec	NA
@@ -17311,6 +17309,7 @@ ID	DOCULECT	GLOSS	VALUE	FORM	IDlist	NOTES	LOAN	LOAN_SOURCE	SOURCE	FLOATTONE
 17559	apoa11	grande (sg.)	kaʔnu̧	kaʔnu̧	173	NA	NA	NA	josserand1983mixtec	NA
 2823	atat11	big.SG	káʔnū	káʔnū	173	NA	NA	NA	durr1987preliminary	NA
 17560	atat11	grande (sg.)	káʔnu̧	káʔnu̧	173	NA	NA	NA	josserand1983mixtec	NA
+5175	atat11	grande.SG	cáhnu	cáhnu	173	NA	NA	NA	alexander1980gramatica	[A]
 17561	aten11	grande (sg.)	kaʔnu̧	kaʔnu̧	173	NA	NA	NA	josserand1983mixtec	NA
 17562	atoy11	grande (sg.)	kaʔnu̧	kaʔnu̧	173	NA	NA	NA	josserand1983mixtec	NA
 850	ayut11	big.SG	chīe	chīe	173	NA	NA	NA	hills1990syntactic	NA
@@ -17469,7 +17468,7 @@ ID	DOCULECT	GLOSS	VALUE	FORM	IDlist	NOTES	LOAN	LOAN_SOURCE	SOURCE	FLOATTONE
 17666	zapo11	grande (sg.)	kaʔno̧	kaʔno̧	173	NA	NA	NA	josserand1983mixtec	NA
 4643	alac11	grande.PL	ná’no	ná’no	174	NA	NA	NA	zylstra2012gramatica	NA
 1112	alac11	big.PL	náhnō	náhnō	174	NA	NA	NA	zylstra1991syntactic	NA
-5176	alac11	grande.PL	náhnu	náhnu	174	NA	NA	NA	alexander1980gramatica	[A]
+5176	atat11	grande.PL	náhnu	náhnu	174	NA	NA	NA	alexander1980gramatica	[A]
 851	ayut11	big.PL	nāhnūh	nāhnūh	174	NA	NA	NA	hills1990syntactic	NA
 4114	chay11	grande.PL	nahnu	nahnu	174	NA	NA	NA	pensinger1974diccionario	NA
 981	coat11	big.PL	nahnu	nahnu	174	NA	NA	NA	small1990syntactic	NA
@@ -17499,7 +17498,6 @@ ID	DOCULECT	GLOSS	VALUE	FORM	IDlist	NOTES	LOAN	LOAN_SOURCE	SOURCE	FLOATTONE
 1113	alac11	little.SG	lōhō	lōhō	175	NA	NA	NA	zylstra1991syntactic	NA
 17672	alac11	chico	loʔo	loʔo	175	NA	NA	NA	josserand1983mixtec	NA
 17673	alac11	chico	válí	válí	175	NA	NA	NA	josserand1983mixtec	NA
-5177	alac11	chico.SG	lulí	lulí	175	NA	NA	NA	alexander1980gramatica	[B]
 17674	alco11	chico	loʔo	loʔo	175	NA	NA	NA	josserand1983mixtec	NA
 17675	amat11	chico	loʔo	loʔo	175	NA	NA	NA	josserand1983mixtec	NA
 17676	apas11	chico	luči	luči	175	NA	NA	NA	josserand1983mixtec	NA
@@ -17507,6 +17505,7 @@ ID	DOCULECT	GLOSS	VALUE	FORM	IDlist	NOTES	LOAN	LOAN_SOURCE	SOURCE	FLOATTONE
 17677	apoa11	chico	žiki	žiki	175	NA	NA	NA	josserand1983mixtec	NA
 2836	atat11	little.SG	lùlí	lùlí	175	NA	NA	NA	durr1987preliminary	NA
 17679	atat11	chico	lúlí	lúlí	175	NA	NA	NA	josserand1983mixtec	NA
+5177	atat11	chico.SG	lulí	lulí	175	NA	NA	NA	alexander1980gramatica	[B]
 17680	aten11	chico	loʔo	loʔo	175	NA	NA	NA	josserand1983mixtec	NA
 17681	atoy11	chico	luʔu	luʔu	175	NA	NA	NA	josserand1983mixtec	NA
 852	ayut11	small.SG	lūlū	lūlū	175	NA	NA	NA	hills1990syntactic	NA
@@ -17722,8 +17721,8 @@ ID	DOCULECT	GLOSS	VALUE	FORM	IDlist	NOTES	LOAN	LOAN_SOURCE	SOURCE	FLOATTONE
 4647	alac11	largo.SG	káni̠	káni̠	177	NA	NA	NA	zylstra2012gramatica	NA
 1116	alac11	long.SG	kánī	kánī	177	NA	NA	NA	zylstra1991syntactic	NA
 2861	alac11	long.SG	kánì	kánì	177	NA	NA	NA	durr1987preliminary	NA
-5178	alac11	largo.SG	cáni	cáni	177	NA	NA	NA	alexander1980gramatica	[A]
 2857	atat11	long.SG	kánī	kánī	177	NA	NA	NA	durr1987preliminary	NA
+5178	atat11	largo.SG	cáni	cáni	177	NA	NA	NA	alexander1980gramatica	[A]
 855	ayut11	long.SG	kānih	kānih	177	NA	NA	NA	hills1990syntactic	NA
 2860	ayut11	long.SG	kánìʔ	kánìʔ	177	NA	NA	NA	durr1987preliminary	NA
 2859	caca11	long.SG	kánì̧	kánì̧	177	NA	NA	NA	durr1987preliminary	NA
@@ -17766,7 +17765,7 @@ ID	DOCULECT	GLOSS	VALUE	FORM	IDlist	NOTES	LOAN	LOAN_SOURCE	SOURCE	FLOATTONE
 4470	zaca11	largo.SG	kani	kani	177	NA	NA	NA	towne2011gramatica	NA
 4648	alac11	largo.PL	náni̠	náni̠	178	NA	NA	NA	zylstra2012gramatica	NA
 1117	alac11	long.PL	nánī	nánī	178	NA	NA	NA	zylstra1991syntactic	NA
-5179	alac11	largo.PL	náni	náni	178	NA	NA	NA	alexander1980gramatica	[A]
+5179	atat11	largo.PL	náni	náni	178	NA	NA	NA	alexander1980gramatica	[A]
 856	ayut11	long.PL	nānih	nānih	178	NA	NA	NA	hills1990syntactic	NA
 4117	chay11	largo.PL	nañi	nañi	178	NA	NA	NA	pensinger1974diccionario	NA
 985	coat11	long.PL	nani	nani	178	NA	NA	NA	small1990syntactic	NA
@@ -17795,12 +17794,12 @@ ID	DOCULECT	GLOSS	VALUE	FORM	IDlist	NOTES	LOAN	LOAN_SOURCE	SOURCE	FLOATTONE
 2873	alac11	good	ƀàʔā	ƀàʔā	179	NA	NA	NA	durr1987preliminary	NA
 17802	alac11	bueno	ƀàʔa	ƀàʔa	179	NA	NA	NA	josserand1983mixtec	NA
 17801	alac11	bueno	wàʔa	wàʔa	179	NA	NA	NA	josserand1983mixtec	NA
-5180	alac11	bueno	vāha	vāha	179	NA	NA	NA	alexander1980gramatica	[A]
 17803	alco11	bueno	waʔa	waʔa	179	NA	NA	NA	josserand1983mixtec	NA
 17804	apas11	bueno	waʔa	waʔa	179	NA	NA	NA	josserand1983mixtec	NA
 17805	apoa11	bueno	waʔa	waʔa	179	NA	NA	NA	josserand1983mixtec	NA
 2868	atat11	good	ƀàʔā	ƀàʔā	179	NA	NA	NA	durr1987preliminary	NA
 17806	atat11	bueno	ƀāʔa	ƀāʔa	179	NA	NA	NA	josserand1983mixtec	NA
+5180	atat11	bueno	vāha	vāha	179	NA	NA	NA	alexander1980gramatica	[A]
 17807	aten11	bueno	ƀaʔa	ƀaʔa	179	NA	NA	NA	josserand1983mixtec	NA
 17808	atoy11	bueno	waʔa	waʔa	179	NA	NA	NA	josserand1983mixtec	NA
 857	ayut11	good	vaha	vaha	179	NA	NA	NA	hills1990syntactic	NA
@@ -18097,11 +18096,11 @@ ID	DOCULECT	GLOSS	VALUE	FORM	IDlist	NOTES	LOAN	LOAN_SOURCE	SOURCE	FLOATTONE
 18007	achi11	salado	uʔwa	uʔwa	181	NA	NA	NA	josserand1983mixtec	NA
 18008	ahue11	salado	ʔoʔva	ʔoʔva	181	NA	NA	NA	josserand1983mixtec	NA
 4651	alac11	salado	yo̠’va̠	yo̠’va̠	181	NA	NA	NA	zylstra2012gramatica	NA
-5181	alac11	salado	ñɨ́ɨ́	ñɨ́ɨ́	181	NA	NA	NA	alexander1980gramatica	[C]
 18009	alco11	salado	(ña̧)-uʔwa	ña̧-uʔwa	181	NA	NA	NA	josserand1983mixtec	NA
 18010	apas11	salado	ađa	ađa	181	NA	NA	NA	josserand1983mixtec	NA
 18011	apoa11	salado	sa-ñi̧i̧	sa-ñi̧i̧	181	NA	NA	NA	josserand1983mixtec	NA
 18012	atat11	salado	uʔvā	uʔvā	181	NA	NA	NA	josserand1983mixtec	NA
+5181	atat11	salado	ñɨ́ɨ́	ñɨ́ɨ́	181	NA	NA	NA	alexander1980gramatica	[C]
 18013	aten11	salado	ʔiʔʸa	ʔiʔʸa	181	NA	NA	NA	josserand1983mixtec	NA
 18014	atoy11	salado	uʔwa	uʔwa	181	NA	NA	NA	josserand1983mixtec	NA
 18015	ayut11	salado	ūʔva	ūʔva	181	NA	NA	NA	josserand1983mixtec	NA
@@ -18123,8 +18122,8 @@ ID	DOCULECT	GLOSS	VALUE	FORM	IDlist	NOTES	LOAN	LOAN_SOURCE	SOURCE	FLOATTONE
 18027	colo11	salado	uʔƀa	uʔƀa	181	NA	NA	NA	josserand1983mixtec	NA
 18028	coso11	salado	uʔa	uʔa	181	NA	NA	NA	josserand1983mixtec	NA
 18029	cuat11	salado	yoʔwa	yoʔwa	181	NA	NA	NA	josserand1983mixtec	NA
-18031	cuau11	espeso	uʔwe	uʔwe	181	NA	NA	NA	josserand1983mixtec	NA
 18030	cuau11	salado	ñȩ-ñɨ̧ɨ̧	ñȩ-ñɨ̧ɨ̧	181	NA	NA	NA	josserand1983mixtec	NA
+18031	cuau11	espeso	uʔwe	uʔwe	181	NA	NA	NA	josserand1983mixtec	NA
 18032	cuil11	salado	uʔa	uʔa	181	NA	NA	NA	josserand1983mixtec	NA
 18033	cuya11	salado	ñȩ-ñɨ̧ɨ̧	ñȩ-ñɨ̧ɨ̧	181	NA	NA	NA	josserand1983mixtec	NA
 18034	cuya11	salado	uʔwe	uʔwe	181	NA	NA	NA	josserand1983mixtec	NA
@@ -18327,11 +18326,11 @@ ID	DOCULECT	GLOSS	VALUE	FORM	IDlist	NOTES	LOAN	LOAN_SOURCE	SOURCE	FLOATTONE
 18185	ahue11	sabroso	ʔaθi	ʔaθi	183	NA	NA	NA	josserand1983mixtec	NA
 4653	alac11	sabroso	ya̠si̠n	ya̠si̠n	183	NA	NA	NA	anderson2006vocabulario	NA
 18186	alac11	sabroso	yàsì̧	yàsì̧	183	NA	NA	NA	josserand1983mixtec	NA
-5182	alac11	sabroso	asɨ̄n	asɨ̄n	183	NA	NA	NA	alexander1980gramatica	[C]
 18187	alco11	sabroso	yasi̧	yasi̧	183	NA	NA	NA	josserand1983mixtec	NA
 18188	apas11	sabroso	ađi	ađi	183	NA	NA	NA	josserand1983mixtec	NA
 18189	apoa11	sabroso	ađi	ađi	183	NA	NA	NA	josserand1983mixtec	NA
 18190	atat11	sabroso	asɨ̧̄	asɨ̧̄	183	NA	NA	NA	josserand1983mixtec	NA
+5182	atat11	sabroso	asɨ̄n	asɨ̄n	183	NA	NA	NA	alexander1980gramatica	[C]
 18191	aten11	sabroso	ʔahi̧	ʔahi̧	183	NA	NA	NA	josserand1983mixtec	NA
 18192	atoy11	sabroso	asi̧	asi̧	183	NA	NA	NA	josserand1983mixtec	NA
 859	ayut11	delicious	āsinh	āsinh	183	NA	NA	NA	hills1990syntactic	NA
@@ -18501,58 +18500,58 @@ ID	DOCULECT	GLOSS	VALUE	FORM	IDlist	NOTES	LOAN	LOAN_SOURCE	SOURCE	FLOATTONE
 20761	yucu17	new	tsaâ	tsaâ	185	NA	NA	NA	salazar2020yucunani	NA
 20973	yuta13	nuevo	sa̠á	sa̠á	185	NA	NA	NA	williams2017diccionario	NA
 4475	zaca11	nuevo	chaa	chaa	185	NA	NA	NA	towne2011gramatica	NA
-18271	acat11	floja	taya	taya	186	NA	NA	NA	josserand1983mixtec	NA
 18270	acat11	flojo	susa̧	susa̧	186	NA	NA	NA	josserand1983mixtec	NA
-18273	achi11	floja	ni̧-taža	ni̧-taža	186	NA	NA	NA	josserand1983mixtec	NA
+18271	acat11	floja	taya	taya	186	NA	NA	NA	josserand1983mixtec	NA
 18272	achi11	flojo	kuši	kuši	186	NA	NA	NA	josserand1983mixtec	NA
+18273	achi11	floja	ni̧-taža	ni̧-taža	186	NA	NA	NA	josserand1983mixtec	NA
 18274	adeq11	flojo	đusa̧(sa̧)	đusa̧sa̧	186	NA	NA	NA	josserand1983mixtec	NA
 18276	ahue11	floja	na̧-taži	na̧-taži	186	NA	NA	NA	josserand1983mixtec	NA
 18275	ahue11	flojo	šuša	šuša	186	NA	NA	NA	josserand1983mixtec	NA
 4655	alac11	flojo	xúxán	xúxán	186	NA	NA	NA	zylstra2012gramatica	NA
 18277	alac11	flojo	šúšá̧	šúšá̧	186	NA	NA	NA	josserand1983mixtec	NA
-18279	alco11	floja	taya	taya	186	NA	NA	NA	josserand1983mixtec	NA
 18278	alco11	flojo	šuša̧	šuša̧	186	NA	NA	NA	josserand1983mixtec	NA
+18279	alco11	floja	taya	taya	186	NA	NA	NA	josserand1983mixtec	NA
 5844	alco11	flojo	ʃu⁴ʃã³	ʃu⁴ʃã³	186	NA	NA	NA	swanton2020observaciones	NA
-18281	apas11	floja	taya	taya	186	NA	NA	NA	josserand1983mixtec	NA
 18280	apas11	flojo	đusa	đusa	186	NA	NA	NA	josserand1983mixtec	NA
-18283	apoa11	floja	taya	taya	186	NA	NA	NA	josserand1983mixtec	NA
+18281	apas11	floja	taya	taya	186	NA	NA	NA	josserand1983mixtec	NA
 18282	apoa11	flojo	đusa	đusa	186	NA	NA	NA	josserand1983mixtec	NA
-18285	atat11	floja	taʔya	taʔya	186	NA	NA	NA	josserand1983mixtec	NA
+18283	apoa11	floja	taya	taya	186	NA	NA	NA	josserand1983mixtec	NA
 18284	atat11	flojo	kúxí	kúxí	186	NA	NA	NA	josserand1983mixtec	NA
+18285	atat11	floja	taʔya	taʔya	186	NA	NA	NA	josserand1983mixtec	NA
 18287	aten11	floja	tai	tai	186	NA	NA	NA	josserand1983mixtec	NA
 18286	aten11	flojo	tì-hùsá	tì-hùsá	186	NA	NA	NA	josserand1983mixtec	NA
-18289	atoy11	floja	taya	taya	186	NA	NA	NA	josserand1983mixtec	NA
 18288	atoy11	flojo	huča̧	huča̧	186	NA	NA	NA	josserand1983mixtec	NA
+18289	atoy11	floja	taya	taya	186	NA	NA	NA	josserand1983mixtec	NA
 862	ayut11	lazy	sūshānh	sūshānh	186	NA	NA	NA	hills1990syntactic	NA
-18291	ayut11	floja	taya	taya	186	NA	NA	NA	josserand1983mixtec	NA
 18290	ayut11	flojo	suša̧ʔ	suša̧ʔ	186	NA	NA	NA	josserand1983mixtec	NA
-18293	brav11	floja	taya	taya	186	NA	NA	NA	josserand1983mixtec	NA
+18291	ayut11	floja	taya	taya	186	NA	NA	NA	josserand1983mixtec	NA
 18292	brav11	flojo	šuša̧	šuša̧	186	NA	NA	NA	josserand1983mixtec	NA
-18295	caca11	floja	na̧-tei	na̧-tei	186	NA	NA	NA	josserand1983mixtec	NA
+18293	brav11	floja	taya	taya	186	NA	NA	NA	josserand1983mixtec	NA
 18294	caca11	flojo	đüsa	đüsa	186	NA	NA	NA	josserand1983mixtec	NA
-18297	cahu11	floja	taya	taya	186	NA	NA	NA	josserand1983mixtec	NA
+18295	caca11	floja	na̧-tei	na̧-tei	186	NA	NA	NA	josserand1983mixtec	NA
 18296	cahu11	flojo	šu̧ša̧	šu̧ša̧	186	NA	NA	NA	josserand1983mixtec	NA
-18299	chal11	floja	taʔža	taʔža	186	NA	NA	NA	josserand1983mixtec	NA
+18297	cahu11	floja	taya	taya	186	NA	NA	NA	josserand1983mixtec	NA
 18298	chal11	flojo	kuṣ̌i	kuṣ̌i	186	NA	NA	NA	josserand1983mixtec	NA
+18299	chal11	floja	taʔža	taʔža	186	NA	NA	NA	josserand1983mixtec	NA
 5846	chal11	flojo	θy³sa³	θy³sa³	186	NA	NA	NA	swanton2020observaciones	NA
 4125	chay11	flojo, perezoso, vago	susa	susa	186	NA	NA	NA	pensinger1974diccionario	NA
 4126	chay11	flojo (de cosas)	taya	taya	186	NA	NA	NA	pensinger1974diccionario	NA
-18301	chay11	floja	taya	taya	186	NA	NA	NA	josserand1983mixtec	NA
 18300	chay11	flojo	suča̧	suča̧	186	NA	NA	NA	josserand1983mixtec	NA
+18301	chay11	floja	taya	taya	186	NA	NA	NA	josserand1983mixtec	NA
 18303	chaz11	floja	đaya	đaya	186	NA	NA	NA	josserand1983mixtec	NA
 18302	chaz11	flojo	đusa	đusa	186	NA	NA	NA	josserand1983mixtec	NA
 1804	chic02	flojo	Rrumii	rrumii	186	NA	NA	NA	belmar1897ensayo	NA
-18305	chic11	floja	taya	taya	186	NA	NA	NA	josserand1983mixtec	NA
 18304	chic11	flojo	đusa	đusa	186	NA	NA	NA	josserand1983mixtec	NA
+18305	chic11	floja	taya	taya	186	NA	NA	NA	josserand1983mixtec	NA
 6094	chic12	flojo	rumi⁵³	rumi⁵³	186	NA	NA	NA	good1978diccionario	NA
 21190	chic12	flojo	ru²mi¹	ru²mi¹	186	NA	NA	NA	hernandez-mendoza2020vocabulario	NA
-18307	chig11	floja	na̧-đaya	na̧-đaya	186	NA	NA	NA	josserand1983mixtec	NA
 18306	chig11	flojo	đuš̭a̧	đuš̭a̧	186	NA	NA	NA	josserand1983mixtec	NA
+18307	chig11	floja	na̧-đaya	na̧-đaya	186	NA	NA	NA	josserand1983mixtec	NA
 987	coat11	lazy, bothersome	duhshēn	duhshēn	186	NA	NA	NA	small1990syntactic	NA
-18309	coat11	floja	taša	taša	186	NA	NA	NA	josserand1983mixtec	NA
 18308	coat11	flojo	(ña̧)đušȩ	ña̧đušȩ	186	NA	NA	NA	josserand1983mixtec	NA
-18311	coic11	floja	taši	taši	186	NA	NA	NA	josserand1983mixtec	NA
+18309	coat11	floja	taša	taša	186	NA	NA	NA	josserand1983mixtec	NA
 18310	coic11	flojo	na-šuša̧	na-šuša̧	186	NA	NA	NA	josserand1983mixtec	NA
+18311	coic11	floja	taši	taši	186	NA	NA	NA	josserand1983mixtec	NA
 4338	colo11	flojo, perezoso	jutsan	jutsan	186	NA	NA	NA	stark1986diccionario	NA
 18313	colo11	floja	taya	taya	186	NA	NA	NA	josserand1983mixtec	NA
 18312	colo11	flojo	uča̧	uča̧	186	NA	NA	NA	josserand1983mixtec	NA
@@ -18561,110 +18560,110 @@ ID	DOCULECT	GLOSS	VALUE	FORM	IDlist	NOTES	LOAN	LOAN_SOURCE	SOURCE	FLOATTONE
 18315	coso11	floja	đaya	đaya	186	NA	NA	NA	josserand1983mixtec	NA
 18314	coso11	flojo	đusa̧	đusa̧	186	NA	NA	NA	josserand1983mixtec	NA
 18316	coxc11	flojo	đusa	đusa	186	NA	NA	NA	josserand1983mixtec	NA
-18318	cuat11	floja	taya	taya	186	NA	NA	NA	josserand1983mixtec	NA
 18317	cuat11	flojo	šuša	šuša	186	NA	NA	NA	josserand1983mixtec	NA
-18321	cuau11	floja	taya	taya	186	NA	NA	NA	josserand1983mixtec	NA
+18318	cuat11	floja	taya	taya	186	NA	NA	NA	josserand1983mixtec	NA
 18320	cuau11	flojo	đu̧Ññȩ	đu̧Ññȩ	186	NA	NA	NA	josserand1983mixtec	NA
 18319	cuau11	flojo	đuxʸȩ	đuxʸȩ	186	NA	NA	NA	josserand1983mixtec	NA
-18323	cuya11	floja	na̧-taya	na̧-taya	186	NA	NA	NA	josserand1983mixtec	NA
+18321	cuau11	floja	taya	taya	186	NA	NA	NA	josserand1983mixtec	NA
 18322	cuya11	flojo	đuÑñȩ	đuÑñȩ	186	NA	NA	NA	josserand1983mixtec	NA
+18323	cuya11	floja	na̧-taya	na̧-taya	186	NA	NA	NA	josserand1983mixtec	NA
 1266	diux11	lazy	kúðí	kúðí	186	not basic tones	NA	NA	kuiper1991syntactic	NA
 20289	dura11	flojo	kúshí	kúshí	186	NA	NA	NA	hernandez2020san-martin	NA
-18325	dura11	floja	taža	taža	186	NA	NA	NA	josserand1983mixtec	NA
 18324	dura11	flojo	ku-šuša̧	ku-šuša̧	186	NA	NA	NA	josserand1983mixtec	NA
+18325	dura11	floja	taža	taža	186	NA	NA	NA	josserand1983mixtec	NA
 18327	esta11	floja	na̧-taya	na̧-taya	186	NA	NA	NA	josserand1983mixtec	NA
 18326	esta11	flojo	θüsa	θüsa	186	NA	NA	NA	josserand1983mixtec	NA
 18329	este11	floja	ⁿda-taža	ⁿda-taža	186	NA	NA	NA	josserand1983mixtec	NA
 18328	este11	flojo	ña̧-ku̧ʔⁿdu	ña̧-ku̧ʔⁿdu	186	NA	NA	NA	josserand1983mixtec	NA
 3842	flor12	flojo	xúxan	xúxan	186	NA	NA	NA	oxnard2020	NA
-18331	gran11	floja	taʔža	taʔža	186	NA	NA	NA	josserand1983mixtec	NA
 18330	gran11	flojo	kúší	kúší	186	NA	NA	NA	josserand1983mixtec	NA
-18333	guad11	floja	tai	tai	186	NA	NA	NA	josserand1983mixtec	NA
+18331	gran11	floja	taʔža	taʔža	186	NA	NA	NA	josserand1983mixtec	NA
 18332	guad11	flojo	đusa	đusa	186	NA	NA	NA	josserand1983mixtec	NA
-18335	huaz11	floja	taya	taya	186	NA	NA	NA	josserand1983mixtec	NA
+18333	guad11	floja	tai	tai	186	NA	NA	NA	josserand1983mixtec	NA
 18334	huaz11	flojo	suča̧	suča̧	186	NA	NA	NA	josserand1983mixtec	NA
+18335	huaz11	floja	taya	taya	186	NA	NA	NA	josserand1983mixtec	NA
 20456	huen11	flojo	kúxì	kúxì	186	NA	NA	NA	becerra-roldan2015un-estudio	NA
 18337	huit11	floja	đa-taža	đa-taža	186	NA	NA	NA	josserand1983mixtec	NA
 18336	huit11	flojo	đuxʸe	đuxʸe	186	NA	NA	NA	josserand1983mixtec	NA
-18340	itun11	floja	taya	taya	186	NA	NA	NA	josserand1983mixtec	NA
 18338	itun11	flojo	kuṣ̌i	kuṣ̌i	186	NA	NA	NA	josserand1983mixtec	NA
+18340	itun11	floja	taya	taya	186	NA	NA	NA	josserand1983mixtec	NA
 18339	itun11	flojo	taya	taya	186	NA	NA	NA	josserand1983mixtec	NA
-18342	ixpa11	floja	taža	taža	186	NA	NA	NA	josserand1983mixtec	NA
 18341	ixpa11	flojo	ku-husa	ku-husa	186	NA	NA	NA	josserand1983mixtec	NA
+18342	ixpa11	floja	taža	taža	186	NA	NA	NA	josserand1983mixtec	NA
+18343	ixta11	flojo	suča̧	suča̧	186	NA	NA	NA	josserand1983mixtec	NA
 18344	ixta11	floja	taya	taya	186	NA	NA	NA	josserand1983mixtec	NA
 18345	ixta11	floja	yaʔla	yaʔla	186	NA	NA	NA	josserand1983mixtec	NA
-18343	ixta11	flojo	suča̧	suča̧	186	NA	NA	NA	josserand1983mixtec	NA
-18347	ixta12	floja	taya	taya	186	NA	NA	NA	josserand1983mixtec	NA
 18346	ixta12	flojo	đusa	đusa	186	NA	NA	NA	josserand1983mixtec	NA
+18347	ixta12	floja	taya	taya	186	NA	NA	NA	josserand1983mixtec	NA
 477	jami11	lazy	sūchān	sūchān	186	NA	NA	NA	johnson1988syntactic	NA
-18349	jami11	floja	taya	taya	186	NA	NA	NA	josserand1983mixtec	NA
 18348	jami11	flojo	suča	suča	186	NA	NA	NA	josserand1983mixtec	NA
-18351	jica11	floja	taya	taya	186	NA	NA	NA	josserand1983mixtec	NA
+18349	jami11	floja	taya	taya	186	NA	NA	NA	josserand1983mixtec	NA
 18350	jica11	flojo	suča̧	suča̧	186	NA	NA	NA	josserand1983mixtec	NA
-18353	jica12	floja	taya	taya	186	NA	NA	NA	josserand1983mixtec	NA
+18351	jica11	floja	taya	taya	186	NA	NA	NA	josserand1983mixtec	NA
 18352	jica12	flojo	suča̧	suča̧	186	NA	NA	NA	josserand1983mixtec	NA
+18353	jica12	floja	taya	taya	186	NA	NA	NA	josserand1983mixtec	NA
 6312	jica13	flojo	xúxan	xúxan	186	NA	NA	NA	Emily John-Martin	NA
-18355	joco11	floja	taya	taya	186	NA	NA	NA	josserand1983mixtec	NA
 18354	joco11	flojo	đusa	đusa	186	NA	NA	NA	josserand1983mixtec	NA
-18357	juxt11	floja	taža	taža	186	NA	NA	NA	josserand1983mixtec	NA
+18355	joco11	floja	taya	taya	186	NA	NA	NA	josserand1983mixtec	NA
 18356	juxt11	flojo	kuši	kuši	186	NA	NA	NA	josserand1983mixtec	NA
-18359	lore11	floja	taya	taya	186	NA	NA	NA	josserand1983mixtec	NA
+18357	juxt11	floja	taža	taža	186	NA	NA	NA	josserand1983mixtec	NA
 18358	lore11	flojo	suča	suča	186	NA	NA	NA	josserand1983mixtec	NA
-18361	mech11	floja	taya	taya	186	NA	NA	NA	josserand1983mixtec	NA
+18359	lore11	floja	taya	taya	186	NA	NA	NA	josserand1983mixtec	NA
 18360	mech11	flojo	suča̧	suča̧	186	NA	NA	NA	josserand1983mixtec	NA
+18361	mech11	floja	taya	taya	186	NA	NA	NA	josserand1983mixtec	NA
 18362	metl11	flojo	šúšá̧	šúšá̧	186	NA	NA	NA	josserand1983mixtec	NA
-18365	mixt11	floja	taya	taya	186	NA	NA	NA	josserand1983mixtec	NA
 18363	mixt11	flojo	ku-kuši	ku-kuši	186	NA	NA	NA	josserand1983mixtec	NA
 18364	mixt11	flojo	ⁿdi-kuʔⁿdu	ⁿdi-kuʔⁿdu	186	NA	NA	NA	josserand1983mixtec	NA
+18365	mixt11	floja	taya	taya	186	NA	NA	NA	josserand1983mixtec	NA
 3844	mixt11	flojo	kukuxà	ku-kuxà	186	NA	NA	NA	oxnard2020	NA
 18366	moli11	flojo	kuši	kuši	186	NA	NA	NA	josserand1983mixtec	NA
 3843	mont12	flojo	júsá	júsá	186	NA	NA	NA	oxnard2020	NA
-18368	mont13	floja	taya	taya	186	NA	NA	NA	josserand1983mixtec	NA
 18367	mont13	flojo	kuši	kuši	186	NA	NA	NA	josserand1983mixtec	NA
+18368	mont13	floja	taya	taya	186	NA	NA	NA	josserand1983mixtec	NA
 18369	mont14	flojo	đu̧sa̧	đu̧sa̧	186	NA	NA	NA	josserand1983mixtec	NA
 18371	more11	floja	na-yaya-tu	na-yaya-tu	186	NA	NA	NA	josserand1983mixtec	NA
 18370	more11	flojo	šuša	šuša	186	NA	NA	NA	josserand1983mixtec	NA
-18373	nuch11	floja	taži	taži	186	NA	NA	NA	josserand1983mixtec	NA
 18372	nuch11	flojo	husa	husa	186	NA	NA	NA	josserand1983mixtec	NA
-18375	nuxa11	floja	taža	taža	186	NA	NA	NA	josserand1983mixtec	NA
+18373	nuch11	floja	taži	taži	186	NA	NA	NA	josserand1983mixtec	NA
 18374	nuxa11	flojo	đušȩ	đušȩ	186	NA	NA	NA	josserand1983mixtec	NA
+18375	nuxa11	floja	taža	taža	186	NA	NA	NA	josserand1983mixtec	NA
 18376	nuxi11	floja	ni̧-taya-ši	ni̧-taya-ši	186	NA	NA	NA	josserand1983mixtec	NA
-18378	nuyo11	floja	tāžā	tāžā	186	NA	NA	NA	josserand1983mixtec	NA
 18377	nuyo11	flojo	kuši	kuši	186	NA	NA	NA	josserand1983mixtec	NA
+18378	nuyo11	floja	tāžā	tāžā	186	NA	NA	NA	josserand1983mixtec	NA
 597	ocot11	lazy	kū-kúshí 	kúshí	186	only as part of a verb ‘be lazy’	NA	NA	alexander1988syntactic	NA
-18380	ocot11	floja	taža	taža	186	NA	NA	NA	josserand1983mixtec	NA
 18379	ocot11	flojo	kúší	kúší	186	NA	NA	NA	josserand1983mixtec	NA
+18380	ocot11	floja	taža	taža	186	NA	NA	NA	josserand1983mixtec	NA
 5389	papa11	flojo	d’a⁴nd’i⁴	d’a⁴nd’i⁴	186	NA	NA	NA	anderson1983diccionario	NA
 5055	pena11	flojo, perezoso	kúxí	kúxí	186	NA	NA	NA	hollenbach2017diccionario	[A]
 5056	pena11	flojo (una cosa amarrado)	ta’ya	ta’ya	186	NA	NA	NA	hollenbach2017diccionario	
 18381	pena12	floja	taža	taža	186	NA	NA	NA	josserand1983mixtec	NA
-18383	peno11	floja	ta̧ža̧	ta̧ža̧	186	NA	NA	NA	josserand1983mixtec	NA
 18382	peno11	flojo	kùʔù-ⁿdùù	kùʔù-ⁿdùù	186	NA	NA	NA	josserand1983mixtec	NA
-18385	pied11	floja	taža	taža	186	NA	NA	NA	josserand1983mixtec	NA
+18383	peno11	floja	ta̧ža̧	ta̧ža̧	186	NA	NA	NA	josserand1983mixtec	NA
 18384	pied11	flojo	đu̧ñȩ	đu̧ñȩ	186	NA	NA	NA	josserand1983mixtec	NA
+18385	pied11	floja	taža	taža	186	NA	NA	NA	josserand1983mixtec	NA
 3841	pied12	flojo	xúxan	xúxan	186	NA	NA	NA	oxnard2020	NA
 18386	pino11	flojo	suča	suča	186	NA	NA	NA	josserand1983mixtec	NA
-18388	pino12	floja	taya	taya	186	NA	NA	NA	josserand1983mixtec	NA
 18387	pino12	flojo	suča	suča	186	NA	NA	NA	josserand1983mixtec	NA
+18388	pino12	floja	taya	taya	186	NA	NA	NA	josserand1983mixtec	NA
 726	prog12	lazy	xúsá	xúsá	186	NA	NA	NA	shields1988syntactic	NA
-18390	prom01	floja	taya	taya	186	NA	NA	NA	josserand1983mixtec	NA
 18389	prom01	flojo	suxȩʔ	suxȩʔ	186	NA	NA	NA	josserand1983mixtec	NA
+18390	prom01	floja	taya	taya	186	NA	NA	NA	josserand1983mixtec	NA
 5843	prom01	flojo	(Ɂ¹)-súxẽ́	Ɂ¹-súxẽ́	186	NA	NA	NA	swanton2020observaciones	NA
-18392	reye11	floja	taža	taža	186	NA	NA	NA	josserand1983mixtec	NA
 18391	reye11	flojo	ku-kuši	ku-kuši	186	NA	NA	NA	josserand1983mixtec	NA
-18394	sayu11	floja	taya	taya	186	NA	NA	NA	josserand1983mixtec	NA
+18392	reye11	floja	taža	taža	186	NA	NA	NA	josserand1983mixtec	NA
 18393	sayu11	flojo	suča	suča	186	NA	NA	NA	josserand1983mixtec	NA
+18394	sayu11	floja	taya	taya	186	NA	NA	NA	josserand1983mixtec	NA
 18396	sind11	floja	ka-taža	ka-taža	186	NA	NA	NA	josserand1983mixtec	NA
 18395	sind11	flojo	na̧-đu̧ñȩ	na̧-đu̧ñȩ	186	NA	NA	NA	josserand1983mixtec	NA
-18398	soya11	floja	taya	taya	186	NA	NA	NA	josserand1983mixtec	NA
 18397	soya11	flojo	đusa	đusa	186	NA	NA	NA	josserand1983mixtec	NA
-18400	tama11	floja	na̧-taža	na̧-taža	186	NA	NA	NA	josserand1983mixtec	NA
+18398	soya11	floja	taya	taya	186	NA	NA	NA	josserand1983mixtec	NA
 18399	tama11	flojo	đuše	đuše	186	NA	NA	NA	josserand1983mixtec	NA
+18400	tama11	floja	na̧-taža	na̧-taža	186	NA	NA	NA	josserand1983mixtec	NA
 18401	tama12	floja	taža	taža	186	NA	NA	NA	josserand1983mixtec	NA
-18403	teco11	floja	taža	taža	186	NA	NA	NA	josserand1983mixtec	NA
 18402	teco11	flojo	kùṣ̌í	kùṣ̌í	186	NA	NA	NA	josserand1983mixtec	NA
-18405	teit11	floja	na̧-taya	na̧-taya	186	NA	NA	NA	josserand1983mixtec	NA
+18403	teco11	floja	taža	taža	186	NA	NA	NA	josserand1983mixtec	NA
 18404	teit11	flojo	ku-điʔi	ku-điʔi	186	NA	NA	NA	josserand1983mixtec	NA
+18405	teit11	floja	na̧-taya	na̧-taya	186	NA	NA	NA	josserand1983mixtec	NA
 5554	tepe03	flojo, perezoso	chidandi	chidandi	186	NA	NA	NA	belmar1902el-cuicateco	NA
 18407	tepe11	floja	đaya	đaya	186	NA	NA	NA	josserand1983mixtec	NA
 18406	tepe11	flojo	đusa̧	đusa̧	186	NA	NA	NA	josserand1983mixtec	NA
@@ -18675,24 +18674,24 @@ ID	DOCULECT	GLOSS	VALUE	FORM	IDlist	NOTES	LOAN	LOAN_SOURCE	SOURCE	FLOATTONE
 2020	tepo01	floxo por neglicencia	tay cudzy	cudzy	186	NA	NA	NA	alvarado1593vocabulario	NA
 2021	tepo01	floxo por neglicencia	tay yevua	yevua	186	NA	NA	NA	alvarado1593vocabulario	NA
 2022	tepo01	floxo por neglicencia	tay taya	taya	186	NA	NA	NA	alvarado1593vocabulario	NA
-18411	tepo11	floja	taya	taya	186	NA	NA	NA	josserand1983mixtec	NA
 18410	tepo11	flojo	đusa	đusa	186	NA	NA	NA	josserand1983mixtec	NA
-18413	tida11	floja	taža	taža	186	NA	NA	NA	josserand1983mixtec	NA
+18411	tepo11	floja	taya	taya	186	NA	NA	NA	josserand1983mixtec	NA
 18412	tida11	flojo	đusa̧	đusa̧	186	NA	NA	NA	josserand1983mixtec	NA
-18415	tila11	floja	taža	taža	186	NA	NA	NA	josserand1983mixtec	NA
+18413	tida11	floja	taža	taža	186	NA	NA	NA	josserand1983mixtec	NA
 18414	tila11	flojo	kuđi	kuđi	186	NA	NA	NA	josserand1983mixtec	NA
-18417	tlac11	floja	taža	taža	186	NA	NA	NA	josserand1983mixtec	NA
+18415	tila11	floja	taža	taža	186	NA	NA	NA	josserand1983mixtec	NA
 18416	tlac11	flojo	kuši	kuši	186	NA	NA	NA	josserand1983mixtec	NA
-18419	tlac12	floja	taža	taža	186	NA	NA	NA	josserand1983mixtec	NA
+18417	tlac11	floja	taža	taža	186	NA	NA	NA	josserand1983mixtec	NA
 18418	tlac12	flojo	kušu	kušu	186	NA	NA	NA	josserand1983mixtec	NA
+18419	tlac12	floja	taža	taža	186	NA	NA	NA	josserand1983mixtec	NA
 3840	tlah11	flojo	xúxan	xúxan	186	NA	NA	NA	oxnard2020	NA
-18421	tlal11	floja	na̧-tna̧ni̧	na̧-tna̧ni̧	186	NA	NA	NA	josserand1983mixtec	NA
 18420	tlal11	flojo	đuṣ̌a	đuṣ̌a	186	NA	NA	NA	josserand1983mixtec	NA
+18421	tlal11	floja	na̧-tna̧ni̧	na̧-tna̧ni̧	186	NA	NA	NA	josserand1983mixtec	NA
 18422	tlaz11	floja	na̧-taža	na̧-taža	186	NA	NA	NA	josserand1983mixtec	NA
 18424	tona11	floja	đaya	đaya	186	NA	NA	NA	josserand1983mixtec	NA
 18423	tona11	flojo	đusa̧	đusa̧	186	NA	NA	NA	josserand1983mixtec	NA
-18426	tutu11	floja	taya	taya	186	NA	NA	NA	josserand1983mixtec	NA
 18425	tutu11	flojo	suča	suča	186	NA	NA	NA	josserand1983mixtec	NA
+18426	tutu11	floja	taya	taya	186	NA	NA	NA	josserand1983mixtec	NA
 18427	xaya11	flojo	đusa̧	đusa̧	186	NA	NA	NA	josserand1983mixtec	NA
 18429	xaya12	floja	đaya	đaya	186	NA	NA	NA	josserand1983mixtec	NA
 18428	xaya12	flojo	đūsā̧	đūsā̧	186	NA	NA	NA	josserand1983mixtec	NA
@@ -18700,21 +18699,21 @@ ID	DOCULECT	GLOSS	VALUE	FORM	IDlist	NOTES	LOAN	LOAN_SOURCE	SOURCE	FLOATTONE
 4828	xoch11	flojo de cosa	taya	taya	186	NA	NA	NA	stark2013diccionario	NA
 18430	yolo11	flojo	ⁿdɨ-kuši	ⁿdɨ-kuši	186	NA	NA	NA	josserand1983mixtec	NA
 351	yolo11	flojo	xu⁴xan³	xu⁴xan³	186	NA	NA	NA	amith2020yoloxochitl	NA
-18432	yolo12	floja	taya	taya	186	NA	NA	NA	josserand1983mixtec	NA
 18431	yolo12	flojo	ṣuṣa	ṣuṣa	186	NA	NA	NA	josserand1983mixtec	NA
-18434	yoso11	floja	taʔža	taʔža	186	NA	NA	NA	josserand1983mixtec	NA
+18432	yolo12	floja	taya	taya	186	NA	NA	NA	josserand1983mixtec	NA
 18433	yoso11	flojo	kuši	kuši	186	NA	NA	NA	josserand1983mixtec	NA
+18434	yoso11	floja	taʔža	taʔža	186	NA	NA	NA	josserand1983mixtec	NA
 18435	yucu11	flojo	kuṣ̌i	kuṣ̌i	186	NA	NA	NA	josserand1983mixtec	NA
-18437	yucu12	floja	ⁿda̧nu̧	ⁿda̧nu̧	186	NA	NA	NA	josserand1983mixtec	NA
 18436	yucu12	flojo	kúší	kúší	186	NA	NA	NA	josserand1983mixtec	NA
-18439	yucu13	floja	taža	taža	186	NA	NA	NA	josserand1983mixtec	NA
+18437	yucu12	floja	ⁿda̧nu̧	ⁿda̧nu̧	186	NA	NA	NA	josserand1983mixtec	NA
 18438	yucu13	flojo	ta-kuʔⁿdi	ta-kuʔⁿdi	186	NA	NA	NA	josserand1983mixtec	NA
-18441	yucu15	floja	tāyā	tāyā	186	NA	NA	NA	josserand1983mixtec	NA
+18439	yucu13	floja	taža	taža	186	NA	NA	NA	josserand1983mixtec	NA
 18440	yucu15	flojo	kùší	kùší	186	NA	NA	NA	josserand1983mixtec	NA
+18441	yucu15	floja	tāyā	tāyā	186	NA	NA	NA	josserand1983mixtec	NA
 20762	yucu17	lazy	kú'ntú	kú'ntú	186	NA	NA	NA	salazar2020yucunani	NA
 20974	yuta13	flojo	dúsá	dúsá	186	NA	NA	NA	williams2017diccionario	NA
-18443	zaca11	floja	taya	taya	186	NA	NA	NA	josserand1983mixtec	NA
 18442	zaca11	flojo	suča	suča	186	NA	NA	NA	josserand1983mixtec	NA
+18443	zaca11	floja	taya	taya	186	NA	NA	NA	josserand1983mixtec	NA
 4476	zaca11	flojo	langua	langua	186	NA	NA	NA	towne2011gramatica	NA
 5845	zaca11	flojo	su²ʧã²	su²ʧã²	186	NA	NA	NA	swanton2020observaciones	NA
 18445	zapo11	floja	đaya	đaya	186	NA	NA	NA	josserand1983mixtec	NA
@@ -18727,11 +18726,11 @@ ID	DOCULECT	GLOSS	VALUE	FORM	IDlist	NOTES	LOAN	LOAN_SOURCE	SOURCE	FLOATTONE
 4656	alac11	feo	kini	kini	187	NA	NA	NA	zylstra2012gramatica	NA
 1122	alac11	ugly	kīnī	kīnī	187	NA	NA	NA	zylstra1991syntactic	NA
 18450	alac11	feo	kini̧	kini̧	187	NA	NA	NA	josserand1983mixtec	NA
-5183	alac11	feo, bravo	xeēn	xeēn	187	NA	NA	NA	alexander1980gramatica	[C]
 18451	alco11	feo	kini̧	kini̧	187	NA	NA	NA	josserand1983mixtec	NA
 18452	apas11	feo	kini̧-kaa	kini̧-kaa	187	NA	NA	NA	josserand1983mixtec	NA
 18453	apoa11	feo	kʷiʔya	kʷiʔya	187	NA	NA	NA	josserand1983mixtec	NA
 18454	atat11	feo	kini̧	kini̧	187	NA	NA	NA	josserand1983mixtec	NA
+5183	atat11	feo, bravo	xeēn	xeēn	187	NA	NA	NA	alexander1980gramatica	[C]
 18455	aten11	feo	kini̧	kini̧	187	NA	NA	NA	josserand1983mixtec	NA
 18456	atoy11	feo	kini̧	kini̧	187	NA	NA	NA	josserand1983mixtec	NA
 18457	ayut11	feo	kini̧	kini̧	187	NA	NA	NA	josserand1983mixtec	NA
@@ -18797,8 +18796,8 @@ ID	DOCULECT	GLOSS	VALUE	FORM	IDlist	NOTES	LOAN	LOAN_SOURCE	SOURCE	FLOATTONE
 18502	peno11	feo	nȩ̀ʔȩ̀	nȩ̀ʔȩ̀	187	NA	NA	NA	josserand1983mixtec	NA
 18503	pied11	feo	ⁿdeʔe-kaa	ⁿdeʔe-kaa	187	NA	NA	NA	josserand1983mixtec	NA
 3846	pied12	feo	kini	kini	187	NA	NA	NA	oxnard2020	NA
-18504	pino11	feo	ⁿdasi	ⁿdasi	187	NA	NA	NA	josserand1983mixtec	NA
 18505	pino11	feo (de comportamiento)	kini̧	kini̧	187	NA	NA	NA	josserand1983mixtec	NA
+18504	pino11	feo	ⁿdasi	ⁿdasi	187	NA	NA	NA	josserand1983mixtec	NA
 18507	pino12	feo	kini̧	kini̧	187	NA	NA	NA	josserand1983mixtec	NA
 18506	pino12	feo	ⁿdasɨ	ⁿdasɨ	187	NA	NA	NA	josserand1983mixtec	NA
 727	prog12	ugly	kīnī	kīnī	187	NA	NA	NA	shields1988syntactic	NA
@@ -18835,8 +18834,8 @@ ID	DOCULECT	GLOSS	VALUE	FORM	IDlist	NOTES	LOAN	LOAN_SOURCE	SOURCE	FLOATTONE
 18532	yoso11	feo	kʷeʔe	kʷeʔe	187	NA	NA	NA	josserand1983mixtec	NA
 20574	yoso14	feo	nde’e	nde’e	187	NA	NA	NA	gittlen2016gramatica	NA
 18533	yucu11	feo	ka-kini̧	ka-kini̧	187	NA	NA	NA	josserand1983mixtec	NA
-18535	yucu12	feo (de cosa)	nȩ́ʔí	nȩ́ʔí	187	NA	NA	NA	josserand1983mixtec	NA
 18534	yucu12	feo (de lugar)	kini̧	kini̧	187	NA	NA	NA	josserand1983mixtec	NA
+18535	yucu12	feo (de cosa)	nȩ́ʔí	nȩ́ʔí	187	NA	NA	NA	josserand1983mixtec	NA
 18536	yucu13	feo	kini̧	kini̧	187	NA	NA	NA	josserand1983mixtec	NA
 18537	yucu15	feo	kīnī̧	kīnī̧	187	NA	NA	NA	josserand1983mixtec	NA
 20763	yucu17	ugly	kini	kini	187	NA	NA	NA	salazar2020yucunani	NA
@@ -18877,13 +18876,13 @@ ID	DOCULECT	GLOSS	VALUE	FORM	IDlist	NOTES	LOAN	LOAN_SOURCE	SOURCE	FLOATTONE
 1123	alac11	near	yātin	yātin	189	NA	NA	NA	zylstra1991syntactic	NA
 18545	alac11	está cerca	yati̧	yati̧	189	NA	NA	NA	josserand1983mixtec	NA
 18546	alac11	está cerca	yatni̧	yatni̧	189	NA	NA	NA	josserand1983mixtec	NA
-5184	alac11	cerca de, está cerca	yajni	yajni	189	NA	NA	NA	alexander1980gramatica	[A]
 18547	alco11	está cerca	yati̧	yati̧	189	NA	NA	NA	josserand1983mixtec	NA
 5853	alco11	cerca	ja³ʧĩ³	ja³ʧĩ³	189	NA	NA	NA	swanton2020observaciones	NA
 18548	amat11	está cerca	žači̧	žači̧	189	NA	NA	NA	josserand1983mixtec	NA
 18549	apas11	está cerca	žači	žači	189	NA	NA	NA	josserand1983mixtec	NA
 18550	apoa11	está cerca	yači̧	yači̧	189	NA	NA	NA	josserand1983mixtec	NA
 18551	atat11	está cerca	yaNni̧	yaNni̧	189	NA	NA	NA	josserand1983mixtec	NA
+5184	atat11	cerca de, está cerca	yajni	yajni	189	NA	NA	NA	alexander1980gramatica	[A]
 18552	aten11	está cerca	žati	žati	189	NA	NA	NA	josserand1983mixtec	NA
 18553	atoy11	está cerca	yati̧	yati̧	189	NA	NA	NA	josserand1983mixtec	NA
 863	ayut11	near	yatin	yatin	189	NA	NA	NA	hills1990syntactic	NA
@@ -19020,7 +19019,7 @@ ID	DOCULECT	GLOSS	VALUE	FORM	IDlist	NOTES	LOAN	LOAN_SOURCE	SOURCE	FLOATTONE
 18650	zapo11	está cerca	yači	yači	189	NA	NA	NA	josserand1983mixtec	NA
 4658	alac11	lejos	xíká	xíká	190	NA	NA	NA	zylstra2012gramatica	NA
 1124	alac11	far	shíká	shíká	190	NA	NA	NA	zylstra1991syntactic	NA
-5185	alac11	lejos	jícá	jícá	190	NA	NA	NA	alexander1980gramatica	[B]
+5185	atat11	lejos	jícá	jícá	190	NA	NA	NA	alexander1980gramatica	[B]
 864	ayut11	far	shīkāh	shīkāh	190	NA	NA	NA	hills1990syntactic	NA
 4130	chay11	lejos	sica	sica	190	NA	NA	NA	pensinger1974diccionario	NA
 1809	chic02	lejos	Gânha	gânha	190	NA	NA	NA	belmar1897ensayo	NA
@@ -19053,13 +19052,13 @@ ID	DOCULECT	GLOSS	VALUE	FORM	IDlist	NOTES	LOAN	LOAN_SOURCE	SOURCE	FLOATTONE
 18654	ahue11	pesado	vee	vee	191	NA	NA	NA	josserand1983mixtec	NA
 4659	alac11	pesado	veé	veé	191	NA	NA	NA	zylstra2012gramatica	NA
 1125	alac11	heavy	veē	veē	191	NA	NA	NA	zylstra1991syntactic	NA
-5186	alac11	pesado	vēyɨ	vēyɨ	191	NA	NA	NA	alexander1980gramatica	[A]
 18655	alco11	pesado	wee	wee	191	NA	NA	NA	josserand1983mixtec	NA
 5858	alco11	pesado	be¹e³	be¹e³	191	NA	NA	NA	swanton2020observaciones	NA
 18656	amat11	pesado	ƀee	ƀee	191	NA	NA	NA	josserand1983mixtec	NA
 18657	apas11	pesado	wee	wee	191	NA	NA	NA	josserand1983mixtec	NA
 18658	apoa11	pesado	ƀee	ƀee	191	NA	NA	NA	josserand1983mixtec	NA
 18659	atat11	pesado	vēyi	vēyi	191	NA	NA	NA	josserand1983mixtec	NA
+5186	atat11	pesado	vēyɨ	vēyɨ	191	NA	NA	NA	alexander1980gramatica	[A]
 18660	aten11	pesado	vee	vee	191	NA	NA	NA	josserand1983mixtec	NA
 18661	atoy11	pesado	wee	wee	191	NA	NA	NA	josserand1983mixtec	NA
 865	ayut11	heavy	vīe	vīe	191	NA	NA	NA	hills1990syntactic	NA
@@ -19221,8 +19220,8 @@ ID	DOCULECT	GLOSS	VALUE	FORM	IDlist	NOTES	LOAN	LOAN_SOURCE	SOURCE	FLOATTONE
 18765	alco11	lisa, liso	ⁿdii	ⁿdii	193	NA	NA	NA	josserand1983mixtec	NA
 18766	apas11	lisa, liso	ⁿdee	ⁿdee	193	NA	NA	NA	josserand1983mixtec	NA
 18767	apas11	lisa, liso	ⁿdiʔwi	ⁿdiʔwi	193	NA	NA	NA	josserand1983mixtec	NA
-18768	atat11	lisa, liso	lɨ́ʔvɨ́	lɨ́ʔvɨ́	193	NA	NA	NA	josserand1983mixtec	NA
 18769	atat11	resbaloso	lɨɨ	lɨɨ	193	NA	NA	NA	josserand1983mixtec	NA
+18768	atat11	lisa, liso	lɨ́ʔvɨ́	lɨ́ʔvɨ́	193	NA	NA	NA	josserand1983mixtec	NA
 18770	aten11	lisa, liso	vii	vii	193	NA	NA	NA	josserand1983mixtec	NA
 18772	atoy11	lisa, liso	ⁿdii	ⁿdii	193	NA	NA	NA	josserand1983mixtec	NA
 18771	atoy11	lisa, liso	ⁿdiʔwi	ⁿdiʔwi	193	NA	NA	NA	josserand1983mixtec	NA
@@ -19351,8 +19350,8 @@ ID	DOCULECT	GLOSS	VALUE	FORM	IDlist	NOTES	LOAN	LOAN_SOURCE	SOURCE	FLOATTONE
 18871	yoso11	lisa, liso	lɨʔu	lɨʔu	193	NA	NA	NA	josserand1983mixtec	NA
 18872	yucu11	lisa, liso	ⁿdii	ⁿdii	193	NA	NA	NA	josserand1983mixtec	NA
 18873	yucu11	lisa, liso	ⁿdiʔwi	ⁿdiʔwi	193	NA	NA	NA	josserand1983mixtec	NA
-18874	yucu12	lisa, liso	lɨ̄ɨ̄	lɨ̄ɨ̄	193	NA	NA	NA	josserand1983mixtec	NA
 18875	yucu12	resbaloso	līʔwɨ́	līʔwɨ́	193	NA	NA	NA	josserand1983mixtec	NA
+18874	yucu12	lisa, liso	lɨ̄ɨ̄	lɨ̄ɨ̄	193	NA	NA	NA	josserand1983mixtec	NA
 18876	yucu13	lisa, liso	ⁿdiʔa	ⁿdiʔa	193	NA	NA	NA	josserand1983mixtec	NA
 18877	yucu15	lisa, liso	ⁿdīí	ⁿdīí	193	NA	NA	NA	josserand1983mixtec	NA
 20768	yucu17	smooth	ntiǐ	ntiǐ	193	NA	NA	NA	salazar2020yucunani	NA
@@ -19368,13 +19367,13 @@ ID	DOCULECT	GLOSS	VALUE	FORM	IDlist	NOTES	LOAN	LOAN_SOURCE	SOURCE	FLOATTONE
 4661	alac11	despacio	kueé	kueé	194	NA	NA	NA	zylstra2012gramatica	NA
 1126	alac11	slow	kwēē	kwēē	194	NA	NA	NA	zylstra1991syntactic	NA
 18884	alac11	despacio	kʷee	kʷee	194	NA	NA	NA	josserand1983mixtec	NA
-5187	alac11	despacio	cuéé	cuéé	194	NA	NA	NA	alexander1980gramatica	[B]
 18885	alco11	despacio	kʷee	kʷee	194	NA	NA	NA	josserand1983mixtec	NA
 5867	alco11	despacio	kʷe⁴e²	kʷe⁴e²	194	NA	NA	NA	swanton2020observaciones	NA
 18886	amat11	despacio	kʷee-ni	kʷee-ni	194	NA	NA	NA	josserand1983mixtec	NA
 18887	apas11	despacio	kʷee-(ni̧)	kʷee-ni̧	194	NA	NA	NA	josserand1983mixtec	NA
 18888	apoa11	despacio	kʷee	kʷee	194	NA	NA	NA	josserand1983mixtec	NA
 18889	atat11	despacio	kʷéé	kʷéé	194	NA	NA	NA	josserand1983mixtec	NA
+5187	atat11	despacio	cuéé	cuéé	194	NA	NA	NA	alexander1980gramatica	[B]
 18890	aten11	despacio	kʷee	kʷee	194	NA	NA	NA	josserand1983mixtec	NA
 18891	atoy11	despacio	kʷee	kʷee	194	NA	NA	NA	josserand1983mixtec	NA
 868	ayut11	slow	kwīē	kwīē	194	NA	NA	NA	hills1990syntactic	NA
@@ -19521,7 +19520,6 @@ ID	DOCULECT	GLOSS	VALUE	FORM	IDlist	NOTES	LOAN	LOAN_SOURCE	SOURCE	FLOATTONE
 4662	alac11	ayer	koni	koni	195	NA	NA	NA	zylstra2012gramatica	NA
 1127	alac11	yesterday	kōnī	kōnī	195	NA	NA	NA	zylstra1991syntactic	NA
 18998	alac11	ayer	kuni̧	kuni̧	195	NA	NA	NA	josserand1983mixtec	NA
-5188	alac11	ayer	icu	icu	195	NA	NA	NA	alexander1980gramatica	[A]
 18999	alco11	ayer	kuni	kuni	195	NA	NA	NA	josserand1983mixtec	NA
 5872	alco11	ayer	ku³ni³	ku³ni³	195	NA	NA	NA	swanton2020observaciones	NA
 19000	amat11	ayer	kuni	kuni	195	NA	NA	NA	josserand1983mixtec	NA
@@ -19529,6 +19527,7 @@ ID	DOCULECT	GLOSS	VALUE	FORM	IDlist	NOTES	LOAN	LOAN_SOURCE	SOURCE	FLOATTONE
 19002	apoa11	ayer	iku	iku	195	NA	NA	NA	josserand1983mixtec	NA
 2904	atat11	yesterday	īkū	īkū	195	NA	NA	NA	durr1987preliminary	NA
 19003	atat11	ayer	iku	iku	195	NA	NA	NA	josserand1983mixtec	NA
+5188	atat11	ayer	icu	icu	195	NA	NA	NA	alexander1980gramatica	[A]
 19004	aten11	ayer	koni	koni	195	NA	NA	NA	josserand1983mixtec	NA
 19005	atoy11	ayer	iku	iku	195	NA	NA	NA	josserand1983mixtec	NA
 869	ayut11	yesterday	iku	iku	195	NA	NA	NA	hills1990syntactic	NA
@@ -19683,12 +19682,12 @@ ID	DOCULECT	GLOSS	VALUE	FORM	IDlist	NOTES	LOAN	LOAN_SOURCE	SOURCE	FLOATTONE
 4663	alac11	año	kui̠ya̠	kui̠ya̠	196	NA	NA	NA	zylstra2012gramatica	NA
 1128	alac11	year	kwiya	kwiya	196	NA	NA	NA	zylstra1991syntactic	NA
 19112	alac11	año	kʷiya	kʷiya	196	NA	NA	NA	josserand1983mixtec	NA
-5189	alac11	año	cuiyā	cuiyā	196	NA	NA	NA	alexander1980gramatica	[C]
 19113	alco11	año	kʷiya	kʷiya	196	NA	NA	NA	josserand1983mixtec	NA
 19114	amat11	año	kʷia	kʷia	196	NA	NA	NA	josserand1983mixtec	NA
 19115	apas11	año	kʷiya	kʷiya	196	NA	NA	NA	josserand1983mixtec	NA
 19116	apoa11	año	kʷia	kʷia	196	NA	NA	NA	josserand1983mixtec	NA
 19117	atat11	año	kʷiyā	kʷiyā	196	NA	NA	NA	josserand1983mixtec	NA
+5189	atat11	año	cuiyā	cuiyā	196	NA	NA	NA	alexander1980gramatica	[C]
 19118	aten11	año	kʷìà	kʷìà	196	NA	NA	NA	josserand1983mixtec	NA
 19119	atoy11	año	kʷiya	kʷiya	196	NA	NA	NA	josserand1983mixtec	NA
 870	ayut11	year	kwīya	kwīya	196	NA	NA	NA	hills1990syntactic	NA
@@ -19848,13 +19847,13 @@ ID	DOCULECT	GLOSS	VALUE	FORM	IDlist	NOTES	LOAN	LOAN_SOURCE	SOURCE	FLOATTONE
 2925	alac11	now	ƀītī̧	ƀītī̧	197	NA	NA	NA	durr1987preliminary	NA
 19231	alac11	ahora	ƀiti̧	ƀiti̧	197	NA	NA	NA	josserand1983mixtec	NA
 19230	alac11	ahora	ƀitni̧	ƀitni̧	197	NA	NA	NA	josserand1983mixtec	NA
-5190	alac11	ahora, hoy	vijna	vijna	197	NA	NA	NA	alexander1980gramatica	[A]
 19232	alco11	ahora	witi̧	witi̧	197	NA	NA	NA	josserand1983mixtec	NA
 5877	alco11	ahora	bi³ʧi³	bi³ʧi³	197	NA	NA	NA	swanton2020observaciones	NA
 19233	apas11	ahora	wita	wita	197	NA	NA	NA	josserand1983mixtec	NA
 19234	apoa11	ahora	ƀita	ƀita	197	NA	NA	NA	josserand1983mixtec	NA
 2919	atat11	now	ƀīNā	ƀīNā	197	NA	NA	NA	durr1987preliminary	NA
 19235	atat11	ahora	žačī	žačī	197	NA	NA	NA	josserand1983mixtec	NA
+5190	atat11	ahora, hoy	vijna	vijna	197	NA	NA	NA	alexander1980gramatica	[A]
 19236	aten11	ahora	ƀiti	ƀiti	197	NA	NA	NA	josserand1983mixtec	NA
 19237	atoy11	ahora	witi̧	witi̧	197	NA	NA	NA	josserand1983mixtec	NA
 871	ayut11	now, today	vitin	vitin	197	NA	NA	NA	hills1990syntactic	NA
@@ -20026,11 +20025,11 @@ ID	DOCULECT	GLOSS	VALUE	FORM	IDlist	NOTES	LOAN	LOAN_SOURCE	SOURCE	FLOATTONE
 19323	achi11	toda la noche	xa-kʷaa	xa-kʷaa	199	NA	NA	NA	josserand1983mixtec	NA
 19324	ahue11	toda la noche	ⁿdīa̧ni̧-ñu̧u̧	ⁿdīa̧ni̧-ñu̧u̧	199	NA	NA	NA	josserand1983mixtec	NA
 1130	alac11	night time	ñōó	ñōó	199	could also be ‘night’, not sure	NA	NA	zylstra1991syntactic	NA
-5191	alac11	de noche	ñuú	ñuú	199	NA	NA	NA	alexander1980gramatica	[B]
 19325	alco11	toda la noche	ni̧ñu̧	ni̧ñu̧	199	NA	NA	NA	josserand1983mixtec	NA
 19326	apas11	toda la noche	ni̧ñu̧	ni̧ñu̧	199	NA	NA	NA	josserand1983mixtec	NA
 19327	apoa11	toda la noche	ni̧ñu̧	ni̧ñu̧	199	NA	NA	NA	josserand1983mixtec	NA
 19328	atat11	toda la noche	nī̧ñu̧	nī̧ñu̧	199	NA	NA	NA	josserand1983mixtec	NA
+5191	atat11	de noche	ñuú	ñuú	199	NA	NA	NA	alexander1980gramatica	[B]
 19329	aten11	toda la noche	ni̧u̧	ni̧u̧	199	NA	NA	NA	josserand1983mixtec	NA
 19330	aten11	toda la noche	ñu̧u̧-žaa	ñu̧u̧-žaa	199	NA	NA	NA	josserand1983mixtec	NA
 19331	atoy11	toda la noche	ni̧ñu̧	ni̧ñu̧	199	NA	NA	NA	josserand1983mixtec	NA
@@ -20139,13 +20138,13 @@ ID	DOCULECT	GLOSS	VALUE	FORM	IDlist	NOTES	LOAN	LOAN_SOURCE	SOURCE	FLOATTONE
 1131	alac11	day	kivi	kivi	200	NA	NA	NA	zylstra1991syntactic	NA
 2934	alac11	day	kìƀì	kìƀì	200	NA	NA	NA	durr1987preliminary	NA
 19415	alac11	día	kìƀì	kìƀì	200	NA	NA	NA	josserand1983mixtec	NA
-5192	alac11	día	quɨvɨ̄	quɨvɨ̄	200	NA	NA	NA	alexander1980gramatica	[C]
 19416	alco11	día	kiwi	kiwi	200	NA	NA	NA	josserand1983mixtec	NA
 19417	amat11	día	kiƀi	kiƀi	200	NA	NA	NA	josserand1983mixtec	NA
 19418	apas11	día	kiwi	kiwi	200	NA	NA	NA	josserand1983mixtec	NA
 19419	apoa11	día	kii	kii	200	NA	NA	NA	josserand1983mixtec	NA
 2932	atat11	day	kɨ̄ƀɨ̀	kɨ̄ƀɨ̀	200	NA	NA	NA	durr1987preliminary	NA
 19420	atat11	día	kìvī	kìvī	200	NA	NA	NA	josserand1983mixtec	NA
+5192	atat11	día	quɨvɨ̄	quɨvɨ̄	200	NA	NA	NA	alexander1980gramatica	[C]
 19421	aten11	día	kìvì	kìvì	200	NA	NA	NA	josserand1983mixtec	NA
 19422	atoy11	día	kiwi	kiwi	200	NA	NA	NA	josserand1983mixtec	NA
 874	ayut11	day	kīhvih	kīhvih	200	NA	NA	NA	hills1990syntactic	NA
@@ -20302,7 +20301,7 @@ ID	DOCULECT	GLOSS	VALUE	FORM	IDlist	NOTES	LOAN	LOAN_SOURCE	SOURCE	FLOATTONE
 165	abas11	de día, todo el día	ntuu	ntuu	201	NA	NA	NA	galindo-sanchez2009vocabulario	NA
 4667	alac11	de día	ndiví	ndiví	201	NA	NA	NA	zylstra2012gramatica	NA
 1132	alac11	day time	ndīví	ndīví	201	NA	NA	NA	zylstra1991syntactic	NA
-5193	alac11	todo el día	ndiáca	ndiáca	201	NA	NA	NA	alexander1980gramatica	[A]
+5193	atat11	todo el día	ndiáca	ndiáca	201	NA	NA	NA	alexander1980gramatica	[A]
 875	ayut11	day time	nduvīh	nduvīh	201	NA	NA	NA	hills1990syntactic	NA
 6107	chic12	de día	guni’yanj⁴an	guni’yanj⁴an	201	NA	NA	NA	good1978diccionario	NA
 998	coat11	day time	ndúvi	ndúvi	201	NA	NA	NA	small1990syntactic	NA
@@ -20333,12 +20332,12 @@ ID	DOCULECT	GLOSS	VALUE	FORM	IDlist	NOTES	LOAN	LOAN_SOURCE	SOURCE	FLOATTONE
 19537	ahue11	mitad	θava	θava	202	NA	NA	NA	josserand1983mixtec	NA
 4668	alac11	mitad	sava	sava	202	NA	NA	NA	zylstra2012gramatica	NA
 1133	alac11	half	sāvā	sāvā	202	NA	NA	NA	zylstra1991syntactic	NA
-5194	alac11	medio, algunos	sava	sava	202	NA	NA	NA	alexander1980gramatica	[A]
 19538	alco11	mitad	sawa	sawa	202	NA	NA	NA	josserand1983mixtec	NA
 19539	amat11	mitad	đaƀa	đaƀa	202	NA	NA	NA	josserand1983mixtec	NA
 19540	apas11	mitad	đawa	đawa	202	NA	NA	NA	josserand1983mixtec	NA
 19541	apoa11	mitad	đawa	đawa	202	NA	NA	NA	josserand1983mixtec	NA
 19542	atat11	mitad	sava	sava	202	NA	NA	NA	josserand1983mixtec	NA
+5194	atat11	medio, algunos	sava	sava	202	NA	NA	NA	alexander1980gramatica	[A]
 19543	aten11	mitad	hava	hava	202	NA	NA	NA	josserand1983mixtec	NA
 19544	atoy11	mitad	sawa	sawa	202	NA	NA	NA	josserand1983mixtec	NA
 876	ayut11	half, middle	sava	sava	202	NA	NA	NA	hills1990syntactic	NA
@@ -20481,7 +20480,7 @@ ID	DOCULECT	GLOSS	VALUE	FORM	IDlist	NOTES	LOAN	LOAN_SOURCE	SOURCE	FLOATTONE
 167	abas11	dinero	xu’un	xu’un	203	NA	NA	NA	galindo-sanchez2009vocabulario	NA
 4669	alac11	dinero	si̠’ún	si̠’ún	203	NA	NA	NA	zylstra2012gramatica	NA
 1134	alac11	money	sihún	sihún	203	NA	NA	NA	zylstra1991syntactic	NA
-5195	alac11	dinero	xūhún	xūhún	203	NA	NA	NA	alexander1980gramatica	[B]
+5195	atat11	dinero	xūhún	xūhún	203	NA	NA	NA	alexander1980gramatica	[B]
 877	ayut11	money	shuhūnh	shuhūnh	203	NA	NA	NA	hills1990syntactic	NA
 4142	chay11	dinero	xuhun	xuhun	203	NA	NA	NA	pensinger1974diccionario	NA
 1817	chic02	dinero	Tsaàha	tsaàha	203	NA	NA	NA	belmar1897ensayo	NA
@@ -20521,7 +20520,6 @@ ID	DOCULECT	GLOSS	VALUE	FORM	IDlist	NOTES	LOAN	LOAN_SOURCE	SOURCE	FLOATTONE
 1135	alac11	work	chíñō	chíñō	204	NA	NA	NA	zylstra1991syntactic	NA
 2949	alac11	work	čīñō̧	čīñō̧	204	NA	NA	NA	durr1987preliminary	NA
 19657	alac11	trabajo	či̧ño̧	či̧ño̧	204	NA	NA	NA	josserand1983mixtec	NA
-5196	alac11	trabajo	jniñu	jniñu	204	NA	NA	NA	alexander1980gramatica	[A]
 19658	alco11	trabajo	čiño̧	čiño̧	204	NA	NA	NA	josserand1983mixtec	NA
 5882	alco11	trabajo	ʧi³ɲu³	ʧi³ɲu³	204	NA	NA	NA	swanton2020observaciones	NA
 19659	amat11	trabajo	ču̧u̧	ču̧u̧	204	NA	NA	NA	josserand1983mixtec	NA
@@ -20529,6 +20527,7 @@ ID	DOCULECT	GLOSS	VALUE	FORM	IDlist	NOTES	LOAN	LOAN_SOURCE	SOURCE	FLOATTONE
 19661	apoa11	trabajo	čo̧o̧	čo̧o̧	204	NA	NA	NA	josserand1983mixtec	NA
 2944	atat11	work	Nīñū	nīñū	204	NA	NA	NA	durr1987preliminary	NA
 19662	atat11	trabajo	sa-Nni̧ñu̧	sa-Nni̧ñu̧	204	NA	NA	NA	josserand1983mixtec	NA
+5196	atat11	trabajo	jniñu	jniñu	204	NA	NA	NA	alexander1980gramatica	[A]
 19663	aten11	trabajo	ču̧u̧	ču̧u̧	204	NA	NA	NA	josserand1983mixtec	NA
 19664	atoy11	trabajo	tiñu̧	tiñu̧	204	NA	NA	NA	josserand1983mixtec	NA
 878	ayut11	work	chuun	chuun	204	NA	NA	NA	hills1990syntactic	NA
@@ -20698,7 +20697,6 @@ ID	DOCULECT	GLOSS	VALUE	FORM	IDlist	NOTES	LOAN	LOAN_SOURCE	SOURCE	FLOATTONE
 1136	alac11	word	tohōn	tohōn	205	NA	NA	NA	zylstra1991syntactic	NA
 19779	alac11	palabra	tnò̧ʔò	tnò̧ʔò	205	NA	NA	NA	josserand1983mixtec	NA
 19778	alac11	palabra	tò̧ʔo̧	tò̧ʔo̧	205	NA	NA	NA	josserand1983mixtec	NA
-5197	alac11	palabra	jnūhun	jnūhun	205	NA	NA	NA	alexander1980gramatica	[A]
 19780	alco11	palabra	tu̧ʔu̧	tu̧ʔu̧	205	NA	NA	NA	josserand1983mixtec	NA
 5887	alco11	palabra	tu¹Ɂũ³	tu¹Ɂũ³	205	NA	NA	NA	swanton2020observaciones	NA
 19781	amat11	palabra	tu̧ʔu̧	tu̧ʔu̧	205	NA	NA	NA	josserand1983mixtec	NA
@@ -20706,6 +20704,7 @@ ID	DOCULECT	GLOSS	VALUE	FORM	IDlist	NOTES	LOAN	LOAN_SOURCE	SOURCE	FLOATTONE
 19783	apoa11	palabra	to̧ʔo̧	to̧ʔo̧	205	NA	NA	NA	josserand1983mixtec	NA
 2955	atat11	word	Nù̧ʔū̧	nù̧ʔū̧	205	NA	NA	NA	durr1987preliminary	NA
 19784	atat11	palabra	Nnū̧ʔú̧	nnū̧ʔú̧	205	NA	NA	NA	josserand1983mixtec	NA
+5197	atat11	palabra	jnūhun	jnūhun	205	NA	NA	NA	alexander1980gramatica	[A]
 19786	aten11	palabra	to̧ʔo̧	to̧ʔo̧	205	NA	NA	NA	josserand1983mixtec	NA
 19785	aten11	palabra	tu̧ʔu̧	tu̧ʔu̧	205	NA	NA	NA	josserand1983mixtec	NA
 19787	atoy11	palabra	tu̧ʔu̧	tu̧ʔu̧	205	NA	NA	NA	josserand1983mixtec	NA
@@ -21008,7 +21007,6 @@ ID	DOCULECT	GLOSS	VALUE	FORM	IDlist	NOTES	LOAN	LOAN_SOURCE	SOURCE	FLOATTONE
 4673	alac11	cuándo	ama	ama	208	NA	NA	NA	zylstra2012gramatica	NA
 1138	alac11	when	āmā	āmā	208	NA	NA	NA	zylstra1991syntactic	NA
 19981	alac11	cuándo	a̧ma̧	a̧ma̧	208	NA	NA	NA	josserand1983mixtec	NA
-5198	alac11	cuándo	na	na	208	NA	NA	NA	alexander1980gramatica	[A]
 19982	alco11	cuándo	a̧ma̧	a̧ma̧	208	NA	NA	NA	josserand1983mixtec	NA
 19983	amat11	cuándo	ⁿda-kii	ⁿda-kii	208	NA	NA	NA	josserand1983mixtec	NA
 19984	apas11	cuándo	a̧ma̧	a̧ma̧	208	NA	NA	NA	josserand1983mixtec	NA
@@ -21016,6 +21014,7 @@ ID	DOCULECT	GLOSS	VALUE	FORM	IDlist	NOTES	LOAN	LOAN_SOURCE	SOURCE	FLOATTONE
 19986	apoa11	cuándo	a̧ma̧	a̧ma̧	208	NA	NA	NA	josserand1983mixtec	NA
 19987	atat11	cuándo	ná̧ma̧	ná̧ma̧	208	NA	NA	NA	josserand1983mixtec	NA
 19988	atat11	cuándo	ⁿde-kɨƀɨ̄	ⁿde-kɨƀɨ̄	208	NA	NA	NA	josserand1983mixtec	NA
+5198	atat11	cuándo	na	na	208	NA	NA	NA	alexander1980gramatica	[A]
 19989	aten11	cuándo	ⁿdʸa̧ma̧	ⁿdʸa̧ma̧	208	NA	NA	NA	josserand1983mixtec	NA
 19990	aten11	cuándo	tá	tá	208	NA	NA	NA	josserand1983mixtec	NA
 19991	atoy11	cuándo	a̧wa̧	a̧wa̧	208	NA	NA	NA	josserand1983mixtec	NA
@@ -21153,8 +21152,8 @@ ID	DOCULECT	GLOSS	VALUE	FORM	IDlist	NOTES	LOAN	LOAN_SOURCE	SOURCE	FLOATTONE
 4493	zaca11	cuándo	ama	ama	208	rarely used, largely replaced by ora	NA	NA	towne2011gramatica	NA
 20099	zapo11	cuándo	ⁿde-kii	ⁿde-kii	208	NA	NA	NA	josserand1983mixtec	NA
 172	abas11	música	yáá	yáá	209	NA	NA	NA	galindo-sanchez2009vocabulario	NA
-5199	alac11	canción	yaa	yaa	209	NA	NA	NA	alexander1980gramatica	[C]
 5902	alco11	canción,  música	ja³a²	ja³a²	209	NA	NA	NA	swanton2020observaciones	NA
+5199	atat11	canción	yaa	yaa	209	NA	NA	NA	alexander1980gramatica	[C]
 5904	chal11	canción,  música	ja²a¹	ja²a¹	209	NA	NA	NA	swanton2020observaciones	NA
 4148	chay11	canción, baile	yaa	yaa	209	NA	NA	NA	pensinger1974diccionario	NA
 1823	chic02	música	Tsiañiaha	tsiañiaha	209	NA	NA	NA	belmar1897ensayo	NA

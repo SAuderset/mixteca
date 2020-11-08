@@ -1,6 +1,6 @@
 ID	DOCULECT	GLOSS	VALUE	FORM	IDlist	NOTES	LOAN	LOAN_SOURCE	SOURCE	FLOATTONE
 6427	teco11	hijo/hija	seʔe	seʔe	6	NA	NA	NA	josserand1983mixtec	NA
-6543	teco11	hermano de hombre	ñā̧ñī̧(-ī̧)	ñā̧ñī̧-ī̧	9	NA	NA	NA	josserand1983mixtec	NA
+6543	teco11	hermano de hombre	ñā̧ñī̧(-ī̧)	ñā̧ñī̧ī̧	9	NA	NA	NA	josserand1983mixtec	NA
 6668	teco11	hombre	čàá	čàá	13	NA	NA	NA	josserand1983mixtec	NA
 6763	teco11	dueño	ʔes-toʔo	ʔes-toʔo	15	NA	NA	NA	josserand1983mixtec	NA
 6848	teco11	sacerdote	siti	siti	16	NA	NA	NA	josserand1983mixtec	NA
@@ -110,8 +110,8 @@ ID	DOCULECT	GLOSS	VALUE	FORM	IDlist	NOTES	LOAN	LOAN_SOURCE	SOURCE	FLOATTONE
 18073	teco11	salado	ʔuʔva	ʔuʔva	181	NA	NA	NA	josserand1983mixtec	NA
 18161	teco11	amargo	ʔoƀa	ʔoƀa	182	NA	NA	NA	josserand1983mixtec	NA
 18249	teco11	sabroso	ʔasi	ʔasi	183	NA	NA	NA	josserand1983mixtec	NA
-18403	teco11	floja	taža	taža	186	NA	NA	NA	josserand1983mixtec	NA
 18402	teco11	flojo	kùṣ̌í	kùṣ̌í	186	NA	NA	NA	josserand1983mixtec	NA
+18403	teco11	floja	taža	taža	186	NA	NA	NA	josserand1983mixtec	NA
 18515	teco11	feo	kīní̧	kīní̧	187	NA	NA	NA	josserand1983mixtec	NA
 18624	teco11	está cerca	žači	žači	189	NA	NA	NA	josserand1983mixtec	NA
 18734	teco11	pesado	vee	vee	191	NA	NA	NA	josserand1983mixtec	NA

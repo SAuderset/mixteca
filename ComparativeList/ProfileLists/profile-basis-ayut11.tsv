@@ -5,7 +5,7 @@ ID	DOCULECT	GLOSS	VALUE	FORM	IDlist	NOTES	LOAN	LOAN_SOURCE	SOURCE	FLOATTONE
 746	ayut11	father!, dad!	tātā	tātā	4	NA	NA	NA	hills1990syntactic	NA
 748	ayut11	son/daughter, child	sīhe	sīhe	5	NA	NA	NA	hills1990syntactic	NA
 2057	ayut11	child	sīʔè	sīʔè	5	NA	NA	NA	durr1987preliminary	NA
-6348	ayut11	hijo/hija	sʸēʔɛ→siʔɛ	sʸēʔɛ→siʔɛ	6	NA	NA	NA	josserand1983mixtec	NA
+6348	ayut11	hijo/hija	sʸēʔɛ→siʔɛ	siʔɛ	6	NA	NA	NA	josserand1983mixtec	NA
 749	ayut11	cross-sex sibling	kuhva	kuhva	8	NA	NA	NA	hills1990syntactic	NA
 750	ayut11	brother of man	n̄ani	n̄ani	9	NA	NA	NA	hills1990syntactic	NA
 2082	ayut11	brother of man	ñànì	ñànì	9	NA	NA	NA	durr1987preliminary	NA
@@ -276,8 +276,8 @@ ID	DOCULECT	GLOSS	VALUE	FORM	IDlist	NOTES	LOAN	LOAN_SOURCE	SOURCE	FLOATTONE
 860	ayut11	wide	ndīká	ndīká	184	only as part of sa-ndīká ‘will widen’	NA	NA	hills1990syntactic	NA
 861	ayut11	new	shaāh	shaāh	185	NA	NA	NA	hills1990syntactic	NA
 862	ayut11	lazy	sūshānh	sūshānh	186	NA	NA	NA	hills1990syntactic	NA
-18291	ayut11	floja	taya	taya	186	NA	NA	NA	josserand1983mixtec	NA
 18290	ayut11	flojo	suša̧ʔ	suša̧ʔ	186	NA	NA	NA	josserand1983mixtec	NA
+18291	ayut11	floja	taya	taya	186	NA	NA	NA	josserand1983mixtec	NA
 18457	ayut11	feo	kini̧	kini̧	187	NA	NA	NA	josserand1983mixtec	NA
 863	ayut11	near	yatin	yatin	189	NA	NA	NA	hills1990syntactic	NA
 18554	ayut11	está cerca	yati̧	yati̧	189	NA	NA	NA	josserand1983mixtec	NA

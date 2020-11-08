@@ -55,7 +55,7 @@ ID	DOCULECT	GLOSS	VALUE	FORM	IDlist	NOTES	LOAN	LOAN_SOURCE	SOURCE	FLOATTONE
 2253	ocot11	medicine	tà̧tà̧	tà̧tà̧	34	NA	NA	NA	durr1987preliminary	NA
 8048	ocot11	hinchazón	kʷī̧ñū̧	kʷī̧ñū̧	35	NA	NA	NA	josserand1983mixtec	NA
 8153	ocot11	grano	ⁿtìʔžī	ⁿtìʔžī	36	NA	NA	NA	josserand1983mixtec	NA
-8268	ocot11	pus	ntakʷa	ntakʷa	37	NA	NA	NA	josserand1983mixtec	NA
+8268	ocot11	pus	ⁿtakʷa	ⁿtakʷa	37	NA	NA	NA	josserand1983mixtec	NA
 520	ocot11	cloth	sāhmā	sāhmā	39	NA	NA	NA	alexander1988syntactic	NA
 2264	ocot11	clothes	sāʔmā	sāʔmā	39	NA	NA	NA	durr1987preliminary	NA
 521	ocot11	sandal, sandals	nixan	nixan	40	NA	NA	NA	alexander1988syntactic	NA
@@ -83,8 +83,8 @@ ID	DOCULECT	GLOSS	VALUE	FORM	IDlist	NOTES	LOAN	LOAN_SOURCE	SOURCE	FLOATTONE
 527	ocot11	fish	t-yaká	t-yaká	52	animal-fish	NA	NA	alexander1988syntactic	NA
 9608	ocot11	culebra	kòò	kòò	53	NA	NA	NA	josserand1983mixtec	NA
 9716	ocot11	rana	ⁿtī-šikʷi	ⁿtī-šikʷi	54	NA	NA	NA	josserand1983mixtec	NA
-9846	ocot11	gavilán	žāʔa	žāʔa	55	NA	NA	NA	josserand1983mixtec	NA
 9847	ocot11	halcón	tàsù̧	tàsù̧	55	NA	NA	NA	josserand1983mixtec	NA
+9846	ocot11	gavilán	žāʔa	žāʔa	55	NA	NA	NA	josserand1983mixtec	NA
 528	ocot11	scorpion	ti-sūhma	ti-sūhma	56	animal-tail	NA	NA	alexander1988syntactic	NA
 9958	ocot11	alacrán	tì-sū̧ʔmà̧	tì-sū̧ʔmà̧	56	NA	NA	NA	josserand1983mixtec	NA
 10043	ocot11	cucaracha	tì-tèʔé	tì-tèʔé	57	NA	NA	NA	josserand1983mixtec	NA
@@ -132,13 +132,13 @@ ID	DOCULECT	GLOSS	VALUE	FORM	IDlist	NOTES	LOAN	LOAN_SOURCE	SOURCE	FLOATTONE
 12063	ocot11	espiga	žoko	žoko	95	NA	NA	NA	josserand1983mixtec	NA
 544	ocot11	bean	ndūchī	ndūchī	96	NA	NA	NA	alexander1988syntactic	NA
 12167	ocot11	frijol(es)	ⁿdūčī	ⁿdūčī	96	NA	NA	NA	josserand1983mixtec	NA
-12266	ocot11	ejote	ntìčī	ntìčī	97	NA	NA	NA	josserand1983mixtec	NA
+12266	ocot11	ejote	ⁿtìčī	ⁿtìčī	97	NA	NA	NA	josserand1983mixtec	NA
 545	ocot11	chili pepper	yāhā	yāhā	98	NA	NA	NA	alexander1988syntactic	NA
 546	ocot11	salt	ñii	ñii	99	NA	NA	NA	alexander1988syntactic	NA
 12371	ocot11	sal	ñì̧ì̧	ñì̧ì̧	99	NA	NA	NA	josserand1983mixtec	NA
 12484	ocot11	calabaza	ñī̧kī̧	ñī̧kī̧	100	NA	NA	NA	josserand1983mixtec	NA
 12600	ocot11	caña	nᵗòò	nᵗòò	102	NA	NA	NA	josserand1983mixtec	NA
-12717	ocot11	miel	ntùšī	ntùšī	103	NA	NA	NA	josserand1983mixtec	NA
+12717	ocot11	miel	ⁿtùšī	ⁿtùšī	103	NA	NA	NA	josserand1983mixtec	NA
 547	ocot11	lard	shehēn	shehēn	104	NA	NA	NA	alexander1988syntactic	NA
 548	ocot11	egg	ndivi	ndivi	105	NA	NA	NA	alexander1988syntactic	NA
 12840	ocot11	blanquillo, huevo	ⁿdìƀì	ⁿdìƀì	105	NA	NA	NA	josserand1983mixtec	NA
@@ -253,8 +253,8 @@ ID	DOCULECT	GLOSS	VALUE	FORM	IDlist	NOTES	LOAN	LOAN_SOURCE	SOURCE	FLOATTONE
 18234	ocot11	sabroso	ʔà̧sì̧	ʔà̧sì̧	183	NA	NA	NA	josserand1983mixtec	NA
 2892	ocot11	new	xēé	xēé	185	NA	NA	NA	durr1987preliminary	NA
 597	ocot11	lazy	kū-kúshí 	kúshí	186	only as part of a verb ‘be lazy’	NA	NA	alexander1988syntactic	NA
-18380	ocot11	floja	taža	taža	186	NA	NA	NA	josserand1983mixtec	NA
 18379	ocot11	flojo	kúší	kúší	186	NA	NA	NA	josserand1983mixtec	NA
+18380	ocot11	floja	taža	taža	186	NA	NA	NA	josserand1983mixtec	NA
 18501	ocot11	feo	kini̧	kini̧	187	NA	NA	NA	josserand1983mixtec	NA
 598	ocot11	near	ñātīn	ñātīn	189	NA	NA	NA	alexander1988syntactic	NA
 18607	ocot11	está cerca	ñā̧tī̧	ñā̧tī̧	189	NA	NA	NA	josserand1983mixtec	NA

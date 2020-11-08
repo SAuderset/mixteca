@@ -7,8 +7,8 @@ ID	DOCULECT	GLOSS	VALUE	FORM	IDlist	NOTES	LOAN	LOAN_SOURCE	SOURCE	FLOATTONE
 7389	toto12	nariz	đitni̧	đitni̧	25	NA	NA	NA	josserand1983mixtec	NA
 7502	toto12	cuello	đuku̧	đuku̧	26	NA	NA	NA	josserand1983mixtec	NA
 7623	toto12	uña	čȩȩ	čȩȩ	28	NA	NA	NA	josserand1983mixtec	NA
-7739	toto12	dentro	i̧ni̧	i̧ni̧	31	NA	NA	NA	josserand1983mixtec	NA
 7738	toto12	estómago	a̧ni̧ma̧	a̧ni̧ma̧	31	NA	NA	NA	josserand1983mixtec	NA
+7739	toto12	dentro	i̧ni̧	i̧ni̧	31	NA	NA	NA	josserand1983mixtec	NA
 7856	toto12	pie	saʔa	saʔa	32	NA	NA	NA	josserand1983mixtec	NA
 7973	toto12	enfermedad	kʷeʔe	kʷeʔe	33	NA	NA	NA	josserand1983mixtec	NA
 8182	toto12	grano	ⁿsiʔi	ⁿsiʔi	36	NA	NA	NA	josserand1983mixtec	NA
@@ -24,7 +24,7 @@ ID	DOCULECT	GLOSS	VALUE	FORM	IDlist	NOTES	LOAN	LOAN_SOURCE	SOURCE	FLOATTONE
 9747	toto12	rana	rana	rana	54	NA	NA	NA	josserand1983mixtec	NA
 10196	toto12	rata	si-tni̧i̧	si-tni̧i̧	60	NA	NA	NA	josserand1983mixtec	NA
 10320	toto12	venado	sa-kʷaa	sa-kʷaa	61	NA	NA	NA	josserand1983mixtec	NA
-10431	toto12	ardilla	si-arđiya	si-arđiya	62	NA	NA	NA	josserand1983mixtec	NA
+10431	toto12	ardilla	si-ardiya	si-ardiya	62	NA	NA	NA	josserand1983mixtec	NA
 10558	toto12	gato	(čitu)	čitu	69	NA	NA	NA	josserand1983mixtec	NA
 10676	toto12	cuerno	ⁿǰiki	ⁿǰiki	76	NA	NA	NA	josserand1983mixtec	NA
 10794	toto12	pluma	tnu̧mi̧	tnu̧mi̧	77	NA	NA	NA	josserand1983mixtec	NA
@@ -49,8 +49,8 @@ ID	DOCULECT	GLOSS	VALUE	FORM	IDlist	NOTES	LOAN	LOAN_SOURCE	SOURCE	FLOATTONE
 14020	toto12	jícara	yaši̧	yaši̧	124	NA	NA	NA	josserand1983mixtec	NA
 14242	toto12	hilo	yuʔa	yuʔa	127	NA	NA	NA	josserand1983mixtec	NA
 14512	toto12	red	ñu̧nu̧	ñu̧nu̧	131	NA	NA	NA	josserand1983mixtec	NA
-14640	toto12	agua	te-kʷii	te-kʷii	137	NA	NA	NA	josserand1983mixtec	NA
 14641	toto12	liquid	ⁿdute	ⁿdute	137	NA	NA	NA	josserand1983mixtec	NA
+14640	toto12	agua	te-kʷii	te-kʷii	137	NA	NA	NA	josserand1983mixtec	NA
 14766	toto12	lluvia	đaƀi	đaƀi	138	NA	NA	NA	josserand1983mixtec	NA
 14891	toto12	río	yute	yute	139	NA	NA	NA	josserand1983mixtec	NA
 15102	toto12	cerro	yuku	yuku	141	NA	NA	NA	josserand1983mixtec	NA
