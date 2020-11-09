@@ -1,15 +1,15 @@
-ID	DOCULECT	GLOSS	VALUE	FORM	IDlist	NOTES	LOAN	LOAN_SOURCE	SOURCE	FLOATTONE
-6662	soso11	hombre	ȼee	ȼee	13	NA	NA	NA	josserand1983mixtec	NA
-8841	soso11	casa	weʔe	weʔe	44	NA	NA	NA	josserand1983mixtec	NA
-9405	soso11	animal	kiti(tata)	kititata	50	NA	NA	NA	josserand1983mixtec	NA
-11322	soso11	maguey	žai	žai	84	NA	NA	NA	josserand1983mixtec	NA
-12073	soso11	espiga	žoko	žoko	95	NA	NA	NA	josserand1983mixtec	NA
-12499	soso11	calabaza	žiku̧	žiku̧	100	NA	NA	NA	josserand1983mixtec	NA
-12854	soso11	blanquillo, huevo	ⁿdiwi	ⁿdiwi	105	NA	NA	NA	josserand1983mixtec	NA
-12950	soso11	jitomate	ti-loo	ti-loo	106	NA	NA	NA	josserand1983mixtec	NA
-14002	soso11	jícara	žaši	žaši	124	NA	NA	NA	josserand1983mixtec	NA
-15334	soso11	piedra	žuu	žuu	143	NA	NA	NA	josserand1983mixtec	NA
-15888	soso11	espuma	ti-ʔi̧ñu̧	ti-ʔi̧ñu̧	150	NA	NA	NA	josserand1983mixtec	NA
-16485	soso11	cuatro	ku̧u̧	ku̧u̧	160	NA	NA	NA	josserand1983mixtec	NA
-17523	soso11	caliente	i̧ʔni̧	i̧ʔni̧	172	NA	NA	NA	josserand1983mixtec	NA
-19193	soso11	año	kʷia	kʷia	196	NA	NA	NA	josserand1983mixtec	NA
+ID	DOCULECT	CONCEPT	GLOSS	VALUE	FORM	IDlist	CONCEPTICON_ID	LOAN	LOAN_SOURCE	SOURCE	FLOATTONE
+6662	soso11	MAN	hombre	ȼee	ȼee	13	1554	NA	NA	josserand1983mixtec	NA
+8841	soso11	HOUSE	casa	weʔe	weʔe	44	1252	NA	NA	josserand1983mixtec	NA
+9405	soso11	ANIMAL	animal	kiti(tata)	kititata	50	619	NA	NA	josserand1983mixtec	NA
+11322	soso11	MAGUEY	maguey	žai	žai	84	NA	NA	NA	josserand1983mixtec	NA
+12073	soso11	TASSEL	espiga	žoko	žoko	95	NA	NA	NA	josserand1983mixtec	NA
+12499	soso11	PUMPKIN	calabaza	žiku̧	žiku̧	100	864	NA	NA	josserand1983mixtec	NA
+12854	soso11	EGG	blanquillo, huevo	ⁿdiwi	ⁿdiwi	105	744	NA	NA	josserand1983mixtec	NA
+12950	soso11	EGG	jitomate	ti-loo	ti-loo	105	744	NA	NA	josserand1983mixtec	NA
+14002	soso11	GOURD BOWL	jícara	žaši	žaši	124	NA	NA	NA	josserand1983mixtec	NA
+15334	soso11	STONE OR ROCK	piedra	žuu	žuu	143	2125	NA	NA	josserand1983mixtec	NA
+15888	soso11	FOAM	espuma	ti-ʔi̧ñu̧	ti-ʔi̧ñu̧	150	1768	NA	NA	josserand1983mixtec	NA
+16485	soso11	FOAM	cuatro	ku̧u̧	ku̧u̧	150	1768	NA	NA	josserand1983mixtec	NA
+17523	soso11	HOT	caliente	i̧ʔni̧	i̧ʔni̧	172	1286	NA	NA	josserand1983mixtec	NA
+19193	soso11	YESTERDAY	año	kʷia	kʷia	195	1174	NA	NA	josserand1983mixtec	NA
