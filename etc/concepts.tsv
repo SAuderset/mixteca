@@ -175,8 +175,8 @@ IDlist	CATEGORY	GLOSS	CONCEPTICON_ID	CONCEPT	SIMILARITY
 174	property	big.PL		BIG (PLURAL)	
 175	property	small.SG		SMALL (SINGULAR)	
 176	property	small.PL		SMALL (PLURAL)	
-177	property	long.SG		LARGE (SINGULAR)	
-178	property	long.PL		LARGE (PLURAL)	
+177	property	long.SG		LONG (SINGULAR)	
+178	property	long.PL		LONG (PLURAL)	
 179	property	good	1035	GOOD	2
 180	property	sweet	717	SWEET	2
 181	property	salty	1091	SALTY	2
@@ -204,7 +204,7 @@ IDlist	CATEGORY	GLOSS	CONCEPTICON_ID	CONCEPT	SIMILARITY
 203	abstract	money	1559	MONEY	2
 204	abstract	work	2281	WORKING OR WORK	2
 205	abstract	word	1599	WORD	2
-206	abstract	fault, blame, sin	134	FAULT	4
+206	abstract	fault, blame, sin	381	BLAME	4
 207	abstract	dream	2374	DREAM	2
 208	abstract	when	1238	WHEN	2
 209	abstract	song, music	642	MUSIC	4
