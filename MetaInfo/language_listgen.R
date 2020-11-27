@@ -19,17 +19,10 @@ glimpse(conc2)
 # make new name column for better readability
 conc3 <- conc2 %>% unite("Name", Location:SubGroup, sep = "", remove = FALSE) %>% 
   mutate(Name = stri_trans_general(Name, "Latin-ASCII")) %>% 
-  mutate(Name = str_remove_all(Name, "de|del|\\(|\\)")) %>%
+  mutate(Name = str_remove_all(Name, " de | del | de la |\\(|\\)")) %>%
   mutate(Name = str_replace_all(Name, " ", ""))
 glimpse(conc3)
 
-# exclude de, del, get rid of brackets
 
-
-# rename columns
-lang2 <- lang1 %>% select(Number, Code = Name, Name = NameN, Location:Glottocode) 
-glimpse(lang2)
-
-
-# save as tsv
-write_tsv(conc2, "languages.tsv")
+# save file
+write_tsv(conc3, "languages.tsv")

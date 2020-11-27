@@ -1,276 +1,275 @@
-NUMBER	ENGLISH	SPANISH	CONCEPTICON_ID	CONCEPTICON_GLOSS
-1	ANIMAL	animal	619	ANIMAL
-2	AVOCADO	aguacate	3725	AVOCADO
-3	BACK	espalda	1291	BACK
-4	BANANA	plátano	868	BANANA
-5	TORTILLA BASKET	tenate		
-6	BELLY OR STOMACH	estómago	819	STOMACH
-7	BIG (PLURAL)	grande.PL	1202	BIG
-8	BIG (SINGULAR)	grande.SG	1202	BIG
-9	BIRD	pájaro	937	BIRD
-10	BLACK	negro	163	BLACK
-11	BONE	hueso	1394	BONE
-12	BROTHER (OF MAN)	hermano de hombre	559	BROTHER (OF MAN)
-13	CAT	gato	1208	CAT
-14	CHAYOTE	chayote		
-15	CHILD (DESCENDANT)	hijo/hija	1801	CHILD (DESCENDANT)
-16	CLOTH OR CLOTHES	tela, ropa		
-17	COOKING POT	olla	3653	COOKING POT
-18	CORN	maíz	506	MAIZE
-19	CORN FIELD	milpa	449	CORN FIELD
-20	CROSS-SEX SIBLING	hermana/hermano de otro genero		
-21	DAY (24 HOURS)	día	1225	DAY (NOT NIGHT)
-22	ALL DAY	todo el día		
-23	DEER	venado	1936	DEER
-24	DEW	rocío	1977	DEW
-25	DISEASE	enfermedad	1986	DISEASE
-26	DOG	perro	2009	DOG
-27	EGG	huevo	744	EGG
-28	EIGHT	ocho	1705	EIGHT
-29	FACE	cara	1560	FACE
-30	FAR	lejos	1406	FAR
-31	FAT (FROM ANIMALS)	manteca	1212	FAT (FROM ANIMALS)
-32	FATHER	padre	1217	FATHER
-33	FIFTEEN	quince	1709	FIFTEEN
-34	FISH	pez	227	FISH
-35	FIVE	cinco	493	FIVE
-36	FLOWER	flor	239	FLOWER
-37	FOOT	pie	1301	FOOT
-38	FOUR	cuatro	1500	FOUR
-39	GOOD	bueno	1035	GOOD
-40	GRASS	zacate	606	GRASS
-41	GRASSHOPPER	chapulín	607	GRASSHOPPER
-42	MIDDLE	medio, algunos	1093	MIDDLE
-43	HAND	mano	1277	HAND
-44	HEAVY	pesado	1210	HEAVY
-45	HEN	gallina	1514	HEN
-46	HOLE	hoyo	1667	HOLE
-47	HORN (ANATOMY)	cuerno	1393	HORN (ANATOMY)
-48	HOT	caliente	1286	HOT
-49	HOUSE	casa	1252	HOUSE
-50	LONG (PLURAL)	largo.PL	1203	LONG
-51	LONG (SINGULAR)	largo.SG	1203	LONG
-52	LIME (MATERIAL)	cal	2540	LIME (MATERIAL)
-53	MAN	hombre	1554	MAN
-54	MEAT	carne	2615	FLESH OR MEAT
-55	MEDICINE	medicina	1372	MEDICINE
-56	METAL	metal	2244	METAL
-57	MONEY	dinero	1559	MONEY
-58	MOTHER	madre	1216	MOTHER
-59	MOTHER VOCATIVE	mamá!		
-60	MOUNTAIN OR HILL	monte	1683	BUSH
-61	MOUTH	boca	674	MOUTH
-62	MUD	lodo	640	MUD
-63	MOUSE	ratón	1491	MOUSE
-64	MUSHROOM	hongo	641	MUSHROOM
-65	SONG	canción	1096	SONG
-66	NEAR	cerca de, está cerca	1942	NEAR
-67	NIGHT TIME	de noche		
-68	NINE	nueve	1483	NINE
-69	NOSE	nariz	1221	NOSE
-70	NOW OR TODAY	ahora, hoy	1376	NOW
-71	ONE	uno	1493	ONE
-72	PAPER	papel, libro	648	PAPER
-73	PATH	camino	2252	PATH
-74	PIG	marrano	1337	PIG
-75	PLATE	plato	480	PLATE
-76	POOR	pobre	1674	POOR
-77	POSSUM	tlacuache	470	POSSUM
-78	PRICKLY PEAR CACTUS	nopal		
-79	PRIEST	sacerdote	852	PRIEST
-80	PUMPKIN	calabaza	864	PUMPKIN
-81	RABBIT	conejo	1136	RABBIT
-82	RAIN (PRECIPITATION)	lluvia	658	RAIN (PRECIPITATION)
-83	RED	rojo	156	RED
-84	RICH	rico	712	RICH
-85	ROOSTER	gallo	1511	ROOSTER
-86	ROPE	mecate	1218	ROPE
-87	SALT	sal	1274	SALT
-88	SALTY	salado	1091	SALTY
-89	SCORPION	alacrán	1538	SCORPION
-90	SEVEN	siete	1704	SEVEN
-91	SHEEP	borrego	1331	SHEEP
-92	SIX	seis	1703	SIX
-93	SLOW	despacio	701	SLOW
-94	SMALL (SINGULAR)	chico.SG	1246	SMALL
-95	SNAKE	culebra	730	SNAKE
-96	STONE OR ROCK	piedra	857	STONE
-97	SUGAR CANE	caña	146	SUGAR CANE
-98	TASTY	sabroso	1813	TASTY
-99	TEN	diez	1515	TEN
-100	THREAD	hilo, hilado	1161	THREAD
-101	THREE	tres	492	THREE
-102	TOMATO	jitomate	986	TOMATO
-103	TORTILLA	tortilla		
-104	TOWN OR VILLAGE	pueblo	930	VILLAGE
-105	TREE	árbol, palo	906	TREE
-106	TWENTY	veinte	1710	TWENTY
-107	TWO	dos	1498	TWO
-108	UGLY	feo, bravo	1548	UGLY
-109	WATER	agua	948	WATER
-110	WHEN	cuándo	1238	WHEN
-111	WHITE	blanco	1335	WHITE
-112	WING	ala	1257	WING
-113	WOMAN	mujer	962	WOMAN
-114	WORD	palabra	1599	WORD
-115	WORKING OR WORK	trabajo	984	WORK (LABOUR)
-116	YEAR	año	1226	YEAR
-117	YELLOW	amarillo	1424	YELLOW
-118	YESTERDAY	ayer	1174	YESTERDAY
-119	AUNT	tía	1272	AUNT
-120	BASKET	canasta	1539	BASKET
-121	BEAN	frijol	832	BEAN
-122	BEESWAX	cera	1931	BEESWAX
-123	CHARCOAL	carbón	1188	CHARCOAL
-124	CHILI PEPPER	chile	919	CHILI PEPPER
-125	CLOTH	tela	1616	CLOTH
-126	CLOUD	nube	1489	CLOUD
-127	COTTON	algodón	1850	COTTON
-128	CUSTARD APPLE	chirimoya		
-129	DAUGHTER	hija	1357	DAUGHTER
-130	DAY (NOT NIGHT)	de día	1225	DAY (NOT NIGHT)
-131	EAR	oreja	1247	EAR
-132	EAR OF CORN (FRESH)	elote		
-133	BLAME	culpa	381	BLAME
-134	FIRE	lumbre, fuego	221	FIRE
-135	GOURD BOWL	jícara		
-136	HAIR	pelo, cabello	1040	HAIR
-137	HALF	medio	816	HALF
-138	HORSE	caballo	615	HORSE
-139	LAZY	flojo	1564	LAZY
-140	MOON	luna	1313	MOON
-141	NECK	neck	1333	NECK
-142	NETBAG	red	293	NETBAG
-143	NIGHT	noche	1233	NIGHT
-144	OWNER	dueño	1036	OWNER
-145	RAW	crudo	1959	RAW
-146	RIVER	río	666	RIVER
-147	SANDAL	huarache		
-148	SISTER (OF WOMAN)	hermana de mujer		
-149	SWEET	sweet	717	SWEET
-150	TAIL	cola	1220	TAIL
-151	UNCLE	tío	1327	UNCLE
-152	ANT	hormiga	587	ANT
-153	ASH	ceniza	646	ASH
-154	BED	cama, lecho	1663	BED
-155	BEE	abeja	665	BEE
-156	BIG	grande cosa	1202	BIG
-157	BITTER	amarga cosa	887	BITTER
-158	BLOOD	sangre	946	BLOOD
-159	BLOUSE (WOVEN)	huipil		
-160	COLD	frío	1287	COLD
-161	COMB	peine	1475	COMB
-162	DREAM	sueño	2455	DREAMING OR DREAM
-163	DUST	polvo	2	DUST
-164	FEATHER	pluma de aue pequeña	1201	FEATHER
-165	FOAM	espuma	1768	FOAM
-166	FROG	rana	503	FROG
-167	FURROW	surco de arado	1794	FURROW
-168	GARBAGE	basura	909	GARBAGE
-169	GREEN	color verde	1425	GREEN
-170	GRIDDLE	comal		
-171	HONEY	miel	942	HONEY
-172	INTESTINES	tripa, tripas	1991	INTESTINES
-173	JEALOUS	celoso	2821	JEALOUS
-174	LONG	largo como cordel o palo	1203	LONG
-175	LIGHTNING	rayo del cielo	1654	LIGHTNING
-176	MAMEY OR ZAPOTE	mamey, zapote		
-177	MAT	petate	195	MAT
-178	IRON	hierro, metal	621	IRON
-179	NET	red	2963	NET
-180	NEW	nuevo	1231	NEW
-181	OVEN	horno	1143	OVEN
-182	PIMPLE	grano	1809	PIMPLE
-183	PLAIN	llanura de campo	652	PLAIN
-184	PUS	materia, podre	1808	PUS
-185	RING	anillo	1374	RING
-186	ROOT	raíz	670	ROOT
-187	SKUNK	zorrillo		
-188	SMOKE (EXHAUST)	humo	778	SMOKE (EXHAUST)
-189	SMOOTH	lisa cosa	1234	SMOOTH
-190	SOAP	jabón	788	SOAP
-191	SON	hijo	1620	SON
-192	STOOL	silla	1476	CHAIR
-193	SWELLING	hinchazón	1903	SWELLING
-194	TASSEL	espiga de trigo		
-195	THORN	espina	124	THORN
-196	TONGUE	lengua	1205	TONGUE
-197	TOOTH	diente	1380	TOOTH
-198	URINE	orina	1142	URINE
-199	WIDE	ancha cosa como estera	1243	WIDE
-200	BOX OR CHEST	cajón	1592	CHEST
-201	TORTILLA CLOTH	servilleta		
-202	COCKROACH	cucaracha	1575	COCKROACH
-203	CORN DOUGH	masa		
-204	CORN STALK	rastrojo		
-205	FINGERNAIL	uña	1258	FINGERNAIL
-206	GREEN BEAN	ejote, vaina		
-207	HAWK	gavilán	3258	FALCON
-208	MUROID (MOUSE OR RAT)	ratón, rata	2139	MUROID (MOUSE OR RAT)
-209	NIXTAMAL	nixtamal		
-210	POST	horcón	281	POST
-211	RACCOON	mapache	828	RACCOON
-212	SMALL (PLURAL)	pequeño.PL	1246	SMALL
-213	SQUIRREL	ardilla	1628	SQUIRREL
-214	SWEET POTATO	camote	159	SWEET POTATO
-215	VULTURE	zopilote	1185	VULTURE
-216	BROTHER	hermano, hermanastro	1262	BROTHER
-217	HERBACEOUS PLANT	hierba, hoja		
-218	MAGUEY	maguey		
-219	MAMEY	mamey		
-220	ZAPOTE	zapote		
-221	MUSIC	música	642	MUSIC
-222	SISTER	hermana, hermanastra	1263	SISTER
-223	TROUSERS	pantalón	809	TROUSERS
-224	CHICKEN	pollo	1318	CHICKEN
-225	THUNDER	truena	1150	THUNDER
-226	RAT	rata	1490	RAT
-227	CLOTHES	ropa	1895	CLOTHES
-228	ZAPOTE (BLACK)	zapote negro		
-229	FATHER VOCATIVE	padre!, papá!		
-230	IMPORTANT	importante	1285	IMPORTANT
-231	LEAF	hoja	2250	LEAF (LEAFLIKE OBJECT)
-232	WEED	mala hierba	3288	WEED
-233	FODDER	forraje	3046	FODDER
-234	SLEEPY	sueño	3620	SLEEPY
-235	CLAY	barro	640	MUD
-236	LOOSE	flojo (una cosa amarrado)	2506	LOOSE
-237	MEZZANINE	altillo		
-238	SHIRT	camisa	1622	SHIRT
-239	COFFIN	ataúd	2011	COFFIN
-240	HOUSE (SMALL)	casita	1252	HOUSE
-241	PLANTED FIELD	planted field		
-242	WATTLE	cañizo		
-243	MEADOW FESCUE	cañuela		
-244	CORN HUSK	chala	3686	CORN HUSK
-245	CORN COB	mazorca		
-246	TADPOLE	renacuajo		
-247	TOAD	sapo	894	TOAD
-248	TUBE	caños	2956	TUBE
-249	POULTRY MANURE	cuita		
-250	EAGLE	á́guila	1905	EAGLE
-251	HAWK OR EAGLE	gavilucha		
-252	FALCON	halcón	3258	FALCON
-253	FIELD	campo	212	FIELD
-254	HILL WITH GRASS	monte		
-255	SUGAR CANE HONEY	miel de caña		
-256	INSIDE (PERSON)	dentro	1606	INSIDE
-257	STOMACH	estómago	819	STOMACH
-258	BRAND	insignia, marca		
-259	HAMMOCK	hamaca	2019	HAMMOCK
-260	BARBECUE	barbacoa		
-261	SMALLPOX	viruela	1054	SMALLPOX
-262	LEG	pierna	1297	LEG
-263	THICK	espeso	1244	THICK
-264	NEUTRAL (TASTE)	neutral		
-265	HORSE SHOE	herradura		
-266	SLIPPERY	resbala	3702	SLIPPERY
-267	ALTAR	altar	853	ALTAR
-268	SADDLE	montura	3065	SADDLE
-269	BROWN SUGAR LOAF	panela		
-270	LUSH	frondoso		
-271	LIQUID	líquido	58	LIQUID
-272	FLASH	destello		
-273	HERB	hierba		
-274	BELL	campana	2246	BELL
-275	FRO	sweet		
+NUMBER	ENGLISH	SPANISH	ENGLISH_NEW	CONCEPTICON_ID	CONCEPTICON_GLOSS
+1	ANIMAL	animal	animal (cover term)	619	ANIMAL
+2	AVOCADO	aguacate	avocado	3725	AVOCADO
+3	BACK	espalda	back (body part)	1291	BACK
+4	BANANA	plátano	banana (any kind)	868	BANANA
+5	TORTILLA BASKET	tenate	a basket to store tortillas		
+6	BELLY OR STOMACH	estómago	stomach (inside or outside)	819	STOMACH
+7	BIG (PLURAL)	grande.PL	big of plural referents	1202	BIG
+8	BIG (SINGULAR)	grande.SG	big of singular referents	1202	BIG
+9	BIRD	pájaro	bird (cover term)	937	BIRD
+10	BLACK	negro	black (color)	163	BLACK
+11	BONE	hueso	bone	1394	BONE
+12	BROTHER (OF MAN)	hermano de hombre	brother of a man	559	BROTHER (OF MAN)
+13	CAT	gato	cat	1208	CAT
+14	CHAYOTE	chayote	chayote squash		
+15	CHILD (DESCENDANT)	hijo/hija	child	1801	CHILD (DESCENDANT)
+16	CLOTH OR CLOTHES	tela, ropa	cloth or clothes (made of cloth)		
+17	COOKING POT	olla	pot for cooking	3653	COOKING POT
+18	CORN	maíz	corn (in grains)	506	MAIZE
+19	CORN FIELD	milpa	corn field	449	CORN FIELD
+20	CROSS-SEX SIBLING	hermana/hermano de otro genero	cross-sex sibling		
+21	DAY (24 HOURS)	día	day, date	1260	DAY (24 HOURS)
+22	ALL DAY	todo el día	timespan that covers a whole day		
+23	DEER	venado	deer	1936	DEER
+24	DEW	rocío	dew	1977	DEW
+25	DISEASE	enfermedad	disease, illness, sickness	1986	DISEASE
+26	DOG	perro	dog	2009	DOG
+27	EGG	huevo	egg	744	EGG
+28	EIGHT	ocho	eight	1705	EIGHT
+29	FACE	cara	face	1560	FACE
+30	FAR	lejos	far (away)	1406	FAR
+31	FAT (FROM ANIMALS)	manteca	fat, lard, grease	1212	FAT (FROM ANIMALS)
+32	FATHER	padre	father	1217	FATHER
+33	FIFTEEN	quince	fifteen	1709	FIFTEEN
+34	FISH	pez	fish	227	FISH
+35	FIVE	cinco	five	493	FIVE
+36	FLOWER	flor	flower	239	FLOWER
+37	FOOT	pie	foot	1301	FOOT
+38	FOUR	cuatro	four	1500	FOUR
+39	GOOD	bueno	good	1035	GOOD
+40	GRASS	zacate	grass, hay	606	GRASS
+41	GRASSHOPPER	chapulín	grasshopper (cover term)	607	GRASSHOPPER
+42	MIDDLE	medio, algunos	middle	1093	MIDDLE
+43	HAND	mano	hand	1277	HAND
+44	HEAVY	pesado	heavy	1210	HEAVY
+45	HEN	gallina	hen, also chicken	1514	HEN
+46	HOLE	hoyo	hole	1667	HOLE
+47	HORN (ANATOMY)	cuerno	horn	1393	HORN (ANATOMY)
+48	HOT	caliente	hot	1286	HOT
+49	HOUSE	casa	house	1252	HOUSE
+50	LONG (PLURAL)	largo.PL	long of plural referents	1203	LONG
+51	LONG (SINGULAR)	largo.SG	long of singular referents	1203	LONG
+52	LIME (MATERIAL)	cal	lime (the material, not the fruit)	2540	LIME (MATERIAL)
+53	MAN	hombre	man	1554	MAN
+54	MEAT	carne	meat	2615	FLESH OR MEAT
+55	MEDICINE	medicina	medicine, remedy	1372	MEDICINE
+56	METAL	metal	metal	2244	METAL
+57	MONEY	dinero	money	1559	MONEY
+58	MOTHER	madre	mother	1216	MOTHER
+59	MOTHER VOCATIVE	mamá!	mother vocative		
+60	MOUNTAIN OR HILL	monte	mountain or hill, typically with grass on it		
+61	MOUTH	boca	mouth (body part)	674	MOUTH
+62	MUD	lodo	mud	640	MUD
+63	MOUSE	ratón	mouse	1491	MOUSE
+64	MUSHROOM	hongo	mushroom	641	MUSHROOM
+65	SONG	canción	song	1096	SONG
+66	NEAR	cerca de, está cerca	near 	1942	NEAR
+67	NIGHT TIME	de noche	nighttime, time period when it is dark		
+68	NINE	nueve	nine	1483	NINE
+69	NOSE	nariz	nose	1221	NOSE
+70	NOW OR TODAY	ahora, hoy	now, today	1376	NOW
+71	ONE	uno	one	1493	ONE
+72	PAPER	papel, libro	paper	648	PAPER
+73	PATH	camino	path, road	2252	PATH
+74	PIG	marrano	pig	1337	PIG
+75	PLATE	plato	plate	480	PLATE
+76	POOR	pobre	poor	1674	POOR
+77	POSSUM	tlacuache	possum, opossum	470	POSSUM
+78	PRICKLY PEAR CACTUS	nopal	prickly pear cactus		
+79	PRIEST	sacerdote	priest	852	PRIEST
+80	PUMPKIN	calabaza	pumpkin, squash (cover term)	864	PUMPKIN
+81	RABBIT	conejo	rabbit	1136	RABBIT
+82	RAIN (PRECIPITATION)	lluvia	rain	658	RAIN (PRECIPITATION)
+83	RED	rojo	red (color)	156	RED
+84	RICH	rico	rich (having a lot of money, possessions)	712	RICH
+85	ROOSTER	gallo	rooster	1511	ROOSTER
+86	ROPE	mecate	rope	1218	ROPE
+87	SALT	sal	salt	1274	SALT
+88	SALTY	salado	salty	1091	SALTY
+89	SCORPION	alacrán	scorpion	1538	SCORPION
+90	SEVEN	siete	seven	1704	SEVEN
+91	SHEEP	borrego	sheep	1331	SHEEP
+92	SIX	seis	six	1703	SIX
+93	SLOW	despacio	slow	701	SLOW
+94	SMALL (SINGULAR)	chico.SG	small of singular referents	1246	SMALL
+95	SNAKE	culebra	snake (cover term)	730	SNAKE
+96	STONE OR ROCK	piedra	stone, rock	857	STONE
+97	SUGAR CANE	caña	sugar cane	146	SUGAR CANE
+98	TASTY	sabroso	tasty	1813	TASTY
+99	TEN	diez	ten	1515	TEN
+100	THREAD	hilo, hilado	thread	1161	THREAD
+101	THREE	tres	three	492	THREE
+102	TOMATO	jitomate	tomato	986	TOMATO
+103	TORTILLA	tortilla	tortilla		
+104	TOWN OR VILLAGE	pueblo	village, town	3609	TOWN OR VILLAGE
+105	TREE	árbol, palo	tree	906	TREE
+106	TWENTY	veinte	twenty	1710	TWENTY
+107	TWO	dos	two	1498	TWO
+108	UGLY	feo, bravo	ugly	1548	UGLY
+109	WATER	agua	water	948	WATER
+110	WHEN	cuándo	when (as a question)	1238	WHEN
+111	WHITE	blanco	white, clear (color)	1335	WHITE
+112	WING	ala	wing	1257	WING
+113	WOMAN	mujer	woman	962	WOMAN
+114	WORD	palabra	word	1599	WORD
+115	WORKING OR WORK	trabajo	work (activity)	1086	WORK (ACTIVITY)
+116	YEAR	año	year	1226	YEAR
+117	YELLOW	amarillo	yellow (color)	1424	YELLOW
+118	YESTERDAY	ayer	yesterday	1174	YESTERDAY
+119	AUNT	tía	aunt	1272	AUNT
+120	BASKET	canasta	basket, usually woven	1539	BASKET
+121	BEAN	frijol	bean, beans	832	BEAN
+122	BEESWAX	cera	wax	1931	BEESWAX
+123	CHARCOAL	carbón	charcoal	1188	CHARCOAL
+124	CHILI PEPPER	chile	chili pepper	919	CHILI PEPPER
+125	CLOTH	tela	cloth	1616	CLOTH
+126	CLOUD	nube	cloud	1489	CLOUD
+127	COTTON	algodón	cotton	1850	COTTON
+128	CUSTARD APPLE	chirimoya	custard apple 		
+129	DAUGHTER	hija	daughter	1357	DAUGHTER
+130	DAY (NOT NIGHT)	de día	daytime, the time when it is light outside	1225	DAY (NOT NIGHT)
+131	EAR	oreja	ear (body part)	1247	EAR
+132	EAR OF CORN (FRESH)	elote	fresh ear of corn		
+133	BLAME	culpa	blame, sin, fault	381	BLAME
+134	FIRE	lumbre, fuego	fire	221	FIRE
+135	GOURD BOWL	jícara	gourd bowl		
+136	HAIR	pelo, cabello	hair	1040	HAIR
+137	HALF	medio	half	816	HALF
+138	HORSE	caballo	horse	615	HORSE
+139	LAZY	flojo	lazy 	1564	LAZY
+140	MOON	luna	moon	1313	MOON
+141	NECK	neck	neck	1333	NECK
+142	NETBAG	bolsa de red	bag made of net	293	NETBAG
+143	NIGHT	noche	night	1233	NIGHT
+144	OWNER	dueño	owner	1036	OWNER
+145	RAW	crudo	raw	1959	RAW
+146	RIVER	río	river	666	RIVER
+147	SANDAL	huarache	sandal		
+148	SISTER (OF WOMAN)	hermana de mujer	sister of a woman		
+150	TAIL	cola	tail	1220	TAIL
+151	UNCLE	tío	uncle	1327	UNCLE
+152	ANT	hormiga	ant (cover term)	587	ANT
+153	ASH	ceniza	ash	646	ASH
+154	BED	cama, lecho	bed	1663	BED
+155	BEE	abeja	bee	665	BEE
+156	BIG	grande cosa	big	1202	BIG
+157	BITTER	amarga cosa	bitter	887	BITTER
+158	BLOOD	sangre	blood	946	BLOOD
+159	BLOUSE (WOVEN)	huipil	woven, traditional blouse		
+160	COLD	frío	cold (sensation)	1287	COLD
+161	COMB	peine	comb (instrument for combing hair)	1475	COMB
+162	DREAM	sueño	dream, dreaming	2455	DREAMING OR DREAM
+163	DUST	polvo	dust	2	DUST
+164	FEATHER	pluma de aue pequeña	feather	1201	FEATHER
+165	FOAM	espuma	foam	1768	FOAM
+166	FROG	rana	frog	503	FROG
+167	FURROW	surco de arado	furrow	1794	FURROW
+168	GARBAGE	basura	garbage, trash	909	GARBAGE
+169	GREEN	color verde	green (color)	1425	GREEN
+170	GRIDDLE	comal	griddle		
+171	HONEY	miel	honey	942	HONEY
+172	INTESTINES	tripa, tripas	intestines, tripes	1991	INTESTINES
+173	JEALOUS	celoso	jealous	2821	JEALOUS
+174	LONG	largo como cordel o palo	long	1203	LONG
+175	LIGHTNING	rayo del cielo	lightning	1654	LIGHTNING
+176	MAMEY OR ZAPOTE	mamey, zapote	mamey or zapote		
+177	MAT	petate	sleeping mat	195	MAT
+178	IRON	hierro, metal	iron, metal	3324	IRON OR METAL
+179	NET	red	net	2963	NET
+180	NEW	nuevo	new	1231	NEW
+181	OVEN	horno	oven	1143	OVEN
+182	PIMPLE	grano	pimple	1809	PIMPLE
+183	PLAIN	llanura de campo	plain	652	PLAIN
+184	PUS	materia, podre	pus	1808	PUS
+185	RING	anillo	ring	1374	RING
+186	ROOT	raíz	root	670	ROOT
+187	SKUNK	zorrillo	skunk		
+188	SMOKE (EXHAUST)	humo	smoke (from the fire)	778	SMOKE (EXHAUST)
+189	SMOOTH	lisa cosa	smooth	1234	SMOOTH
+190	SOAP	jabón	soap	788	SOAP
+191	SON	hijo	son	1620	SON
+192	STOOL	silla	chair	1476	CHAIR
+193	SWELLING	hinchazón	swelling	1903	SWELLING
+194	TASSEL	espiga de trigo	tassel		
+195	THORN	espina	thorn	124	THORN
+196	TONGUE	lengua	tongue	1205	TONGUE
+197	TOOTH	diente	tooth	1380	TOOTH
+198	URINE	orina	urine	1142	URINE
+199	WIDE	ancha cosa como estera	wide	1243	WIDE
+200	BOX OR CHEST	cajón	box, chest	1592	CHEST
+201	TORTILLA CLOTH	servilleta	cloth for wrapping tortillas		
+202	COCKROACH	cucaracha	cockroach	1575	COCKROACH
+203	CORN DOUGH	masa	corn dough		
+204	CORN STALK	rastrojo	corn stalk		
+205	FINGERNAIL	uña	fingernail	1258	FINGERNAIL
+206	GREEN BEAN	ejote, vaina	green bean		
+207	HAWK	gavilán	hawk	3258	FALCON
+208	MUROID (MOUSE OR RAT)	ratón, rata	mouse or rat	2139	MUROID (MOUSE OR RAT)
+209	NIXTAMAL	nixtamal	nixtamal		
+210	POST	horcón	post, housepost	281	POST
+211	RACCOON	mapache	raccoon	828	RACCOON
+212	SMALL (PLURAL)	pequeño.PL	small of plural referents	1246	SMALL
+213	SQUIRREL	ardilla	squirrel	1628	SQUIRREL
+214	SWEET POTATO	camote	sweet potato, edible tuber	159	SWEET POTATO
+215	VULTURE	zopilote	vulture	1185	VULTURE
+216	BROTHER	hermano, hermanastro	brother	1262	BROTHER
+217	HERBACEOUS PLANT	hierba, hoja	herbaceous plant		
+218	MAGUEY	maguey	maguey		
+219	MAMEY	mamey	mamey		
+220	ZAPOTE	zapote	zapote		
+221	MUSIC	música	music	642	MUSIC
+222	SISTER	hermana, hermanastra	sister	1263	SISTER
+223	TROUSERS	pantalón	pants	809	TROUSERS
+224	CHICKEN	pollo	chicken	1318	CHICKEN
+225	THUNDER	truena	thunder	1150	THUNDER
+226	RAT	rata	rat	1490	RAT
+227	CLOTHES	ropa	clothes	1895	CLOTHES
+228	ZAPOTE (BLACK)	zapote negro	black zapote		
+229	FATHER VOCATIVE	padre!, papá!	father vocative		
+230	IMPORTANT	importante	important	1285	IMPORTANT
+231	LEAF	hoja	leaf	2250	LEAF (LEAFLIKE OBJECT)
+232	WEED	mala hierba	weed	3288	WEED
+233	FODDER	forraje	fodder	3046	FODDER
+234	SLEEPY	sueño	sleepy	3620	SLEEPY
+235	CLAY	barro	clay	1399	CLAY
+236	LOOSE	flojo (una cosa amarrado)	loose, not fastened	2506	LOOSE
+237	MEZZANINE	altillo	a high place in the house, typically to sleep		
+238	SHIRT	camisa	shirt	1622	SHIRT
+239	COFFIN	ataúd	coffin	2011	COFFIN
+240	HOUSE (SMALL)	casita	little house	1252	HOUSE
+241	PLANTED FIELD	planted field	planted field		
+242	WATTLE	cañizo	wattle		
+243	MEADOW FESCUE	cañuela	meadow fescue		
+244	CORN HUSK	chala	dry corn husk	3686	CORN HUSK
+245	CORN COB	mazorca	corn cob		
+246	TADPOLE	renacuajo	tadpole		
+247	TOAD	sapo	toad	894	TOAD
+248	TUBE	caños	tube, pipe	2956	TUBE
+249	POULTRY MANURE	cuita	poultry manure		
+250	EAGLE	á́guila	eagle	1905	EAGLE
+251	GAVILUCHA	gavilucha	a type of bird, something similar to a hawk but smaller		
+252	FALCON	halcón	falcon	3258	FALCON
+253	FIELD	campo	field	212	FIELD
+254	HILL WITH GRASS	monte	hill or mountain with grass		
+255	SUGAR CANE HONEY	miel de caña	sugar cane honey		
+256	INSIDE (PERSON)	dentro	inside (of a person)	1606	INSIDE
+257	STOMACH	estómago	stomach (inside or outside)	819	STOMACH
+258	BRAND	insignia, marca	brand (used on livestock)		
+259	HAMMOCK	hamaca	hammock	2019	HAMMOCK
+260	BARBECUE	barbacoa	barbecue		
+261	SMALLPOX	viruela	smallpox	1054	SMALLPOX
+262	LEG	pierna	leg	1297	LEG
+263	THICK	espeso	thick	1244	THICK
+264	NEUTRAL (TASTE)	neutral	neutral (taste), lacking salt		
+265	HORSE SHOE	herradura	horse shoe		
+266	SLIPPERY	resbala	slippery	3702	SLIPPERY
+267	ALTAR	altar	altar	853	ALTAR
+268	SADDLE	montura	saddle	3065	SADDLE
+269	BROWN SUGAR LOAF	panela	brown sugar loaf		
+270	LUSH	frondoso	lush		
+271	LIQUID	líquido	liquid	58	LIQUID
+272	FLASH	destello	flash (of lightning)		
+273	HERB	hierba	herbaceous plant		
+274	BELL	campana	bell	2246	BELL
+275	SWEET	dulce	sweet	717	SWEET
