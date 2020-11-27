@@ -1,57 +1,49 @@
-appdirs==1.4.4
-bs4==0.0.1
-certifi==2020.11.8
+appdirs==1.4.3
+certifi==2020.4.5.1
 chardet==3.0.4
--e git+https://github.com/cldf/cldfbench/@abccf1d5eba75c98f8394c2f65f25ca320f31044#egg=cldfbench
--e git+https://github.com/cldf-datasets/wals.git@6833b645a5f57c32616a1293564abe2cf89c4b8f#egg=cldfbench_wals
--e git+https://github.com/cldf/cldfcatalog@f26c9ac38c1ab111a55682ae83f4ac1cb03333c3#egg=cldfcatalog
-clldutils==3.5.4
-colorlog==4.6.2
--e git+https://github.com/cldf/csvw.git@b10174cf852b6006d8c0e129dc6966bf70509bad#egg=csvw
-cycler==0.10.0
+cldfbench==1.2.2
+cldfcatalog==1.3.0
+clldutils==3.5.0
+colorlog==4.1.0
+csvw==1.7.0
 decorator==4.4.2
 gitdb==4.0.5
-idna==2.10
-iniconfig==1.1.1
+idna==2.9
 isodate==0.6.0
 jdcal==1.4.1
-kiwisolver==1.3.1
--e git+https://github.com/lingpy/lingpy.git@4d42cda2ecd7b54abaf1a2d4aa517c54ff89b573#egg=lingpy
--e git+https://github.com/lingpy/lingrex.git@9b3d7024c6b7302fbe1ffb4c4deab2db0c95d050#egg=lingrex
-lxml==4.6.1
-Markdown==3.3.3
-matplotlib==3.3.3
+lingpy==2.6.6
+Markdown==3.2.1
 networkx==2.2
 newick==1.0.0
-numpy==1.19.4
+numpy==1.18.4
 openpyxl==3.0.5
+packaging==20.3
+pandas==1.0.3
 pluggy==0.13.1
 purl==1.5
-py==1.9.0
-pybtex==0.23.0
+py==1.8.1
+pybtex==0.22.2
 pycldf==1.17.0
--e git+https://github.com/cldf-clts/pyclts@8883bed9ce42fe8ad64770947ce3e9bfc00f9981#egg=pyclts
--e git+https://github.com/concepticon/pyconcepticon.git@86cf8b33182298c709736360e65caf29570d940e#egg=pyconcepticon
-pycountry==20.7.3
--e git+https://github.com/clld/pyglottolog.git@c17c4d48c35c0666d58eac89ba5ea806f62a14ff#egg=pyglottolog
--e git+https://github.com/lexibank/pylexibank.git@fe6be3864c7b4037b7a4413bca4a9f7be8779735#egg=pylexibank
-pyparsing==2.4.7
-pytest==6.1.2
-regex==2020.11.13
-requests==2.25.0
+-e git+https://github.com/cldf-clts/pyclts.git@ff806c08572bf57817e528d9d960b26c90ecb90f#egg=pyclts
+pyconcepticon==2.6.0
+pycountry==19.8.18
+pyglottolog==3.2.1
+pylexibank==2.8.1
+pytest==5.4.1
+pytz==2020.1
+regex==2020.10.28
+requests==2.23.0
 rfc3986==1.4.0
-scipy==1.5.4
+scipy==1.4.1
 segments==2.1.3
--e git+https://github.com/LinguList/chinese.git@b6b6372dbf08dc15cc6e58ea9f8ab25975b6e5c7#egg=sinopy
-six==1.15.0
+six==1.14.0
 smmap==3.0.4
-soupsieve==2.0.1
-SQLAlchemy==1.3.20
+SQLAlchemy==1.3.16
 tabulate==0.8.7
 termcolor==1.1.0
-tqdm==4.51.0
+tqdm==4.46.0
 uritemplate==3.0.1
-urllib3==1.26.2
-wcwidth==0.2.5
+urllib3==1.25.9
+wcwidth==0.1.9
 xlrd==1.2.0
-zipp==3.4.0
+zipp==3.1.0

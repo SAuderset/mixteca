@@ -82,8 +82,8 @@ wl3[19869, ]
 wl3 <- wl3 %>% arrange(IDlist, DOCULECT)
 
 # entries per concept
-ct <- table(wl3$IDlist)
-plot(ct)
+ct <- sort(table(wl3$IDlist))
+plot(sort(ct))
 mean(ct)
 median(ct)
 max(ct)

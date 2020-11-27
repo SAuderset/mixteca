@@ -14,7 +14,7 @@
             "rdf:type": "prov:Entity",
             "dc:title": "Glottolog",
             "rdf:about": "https://github.com/glottolog/glottolog",
-            "dc:created": "v4.3"
+            "dc:created": "v4.3-treedb-fixes-213-g17033193e9"
         },
         {
             "rdf:type": "prov:Entity",
@@ -25,14 +25,14 @@
         {
             "rdf:type": "prov:Entity",
             "dc:title": "CLTS",
-            "rdf:about": "https://github.com/cldf-clts/clts/",
+            "rdf:about": "https://github.com/cldf-clts/clts",
             "dc:created": "v1.4-108-g56bba2b"
         }
     ],
     "prov:wasGeneratedBy": [
         {
             "dc:title": "python",
-            "dc:description": "3.6.12"
+            "dc:description": "3.7.7"
         },
         {
             "dc:title": "python-packages",
