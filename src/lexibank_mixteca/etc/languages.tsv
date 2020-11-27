@@ -107,13 +107,13 @@ Number	Code	Name	Location	SubGroup	Latitude	Longitude	Glottocode	ISO639P3code
 106	poto11	PotoichanMixtec	Potoichan	Mixtec	17.42233	-98.72009	poto1253	mim
 107	prog11	SanMiguelProgresoMixtec	San Miguel Progreso	Mixtec	17.1743	-97.79838	NA	NA
 108	prog12	SanJeronimoProgresoMixtec	San Jerónimo Progreso	Mixtec	17.44616	-98.15466	sila1250	mks
-109	prom01	Proto-MixtecMixtec	Proto-Mixtec	Mixtec	NA	NA	mixt1427	NA
-110	prot01	Proto-TriqueMixtec	Proto-Trique	Mixtec	NA	NA	triq1251	NA
+109	prom01	Proto-Mixtec	Proto-Mixtec	Mixtec	NA	NA	mixt1427	NA
+110	prot01	Proto-Triqui	Proto-Triqui	Triqui	NA	NA	triq1251	NA
 111	reye11	SantosReyesTepejilloMixtec	Santos Reyes Tepejillo	Mixtec	17.43262	-97.93997	NA	NA
 112	sayu11	SanFranciscoSayultepecMixtec	San Francisco Sayultepec	Mixtec	16.59537	-98.12933	pino1237	mio
 113	sila11	SilacayoapamMixtec	Silacayoapam	Mixtec	17.5541	-98.1163	sila1250	mks
 114	sind11	SanMateoSindihuiMixtec	San Mateo Sindihui	Mixtec	17.02	-97.3036	sind1277	xts
-115	sini11	SanJoseSinicahuaMixtec	San José Sinicahua	Mixtec	17.221800000000002	-97.5904	sini1243	xti
+115	sini11	SanJoseSinicahuaMixtec	San José Sinicahua	Mixtec	17.2218	-97.5904	sini1243	xti
 116	soso11	SanJeronimoSosolaMixtec	San Jerónimo Sosola	Mixtec	17.36657	-97.03295	NA	NA
 117	soya11	SanBartoloSoyaltepecMixtec	San Bartolo Soyaltepec	Mixtec	17.5892	-97.1921	soya1236	vmq
 118	tama11	SanJuanTamazolaMixtec	San Juan Tamazola	Mixtec	17.1258	-97.0998	tama1339	vmx
