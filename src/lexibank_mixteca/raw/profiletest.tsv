@@ -1,0 +1,764 @@
+Grapheme	IPA	EXAMPLES	LANGUAGES	FREQUENCY	CODEPOINTS
+·	·	i̧·ñu̧, ñu̧·a̧	coxc11, nund13, tlal11	3	U+00b7
+					
+'¹	'¹	xi'¹i⁴, se'¹e³	yolo11	27	U+0027 U+00b9
+'³	'³	be'³e³, ña'³a⁴	yolo11, chic12	18	U+0027 U+00b3
+'⁴	'⁴	na'⁴nu³, ti¹-ma'⁴a²	yolo11	8	U+0027 U+2074
+'⁴$	'⁴	guchrun'⁴	chic12	1	U+0027 U+2074 U+0024
+'a$	'a	và'a, xá'a	pied12, tlah11, flor12, jica13, mont12, yucu17, mixt11, dura11	25	U+0027 U+0061 U+0024
+'a	'a	xí'an, xǎ'an	tlah11, chic12, mixt11, dura11, yucu17, jica13	7	U+0027 U+0061
+^'a	'a	'a³ta³, 'a³tax¹	papa11, copa11	4	U+005e U+0027 U+0061
+'á$	'á	ya'á, tsa'á	mixt11, tlah11, jica13, dura11, yucu17, mont12	15	U+0027 U+00e1 U+0024
+'á	'á	shá'án, xà'án	mont12, dura11	2	U+0027 U+00e1
+'à$	'à	ya'à, má'à	dura11, mont12, mixt11, yucu17, flor12	15	U+0027 U+00e0 U+0024
+'à	'à	xà'àn, xǎ'àn	yucu17, mixt11	2	U+0027 U+00e0
+'â	'â	xǎ'ân	pied12, flor12	2	U+0027 U+00e2
+'ǎ$	'ǎ	nta'ǎ, ya'ǎ	pied12, flor12, yucu17	8	U+0027 U+01ce U+0024
+'a̠$	'a̠	má'a̠	jica13	1	U+0027 U+0061 U+0320 U+0024
+^'đ	'đ	'đìtò, 'đìđí	diux11	2	U+005e U+0027 U+0111
+'e$	'e	ve'e, sè'e	pied12, mixt11, mont12, dura11, yucu17, jica13, tlah11, flor12	14	U+0027 U+0065 U+0024
+^'e	'e	'e⁴nu⁴	papa11	1	U+005e U+0027 U+0065
+'é$	'é	tsì-tsie'é, ki-ché'é	tlah11, mixt11, pied12, jica13, flor12, dura11, yucu17	13	U+0027 U+00e9 U+0024
+'è$	'è	kuè'è, xè'è	tlah11, pied12, dura11, mont12, flor12, mixt11, yucu17	16	U+0027 U+00e8 U+0024
+'è	'è	xè'è-mii, xe'è-nùú-ñu'ú	tlah11, flor12	2	U+0027 U+00e8
+'e̠$	'e̠	kue̠'e̠	jica13	1	U+0027 U+0065 U+0320 U+0024
+'i$	'i	í'i, ndì'i	jica13, tlah11, pied12, yucu17, flor12, mont12, dura11	15	U+0027 U+0069 U+0024
+'i	'i	mǐ'in, tǐ'in	mixt11, yucu17	8	U+0027 U+0069
+^'i	'i	'i⁴yu⁴, 'i⁴yan⁴-chin²-ye⁴’en⁴	papa11	4	U+005e U+0027 U+0069
+'í$	'í	ntsi'í, xì'í	jica13, tlah11, dura11, flor12	5	U+0027 U+00ed U+0024
+'í	'í	txì-nì'ín-, ti'ín	tlah11, dura11	2	U+0027 U+00ed
+'ì$	'ì	nché'ì, nchá'ì	mixt11, dura11, tlah11, mont12, yucu17, flor12	10	U+0027 U+00ec U+0024
+'ì	'ì	sì'ìn, si'ìn	dura11, flor12, pied12, tlah11, mont12, yucu17	8	U+0027 U+00ec
+'ǐ$	'ǐ	xi'ǐ, tsì'ǐ	pied12, mixt11, tlah11, flor12	4	U+0027 U+01d0 U+0024
+^'ï	'ï	'ïn⁴	chic12	1	U+005e U+0027 U+00ef
+'i̠	'i̠	si̠'i̠n	jica13	1	U+0027 U+0069 U+0320
+^'kʷ	'kʷ	'kʷà̧à̧	diux11	1	U+005e U+0027 U+006b U+02b7
+'l	'l	tó'lo, pe'lo	yucu17, tlah11, mixt11, dura11	4	U+0027 U+006c
+^'l	'l	'lùčì	diux11	1	U+005e U+0027 U+006c
+'m	'm	sa'mǎ, ña'mǐ	mixt11, pied12, tlah11, yucu17, jica13, dura11, flor12	27	U+0027 U+006d
+'n	'n	ká'nu, i'ní	dura11, pied12, flor12, mixt11, tlah11, yucu17, jica13	26	U+0027 U+006e
+^'n	'n	'nï¹, 'na³nii³	chic12, copa11	3	U+005e U+0027 U+006e
+'ñ	'ñ	xí'ña, mà'ñú	tlah11, pied12, flor12, jica13	7	U+0027 U+00f1
+^'ñ	'ñ	'ñànì	diux11	1	U+005e U+0027 U+00f1
+'o$	'o	lo'o, sò'o	dura11, jica13, tlah11, flor12, pied12, mixt11, mont12, yucu17	25	U+0027 U+006f U+0024
+'o	'o	tò'on, yo'o⁵³	mont12, chic12, flor12	5	U+0027 U+006f
+'ó$	'ó	yo'ó, nto'ó	jica13, yucu17, tlah11, mixt11	13	U+0027 U+00f3 U+0024
+'ó	'ó	xò'ón	mont12	1	U+0027 U+00f3
+'ò$	'ò	yo'ò, ntò'ò	mont12, dura11	9	U+0027 U+00f2 U+0024
+'ò	'ò	sà'òn, ò'òn	mont12	3	U+0027 U+00f2
+'ô$	'ô	xìto'ô	pied12	1	U+0027 U+00f4 U+0024
+'ǒ$	'ǒ	ntò'ǒ, nto'ǒ	pied12, flor12, yucu17	8	U+0027 U+01d2 U+0024
+'t	't	ndokó-tyá'tàn, vì'tá	tlah11, diux11	3	U+0027 U+0074
+'ts	'ts	í'tsin	pied12	1	U+0027 U+0074 U+0073
+'u	'u	tù'un, xǔ'un	mixt11, tlah11, yucu17, dura11, jica13, pied12, chic12, flor12	14	U+0027 U+0075
+'u$	'u	ñu'u, nù'u	jica13, yucu17, pied12, dura11	6	U+0027 U+0075 U+0024
+^'u	'u	'ui⁵³, 'uej³e	chic12	2	U+005e U+0027 U+0075
+'ú$	'ú	yu'ú, ñu'ú	yucu17, tlah11, mixt11, jica13	6	U+0027 U+00fa U+0024
+'ú	'ú	xù'ún, shù'ún	tlah11, pied12, dura11, flor12	4	U+0027 U+00fa
+'ù	'ù	ù'ùn, xa'ùn	tlah11, mixt11, pied12, dura11, yucu17, flor12	13	U+0027 U+00f9
+'ù$	'ù	ñu'ù, ku'ù	pied12, yucu17, mixt11, mont12, flor12	7	U+0027 U+00f9 U+0024
+'ǔ$	'ǔ	yu'ǔ	pied12, flor12	2	U+0027 U+01d4 U+0024
+'u̠	'u̠	u̠'u̠n, xa̠'u̠n	jica13	2	U+0027 U+0075 U+0320
+'v	'v	ntá'vi, ù'và	dura11, jica13, tlah11, pied12, flor12, mixt11, yucu17	34	U+0027 U+0076
+'y	'y	ntsia'yì, ntia̠'yu̠	pied12, jica13, flor12	3	U+0027 U+0079
+yaaha,-yaa	<???>	yaaha,-yaa	chic02	1	U+0079 U+0061 U+0061 U+0068 U+0061 U+002c U+002d U+0079 U+0061 U+0061
+tay-dzi-~-si-yahui	<???>	tay-dzi-~-si-yahui	tepo01	1	U+0074 U+0061 U+0079 U+002d U+0064 U+007a U+0069 U+002d U+007e U+002d U+0073 U+0069 U+002d U+0079 U+0061 U+0068 U+0075 U+0069
+-	<?>	sani-sa-nuu-sichi, sani-cahi-sichi	tepo01, jami11, ocot11, yolo11, prog12, alac11, copa11, diux11, coat11, ayut11, chic02, abas11, yoso11, gran11, conc11	100	U+002d
+’	<?>	ya’a, yo’o	abas11, diux11, zaca11, tlah11	100	U+2019
+N	<?>	đi̧Nni̧, žatNi̧	yoso11, tlac11, atat11, yolo11, achi11, moli11, teit11, tama11, huit11, adeq11, nuxi11, tata11, cuil11, yuta12, yucu11, coxc11, jate11, cuau11, mont14, tida11, peno11	100	U+004e
+ȩ$	<?>	ñu̧mȩ, đu̧ʔmȩ	pied11, cuau11, coat11, cuya11, sind11, itun11, este11, nuxa11, tama11, huit11, prog11, peno11, yuta11, nuxi11, prom01, tepo11, yuta12, chic11, tama12, joco11, tlaz11, mont13, nuyo11, ixta12, tata11, apoa11, atat11, yucu11, apas11, soya11, tida11	87	U+0229 U+0024
+ȼ	<?>	žuȼa, ⁿduȼa	cuau11, coat11, guad11, mixt11, cuil11, ixta12, apoa11, tejo11, joco11, mont14, apas11, chaz11, chig11, ndua11, zapo11, dura11, chic11, ixpa11, adeq11, tlac11, tlac12, soya11, tlal11	71	U+023c
+ȩ	<?>	kʷȩñu̧, nȩñu̧	prom01, huit11, cuya11, cuau11, itun11, coat11, tepo11, joco11, pied11, nuxi11, tlac11, sind11, yucu11, chic11, este11, chaz11, mont13, nuxa11, yuta11, ixta12, chig11, tata11, caca11, apoa11, diux11, tepe11, zapo11, tama11, brav11, flor11, yuta12, apas11, soya11, teit11, peno11, yucu12	67	U+0229
+^ȼ	<?>	ȼi-na̧na̧, ȼee	zapo11, coat11, chaz11, chig11, cuau11, tlac11, guad11, mixt11, joco11, soso11, adeq11, cuil11, apoa11, tlac12, coxc11, dura11, apas11, chic11, tlal11, tejo11	45	U+005e U+023c
+’$	<?>	yuku’, cha’a’	zaca11, metl11	9	U+2019 U+0024
+ꞌ	<?>	nchaꞌì, ñaꞌá	yucu17	9	U+a78c
+ 	<?>	su ⁿduʔu, ⁿdika kʷaʔa	zaca11, chic11, jami11, pino11, colo11, tlah11, chay11	8	U+00a0
+^ȼ̣	<?>	ȼ̣ì-kʷìí, ȼ̣eye	guad11	8	U+005e U+023c U+0323
+ǖ	<?>	yǖʔǖ, yǖkǜ	tama12, cahu11, more11, prog12	7	U+01d6
+ǜ$	<?>	ⁿdǘčǜ, yǖkǜ	prog12, cahu11	7	U+01dc U+0024
+ȩȩ$	<?>	ñȩȩ, čȩȩ	tepo11, chaz11, apoa11, yucu13, ndua11, toto12	7	U+0229 U+0229 U+0024
+’h	<?>	kú’hú, kwí’hí	diux11	6	U+2019 U+0068
+Ñ	<?>	ñu̧Ñnȩ, ⁿdakʷa-ta-Ña̧ʔa̧	cuya11, cuau11, esta11, yoso11	6	U+00d1
+ǜ	<?>	yǜtā, žǜkǜ	cahu11, prog12	5	U+01dc
+^ᴮ	<?>	ᴮ-séɁẽ̀, ᴮ-tówĩ̀	prom01	5	U+005e U+1d2e
+?$	<?>	či-čii?, ii-?	tlal11, chaz11, chig11, flor11, tlac11	5	U+003f U+0024
+ǖ$	<?>	yǖʔǖ, tǖtǖ	cahu11, prog12	4	U+01d6 U+0024
+ǘ	<?>	ⁿdǘčǜ, žǘkǜ	prog12, ahue11	4	U+01d8
+ȩ̀$	<?>	nȩ̀ñȩ̀, mī̧ʔnȩ̀	chic11, atat11, nuyo11, peno11	4	U+0229 U+0300 U+0024
+ȩ̄$	<?>	ñū̧xȩ̄, ⁿdixȩ̄	yucu12, atat11, ocot11	4	U+0229 U+0304 U+0024
+ȩ́	<?>	nȩ́ʔí, kʷȩ́ñù̧	yucu12, atat11, peno11	4	U+0229 U+0301
+^ȼʸ	<?>	ȼʸee, ȼʸeʔe	joco11, dura11, tlac12	3	U+005e U+023c U+02b8
+ǚ$	<?>	žǖkǚ, žǖʔǚ	tama12, ahue11	3	U+01da U+0024
+I$	<?>	žasI, žašI	caca11, aten11, zapo11	3	U+0049 U+0024
+ȩ̄	<?>	nȩ̄ʔžù, ñȩ̄xī̧	nuyo11, yucu12	3	U+0229 U+0304
+ǜs	<?>	ⁿdǜsà	cahu11, prog12	2	U+01dc U+0073
+.	<?>	kwa.ìì, ī̧ì̧.ī̧	mixt11, metl11	2	U+002e
+=	<?>	te²=a²ma², ⁿdí=Ɂ²-kʷéjṍ	chal11, prom01	2	U+003d
+^ȩ	<?>	ȩni̧, ȩñu̧	coat11, flor11	2	U+005e U+0229
+ȩ̀	<?>	nȩ̀ñȩ̀, nȩ̀ʔȩ̀	chic11, peno11	2	U+0229 U+0300
+^ⁿȼ	<?>	ⁿȼeʔye, ⁿȼuʔƀa	moli11, guad11	2	U+005e U+207f U+023c
+°	<?>	k°aʔa, k°iya	chic11, jami11	2	U+00b0
+^Ñ	<?>	Ñiaaha	chic02	1	U+005e U+00d1
+^Ú	<?>	Úú	chic02	1	U+005e U+00da
+ȩ̌$	<?>	ⁿdíʔšȩ̌	coat11	1	U+0229 U+030c U+0024
+ǖs	<?>	tn-ǖsǖ	cahu11	1	U+01d6 U+0073
+^ǖh	<?>	ǖhǖ	prog12	1	U+005e U+01d6 U+0068
+ǜǜ$	<?>	yǜǜ	cahu11	1	U+01dc U+01dc U+0024
+^̠$	<?>	̠	xoch11	1	U+005e U+0320 U+0024
+’w	<?>	u’wà	pena11	1	U+2019 U+0077
+^ȼ̣ʸ	<?>	ȼ̣ʸàa	guad11	1	U+005e U+023c U+0323 U+02b8
+ȼʸ	<?>	ⁿdi-ȼʸeʔe	teco11	1	U+023c U+02b8
+A	<?>	sA-kʷaa	nuch11	1	U+0041
+`$	<?>	tù̧mī̧`	yucu15	1	U+0060 U+0024
+º	<?>	so̧ʔºmȩ	prog11	1	U+00ba
+`	<?>	ⁿdī`čī	yucu15	1	U+0060
+̧ⁿ	<?>	či-na̧na-̧ⁿčaʔža	ixpa11	1	U+0327 U+207f
+ȩʰ	<?>	žȩʰtu̧	cuau11	1	U+0229 U+02b0
+ȼ̣	<?>	yuȼ̣a	guad11	1	U+023c U+0323
+ǘ$	<?>	žǖǘ	tama12	1	U+01d8 U+0024
+^ş	<?>	şā̧ʔò̧	ocot11	1	U+005e U+015f
+ŵ	<?>	ⁿdaʔŵi	brav11	1	U+0175
+ȩ́ȩ́$	<?>	kʷȩ́ȩ́	yucu12	1	U+0229 U+0301 U+0229 U+0301 U+0024
+^ˀᵑ	<?>	ˀᵑɡo¹³ʰ	chic12	1	U+005e U+02c0 U+1d51
+¹	¹	ni¹i⁴, tu-¹sa¹’an⁴	yolo11, papa11, alco11, yucu16, chal11, zaca11, prom01	100	U+00b9
+¹$	¹	jy¹ky¹, i²na¹	yolo11, copa11, yucu16, chal11, papa11, alco11, zaca11	100	U+00b9 U+0024
+¹³$	¹³	ndu³xi⁴-che⁴e¹³, yahaan¹³	copa11, yolo11, chic12	9	U+00b9 U+00b3 U+0024
+¹³	¹³	xa¹³ni²	yolo11	1	U+00b9 U+00b3
+¹³ʰ$	¹³ʰ	ja¹³ʰ, ˀᵑɡo¹³ʰ	chic12	2	U+00b9 U+00b3 U+02b0 U+0024
+¹⁴$	¹⁴	y’a²ta¹⁴, stu²vi¹⁴	papa11	9	U+00b9 U+2074 U+0024
+¹⁴	¹⁴	i¹⁴ni³, ti¹⁴chi³	yolo11, papa11	7	U+00b9 U+2074
+¹ʰ$	¹ʰ	na³to³²-ro²ʔo¹ʰ, de⁴ʔlo¹ʰ	chic12	6	U+00b9 U+02b0 U+0024
+¹ˀ$	¹ˀ	ɡa³tsi¹ˀ, sa¹ˀ	chic12	10	U+00b9 U+02c0 U+0024
+¹ˀ	¹ˀ	ne³²-ri¹ˀi¹, ɡa¹ˀã³	chic12	3	U+00b9 U+02c0
+²	²	gua²-nd’a̠²ca̠⁴, a²ma²	papa11, zaca11, chal11, yolo11, yucu16	100	U+00b2
+²$	²	a²ma², ndi³chi²	yolo11, papa11, copa11, chal11, yucu16, alco11, zaca11, prom01	100	U+00b2 U+0024
+²¹$	²¹	be²e²¹, ju²ku²¹	zaca11	16	U+00b2 U+00b9 U+0024
+²¹	²¹	ni²i²¹Ɂ, ⁿdi²bi²¹Ɂ	zaca11	8	U+00b2 U+00b9
+²³⁴$	²³⁴	yi²ta²³⁴	papa11	1	U+00b2 U+00b3 U+2074 U+0024
+²⁴$	²⁴	y’en²⁴, m’in²⁴	papa11, yolo11	14	U+00b2 U+2074 U+0024
+²ʰ$	²ʰ	tʃi²ʰ, na²ʰ	chic12	3	U+00b2 U+02b0 U+0024
+³	³	ca³’a³-yi³ndi³tu³, chi³du³	yolo11, papa11, copa11	100	U+00b3
+³$	³	chi³du³, nii³	copa11, yolo11, papa11	100	U+00b3 U+0024
+³¹$	³¹	shihii³¹, mã²ru³¹	copa11, chic12	13	U+00b3 U+00b9 U+0024
+³²$	³²	yahan³², shtax³²	chic12, copa11, yolo11, papa11	64	U+00b3 U+00b2 U+0024
+³²	³²	na³to³²-ro²ʔo¹ʰ, ne³²-ri¹ˀi¹	chic12	5	U+00b3 U+00b2
+³²ʰ$	³²ʰ	ri³nĩ³²ʰ, sa³ˀã³²ʰ	chic12	21	U+00b3 U+00b2 U+02b0 U+0024
+³⁴$	³⁴	gu’man³⁴, yan³⁴	chic12	15	U+00b3 U+2074 U+0024
+³⁴	³⁴	i³t-cu³⁴chi⁴, nne³⁴-ri’i’⁴	papa11, chic12	2	U+00b3 U+2074
+³⁴²$	³⁴²	nã³⁴², ta³⁴²	chic12	2	U+00b3 U+2074 U+00b2 U+0024
+³⁵$	³⁵	wːe³⁵, ɡu³ʈʂũ³⁵	chic12	23	U+00b3 U+2075 U+0024
+³ʰ$	³ʰ	re³ʰ, ũ²ʔũ³ʰ	chic12	25	U+00b3 U+02b0 U+0024
+³ˀ	³ˀ	du³ˀwi³, da³ˀnĩ³²-ta³ˀu³²	chic12	31	U+00b3 U+02c0
+³ˀ$	³ˀ	we³ˀ, ʈʂĩ³ˀ	chic12	22	U+00b3 U+02c0 U+0024
+⁴$	⁴	ñu¹ñu⁴, neko⁴	yolo11, papa11, copa11	100	U+2074 U+0024
+⁴	⁴	'i⁴yan⁴-chin²-ye⁴’en⁴, ndu³xi⁴-che⁴e¹³	papa11, yolo11, alco11, chic12	100	U+2074
+⁴¹	⁴¹	ʧi⁴¹ĩ⁴, ja⁴¹a⁴	alco11	3	U+2074 U+00b9
+⁴²$	⁴²	ñu³u⁴², ta¹kwi⁴²	yolo11	2	U+2074 U+00b2 U+0024
+⁴³$	⁴³	cu’a⁴³, nã⁴³	chic12, papa11	9	U+2074 U+00b3 U+0024
+⁴³	⁴³	cu⁴³-yi³nun³-ta̠³’a̠⁴	papa11	1	U+2074 U+00b3
+⁴⁵$	⁴⁵	ai’⁴⁵, nichrun’⁴⁵	chic12	5	U+2074 U+2075 U+0024
+⁴⁵	⁴⁵	da’ni⁴⁵-sna’u’⁴, da’ni⁴⁵-xano’⁵	chic12	3	U+2074 U+2075
+⁴ʰ$	⁴ʰ	du³gᵂã³ˀã⁴ʰ, a³tsi⁴ʰ	chic12	2	U+2074 U+02b0 U+0024
+⁵$	⁵	chruun⁵, yatsix⁵	copa11, chic12	25	U+2075 U+0024
+⁵	⁵	nato⁴-ro’oj⁵o, gan’⁵an³	chic12	9	U+2075
+⁵³$	⁵³	rumi⁵³, 'ui⁵³	chic12	12	U+2075 U+00b3 U+0024
+⁵⁴$	⁵⁴	yyaj⁵⁴	chic12	1	U+2075 U+2074 U+0024
+a	a	ti¹-ma'⁴a², sa³a²	yolo11, abas11	100	U+0061
+a$	a	tata, una	abas11, jami11, prog12, ayut11, ocot11, coat11	100	U+0061 U+0024
+^a	a	ađi, ama	chic12, tepo01, chay11, nuxa11, nuxi11, chig11, caca11, atat11, tepe11, prom01, sind11, zaca11, apas11, chic11, jami11, soya11, pena11, mica11, atoy11, chal11, yolo11, chaz11, tepe03, alco11, mixt11, sayu11, joco11, ixta11, alac11, tepe12, cuya11, juxt11, pied11, cuil11, yuta11, ixta12, pied12, mech11, jica12, lore11, apoa11, cuau11, diux11, itun11, tlac11, coat11, tama11, nund11, huaz11, papa11, pino11, esta11, tepo11, ayut11, prog12, colo11, tila11, chic02, copa11, achi11, xoch11, more11, tona11, tida11, coso11, jica11, acat11, teit11, gran11, pino12, jica13, tejo11	100	U+005e U+0061
+á	á	kwáhá, kánī	diux11, prog12, alac11, yoso11, ocot11, conc11, chic02, ayut11, gran11, peno11, coat11, abas11, jami11, caca11	100	U+00e1
+á$	á	kʷáʔá, kwáhá	diux11, coat11, prog12, alac11, peno11, ocot11, mixt11, yoso11, abas11, ayut11, gran11, cahu11, xaya11, jami11, jica11, metl11, caca11, atat11, chic02, conc11	100	U+00e1 U+0024
+^á	á	ámá, áwã́	jami11, huen11, colo11, coat11, prom01, abas11	6	U+005e U+00e1
+á̧$	á̧	kʷà̧á̧, ñù̧má̧	peno11, yucu15, nuch11, coat11, mixt11, xaya12, coic11, xaya11, caca11, metl11, alac11, diux11, ocot11	24	U+00e1 U+0327 U+0024
+á̧	á̧	ná̧ʔví, kʷá̧à̧	yucu15, peno11, nuyo11, mixt11, coic11, tama12, prog12, atat11, yucu12	16	U+00e1 U+0327
+à$	à	šàʔà, ītà	prog12, gran11, caca11, mixt11, ayut11, chay11, mont12, peno11, alac11, xaya11, atat11, ocot11, abas11, moli11, pied12, jica11, flor12, cahu11, metl11, diux11, coat11	100	U+00e0 U+0024
+à	à	kàā, ƀàʔā	coat11, mixt11, metl11, ayut11, prog12, caca11, peno11, abas11, moli11, xaya11, atat11, gran11, chay11, jica11, diux11, ocot11, alac11, cahu11	100	U+00e0
+^à	à	ànjìn, àđì	xaya12, mont12	2	U+005e U+00e0
+à̧$	à̧	ñà̧mà̧, ʔù̧nà̧	xaya12, ocot11, nuyo11, yucu12, yucu15, peno11, xaya11, nuch11, alac11, teco11, metl11, prog12, aten11, mixt11, coic11, ixpa11, caca11, ahue11, coat11, dura11, moli11, jica11, gran11	63	U+00e0 U+0327 U+0024
+à̧	à̧	ñà̧mà̧, kʷà̧á̧	ocot11, xaya12, nuyo11, peno11, yucu12, yucu15, nuch11, aten11, jica11, tama12, teco11, xaya11, caca11, diux11, ahue11, coat11, prog12, ayut11, dura11, guad11	37	U+00e0 U+0327
+â	â	yâá, kâní	chic02, peno11, xoch11, jica13, mixt11, yucu15, tlah11, flor12	21	U+00e2
+â$	â	tsikâ, tsaâ	diux11, pied12, flor12, coat11, mixt11, yucu17, nuyo11	20	U+00e2 U+0024
+â̧	â̧	kʷâ̧á̧, škʷâ̧ñū̧	ocot11, peno11	2	U+00e2 U+0327
+ǎ$	ǎ	nañǎ, sa'mǎ	yucu17, mixt11, pied12, flor12, coat11, teit11, tlah11, ahue11	54	U+01ce U+0024
+ǎ	ǎ	ixǎn, tàjtǎn	pied12, mixt11, flor12, yucu17, jica13	24	U+01ce
+ã	ã	du³gᵂã³ˀã⁴ʰ, j̃ã³ˀã³²	chic12, alco11, zaca11, chal11, yucu16	53	U+00e3
+ã́$	ã́	áwã́	prom01	1	U+00e3 U+0301 U+0024
+ã̀$	ã̀	Ɂ-kʷáã̀	prom01	1	U+00e3 U+0300 U+0024
+a̧$	a̧	đi̧ʔña̧, ši̧ʔña̧	cahu11, juxt11, zapo11, tama11, esta11, tila11, brav11, chaz11, alco11, coic11, nuxi11, caca11, cuat11, tlac11, yoso11, tepe11, yucu11, ayut11, tepo11, achi11, toto12, soya11, tida11, teit11, peno11, chal11, yolo11, mixt11, tama12, nund13, tutu11, joco11, ixpa11, tlaz11, alac11, nund12, huit11, mont13, pied11, cuil11, nuxa11, yuta11, teco11, ixta12, xaya11, lore11, apoa11, atat11, ahue11, itun11, sind11, huaz11, colo11, este11, dura11, cris11, apas11, chic11, more11, jami11, tona11, aten11, moli11, coso11, prog11, acat11, mech11	100	U+0061 U+0327 U+0024
+a̧	a̧	ña̧ni̧, ya̧ni̧	apoa11, cris11, alac11, huit11, tila11, atoy11, chal11, tama12, tlaz11, ixta11, mont13, juxt11, chay12, jica12, mont14, huaz11, pino11, yucu11, brav11, achi11, apas11, yucu16, toto12, chic11, este11, soya11, aten11, tona11, coso11, teit11, mech11, mica11, chaz11, alco11, mixt11, sayu11, joco11, nund13, cuya11, ixta12, nuch11, ndua11, ayut11, yolo11, tutu11, tepe12, nund12, pena12, pied11, ixta13, nuxa11, nuxi11, sini11, cuat11, tlac12, flor11, colo11, prog12, yolo12, dura11, more11, tlal11, guad11, acat11, coic11, amat11, adeq11, cahu11, cuil11, chig11, xaya11, tata11, caca11, lore11, atat11, cuau11, tlac11, ahue11, yoso11, tepe11, tama11, sind11, esta11, tepo11, coxc11, yucu13, chay11, jami11, tida11, moli11, prog11, jica11, reye11, gran11, pino12	100	U+0061 U+0327
+^a̧	a̧	a̧ma̧, a̧wa̧	atoy11, mica11, alco11, mixt11, sayu11, xaya12, tutu11, ixta11, alac11, tepe12, cuya11, cahu11, ixta13, ixta12, chig11, mech11, xaya11, jica12, lore11, apoa11, cuau11, cuat11, mont12, coat11, tepe11, tama11, huaz11, pino11, tepo11, brav11, yolo12, zaca11, chay11, cris11, apas11, toto12, chic11, nuti11, este11, huit11, jami11, soya11, jica11, acat11, gran11, pino12	46	U+005e U+0061 U+0327
+a̧̧	a̧̧	ña̧̧ni̧̧	peno11	1	U+0061 U+0327 U+0327
+a̧̧$	a̧̧	kʷà̧a̧̧	peno11	1	U+0061 U+0327 U+0327 U+0024
+ā	ā	nāná, sāvā	ayut11, conc11, yoso11, prog12, ocot11, jami11, alac11, coat11, diux11, cahu11	100	U+0101
+ā$	ā	kʷàʔā, ītā	prog12, alac11, yoso11, conc11, jami11, ocot11, coat11, metl11, gran11, cahu11, moli11, atat11, xaya11, diux11, mixt11, ayut11, chay11	100	U+0101 U+0024
+^ā	ā	āmā	alac11, conc11	2	U+005e U+0101
+ā̧$	ā̧	ƀītā̧, u̧nā̧	gran11, nuyo11, atat11, ocot11, moli11, xaya12, metl11, yucu12, teco11, jica11, tama12, caca11, alac11	30	U+0101 U+0327 U+0024
+ā̧	ā̧	ñā̧nī̧, tì-nā̧nā̧	ocot11, nuyo11, yucu12, xaya12, yucu15, teco11, moli11, mixt11, xaya11, ayut11, atat11, nuch11, gran11	24	U+0101 U+0327
+a̠	a̠	va̠’a, ta̠a	papa11, alac11, jica13, xoch11, yuta13, zaca11	89	U+0061 U+0320
+a̠$	a̠	kui̠ya̠, u̠xa̠	yuta13, alac11, jica13, xoch11	66	U+0061 U+0320 U+0024
+a̠̠$	a̠̠	usa̠̠	yuta13	1	U+0061 U+0320 U+0320 U+0024
+aa$	aa	yaa, tʸaa	tepo01, chay11, tepe03, chic02, abas11, zaca11, alac11, mont12, yoso11, ayut11, xoch11, jica13, mixt11, tlah11, atat11, prog12, colo11, jami11, pena11, mica11, chal11, chaz11, alco11, sayu11, ixpa11, tejo11, amat11, juxt11, cahu11, ixta13, nuxa11, pied12, chay12, xaya11, metl11, cuat11, diux11, ocot11, tepe11, tlac12, esta11, brav11, flor11, toto12, more11, aten11, tona11, coso11, flor12	100	U+0061 U+0061 U+0024
+aa	aa	kuaan, yahaan¹³	copa11, chic02, tepe03, colo11, nuxa11, huen11, yoso14, brav11, cuat11, zaca11, chay11, jica13	40	U+0061 U+0061
+^aa$	aa	aa	ixta12, nuxi11, nuxa11, pied11	4	U+005e U+0061 U+0061 U+0024
+áá$	áá	žáá, yáá	cahu11, yucu17, ahue11, huen11, atat11, nuch11, diux11, yoso11, gran11, xoch11, jica13, ocot11, abas11	15	U+00e1 U+00e1 U+0024
+áá	áá	kuáán, kwáán	alac11, prog12, chic02, pena11, atat11, yoso11, dura11, flor12	9	U+00e1 U+00e1
+á̧á̧$	á̧á̧	kʷá̧á̧	metl11, atat11, cahu11, ayut11, prog12, ixpa11, alac11, gran11, chay11, nuyo11, yucu12	13	U+00e1 U+0327 U+00e1 U+0327 U+0024
+àà$	àà	kàà, sàà	prog12, tlah11, ayut11, colo11, xoch11, yucu15, nuyo11, cahu11, pied12, metl11, caca11, ocot11, coat11, dura11, abas11, moli11, guad11, jica11, peno11	25	U+00e0 U+00e0 U+0024
+àà	àà	Ɂ-jààɁ	prom01	1	U+00e0 U+00e0
+à̧à̧$	à̧à̧	'kʷà̧à̧	diux11	1	U+00e0 U+0327 U+00e0 U+0327 U+0024
+ââ	ââ	rrâân	chic02	1	U+00e2 U+00e2
+a̧a̧$	a̧a̧	kʷa̧a̧, xʷa̧a̧	teco11, tlal11, lore11, ahue11, atoy11, chal11, tama12, tlaz11, ixta11, mont13, juxt11, chay12, jica12, apoa11, huaz11, pino11, yucu11, brav11, achi11, cris11, apas11, yucu16, toto12, chic11, nuti11, este11, soya11, aten11, tona11, coso11, teit11, mech11, tejo11, mica11, jate11, chaz11, alco11, mixt11, sayu11, joco11, nund13, alac11, cuya11, ixta12, nuch11, coat11, ndua11, huit11, yolo11, tutu11, tepe12, nund12, pena12, pied11, ixta13, nuxa11, nuxi11, sini11, cuat11, diux11, itun11, flor11, colo11, yolo12, dura11, more11, guad11, acat11, peno11, amat11, adeq11, cahu11, cuil11, chig11, xaya11, tata11, caca11, tlac11, yoso11, tepe11, tama11, nund11, sind11, esta11, tepo11, tila11, coxc11, yucu13, jami11, tida11, moli11, prog11, jica11, reye11, gran11, pino12	100	U+0061 U+0327 U+0061 U+0327 U+0024
+a̧a̧	a̧a̧	na̧-a̧ma̧, ma̧a̧-ⁿdi	chal11, nuxa11, tida11, yucu11, teit11, tata11, achi11, apas11, pied11	9	U+0061 U+0327 U+0061 U+0327
+āā$	āā	sāā, yāā	prog12, alac11, xaya12, metl11, yoso11, moli11, jica11, ayut11, tlac11, atat11, nuyo11, yucu12	19	U+0101 U+0101 U+0024
+āā	āā	kwāān	ayut11	1	U+0101 U+0101
+ā̧ā̧$	ā̧ā̧	kʷā̧ā̧	ayut11	1	U+0101 U+0327 U+0101 U+0327 U+0024
+a̠a̠$	a̠a̠	ka̠a̠, ya̠a̠	alac11, jica13	2	U+0061 U+0320 U+0061 U+0320 U+0024
+a̠a̠	a̠a̠	ya̠a̠-nó’o	alac11	1	U+0061 U+0320 U+0061 U+0320
+aᵍ	aᵍ	yaᵍwi	toto12	1	U+0061 U+1d4d
+aʰ	aʰ	šaʰtu	ayut11	1	U+0061 U+02b0
+àh	àh	kuyiaàha, tsaàha	colo11, chic02	4	U+00e0 U+0068
+āh	āh	ndāha, sāhmā	jami11, conc11, ayut11, yoso11, alac11, ocot11, coat11, atat11, prog12, diux11	39	U+0101 U+0068
+āh$	āh	yahāh, yuvāh	ayut11	9	U+0101 U+0068 U+0024
+āʰ	āʰ	šāʰty, kāʰčiʔ	ayut11	2	U+0101 U+02b0
+aⁿ	aⁿ	maⁿča	ixta12	1	U+0061 U+207f
+a̧ⁿ$	a̧ⁿ	kʷa̧a̧ⁿ	mont12	1	U+0061 U+0327 U+207f U+0024
+a̧ᵑ	a̧ᵑ	ba̧ᵑgu, ti-na̧na̧-ča̧ᵑgi	pena12, cuat11, sini11	3	U+0061 U+0327 U+1d51
+^aʳ	aʳ	aʳku	tlal11	1	U+005e U+0061 U+02b3
+às	às	tàsù̧, tàsú̧	coic11, pied12, colo11, tlah11, metl11, alac11, pena11, yucu15, ocot11, nuyo11, yucu12	12	U+00e0 U+0073
+^às	às	àsǐ, àsǐn	pied12, mixt11, colo11, dura11, yucu17, flor12	6	U+005e U+00e0 U+0073
+à̧s	à̧s	ʔà̧sì̧	ocot11	1	U+00e0 U+0327 U+0073
+^ās	ās	āsin, āsinh	ayut11, moli11, ocot11	4	U+005e U+0101 U+0073
+ās	ās	žāsì, tāsuʔ	yucu15, tlac12, ayut11	3	U+0101 U+0073
+àw	àw	sàwì	alac11	1	U+00e0 U+0077
+āw	āw	yāwī	cahu11	1	U+0101 U+0077
+b	b	u¹bi¹, palabra	yolo11, tepe03, alco11, zaca11, colo11, tlal11, nund12, xoch11, toto12	47	U+0062
+^b	b	banku, banka	yolo11, tepe03, chal11, alco11, zaca11, yucu16, mica11, jate11, nund12, amat11, pena12, adeq11, ixta13, mont12, sini11, mont14, ndua11, nund11, coxc11, nuti11, more11, prog11	43	U+005e U+0062
+ƀ	ƀ	žiƀi, saʔƀa	coat11, prog12, metl11, jica11, mixt11, alac11, chay11, atat11, esta11, cris11, ixta11, juxt11, xaya11, jica12, mont12, jami11, moli11, gran11, mica11, chal11, coic11, tama12, nund13, ixpa11, nund12, yucu15, mont13, amat11, nuyo11, teco11, cuil11, chay12, sini11, nuch11, ahue11, itun11, ocot11, tlac12, flor11, colo11, yucu13, zaca11, dura11, yucu16, nuti11, more11, aten11, tlal11, guad11, prog11, peno11, pino12, yucu12, tejo11	100	U+0180
+^ƀ	ƀ	ƀeʔe, ƀēʔē	prog12, peno11, gran11, alac11, xaya11, caca11, metl11, coat11, moli11, mixt11, atat11, jica11, chay11, diux11, ocot11, mica11, chal11, jate11, nund13, ixta11, nund12, mont13, amat11, pena12, adeq11, ixta13, chay12, nuxi11, tata11, jica12, mont12, sini11, tlac11, itun11, ndua11, nund11, pino11, esta11, flor11, coxc11, achi11, cris11, nuti11, more11, jami11, prog11, pino12, tejo11	100	U+005e U+0180
+^c	c	cañi, coho	colo11, chay11, tepo01, atat11, papa11	100	U+005e U+0063
+c	c	yucu, oco	colo11, chay11, tepo01, papa11, atat11	100	U+0063
+č	č	šiči, ⁿdiča̧ʔ	gran11, cahu11, caca11, chic11, moli11, tejo11, mixt11, prog12, ayut11, colo11, atoy11, tutu11, cuya11, amat11, chig11, metl11, atat11, huaz11, chay11, cris11, soya11, jica11, peno11, reye11, pino12, mica11, chaz11, sayu11, joco11, ixta11, alac11, tepe12, teco11, ixta13, nuxa11, ixta12, xaya11, mech11, jica12, apoa11, lore11, diux11, mont14, ocot11, coat11, ndua11, tepe11, zapo11, pino11, zaca11, dura11, apas11, nuti11, huit11, jami11, coso11, acat11	100	U+010d
+^č	č	či̧i̧, či-toʔo	gran11, mixt11, alac11, cahu11, caca11, mont14, jica11, tutu11, ixpa11, xaya11, metl11, atat11, apoa11, ndua11, prog12, ayut11, flor11, dura11, cris11, apas11, more11, moli11, acat11, peno11, atoy11, chal11, mica11, chaz11, sayu11, alco11, coic11, joco11, ixta11, tepe12, amat11, juxt11, adeq11, teco11, ixta13, ixta12, chay12, chig11, mech11, jica12, lore11, diux11, yoso11, ahue11, cuat11, ocot11, coat11, huaz11, pino11, esta11, colo11, brav11, coxc11, zaca11, mont12, chay11, jami11, soya11, aten11, tida11, coso11, guad11, reye11, pino12	100	U+005e U+010d
+^č̯	č̯	č̯iyo	nuti11	1	U+005e U+010d U+032f
+cc	cc	tia²c-cua̠³’a̠³	papa11	1	U+0063 U+0063
+^čč	čč	ččio	xaya12	1	U+005e U+010d U+010d
+ch	ch	tichí, kwachī	abas11, diux11, tepo01, yolo11, chic02, prog12, alac11, jami11, copa11, yoso11, ocot11, ayut11, conc11	100	U+0063 U+0068
+^ch	ch	chuun, chàa	chic02, copa11, abas11, jami11, yoso11, mixt11, diux11, conc11, yolo11, prog12, ayut11, ocot11, coat11, tepo01, alac11, pied12, tlah11, mont12, flor12	100	U+005e U+0063 U+0068
+^chh	chh	chhātā, chhenu	conc11	2	U+005e U+0063 U+0068 U+0068
+^čʸ	čʸ	čʸo̧o̧, čʸei	ndua11, reye11	2	U+005e U+010d U+02b8
+d	d	ndāha, ndivi	yolo11, coat11, prog12, ayut11, jami11, ocot11, alac11	100	U+0064
+^d	d	dzico, dzutu	tepo01, papa11, coat11, tepe03, chic12, conc11, chic02	100	U+005e U+0064
+d$	d	red	mont12	1	U+0064 U+0024
+^đ	đ	đutu, đaʔa	caca11, peno11, xaya11, coat11, apoa11, diux11, apas11, chaz11, xaya12, tlaz11, amat11, pied11, adeq11, ixta13, nuxa11, ixta12, nuxi11, chig11, tama11, tepe11, zapo11, sind11, tepo11, chic11, este11, huit11, soya11, tona11, tida11, guad11, coso11, teit11, mica11, jate11, joco11, cuya11, cuil11, yuta11, tata11, cuau11, ndua11, flor11, tila11, coxc11, yuta12, yucu16, toto12, tlal11	100	U+005e U+0111
+đ	đ	te-đeđe, či-đaa	chaz11, chig11, caca11, apas11, joco11, ixta12, xaya11, coat11, chic11, pied11, tama11, sind11, soya11, tlal11, peno11, tlaz11, cuya11, cuil11, apoa11, cuau11, diux11, tepe11, zapo11, tepo11, tila11, huit11, tona11, este11, tida11, coso11, teit11, jate11, xaya12, adeq11, nuxa11, yuta11, nuxi11, ndua11, coxc11, yuta12, guad11	100	U+0111
+^ð	ð	ðóho, ðutú	diux11	15	U+005e U+00f0
+ð	ð	kúðí, íðí	diux11	9	U+00f0
+^dh	dh	dhīn	conc11	1	U+005e U+0064 U+0068
+dʸ	dʸ	wi̧ʔⁿdʸa, ƀi̧ʔⁿdʸa	jami11, yolo11, tona11, huaz11, chaz11, coso11, mixt11, xaya12, tutu11, ayut11, ixpa11, ixta11, lore11, nuch11, mech11, chay11, juxt11, tepe11	18	U+0064 U+02b8
+e	e	kwehe, ndu³xi⁴-che⁴e¹³	chic02, copa11, yolo11, ocot11, abas11, conc11, diux11, tepo01, coat11, prog12, alac11, jami11, ayut11, yoso11	100	U+0065
+e$	e	kwehe, ve’e	tepo01, alac11, chay11, pena11, coat11, diux11, ayut11, xoch11, ocot11, chic02, zaca11, flor12, pied12, tlah11, prog12, colo11, abas11, mixt11, jami11, atat11, mont12, yoso11, conc11	100	U+0065 U+0024
+^e	e	eđe, eši	coat11, tida11, ixta12, tila11, flor11, copa11	12	U+005e U+0065
+é	é	chéle, kuée	prom01, peno11, mixt11, huen11, diux11, yuta13, alac11, pied12, chic02, dura11, pena11, yucu17, flor12, yucu12, yucu15, nuyo11, tlah11, metl11, atat11, mont12, coat11, jica13, ocot11, moli11, jica11, conc11	87	U+00e9
+é$	é	kueé, kʷéʔé	atat11, coat11, xoch11, peno11, yucu12, tepe03, alac11, yucu15, diux11, ocot11, prom01, yuta13, pena11, xaya12, huen11, nuyo11, tlah11, mont12, yucu17, colo11, chic02, dura11, abas11, jica11, conc11, gran11	48	U+00e9 U+0024
+^é	é	éní̧	coat11	1	U+005e U+00e9
+è	è	sèʔē, tèē	ocot11, pena11, yucu12, nuyo11, peno11, pied12, mixt11, xaya12, dura11, flor12, tlah11, atat11, mont12, coat11, yucu17, coic11, huen11, ixpa11, yucu15, prom01, moli11, xaya11, caca11, cuat11, tlac12, prog12, yucu13, xoch11, chay11, guad11, jica11, reye11, gran11	95	U+00e8
+è$	è	kʷèʔè, ƀèʔè	peno11, pena11, ocot11, prom01, huen11, yucu15, nuyo11, ayut11, xaya12, jica11, colo11, ixpa11, prog12, atat11, tlac12, coat11, yucu12	42	U+00e8 U+0024
+ê$	ê	kʷéʔê, víhndê	diux11, nuyo11	3	U+00ea U+0024
+ê	ê	tênha, kukihdinên	chic02, peno11	3	U+00ea
+ě$	ě	šèě, tájtě	pied12, coat11	2	U+011b U+0024
+ë	ë	siguë’³ë, yëj³	chic12	2	U+00eb
+ë$	ë	siguë’³ë	chic12	1	U+00eb U+0024
+ẽ	ẽ	kōnẽxó, da³ˀnẽ³ˀ	chic12, conc11	2	U+1ebd
+ẽ́$	ẽ́	Ɂ¹-súxẽ́	prom01	1	U+1ebd U+0301 U+0024
+ẽ̀$	ẽ̀	ᴮ-séɁẽ̀, jùɁwẽ̀	prom01	2	U+1ebd U+0300 U+0024
+ẽ̀	ẽ̀	ⁿdìxẽ̀Ɂ	prom01	1	U+1ebd U+0300
+ē$	ē	ƀēʔē, sèʔē	ocot11, atat11, moli11, yucu12, yucu15, nuyo11, metl11, xaya12, alac11, coat11, gran11, mixt11, xaya11, caca11, yoso11, prog12, chay11, coic11, ixpa11, cahu11, diux11, ayut11, yucu13, jami11, conc11	77	U+0113 U+0024
+ē	ē	ƀēʔē, tēe	atat11, ocot11, yucu15, gran11, nuyo11, ayut11, moli11, conc11, xaya12, metl11, caca11, yucu13, chay11, mixt11, alac11, cahu11, xaya11, diux11, coat11, prog12, yucu12	60	U+0113
+e̠	e̠	ve̠e, kue̠’e̠	jica13, yuta13, xoch11, alac11	12	U+0065 U+0320
+e̠$	e̠	kue̠’e̠, dé’e̠	yuta13, xoch11, alac11	5	U+0065 U+0320 U+0024
+ee$	ee	tee, wee	caca11, tepo01, mica11, tepe03, coxc11, chic02, chay11, apas11, adeq11, cuil11, ixta13, apoa11, colo11, zaca11, chic11, este11, soya11, acat11, atoy11, chal11, chaz11, alco11, joco11, nund13, soso11, tlaz11, tutu11, nund12, mont13, pena12, amat11, pied11, cahu11, nuxa11, yuta11, ixta12, nuxi11, chay12, chig11, tata11, tlah11, sini11, cuat11, diux11, tlac11, itun11, ahue11, mont14, tama11, tlac12, nund11, sind11, huaz11, yucu11, esta11, tepo11, brav11, flor11, achi11, yuta12, dura11, xoch11, cris11, abas11, huit11, aten11, tida11, prog11, tlal11, coso11, guad11	100	U+0065 U+0065 U+0024
+ee	ee	kʷee-ni, kʷee-ni̧	copa11, chic02, tlal11, mica11, nund13, ixta11, amat11, pied11, cuil11, nuxa11, yuta11, xaya11, mont12, diux11, yoso11, pino11, yucu11, flor11, chay11, apas11, toto12, huit11, tona11, teit11	38	U+0065 U+0065
+^ee$	ee	ee	tepo01	2	U+005e U+0065 U+0065 U+0024
+éé$	éé	kʷéé, kuéé	atat11, pena11, yoso11, gran11, ocot11, nuyo11	7	U+00e9 U+00e9 U+0024
+èè$	èè	mbèè, ti-na̧na̧-ⁿdèè	colo11, alco11	2	U+00e8 U+00e8 U+0024
+èè	èè	mbèè-ti-càtyì	colo11	1	U+00e8 U+00e8
+ēē$	ēē	kwēē, kʷēē	xaya12, jami11, alac11	3	U+0113 U+0113 U+0024
+éh	éh	shéhê, trunchighuéha	chic02, diux11, coat11, atat11	6	U+00e9 U+0068
+êh	êh	tînêha	chic02	1	U+00ea U+0068
+ēh	ēh	vēhē, sēhe	yoso11, coat11, jami11, atat11, ayut11, prog12, alac11, diux11, ocot11	15	U+0113 U+0068
+és	és	lésú	mixt11	1	U+00e9 U+0073
+ès	ès	lèso	flor12	1	U+00e8 U+0073
+ēs	ēs	lēsōn	alac11	1	U+0113 U+0073
+ēsh	ēsh	kūñēshú	jami11	1	U+0113 U+0073 U+0068
+ɛ$	ɛ	siʔɛ, vīɛ	ayut11	6	U+025b U+0024
+ɛ	ɛ	ti-tīʔɛʔ	ayut11	1	U+025b
+^f	f	fier̃u	sind11, chal11, apoa11, joco11	4	U+005e U+0066
+^fʸ	fʸ	fʸer̃u	chic11	1	U+005e U+0066 U+02b8
+^g	g	gu³vi³, guatânka	chic12, papa11, chic02, tepe03, copa11	44	U+005e U+0067
+g	g	ba̧ᵑgu, ma⁴-gu³vi³	chic12, tepe03, chic02, copa11, papa11, pena12, moli11, atat11, zaca11, sini11, cuat11	43	U+0067
+gh	gh	chuutughui, tsegheha	chic02	14	U+0067 U+0068
+^gh	gh	ghueheha, ghuee	chic02	4	U+005e U+0067 U+0068
+gᵂ	gᵂ	du³gᵂã³ˀã⁴ʰ, nu³gᵂã³ˀ	chic12	2	U+0067 U+1d42
+^gᵂ	gᵂ	gᵂa⁴ju³, gᵂi³	chic12	2	U+005e U+0067 U+1d42
+^gw	gw	gwii³	copa11	1	U+005e U+0067 U+0077
+gw	gw	ndi-gwáñu	tlah11	1	U+0067 U+0077
+^gʷ	gʷ	gʷee	brav11	1	U+005e U+0067 U+02b7
+^ɡ	ɡ	ɡa³tsi¹ˀ, ɡu³ˀmã³²	chic12	15	U+005e U+0261
+ɡ	ɡ	kʷee-ɡa, si³ɡa²tʃi³	chic12, yucu14, xaya11, cris11, toto12	11	U+0261
+h	h	kwehe, kwáhá	prog12, ocot11, jami11, ayut11, coat11	100	U+0068
+^h	h	hoʔo, hita	prog12, tepo01, yucu13, nuch11, chic12, chic02, aten11, ixpa11, mont12, conc11, colo11, copa11, tepe03, more11, chay12, papa11, atoy11, tama12, jica12, sini11, flor11, zaca11	95	U+005e U+0068
+h$	h	ndīvih, ikūh	ayut11, chic02	30	U+0068 U+0024
+hh	hh	chukuahha	chic02	1	U+0068 U+0068
+hsh	hsh	ndihshen, duhshēn	coat11	6	U+0068 U+0073 U+0068
+hw	hw	shuhwix³², tuhwa³	copa11	8	U+0068 U+0077
+^hʷ	hʷ	hʷiti	yucu13	1	U+005e U+0068 U+02b7
+hʸ	hʸ	ti-hʸa̧ʔa̧	aten11	1	U+0068 U+02b8
+i	i	chi⁴in²⁴, ni¹i⁴	yolo11, abas11	100	U+0069
+i$	i	nuni, kumi	abas11, jami11, prog12, ocot11, ayut11	100	U+0069 U+0024
+^i	i	itu, iñu	yolo11, ayut11, abas11, tepo01, coat11, jami11, copa11, mixt11, prog12, tlah11, mont12, flor12, pied12, conc11, alac11, diux11, yoso11, ocot11	100	U+005e U+0069
+í	í	shíká, tiín	diux11, prog12, coat11, alac11, ocot11, abas11, chic02, peno11, conc11, mixt11, yoso11, ayut11, jica11, gran11, tlah11, jami11, caca11, atat11, flor12	100	U+00ed
+í$	í	kání, tichí	diux11, ocot11, prog12, alac11, coat11, jica11, peno11, abas11, jami11, metl11, conc11, gran11, cahu11, tlah11, ayut11, chay11, moli11, mixt11, xaya11, caca11, atat11, yoso11	100	U+00ed U+0024
+^í	í	í'i, ítʸā	diux11, huen11, prom01, coat11, yuta13, prog12, mixt11, pied12, metl11, jami11, tlah11, mont12, dura11, yucu17, jica13, flor12	45	U+005e U+00ed
+í̧$	í̧	tì̧í̧, nì̧í̧	coic11, yucu15, peno11, ocot11, alac11, gran11, teco11, atat11, coat11, tlac12, mixt11, alco11, tama12, nuch11, prog12, yolo12, yucu13, aten11, reye11, yucu12	49	U+00ed U+0327 U+0024
+í̧	í̧	čí̧ì̧, ʔīkí̧-ʔí̧ñú̧	peno11, yucu15, teco11, metl11, alac11, gran11, soya11, xaya12, prog12, ixpa11, caca11, yucu13, atat11, coat11, yucu12	23	U+00ed U+0327
+ì	ì	kìƀì, šìtà	ayut11, mont12, mixt11, pied12, caca11, tlah11, prog12, alac11, moli11, xaya11, metl11, coat11, abas11, peno11, chay11, jica11, flor12, cahu11, diux11, gran11, atat11, ocot11	100	U+00ec
+ì$	ì	kìƀì, kàčì	mont12, prog12, caca11, moli11, gran11, mixt11, alac11, xaya11, jica11, metl11, ocot11, ayut11, peno11, flor12, cahu11, tlah11, coat11, chay11, atat11, diux11, abas11, pied12	100	U+00ec U+0024
+^ì	ì	ìñù, ìvì	pied12, peno11, dura11, flor12, tlah11, mont12, ayut11, colo11, jica11, mixt11, yucu17, prog12, alac11, prom01, abas11	46	U+005e U+00ec
+ì̧$	ì̧	ʔù̧nì̧, nù̧nì̧	xaya12, ocot11, peno11, teco11, yucu13, yucu15, dura11, caca11, aten11, yucu12, coic11, alac11, nuyo11, metl11, ahue11, tlac12, ayut11, prog12, tama12, ixpa11, ixta12, nuch11, cuat11, coat11, soya11, jica11	73	U+00ec U+0327 U+0024
+ì̧	ì̧	tì̧í̧, nì̧í̧	yucu15, nuyo11, ocot11, peno11, yucu12, alac11, metl11, coic11, xaya12, tama12, yucu13, aten11, alco11, ixta12, caca11, tlac12, prog12, yolo12, guad11	57	U+00ec U+0327
+^ì̧	ì̧	ì̧ñù̧, ì̧í̧	alco11, peno11	2	U+005e U+00ec U+0327
+î$	î	tǒmî, núnî	diux11, pied12, mixt11, flor12	16	U+00ee U+0024
+î	î	chîín, kʷîí	jica13, mixt11, chic02, peno11, pied12, diux11	11	U+00ee
+î̧	î̧	čî̧ù̧, čî̧í̧	mixt11, peno11	2	U+00ee U+0327
+ǐ$	ǐ	ichǐ, ikǐ	yucu17, mixt11, flor12, pied12, coat11, tama12, tlah11, ahue11, tama11	91	U+01d0 U+0024
+ǐ	ǐ	tǐchi, nchìxǐn	flor12, pied12, jica13, yucu17, mixt11	37	U+01d0
+ǐ̧$	ǐ̧	nī̧ǐ̧, kù̧mǐ̧	coat11, tama12, ahue11	6	U+01d0 U+0327 U+0024
+ï	ï	quïnj³ïn, jnaquïnj³ïn	chic12	27	U+00ef
+ï$	ï	quïj³ï, matsïj⁴ï	chic12	3	U+00ef U+0024
+ĩ	ĩ	ⁿdi²-kʷi³ĩ³, ʧi³ĩ¹	chic12, zaca11, alco11, yucu16, chal11	34	U+0129
+ĩ$	ĩ	jáɁwĩ	prom01	1	U+0129 U+0024
+ĩ́$	ĩ́	jétĩ́, wítĩ́	prom01	3	U+0129 U+0301 U+0024
+ĩ́	ĩ́	jéxĩ́Ɂ	prom01	1	U+0129 U+0301
+ĩ̀	ĩ̀	Ɂ-tìjĩ̀Ɂ	prom01	1	U+0129 U+0300
+ĩ̀$	ĩ̀	ᴮ-tówĩ̀	prom01	1	U+0129 U+0300 U+0024
+i̧$	i̧	ña̧ni̧, ya̧ni̧	apoa11, alac11, huit11, tila11, atoy11, chal11, tama12, tlaz11, ixta11, mont13, juxt11, chay12, jica12, mont14, huaz11, pino11, yucu11, brav11, achi11, zaca11, apas11, yucu16, toto12, chic11, este11, soya11, aten11, tona11, coso11, teit11, mech11, mica11, chaz11, alco11, mixt11, sayu11, nund13, cuya11, ixta12, nuch11, coat11, ndua11, zapo11, ayut11, yolo11, tutu11, tepe12, nund12, pena12, pied11, ixta13, nuxa11, nuxi11, sini11, cuat11, itun11, tlac12, flor11, colo11, prog12, yolo12, dura11, more11, tlal11, guad11, acat11, coic11, amat11, adeq11, cahu11, cuil11, chig11, xaya11, tata11, caca11, lore11, atat11, cuau11, tlac11, ahue11, yoso11, tepe11, tama11, sind11, esta11, tepo11, coxc11, yucu13, chay11, jami11, tida11, moli11, prog11, jica11, reye11, pino12	100	U+0069 U+0327 U+0024
+i̧	i̧	ni̧ñi̧, kʷi̧ñu̧	prom01, jate11, apoa11, atoy11, nund11, ayut11, coxc11, achi11, huit11, joco11, nund12, nuxa11, nuxi11, jica12, mont14, pino11, yucu11, colo11, apas11, chic11, moli11, prog11, jica11, teit11, chal11, yolo11, alco11, coic11, nund13, tepe12, pena12, pied11, adeq11, cuil11, yuta11, chig11, xaya11, sini11, cuat11, diux11, tlac11, ahue11, coat11, tama11, yucu14, sind11, esta11, tepo11, tila11, brav11, zaca11, yuta12, dura11, chay11, toto12, nuti11, este11, soya11, aten11, tida11, acat11, coso11, pino12	100	U+0069 U+0327
+^i̧	i̧	i̧ñu̧, i̧ño̧	alco11, brav11, atoy11, sayu11, joco11, nund13, cuya11, amat11, pied11, chig11, jica12, apoa11, mont12, cuat11, diux11, sind11, pino11, toto12, chic11, coso11, jica11, peno11, chal11, mica11, jate11, chaz11, mixt11, ixta11, tepe12, alac11, nund12, mont13, juxt11, pena12, adeq11, cuil11, ixta13, nuxa11, ixta12, chay12, nuxi11, xaya11, mech11, caca11, lore11, atat11, cuau11, itun11, mont14, coat11, sini11, ndua11, nund11, huaz11, esta11, tepo11, tila11, colo11, coxc11, prog12, achi11, chay11, cris11, apas11, more11, nuti11, este11, huit11, jami11, soya11, tlal11, moli11, acat11, prog11, gran11, pino12	100	U+005e U+0069 U+0327
+i̧̧$	i̧̧	čì̧i̧̧, tu̧ni̧̧	peno11	3	U+0069 U+0327 U+0327 U+0024
+i̧̧	i̧̧	ni̧̧u̧	peno11	1	U+0069 U+0327 U+0327
+ī	ī	vītyīn, ndīkā	ayut11, alac11, conc11, jami11, ocot11, yoso11, prog12, coat11, xaya11, caca11, jica11, metl11, gran11	100	U+012b
+ī$	ī	ñānī, kītī	prog12, alac11, ocot11, yoso11, cahu11, coat11, jami11, conc11, metl11, atat11, ayut11, moli11, xaya11, diux11, gran11, mixt11, caca11, chay11, jica11	100	U+012b U+0024
+^ī	ī	ītā, īkū	ocot11, yoso11, metl11, atat11, moli11, conc11, gran11, xaya12, prog12, alac11, xaya11, chay11, jica11, mixt11, coic11, diux11, ayut11, zaca11, dura11, jami11	56	U+005e U+012b
+ī̧$	ī̧	tù̧mī̧, ƀìxī̧	metl11, xaya12, gran11, nuyo11, yucu12, yucu15, ocot11, coic11, atat11, moli11, alco11, ixpa11, alac11, cahu11, xaya11, caca11, ahue11, yucu13, dura11, aten11	61	U+012b U+0327 U+0024
+ī̧	ī̧	ʔī̧ñū̧, kʷī̧ñū̧	nuyo11, ocot11, yucu12, yucu15, ayut11, metl11, teco11, atat11, yucu13, gran11, mixt11, xaya12, tama12, alco11, ixpa11, nuch11, cuat11, tlac11, ahue11, dura11, moli11, reye11	51	U+012b U+0327
+^ī̧	ī̧	ī̧ñù̧, ī̧ì̧.ī̧	xaya12, metl11, ayut11	4	U+005e U+012b U+0327
+i᷅	i᷅	t-i᷅nā	mixt11	1	U+0069 U+1dc5
+i̠	i̠	xi̠to, ki̠si	alac11, jica13, yuta13, xoch11, zaca11	100	U+0069 U+0320
+i̠$	i̠	u̠ni̠, u̠vi̠	yuta13, alac11, xoch11, jica13	68	U+0069 U+0320 U+0024
+^i̠	i̠	i̠ín, i̠ñu̠	xoch11, jica13, alac11	7	U+005e U+0069 U+0320
+i̭	i̭	ⁿdei̭ʔi	caca11	1	U+0069 U+032d
+í:	í:	tí:n̄í	ocot11	1	U+00ed U+003a
+ĩː	ĩː	si³tĩː⁴	chic12	1	U+0129 U+02d0
+iʰ	iʰ	điʰku̧, čiʰtu	cuya11, cuau11, ayut11	13	U+0069 U+02b0
+^iʰ	iʰ	iʰkūʔ, iʰtu	ayut11	4	U+005e U+0069 U+02b0
+ìh	ìh	čìhī, kìhì	prog12, aten11, colo11, ixpa11, atat11, nuch11, ocot11	8	U+00ec U+0068
+i̧ʰ	i̧ʰ	đi̧ʰȼi̧	cuau11	1	U+0069 U+0327 U+02b0
+īh$	īh	nduchīh, ikīh	ayut11	14	U+012b U+0068 U+0024
+īh	īh	kwīhe, sīhí	ayut11, alac11, ocot11	6	U+012b U+0068
+^īh	īh	īhīn, īhñí	jami11, ocot11, ayut11	3	U+005e U+012b U+0068
+īʰ	īʰ	ⁿdīʰkāʔ, šīʰku̧	ayut11	3	U+012b U+02b0
+ii$	ii	ti-kʷii, te-kʷii	chic02, alac11, zaca11, xaya11, caca11, zapo11, more11, mica11, sayu11, chay12, cuau11, coat11, tepe11, prog12, ayut11, dura11, chay11, abas11, tepo01, huit11, tona11, tlal11, coso11, chal11, chaz11, tepe03, xaya12, alco11, coic11, tutu11, mixt11, tama12, tejo11, cuya11, pena12, amat11, juxt11, cahu11, teco11, nuxa11, yuta11, ixta13, ixta12, nuxi11, chig11, cuat11, mont12, yoso11, sini11, ocot11, yucu14, yucu11, esta11, tepo11, brav11, flor11, yolo12, achi11, yucu16, toto12, aten11, teit11, reye11, flor12	100	U+0069 U+0069 U+0024
+ii	ii	nii³, čii-stoʔo	copa11, chic02, tepe03, ayut11, mica11, more11, yolo11, tlal11, acat11, colo11, flor11, alac11, mont14, zaca11, chay11, coat11	40	U+0069 U+0069
+^ii	ii	iin, iin-ñe’e	yuta13, tlal11, chaz11, pied12, mixt11, yoso14, ayut11, colo11, tlah11, mont12, dura11, yucu17, xoch11, ocot11, jica13, flor12	17	U+005e U+0069 U+0069
+íí$	íí	cuíí, játsíí	colo11, cahu11, mont12	4	U+00ed U+00ed U+0024
+íí	íí	tníín	huen11	1	U+00ed U+00ed
+^íí	íí	íín	huen11	1	U+005e U+00ed U+00ed
+í̧í̧$	í̧í̧	ní̧í̧, tí̧í̧	teco11, tlal11, sayu11, coic11, tepe12, atat11, yucu15, ocot11, nuyo11, yucu12	10	U+00ed U+0327 U+00ed U+0327 U+0024
+^í̧í̧$	í̧í̧	í̧í̧	cahu11, jica11, tlal11	3	U+005e U+00ed U+0327 U+00ed U+0327 U+0024
+í̧í̧	í̧í̧	nā̧-ⁿdí̧í̧-ñú̧ù̧-vā	nuyo11	1	U+00ed U+0327 U+00ed U+0327
+ìì$	ìì	nìì, kʷìì	dura11, mont12, teco11, mixt11, jica11, colo11, coat11, yucu12	13	U+00ec U+00ec U+0024
+^ìì	ìì	ììn	flor12, pied12, mixt11, mont12, dura11, yucu17, abas11	8	U+005e U+00ec U+00ec
+ìì	ìì	jìì-tó’ò, nììn	huen11, mont12, prom01	3	U+00ec U+00ec
+ì̧ì̧$	ì̧ì̧	nì̧ì̧, ñì̧ì̧	ixpa11, cahu11, tlac12, reye11, xaya12, tama12, cuil11, teco11, ixta12, chig11, nuch11, cuat11, coat11, ocot11, zapo11, chic11, soya11, aten11, tona11, guad11	24	U+00ec U+0327 U+00ec U+0327 U+0024
+^ì̧ì̧$	ì̧ì̧	ì̧ì̧	cahu11, ixta13, tona11, moli11, mixt11, jica11, chig11, xaya11, xaya12, ayut11, prog12, caca11, brav11, tepe11, zapo11	15	U+005e U+00ec U+0327 U+00ec U+0327 U+0024
+i̧i̧$	i̧i̧	či̧i̧, ni̧i̧	mica11, mixt11, nund13, nund12, amat11, juxt11, adeq11, ixta13, caca11, mont12, tlac11, itun11, ndua11, tepe11, esta11, brav11, flor11, prog12, dura11, yucu16, more11, tida11, coso11, acat11, tejo11, chal11, chaz11, alco11, coic11, sayu11, joco11, tama12, ixpa11, ixta11, tutu11, mont13, cuya11, pena12, teco11, cahu11, ixta12, chay12, chig11, xaya11, tata11, lore11, apoa11, atat11, cuat11, ahue11, cuau11, coat11, nuch11, tlac12, zapo11, huaz11, sini11, coxc11, tepo11, yolo12, achi11, yucu13, chay11, cris11, apas11, toto12, chic11, jami11, soya11, aten11, tona11, moli11, guad11, reye11, mech11	100	U+0069 U+0327 U+0069 U+0327 U+0024
+^i̧i̧$	i̧i̧	i̧i̧	cuil11, mica11, chaz11, mixt11, yolo12, caca11, amat11, toto12, tejo11	10	U+005e U+0069 U+0327 U+0069 U+0327 U+0024
+i̧i̧	i̧i̧	ti̧i̧ʔ, ni̧i̧ʔ	zaca11, ayut11, nund11	7	U+0069 U+0327 U+0069 U+0327
+^i̧i̧	i̧i̧	i̧i̧ʔ, i̧i̧-wi-ñu̧u̧	chig11, ayut11	3	U+005e U+0069 U+0327 U+0069 U+0327
+^īī	īī	īīn, īīnh	ayut11, ocot11, zaca11	4	U+005e U+012b U+012b
+īī$	īī	ñīī, kwīī	xaya12, alac11, diux11	3	U+012b U+012b U+0024
+īī	īī	shīīn	yoso11	1	U+012b U+012b
+^ī̧ī̧$	ī̧ī̧	ī̧ī̧	moli11, mixt11, xaya11, prog12, caca11, metl11, atat11, gran11, chay11	9	U+005e U+012b U+0327 U+012b U+0327 U+0024
+ī̧ī̧$	ī̧ī̧	čī̧ī̧, ñā̧ñī̧ī̧	teco11, cahu11, xaya11, xaya12	4	U+012b U+0327 U+012b U+0327 U+0024
+^i̠i̠	i̠i̠	i̠i̠n	xoch11, alac11, jica13	3	U+005e U+0069 U+0320 U+0069 U+0320
+i̠i̠$	i̠i̠	ñi̠i̠	alac11	1	U+0069 U+0320 U+0069 U+0320 U+0024
+iii$	iii	ti-ii	chig11	1	U+0069 U+0069 U+0069 U+0024
+i̧ⁿ$	i̧ⁿ	či̧i̧ⁿ, i̧i̧ⁿ	coso11, mont14, xaya11, diux11	4	U+0069 U+0327 U+207f U+0024
+i̧ⁿ	i̧ⁿ	ši̧ⁿti	yucu16	1	U+0069 U+0327 U+207f
+iᵑ	iᵑ	liᵑgi, riᵑgi	moli11, pena12	2	U+0069 U+1d51
+i̧ᵑ$	i̧ᵑ	ⁿǰi̧i̧ᵑ	sind11, yuta11	3	U+0069 U+0327 U+1d51 U+0024
+ìs	ìs	kìsī, kìsi	mont12, mixt11, alac11, yucu15, metl11, tlac12, yucu13, xaya12, coic11, nuyo11, teco11, pied12, xaya11, caca11, tlah11, ocot11, ayut11, dura11, abas11, aten11, moli11, guad11, pena11, reye11, yucu17, yucu12, flor12	36	U+00ec U+0073
+īs	īs	sīsī, ʔīsù	cahu11, xaya12, alac11, yucu15, moli11, xaya11, atat11, ocot11, nuyo11, yucu12	14	U+012b U+0073
+^īs	īs	īsù, īsu	moli11, alac11, yoso11, gran11, ocot11	5	U+005e U+012b U+0073
+ìsh	ìsh	vìshì	dura11	1	U+00ec U+0073 U+0068
+īsh	īsh	vīshi, ndīshī	ayut11, yoso11, ocot11, alac11, coat11	8	U+012b U+0073 U+0068
+^īsh	īsh	īshī	jami11, ocot11, yoso11	3	U+005e U+012b U+0073 U+0068
+ìsʸ	ìsʸ	ʔí-ⁿdìsʸá̧	yucu15	1	U+00ec U+0073 U+02b8
+ìw	ìw	kìwì, kìwí	cahu11, yolo12, ayut11	3	U+00ec U+0077
+ì̧w	ì̧w	nì̧wɨ	nuyo11, yucu12	2	U+00ec U+0327 U+0077
+īw	īw	kīwɨ̀, yīwí	cahu11, nuyo11, yucu12	3	U+012b U+0077
+ɨ	ɨ	čɨtɨ, yɨquɨn	chay11, colo11, atat11, chal11, prom01, coat11, jami11, yoso11, cuya11, chay12, cuau11, diux11, huit11, acat11, yolo11, tlaz11, tutu11, ixta11, mont13, pied11, cuil11, mech11, lore11, itun11, tama11, huaz11, yucu11, gran11, pino12	100	U+0268
+ɨ$	ɨ	ⁿdɨʔyɨ, ⁿdɨʔžɨ	chay11, atat11, colo11, diux11, yoso11, jami11, coat11, yolo11, tlaz11, tutu11, ixta11, mont13, cuya11, nuyo11, lore11, cuau11, itun11, prom01, tama11, sind11, huaz11, acat11, mech11, pino12, chal11, pied11, yuta11, chay12, tata11, yucu11, tila11, yuta12, cris11, nuti11, este11, huit11	100	U+0268 U+0024
+^ɨ	ɨ	ɨši, ɨwɨ	itun11, cuil11	2	U+005e U+0268
+ɨ́	ɨ́	lɨ́ʔvɨ́, kɨ́đɨ̀	diux11, peno11, atat11, coat11, prom01, yoso11, colo11, teco11, gran11	33	U+0268 U+0301
+ɨ́$	ɨ́	līʔwɨ́, lɨ́ʔvɨ́	colo11, atat11, prom01, diux11, gran11, coat11, yoso11, jica11, nuyo11, peno11, chay11, yucu12	22	U+0268 U+0301 U+0024
+^ɨ́	ɨ́	ɨ́ɨ̂n	diux11	1	U+005e U+0268 U+0301
+ɨ̀	ɨ̀	kɨ̀tɨ̀, ndɨ̀vɨ̀	peno11, colo11, prom01, chay11, diux11, atat11, gran11, coat11	31	U+0268 U+0300
+ɨ̀$	ɨ̀	kɨ̀tɨ̀, ndɨ̀vɨ̀	peno11, colo11, chay11, diux11, nuyo11, teco11, atat11, gran11, yucu12	27	U+0268 U+0300 U+0024
+ɨ̂$	ɨ̂	kɨ́ðɨ̂	diux11	1	U+0268 U+0302 U+0024
+ɨ̂	ɨ̂	ɨ́ɨ̂n	diux11	1	U+0268 U+0302
+ɨ̃	ɨ̃	tɨ̃³ʰ, ʃa³kɨ̃³²	chic12, yoso11	9	U+0268 U+0303
+ɨ̧$	ɨ̧	nɨ̧ñɨ̧, tɨ̧ñɨ̧	yoso11, tama11, cuya11, pied11, coat11, cris11, este11, yolo11, ixta11, mont13, lore11, atat11, cuau11, diux11, itun11, sind11, tila11, colo11, yuta12, huit11, jami11, chal11, tlaz11, tata11, prom01, chay11, acat11, peno11, mech11, pino12, yucu12, jate11, tutu11, nuyo11, cuil11, yuta11, huaz11, nuti11, soya11	100	U+0268 U+0327 U+0024
+ɨ̧	ɨ̧	nɨ̧ñɨ̧, tɨ̧ñɨ̧	yoso11, tama11, este11, yolo11, cuya11, pied11, atat11, coat11, sind11, chal11, ixta11, mont13, lore11, diux11, itun11, prom01, tila11, colo11, nuti11, huit11, jami11, pino12, mech11, tata11, cuau11, yuta12, chay11, cris11, peno11, gran11, tlaz11, tutu11, yuta11, huaz11, soya11, acat11	100	U+0268 U+0327
+ɨ̧́$	ɨ̧́	nɨ̧́ñɨ̧́, nnɨ̧ñɨ̧́	yolo11, acat11, tlaz11, atat11, peno11, diux11, nuyo11	7	U+0268 U+0327 U+0301 U+0024
+ɨ̧́	ɨ̧́	nɨ̧́ñɨ̧́, tnɨ̧́ñú̧	peno11, acat11, yolo11	4	U+0268 U+0327 U+0301
+^ɨ̧́	ɨ̧́	ɨ̧́’ɨ̧́	diux11	1	U+005e U+0268 U+0327 U+0301
+ɨ̧̀$	ɨ̧̀	nɨ̧̀ñɨ̧̀, nɨ̧ñɨ̧̀	peno11, nuyo11, yucu12, nuti11, pino12, huaz11, mech11, tlaz11, tutu11, atat11, gran11, chay11	15	U+0268 U+0327 U+0300 U+0024
+ɨ̧̀	ɨ̧̀	nɨ̧̀ñɨ̧̀, tnɨ̧̀ñɨ̧̀	tlaz11, nuyo11, huaz11, tutu11, peno11, mech11, chay11	9	U+0268 U+0327 U+0300
+ɨ̧̄$	ɨ̧̄	kʷī̧nɨ̧̄, žɨ̄kɨ̧̄	atat11, nuyo11, yucu12	9	U+0268 U+0327 U+0304 U+0024
+^ɨ̧̄	ɨ̧̄	ɨ̧̄ɨ̧̀	gran11, atat11	2	U+005e U+0268 U+0327 U+0304
+ɨ̧̄	ɨ̧̄	sɨ̧̄ʔɨ̧	atat11, yucu12	2	U+0268 U+0327 U+0304
+ɨ̄	ɨ̄	kɨ̄tɨ̄, yɨ̄kɨ̄-tí̧í̧	yoso11, atat11, gran11, jami11, diux11, nuyo11, yucu12, chay11, coat11, teco11, jica11	45	U+0268 U+0304
+ɨ̄$	ɨ̄	kɨ̄tɨ̄, kìsɨ̄	atat11, gran11, yucu12, yoso11, coat11, nuyo11, jami11, diux11, chay11	32	U+0268 U+0304 U+0024
+^ɨ̄	ɨ̄	ɨ̄ɨn	yoso11	1	U+005e U+0268 U+0304
+ɨʰ	ɨʰ	ⁿdɨʰkɨ̧	cuau11	1	U+0268 U+02b0
+ɨɨ$	ɨɨ	ⁿdɨɨ, ra-yɨɨ	colo11, chay11, jami11, jate11, ixta11, mont13, lore11, coat11, tila11, acat11, pino12, chal11, yolo11, tlaz11, tutu11, cuya11, pied11, gran11, atat11, cuau11, diux11, yoso11, itun11, mont14, tama11, sind11, huaz11, cris11, nuti11, este11, mech11	45	U+0268 U+0268 U+0024
+^ɨɨ	ɨɨ	ɨɨn	atat11, chay11, jami11, colo11, coat11	7	U+005e U+0268 U+0268
+ɨɨ	ɨɨ	žɨɨŋ	sind11	1	U+0268 U+0268
+ɨ́ɨ́$	ɨ́ɨ́	ñɨ́ɨ́	atat11	1	U+0268 U+0301 U+0268 U+0301 U+0024
+ɨ̀ɨ̀$	ɨ̀ɨ̀	ñɨ̀ɨ̀	colo11, chay11	2	U+0268 U+0300 U+0268 U+0300 U+0024
+ɨ̧ɨ̧$	ɨ̧ɨ̧	ñɨ̧ɨ̧, ñȩ-ñɨ̧ɨ̧	tlaz11, cuya11, yuta11, cuau11, coat11, yolo11, ixta11, mont13, pied11, tata11, lore11, diux11, yoso11, itun11, tama11, sind11, tila11, colo11, yuta12, cris11, este11, huit11, jami11, pino12	29	U+0268 U+0327 U+0268 U+0327 U+0024
+ɨ̧ɨ̧	ɨ̧ɨ̧	ka-kɨ̧ɨ̧-đawi, nɨ̧ɨ̧-ni̧u̧	cuya11, este11, cuau11	3	U+0268 U+0327 U+0268 U+0327
+^ɨ̧ɨ̧$	ɨ̧ɨ̧	ɨ̧ɨ̧	cuil11	1	U+005e U+0268 U+0327 U+0268 U+0327 U+0024
+ɨ̧́ɨ̧́$	ɨ̧́ɨ̧́	ñɨ̧́ɨ̧́	acat11, peno11	2	U+0268 U+0327 U+0301 U+0268 U+0327 U+0301 U+0024
+^ɨ̧́ɨ̧́$	ɨ̧́ɨ̧́	ɨ̧́ɨ̧́	peno11	1	U+005e U+0268 U+0327 U+0301 U+0268 U+0327 U+0301 U+0024
+ɨ̧̀ɨ̧̀$	ɨ̧̀ɨ̧̀	ñɨ̧̀ɨ̧̀	nuti11, huaz11, tutu11, mech11, chay11, yucu12	6	U+0268 U+0327 U+0300 U+0268 U+0327 U+0300 U+0024
+^ɨ̧̀ɨ̧̀$	ɨ̧̀ɨ̧̀	ɨ̧̀ɨ̧̀	peno11, diux11	2	U+005e U+0268 U+0327 U+0300 U+0268 U+0327 U+0300 U+0024
+ɨ̄ɨ̄$	ɨ̄ɨ̄	lɨ̄ɨ̄, tyāyɨ̄ɨ̄	jami11, nuyo11, yucu12	4	U+0268 U+0304 U+0268 U+0304 U+0024
+^ɨ̄ɨ̄	ɨ̄ɨ̄	ɨ̄ɨ̄n	jami11, coat11, diux11, yoso11	4	U+005e U+0268 U+0304 U+0268 U+0304
+ɨ̧ᵑ$	ɨ̧ᵑ	đɨ̧ʔɨ̧ᵑ	sind11	1	U+0268 U+0327 U+1d51 U+0024
+j	j	ntsijkǎ, nìjǐ	flor12, pied12, mont12, yolo11	100	U+006a
+^j	j	java, jùtù	pena11, zaca11, prom01, chal11, yucu16, alco11, colo11, atat11, mont12	100	U+005e U+006a
+j$	j	ya’³aj, gatsi’⁴ij	chic12	3	U+006a U+0024
+ǰ	ǰ	ƀi̧ʔⁿǰā, mi̧ʔⁿǰa	gran11, coso11, acat11, yoso11	4	U+01f0
+^ǰ	ǰ	ǰuƀi, ǰa-ni̧yu̧	cris11, huit11	2	U+005e U+01f0
+^j̃	j̃	j̃ã³ˀã³², j̃ã³ˀ	chic12	5	U+005e U+006a U+0303
+^jː	jː	jːe³ʰ, jːa³ʰ	chic12	2	U+005e U+006a U+02d0
+^k	k	kumi, kiti	abas11, yolo11, prog12, ocot11, coat11, jami11, ayut11	100	U+005e U+006b
+k	k	oko, ndōkō	yolo11, abas11, ayut11, ocot11, jami11, prog12, coat11	100	U+006b
+k$	k	yek	tepo11	1	U+006b U+0024
+kⁿ$	kⁿ	žikⁿ	yucu11	1	U+006b U+207f U+0024
+kᵑ$	kᵑ	ikᵑ, đúkᵑ	chig11	2	U+006b U+1d51 U+0024
+kᵑ	kᵑ	đukᵑu̧	tida11	1	U+006b U+1d51
+^kʷ	kʷ	kʷeʔe, kʷá̧á̧	chal11, alco11, zaca11, gran11, cahu11, coat11, mixt11, ayut11, atat11, prog12, peno11, alac11, xaya11, caca11, metl11, yucu16, moli11, jica11, adeq11, ocot11, atoy11, amat11, apoa11, ahue11, prom01, nund11, brav11, achi11, chay11, apas11, chic11, aten11, acat11	100	U+005e U+006b U+02b7
+kʷ	kʷ	ⁿdakʷa, lakʷa	prom01, chic11, soya11, alco11, ixta12, ayut11, ixpa11, peno11, cahu11, esta11, atoy11, chal11, tama12, ixta11, mont13, juxt11, teco11, jica12, apoa11, mont12, mont14, pino11, brav11, achi11, cris11, apas11, yucu16, nuti11, este11, aten11, coso11, teit11, mech11, tejo11, mica11, jate11, chaz11, mixt11, sayu11, joco11, nund13, cuya11, coat11, ocot11, ndua11, huit11, tepe12, nund12, pena12, nuyo11, pied11, ixta13, nuxa11, nuxi11, cuat11, diux11, itun11, colo11, dura11, more11, acat11, coic11, amat11, adeq11, cuil11, chig11, tata11, caca11, lore11, atat11, cuau11, ahue11, tama11, tepe11, nund11, tepo11, coxc11, chay11, jami11, moli11, jica11, reye11, gran11, pino12	100	U+006b U+02b7
+^kw	kw	kwehe, kwáhá	diux11, mixt11, yolo11, alac11, yoso11, ayut11, tlah11, jami11, prog12, ocot11, coat11, conc11, copa11	100	U+005e U+006b U+0077
+kw	kw	sa'mǎ-kwitsì, xā-kwáa	mixt11, yolo11, tlah11, copa11, prog12, ayut11, conc11, alac11, yoso11, ocot11, coat11	22	U+006b U+0077
+^kʷʸ	kʷʸ	kʷʸàà	guad11	1	U+005e U+006b U+02b7 U+02b8
+^kʸ	kʸ	kʸàʔƀà, kʸutu-čaʔa	tutu11, prog12	2	U+005e U+006b U+02b8
+^l	l	lo'o, lanchi	pena11, tlah11, flor12, alac11, mont12, prog12, jica13, pied12, coat11, atat11, xoch11, mixt11, ocot11, colo11, diux11, yoso11, ayut11, chay11, jami11, peno11, yolo11, tepe03, cahu11, caca11, chic12, papa11, zaca11, abas11, moli11, jica11, gran11	100	U+005e U+006c
+l	l	válí, chéle	alac11, tlah11, mont12, xoch11, pena11, peno11, yolo11, atat11, chic02, chay11, caca11, diux11, ocot11, papa11, ayut11, jica13, juxt11, nuyo11, pied12, chic12, flor11, zaca11, abas11, flor12, mica11, mixt11, tlaz11, nund13, pied11, yuta11, yoso11, prom01, tama11, esta11, tila11, prog12, colo11, copa11, more11, jami11, este11, tlal11, moli11, gran11	100	U+006c
+^lh	lh	lhín	conc11	1	U+005e U+006c U+0068
+ll	ll	sillá	yuta13	1	U+006c U+006c
+ls	ls	kalso̧ni̧, kalso̧n	chal11, mont14, soya11, yoso11	4	U+006c U+0073
+lʸ	lʸ	silʸa, ƀilʸu	ixta11, chay12	2	U+006c U+02b8
+^lʸ	lʸ	lʸoo	nuch11	1	U+005e U+006c U+02b8
+m	m	nama, ñuma	jami11, yolo11, coat11, tepo01, ayut11, chic02, ocot11, abas11, prog12, yoso11, alac11, copa11, conc11, diux11, moli11, gran11, atat11, caca11	100	U+006d
+^m	m	mu̧tu, mi̧stu	colo11, copa11, alac11, chic12, papa11, abas11, chay11, yolo11, mixt11, tepe03, mont12, ayut11, chic02, zaca11, xoch11, tepo01, atoy11, pied12, coat11, pena11, jica13, flor12, coic11, alco11, amat11, cahu11, cuil11, chig11, jica12, lore11, atat11, cuat11, diux11, ahue11, nuch11, ocot11, pino11, flor11, brav11, achi11, cris11, nuti11, este11, guad11, jica11, conc11, peno11	100	U+005e U+006d
+^mː	mː	mːĩ³², mːĩ³ˀ	chic12	2	U+005e U+006d U+02d0
+^ᵐb	ᵐb	ᵐbaʔa, ᵐbiči	more11, cris11, ixta13	5	U+005e U+1d50 U+0062
+mh	mh	yhāmhī, hīímha	conc11	2	U+006d U+0068
+^mm	mm	mmistila, mmi³⁴	chic02, chic12	4	U+005e U+006d U+006d
+n	n	nuni, ti-nāna	yolo11, ocot11, abas11, prog12, jami11	100	U+006e
+^n	n	nāná, ndōkō	yolo11, abas11, ocot11, jami11, prog12	100	U+005e U+006e
+n$	n	in, tatan	ocot11, coat11, jami11, abas11, ayut11, prog12	100	U+006e U+0024
+^n̄	n̄	n̄āxīn, n̄ani	ocot11, yoso11, jami11, ayut11, alac11	8	U+005e U+006e U+0304
+n̄	n̄	tí:n̄í, in̄uh	jami11, ayut11, ocot11, prog12	5	U+006e U+0304
+̀n	̀n	ñū̧-̀nú̧	coic11	1	U+0300 U+006e
+^nː	nː	nːã³ʰ, nːu³ʰ	chic12	3	U+005e U+006e U+02d0
+^ⁿč	ⁿč	ⁿčiʔi, ⁿčika	reye11, dura11, teco11, adeq11, xaya12, ixpa11, tejo11, aten11, tlal11, tepe11, coxc11, tlac12, ndua11	39	U+005e U+207f U+010d
+ⁿč	ⁿč	či-na̧na̧-ⁿčiʔe	reye11	1	U+207f U+010d
+^ⁿd	ⁿd	ⁿdiʔi, ⁿdàʔà	atat11, alco11, cahu11, coat11, gran11, chal11, ayut11, caca11, prom01, prog12, zaca11, yucu16, moli11, peno11, alac11, xaya11, ocot11, chay11, jica11, atoy11, mixt11, apoa11, chay12, mech11, metl11, diux11, ahue11, pino11, brav11, apas11, aten11, acat11	100	U+005e U+207f U+0064
+ⁿd	ⁿd	nu̧-ⁿdaa, ku-ⁿdaʔvi	yucu15, sind11, yuta12, mont13, pied11, yuta11, tepo11, ayut11, more11, reye11, yolo11, alco11, mixt11, tama12, nund13, ixpa11, juxt11, nuyo11, ixta12, xaya11, sini11, yoso11, itun11, ahue11, prom01, tama11, tlac12, yucu14, yucu11, yucu13, achi11, zaca11, nuti11, huit11, soya11, peno11, tejo11	50	U+207f U+0064
+^ⁿd̩	ⁿd̩	ⁿd̩iƀi, ⁿd̩iša	nuxi11	2	U+005e U+207f U+0064 U+0329
+^ⁿdʸ	ⁿdʸ	ⁿdʸaʔyu, ⁿdʸitʸi	mixt11, juxt11, lore11, zapo11, colo11, nuxa11, ixta11, huaz11, chay11, jami11, mech11, tutu11, nuxi11, coat11, nuti11, sayu11, coic11, ixpa11, alac11, caca11, metl11, mont12, tama11, tlac12, soya11, aten11	67	U+005e U+207f U+0064 U+02b8
+nh	nh	tanénha, ðínhni	chic02, copa11, diux11	36	U+006e U+0068
+nh$	nh	yashīnh, īīnh	ayut11	9	U+006e U+0068 U+0024
+^ⁿǰ	ⁿǰ	ⁿǰiči, ⁿǰika	nuxa11, nuxi11, cris11, tlal11, joco11, amat11, pied11, ixta12, chig11, sind11, apas11, tida11, chaz11, tlaz11, chic11, soya11, tona11, acat11, peno11, teco11, ixta13, tlac11, ndua11, tepe11, coso11, jate11, xaya12, nund13, cuil11, yuta11, chay12, zapo11, flor11, toto12, este11, huit11	96	U+005e U+207f U+01f0
+ⁿǰ	ⁿǰ	iši-ⁿǰaʔa, ⁿǰu-ⁿǰuča	cris11, tlal11, flor11	3	U+207f U+01f0
+^nn	nn	nnu̧ʔu̧, nnu̧u̧	yoso11, chic12, chic02, tama11, yuta12, atat11, teit11, tata11, adeq11, cuil11, huit11, flor11, mont14	57	U+005e U+006e U+006e
+nn	nn	trunnatoo	chic02	1	U+006e U+006e
+^ⁿr	ⁿr	ⁿreke, ⁿraka	chic11, diux11	2	U+005e U+207f U+0072
+ⁿr	ⁿr	ti-ⁿruu	chic11	1	U+207f U+0072
+^ⁿř	ⁿř	ⁿřakʷa, ⁿřuȼa	chic11	3	U+005e U+207f U+0159
+^ⁿr̃	ⁿr̃	ⁿr̃uđi, ⁿr̃aʔwi	chic11	4	U+005e U+207f U+0072 U+0303
+^ⁿs	ⁿs	ⁿsiʔi, ⁿsiʔwi	zapo11, tona11, coso11, tepe11, chaz11, xaya12, chig11, xaya11, mica11, ixta13, mont14, toto12	34	U+005e U+207f U+0073
+^ⁿsʸ	ⁿsʸ	ⁿsʸisa̧, ⁿsʸute	zapo11	3	U+005e U+207f U+0073 U+02b8
+^ⁿt	ⁿt	ⁿtīʔvi, ⁿtēʔžù	ocot11, mica11	8	U+005e U+207f U+0074
+^nᵗ	nᵗ	nᵗòò	ocot11	1	U+005e U+006e U+1d57
+^	NULL				
+$	NULL				
+^ⁿy	ⁿy	ⁿyiƀi, ⁿyaʔi	adeq11, amat11, toto12	3	U+005e U+207f U+0079
+nʸ	nʸ	u̧nʸa̧	ayut11	1	U+006e U+02b8
+^ⁿz	ⁿz	ⁿzaʔyu, ⁿzìȼǎ	cuil11, chic11, soya11, tlal11, ixta12, mixt11, joco11, apoa11, apas11, ndua11	11	U+005e U+207f U+007a
+^ⁿž	ⁿž	ⁿžiši̧, ⁿžu̧ʔma̧	apoa11, pino11	3	U+005e U+207f U+017e
+ñ	ñ	iñu, kùñū	tepo01, yolo11, jami11, diux11, alac11, coat11, abas11, yoso11, chic02, ocot11, jica11, prog12, ayut11, caca11, atat11, gran11, peno11, metl11	100	U+00f1
+^ñ	ñ	ñānī, ñuu	tepo01, alac11, diux11, ocot11, prog12, jami11, yolo11, abas11, yoso11, ayut11, coat11, gran11, atat11, cahu11, moli11, xaya11, caca11, peno11	100	U+005e U+00f1
+ññ	ññ	šuñña̧	teit11	1	U+00f1 U+00f1
+ɲ	ɲ	ku²ɲu², kʷi²ɲu³	chal11, alco11, zaca11, yucu16	19	U+0272
+^ɲ	ɲ	ɲa²Ɂmi², ɲa³Ɂmi²	chal11, yucu16, alco11, zaca11, chic12	16	U+005e U+0272
+ŋ$	ŋ	žɨɨŋ	sind11	1	U+014b U+0024
+^ŋ	ŋ	ŋɡa³	chic12	1	U+005e U+014b
+o$	o	oko, xito	tepo01, abas11, alac11, ayut11, prog12, chic02, yoso11, ocot11, pied12, tlah11, jami11, diux11, flor12, mixt11, conc11, mont12, coat11	100	U+006f U+0024
+o	o	konoho⁴, ohon	yolo11, copa11, alac11, abas11, chic02, ayut11, jami11, prog12, tepo01, diux11, yoso11, ocot11	100	U+006f
+^o	o	oko, oco	prom01, yuta13, alac11, caca11, esta11, chay11, jami11, yolo11, yoso14, cahu11, chay12, tlah11, atat11, cuat11, ocot11, prog12, colo11, brav11, zaca11, yucu16, abas11, tepo01, more11, prog11, pena11	44	U+005e U+006f
+ó$	ó	ⁿdòó, yosó	xoch11, jica13, mixt11, tlah11, coic11, diux11, coat11, alac11, yucu15, colo11, peno11, flor12, xaya12, pied12, mont12, ahue11, prog12, jami11, conc11, pena11, tepe03, sayu11, ixta12, chig11, metl11, prom01, tlac12, chic02, abas11, soya11, jica11, reye11, mech11	100	U+00f3 U+0024
+ó	ó	yókó, tsóko	yuta13, alac11, coat11, mixt11, diux11, prom01, yucu17, huen11, yucu15, tlah11, mont12, prog12, yucu13, pena11, peno11, jica13, sayu11, ixta12, chig11, tlac11, ahue11, papa11, zaca11, dura11, xoch11, chay11, soya11, aten11, moli11, jica11, reye11, mech11	74	U+00f3
+^ó	ó	ókō, ókô	coat11, diux11	2	U+005e U+00f3
+ó̧$	ó̧	kó̧’ó̧, kū̧ñó̧	cahu11, alac11, teco11, diux11	4	U+00f3 U+0327 U+0024
+ó̧	ó̧	kó̧’ó̧, ñó̧ō̧	caca11, cahu11, diux11	3	U+00f3 U+0327
+ò	ò	sòʔō, sò'o	mont12, flor12, pied12, tlah11, mixt11, dura11, yucu15, ahue11, prom01, peno11, xaya12, coic11, alac11, cahu11, caca11, ocot11, tama12, tepe12, nuyo11, atat11, metl11, diux11, nuch11, coat11, tlac12, ayut11, prog12, chay11, abas11, aten11, jica11, pena11, reye11, gran11, yucu12	100	U+00f2
+ò$	ò	šìyò, šītò	mont12, pena11, colo11, gran11, atat11, peno11, xaya12, metl11, ocot11, prog12, yucu13, chay11, alac11, xaya11, caca11, nuch11, ayut11, aten11, reye11, yucu12, mixt11, coic11, ixpa11, tepe12, nuyo11, cahu11, teco11, pied12, diux11, coat11, xoch11, abas11, moli11, guad11, jica11, flor12	100	U+00f2 U+0024
+^ò	ò	òvà, òkò	flor12, pied12, mont12, dura11, yucu17, prom01	20	U+005e U+00f2
+ò̧	ò̧	kò̧mì̧, tò̧mī̧	alac11, aten11, ixpa11, caca11, yucu13, cahu11, guad11	19	U+00f2 U+0327
+ò̧$	ò̧	ño̧ʔò̧, ʔītò̧	caca11, alac11, ocot11, reye11	8	U+00f2 U+0327 U+0024
+ô$	ô	ókô, víkô	diux11, flor12	5	U+00f4 U+0024
+ô	ô	tônha, kóôn	diux11, chic02, reye11	4	U+00f4
+ô̧	ô̧	kô̧mi̧, tô̧mi̧	nuch11	2	U+00f4 U+0327
+ǒ$	ǒ	yosǒ, vìkǒ	pied12, flor12, yucu17, mixt11, coat11, more11, coic11, tama12, tlah11, pena11	32	U+01d2 U+0024
+ǒ	ǒ	tǒmî, ti-sǒ’ma	pied12, jica13, flor12, xoch11	7	U+01d2
+õ	õ	o¹Ɂõ¹, i³õ¹	yucu16	3	U+00f5
+ṍ$	ṍ	tíjṍ, tòɁṍ	prom01	3	U+1e4d U+0024
+ṍ	ṍ	íjṍɁ	prom01	1	U+1e4d
+õ̀$	õ̀	ᴮ-kójõ̀, òɁõ̀	prom01	5	U+00f5 U+0300 U+0024
+o̧$	o̧	ko̧ño̧, no̧ʔo̧	cahu11, brav11, alac11, caca11, cuat11, soya11, tutu11, cuil11, apoa11, sind11, huaz11, esta11, chic11, acat11, joco11, itun11, zapo11, prom01, tepo11, chay11, jami11, mech11, atoy11, yolo11, jate11, pied11, nuxa11, yuta11, lore11, tlac11, ndua11, zaca11, cris11, apas11, nuti11, prog11, reye11	100	U+006f U+0327 U+0024
+o̧	o̧	ko̧ño̧, no̧ʔo̧	cahu11, soya11, zapo11, caca11, chic11, alac11, apoa11, itun11, brav11, cuil11, cuat11, sind11, huaz11, esta11, alco11, joco11, tutu11, ndua11, tepo11, chay11, jami11, aten11, prog11, acat11, mech11, atoy11, chal11, jate11, amat11, pied11, nuxa11, yuta11, lore11, mont12, yoso11, mont14, flor11, yucu13, zaca11, cris11, apas11, reye11	100	U+006f U+0327
+^o̧	o̧	o̧ʔo̧, o̧ni̧	alac11, cahu11, caca11, zapo11, soya11, mont12, cuat11, coxc11, jate11, joco11, tutu11, pied11, cuil11, yuta11, nuxi11, apoa11, ndua11, tama11, sind11, huaz11, esta11, tepo11, brav11, tila11, chay11, apas11, chic11, nuti11, jami11, acat11, mech11	44	U+005e U+006f U+0327
+ō$	ō	sòʔō, yōhō	atat11, alac11, cahu11, ocot11, coat11, gran11, nuyo11, prog12, yucu12, yucu15, yoso11, chay11, jami11, xaya12, tama12, ixpa11, caca11, metl11, ahue11, tlac11, yucu13, aten11, moli11, jica11, reye11	78	U+014d U+0024
+ō	ō	ⁿdōò, žōʔō	ayut11, gran11, alac11, xaya12, atat11, yucu15, metl11, ocot11, coic11, chay11, moli11, yucu12, mixt11, tama12, nuyo11, cahu11, teco11, xaya11, caca11, nuch11, yoso11, coat11, prog12, yucu13, zaca11, jami11, conc11, reye11	61	U+014d
+^ō	ō	ōko	yoso11, ayut11	2	U+005e U+014d
+ō̧$	ō̧	nò̧ʔō̧, čīñō̧	cahu11, caca11, alac11, nuch11	9	U+014d U+0327 U+0024
+ō̧	ō̧	tō̧ʔō̧, ñō̧ò̧	cahu11, caca11, nuch11	4	U+014d U+0327
+^ō̧	ō̧	ō̧ʔō̧	cahu11	1	U+005e U+014d U+0327
+o̠	o̠	ko̠ó, to̠’on	yuta13, alac11, jica13, xoch11	58	U+006f U+0320
+o̠$	o̠	o̠ko̠, koo̠	yuta13, alac11, xoch11, jica13	44	U+006f U+0320 U+0024
+^o̠	o̠	o̠ko̠, o̠vi̠	alac11, xoch11, jica13	6	U+005e U+006f U+0320
+óh	óh	chóhō, yóho	diux11, prog12, alac11, chic02, coat11, jami11, colo11, atat11	15	U+00f3 U+0068
+^óh	óh	óhôn	diux11	1	U+005e U+00f3 U+0068
+òh	òh	ndòhò, còhò	colo11, chay11	3	U+00f2 U+0068
+ōh	ōh	yōhō, lōhō	alac11, yoso11, ocot11, jami11, prog12, chay11, coat11	10	U+014d U+0068
+ōh$	ōh	yohōh	ayut11	1	U+014d U+0068 U+0024
+ōʰ	ōʰ	yōʰkoʔ	ayut11	1	U+014d U+02b0
+ōhsh	ōhsh	ndōhshó	coat11	1	U+014d U+0068 U+0073 U+0068
+oⁿ	oⁿ	ⁿdi-koⁿdo, lokoⁿde	caca11, esta11	2	U+006f U+207f
+o̧ⁿ	o̧ⁿ	ko̧ⁿdo, la-ko̧ⁿdo	ahue11, teco11, coic11	3	U+006f U+0327 U+207f
+o̧ⁿ$	o̧ⁿ	kaxo̧ⁿ	mica11	1	U+006f U+0327 U+207f U+0024
+oo$	oo	koo, ⁿdoo	tepo01, alac11, chay11, chic02, atoy11, alco11, tlaz11, chig11, apoa11, coat11, achi11, zaca11, apas11, jami11, acat11, tlal11, chal11, yolo11, chaz11, mixt11, sayu11, joco11, tutu11, ixta11, tepe12, mont13, cuya11, juxt11, amat11, pied11, adeq11, cahu11, cuil11, nuxa11, ixta12, nuxi11, jica12, caca11, lore11, cuau11, cuat11, tlac11, itun11, yoso11, ahue11, ocot11, tepe11, tama11, zapo11, sind11, huaz11, pino11, esta11, yucu11, tepo11, prog12, brav11, colo11, tila11, yolo12, dura11, chic11, more11, este11, huit11, soya11, tida11, moli11, coso11, jica11, teit11, tona11, mech11, pino12	100	U+006f U+006f U+0024
+oo	oo	toon, ⁿdooʔ	chic02, copa11, yuta13, zaca11, chay11, prom01, jami11, sind11, ayut11, colo11	23	U+006f U+006f
+óó$	óó	kóó, ⁿdóó	peno11, jica11	8	U+00f3 U+00f3 U+0024
+óó	óó	kóó-kāá	ixpa11	1	U+00f3 U+00f3
+òò$	òò	kòò, ⁿdòò	mont12, prog12, dura11, alac11, cahu11, caca11, colo11, yucu13, abas11, xaya12, ocot11, chay11, aten11, moli11, reye11, huen11, ixpa11, nuyo11, teco11, xaya11, cuat11, tepe11, brav11, guad11, peno11, yucu12	53	U+00f2 U+00f2 U+0024
+òò	òò	kòò-ká, kòò-káa	teco11, guad11, tama12, nuch11, prom01	5	U+00f2 U+00f2
+ò̧ò̧$	ò̧ò̧	nò̧ò̧	cahu11, nuyo11, yucu12	3	U+00f2 U+0327 U+00f2 U+0327 U+0024
+ôô$	ôô	yôô	diux11	1	U+00f4 U+00f4 U+0024
+ôô	ôô	chinôônha	chic02	1	U+00f4 U+00f4
+o̧o̧$	o̧o̧	ño̧o̧, čo̧o̧	soya11, caca11, esta11, cuat11, chic11, cahu11, cuil11, tila11, brav11, alac11, apoa11, ndua11, zapo11	19	U+006f U+0327 U+006f U+0327 U+0024
+o̧o̧	o̧o̧	ko̧o̧-sawi, ko̧o̧-đawi	chic11, huaz11, acat11, joco11, tutu11, apas11	6	U+006f U+0327 U+006f U+0327
+ōō$	ōō	ñōō, yōō	alac11, atat11, yoso11	3	U+014d U+014d U+0024
+ōō	ōō	tōōn	jami11	1	U+014d U+014d
+ō̧ō̧$	ō̧ō̧	ñō̧ō̧, čō̧ō̧	caca11, alac11	2	U+014d U+0327 U+014d U+0327 U+0024
+o̠o̠$	o̠o̠	ndo̠o̠, yo̠o̠	alac11	4	U+006f U+0320 U+006f U+0320 U+0024
+o̠o̠	o̠o̠	ko̠o̠-sawi	cahu11, cuat11	2	U+006f U+0320 U+006f U+0320
+ōs	ōs	yōsǒ, yōsó	more11, coic11, alac11, yucu15, ocot11	5	U+014d U+0073
+ów	ów	ᴮ-tówĩ̀	prom01	1	U+00f3 U+0077
+^ōw	ōw	ōwī	cahu11	1	U+005e U+014d U+0077
+^p	p	pele, palabra	yolo11, papa11, chig11, ayut11, yolo12, tlah11, nund12, yoso11, yucu17, chay11, abas11, toto12	14	U+005e U+0070
+p	p	sapu, sapo	flor11, adeq11, nund11, tlal11, yucu13, yoso11, ocot11, pena12	9	U+0070
+^q	q	quɨtɨ, quachi	tepo01, colo11, chay11, atat11, chic12	28	U+005e U+0071
+q	q	yɨquɨ, ndɨquɨ	chic12, tepo01, colo11, atat11, chay11, papa11	24	U+0071
+q$	q	dzuq	tepo01	1	U+0071 U+0024
+r	r	ardiya, tra̧na̧	chic02, chic12, copa11, caca11, papa11, colo11, zaca11, mica11, cuya11, amat11, cuil11, ixta13, yuta11, chay12, chig11, cuau11, mont14, coat11, tepe11, zapo11, nund11, chay11, cris11, toto12, aten11, tlal11, jica13, tejo11	100	U+0072
+^r	r	ra-yɨɨ, rai	chic12, copa11, zaca11, papa11, colo11, chay11, jami11, atoy11, sayu11, tutu11, ixta11, tepe12, amat11, ixta13, jica12, lore11, mont12, yoso11, coat11, huaz11, pino11, cris11, toto12, nuti11, moli11, jica11, acat11, mech11, pino12	78	U+005e U+0072
+ř	ř	žeřu, uřnu	tila11, tlal11	2	U+0159
+^ř	ř	řekʷe	mont13	1	U+005e U+0159
+r̃	r̃	fier̃u, žer̃u	chic11, tlaz11, nuti11, chal11, este11, huit11, sind11, nuxa11, prog11, ixta12, yucu11, teit11, joco11, apoa11, cuau11, cuya11, pied11	19	U+0072 U+0303
+^r̃	r̃	r̃a̧na̧, r̃aki	yuta11, tlac11	2	U+005e U+0072 U+0303
+^rr	rr	rrâân, rrekotrun	chic02	8	U+005e U+0072 U+0072
+rr	rr	nurrnúú, natorrooho	chic02, tlah11, yucu13	4	U+0072 U+0072
+rs	rs	kàrsòni̧	peno11	1	U+0072 U+0073
+^s	s	sutu, staa	abas11, yolo11, alac11, ayut11, ocot11, tepo01, jami11, yoso11, prog12, copa11, chic02, conc11, diux11, coat11	100	U+005e U+0073
+s	s	isu, visi	tepo01, yolo11, chay11, mont12, tlah11, alac11, pied12, yoso11, prog12, ayut11, chic02, jami11, mixt11, ocot11, abas11, flor12, atat11, jica11, gran11	100	U+0073
+^š	š	šiči, šiti̧	coat11, alac11, ocot11, ayut11, cahu11, metl11, chay11, jica11, peno11, yolo11, mixt11, apoa11, cuat11, nuch11, ndua11, prog12, brav11, chic11, reye11, atoy11, sayu11, coic11, joco11, tlaz11, nund13, ixpa11, ixta11, tutu11, tepe12, juxt11, nuyo11, pena12, teco11, chig11, mech11, jica12, caca11, sini11, diux11, atat11, lore11, mont12, tlac12, nund11, huaz11, pino11, esta11, colo11, flor11, achi11, dura11, cris11, apas11, nuti11, este11, jami11, aten11, prog11, guad11, gran11, pino12, tejo11	100	U+005e U+0161
+š	š	čaša, tiši	ayut11, coat11, metl11, yucu15, cahu11, alco11, caca11, gran11, mixt11, alac11, chay12, chig11, nuxi11, xaya11, itun11, ocot11, huaz11, prog12, colo11, jica11, acat11, peno11, mica11, atoy11, yolo11, nuch11, coic11, tama12, tutu11, ixta11, tepe12, amat11, teco11, ixta13, nuxa11, mech11, jica12, atat11, apoa11, cuat11, diux11, yoso11, ahue11, tlac11, tama11, pino11, brav11, yuta12, dura11, chay11, cris11, chic11, more11, jami11, tlal11, moli11, teit11, reye11, pino12	100	U+0161
+š̯	š̯	uš̯i, wiš̯i	joco11	2	U+0161 U+032f
+š̩	š̩	ñu̧š̩a̧	chig11	1	U+0161 U+0329
+^š̩	š̩	š̩itnu̧	chig11	1	U+005e U+0161 U+0329
+š̭	š̭	uš̭a, đuš̭a̧	chig11, juxt11	2	U+0161 U+032d
+s̯	s̯	yas̯i, žas̯i	juxt11	2	U+0073 U+032f
+^ṣ	ṣ	ṣitʸi, ṣiti	juxt11, yolo12, tlac12	7	U+005e U+1e63
+ṣ	ṣ	uṣi, uṣǎ	juxt11, yolo12, teit11, tila11	7	U+1e63
+^ṣ̌	ṣ̌	ṣ̌a̧ʔu̧, ṣ̌uu	teit11, tila11, chig11, joco11, chal11, yucu11, nuti11, cuau11, itun11, cuya11, tama11	43	U+005e U+1e63 U+030c
+ṣ̌	ṣ̌	uṣ̌i, uṣ̌a	tila11, chal11, tama11, chig11, yoso11, yucu11, cuya11, cuau11, itun11, joco11, nund12, teco11, sini11, tlac11, nund11, sind11, tlal11, moli11, prog11, teit11	41	U+1e63 U+030c
+^sh	sh	shíká, shuhun	copa11, ayut11, coat11, dura11, diux11, yoso11, alac11, ocot11, jami11, prog12, tepe03	85	U+005e U+0073 U+0068
+sh	sh	ūshi, kúshí	ayut11, alac11, diux11, dura11, yoso11, ocot11, jami11, prog12, coat11, flor11, copa11	43	U+0073 U+0068
+šʰ	šʰ	išʰto	alco11	1	U+0161 U+02b0
+^ṣ̌ʳ	ṣ̌ʳ	ṣ̌ʳoo	tlal11	1	U+005e U+1e63 U+030c U+02b3
+^sʸ	sʸ	sʸoo, sʸèʔè	tlac12, yucu15, teco11, aten11, chay12, juxt11	9	U+005e U+0073 U+02b8
+sʸ	sʸ	žusʸa, usʸa	juxt11, teco11, sind11, yucu15, tlac12	6	U+0073 U+02b8
+^šʸ	šʸ	šʸoo	nuxi11, tepe11, dura11	3	U+005e U+0161 U+02b8
+šʸ	šʸ	ƀišʸi, žušʸà	chay12, teco11	2	U+0161 U+02b8
+^ṣʸ	ṣʸ	ṣʸoo	tlac12	1	U+005e U+1e63 U+02b8
+^ʃ	ʃ	ʃa²Ɂã², ʃi¹jo⁴	chic12, alco11, chal11, zaca11, yucu16	46	U+005e U+0283
+ʃ	ʃ	ja³ʃi¹, ⁿdi¹ʃã⁴	alco11, chal11, yucu16, zaca11, chic12	12	U+0283
+t	t	sutu, tatan	abas11, jami11, yolo11, ocot11, prog12	100	U+0074
+^t	t	tutu, tatan	yolo11, jami11, prog12, ocot11, ayut11, coat11, abas11	100	U+005e U+0074
+th	th	nthātā, ntīthíyūn	conc11	4	U+0074 U+0068
+ts	ts	vitsin, ntsijkǎ	flor12, pied12, colo11, mixt11, chic02, coat11, abas11, copa11, chic12, tepe03	100	U+0074 U+0073
+^ts	ts	tsìtù, tsóko	pied12, colo11, yucu17, flor12, mixt11, abas11, chic02, coat11, tepe03, copa11, chic12	100	U+005e U+0074 U+0073
+ʧ	ʧ	kʷa¹ʧi², ja³ʧĩ³	zaca11, alco11, chal11, yucu16	19	U+02a7
+^ʧ	ʧ	ʧi³ĩ¹, ʧu²ũ²	zaca11, alco11, yucu16	8	U+005e U+02a7
+tʃ	tʃ	ɡa³tʃi³²ʰ, ʃa²tʃi¹ʰ	chic12	4	U+0074 U+0283
+^tʃ	tʃ	tʃi²ʰ, tʃi²ʔ	chic12	2	U+005e U+0074 U+0283
+tw	tw	đitwi?	tlal11	1	U+0074 U+0077
+tʸ	tʸ	ⁿdutʸa, ⁿdutʸi	chay11, ixta11, huaz11, mixt11, tutu11, nuxa11, lore11, colo11, jami11, mech11, juxt11, sayu11, zapo11, nuti11, nuxi11, metl11, cris11, yolo11, coic11, ixpa11, teco11, chay12, nuch11, mont12, ayut11, aten11, acat11	100	U+0074 U+02b8
+^tʸ	tʸ	tʸaa, tʸi̧i̧	mixt11, metl11, huaz11, tutu11, juxt11, lore11, ayut11, colo11, jami11, mech11, coic11, ixta11, chay11, sayu11, nuxa11, ixta12, xaya11, nuti11, acat11, mica11, chaz11, xaya12, joco11, tama12, yucu15, nuyo11, cahu11, cuil11, ixta13, teco11, chay12, nuxi11, nuch11, cuat11, tepe11, ndua11, tama11, brav11, apas11, toto12, chic11, soya11, aten11, tona11, coso11	92	U+005e U+0074 U+02b8
+^tʸʰ	tʸʰ	tʸʰai	juxt11	1	U+005e U+0074 U+02b8 U+02b0
+ʈʂ	ʈʂ	ʃi³ʈʂa³⁵, ɡu³ʈʂũ³⁵	chic12	8	U+0288 U+0282
+^ʈʂ	ʈʂ	ʈʂa³, ʈʂũ³⁵	chic12	7	U+005e U+0288 U+0282
+u	u	ñu¹ñu⁴, ta¹su'⁴u⁴	yolo11, abas11	100	U+0075
+u$	u	sutu, iñu	abas11, yoso11, jami11, ayut11, conc11, diux11, ocot11, coat11, prog12, alac11, chic02	100	U+0075 U+0024
+^u	u	uvi, una	zaca11, pena11, yolo11, atat11, coat11, prog12, colo11, abas11, ocot11, chay11, jami11, alco11, alac11, chal11, pied12, tlah11, brav11, flor12, tepe03, amat11, apoa11, chic12, papa11, esta11, copa11, xoch11, apas11, nuti11, tlal11, acat11, conc11	100	U+005e U+0075
+ú	ú	yúyú, xúxan	diux11, coat11, colo11, peno11, prog12, tlah11, mixt11, pied12, ocot11, ayut11, jica11, conc11, flor12, alac11, mont12, yoso11, chic02, abas11, jami11, caca11, chay11, gran11	100	U+00fa
+ú$	ú	yúyú, yùú	diux11, tlah11, peno11, mixt11, coat11, ocot11, jami11, colo11, chic02, conc11, alac11, prog12, pied12, yoso11, flor12, atat11, mont12, ayut11, zaca11, xoch11, abas11, gran11	100	U+00fa U+0024
+^ú	ú	úʔá, úshî	coat11, diux11, huen11, peno11, jica11	19	U+005e U+00fa
+ú̧$	ú̧	ñú̧ʔú̧, káʔnú̧	peno11, coic11, yucu15, coat11, jica11, metl11, yucu12, ocot11, tona11, coso11, nuyo11, tlaz11, xaya12, prog12, tama12, atat11, ahue11, tepe11	44	U+00fa U+0327 U+0024
+ú̧	ú̧	ñú̧ʔú̧, ñú̧ʔù̧	peno11, nuyo11, ayut11, coic11, tlaz11, yucu15, teco11, metl11, ocot11, coat11, tepe11, tlac12, yucu13, dura11, tona11, coso11, jica11, acat11, reye11, yucu12	31	U+00fa U+0327
+^ú̧	ú̧	ú̧ʔú̧, ú̧ní̧	peno11, jica11, coat11	4	U+005e U+00fa U+0327
+ù	ù	kùʔù, yùkù	mixt11, tlah11, peno11, metl11, ocot11, flor12, pied12, coat11, ayut11, xaya11, atat11, abas11, moli11, jica11, caca11, chay11, gran11, mont12, alac11, cahu11, diux11	100	U+00f9
+ù$	ù	kùʔù, tūtù	pena11, mixt11, colo11, gran11, chay11, pied12, atat11, flor12, mont12, ocot11, moli11, peno11, caca11, alac11, metl11, tlah11, coat11, ayut11, xoch11, abas11, jica11, xaya11	100	U+00f9 U+0024
+^ù	ù	ù'ùn, ùnì	mixt11, yucu17, tlah11, pied12, xaya12, dura11, flor12, abas11, xaya11, chig11, colo11	40	U+005e U+00f9
+ù̧	ù̧	nù̧ʔū̧, ʔù̧ʔù̧	yucu12, nuyo11, ocot11, xaya12, yucu15, metl11, coic11, ahue11, teco11, nuch11, coat11, tlac12, prog12, yucu13, dura11, tama12, alac11, atat11, ayut11, aten11, gran11, mixt11, chay11, moli11, peno11, reye11	100	U+00f9 U+0327
+ù̧$	ù̧	ʔù̧ʔù̧, ù̧ʔù̧	yucu15, ocot11, peno11, xaya12, nuyo11, teco11, yucu12, gran11, yucu13, atat11, aten11, guad11, ahue11, dura11, reye11, mixt11, coic11, tama12, ixpa11, alac11, metl11, nuch11, diux11, coat11, tlac12, huaz11, prog12, ayut11, chay11, moli11, jica11, acat11, mech11	93	U+00f9 U+0327 U+0024
+^ù̧	ù̧	ù̧ʔù̧, ù̧nì̧	xaya12, moli11, mixt11, coic11, prog12, dura11	8	U+005e U+00f9 U+0327
+û$	û	xajtû, usû	diux11, pied12, flor12, chic02, yucu17	18	U+00fb U+0024
+û	û	shánhûn, ñuûn	chic02, tlah11, diux11	5	U+00fb
+ǔ$	ǔ	ñùñǔ, ijñǔ	yucu17, pied12, mixt11, flor12, more11, ahue11, coat11	25	U+01d4 U+0024
+ǔ	ǔ	ñǔu, xǔ'un	flor12, pied12, mixt11, yucu17, jica13, xoch11	23	U+01d4
+ǔ̧$	ǔ̧	nú̧ǔ̧, ú̧ʔǔ̧	coat11	2	U+01d4 U+0327 U+0024
+ü	ü	žükü, žüžü	caca11, tlac12, ahue11, tama12, chic12, more11, papa11, esta11, prog12, nuch11, teco11, guad11, ixpa11, flor11, mont12, yucu16	45	U+00fc
+ü$	ü	žükü, žüžü	esta11, caca11, tlac12, more11, tama12, ahue11, prog12, nuch11, teco11, guad11, yucu16	36	U+00fc U+0024
+^ü	ü	ütü, üθü	more11, caca11, esta11, prog12	5	U+005e U+00fc
+ũ	ũ	tu¹Ɂũ², ʧu²ũ²	chic12, alco11, zaca11, chal11, yucu16	25	U+0169
+^ũ	ũ	ũ²ʔũ³ʰ	chic12	1	U+005e U+0169
+ṹ	ṹ	jútṹɁ	prom01	1	U+1e79
+ũ̀̀$	ũ̀̀	júũ̀̀, xìtũ̀̀	prom01	2	U+0169 U+0300 U+0300 U+0024
+u̧$	u̧	nu̧ʔu̧, suku̧	cris11, atoy11, jate11, chaz11, alco11, ixta11, mont13, cuya11, nuxa11, chig11, jica12, cuau11, itun11, coat11, esta11, colo11, coxc11, achi11, dura11, este11, huit11, tona11, coso11, jica11, moli11, tlal11, chal11, yolo11, mixt11, sayu11, tama12, joco11, tlaz11, nund13, ixpa11, tepe12, juxt11, pied11, adeq11, teco11, cahu11, cuat11, ixta12, xaya11, caca11, lore11, apoa11, atat11, nuch11, tlac11, ahue11, mont14, yoso11, tepe11, tama11, diux11, pino11, yucu11, tila11, ayut11, yolo12, brav11, zaca11, apas11, nuti11, jami11, tida11, guad11, teit11, acat11, reye11, gran11, pino12	100	U+0075 U+0327 U+0024
+u̧	u̧	nu̧ʔu̧, su̧ʔnu̧	mont13, ayut11, apas11, huit11, atoy11, chal11, jate11, tlaz11, juxt11, adeq11, ixta12, nuxi11, apoa11, mont14, coat11, yoso11, tama11, prom01, soya11, coxc11, achi11, zaca11, este11, tona11, moli11, gran11, yolo11, chaz11, alco11, mixt11, sayu11, tama12, joco11, ixpa11, ixta11, tepe12, cuya11, yucu15, pied11, teco11, nuxa11, chig11, jica12, lore11, cuau11, atat11, tlac11, ahue11, itun11, tepe11, sind11, pino11, esta11, yucu11, tila11, colo11, yolo12, brav11, chay11, jami11, tida11, guad11, coso11, jica11, teit11, tlal11, acat11, reye11, pino12	100	U+0075 U+0327
+^u̧	u̧	u̧ni̧, u̧ñi̧	achi11, apas11, alco11, coat11, amat11, adeq11, atat11, atoy11, chal11, tlaz11, ixta11, mont13, juxt11, chay12, jica12, apoa11, mont12, mont14, huaz11, pino11, yucu11, brav11, zaca11, cris11, yucu16, toto12, chic11, nuti11, este11, tona11, coso11, teit11, mech11, tejo11, mica11, jate11, chaz11, mixt11, sayu11, joco11, nund13, alac11, cuya11, ixta12, ndua11, yucu14, ayut11, huit11, yolo11, tutu11, tepe12, nund12, pena12, pied11, ixta13, nuxa11, yuta11, nuxi11, sini11, cuat11, diux11, itun11, flor11, colo11, prog12, yolo12, more11, tlal11, acat11, chig11, xaya11, tata11, lore11, cuau11, tlac11, yoso11, tepe11, tama11, nund11, sind11, esta11, tepo11, tila11, coxc11, yuta12, chay11, jami11, tida11, moli11, prog11, jica11, gran11, pino12	100	U+005e U+0075 U+0327
+ū	ū	yūkū, ñūú	ayut11, conc11, ocot11, jami11, yoso11, alac11, diux11, prog12, coat11	100	U+016b
+ū$	ū	tūtū, káʔnū	atat11, yoso11, ocot11, gran11, conc11, coat11, prog12, alac11, metl11, chay11, moli11, xaya11, jami11, diux11, ayut11, jica11, mixt11, caca11, yucu12	100	U+016b U+0024
+^ū	ū	ūù, ūshi	ayut11, yoso11, prog12, atat11, gran11, coat11, ocot11	21	U+005e U+016b
+ū̧$	ū̧	tù̧ʔū̧, nù̧ʔū̧	gran11, nuyo11, yucu12, ocot11, atat11, xaya12, moli11, coic11, metl11, yucu15, mixt11, cahu11, teco11, aten11, prog12, ayut11, reye11, chay11	72	U+016b U+0327 U+0024
+ū̧	ū̧	kū̧ñu̧, tū̧nì̧	ocot11, yucu12, yucu15, nuyo11, xaya12, atat11, teco11, ayut11, gran11, coic11, aten11, metl11, nuch11, reye11	63	U+016b U+0327
+^ū̧	ū̧	ū̧ʔù̧	gran11, atat11	2	U+005e U+016b U+0327
+u̠	u̠	su̠tu̠, yu̠ta	jica13, xoch11, alac11, yuta13	42	U+0075 U+0320
+u̠$	u̠	su̠tu̠, ku’u̠	yuta13, jica13, alac11, xoch11	25	U+0075 U+0320 U+0024
+^u̠	u̠	u̠xa̠, u̠ni̠	jica13, xoch11, alac11	18	U+005e U+0075 U+0320
+uʰ	uʰ	suʰku̧ʔ, đuʰtu	cuau11, ayut11	3	U+0075 U+02b0
+ùh	ùh	jùhmà, cùhvā	colo11, chay11	7	U+00f9 U+0068
+^ùh	ùh	ùhvà	colo11, chay11	2	U+005e U+00f9 U+0068
+ûh	ûh	huhûha, nitrûha	chic02	2	U+00fb U+0068
+^üh	üh	ühü	prog12	1	U+005e U+00fc U+0068
+u̧ʰ	u̧ʰ	su̧ʰtu, đu̧ʰku̧	cuau11, ayut11	2	U+0075 U+0327 U+02b0
+u̧ⁿ$	u̧ⁿ	ku̧u̧ⁿ, yutu̧ⁿ	coso11, coxc11, nund13	3	U+0075 U+0327 U+207f U+0024
+u̧ⁿ	u̧ⁿ	đu̧ⁿɡu, ku̧ⁿdu	yucu14, dura11	2	U+0075 U+0327 U+207f
+u̧ᵑ$	u̧ᵑ	đu̧u̧ᵑ, satu̧ᵑ	coso11, sind11	3	U+0075 U+0327 U+1d51 U+0024
+ùs	ùs	ʔùsà, tì-hùsá	guad11, ixpa11, yucu13, aten11	5	U+00f9 U+0073
+^ùs	ùs	ùsà, ùsì	mont12, xaya12	3	U+005e U+00f9 U+0073
+üs	üs	žüsa, đüsa	caca11, esta11, tlac12	5	U+00fc U+0073
+^üs	üs	üsa	caca11	1	U+005e U+00fc U+0073
+ùsh	ùsh	ntùshi	dura11	1	U+00f9 U+0073 U+0068
+ùsʸ	ùsʸ	ʔùsʸà	yucu15	1	U+00f9 U+0073 U+02b8
+uu$	uu	žuu, yuu	tepe03, chay11, tepo01, pena11, zaca11, abas11, jami11, chal11, nund13, adeq11, mech11, atat11, apoa11, sind11, prog12, yuta12, apas11, chic11, aten11, gran11, atoy11, yolo11, jate11, alco11, coic11, joco11, tlaz11, alac11, nund12, mont13, pena12, amat11, pied11, cahu11, nuxa11, yuta11, ixta12, nuxi11, chig11, xaya11, tata11, lore11, sini11, diux11, tlac11, itun11, yoso11, mont14, ocot11, ndua11, tama11, zapo11, nund11, yucu14, huaz11, yucu11, tila11, ayut11, brav11, coxc11, achi11, este11, huit11, tida11, moli11, tlal11, acat11, teit11, jica13	100	U+0075 U+0075 U+0024
+uu	uu	chuun, žuui	copa11, chic02, chic12, yoso14, zaca11, mica11, mixt11, tepe03, pied11, ixta13, pied12, tlah11, atat11, cuau11, yoso11, prom01, ayut11, colo11, dura11, abas11, toto12, tepo01, teit11, yucu17, flor12	46	U+0075 U+0075
+^uu$	uu	uu	chay11, chal11, yolo11, jate11, yoso14, joco11, nund13, tlaz11, nund12, mont13, pena12, pied11, adeq11, nuxa11, yuta11, ixta12, nuxi11, tata11, lore11, atat11, sini11, diux11, tlac11, yoso11, ocot11, ndua11, tama11, zapo11, nund11, yucu14, huaz11, yucu11, tila11, coxc11, achi11, yuta12, este11, huit11, soya11, tida11, moli11, teit11, mech11	44	U+005e U+0075 U+0075 U+0024
+^uu	uu	uun, uun²	coat11, copa11	2	U+005e U+0075 U+0075
+úú$	úú	žúú, ndúú	peno11, yoso11, diux11, soya11, ixta12, jica11, colo11, chic02, pena11, atat11, achi11, chay11	18	U+00fa U+00fa U+0024
+^úú$	úú	úú	peno11, huen11, diux11	3	U+005e U+00fa U+00fa U+0024
+úú	úú	kúúhu, kúún	chic02, huen11	2	U+00fa U+00fa
+ú̧ú̧$	ú̧ú̧	nú̧ú̧, ñú̧ú̧	teco11, pino11, jica11, atat11, gran11	6	U+00fa U+0327 U+00fa U+0327 U+0024
+ú̧ú̧	ú̧ú̧	kú̧ú̧-saƀi	achi11	1	U+00fa U+0327 U+00fa U+0327
+ùù$	ùù	yùù, nùù	ocot11, colo11, peno11, alac11, xaya11, chay11, abas11, moli11, reye11, xaya12, huen11, nuyo11, caca11, mont12, prog12, ayut11, dura11, xoch11, guad11, yucu12	32	U+00f9 U+00f9 U+0024
+ùù	ùù	jùùɁ, tùùn	prom01, dura11	2	U+00f9 U+00f9
+^ùù$	ùù	ùù	moli11	1	U+005e U+00f9 U+00f9 U+0024
+ù̧ù̧$	ù̧ù̧	tù̧ù̧, tʸù̧ù̧	moli11, jica11, ayut11, peno11, nuyo11	5	U+00f9 U+0327 U+00f9 U+0327 U+0024
+ûû$	ûû	ñûû, yûû	diux11	2	U+00fb U+00fb U+0024
+üü$	üü	žüü, küü	caca11, yucu16, esta11, nuch11, ahue11, tlac12	9	U+00fc U+00fc U+0024
+^üü$	üü	üü	caca11	1	U+005e U+00fc U+00fc U+0024
+u̧u̧$	u̧u̧	ñu̧u̧, saʔma̧-nu̧u̧	ixta12, tepe12, yoso11, atoy11, chal11, tama12, tlaz11, ixta11, mont13, juxt11, chay12, jica12, apoa11, mont12, mont14, huaz11, yucu11, brav11, achi11, zaca11, cris11, apas11, yucu16, toto12, chic11, nuti11, este11, aten11, tona11, coso11, teit11, mech11, tejo11, mica11, jate11, chaz11, alco11, mixt11, sayu11, joco11, nund13, cuya11, nuch11, coat11, ndua11, ayut11, huit11, yolo11, tutu11, ixpa11, nund12, pena12, pied11, ixta13, nuxa11, yuta11, nuxi11, diux11, itun11, flor11, colo11, prog12, yolo12, dura11, more11, tlal11, guad11, acat11, peno11, coic11, amat11, adeq11, chig11, tata11, lore11, atat11, cuau11, ahue11, tlac11, tepe11, tama11, nund11, sind11, esta11, tepo11, tila11, coxc11, yucu13, yuta12, chay11, jami11, tida11, moli11, prog11, jica11, reye11, pino12	100	U+0075 U+0327 U+0075 U+0327 U+0024
+u̧u̧	u̧u̧	ku̧u̧-sawi, ku̧u̧-đawi	yucu13, aten11, yolo11, alco11, tama12, tepe12, ixta12, lore11, tlac11, ahue11, mont14, tepe11, zapo11, brav11, dura11, chay11, more11, soya11, tona11, guad11, mech11	23	U+0075 U+0327 U+0075 U+0327
+^u̧u̧$	u̧u̧	u̧u̧	mica11	1	U+005e U+0075 U+0327 U+0075 U+0327 U+0024
+ūū$	ūū	ñūū, žūū	prog12, atat11, chay11, ocot11, mixt11, caca11, gran11	11	U+016b U+016b U+0024
+ūū	ūū	chūūn, lūū-čī	yucu15, prog12	2	U+016b U+016b
+ū̧ū̧$	ū̧ū̧	ñū̧ū̧, tū̧ū̧	moli11, xaya12, jica11, xaya11, prog12, gran11, nuyo11, yucu12	8	U+016b U+0327 U+016b U+0327 U+0024
+u̠u̠$	u̠u̠	yu̠u̠	alac11	1	U+0075 U+0320 U+0075 U+0320 U+0024
+ùw	ùw	ʔùwà, ʔùwì	nuyo11, yucu15	3	U+00f9 U+0077
+^ùw	ùw	ùwì	prom01	1	U+005e U+00f9 U+0077
+ɥ	ɥ	kɥi¹ĩ², kɥi³i¹	yucu16	4	U+0265
+v	v	sāvā, savi	alac11, coat11, abas11, tepo01, ayut11, prog12, jami11, mont12, tlah11, ocot11, conc11, yoso11, flor12, pied12, mixt11, diux11	100	U+0076
+^v	v	ve'e, và'a	tlah11, diux11, ayut11, alac11, abas11, pied12, yoso11, flor12, mixt11, prog12, mont12, coat11, jami11, ocot11, tepo01, conc11	100	U+005e U+0076
+^vh	vh	vhua	tepo01	1	U+005e U+0076 U+0068
+^vs	vs	vsa	tepo01	1	U+005e U+0076 U+0073
+^vv	vv	vvui	tepo01	1	U+005e U+0076 U+0076
+^vʸ	vʸ	vʸeʔɛ	ayut11	1	U+005e U+0076 U+02b8
+w	w	yawi, yuwi	prom01, ayut11, copa11, atoy11, chaz11, alco11, tepe12, cahu11, chig11, cuau11, cuat11, brav11, chay11, apas11, coso11, sayu11, cuya11, lore11, itun11, tepe11, zapo11, huaz11, tepo11, yolo12, chic11, huit11, tona11, acat11, mech11, mica11, xaya12, joco11, tutu11, alac11, pied11, cuil11, nuxa11, ixta12, caca11, tama11, pino11, yucu11, colo11, cris11, toto12, soya11, tida11, teit11, pena11	100	U+0077
+^w	w	weʔe, wilu	cahu11, prom01, sind11, yucu11, ayut11, copa11, alco11, pied11, nuxa11, apas11, tida11, teit11, atoy11, chaz11, sayu11, joco11, cuya11, cuil11, ixta12, lore11, cuau11, cuat11, tama11, huaz11, tepo11, brav11, chic11, este11, soya11, coso11, mech11, soso11, tlaz11, tutu11, tepe12, juxt11, chig11, caca11, apoa11, tepe11, zapo11, tila11, yolo12, chay11, huit11, tona11, acat11	100	U+005e U+0077
+w̃	w̃	ña̧w̃a̧	tida11	1	U+0077 U+0303
+^w̃	w̃	w̃i̧ʔi̧	tida11	1	U+005e U+0077 U+0303
+^wː	wː	wːi¹³, wːe³⁵	chic12	4	U+005e U+0077 U+02d0
+x	x	xixi, vixi	copa11, yolo11, prog12, ocot11, abas11, yoso11, gran11, atat11, flor12, pied12, tlah11, chic02, moli11, mixt11, conc11, alac11, diux11, mont12	100	U+0078
+^x	x	xito, xixi	yolo11, prog12, pied12, tlah11, flor12, conc11, abas11, ocot11, yoso11, chic02, atat11, gran11, mixt11, mont12	100	U+005e U+0078
+^xʷ	xʷ	xʷa̧a̧, xʷi̧ñi̧	huit11, tama11, pied11, cuil11, yuta11	9	U+005e U+0078 U+02b7
+xʷ	xʷ	žɨtɨ-xʷi̧ñi̧, či-xʷȩñi̧	huit11, tama11, pied11	3	U+0078 U+02b7
+xʸ	xʸ	uxʸa, nì̧xʸà̧	huit11, itun11, prog11, yucu12, yuta11, cuau11, mont13, nuyo11, pied11	15	U+0078 U+02b8
+^xʸ	xʸ	xʸèʔè, xʸa̧ʔū̧	itun11, yoso11, gran11, mont13, nuyo11, yucu12	6	U+005e U+0078 U+02b8
+^y	y	yaa, yoo	yolo11, abas11, jami11, prog12, ayut11, ocot11, alac11	100	U+005e U+0079
+y	y	ndahyi, ndyītyā	jami11, tepo01, ayut11, prog12, conc11, yolo11, alac11, yoso11, ocot11, diux11, copa11, chic02, coat11	100	U+0079
+y$	y	mamey, šāʰty	tepo01, ayut11, chal11, esta11, apoa11, prom01	9	U+0079 U+0024
+ỹ	ỹ	i̧ỹu̧, ti-i̧ỹu̧	chic11, joco11, apoa11, ixta12, tila11, yolo12, tama11, tida11, caca11, diux11, mont13, apas11	22	U+1ef9
+^ỹ	ỹ	ỹu̧ʔma̧, ỹa̧ni̧	apoa11, mont13, tila11, alac11, huit11, nuxa11, ixta12, yolo12, itun11, ndua11	16	U+005e U+1ef9
+^yy	yy	yyo’³⁴, yyaj⁵⁴	chic12, papa11, chic02	4	U+005e U+0079 U+0079
+yy	yy	tay-yee	tepo01	1	U+0079 U+0079
+z	z	mi̧ʔⁿza, wi̧ʔⁿza	tepo01, chay11, guad11, soya11, chic11, yoso11, cuil11, ixta12, joco11, tlac11, apas11	66	U+007a
+^z	z	zutu, zahva	chay11, copa11	14	U+005e U+007a
+^ž	ž	žuʔu, žūʔū-	atat11, gran11, peno11, prog12, caca11, moli11, ocot11, diux11, cuau11, chal11, ixpa11, yucu15, juxt11, cuil11, ixta12, apoa11, ahue11, achi11, dura11, cris11, apas11, chic11, este11, huit11, aten11	100	U+005e U+017e
+ž	ž	težu, ⁿdɨʔžɨ	nuch11, yucu15, pied11, sind11, prog12, peno11, gran11, tlaz11, ixpa11, cuau11, tlac11, ahue11, tama11, yucu11, yuta12, este11, moli11, yucu12, chal11, yolo11, jate11, tama12, nuxa11, caca11, yoso11, ocot11, esta11, soya11, huit11, aten11, nund13, adeq11, cuil11, yuta11, atat11, diux11, sini11, mont14, mont12, tila11, achi11, cris11, apas11, reye11	100	U+017e
+^ž̩	ž̩	ž̩úú, ž̩uu	ixta12	8	U+005e U+017e U+0329
+^ž̯	ž̯	ž̯íkì	teco11	1	U+005e U+017e U+032f
+^ẓ̌	ẓ̌	ẓ̌ute	yucu11	1	U+005e U+1e93 U+030c
+^ʒ	ʒ	ʒu³wi³ʰ, ʒu³we³ʰ	chic12	3	U+005e U+0292
+ʔ	ʔ	kùʔù, sèʔē	atat11, gran11, peno11, cahu11, moli11, prog12, caca11, metl11, ocot11, xaya11, diux11, coat11, mixt11, jica11, ayut11, alac11, chay11	100	U+0294
+^ʔ	ʔ	ʔù̧nì̧, ʔu̧ni̧	yucu15, yucu12, nuyo11, teco11, reye11, tama12, coic11, ahue11, ixpa11, tlac12, yucu13, dura11, aten11, nuch11, ocot11, guad11, prog11, prog12, coxc11, achi11, cris11, peno11	100	U+005e U+0294
+ʔ$	ʔ	ⁿdiča̧ʔ, ti̧i̧ʔ	ayut11, prom01, zaca11, atoy11, pino12, huit11, jica11, sayu11, jica12, ixta11, tepe12, mont13, tejo11	100	U+0294 U+0024
+̀ʔ$	̀ʔ	štā-̀ʔ	ayut11	1	U+0300 U+0294 U+0024
+ʔⁿ	ʔⁿ	ƀi̧ʔⁿda, wi̧ʔⁿde	coat11, yucu15, este11, soya11, mixt11, cuya11, pied11, guad11, cuau11, tama11, yucu13, atoy11, tama12, tlaz11, ixta11, mont13, juxt11, teco11, jica12, apoa11, huaz11, pino11, yucu11, brav11, achi11, zaca11, apas11, chic11, aten11, tona11, coso11, teit11, mech11, tejo11, chaz11, alco11, sayu11, xaya12, joco11, ixta12, nuch11, ocot11, zapo11, ayut11, huit11, yolo11, tutu11, ixpa11, tepe12, nuxa11, nuxi11, cuat11, itun11, yolo12, colo11, dura11, more11, acat11, peno11, coic11, cahu11, cuil11, chig11, caca11, lore11, atat11, tlac11, ahue11, yoso11, prom01, tepe11, sind11, esta11, tepo11, tila11, chay11, jami11, tida11, moli11, jica11, reye11, gran11, pino12	95	U+0294 U+207f
+ʔw	ʔw	saʔwa, yuʔwa	prom01, alac11, cahu11, nuxa11, ayut11, atoy11, alco11, joco11, tutu11, tepe12, cuya11, pied11, chig11, nuxi11, lore11, apoa11, cuau11, cuat11, ndua11, sind11, huaz11, tila11, brav11, yolo12, dura11, chay11, apas11, chic11, huit11, acat11, teit11, mech11, mixt11, sayu11, tlaz11, ixta11, nuyo11, cuil11, ixta12, chay12, tata11, jica12, atat11, yoso11, ahue11, itun11, tepe11, zapo11, tama11, yucu11, flor11, tepo11, este11, soya11, tida11, guad11, coso11, prog11, pino12	100	U+0294 U+0077
+^ʔw	ʔw	ʔwi¹, ʔwaʔa	zapo11, chic12	4	U+005e U+0294 U+0077
+ʔʸ	ʔʸ	ʔiʔʸa	aten11	1	U+0294 U+02b8
+Ɂ	Ɂ	kʷa³Ɂa³, ɲa²Ɂmi²	chal11, alco11, zaca11, yucu16, prom01	74	U+0241
+Ɂ$	Ɂ	jùùɁ, júɁúɁ	zaca11, prom01	43	U+0241 U+0024
+^Ɂ	Ɂ	Ɂ-jààɁ, Ɂ-xáɁà	prom01	13	U+005e U+0241
+Ɂw	Ɂw	Ɂ-ⁿdáɁwì, jùɁwẽ̀	prom01	4	U+0241 U+0077
+^θ	θ	θiko, θütü	esta11, tama12, ahue11, chal11, ndua11, yucu16, tila11, prog12, cuau11, chay11	36	U+005e U+03b8
+θ	θ	ƀiθi, ku̧u̧-θaƀi	ahue11, esta11, tama12, coat11, yucu16, reye11	24	U+03b8
+θʸ	θʸ	la-θʸa̧ʔa̧, ⁿdi-θʸa̧ʔa̧	ahue11, tama12	2	U+03b8 U+02b8

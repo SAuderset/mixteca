@@ -47,24 +47,26 @@ wl2 <- bind_rows(wl1.sub, hb, sm)
 wl2 <- filter(distinct(wl2))
 
 # add Concepticon IDs and concepts
-cpt <- read_tsv("/Users/auderset/Documents/GitHub/mixteca/ComparativeList/concepticon-mapping.tsv")
-glimpse(cpt)
-cpt.sub <- select(cpt, IDlist, CONCEPTICON_ID, CONCEPT)
-wl2 <- full_join(wl2, cpt.sub, by = "IDlist") %>% distinct()
+#cpt <- read_tsv("/Users/auderset/Documents/GitHub/mixteca/ComparativeList/concepticon-mapping.tsv")
+#glimpse(cpt)
+#cpt.sub <- select(cpt, IDlist, CONCEPTICON_ID, CONCEPT)
+#wl2 <- full_join(wl2, cpt.sub, by = "IDlist") %>% distinct()
 
 
 # copy values to form, if form is empty, order columns
 # for some reason it didn't work without coalesce...
 # delete brackets from FORM column (pertinent to Josserand 1983)
-wl3 <- wl2 %>% mutate(FORM = ifelse(is.na(FORM), coalesce(VALUE, FORM), coalesce(FORM, FORM))) %>%
+wl3 <- wl2 %>% mutate(VALUE = stri_trans_nfc(VALUE)) %>%
+  mutate(FORM = ifelse(is.na(FORM), coalesce(VALUE, FORM), coalesce(FORM, FORM))) %>%
   mutate(FORM = str_remove_all(FORM, "\\(")) %>%
   mutate(FORM = str_remove_all(FORM, "\\)"))
 # normalize unicode, lower case for initial capitals
 # attention: do not lowercase everything! in Josserand the upper case is used for voiceless segments!
-wl3 <- wl3 %>% mutate(FORM = stri_trans_nfd(wl3$FORM)) %>%
-  mutate(FORM = if_else(stri_detect_regex(FORM, "^[A-Z]"), stri_trans_tolower(FORM), stri_trans_nfd(FORM)))
+# all spaces to -, otherwise really weird stuff shows up in the orthography profile
+wl3 <- wl3 %>% mutate(FORM = stri_trans_nfc(wl3$FORM)) %>%
+  mutate(FORM = if_else(stri_detect_regex(FORM, "^[A-Z]"), stri_trans_tolower(FORM), stri_trans_nfc(FORM))) %>% mutate(FORM = str_replace_all(FORM, fixed(" "), "-"))
 # rearrange columns
-wl3 <- select(wl3, ID, DOCULECT, CONCEPT, GLOSS:IDlist, CONCEPTICON_ID, LOAN:FLOATTONE)
+wl3 <- select(wl3, ID, DOCULECT, GLOSS:IDlist, LOAN:FLOATTONE)
 glimpse(wl3)
 head(wl3)
 
