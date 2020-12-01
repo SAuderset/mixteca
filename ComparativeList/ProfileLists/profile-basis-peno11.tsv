@@ -1,209 +1,209 @@
-ID	DOCULECT	CONCEPT	GLOSS	VALUE	FORM	IDlist	CONCEPTICON_ID	LOAN	LOAN_SOURCE	SOURCE	FLOATTONE
-2049	peno11	CHILD (DESCENDANT)	child	đéʔè	đéʔè	5	1801	NA	NA	durr1987preliminary	NA
-6411	peno11	CHILD (DESCENDANT)	hijo/hija	đéʔè	đéʔè	5	1801	NA	NA	josserand1983mixtec	NA
-2065	peno11	CROSS-SEX SIBLING	cross-sex sibling	kúʔà	kúʔà	8	NA	NA	NA	durr1987preliminary	NA
-2075	peno11	BROTHER (OF MAN)	brother of man	ñàní	ñàní	9	559	NA	NA	durr1987preliminary	NA
-6528	peno11	BROTHER (OF MAN)	hermano de hombre	ña̧̧ni̧̧	ña̧̧ni̧̧	9	559	NA	NA	josserand1983mixtec	NA
-2087	peno11	SISTER (OF WOMAN)	sister of woman	kúʔú	kúʔú	10	NA	NA	NA	durr1987preliminary	NA
-2098	peno11	AUNT	aunt	đìđí	đìđí	11	1272	NA	NA	durr1987preliminary	NA
-2112	peno11	UNCLE	uncle	đìtó	đìtó	12	1327	NA	NA	durr1987preliminary	NA
-2126	peno11	MAN	man	téè	téè	13	1554	NA	NA	durr1987preliminary	NA
-6651	peno11	MAN	hombre	téè	téè	13	1554	NA	NA	josserand1983mixtec	NA
-6753	peno11	OWNER	dueño	ší-tóʔó	ší-tóʔó	15	1036	NA	NA	josserand1983mixtec	NA
-6837	peno11	OWNER	sacerdote	đútú	đútú	15	1036	NA	NA	josserand1983mixtec	NA
-6944	peno11	BLOOD	sangre	nɨ̧́ñɨ̧́	nɨ̧́ñɨ̧́	17	946	NA	NA	josserand1983mixtec	NA
-2145	peno11	BONE	bone	žɨ̀kɨ̀	žɨ̀kɨ̀	18	1394	NA	NA	durr1987preliminary	NA
-2151	peno11	FACE	face	núú	núú	20	1560	NA	NA	durr1987preliminary	NA
-2163	peno11	TONGUE	tongue	žâá	žâá	21	1205	NA	NA	durr1987preliminary	NA
-2174	peno11	TOOTH	tooth	nú̧ʔù̧	nú̧ʔù̧	22	1380	NA	NA	durr1987preliminary	NA
-7047	peno11	TOOTH	diente	nú̧ʔù̧	nú̧ʔù̧	22	1380	NA	NA	josserand1983mixtec	NA
-2181	peno11	MOUTH	mouth	žùʔù	žùʔù	23	674	NA	NA	durr1987preliminary	NA
-7137	peno11	MOUTH	boca	žuʔu	žuʔu	23	674	NA	NA	josserand1983mixtec	NA
-2196	peno11	EAR	ear	đóʔò	đóʔò	24	1247	NA	NA	durr1987preliminary	NA
-7245	peno11	EAR	oreja	loʔo	loʔo	24	1247	NA	NA	josserand1983mixtec	NA
-7362	peno11	NOSE	nariz	đí̧Nní̧	đí̧Nní̧	25	1221	NA	NA	josserand1983mixtec	NA
-7476	peno11	NOSE	cuello	đúkú̧	đúkú̧	25	1221	NA	NA	josserand1983mixtec	NA
-2204	peno11	HAND	hand	ⁿdàʔà	ⁿdàʔà	27	1277	NA	NA	durr1987preliminary	NA
-7594	peno11	FINGERNAIL	uña	čì̧i̧̧	čì̧i̧̧	28	1258	NA	NA	josserand1983mixtec	NA
-2229	peno11	BELLY OR STOMACH	stomach	šɨ̀tɨ́	šɨ̀tɨ́	30	2114	NA	NA	durr1987preliminary	NA
-7712	peno11	INTESTINES	tripas	šɨ̧tɨ̧	šɨ̧tɨ̧	31	1991	NA	NA	josserand1983mixtec	NA
-2241	peno11	FOOT	foot	sáʔá	sáʔá	32	1301	NA	NA	durr1987preliminary	NA
-7830	peno11	FOOT	pie	sáʔá	sáʔá	32	1301	NA	NA	josserand1983mixtec	NA
-7945	peno11	DISEASE	enfermedad	kʷéʔé	kʷéʔé	33	1986	NA	NA	josserand1983mixtec	NA
-8049	peno11	SWELLING	hinchazón	čú̧ʔú̧	čú̧ʔú̧	35	1903	NA	NA	josserand1983mixtec	NA
-8050	peno11	SWELLING	hinchazón	kʷì̧ñù̧	kʷì̧ñù̧	35	1903	NA	NA	josserand1983mixtec	NA
-8155	peno11	SWELLING	grano	ⁿdɨ́ʔžɨ̀	ⁿdɨ́ʔžɨ̀	35	1903	NA	NA	josserand1983mixtec	NA
-8270	peno11	PUS	pus	ⁿdàkʷà	ⁿdàkʷà	37	1808	NA	NA	josserand1983mixtec	NA
-8352	peno11	URINE	orina	lȩlȩ	lȩlȩ	38	1142	NA	NA	josserand1983mixtec	NA
-8449	peno11	SANDAL	herradura	čàu̧	čàu̧	40	NA	NA	NA	josserand1983mixtec	NA
-8448	peno11	SANDAL	huarache	ⁿdísá	ⁿdísá	40	NA	NA	NA	josserand1983mixtec	NA
-8540	peno11	TROUSERS	calzón, pantalón	kàrsòni̧	kàrsòni̧	41	809	NA	NA	josserand1983mixtec	NA
-8617	peno11	BLOUSE (WOVEN)	huipil	đíkú̧	đíkú̧	42	NA	NA	NA	josserand1983mixtec	NA
-2282	peno11	TOWN OR VILLAGE	town	ñùú	ñùú	43	3609	NA	NA	durr1987preliminary	NA
-8717	peno11	TOWN OR VILLAGE	pueblo	ñu̧u̧	ñu̧u̧	43	3609	NA	NA	josserand1983mixtec	NA
-2296	peno11	HOUSE	house	ƀèʔè	ƀèʔè	44	1252	NA	NA	durr1987preliminary	NA
-8831	peno11	HOUSE	casa	ƀèʔè	ƀèʔè	44	1252	NA	NA	josserand1983mixtec	NA
-2312	peno11	PATH	road	ìčì	ìčì	45	2252	NA	NA	durr1987preliminary	NA
-8926	peno11	PATH	horcón	đɨ̧ʔñɨ̧	đɨ̧ʔñɨ̧	45	2252	NA	NA	josserand1983mixtec	NA
-2322	peno11	MAT	straw mat	žùù	žùù	47	195	NA	NA	durr1987preliminary	NA
-9038	peno11	MAT	petate	žùù	žùù	47	195	NA	NA	josserand1983mixtec	NA
-9156	peno11	BED	tapanco	šítò	šítò	48	1663	NA	NA	josserand1983mixtec	NA
-2334	peno11	STOOL	stool	tèžú	tèžú	49	2058	NA	NA	durr1987preliminary	NA
-9274	peno11	STOOL	banquito	šìla̧	šìla̧	49	2058	NA	NA	josserand1983mixtec	NA
-9275	peno11	STOOL	banquito	težu	težu	49	2058	NA	NA	josserand1983mixtec	NA
-2343	peno11	ANIMAL	animal	kɨ̀tɨ̀	kɨ̀tɨ̀	50	619	NA	NA	durr1987preliminary	NA
-9394	peno11	ANIMAL	animal	kɨ̀tɨ̀	kɨ̀tɨ̀	50	619	NA	NA	josserand1983mixtec	NA
-10162	peno11	ANIMAL	rata	tnɨ̧̀ñɨ̧̀	tnɨ̧̀ñɨ̧̀	50	619	NA	NA	josserand1983mixtec	NA
-2355	peno11	BIRD	bird	tɨ́-làá	tɨ́-làá	51	937	NA	NA	durr1987preliminary	NA
-9512	peno11	BIRD	pájaro	tɨ́-la̧a̧	tɨ́-la̧a̧	51	937	NA	NA	josserand1983mixtec	NA
-10290	peno11	BIRD	venado	i̧đu̧	i̧đu̧	51	937	NA	NA	josserand1983mixtec	NA
-2367	peno11	FISH	fish	čáká	čáká	52	227	NA	NA	durr1987preliminary	NA
-10406	peno11	FISH	ardilla	kʷȩ́ñù̧	kʷȩ́ñù̧	52	227	NA	NA	josserand1983mixtec	NA
-2380	peno11	SNAKE	snake	kóó	kóó	53	730	NA	NA	durr1987preliminary	NA
-9609	peno11	SNAKE	culebra	kóó	kóó	53	730	NA	NA	josserand1983mixtec	NA
-2394	peno11	FROG	frog	làʔƀá	làʔƀá	54	503	NA	NA	durr1987preliminary	NA
-9718	peno11	FROG	rana	la̧ʔƀa̧	la̧ʔƀa̧	54	503	NA	NA	josserand1983mixtec	NA
-9848	peno11	HAWK	gavilán	đì̧ʔà	đì̧ʔà	55	307	NA	NA	josserand1983mixtec	NA
-9849	peno11	HAWK	gavilán	táđú̧	táđú̧	55	307	NA	NA	josserand1983mixtec	NA
-9959	peno11	HAWK	alacrán	ⁿǰàkʷà	ⁿǰàkʷà	55	307	NA	NA	josserand1983mixtec	NA
-10044	peno11	COCKROACH	cucaracha	tà-kóó	tà-kóó	57	1575	NA	NA	josserand1983mixtec	NA
-10529	peno11	BEE	gato	mí̧čì	mí̧čì	59	665	NA	NA	josserand1983mixtec	NA
-2400	peno11	MUROID (MOUSE OR RAT)	rat	tɨ̀ñɨ̀	tɨ̀ñɨ̀	60	2139	NA	NA	durr1987preliminary	NA
-2406	peno11	DEER	deer	ìđú	ìđú	61	1936	NA	NA	durr1987preliminary	NA
-2413	peno11	DOG	dog	ìná	ìná	68	2009	NA	NA	durr1987preliminary	NA
-10648	peno11	ANT	cuerno	ⁿdɨ̀kɨ̀	ⁿdɨ̀kɨ̀	75	587	NA	NA	josserand1983mixtec	NA
-10765	peno11	FEATHER	pluma	tnú̧mì̧	tnú̧mì̧	77	1201	NA	NA	josserand1983mixtec	NA
-10864	peno11	WING	ala	ⁿdíší̧	ⁿdíší̧	78	1257	NA	NA	josserand1983mixtec	NA
-10973	peno11	TAIL	cola	lu̧ʔma̧	lu̧ʔma̧	79	1220	NA	NA	josserand1983mixtec	NA
-2428	peno11	TREE	tree	žùtù̧	žùtù̧	80	906	NA	NA	durr1987preliminary	NA
-11093	peno11	TREE	árbol	žutnu̧	žutnu̧	80	906	NA	NA	josserand1983mixtec	NA
-2439	peno11	HERBACEOUS PLANT	herb, bush	žúkú	žúkú	81	NA	NA	NA	durr1987preliminary	NA
-11195	peno11	HERBACEOUS PLANT	hierba	kúʔú	kúʔú	81	NA	NA	NA	josserand1983mixtec	NA
-2448	peno11	FLOWER	flower	ìtá	ìtá	83	239	NA	NA	durr1987preliminary	NA
-11310	peno11	MAGUEY	maguey	žau	žau	84	NA	NA	NA	josserand1983mixtec	NA
-2460	peno11	CORN	corn	núní	núní	87	506	NA	NA	durr1987preliminary	NA
-11430	peno11	CORN	maíz	nú̧ní̧	nú̧ní̧	87	506	NA	NA	josserand1983mixtec	NA
-11549	peno11	CORN FIELD	milpa	i̧tu̧	i̧tu̧	88	449	NA	NA	josserand1983mixtec	NA
-11666	peno11	CORN DOUGH	masa	žùšà̧	žùšà̧	91	NA	NA	NA	josserand1983mixtec	NA
-2471	peno11	TORTILLA	tortilla	đítá	đítá	92	NA	NA	NA	durr1987preliminary	NA
-11789	peno11	TORTILLA	tortilla	đítá	đítá	92	NA	NA	NA	josserand1983mixtec	NA
-11891	peno11	CORN STALK	rastrojo	ñá̧má̧	ñá̧má̧	93	NA	NA	NA	josserand1983mixtec	NA
-11977	peno11	FURROW	surco	šiči	šiči	94	1794	NA	NA	josserand1983mixtec	NA
-12064	peno11	TASSEL	espiga	žètè	žètè	95	NA	NA	NA	josserand1983mixtec	NA
-12065	peno11	TASSEL	espiga	žòkò	žòkò	95	NA	NA	NA	josserand1983mixtec	NA
-12169	peno11	TASSEL	frijol(es)	ⁿdùčì	ⁿdùčì	95	NA	NA	NA	josserand1983mixtec	NA
-2487	peno11	BEAN	beans	ⁿdùčì	ⁿdùčì	96	832	NA	NA	durr1987preliminary	NA
-12267	peno11	GREEN BEAN	ejote	ⁿǰi̧či	ⁿǰi̧či	97	NA	NA	NA	josserand1983mixtec	NA
-2499	peno11	CHILI PEPPER	chile	žàʔà	žàʔà	98	919	NA	NA	durr1987preliminary	NA
-12373	peno11	SALT	sal	ñɨ̧́ɨ̧́	ñɨ̧́ɨ̧́	99	1274	NA	NA	josserand1983mixtec	NA
-12486	peno11	PUMPKIN	calabaza	žɨ̀kɨ̧̀	žɨ̀kɨ̧̀	100	864	NA	NA	josserand1983mixtec	NA
-2508	peno11	SUGAR CANE	cane	tù-žòò	tù-žòò	102	146	NA	NA	durr1987preliminary	NA
-12602	peno11	SUGAR CANE	caña	ⁿdóó	ⁿdóó	102	146	NA	NA	josserand1983mixtec	NA
-12719	peno11	HONEY	miel	ⁿdu̧đi̧	ⁿdu̧đi̧	103	942	NA	NA	josserand1983mixtec	NA
-12842	peno11	EGG	blanquillo, huevo	ⁿdɨ́ú	ⁿdɨ́ú	105	744	NA	NA	josserand1983mixtec	NA
-12942	peno11	EGG	jitomate	tɨ́-nà̧nà̧	tɨ́-nà̧nà̧	105	744	NA	NA	josserand1983mixtec	NA
-13028	peno11	PRICKLY PEAR CACTUS	nopal	ƀí̧ʔⁿdé	ƀí̧ʔⁿdé	110	NA	NA	NA	josserand1983mixtec	NA
-13111	peno11	MAMEY	mamey	ⁿǰìkà	ⁿǰìkà	111	NA	NA	NA	josserand1983mixtec	NA
-2516	peno11	MEAT	meat	kùñú	kùñú	114	634	NA	NA	durr1987preliminary	NA
-13220	peno11	MEAT	carne	ku̧ñu̧	ku̧ñu̧	114	634	NA	NA	josserand1983mixtec	NA
-2525	peno11	GRIDDLE	comal	šíó	šíó	115	NA	NA	NA	durr1987preliminary	NA
-13339	peno11	GRIDDLE	comal	šíó	šíó	115	NA	NA	NA	josserand1983mixtec	NA
-13441	peno11	GRIDDLE	olla	kɨ́đɨ̀	kɨ́đɨ̀	115	NA	NA	NA	josserand1983mixtec	NA
-2534	peno11	COOKING POT	clay pot	kɨ́đɨ̀	kɨ́đɨ̀	116	3653	NA	NA	durr1987preliminary	NA
-13538	peno11	OVEN	horno	šítnú̧	šítnú̧	117	1143	NA	NA	josserand1983mixtec	NA
-13652	peno11	FIRE	lumbre	ñu̧ʔu̧	ñu̧ʔu̧	118	221	NA	NA	josserand1983mixtec	NA
-13772	peno11	SMOKE (EXHAUST)	humo	ñú̧ʔmá̧	ñú̧ʔmá̧	121	778	NA	NA	josserand1983mixtec	NA
-13876	peno11	GARBAGE	basura	mì̧ʔì̧	mì̧ʔì̧	122	909	NA	NA	josserand1983mixtec	NA
-13989	peno11	GOURD BOWL	jícara	žàšì̧	žàšì̧	124	NA	NA	NA	josserand1983mixtec	NA
-14101	peno11	BASKET	cajón	satnu̧	satnu̧	125	1539	NA	NA	josserand1983mixtec	NA
-2546	peno11	THREAD	thread	žúʔá	žúʔá	127	1161	NA	NA	durr1987preliminary	NA
-14213	peno11	THREAD	hilo	žúʔá	žúʔá	127	1161	NA	NA	josserand1983mixtec	NA
-14312	peno11	COMB	peine	kúká	kúká	128	1475	NA	NA	josserand1983mixtec	NA
-2554	peno11	ROPE	rope	žòʔò	žòʔò	129	1218	NA	NA	durr1987preliminary	NA
-2566	peno11	HOLE	hole	žàú	žàú	130	1667	NA	NA	durr1987preliminary	NA
-14386	peno11	HOLE	agujero	ža̧u̧	ža̧u̧	130	1667	NA	NA	josserand1983mixtec	NA
-14485	peno11	NET	red	ñù̧nù̧	ñù̧nù̧	131	2963	NA	NA	josserand1983mixtec	NA
-2577	peno11	SOAP	soap	námá	námá	132	788	NA	NA	durr1987preliminary	NA
-2588	peno11	MOON	moon	žóó	žóó	134	1313	NA	NA	durr1987preliminary	NA
-2599	peno11	WATER	water	ⁿdùtè	ⁿdùtè	137	948	NA	NA	durr1987preliminary	NA
-14610	peno11	WATER	agua	ⁿdùtè	ⁿdùtè	137	948	NA	NA	josserand1983mixtec	NA
-14737	peno11	RAIN (PRECIPITATION)	lluvia	đáú	đáú	138	658	NA	NA	josserand1983mixtec	NA
-2608	peno11	RIVER	river	žútè	žútè	139	666	NA	NA	durr1987preliminary	NA
-14862	peno11	RIVER	río	žute	žute	139	666	NA	NA	josserand1983mixtec	NA
-14961	peno11	DEW	rocío	žùžù	žùžù	140	1977	NA	NA	josserand1983mixtec	NA
-2618	peno11	MOUNTAIN OR HILL	mountain	žùkù	žùkù	141	2118	NA	NA	durr1987preliminary	NA
-15073	peno11	MOUNTAIN OR HILL	cerro	žùkù	žùkù	141	2118	NA	NA	josserand1983mixtec	NA
-15197	peno11	PLAIN	llano	ⁿdaa	ⁿdaa	142	652	NA	NA	josserand1983mixtec	NA
-15198	peno11	PLAIN	llano	žođo	žođo	142	652	NA	NA	josserand1983mixtec	NA
-2627	peno11	STONE OR ROCK	stone	žúú	žúú	143	2125	NA	NA	durr1987preliminary	NA
-15323	peno11	STONE OR ROCK	piedra	žúú	žúú	143	2125	NA	NA	josserand1983mixtec	NA
-15440	peno11	COTTON	algodón	káčí	káčí	144	1850	NA	NA	josserand1983mixtec	NA
-15531	peno11	METAL	fierro	tu̧ni̧̧	tu̧ni̧̧	145	2244	NA	NA	josserand1983mixtec	NA
-2664	peno11	PAPER	paper	tùtú	tùtú	146	648	NA	NA	durr1987preliminary	NA
-2677	peno11	LIME (MATERIAL)	lime	kàkà	kàkà	147	2540	NA	NA	durr1987preliminary	NA
-15638	peno11	BEESWAX	cera	ñú̧má̧	ñú̧má̧	148	1931	NA	NA	josserand1983mixtec	NA
-15762	peno11	MUD	lodo	ⁿdéʔžú	ⁿdéʔžú	149	640	NA	NA	josserand1983mixtec	NA
-15878	peno11	FOAM	espuma	tnɨ̧́ñú̧	tnɨ̧́ñú̧	150	1768	NA	NA	josserand1983mixtec	NA
-16472	peno11	FOAM	cuatro	kú̧mí̧	kú̧mí̧	150	1768	NA	NA	josserand1983mixtec	NA
-16595	peno11	DUST	cinco	ʔú̧ʔú̧	ʔú̧ʔú̧	151	2	NA	NA	josserand1983mixtec	NA
-2685	peno11	RED	red	tɨ̀-kʷêʔé	tɨ̀-kʷêʔé	152	156	NA	NA	durr1987preliminary	NA
-15998	peno11	RED	rojo	(tɨ̀)kʷèʔȩ	tɨ̀kʷèʔȩ	152	156	NA	NA	josserand1983mixtec	NA
-16713	peno11	RED	seis	ì̧ñù̧	ì̧ñù̧	152	156	NA	NA	josserand1983mixtec	NA
-2696	peno11	GREEN	green	kʷîì	kʷîì	153	1425	NA	NA	durr1987preliminary	NA
-16829	peno11	GREEN	siete	ʔúsá	ʔúsá	153	1425	NA	NA	josserand1983mixtec	NA
-2707	peno11	YELLOW	yellow	kʷâ̧á̧	kʷâ̧á̧	154	1424	NA	NA	durr1987preliminary	NA
-16113	peno11	YELLOW	amarillo	kʷà̧a̧̧	kʷà̧a̧̧	154	1424	NA	NA	josserand1983mixtec	NA
-16946	peno11	YELLOW	ocho	ʔú̧ná̧	ʔú̧ná̧	154	1424	NA	NA	josserand1983mixtec	NA
-2719	peno11	BLACK	black	tù̧ù̧	tù̧ù̧	155	163	NA	NA	durr1987preliminary	NA
-17061	peno11	BLACK	diez	úší	úší	155	163	NA	NA	josserand1983mixtec	NA
-2728	peno11	WHITE	white	kʷîší̧	kʷîší̧	156	1335	NA	NA	durr1987preliminary	NA
-2736	peno11	ONE	one	ɨ̧̀ɨ̧̀	ɨ̧̀ɨ̧̀	157	1493	NA	NA	durr1987preliminary	NA
-17177	peno11	ONE	quince	sá̧ʔú̧	sá̧ʔú̧	157	1493	NA	NA	josserand1983mixtec	NA
-2750	peno11	TWO	two	úú	úú	158	1498	NA	NA	durr1987preliminary	NA
-16231	peno11	TWO	dos	ʔúú	ʔúú	158	1498	NA	NA	josserand1983mixtec	NA
-16352	peno11	THREE	tres	ú̧ní̧	ú̧ní̧	159	492	NA	NA	josserand1983mixtec	NA
-17294	peno11	THREE	pobre	ⁿdàʔu̧	ⁿdàʔu̧	159	492	NA	NA	josserand1983mixtec	NA
-2761	peno11	FOUR	four	kúmí	kúmí	160	1500	NA	NA	durr1987preliminary	NA
-2776	peno11	FIVE	five	ú̧ʔú̧	ú̧ʔú̧	161	493	NA	NA	durr1987preliminary	NA
-2786	peno11	NINE	nine	ɨ̧́ɨ̧́	ɨ̧́ɨ̧́	165	1483	NA	NA	durr1987preliminary	NA
-2796	peno11	POOR	poor	ⁿdâʔú	ⁿdâʔú	169	1674	NA	NA	durr1987preliminary	NA
-2806	peno11	COLD	cold	ƀíšì̧	ƀíšì̧	171	1287	NA	NA	durr1987preliminary	NA
-17412	peno11	COLD	frío	ƀíšì	ƀíšì	171	1287	NA	NA	josserand1983mixtec	NA
-17515	peno11	HOT	caliente	ʔì̧ʔnì̧	ʔì̧ʔnì̧	172	1286	NA	NA	josserand1983mixtec	NA
-2820	peno11	BIG (SINGULAR)	big.SG	kâʔnù	kâʔnù	173	NA	NA	NA	durr1987preliminary	NA
-17622	peno11	BIG (SINGULAR)	grande (sg.)	kàʔnu̧	kàʔnu̧	173	NA	NA	NA	josserand1983mixtec	NA
-2832	peno11	SMALL (SINGULAR)	little.SG	líʔlì	líʔlì	175	NA	NA	NA	durr1987preliminary	NA
-17748	peno11	SMALL (SINGULAR)	chico	líʔlì	líʔlì	175	NA	NA	NA	josserand1983mixtec	NA
-2853	peno11	LARGE (SINGULAR)	long.SG	kâní	kâní	177	NA	NA	NA	durr1987preliminary	NA
-2864	peno11	GOOD	good	ƀáʔà	ƀáʔà	179	1035	NA	NA	durr1987preliminary	NA
-17854	peno11	GOOD	bueno	ƀáʔà	ƀáʔà	179	1035	NA	NA	josserand1983mixtec	NA
-2880	peno11	SWEET	sweet	sá-ƀìdí	ƀìdí	180	717	NA	NA	durr1987preliminary	NA
-17960	peno11	SWEET	dulce	ƀíđí	ƀíđí	180	717	NA	NA	josserand1983mixtec	NA
-18062	peno11	SALTY	salado	úʔá	úʔá	181	1091	NA	NA	josserand1983mixtec	NA
-18150	peno11	BITTER	amargo	úá	úá	182	887	NA	NA	josserand1983mixtec	NA
-18235	peno11	TASTY	sabroso	waʔa-šeši	waʔa-šeši	183	1813	NA	NA	josserand1983mixtec	NA
-2890	peno11	NEW	new	sàà	sàà	185	1231	NA	NA	durr1987preliminary	NA
-18382	peno11	NEW	flojo	kùʔù-ⁿdùù	kùʔù-ⁿdùù	185	1231	NA	NA	josserand1983mixtec	NA
-18383	peno11	NEW	floja	ta̧ža̧	ta̧ža̧	185	1231	NA	NA	josserand1983mixtec	NA
-18502	peno11	UGLY	feo	nȩ̀ʔȩ̀	nȩ̀ʔȩ̀	187	1548	NA	NA	josserand1983mixtec	NA
-18609	peno11	NEAR	está cerca	žàtnì̧	žàtnì̧	189	1942	NA	NA	josserand1983mixtec	NA
-18719	peno11	HEAVY	pesado	ƀéè	ƀéè	191	1210	NA	NA	josserand1983mixtec	NA
-18834	peno11	SMOOTH	lisa, liso	ⁿdɨ̀ʔù	ⁿdɨ̀ʔù	193	1234	NA	NA	josserand1983mixtec	NA
-18951	peno11	SLOW	despacio	kʷèȩ	kʷèȩ	194	701	NA	NA	josserand1983mixtec	NA
-2901	peno11	YESTERDAY	yesterday	ìkù	ìkù	195	1174	NA	NA	durr1987preliminary	NA
-19065	peno11	YESTERDAY	ayer	ìkù	ìkù	195	1174	NA	NA	josserand1983mixtec	NA
-19182	peno11	YESTERDAY	año	kʷíá	kʷíá	195	1174	NA	NA	josserand1983mixtec	NA
-2908	peno11	YEAR	year	kʷíá	kʷíá	196	1226	NA	NA	durr1987preliminary	NA
-2917	peno11	NOW OR TODAY	now	ƀìtà̧	ƀìtà̧	197	2097	NA	NA	durr1987preliminary	NA
-19287	peno11	NOW OR TODAY	ahora	ƀìtná̧	ƀìtná̧	197	2097	NA	NA	josserand1983mixtec	NA
-19286	peno11	NOW OR TODAY	ahora	ža̧či̧	ža̧či̧	197	2097	NA	NA	josserand1983mixtec	NA
-19375	peno11	NIGHT TIME	toda la noche	ni̧̧u̧	ni̧̧u̧	199	NA	NA	NA	josserand1983mixtec	NA
-19486	peno11	DAY (24 HOURS)	día	ⁿduu	ⁿduu	200	1260	NA	NA	josserand1983mixtec	NA
-19609	peno11	HALF	mitad	đàƀà	đàƀà	202	816	NA	NA	josserand1983mixtec	NA
-2940	peno11	WORKING OR WORK	work	čî̧ù̧	čî̧ù̧	204	2281	NA	NA	durr1987preliminary	NA
-19726	peno11	WORKING OR WORK	trabajo	čì̧u̧	čì̧u̧	204	2281	NA	NA	josserand1983mixtec	NA
-2953	peno11	WORD	word	túʔù̧	túʔù̧	205	1599	NA	NA	durr1987preliminary	NA
-19848	peno11	WORD	palabra	tnu̧ʔu̧	tnu̧ʔu̧	205	1599	NA	NA	josserand1983mixtec	NA
-19942	peno11	WORD	culpa	kʷeči	kʷeči	205	1599	NA	NA	josserand1983mixtec	NA
-20057	peno11	WHEN	cuándo	na̧ma̧	na̧ma̧	208	1238	NA	NA	josserand1983mixtec	NA
-20056	peno11	WHEN	cuándo	ná̧ʔà̧mà̧	ná̧ʔà̧mà̧	208	1238	NA	NA	josserand1983mixtec	NA
+ID	DOCULECT	GLOSS	VALUE	FORM	IDlist	NOTES	LOAN	LOAN_SOURCE	SOURCE	FLOATTONE
+2049	peno11	child	đéʔè	đéʔè	5	NA	NA	NA	durr1987preliminary	NA
+6411	peno11	hijo/hija	đéʔè	đéʔè	5	NA	NA	NA	josserand1983mixtec	NA
+2065	peno11	cross-sex sibling	kúʔà	kúʔà	8	NA	NA	NA	durr1987preliminary	NA
+2075	peno11	brother of man	ñàní	ñàní	9	NA	NA	NA	durr1987preliminary	NA
+6528	peno11	hermano de hombre	ña̧̧ni̧̧	ña̧̧ni̧̧	9	NA	NA	NA	josserand1983mixtec	NA
+2087	peno11	sister of woman	kúʔú	kúʔú	10	NA	NA	NA	durr1987preliminary	NA
+2098	peno11	aunt	đìđí	đìđí	11	NA	NA	NA	durr1987preliminary	NA
+2112	peno11	uncle	đìtó	đìtó	12	NA	NA	NA	durr1987preliminary	NA
+2126	peno11	man	téè	téè	13	NA	NA	NA	durr1987preliminary	NA
+6651	peno11	hombre	téè	téè	13	NA	NA	NA	josserand1983mixtec	NA
+6753	peno11	dueño	ší-tóʔó	ší-tóʔó	15	NA	NA	NA	josserand1983mixtec	NA
+6837	peno11	sacerdote	đútú	đútú	16	NA	NA	NA	josserand1983mixtec	NA
+6944	peno11	sangre	nɨ̧́ñɨ̧́	nɨ̧́ñɨ̧́	17	NA	NA	NA	josserand1983mixtec	NA
+2145	peno11	bone	žɨ̀kɨ̀	žɨ̀kɨ̀	18	NA	NA	NA	durr1987preliminary	NA
+2151	peno11	face	núú	núú	20	NA	NA	NA	durr1987preliminary	NA
+2163	peno11	tongue	žâá	žâá	21	NA	NA	NA	durr1987preliminary	NA
+2174	peno11	tooth	nú̧ʔù̧	nú̧ʔù̧	22	NA	NA	NA	durr1987preliminary	NA
+7047	peno11	diente	nú̧ʔù̧	nú̧ʔù̧	22	NA	NA	NA	josserand1983mixtec	NA
+2181	peno11	mouth	žùʔù	žùʔù	23	NA	NA	NA	durr1987preliminary	NA
+7137	peno11	boca	žuʔu	žuʔu	23	NA	NA	NA	josserand1983mixtec	NA
+2196	peno11	ear	đóʔò	đóʔò	24	NA	NA	NA	durr1987preliminary	NA
+7245	peno11	oreja	loʔo	loʔo	24	NA	NA	NA	josserand1983mixtec	NA
+7362	peno11	nariz	đí̧Nní̧	đí̧Nní̧	25	NA	NA	NA	josserand1983mixtec	NA
+7476	peno11	cuello	đúkú̧	đúkú̧	26	NA	NA	NA	josserand1983mixtec	NA
+2204	peno11	hand	ⁿdàʔà	ⁿdàʔà	27	NA	NA	NA	durr1987preliminary	NA
+7594	peno11	uña	čì̧i̧̧	čì̧i̧̧	28	NA	NA	NA	josserand1983mixtec	NA
+2229	peno11	stomach	šɨ̀tɨ́	šɨ̀tɨ́	30	NA	NA	NA	durr1987preliminary	NA
+7712	peno11	tripas	šɨ̧tɨ̧	šɨ̧tɨ̧	31	NA	NA	NA	josserand1983mixtec	NA
+2241	peno11	foot	sáʔá	sáʔá	32	NA	NA	NA	durr1987preliminary	NA
+7830	peno11	pie	sáʔá	sáʔá	32	NA	NA	NA	josserand1983mixtec	NA
+7945	peno11	enfermedad	kʷéʔé	kʷéʔé	33	NA	NA	NA	josserand1983mixtec	NA
+8049	peno11	hinchazón	čú̧ʔú̧	čú̧ʔú̧	35	NA	NA	NA	josserand1983mixtec	NA
+8050	peno11	hinchazón	kʷì̧ñù̧	kʷì̧ñù̧	35	NA	NA	NA	josserand1983mixtec	NA
+8155	peno11	grano	ⁿdɨ́ʔžɨ̀	ⁿdɨ́ʔžɨ̀	36	NA	NA	NA	josserand1983mixtec	NA
+8270	peno11	pus	ⁿdàkʷà	ⁿdàkʷà	37	NA	NA	NA	josserand1983mixtec	NA
+8352	peno11	orina	lȩlȩ	lȩlȩ	38	NA	NA	NA	josserand1983mixtec	NA
+8449	peno11	herradura	čàu̧	čàu̧	40	NA	NA	NA	josserand1983mixtec	NA
+8448	peno11	huarache	ⁿdísá	ⁿdísá	40	NA	NA	NA	josserand1983mixtec	NA
+8540	peno11	calzón, pantalón	kàrsòni̧	kàrsòni̧	41	NA	NA	NA	josserand1983mixtec	NA
+8617	peno11	huipil	đíkú̧	đíkú̧	42	NA	NA	NA	josserand1983mixtec	NA
+2282	peno11	town	ñùú	ñùú	43	NA	NA	NA	durr1987preliminary	NA
+8717	peno11	pueblo	ñu̧u̧	ñu̧u̧	43	NA	NA	NA	josserand1983mixtec	NA
+2296	peno11	house	ƀèʔè	ƀèʔè	44	NA	NA	NA	durr1987preliminary	NA
+8831	peno11	casa	ƀèʔè	ƀèʔè	44	NA	NA	NA	josserand1983mixtec	NA
+2312	peno11	road	ìčì	ìčì	45	NA	NA	NA	durr1987preliminary	NA
+8926	peno11	horcón	đɨ̧ʔñɨ̧	đɨ̧ʔñɨ̧	46	NA	NA	NA	josserand1983mixtec	NA
+2322	peno11	straw mat	žùù	žùù	47	NA	NA	NA	durr1987preliminary	NA
+9038	peno11	petate	žùù	žùù	47	NA	NA	NA	josserand1983mixtec	NA
+9156	peno11	tapanco	šítò	šítò	48	NA	NA	NA	josserand1983mixtec	NA
+2334	peno11	stool	tèžú	tèžú	49	NA	NA	NA	durr1987preliminary	NA
+9274	peno11	banquito	šìla̧	šìla̧	49	NA	NA	NA	josserand1983mixtec	NA
+9275	peno11	banquito	težu	težu	49	NA	NA	NA	josserand1983mixtec	NA
+2343	peno11	animal	kɨ̀tɨ̀	kɨ̀tɨ̀	50	NA	NA	NA	durr1987preliminary	NA
+9394	peno11	animal	kɨ̀tɨ̀	kɨ̀tɨ̀	50	NA	NA	NA	josserand1983mixtec	NA
+2355	peno11	bird	tɨ́-làá	tɨ́-làá	51	animal-bird	NA	NA	durr1987preliminary	NA
+9512	peno11	pájaro	tɨ́-la̧a̧	tɨ́-la̧a̧	51	NA	NA	NA	josserand1983mixtec	NA
+2367	peno11	fish	čáká	čáká	52	NA	NA	NA	durr1987preliminary	NA
+2380	peno11	snake	kóó	kóó	53	NA	NA	NA	durr1987preliminary	NA
+9609	peno11	culebra	kóó	kóó	53	NA	NA	NA	josserand1983mixtec	NA
+2394	peno11	frog	làʔƀá	làʔƀá	54	NA	NA	NA	durr1987preliminary	NA
+9718	peno11	rana	la̧ʔƀa̧	la̧ʔƀa̧	54	NA	NA	NA	josserand1983mixtec	NA
+9848	peno11	gavilán	đì̧ʔà	đì̧ʔà	55	NA	NA	NA	josserand1983mixtec	NA
+9849	peno11	gavilán	táđú̧	táđú̧	55	NA	NA	NA	josserand1983mixtec	NA
+9959	peno11	alacrán	ⁿǰàkʷà	ⁿǰàkʷà	56	NA	NA	NA	josserand1983mixtec	NA
+10044	peno11	cucaracha	tà-kóó	tà-kóó	57	NA	NA	NA	josserand1983mixtec	NA
+2400	peno11	rat	tɨ̀ñɨ̀	tɨ̀ñɨ̀	60	NA	NA	NA	durr1987preliminary	NA
+10162	peno11	rata	tnɨ̧̀ñɨ̧̀	tnɨ̧̀ñɨ̧̀	60	NA	NA	NA	josserand1983mixtec	NA
+2406	peno11	deer	ìđú	ìđú	61	NA	NA	NA	durr1987preliminary	NA
+10290	peno11	venado	i̧đu̧	i̧đu̧	61	NA	NA	NA	josserand1983mixtec	NA
+10406	peno11	ardilla	kʷȩ́ñù̧	kʷȩ́ñù̧	62	NA	NA	NA	josserand1983mixtec	NA
+2413	peno11	dog	ìná	ìná	68	NA	NA	NA	durr1987preliminary	NA
+10529	peno11	gato	mí̧čì	mí̧čì	69	NA	NA	NA	josserand1983mixtec	NA
+10648	peno11	cuerno	ⁿdɨ̀kɨ̀	ⁿdɨ̀kɨ̀	76	NA	NA	NA	josserand1983mixtec	NA
+10765	peno11	pluma	tnú̧mì̧	tnú̧mì̧	77	NA	NA	NA	josserand1983mixtec	NA
+10864	peno11	ala	ⁿdíší̧	ⁿdíší̧	78	NA	NA	NA	josserand1983mixtec	NA
+10973	peno11	cola	lu̧ʔma̧	lu̧ʔma̧	79	NA	NA	NA	josserand1983mixtec	NA
+2428	peno11	tree	žùtù̧	žùtù̧	80	NA	NA	NA	durr1987preliminary	NA
+11093	peno11	árbol	žutnu̧	žutnu̧	80	NA	NA	NA	josserand1983mixtec	NA
+2439	peno11	herb, bush	žúkú	žúkú	81	NA	NA	NA	durr1987preliminary	NA
+11195	peno11	hierba	kúʔú	kúʔú	81	NA	NA	NA	josserand1983mixtec	NA
+2448	peno11	flower	ìtá	ìtá	83	NA	NA	NA	durr1987preliminary	NA
+11310	peno11	maguey	žau	žau	84	NA	NA	NA	josserand1983mixtec	NA
+2460	peno11	corn	núní	núní	87	NA	NA	NA	durr1987preliminary	NA
+11430	peno11	maíz	nú̧ní̧	nú̧ní̧	87	NA	NA	NA	josserand1983mixtec	NA
+11549	peno11	milpa	i̧tu̧	i̧tu̧	88	NA	NA	NA	josserand1983mixtec	NA
+11666	peno11	masa	žùšà̧	žùšà̧	91	NA	NA	NA	josserand1983mixtec	NA
+2471	peno11	tortilla	đítá	đítá	92	NA	NA	NA	durr1987preliminary	NA
+11789	peno11	tortilla	đítá	đítá	92	NA	NA	NA	josserand1983mixtec	NA
+11891	peno11	rastrojo	ñá̧má̧	ñá̧má̧	93	NA	NA	NA	josserand1983mixtec	NA
+11977	peno11	surco	šiči	šiči	94	NA	NA	NA	josserand1983mixtec	NA
+12064	peno11	espiga	žètè	žètè	95	NA	NA	NA	josserand1983mixtec	NA
+12065	peno11	espiga	žòkò	žòkò	95	NA	NA	NA	josserand1983mixtec	NA
+2487	peno11	beans	ⁿdùčì	ⁿdùčì	96	NA	NA	NA	durr1987preliminary	NA
+12169	peno11	frijol(es)	ⁿdùčì	ⁿdùčì	96	NA	NA	NA	josserand1983mixtec	NA
+12267	peno11	ejote	ⁿǰi̧či	ⁿǰi̧či	97	NA	NA	NA	josserand1983mixtec	NA
+2499	peno11	chile	žàʔà	žàʔà	98	NA	NA	NA	durr1987preliminary	NA
+12373	peno11	sal	ñɨ̧́ɨ̧́	ñɨ̧́ɨ̧́	99	NA	NA	NA	josserand1983mixtec	NA
+12486	peno11	calabaza	žɨ̀kɨ̧̀	žɨ̀kɨ̧̀	100	NA	NA	NA	josserand1983mixtec	NA
+2508	peno11	cane	tù-žòò	tù-žòò	102	wood-cane	NA	NA	durr1987preliminary	NA
+12602	peno11	caña	ⁿdóó	ⁿdóó	102	NA	NA	NA	josserand1983mixtec	NA
+12719	peno11	miel	ⁿdu̧đi̧	ⁿdu̧đi̧	103	NA	NA	NA	josserand1983mixtec	NA
+12842	peno11	blanquillo, huevo	ⁿdɨ́ú	ⁿdɨ́ú	105	NA	NA	NA	josserand1983mixtec	NA
+12942	peno11	jitomate	tɨ́-nà̧nà̧	tɨ́-nà̧nà̧	106	NA	NA	NA	josserand1983mixtec	NA
+13028	peno11	nopal	ƀí̧ʔⁿdé	ƀí̧ʔⁿdé	110	NA	NA	NA	josserand1983mixtec	NA
+13111	peno11	mamey	ⁿǰìkà	ⁿǰìkà	111	NA	NA	NA	josserand1983mixtec	NA
+2516	peno11	meat	kùñú	kùñú	114	NA	NA	NA	durr1987preliminary	NA
+13220	peno11	carne	ku̧ñu̧	ku̧ñu̧	114	NA	NA	NA	josserand1983mixtec	NA
+2525	peno11	comal	šíó	šíó	115	NA	NA	NA	durr1987preliminary	NA
+13339	peno11	comal	šíó	šíó	115	NA	NA	NA	josserand1983mixtec	NA
+2534	peno11	clay pot	kɨ́đɨ̀	kɨ́đɨ̀	116	NA	NA	NA	durr1987preliminary	NA
+13441	peno11	olla	kɨ́đɨ̀	kɨ́đɨ̀	116	NA	NA	NA	josserand1983mixtec	NA
+13538	peno11	horno	šítnú̧	šítnú̧	117	NA	NA	NA	josserand1983mixtec	NA
+13652	peno11	lumbre	ñu̧ʔu̧	ñu̧ʔu̧	118	NA	NA	NA	josserand1983mixtec	NA
+13772	peno11	humo	ñú̧ʔmá̧	ñú̧ʔmá̧	121	NA	NA	NA	josserand1983mixtec	NA
+13876	peno11	basura	mì̧ʔì̧	mì̧ʔì̧	122	NA	NA	NA	josserand1983mixtec	NA
+13989	peno11	jícara	žàšì̧	žàšì̧	124	NA	NA	NA	josserand1983mixtec	NA
+14101	peno11	cajón	satnu̧	satnu̧	126	NA	NA	NA	josserand1983mixtec	NA
+2546	peno11	thread	žúʔá	žúʔá	127	NA	NA	NA	durr1987preliminary	NA
+14213	peno11	hilo	žúʔá	žúʔá	127	NA	NA	NA	josserand1983mixtec	NA
+14312	peno11	peine	kúká	kúká	128	NA	NA	NA	josserand1983mixtec	NA
+2554	peno11	rope	žòʔò	žòʔò	129	NA	NA	NA	durr1987preliminary	NA
+2566	peno11	hole	žàú	žàú	130	NA	NA	NA	durr1987preliminary	NA
+14386	peno11	agujero	ža̧u̧	ža̧u̧	130	NA	NA	NA	josserand1983mixtec	NA
+14485	peno11	red	ñù̧nù̧	ñù̧nù̧	131	NA	NA	NA	josserand1983mixtec	NA
+2577	peno11	soap	námá	námá	132	NA	NA	NA	durr1987preliminary	NA
+2588	peno11	moon	žóó	žóó	134	NA	NA	NA	durr1987preliminary	NA
+2599	peno11	water	ⁿdùtè	ⁿdùtè	137	NA	NA	NA	durr1987preliminary	NA
+14610	peno11	agua	ⁿdùtè	ⁿdùtè	137	NA	NA	NA	josserand1983mixtec	NA
+14737	peno11	lluvia	đáú	đáú	138	NA	NA	NA	josserand1983mixtec	NA
+2608	peno11	river	žútè	žútè	139	NA	NA	NA	durr1987preliminary	NA
+14862	peno11	río	žute	žute	139	NA	NA	NA	josserand1983mixtec	NA
+14961	peno11	rocío	žùžù	žùžù	140	NA	NA	NA	josserand1983mixtec	NA
+2618	peno11	mountain	žùkù	žùkù	141	NA	NA	NA	durr1987preliminary	NA
+15073	peno11	cerro	žùkù	žùkù	141	NA	NA	NA	josserand1983mixtec	NA
+15197	peno11	llano	ⁿdaa	ⁿdaa	142	NA	NA	NA	josserand1983mixtec	NA
+15198	peno11	llano	žođo	žođo	142	NA	NA	NA	josserand1983mixtec	NA
+2627	peno11	stone	žúú	žúú	143	NA	NA	NA	durr1987preliminary	NA
+15323	peno11	piedra	žúú	žúú	143	NA	NA	NA	josserand1983mixtec	NA
+15440	peno11	algodón	káčí	káčí	144	NA	NA	NA	josserand1983mixtec	NA
+15531	peno11	fierro	tu̧ni̧̧	tu̧ni̧̧	145	NA	NA	NA	josserand1983mixtec	NA
+2664	peno11	paper	tùtú	tùtú	146	NA	NA	NA	durr1987preliminary	NA
+2677	peno11	lime	kàkà	kàkà	147	NA	NA	NA	durr1987preliminary	NA
+15638	peno11	cera	ñú̧má̧	ñú̧má̧	148	NA	NA	NA	josserand1983mixtec	NA
+15762	peno11	lodo	ⁿdéʔžú	ⁿdéʔžú	149	NA	NA	NA	josserand1983mixtec	NA
+15878	peno11	espuma	tnɨ̧́ñú̧	tnɨ̧́ñú̧	150	NA	NA	NA	josserand1983mixtec	NA
+2685	peno11	red	tɨ̀-kʷêʔé	tɨ̀-kʷêʔé	152	NA	NA	NA	durr1987preliminary	NA
+15998	peno11	rojo	(tɨ̀)kʷèʔȩ	tɨ̀kʷèʔȩ	152	NA	NA	NA	josserand1983mixtec	NA
+2696	peno11	green	kʷîì	kʷîì	153	NA	NA	NA	durr1987preliminary	NA
+2707	peno11	yellow	kʷâ̧á̧	kʷâ̧á̧	154	NA	NA	NA	durr1987preliminary	NA
+16113	peno11	amarillo	kʷà̧a̧̧	kʷà̧a̧̧	154	NA	NA	NA	josserand1983mixtec	NA
+2719	peno11	black	tù̧ù̧	tù̧ù̧	155	NA	NA	NA	durr1987preliminary	NA
+2728	peno11	white	kʷîší̧	kʷîší̧	156	NA	NA	NA	durr1987preliminary	NA
+2736	peno11	one	ɨ̧̀ɨ̧̀	ɨ̧̀ɨ̧̀	157	NA	NA	NA	durr1987preliminary	NA
+2750	peno11	two	úú	úú	158	NA	NA	NA	durr1987preliminary	NA
+16231	peno11	dos	ʔúú	ʔúú	158	NA	NA	NA	josserand1983mixtec	NA
+16352	peno11	tres	ú̧ní̧	ú̧ní̧	159	NA	NA	NA	josserand1983mixtec	NA
+2761	peno11	four	kúmí	kúmí	160	NA	NA	NA	durr1987preliminary	NA
+16472	peno11	cuatro	kú̧mí̧	kú̧mí̧	160	NA	NA	NA	josserand1983mixtec	NA
+2776	peno11	five	ú̧ʔú̧	ú̧ʔú̧	161	NA	NA	NA	durr1987preliminary	NA
+16595	peno11	cinco	ʔú̧ʔú̧	ʔú̧ʔú̧	161	NA	NA	NA	josserand1983mixtec	NA
+16713	peno11	seis	ì̧ñù̧	ì̧ñù̧	162	NA	NA	NA	josserand1983mixtec	NA
+16829	peno11	siete	ʔúsá	ʔúsá	163	NA	NA	NA	josserand1983mixtec	NA
+16946	peno11	ocho	ʔú̧ná̧	ʔú̧ná̧	164	NA	NA	NA	josserand1983mixtec	NA
+2786	peno11	nine	ɨ̧́ɨ̧́	ɨ̧́ɨ̧́	165	NA	NA	NA	durr1987preliminary	NA
+17061	peno11	diez	úší	úší	166	NA	NA	NA	josserand1983mixtec	NA
+17177	peno11	quince	sá̧ʔú̧	sá̧ʔú̧	167	NA	NA	NA	josserand1983mixtec	NA
+2796	peno11	poor	ⁿdâʔú	ⁿdâʔú	169	NA	NA	NA	durr1987preliminary	NA
+17294	peno11	pobre	ⁿdàʔu̧	ⁿdàʔu̧	169	NA	NA	NA	josserand1983mixtec	NA
+2806	peno11	cold	ƀíšì̧	ƀíšì̧	171	NA	NA	NA	durr1987preliminary	NA
+17412	peno11	frío	ƀíšì	ƀíšì	171	NA	NA	NA	josserand1983mixtec	NA
+17515	peno11	caliente	ʔì̧ʔnì̧	ʔì̧ʔnì̧	172	NA	NA	NA	josserand1983mixtec	NA
+2820	peno11	big.SG	kâʔnù	kâʔnù	173	NA	NA	NA	durr1987preliminary	NA
+17622	peno11	grande (sg.)	kàʔnu̧	kàʔnu̧	173	NA	NA	NA	josserand1983mixtec	NA
+2832	peno11	little.SG	líʔlì	líʔlì	175	NA	NA	NA	durr1987preliminary	NA
+17748	peno11	chico	líʔlì	líʔlì	175	NA	NA	NA	josserand1983mixtec	NA
+2853	peno11	long.SG	kâní	kâní	177	NA	NA	NA	durr1987preliminary	NA
+2864	peno11	good	ƀáʔà	ƀáʔà	179	NA	NA	NA	durr1987preliminary	NA
+17854	peno11	bueno	ƀáʔà	ƀáʔà	179	NA	NA	NA	josserand1983mixtec	NA
+2880	peno11	sweet	sá-ƀìdí	ƀìdí	180	NA	NA	NA	durr1987preliminary	NA
+17960	peno11	dulce	ƀíđí	ƀíđí	180	NA	NA	NA	josserand1983mixtec	NA
+18062	peno11	salado	úʔá	úʔá	181	NA	NA	NA	josserand1983mixtec	NA
+18150	peno11	amargo	úá	úá	182	NA	NA	NA	josserand1983mixtec	NA
+18235	peno11	sabroso	waʔa-šeši	waʔa-šeši	183	NA	NA	NA	josserand1983mixtec	NA
+2890	peno11	new	sàà	sàà	185	NA	NA	NA	durr1987preliminary	NA
+18382	peno11	flojo	kùʔù-ⁿdùù	kùʔù-ⁿdùù	186	NA	NA	NA	josserand1983mixtec	NA
+18383	peno11	floja	ta̧ža̧	ta̧ža̧	186	NA	NA	NA	josserand1983mixtec	NA
+18502	peno11	feo	nȩ̀ʔȩ̀	nȩ̀ʔȩ̀	187	NA	NA	NA	josserand1983mixtec	NA
+18609	peno11	está cerca	žàtnì̧	žàtnì̧	189	NA	NA	NA	josserand1983mixtec	NA
+18719	peno11	pesado	ƀéè	ƀéè	191	NA	NA	NA	josserand1983mixtec	NA
+18834	peno11	lisa, liso	ⁿdɨ̀ʔù	ⁿdɨ̀ʔù	193	NA	NA	NA	josserand1983mixtec	NA
+18951	peno11	despacio	kʷèȩ	kʷèȩ	194	NA	NA	NA	josserand1983mixtec	NA
+2901	peno11	yesterday	ìkù	ìkù	195	NA	NA	NA	durr1987preliminary	NA
+19065	peno11	ayer	ìkù	ìkù	195	NA	NA	NA	josserand1983mixtec	NA
+2908	peno11	year	kʷíá	kʷíá	196	NA	NA	NA	durr1987preliminary	NA
+19182	peno11	año	kʷíá	kʷíá	196	NA	NA	NA	josserand1983mixtec	NA
+2917	peno11	now	ƀìtà̧	ƀìtà̧	197	NA	NA	NA	durr1987preliminary	NA
+19287	peno11	ahora	ƀìtná̧	ƀìtná̧	197	NA	NA	NA	josserand1983mixtec	NA
+19286	peno11	ahora	ža̧či̧	ža̧či̧	197	NA	NA	NA	josserand1983mixtec	NA
+19375	peno11	toda la noche	ni̧̧u̧	ni̧̧u̧	199	NA	NA	NA	josserand1983mixtec	NA
+19486	peno11	día	ⁿduu	ⁿduu	200	NA	NA	NA	josserand1983mixtec	NA
+19609	peno11	mitad	đàƀà	đàƀà	202	NA	NA	NA	josserand1983mixtec	NA
+2940	peno11	work	čî̧ù̧	čî̧ù̧	204	NA	NA	NA	durr1987preliminary	NA
+19726	peno11	trabajo	čì̧u̧	čì̧u̧	204	NA	NA	NA	josserand1983mixtec	NA
+2953	peno11	word	túʔù̧	túʔù̧	205	NA	NA	NA	durr1987preliminary	NA
+19848	peno11	palabra	tnu̧ʔu̧	tnu̧ʔu̧	205	NA	NA	NA	josserand1983mixtec	NA
+19942	peno11	culpa	kʷeči	kʷeči	206	NA	NA	NA	josserand1983mixtec	NA
+20057	peno11	cuándo	na̧ma̧	na̧ma̧	208	NA	NA	NA	josserand1983mixtec	NA
+20056	peno11	cuándo	ná̧ʔà̧mà̧	ná̧ʔà̧mà̧	208	NA	NA	NA	josserand1983mixtec	NA

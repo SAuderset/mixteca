@@ -1,421 +1,421 @@
-ID	DOCULECT	CONCEPT	GLOSS	VALUE	FORM	IDlist	CONCEPTICON_ID	LOAN	LOAN_SOURCE	SOURCE	FLOATTONE
-5906	chic12	MOTHER	madre	nni’²	nni’²	1	1216	NA	NA	good1978diccionario	NA
-21001	chic12	MOTHER	madre	nã⁴³	nã⁴³	1	1216	NA	NA	hernandez-mendoza2020vocabulario	NA
-21002	chic12	MOTHER VOCATIVE	mamá!	nã³⁴²	nã³⁴²	2	NA	NA	NA	hernandez-mendoza2020vocabulario	NA
-5907	chic12	FATHER	padre	dre’²	dre’²	3	1217	NA	NA	good1978diccionario	NA
-21003	chic12	FATHER	padre	ta⁴³	ta⁴³	3	1217	NA	NA	hernandez-mendoza2020vocabulario	NA
-21004	chic12	FATHER VOCATIVE	papá!	ta³⁴²	ta³⁴²	4	NA	NA	NA	hernandez-mendoza2020vocabulario	NA
-5908	chic12	CHILD (DESCENDANT)	hijo/hija	da’ni⁴⁵	da’ni⁴⁵	5	1801	NA	NA	good1978diccionario	NA
-21005	chic12	CHILD (DESCENDANT)	hijo/hija	da³ˀnĩ³²	da³ˀnĩ³²	5	1801	NA	NA	hernandez-mendoza2020vocabulario	NA
-5909	chic12	SON	hijo	da’ni⁴⁵ sna’u’⁴	da’ni⁴⁵-sna’u’⁴	6	1620	NA	NA	good1978diccionario	NA
-21006	chic12	SON	hijo	da³ˀnĩ³² # na³ˀu³²	da³ˀnĩ³²-na³ˀu³²	6	1620	NA	NA	hernandez-mendoza2020vocabulario	NA
-21007	chic12	SON	hijo	da³ˀnĩ³² # ta³ˀu³²	da³ˀnĩ³²-ta³ˀu³²	6	1620	NA	NA	hernandez-mendoza2020vocabulario	NA
-5910	chic12	DAUGHTER	hija	da’ni⁴⁵ xano’⁵	da’ni⁴⁵-xano’⁵	7	1357	NA	NA	good1978diccionario	NA
-21008	chic12	DAUGHTER	hija	da³ˀnĩ³² # ʃa³na¹	da³ˀnĩ³²-ʃa³na¹	7	1357	NA	NA	hernandez-mendoza2020vocabulario	NA
-5911	chic12	CROSS-SEX SIBLING	hermana/hermano de otro genero	xugüe’³	xugüe’³	8	NA	NA	NA	good1978diccionario	NA
-21009	chic12	CROSS-SEX SIBLING	hermana/hermano de otro genero	ʒu³we³ʰ	ʒu³we³ʰ	8	NA	NA	NA	hernandez-mendoza2020vocabulario	NA
-5912	chic12	BROTHER (OF MAN)	hermano de hombre	dinï’²	dinï’²	9	559	NA	NA	good1978diccionario	NA
-21010	chic12	BROTHER (OF MAN)	hermano de hombre	di³nĩ³⁵	di³nĩ³⁵	9	559	NA	NA	hernandez-mendoza2020vocabulario	NA
-5913	chic12	SISTER (OF WOMAN)	hermana de mujer	xugüi’³	xugüi’³	10	NA	NA	NA	good1978diccionario	NA
-21011	chic12	SISTER (OF WOMAN)	hermana de mujer	ʒu³wi³ʰ	ʒu³wi³ʰ	10	NA	NA	NA	hernandez-mendoza2020vocabulario	NA
-5914	chic12	AUNT	tía	du’ui’²	du’ui’²	11	1272	NA	NA	good1978diccionario	NA
-21012	chic12	AUNT	tía	du³ˀwi³	du³ˀwi³	11	1272	NA	NA	hernandez-mendoza2020vocabulario	NA
-5915	chic12	UNCLE	tío	da’nï’²	da’nï’²	12	1327	NA	NA	good1978diccionario	NA
-21013	chic12	UNCLE	tío	da³ˀnẽ³ˀ	da³ˀnẽ³ˀ	12	1327	NA	NA	hernandez-mendoza2020vocabulario	NA
-5916	chic12	MAN	hombre	si¹	si¹	13	1554	NA	NA	good1978diccionario	NA
-21014	chic12	MAN	hombre	si³⁵	si³⁵	13	1554	NA	NA	hernandez-mendoza2020vocabulario	NA
-5917	chic12	WOMAN	mujer	si³ xana⁵	si³-xana⁵	14	962	NA	NA	good1978diccionario	NA
-21015	chic12	WOMAN	mujer	ʃa³na¹	ʃa³na¹	14	962	NA	NA	hernandez-mendoza2020vocabulario	NA
-5918	chic12	OWNER	dueño	si¹ si-’yaj³	si¹-si-’yaj³	15	1036	NA	NA	good1978diccionario	NA
-21016	chic12	OWNER	dueño	ri³ki³ˀ	ri³ki³ˀ	15	1036	NA	NA	hernandez-mendoza2020vocabulario	NA
-5919	chic12	PRIEST	sacerdote	xi’² drej³	xi’²-drej³	16	852	NA	NA	good1978diccionario	NA
-21017	chic12	PRIEST	sacerdote	re³ʰ	re³ʰ	16	852	NA	NA	hernandez-mendoza2020vocabulario	NA
-5920	chic12	BLOOD	sangre	tun³	tun³	17	946	NA	NA	good1978diccionario	NA
-21018	chic12	BLOOD	sangre	tũ³	tũ³	17	946	NA	NA	hernandez-mendoza2020vocabulario	NA
-5921	chic12	BONE	hueso	cu¹	cu¹	18	1394	NA	NA	good1978diccionario	NA
-21019	chic12	BONE	hueso	ku³⁵	ku³⁵	18	1394	NA	NA	hernandez-mendoza2020vocabulario	NA
-5922	chic12	HAIR	pelo	huue² ahui’²	huue²-ahui’²	19	1040	NA	NA	good1978diccionario	NA
-21020	chic12	HAIR	pelo	wːe⁴	wːe⁴	19	1040	NA	NA	hernandez-mendoza2020vocabulario	NA
-5923	chic12	FACE	cara	riun’³⁴	riun’³⁴	20	1560	NA	NA	good1978diccionario	NA
-21021	chic12	FACE	cara	ri³yã³²	ri³yã³²	20	1560	NA	NA	hernandez-mendoza2020vocabulario	NA
-5924	chic12	TONGUE	lengua	yyo’³⁴	yyo’³⁴	21	1205	NA	NA	good1978diccionario	NA
-21022	chic12	TONGUE	lengua	ja³²	ja³²	21	1205	NA	NA	hernandez-mendoza2020vocabulario	NA
-5925	chic12	TOOTH	diente	yun’²	yun’²	22	1380	NA	NA	good1978diccionario	NA
-21023	chic12	TOOTH	diente	j̃ã³ˀ	j̃ã³ˀ	22	1380	NA	NA	hernandez-mendoza2020vocabulario	NA
-5926	chic12	MOUTH	boca	du’o’²	du’o’²	23	674	NA	NA	good1978diccionario	NA
-21024	chic12	MOUTH	boca	du³ˀwa³	du³ˀwa³	23	674	NA	NA	hernandez-mendoza2020vocabulario	NA
-5927	chic12	EAR	oreja	raquï’²	raquï’²	24	1247	NA	NA	good1978diccionario	NA
-21025	chic12	EAR	oreja	ra³kɨ³ʰ	ra³kɨ³ʰ	24	1247	NA	NA	hernandez-mendoza2020vocabulario	NA
-21026	chic12	EAR	oreja	ra³ki³ʰ	ra³ki³ʰ	24	1247	NA	NA	hernandez-mendoza2020vocabulario	NA
-5928	chic12	NOSE	nariz	daquïn’²	daquïn’²	25	1221	NA	NA	good1978diccionario	NA
-21027	chic12	NOSE	nariz	da³kɨ³⁵	da³kɨ³⁵	25	1221	NA	NA	hernandez-mendoza2020vocabulario	NA
-21028	chic12	NOSE	nariz	da³ki³⁵	da³ki³⁵	25	1221	NA	NA	hernandez-mendoza2020vocabulario	NA
-5929	chic12	NECK	cuello	xio’²	xio’²	26	1333	NA	NA	good1978diccionario	NA
-21029	chic12	NECK	cuello	ʒa⁴	ʒa⁴	26	1333	NA	NA	hernandez-mendoza2020vocabulario	NA
-5930	chic12	HAND	mano	ro’o’²	ro’o’²	27	1277	NA	NA	good1978diccionario	NA
-21030	chic12	HAND	mano	ra³ˀa³	ra³ˀa³	27	1277	NA	NA	hernandez-mendoza2020vocabulario	NA
-5931	chic12	FINGERNAIL	uña	cu¹ sitïn’²	cu¹-sitïn’²	28	1258	NA	NA	good1978diccionario	NA
-21031	chic12	FINGERNAIL	uña	si³.ˈtĩː⁴	si³tĩː⁴	28	1258	NA	NA	hernandez-mendoza2020vocabulario	NA
-5932	chic12	BACK	espalda	xichro’²	xichro’²	29	1291	NA	NA	good1978diccionario	NA
-21032	chic12	BACK	espalda	ʃi³ʈʂa³⁵	ʃi³ʈʂa³⁵	29	1291	NA	NA	hernandez-mendoza2020vocabulario	NA
-5933	chic12	BELLY OR STOMACH	panza, estómago	si-co’⁴³	si-co’⁴³	30	2114	NA	NA	good1978diccionario	NA
-21033	chic12	BELLY OR STOMACH	panza, barriga	si³ko³²ʰ	si³ko³²ʰ	30	2114	NA	NA	hernandez-mendoza2020vocabulario	NA
-5934	chic12	INTESTINES	tripa	xichri’³i	xichri’³i	31	1991	NA	NA	good1978diccionario	NA
-5935	chic12	INTESTINES	tripa, intestino	xichi’⁴’i	xichi’⁴’i	31	1991	NA	NA	good1978diccionario	NA
-21034	chic12	INTESTINES	tripa, tripas	ʃi³ʈʂi³ˀ	ʃi³ʈʂi³ˀ	31	1991	NA	NA	hernandez-mendoza2020vocabulario	NA
-5936	chic12	FOOT	pie	daco’²	daco’²	32	1301	NA	NA	good1978diccionario	NA
-21035	chic12	FOOT	pie	da³ko³⁵	da³ko³⁵	32	1301	NA	NA	hernandez-mendoza2020vocabulario	NA
-5937	chic12	DISEASE	enfermedad	xi’i⁵	xi’i⁵	33	1986	NA	NA	good1978diccionario	NA
-21036	chic12	DISEASE	enfermedad	ʃi³ˀi¹	ʃi³ˀi¹	33	1986	NA	NA	hernandez-mendoza2020vocabulario	NA
-5938	chic12	MEDICINE	medicina, remedio	gono’o²	gono’o²	34	1372	NA	NA	good1978diccionario	NA
-21037	chic12	MEDICINE	medicina	ɡo³no³ˀo⁴	ɡo³no³ˀo⁴	34	1372	NA	NA	hernandez-mendoza2020vocabulario	NA
-5939	chic12	SWELLING	hinchazón	gu’man³⁴	gu’man³⁴	35	1903	NA	NA	good1978diccionario	NA
-21038	chic12	SWELLING	hinchazón	ɡu³ˀmã³²	ɡu³ˀmã³²	35	1903	NA	NA	hernandez-mendoza2020vocabulario	NA
-5940	chic12	PIMPLE	grano	nuj³	nuj³	36	1809	NA	NA	good1978diccionario	NA
-21039	chic12	PIMPLE	grano	nːu³ʰ	nːu³ʰ	36	1809	NA	NA	hernandez-mendoza2020vocabulario	NA
-5941	chic12	PUS	pus, materia	cuej³	cuej³	37	1808	NA	NA	good1978diccionario	NA
-21040	chic12	PUS	pus, materia	kʷe³ʰ	kʷe³ʰ	37	1808	NA	NA	hernandez-mendoza2020vocabulario	NA
-5942	chic12	URINE	orina	nne³⁴ ri’i’⁴	nne³⁴-ri’i’⁴	38	1142	NA	NA	good1978diccionario	NA
-21041	chic12	URINE	orina	ne³² # ri¹ˀi¹	ne³²-ri¹ˀi¹	38	1142	NA	NA	hernandez-mendoza2020vocabulario	NA
-5943	chic12	CLOTHES	tela, ropa, trapo	atsij⁵i	atsij⁵i	39	1895	NA	NA	good1978diccionario	NA
-21042	chic12	CLOTHES	tela, ropa	a³tsi⁴ʰ	a³tsi⁴ʰ	39	1895	NA	NA	hernandez-mendoza2020vocabulario	NA
-5944	chic12	SANDAL	huarache	canj³	canj³	40	NA	NA	NA	good1978diccionario	NA
-21043	chic12	SANDAL	huarache	kã³ʰ	kã³ʰ	40	NA	NA	NA	hernandez-mendoza2020vocabulario	NA
-5945	chic12	TROUSERS	pantalón	xichroj³o	xichroj³o	41	809	NA	NA	good1978diccionario	NA
-21044	chic12	TROUSERS	pantalón	ʃi³ʈʂo³²ʰ	ʃi³ʈʂo³²ʰ	41	809	NA	NA	hernandez-mendoza2020vocabulario	NA
-5946	chic12	BLOUSE (WOVEN)	huipil, traje	ri’nï²	ri’nï²	42	NA	NA	NA	good1978diccionario	NA
-21045	chic12	BLOUSE (WOVEN)	huipil	ru³ˀnũ⁴	ru³ˀnũ⁴	42	NA	NA	NA	hernandez-mendoza2020vocabulario	NA
-21046	chic12	BLOUSE (WOVEN)	huipil	ri³ˀnĩ⁴	ri³ˀnĩ⁴	42	NA	NA	NA	hernandez-mendoza2020vocabulario	NA
-5947	chic12	TOWN OR VILLAGE	pueblo	xuman’⁴an	xuman’⁴an	43	3609	NA	NA	good1978diccionario	NA
-21047	chic12	TOWN OR VILLAGE	pueblo	ʃu³mã³ˀ	ʃu³mã³ˀ	43	3609	NA	NA	hernandez-mendoza2020vocabulario	NA
-5948	chic12	HOUSE	casa	hue’³e	hue’³e	44	1252	NA	NA	good1978diccionario	NA
-21048	chic12	HOUSE	casa	we³ˀ	we³ˀ	44	1252	NA	NA	hernandez-mendoza2020vocabulario	NA
-5949	chic12	PATH	camino, costumbre	chrej³e	chrej³e	45	2252	NA	NA	good1978diccionario	NA
-21049	chic12	PATH	camino	ʈʂe³²ʰ	ʈʂe³²ʰ	45	2252	NA	NA	hernandez-mendoza2020vocabulario	NA
-21050	chic12	POST	horcón	du³gᵂã³ˀã⁴ʰ	du³gᵂã³ˀã⁴ʰ	46	281	NA	NA	hernandez-mendoza2020vocabulario	NA
-5950	chic12	MAT	petate	huue¹	huue¹	47	195	NA	NA	good1978diccionario	NA
-21051	chic12	MAT	petate	wːe³⁵	wːe³⁵	47	195	NA	NA	hernandez-mendoza2020vocabulario	NA
-5951	chic12	BED	cama, lecho	nna³	nna³	48	1663	NA	NA	good1978diccionario	NA
-21052	chic12	BED	cama, lecho	na³	na³	48	1663	NA	NA	hernandez-mendoza2020vocabulario	NA
-5952	chic12	STOOL	banco, asiento	rega’³a	rega’³a	49	2058	NA	NA	good1978diccionario	NA
-21053	chic12	STOOL	banquito, banco, silla	re³ɡa³ˀ	re³ɡa³ˀ	49	2058	NA	NA	hernandez-mendoza2020vocabulario	NA
-5953	chic12	ANIMAL	animal	xucu³	xucu³	50	619	NA	NA	good1978diccionario	NA
-21054	chic12	ANIMAL	animal	ʃu³ku³	ʃu³ku³	50	619	NA	NA	hernandez-mendoza2020vocabulario	NA
-5954	chic12	BIRD	pájaro	xataj⁴a	xataj⁴a	51	937	NA	NA	good1978diccionario	NA
-21055	chic12	BIRD	pájaro	ʃa³ta³²ʰ	ʃa³ta³²ʰ	51	937	NA	NA	hernandez-mendoza2020vocabulario	NA
-5955	chic12	FISH	pez, pescado	xucuaj³a	xu-cuaj³a	52	227	NA	NA	good1978diccionario	NA
-21056	chic12	FISH	pez, pescado	ʃu³kʷa³²ʰ	ʃu³kʷa³²ʰ	52	227	NA	NA	hernandez-mendoza2020vocabulario	NA
-5956	chic12	SNAKE	culebra, serpiente	xucua¹	xu-cua¹	53	730	NA	NA	good1978diccionario	NA
-21057	chic12	SNAKE	culebra, serpiente	ʃu³kʷa³⁵	ʃu³kʷa³⁵	53	730	NA	NA	hernandez-mendoza2020vocabulario	NA
-5957	chic12	FROG	rana	xiriquïj³	xiriquïj³	54	503	NA	NA	good1978diccionario	NA
-21058	chic12	FROG	rana	ʃi²ri³kɨ³ʰ	ʃi²ri³kɨ³ʰ	54	503	NA	NA	hernandez-mendoza2020vocabulario	NA
-5958	chic12	HAWK	gavilán	xinun’³un	xinun’³un	55	307	maybe	Mixtec?	good1978diccionario	NA
-21059	chic12	HAWK	gavilán	ʃi³nũ³ˀ	ʃi³nũ³ˀ	55	307	NA	NA	hernandez-mendoza2020vocabulario	NA
-5959	chic12	SCORPION	alacrán, escorpión	xiquïn⁴³	xiquïn⁴³	56	1538	NA	NA	good1978diccionario	NA
-21060	chic12	SCORPION	alacrán	ʃa³kɨ̃³²	ʃa³kɨ̃³²	56	1538	NA	NA	hernandez-mendoza2020vocabulario	NA
-5960	chic12	COCKROACH	cucaracha	xiraquïn³	xiraquïn³	57	1575	NA	NA	good1978diccionario	NA
-21061	chic12	COCKROACH	cucaracha	ʃi²ra³kɨ̃³	ʃi²ra³kɨ̃³	57	1575	NA	NA	hernandez-mendoza2020vocabulario	NA
-5961	chic12	GRASSHOPPER	chapulín	xiriqui¹	xiriqui¹	58	607	NA	NA	good1978diccionario	NA
-21062	chic12	GRASSHOPPER	chapulín	nãʔnĩ³⁵	nãʔnĩ³⁵	58	607	NA	NA	hernandez-mendoza2020vocabulario	NA
-5962	chic12	BEE	abeja	xutan³	xutan³	59	665	NA	NA	good1978diccionario	NA
-21063	chic12	BEE	abeja	ʃu³tã³	ʃu³tã³	59	665	NA	NA	hernandez-mendoza2020vocabulario	NA
-5963	chic12	MUROID (MOUSE OR RAT)	ratón	xutu⁴ nij³	xutu⁴-nij³	60	2139	NA	NA	good1978diccionario	NA
-5964	chic12	MUROID (MOUSE OR RAT)	rata	xutu⁴ güi³⁵	xutu⁴-güi³⁵	60	2139	NA	NA	good1978diccionario	NA
-21064	chic12	MUROID (MOUSE OR RAT)	ratón, rata	ʃu³tu³²	ʃu³tu³²	60	2139	NA	NA	hernandez-mendoza2020vocabulario	NA
-5965	chic12	DEER	venado	xutaj³	xutaj³	61	1936	NA	NA	good1978diccionario	NA
-21065	chic12	DEER	venado	ʃu³ta³ʰ	ʃu³ta³ʰ	61	1936	NA	NA	hernandez-mendoza2020vocabulario	NA
-5966	chic12	SQUIRREL	ardilla	xuhua¹	xuhua¹	62	1628	NA	NA	good1978diccionario	NA
-21066	chic12	SQUIRREL	ardilla	ʃu³wa⁴	ʃu³wa⁴	62	1628	NA	NA	hernandez-mendoza2020vocabulario	NA
-5967	chic12	SKUNK	zorrillo	xan’an³	xan’an³	63	NA	NA	NA	good1978diccionario	NA
-21067	chic12	SKUNK	zorrillo	ʃa³ˀã³	ʃa³ˀã³	63	NA	NA	NA	hernandez-mendoza2020vocabulario	NA
-5968	chic12	POSSUM	tlacuache	jnaquïnj³ïn	jnaquïnj³ïn	64	470	NA	NA	good1978diccionario	NA
-21068	chic12	POSSUM	tlacuache	ta⁴kɨ̃¹ʰ	ta⁴kɨ̃¹ʰ	64	470	NA	NA	hernandez-mendoza2020vocabulario	NA
-21069	chic12	POSSUM	tlacuache	tna⁴kɨ̃¹ʰ	tna⁴kɨ̃¹ʰ	64	470	NA	NA	hernandez-mendoza2020vocabulario	NA
-5969	chic12	RACCOON	mapache	guyuj³	guyuj³	65	828	NA	NA	good1978diccionario	NA
-21070	chic12	RACCOON	mapache	ɡu³ju³ʰ	ɡu³ju³ʰ	65	828	NA	NA	hernandez-mendoza2020vocabulario	NA
-5970	chic12	RABBIT	conejo	xato³	xato³	66	1136	NA	NA	good1978diccionario	NA
-21071	chic12	RABBIT	conejo	ʃa³to³	ʃa³to³	66	1136	NA	NA	hernandez-mendoza2020vocabulario	NA
-5971	chic12	VULTURE	zopilote	xachru¹	xachru¹	67	1185	NA	NA	good1978diccionario	NA
-21072	chic12	VULTURE	zopilote	ʃa³ʈʂu³⁵	ʃa³ʈʂu³⁵	67	1185	NA	NA	hernandez-mendoza2020vocabulario	NA
-5972	chic12	DOG	perro	xuhue³	xuhue³	68	2009	NA	NA	good1978diccionario	NA
-21073	chic12	DOG	perro	ʃu³we³	ʃu³we³	68	2009	NA	NA	hernandez-mendoza2020vocabulario	NA
-5973	chic12	CAT	gato	xilu³	xilu³	69	1208	NA	NA	good1978diccionario	NA
-21074	chic12	CAT	gato	ʃi³lu³	ʃi³lu³	69	1208	NA	NA	hernandez-mendoza2020vocabulario	NA
-5974	chic12	ROOSTER	gallo	de’loj⁵o	de’loj⁵o	70	1511	NA	NA	good1978diccionario	NA
-21075	chic12	ROOSTER	gallo	de⁴ʔlo¹ʰ	de⁴ʔlo¹ʰ	70	1511	NA	NA	hernandez-mendoza2020vocabulario	NA
-5975	chic12	HEN	gallina	xuche⁴	xuche⁴	71	1514	NA	NA	good1978diccionario	NA
-21076	chic12	HEN	gallina	ʃu³tʃe³²	ʃu³tʃe³²	71	1514	NA	NA	hernandez-mendoza2020vocabulario	NA
-5976	chic12	PIG	marrano, puerco, cerdo	xaca¹	xaca¹	72	1337	NA	NA	good1978diccionario	NA
-21077	chic12	PIG	marrano, puerco, cerdo	ʃa³ka³⁵	ʃa³ka³⁵	72	1337	NA	NA	hernandez-mendoza2020vocabulario	NA
-5977	chic12	HORSE	caballo	guayu³	guayu³	73	615	NA	NA	good1978diccionario	NA
-21078	chic12	HORSE	caballo	gᵂa⁴ju³	gᵂa⁴ju³	73	615	yes	Colonial Spanish	hernandez-mendoza2020vocabulario	NA
-5978	chic12	SHEEP	borrego, oveja	matsïj⁴ï	matsïj⁴ï	74	1331	NA	NA	good1978diccionario	NA
-21079	chic12	SHEEP	borrego, oveja	ma³tsi³²ʰ	ma³tsi³²ʰ	74	1331	NA	NA	hernandez-mendoza2020vocabulario	NA
-5979	chic12	ANT	hormiga	xucua³	xucua³	75	587	NA	NA	good1978diccionario	NA
-21080	chic12	ANT	hormiga	ʃu³kʷa³	ʃu³kʷa³	75	587	NA	NA	hernandez-mendoza2020vocabulario	NA
-5980	chic12	HORN (ANATOMY)	cuerno	si-cu¹ xuj³	si-cu¹-xuj³	76	1393	NA	NA	good1978diccionario	NA
-21081	chic12	HORN (ANATOMY)	cuerno	si³ku³⁵	si³ku³⁵	76	1393	NA	NA	hernandez-mendoza2020vocabulario	NA
-5981	chic12	FEATHER	pluma, lana	to³⁴	to³⁴	77	1201	NA	NA	good1978diccionario	NA
-21082	chic12	FEATHER	pluma	to³²	to³²	77	1201	NA	NA	hernandez-mendoza2020vocabulario	NA
-5982	chic12	WING	ala	si-gachi³ xuj³	si-gachi³-xuj³	78	1257	NA	NA	good1978diccionario	NA
-21083	chic12	WING	ala	si³ɡa²tʃi³	si³ɡa²tʃi³	78	1257	NA	NA	hernandez-mendoza2020vocabulario	NA
-5983	chic12	TAIL	cola	dune’³e xuj³	dune’³e-xuj³	79	1220	NA	NA	good1978diccionario	NA
-21084	chic12	TAIL	cola	du³ne³ˀ	du³ne³ˀ	79	1220	NA	NA	hernandez-mendoza2020vocabulario	NA
-5984	chic12	TREE	árbol, palo, madera	chrun³	chrun³	80	906	NA	NA	good1978diccionario	NA
-21085	chic12	TREE	árbol, palo	ʈʂũ³	ʈʂũ³	80	906	NA	NA	hernandez-mendoza2020vocabulario	NA
-5985	chic12	HERBACEOUS PLANT	hierba (no comestible)	coj³o	coj³o	81	NA	NA	NA	good1978diccionario	NA
-21086	chic12	HERBACEOUS PLANT	hierba	ko³²ʰ	ko³²ʰ	81	NA	NA	NA	hernandez-mendoza2020vocabulario	NA
-5986	chic12	GRASS	zacate	gui⁴’yo⁵	gui⁴’yo⁵	82	606	NA	NA	good1978diccionario	NA
-5987	chic12	GRASS	pasto	chrin’³in	chrin’³in	82	606	NA	NA	good1978diccionario	NA
-21087	chic12	GRASS	pasto	ʈʂĩ³ˀ	ʈʂĩ³ˀ	82	606	NA	NA	hernandez-mendoza2020vocabulario	NA
-5988	chic12	FLOWER	flor	yaj³a	yaj³a	83	239	NA	NA	good1978diccionario	NA
-21088	chic12	FLOWER	flor	ja³²ʰ	ja³²ʰ	83	239	NA	NA	hernandez-mendoza2020vocabulario	NA
-5989	chic12	MAGUEY	maguey	huue³⁴	huue³⁴	84	NA	NA	NA	good1978diccionario	NA
-21089	chic12	MAGUEY	maguey	wːe³²	wːe³²	84	NA	NA	NA	hernandez-mendoza2020vocabulario	NA
-5990	chic12	ROOT	raíz, cuerda	ya’a⁴	ya’a⁴	85	670	NA	NA	good1978diccionario	NA
-21090	chic12	ROOT	raíz	ja³ˀa³²	ja³ˀa³²	85	670	NA	NA	hernandez-mendoza2020vocabulario	NA
-5991	chic12	THORN	espina	tanj³an	tanj³an	86	124	NA	NA	good1978diccionario	NA
-21091	chic12	THORN	espina	tã³²ʰ	tã³²ʰ	86	124	NA	NA	hernandez-mendoza2020vocabulario	NA
-5992	chic12	CORN	maíz	'nï¹	'nï¹	87	506	NA	NA	good1978diccionario	NA
-21092	chic12	CORN	maíz en grano	ʔnĩ³⁵	ʔnĩ³⁵	87	506	NA	NA	hernandez-mendoza2020vocabulario	NA
-5993	chic12	CORN FIELD	milpa	nna³⁵	nna³⁵	88	449	NA	NA	good1978diccionario	NA
-21093	chic12	CORN FIELD	milpa	na³¹	na³¹	88	449	NA	NA	hernandez-mendoza2020vocabulario	NA
-5994	chic12	EAR OF CORN (FRESH)	elote	tsi³⁴	tsi³⁴	89	NA	NA	NA	good1978diccionario	NA
-21094	chic12	EAR OF CORN (FRESH)	elote	tsi³²	tsi³²	89	NA	NA	NA	hernandez-mendoza2020vocabulario	NA
-5995	chic12	NIXTAMAL	nixtamal	niyaj⁴a	niyaj⁴a	90	NA	NA	NA	good1978diccionario	NA
-21095	chic12	NIXTAMAL	nixtamal	ni³ja³²ʰ	ni³ja³²ʰ	90	NA	NA	NA	hernandez-mendoza2020vocabulario	NA
-5996	chic12	CORN DOUGH	masa	quïnj³ïn	quïnj³ïn	91	NA	NA	NA	good1978diccionario	NA
-21096	chic12	CORN DOUGH	masa	kɨ̃³²ʰ	kɨ̃³²ʰ	91	NA	NA	NA	hernandez-mendoza2020vocabulario	NA
-5997	chic12	TORTILLA	tortilla	chra³	chra³	92	NA	NA	NA	good1978diccionario	NA
-21097	chic12	TORTILLA	tortilla	ʈʂa³	ʈʂa³	92	NA	NA	NA	hernandez-mendoza2020vocabulario	NA
-5998	chic12	CORN STALK	rastrojo	gui’yo⁵³	gui’yo⁵³	93	NA	NA	NA	good1978diccionario	NA
-21098	chic12	CORN STALK	rastrojo (de milpa, caña)	ru³mĩ³⁵	ru³mĩ³⁵	93	NA	NA	NA	hernandez-mendoza2020vocabulario	NA
-5999	chic12	FURROW	surco	ducuan¹	ducuan¹	94	1794	NA	NA	good1978diccionario	NA
-21099	chic12	FURROW	surco	du³kʷã³⁵	du³kʷã³⁵	94	1794	NA	NA	hernandez-mendoza2020vocabulario	NA
-6000	chic12	TASSEL	espiga	ca³⁴	ca³⁴	95	NA	NA	NA	good1978diccionario	NA
-21100	chic12	TASSEL	espiga	ka³²	ka³²	95	NA	NA	NA	hernandez-mendoza2020vocabulario	NA
-6001	chic12	BEAN	frijol(es)	rune⁴	rune⁴	96	832	NA	NA	good1978diccionario	NA
-21101	chic12	BEAN	frijol(es)	ru³ne³²	ru³ne³²	96	832	NA	NA	hernandez-mendoza2020vocabulario	NA
-6002	chic12	GREEN BEAN	ejote	natan³	natan³	97	NA	NA	NA	good1978diccionario	NA
-21102	chic12	GREEN BEAN	ejote	na³tã³	na³tã³	97	NA	NA	NA	hernandez-mendoza2020vocabulario	NA
-6003	chic12	CHILI PEPPER	chile	ya’³aj	ya’³aj	98	919	NA	NA	good1978diccionario	NA
-21103	chic12	CHILI PEPPER	chile	ja³ˀa³ʰ	ja³ˀa³ʰ	98	919	NA	NA	hernandez-mendoza2020vocabulario	NA
-6004	chic12	SALT	sal	yan³⁴	yan³⁴	99	1274	NA	NA	good1978diccionario	NA
-21104	chic12	SALT	sal	ɲã³²	ɲã³²	99	1274	NA	NA	hernandez-mendoza2020vocabulario	NA
-21105	chic12	SALT	sal	j̃ã³²	j̃ã³²	99	1274	NA	NA	hernandez-mendoza2020vocabulario	NA
-6005	chic12	PUMPKIN	calabaza	can³	can³	100	864	NA	NA	good1978diccionario	NA
-21106	chic12	PUMPKIN	calabaza	kã³	kã³	100	864	NA	NA	hernandez-mendoza2020vocabulario	NA
-6006	chic12	CHAYOTE	chayote (planta)	nitïn⁴	nitïn⁴	101	NA	NA	NA	good1978diccionario	NA
-21107	chic12	CHAYOTE	chayote	ni³tĩ³²	ni³tĩ³²	101	NA	NA	NA	hernandez-mendoza2020vocabulario	NA
-6007	chic12	SUGAR CANE	caña	yo³⁴	yo³⁴	102	146	NA	NA	good1978diccionario	NA
-21108	chic12	SUGAR CANE	caña	jo³²	jo³²	102	146	NA	NA	hernandez-mendoza2020vocabulario	NA
-6008	chic12	HONEY	miel	gatsi’⁴ij	gatsi’⁴ij	103	942	NA	NA	good1978diccionario	NA
-21109	chic12	HONEY	miel	ɡa³tsi¹ˀ	ɡa³tsi¹ˀ	103	942	NA	NA	hernandez-mendoza2020vocabulario	NA
-6009	chic12	FAT (FROM ANIMALS)	grasa, manteca	nami³⁴	nami³⁴	104	1282	NA	NA	good1978diccionario	NA
-21110	chic12	FAT (FROM ANIMALS)	grasa, manteca	nã³mĩ³²	nã³mĩ³²	104	1282	NA	NA	hernandez-mendoza2020vocabulario	NA
-6010	chic12	EGG	blanquillo, huevo	chruj³	chruj³	105	744	NA	NA	good1978diccionario	NA
-21111	chic12	EGG	blanquillo, huevo	ʈʂu³ʰ	ʈʂu³ʰ	105	744	NA	NA	hernandez-mendoza2020vocabulario	NA
-6011	chic12	TOMATO	tomate	rinïj⁴ï	rinïj⁴ï	106	986	NA	NA	good1978diccionario	NA
-21112	chic12	TOMATO	tomate	ri³nĩ³²ʰ	ri³nĩ³²ʰ	106	986	NA	NA	hernandez-mendoza2020vocabulario	NA
-6012	chic12	SWEET POTATO	camote	mmi³⁴	mmi³⁴	107	159	NA	NA	good1978diccionario	NA
-21113	chic12	SWEET POTATO	camote	mːĩ³²	mːĩ³²	107	159	NA	NA	hernandez-mendoza2020vocabulario	NA
-6013	chic12	AVOCADO	aguacate	ru²ne³	ru²ne³	108	3725	NA	NA	good1978diccionario	NA
-21114	chic12	AVOCADO	aguacate	ru⁴ne³	ru⁴ne³	108	3725	NA	NA	hernandez-mendoza2020vocabulario	NA
-6014	chic12	BANANA	plátano	nato⁴	nato⁴	109	868	NA	NA	good1978diccionario	NA
-21115	chic12	BANANA	plátano	na³to³²	na³to³²	109	868	NA	NA	hernandez-mendoza2020vocabulario	NA
-6015	chic12	PRICKLY PEAR CACTUS	nopal	dinï⁴	dinï⁴	110	NA	NA	NA	good1978diccionario	NA
-21116	chic12	PRICKLY PEAR CACTUS	nopal	di³nĩ³²	di³nĩ³²	110	NA	NA	NA	hernandez-mendoza2020vocabulario	NA
-6016	chic12	MAMEY	mamey	nato⁴ ro’oj⁵o	nato⁴ ro’oj⁵o	111	NA	partial	Spanish	good1978diccionario	NA
-6017	chic12	MAMEY	zapote	reco⁴	reco⁴	111	NA	NA	NA	good1978diccionario	NA
-21117	chic12	MAMEY	mamey	na³to³² # ro²ʔo¹ʰ	na³to³²-ro²ʔo¹ʰ	111	NA	NA	NA	hernandez-mendoza2020vocabulario	NA
-6018	chic12	CUSTARD APPLE	chirimoya, anona	reco⁴ duhua³	reco⁴ duhua³	112	NA	NA	NA	good1978diccionario	NA
-21118	chic12	CUSTARD APPLE	chirimoya	re³ko³²	re³ko³²	112	NA	NA	NA	hernandez-mendoza2020vocabulario	NA
-6019	chic12	MUSHROOM	hongo	ran’an⁴³	ran’an⁴³	113	641	NA	NA	good1978diccionario	NA
-21119	chic12	MUSHROOM	hongo	rã³ˀã³	rã³ˀã³	113	641	NA	NA	hernandez-mendoza2020vocabulario	NA
-6020	chic12	MEAT	carne	nne³⁵	nne³⁵	114	634	NA	NA	good1978diccionario	NA
-21120	chic12	MEAT	carne	ne³¹	ne³¹	114	634	NA	NA	hernandez-mendoza2020vocabulario	NA
-6021	chic12	GRIDDLE	comal	xio⁴	xio⁴	115	NA	NA	NA	good1978diccionario	NA
-21121	chic12	GRIDDLE	comal	ʃo³²	ʃo³²	115	NA	NA	NA	hernandez-mendoza2020vocabulario	NA
-6022	chic12	COOKING POT	olla	ruj³	ruj³	116	3653	NA	NA	good1978diccionario	NA
-21122	chic12	COOKING POT	olla	ru³ʰ	ru³ʰ	116	3653	NA	NA	hernandez-mendoza2020vocabulario	NA
-6023	chic12	OVEN	horno	guchrun'⁴	guchrun'⁴	117	1143	NA	NA	good1978diccionario	NA
-21123	chic12	OVEN	horno	ɡu³ʈʂũ³⁵	ɡu³ʈʂũ³⁵	117	1143	NA	NA	hernandez-mendoza2020vocabulario	NA
-6024	chic12	FIRE	lumbre, fuego	yan³'an⁴	yan³'an⁴	118	221	NA	NA	good1978diccionario	NA
-21124	chic12	FIRE	lumbre, fuego	j̃ã³ˀã³²	j̃ã³ˀã³²	118	221	NA	NA	hernandez-mendoza2020vocabulario	NA
-6025	chic12	ASH	ceniza	yaj³	yaj³	119	646	NA	NA	good1978diccionario	NA
-21125	chic12	ASH	ceniza	jːa³ʰ	jːa³ʰ	119	646	NA	NA	hernandez-mendoza2020vocabulario	NA
-6026	chic12	CHARCOAL	carbón (de humo; tizne)	yo'o⁵³	yo'o⁵³	120	1188	NA	NA	good1978diccionario	NA
-6027	chic12	CHARCOAL	carbón (de leña)	ru'ui'³i	ru'ui'³i	120	1188	NA	NA	good1978diccionario	NA
-21126	chic12	CHARCOAL	carbón	ru³ˀwi³ˀ	ru³ˀwi³ˀ	120	1188	NA	NA	hernandez-mendoza2020vocabulario	NA
-6028	chic12	SMOKE (EXHAUST)	humo	gatse’⁴e	gatse’⁴e	121	778	NA	NA	good1978diccionario	NA
-21127	chic12	SMOKE (EXHAUST)	humo	ɡa³tse¹ˀ	ɡa³tse¹ˀ	121	778	NA	NA	hernandez-mendoza2020vocabulario	NA
-6029	chic12	GARBAGE	basura	aco⁵³	aco⁵³	122	909	NA	NA	good1978diccionario	NA
-21128	chic12	GARBAGE	basura	a³ko¹	a³ko¹	122	909	NA	NA	hernandez-mendoza2020vocabulario	NA
-6030	chic12	PLATE	plato	go’o³	go’o³	123	480	NA	NA	good1978diccionario	NA
-21129	chic12	PLATE	plato	ɡo³ˀo³	ɡo³ˀo³	123	480	NA	NA	hernandez-mendoza2020vocabulario	NA
-6031	chic12	GOURD BOWL	jícara	achru’⁴u	achru’⁴u	124	NA	NA	NA	good1978diccionario	NA
-21130	chic12	GOURD BOWL	jícara	a³ʈʂu³ˀ	a³ʈʂu³ˀ	124	NA	NA	NA	hernandez-mendoza2020vocabulario	NA
-6032	chic12	BASKET	canasta	xuguti³	xuguti³	125	1539	NA	NA	good1978diccionario	NA
-6033	chic12	BASKET	tenate	yo²	yo²	125	1539	NA	NA	good1978diccionario	NA
-21131	chic12	BASKET	canasta, tenate	ʃu²ɡu⁴ti³	ʃu²ɡu⁴ti³	125	1539	NA	NA	hernandez-mendoza2020vocabulario	NA
-6034	chic12	BOX OR CHEST	caja, cajón	chrun¹	chrun¹	126	3150	NA	NA	good1978diccionario	NA
-21132	chic12	BOX OR CHEST	caja, cajón	ʈʂũ³⁵	ʈʂũ³⁵	126	3150	NA	NA	hernandez-mendoza2020vocabulario	NA
-6035	chic12	THREAD	hilo	'uej³e	'uej³e	127	1161	NA	NA	good1978diccionario	NA
-21133	chic12	THREAD	hilo	ʔwe³²ʰ	ʔwe³²ʰ	127	1161	NA	NA	hernandez-mendoza2020vocabulario	NA
-6036	chic12	COMB	peine	gutsï’⁴ïj	gutsï’⁴ïj	128	1475	NA	NA	good1978diccionario	NA
-21134	chic12	COMB	peine	ɡu³tsi³ˀ	ɡu³tsi³ˀ	128	1475	NA	NA	hernandez-mendoza2020vocabulario	NA
-6037	chic12	ROPE	mecate, cuerda	nne’³e	nne’³e	129	1218	NA	NA	good1978diccionario	NA
-21135	chic12	ROPE	mecate, cuerda	ne³ˀ	ne³ˀ	129	1218	NA	NA	hernandez-mendoza2020vocabulario	NA
-6038	chic12	HOLE	agujero, hoyo	yu’uj⁴u	yu’uj⁴u	130	1667	NA	NA	good1978diccionario	NA
-21136	chic12	HOLE	agujero, hoyo	ju³ˀu³²ʰ	ju³ˀu³²ʰ	130	1667	NA	NA	hernandez-mendoza2020vocabulario	NA
-6039	chic12	NET	red, ayate	nnanj³	nnanj³	131	2963	NA	NA	good1978diccionario	NA
-6040	chic12	NET	red	xinaj⁴	xinaj⁴	131	2963	NA	NA	good1978diccionario	NA
-21137	chic12	NET	red	nːã³ʰ	nːã³ʰ	131	2963	NA	NA	hernandez-mendoza2020vocabulario	NA
-6041	chic12	SOAP	jabón	mmi’³i	mmi’³i	132	788	NA	NA	good1978diccionario	NA
-21138	chic12	SOAP	jabón	mːĩ³ˀ	mːĩ³ˀ	132	788	NA	NA	hernandez-mendoza2020vocabulario	NA
-6042	chic12	RING	anillo	se’ej⁵e	se’ej⁵e	133	1374	NA	NA	good1978diccionario	NA
-21139	chic12	RING	anillo	se³ˀe³²ʰ	se³ˀe³²ʰ	133	1374	NA	NA	hernandez-mendoza2020vocabulario	NA
-6043	chic12	MOON	luna, mes	ahui⁴	ahui⁴	134	1313	NA	NA	good1978diccionario	NA
-21140	chic12	MOON	luna	a³wi³²	a³wi³²	134	1313	NA	NA	hernandez-mendoza2020vocabulario	NA
-6044	chic12	CLOUD	nube	nga³	nga³	135	1489	NA	NA	good1978diccionario	NA
-21141	chic12	CLOUD	nube	ŋɡa³	ŋɡa³	135	1489	NA	NA	hernandez-mendoza2020vocabulario	NA
-6045	chic12	LIGHTNING	rayo	du’ui³	du’ui³	136	1654	NA	NA	good1978diccionario	NA
-6046	chic12	LIGHTNING	relámpago	ran³⁵	ran³⁵	136	1654	NA	NA	good1978diccionario	NA
-21142	chic12	LIGHTNING	rayo, relámpago	du³ˀwi³	du³ˀwi³	136	1654	NA	NA	hernandez-mendoza2020vocabulario	NA
-6047	chic12	WATER	agua	nne³⁴	nne³⁴	137	948	NA	NA	good1978diccionario	NA
-21143	chic12	WATER	agua	ne³²	ne³²	137	948	NA	NA	hernandez-mendoza2020vocabulario	NA
-6048	chic12	RAIN (PRECIPITATION)	lluvia	guman⁵³	guman⁵³	138	658	NA	NA	good1978diccionario	NA
-21144	chic12	RAIN (PRECIPITATION)	lluvia	ɡu³mã¹	ɡu³mã¹	138	658	NA	NA	hernandez-mendoza2020vocabulario	NA
-6049	chic12	RIVER	río	quïn³	quïn³	139	666	NA	NA	good1978diccionario	NA
-21145	chic12	RIVER	río	kɨ̃³	kɨ̃³	139	666	NA	NA	hernandez-mendoza2020vocabulario	NA
-6050	chic12	DEW	rocío	nia⁵³	nia⁵³	140	1977	NA	NA	good1978diccionario	NA
-21146	chic12	DEW	rocío	ni³ja¹	ni³ja¹	140	1977	NA	NA	hernandez-mendoza2020vocabulario	NA
-6051	chic12	MOUNTAIN OR HILL	cerro, monte	quïj³ï	quïj³ï	141	2118	NA	NA	good1978diccionario	NA
-21147	chic12	MOUNTAIN OR HILL	cerro	kɨ³²ʰ	kɨ³²ʰ	141	2118	NA	NA	hernandez-mendoza2020vocabulario	NA
-6052	chic12	PLAIN	llano	ta³	ta³	142	652	NA	NA	good1978diccionario	NA
-21148	chic12	PLAIN	llanura, llano	ta³	ta³	142	652	NA	NA	hernandez-mendoza2020vocabulario	NA
-6053	chic12	STONE OR ROCK	piedra	yëj³	yëj³	143	2125	NA	NA	good1978diccionario	NA
-21149	chic12	STONE OR ROCK	piedra	jːe³ʰ	jːe³ʰ	143	2125	NA	NA	hernandez-mendoza2020vocabulario	NA
-6054	chic12	COTTON	algodón	gachij⁴i	gachij⁴i	144	1850	NA	NA	good1978diccionario	NA
-21150	chic12	COTTON	algodón	ɡa³tʃi³²ʰ	ɡa³tʃi³²ʰ	144	1850	NA	NA	hernandez-mendoza2020vocabulario	NA
-6055	chic12	METAL	metal, hierro, botella	gaga’³a	gaga’³a	145	2244	NA	NA	good1978diccionario	NA
-21151	chic12	METAL	fierro	a³ɡa³ˀ	a³ɡa³ˀ	145	2244	NA	NA	hernandez-mendoza2020vocabulario	NA
-6056	chic12	PAPER	papel	yanj³	yanj³	146	648	NA	NA	good1978diccionario	NA
-21152	chic12	PAPER	papel	ɲã³ʰ	ɲã³ʰ	146	648	NA	NA	hernandez-mendoza2020vocabulario	NA
-21153	chic12	PAPER	papel	j̃ã³ʰ	j̃ã³ʰ	146	648	NA	NA	hernandez-mendoza2020vocabulario	NA
-6057	chic12	LIME (MATERIAL)	cal	nan’anj⁴an	nan’anj⁴an	147	2540	NA	NA	good1978diccionario	NA
-21154	chic12	LIME (MATERIAL)	cal	nã³ˀã³²ʰ	nã³ˀã³²ʰ	147	2540	NA	NA	hernandez-mendoza2020vocabulario	NA
-6058	chic12	BEESWAX	cera	yanj³an	yanj³an	148	1931	NA	NA	good1978diccionario	NA
-21155	chic12	BEESWAX	cera	si³kɨ³⁵	si³kɨ³⁵	148	1931	NA	NA	hernandez-mendoza2020vocabulario	NA
-6059	chic12	MUD	lodo	siguë’³ë	siguë’³ë	149	640	NA	NA	good1978diccionario	NA
-21156	chic12	MUD	lodo	si³ɡe³ˀ	si³ɡe³ˀ	149	640	NA	NA	hernandez-mendoza2020vocabulario	NA
-6060	chic12	FOAM	espuma	atan’⁴an	atan’⁴an	150	1768	NA	NA	good1978diccionario	NA
-21157	chic12	FOAM	espuma	da³tã¹ˀ	da³tã¹ˀ	150	1768	NA	NA	hernandez-mendoza2020vocabulario	NA
-6061	chic12	DUST	polvo	yaj³ yo’o¹	yaj³-yo’o¹	151	2	NA	NA	good1978diccionario	NA
-21158	chic12	DUST	polvo	ja³ʰ	ja³ʰ	151	2	NA	NA	hernandez-mendoza2020vocabulario	NA
-6062	chic12	RED	rojo	sa³⁴ mare³	mare³	152	156	NA	NA	good1978diccionario	NA
-21159	chic12	RED	rojo	mã²re³	mã²re³	152	156	NA	NA	hernandez-mendoza2020vocabulario	NA
-6063	chic12	GREEN	verde	sa³⁴ mare³⁴	mare³⁴	153	1425	NA	NA	good1978diccionario	NA
-21160	chic12	GREEN	verde	mã²re³¹	mã²re³¹	153	1425	NA	NA	hernandez-mendoza2020vocabulario	NA
-6064	chic12	YELLOW	amarillo	sa³⁴ mayaj⁴a	mayaj⁴a	154	1424	NA	NA	good1978diccionario	NA
-21161	chic12	YELLOW	amarillo	mã²ja³²ʰ	mã²ja³²ʰ	154	1424	NA	NA	hernandez-mendoza2020vocabulario	NA
-6065	chic12	BLACK	negro	sa³⁴ maru⁵³	maru⁵³	155	163	NA	NA	good1978diccionario	NA
-21162	chic12	BLACK	negro	mã²ru³¹	mã²ru³¹	155	163	NA	NA	hernandez-mendoza2020vocabulario	NA
-6066	chic12	WHITE	blanco	gatsi⁵³	gatsi⁵³	156	1335	NA	NA	good1978diccionario	NA
-21163	chic12	WHITE	blanco	ɡa²tsi¹	ɡa²tsi¹	156	1335	NA	NA	hernandez-mendoza2020vocabulario	NA
-6067	chic12	ONE	uno	'ngo⁵³	'ngo⁵³	157	1493	NA	NA	good1978diccionario	NA
-21164	chic12	ONE	uno	ˀᵑɡo¹³ʰ	ˀᵑɡo¹³ʰ	157	1493	NA	NA	hernandez-mendoza2020vocabulario	NA
-6068	chic12	TWO	dos	huui⁵³	huui⁵³	158	1498	NA	NA	good1978diccionario	NA
-21165	chic12	TWO	dos	wːi¹³	wːi¹³	158	1498	NA	NA	hernandez-mendoza2020vocabulario	NA
-6069	chic12	THREE	tres	hua’⁵nï³	hua’⁵nï³	159	492	NA	NA	good1978diccionario	NA
-21166	chic12	THREE	tres	wa¹ˀnĩ³	wa¹ˀnĩ³	159	492	NA	NA	hernandez-mendoza2020vocabulario	NA
-6070	chic12	FOUR	cuatro	gan’⁵an³	gan’⁵an³	160	1500	NA	NA	good1978diccionario	NA
-21167	chic12	FOUR	cuatro	ɡa¹ˀã³	ɡa¹ˀã³	160	1500	NA	NA	hernandez-mendoza2020vocabulario	NA
-6071	chic12	FIVE	cinco	un’⁵un³	un’⁵un³	161	493	NA	NA	good1978diccionario	NA
-21168	chic12	FIVE	cinco	ũ²ʔũ³ʰ	ũ²ʔũ³ʰ	161	493	NA	NA	hernandez-mendoza2020vocabulario	NA
-6072	chic12	SIX	seis	huatan’³	huatan’³	162	1703	NA	NA	good1978diccionario	NA
-21169	chic12	SIX	seis	wa²tã³ʰ	wa²tã³ʰ	162	1703	NA	NA	hernandez-mendoza2020vocabulario	NA
-6073	chic12	SEVEN	siete	chij⁴	chij⁴	163	1704	NA	NA	good1978diccionario	NA
-21170	chic12	SEVEN	siete	tʃi²ʰ	tʃi²ʰ	163	1704	NA	NA	hernandez-mendoza2020vocabulario	NA
-6074	chic12	EIGHT	ocho	tïnj⁴	tïnj⁴	164	1705	NA	NA	good1978diccionario	NA
-21171	chic12	EIGHT	ocho	tɨ̃³ʰ	tɨ̃³ʰ	164	1705	NA	NA	hernandez-mendoza2020vocabulario	NA
-6075	chic12	NINE	nueve	'ïn⁴	'ïn⁴	165	1483	NA	NA	good1978diccionario	NA
-21172	chic12	NINE	nueve	ʔĩ²	ʔĩ²	165	1483	NA	NA	hernandez-mendoza2020vocabulario	NA
-6076	chic12	TEN	diez	chi’⁴	chi’⁴	166	1515	NA	NA	good1978diccionario	NA
-21173	chic12	TEN	diez	tʃi²ʔ	tʃi²ʔ	166	1515	NA	NA	hernandez-mendoza2020vocabulario	NA
-6077	chic12	FIFTEEN	quince	xinun’³	xinun’³	167	1709	NA	NA	good1978diccionario	NA
-21174	chic12	FIFTEEN	quince	ʃi²nu³ˀ	ʃi²nu³ˀ	167	1709	NA	NA	hernandez-mendoza2020vocabulario	NA
-6078	chic12	TWENTY	veinte	co⁴	co⁴	168	1710	NA	NA	good1978diccionario	NA
-21175	chic12	TWENTY	veinte	ko²	ko²	168	1710	NA	NA	hernandez-mendoza2020vocabulario	NA
-6079	chic12	POOR	pobre	aco³	aco³	169	1674	NA	NA	good1978diccionario	NA
-21176	chic12	POOR	pobre	a²ko³	a²ko³	169	1674	NA	NA	hernandez-mendoza2020vocabulario	NA
-6080	chic12	RICH	rico	xiru’ue⁴ sij³	xiru’ue⁴	170	712	NA	NA	good1978diccionario	NA
-21177	chic12	RICH	rico	ʃi²ru³ˀwe³²	ʃi²ru³ˀwe³²	170	712	NA	NA	hernandez-mendoza2020vocabulario	NA
-6081	chic12	COLD	frío	nuhuij³	nuhuij³	171	1287	NA	NA	good1978diccionario	NA
-21178	chic12	COLD	frío	a³ko³ʰ	a³ko³ʰ	171	1287	NA	NA	hernandez-mendoza2020vocabulario	NA
-6082	chic12	HOT	caliente	a’man³	a’man³	172	1286	NA	NA	good1978diccionario	NA
-6083	chic12	HOT	caliente, caluroso	yan⁴’an³	yan⁴’an³	172	1286	NA	NA	good1978diccionario	NA
-21179	chic12	HOT	está caliente, caliente	j̃ã²ʔã³	j̃ã²ʔã³	172	1286	NA	NA	hernandez-mendoza2020vocabulario	NA
-6084	chic12	BIG (SINGULAR)	grande (de tamaño)	xa⁴chi³	xa⁴chi³	173	NA	NA	NA	good1978diccionario	NA
-21180	chic12	BIG (SINGULAR)	grande.SG	ʃa²tʃi¹ʰ	ʃa²tʃi¹ʰ	173	NA	NA	NA	hernandez-mendoza2020vocabulario	NA
-6085	chic12	SMALL (SINGULAR)	pequeño, chico	sa³⁴ lij³	lij³	175	NA	NA	NA	good1978diccionario	NA
-21181	chic12	SMALL (SINGULAR)	pequeño.SG, chico.SG	li³	li³	175	NA	NA	NA	hernandez-mendoza2020vocabulario	NA
-6086	chic12	LARGE (SINGULAR)	largo	xe’e⁵³	xe’e⁵³	177	NA	NA	NA	good1978diccionario	NA
-21182	chic12	LARGE (SINGULAR)	largo.SG	ʃe³ˀe³	ʃe³ˀe³	177	NA	NA	NA	hernandez-mendoza2020vocabulario	NA
-6087	chic12	GOOD	bueno	sa’⁵a	sa’⁵a	179	1035	NA	NA	good1978diccionario	NA
-21183	chic12	GOOD	bueno	sa¹ˀ	sa¹ˀ	179	1035	NA	NA	hernandez-mendoza2020vocabulario	NA
-6088	chic12	SWEET	dulce	si³ tsi’ij³	si³-tsi’ij³	180	717	NA	NA	good1978diccionario	NA
-21184	chic12	SWEET	dulce	tsi¹ˀ	tsi¹ˀ	180	717	NA	NA	hernandez-mendoza2020vocabulario	NA
-6089	chic12	SALTY	salado	ni’⁴⁵ huaj³	ni’⁴⁵-huaj³	181	1091	NA	NA	good1978diccionario	NA
-21185	chic12	SALTY	salado	a³nĩ¹ˀ	a³nĩ¹ˀ	181	1091	NA	NA	hernandez-mendoza2020vocabulario	NA
-6090	chic12	BITTER	amargo	ai’⁴⁵	ai’⁴⁵	182	887	NA	NA	good1978diccionario	NA
-21186	chic12	BITTER	amargo	a³i¹ˀ	a³i¹ˀ	182	887	NA	NA	hernandez-mendoza2020vocabulario	NA
-6091	chic12	TASTY	sabroso, delicioso	daj³⁴	daj³⁴	183	1813	NA	NA	good1978diccionario	NA
-21187	chic12	TASTY	sabroso	da³ʰ	da³ʰ	183	1813	NA	NA	hernandez-mendoza2020vocabulario	NA
-6092	chic12	WIDE	ancho, amplio	gachra’⁴	gachra’⁴	184	1243	NA	NA	good1978diccionario	NA
-21188	chic12	WIDE	ancho	ɡa³ʈʂa¹ˀ	ɡa³ʈʂa¹ˀ	184	1243	NA	NA	hernandez-mendoza2020vocabulario	NA
-6093	chic12	NEW	nuevo	naca⁵	naca⁵	185	1231	NA	NA	good1978diccionario	NA
-21189	chic12	NEW	nuevo	na²ka¹	na²ka¹	185	1231	NA	NA	hernandez-mendoza2020vocabulario	NA
-6094	chic12	LAZY	flojo	rumi⁵³	rumi⁵³	186	1564	NA	NA	good1978diccionario	NA
-21190	chic12	LAZY	flojo	ru²mi¹	ru²mi¹	186	1564	NA	NA	hernandez-mendoza2020vocabulario	NA
-6095	chic12	JEALOUS	celoso	xico’⁴⁵	xico’⁴⁵	188	2821	NA	NA	good1978diccionario	NA
-21191	chic12	JEALOUS	celoso	ʃi²ko¹ʰ	ʃi²ko¹ʰ	188	2821	NA	NA	hernandez-mendoza2020vocabulario	NA
-6096	chic12	NEAR	cerca	nichrun’⁴⁵	nichrun’⁴⁵	189	1942	NA	NA	good1978diccionario	NA
-21192	chic12	NEAR	cerca de, está cerca	ni³ʈʂũ¹ˀ	ni³ʈʂũ¹ˀ	189	1942	NA	NA	hernandez-mendoza2020vocabulario	NA
-6097	chic12	FAR	lejos	gan’⁵	gan’⁵	190	1406	NA	NA	good1978diccionario	NA
-21193	chic12	FAR	está lejos, lejos	ɡã¹ˀ	ɡã¹ˀ	190	1406	NA	NA	hernandez-mendoza2020vocabulario	NA
-6098	chic12	HEAVY	pesado	a’i⁴⁵	a’i⁴⁵	191	1210	NA	NA	good1978diccionario	NA
-21194	chic12	HEAVY	pesado	a³ˀi¹	a³ˀi¹	191	1210	NA	NA	hernandez-mendoza2020vocabulario	NA
-6099	chic12	RAW	crudo	'ui⁵³	'ui⁵³	192	1959	NA	NA	good1978diccionario	NA
-21195	chic12	RAW	crudo	ʔwi¹	ʔwi¹	192	1959	NA	NA	hernandez-mendoza2020vocabulario	NA
-6100	chic12	SMOOTH	liso	nu’ui³	nu’ui³	193	1234	NA	NA	good1978diccionario	NA
-21196	chic12	SMOOTH	liso	nu²ʔwi³	nu²ʔwi³	193	1234	NA	NA	hernandez-mendoza2020vocabulario	NA
-6101	chic12	SLOW	despacio	nanaj⁴	nanaj⁴	194	701	NA	NA	good1978diccionario	NA
-21197	chic12	SLOW	despacio	na²ʰ	na²ʰ	194	701	NA	NA	hernandez-mendoza2020vocabulario	NA
-6102	chic12	YESTERDAY	ayer	guquï³	guquï³	195	1174	NA	NA	good1978diccionario	NA
-21198	chic12	YESTERDAY	ayer	ɡu³ki³	ɡu³ki³	195	1174	NA	NA	hernandez-mendoza2020vocabulario	NA
-6103	chic12	YEAR	año	yo’³o	yo’³o	196	1226	NA	NA	good1978diccionario	NA
-21199	chic12	YEAR	año	jo³ˀ	jo³ˀ	196	1226	NA	NA	hernandez-mendoza2020vocabulario	NA
-6104	chic12	NOW OR TODAY	ahora, hoy	yyaj⁵⁴	yyaj⁵⁴	197	2097	NA	NA	good1978diccionario	NA
-21200	chic12	NOW OR TODAY	ahora, hoy	ja¹³ʰ	ja¹³ʰ	197	2097	NA	NA	hernandez-mendoza2020vocabulario	NA
-6105	chic12	NIGHT	noche	yan’⁵anj³	yan’⁵anj³	198	1233	NA	NA	good1978diccionario	NA
-21201	chic12	NIGHT	noche	nːĩ³¹	nːĩ³¹	198	1233	NA	NA	hernandez-mendoza2020vocabulario	NA
-6106	chic12	DAY (24 HOURS)	día	güi³	güi³	200	1260	NA	NA	good1978diccionario	NA
-21202	chic12	DAY (24 HOURS)	día	gᵂi³	gᵂi³	200	1260	NA	NA	hernandez-mendoza2020vocabulario	NA
-6107	chic12	DAY (NOT NIGHT)	de día	guni’yanj⁴an	guni’yanj⁴an	201	1225	NA	NA	good1978diccionario	NA
-6108	chic12	HALF	mitad	da’aj⁵	da’aj⁵	202	816	NA	NA	good1978diccionario	NA
-21203	chic12	HALF	mitad	da²ʔa²ʰ	da²ʔa²ʰ	202	816	NA	NA	hernandez-mendoza2020vocabulario	NA
-6109	chic12	MONEY	dinero	san’anj⁴an	san’anj⁴an	203	1559	NA	NA	good1978diccionario	NA
-21204	chic12	MONEY	dinero	sa³ˀã³²ʰ	sa³ˀã³²ʰ	203	1559	NA	NA	hernandez-mendoza2020vocabulario	NA
-6110	chic12	WORKING OR WORK	trabajo	sun³⁴	sun³⁴	204	2281	NA	NA	good1978diccionario	NA
-21205	chic12	WORKING OR WORK	trabajo	sũ³²	sũ³²	204	2281	NA	NA	hernandez-mendoza2020vocabulario	NA
-6111	chic12	WORD	palabra	nuguan’⁴an	nuguan’⁴an	205	1599	NA	NA	good1978diccionario	NA
-21206	chic12	WORD	palabra	nu³gᵂã³ˀ	nu³gᵂã³ˀ	205	1599	NA	NA	hernandez-mendoza2020vocabulario	NA
-6112	chic12	FAULT	culpa	gaquïn’⁴ïn	gaquïn’⁴ïn	206	134	NA	NA	good1978diccionario	NA
-21207	chic12	FAULT	culpa	a³kɨ̃³ˀ	a³kɨ̃³ˀ	206	134	NA	NA	hernandez-mendoza2020vocabulario	NA
-6113	chic12	DREAM	sueño	nnej³e	nnej³e	207	2374	NA	NA	good1978diccionario	NA
-21208	chic12	DREAM	sueño	ne³²ʰ	ne³²ʰ	207	2374	NA	NA	hernandez-mendoza2020vocabulario	NA
-6114	chic12	WHEN	cuándo	aman⁴	aman⁴	208	1238	NA	NA	good1978diccionario	NA
-21209	chic12	WHEN	cuándo	da³mã¹	da³mã¹	208	1238	NA	NA	hernandez-mendoza2020vocabulario	NA
-6115	chic12	MUSIC	canción, música	chra’³a	chra’³a	209	642	NA	NA	good1978diccionario	NA
-21210	chic12	MUSIC	canción, música	ʈʂa³ˀ	ʈʂa³ˀ	209	642	NA	NA	hernandez-mendoza2020vocabulario	NA
+ID	DOCULECT	GLOSS	VALUE	FORM	IDlist	NOTES	LOAN	LOAN_SOURCE	SOURCE	FLOATTONE
+5906	chic12	madre	nni’²	nni’²	1	NA	NA	NA	good1978diccionario	NA
+21001	chic12	madre	nã⁴³	nã⁴³	1	NA	NA	NA	hernandez-mendoza2020vocabulario	NA
+21002	chic12	mamá!	nã³⁴²	nã³⁴²	2	NA	NA	NA	hernandez-mendoza2020vocabulario	NA
+5907	chic12	padre	dre’²	dre’²	3	NA	NA	NA	good1978diccionario	NA
+21003	chic12	padre	ta⁴³	ta⁴³	3	NA	NA	NA	hernandez-mendoza2020vocabulario	NA
+21004	chic12	papá!	ta³⁴²	ta³⁴²	4	NA	NA	NA	hernandez-mendoza2020vocabulario	NA
+5908	chic12	hijo/hija	da’ni⁴⁵	da’ni⁴⁵	5	NA	NA	NA	good1978diccionario	NA
+21005	chic12	hijo/hija	da³ˀnĩ³²	da³ˀnĩ³²	5	NA	NA	NA	hernandez-mendoza2020vocabulario	NA
+5909	chic12	hijo	da’ni⁴⁵ sna’u’⁴	da’ni⁴⁵-sna’u’⁴	6	child-male	NA	NA	good1978diccionario	NA
+21006	chic12	hijo	da³ˀnĩ³² # na³ˀu³²	da³ˀnĩ³²-na³ˀu³²	6	NA	NA	NA	hernandez-mendoza2020vocabulario	NA
+21007	chic12	hijo	da³ˀnĩ³² # ta³ˀu³²	da³ˀnĩ³²-ta³ˀu³²	6	NA	NA	NA	hernandez-mendoza2020vocabulario	NA
+5910	chic12	hija	da’ni⁴⁵ xano’⁵	da’ni⁴⁵-xano’⁵	7	child-female	NA	NA	good1978diccionario	NA
+21008	chic12	hija	da³ˀnĩ³² # ʃa³na¹	da³ˀnĩ³²-ʃa³na¹	7	child-woman	NA	NA	hernandez-mendoza2020vocabulario	NA
+5911	chic12	hermana/hermano de otro genero	xugüe’³	xugüe’³	8	NA	NA	NA	good1978diccionario	NA
+21009	chic12	hermana/hermano de otro genero	ʒu³we³ʰ	ʒu³we³ʰ	8	NA	NA	NA	hernandez-mendoza2020vocabulario	NA
+5912	chic12	hermano de hombre	dinï’²	dinï’²	9	NA	NA	NA	good1978diccionario	NA
+21010	chic12	hermano de hombre	di³nĩ³⁵	di³nĩ³⁵	9	NA	NA	NA	hernandez-mendoza2020vocabulario	NA
+5913	chic12	hermana de mujer	xugüi’³	xugüi’³	10	NA	NA	NA	good1978diccionario	NA
+21011	chic12	hermana de mujer	ʒu³wi³ʰ	ʒu³wi³ʰ	10	NA	NA	NA	hernandez-mendoza2020vocabulario	NA
+5914	chic12	tía	du’ui’²	du’ui’²	11	NA	NA	NA	good1978diccionario	NA
+21012	chic12	tía	du³ˀwi³	du³ˀwi³	11	NA	NA	NA	hernandez-mendoza2020vocabulario	NA
+5915	chic12	tío	da’nï’²	da’nï’²	12	NA	NA	NA	good1978diccionario	NA
+21013	chic12	tío	da³ˀnẽ³ˀ	da³ˀnẽ³ˀ	12	NA	NA	NA	hernandez-mendoza2020vocabulario	NA
+5916	chic12	hombre	si¹	si¹	13	NA	NA	NA	good1978diccionario	NA
+21014	chic12	hombre	si³⁵	si³⁵	13	NA	NA	NA	hernandez-mendoza2020vocabulario	NA
+5917	chic12	mujer	si³ xana⁵	si³-xana⁵	14	?-woman	NA	NA	good1978diccionario	NA
+21015	chic12	mujer	ʃa³na¹	ʃa³na¹	14	NA	NA	NA	hernandez-mendoza2020vocabulario	NA
+5918	chic12	dueño	si¹ si-’yaj³	si¹-si-’yaj³	15	man-?-?	NA	NA	good1978diccionario	NA
+21016	chic12	dueño	ri³ki³ˀ	ri³ki³ˀ	15	NA	NA	NA	hernandez-mendoza2020vocabulario	NA
+5919	chic12	sacerdote	xi’² drej³	xi’²-drej³	16	NA	NA	NA	good1978diccionario	NA
+21017	chic12	sacerdote	re³ʰ	re³ʰ	16	NA	NA	NA	hernandez-mendoza2020vocabulario	NA
+5920	chic12	sangre	tun³	tun³	17	NA	NA	NA	good1978diccionario	NA
+21018	chic12	sangre	tũ³	tũ³	17	NA	NA	NA	hernandez-mendoza2020vocabulario	NA
+5921	chic12	hueso	cu¹	cu¹	18	NA	NA	NA	good1978diccionario	NA
+21019	chic12	hueso	ku³⁵	ku³⁵	18	NA	NA	NA	hernandez-mendoza2020vocabulario	NA
+5922	chic12	pelo	huue² ahui’²	huue²-ahui’²	19	hair-head	NA	NA	good1978diccionario	NA
+21020	chic12	pelo	wːe⁴	wːe⁴	19	NA	NA	NA	hernandez-mendoza2020vocabulario	NA
+5923	chic12	cara	riun’³⁴	riun’³⁴	20	NA	NA	NA	good1978diccionario	NA
+21021	chic12	cara	ri³yã³²	ri³yã³²	20	NA	NA	NA	hernandez-mendoza2020vocabulario	NA
+5924	chic12	lengua	yyo’³⁴	yyo’³⁴	21	NA	NA	NA	good1978diccionario	NA
+21022	chic12	lengua	ja³²	ja³²	21	NA	NA	NA	hernandez-mendoza2020vocabulario	NA
+5925	chic12	diente	yun’²	yun’²	22	NA	NA	NA	good1978diccionario	NA
+21023	chic12	diente	j̃ã³ˀ	j̃ã³ˀ	22	NA	NA	NA	hernandez-mendoza2020vocabulario	NA
+5926	chic12	boca	du’o’²	du’o’²	23	NA	NA	NA	good1978diccionario	NA
+21024	chic12	boca	du³ˀwa³	du³ˀwa³	23	NA	NA	NA	hernandez-mendoza2020vocabulario	NA
+5927	chic12	oreja	raquï’²	raquï’²	24	NA	NA	NA	good1978diccionario	NA
+21025	chic12	oreja	ra³kɨ³ʰ	ra³kɨ³ʰ	24	NA	NA	NA	hernandez-mendoza2020vocabulario	NA
+21026	chic12	oreja	ra³ki³ʰ	ra³ki³ʰ	24	NA	NA	NA	hernandez-mendoza2020vocabulario	NA
+5928	chic12	nariz	daquïn’²	daquïn’²	25	NA	NA	NA	good1978diccionario	NA
+21027	chic12	nariz	da³kɨ³⁵	da³kɨ³⁵	25	NA	NA	NA	hernandez-mendoza2020vocabulario	NA
+21028	chic12	nariz	da³ki³⁵	da³ki³⁵	25	NA	NA	NA	hernandez-mendoza2020vocabulario	NA
+5929	chic12	cuello	xio’²	xio’²	26	NA	NA	NA	good1978diccionario	NA
+21029	chic12	cuello	ʒa⁴	ʒa⁴	26	NA	NA	NA	hernandez-mendoza2020vocabulario	NA
+5930	chic12	mano	ro’o’²	ro’o’²	27	NA	NA	NA	good1978diccionario	NA
+21030	chic12	mano	ra³ˀa³	ra³ˀa³	27	NA	NA	NA	hernandez-mendoza2020vocabulario	NA
+5931	chic12	uña	cu¹ sitïn’²	cu¹-sitïn’²	28	bone-?	NA	NA	good1978diccionario	NA
+21031	chic12	uña	si³.ˈtĩː⁴	si³tĩː⁴	28	stress mark not needed for analysis	NA	NA	hernandez-mendoza2020vocabulario	NA
+5932	chic12	espalda	xichro’²	xichro’²	29	NA	NA	NA	good1978diccionario	NA
+21032	chic12	espalda	ʃi³ʈʂa³⁵	ʃi³ʈʂa³⁵	29	NA	NA	NA	hernandez-mendoza2020vocabulario	NA
+5933	chic12	panza, estómago	si-co’⁴³	si-co’⁴³	30	NA	NA	NA	good1978diccionario	NA
+21033	chic12	panza, barriga	si³ko³²ʰ	si³ko³²ʰ	30	NA	NA	NA	hernandez-mendoza2020vocabulario	NA
+5934	chic12	tripa	xichri’³i	xichri’³i	31	NA	NA	NA	good1978diccionario	NA
+5935	chic12	tripa, intestino	xichi’⁴’i	xichi’⁴’i	31	NA	NA	NA	good1978diccionario	NA
+21034	chic12	tripa, tripas	ʃi³ʈʂi³ˀ	ʃi³ʈʂi³ˀ	31	NA	NA	NA	hernandez-mendoza2020vocabulario	NA
+5936	chic12	pie	daco’²	daco’²	32	NA	NA	NA	good1978diccionario	NA
+21035	chic12	pie	da³ko³⁵	da³ko³⁵	32	NA	NA	NA	hernandez-mendoza2020vocabulario	NA
+5937	chic12	enfermedad	xi’i⁵	xi’i⁵	33	NA	NA	NA	good1978diccionario	NA
+21036	chic12	enfermedad	ʃi³ˀi¹	ʃi³ˀi¹	33	NA	NA	NA	hernandez-mendoza2020vocabulario	NA
+5938	chic12	medicina, remedio	gono’o²	gono’o²	34	NA	NA	NA	good1978diccionario	NA
+21037	chic12	medicina	ɡo³no³ˀo⁴	ɡo³no³ˀo⁴	34	NA	NA	NA	hernandez-mendoza2020vocabulario	NA
+5939	chic12	hinchazón	gu’man³⁴	gu’man³⁴	35	NA	NA	NA	good1978diccionario	NA
+21038	chic12	hinchazón	ɡu³ˀmã³²	ɡu³ˀmã³²	35	NA	NA	NA	hernandez-mendoza2020vocabulario	NA
+5940	chic12	grano	nuj³	nuj³	36	NA	NA	NA	good1978diccionario	NA
+21039	chic12	grano	nːu³ʰ	nːu³ʰ	36	NA	NA	NA	hernandez-mendoza2020vocabulario	NA
+5941	chic12	pus, materia	cuej³	cuej³	37	NA	NA	NA	good1978diccionario	NA
+21040	chic12	pus, materia	kʷe³ʰ	kʷe³ʰ	37	NA	NA	NA	hernandez-mendoza2020vocabulario	NA
+5942	chic12	orina	nne³⁴ ri’i’⁴	nne³⁴-ri’i’⁴	38	water-pee?	NA	NA	good1978diccionario	NA
+21041	chic12	orina	ne³² # ri¹ˀi¹	ne³²-ri¹ˀi¹	38	NA	NA	NA	hernandez-mendoza2020vocabulario	NA
+5943	chic12	tela, ropa, trapo	atsij⁵i	atsij⁵i	39	NA	NA	NA	good1978diccionario	NA
+21042	chic12	tela, ropa	a³tsi⁴ʰ	a³tsi⁴ʰ	39	NA	NA	NA	hernandez-mendoza2020vocabulario	NA
+5944	chic12	huarache	canj³	canj³	40	NA	NA	NA	good1978diccionario	NA
+21043	chic12	huarache	kã³ʰ	kã³ʰ	40	NA	NA	NA	hernandez-mendoza2020vocabulario	NA
+5945	chic12	pantalón	xichroj³o	xichroj³o	41	NA	NA	NA	good1978diccionario	NA
+21044	chic12	pantalón	ʃi³ʈʂo³²ʰ	ʃi³ʈʂo³²ʰ	41	NA	NA	NA	hernandez-mendoza2020vocabulario	NA
+5946	chic12	huipil, traje	ri’nï²	ri’nï²	42	NA	NA	NA	good1978diccionario	NA
+21045	chic12	huipil	ru³ˀnũ⁴	ru³ˀnũ⁴	42	NA	NA	NA	hernandez-mendoza2020vocabulario	NA
+21046	chic12	huipil	ri³ˀnĩ⁴	ri³ˀnĩ⁴	42	NA	NA	NA	hernandez-mendoza2020vocabulario	NA
+5947	chic12	pueblo	xuman’⁴an	xuman’⁴an	43	NA	NA	NA	good1978diccionario	NA
+21047	chic12	pueblo	ʃu³mã³ˀ	ʃu³mã³ˀ	43	NA	NA	NA	hernandez-mendoza2020vocabulario	NA
+5948	chic12	casa	hue’³e	hue’³e	44	is this a mixtec loan?	NA	NA	good1978diccionario	NA
+21048	chic12	casa	we³ˀ	we³ˀ	44	NA	NA	NA	hernandez-mendoza2020vocabulario	NA
+5949	chic12	camino, costumbre	chrej³e	chrej³e	45	NA	NA	NA	good1978diccionario	NA
+21049	chic12	camino	ʈʂe³²ʰ	ʈʂe³²ʰ	45	NA	NA	NA	hernandez-mendoza2020vocabulario	NA
+21050	chic12	horcón	du³gᵂã³ˀã⁴ʰ	du³gᵂã³ˀã⁴ʰ	46	NA	NA	NA	hernandez-mendoza2020vocabulario	NA
+5950	chic12	petate	huue¹	huue¹	47	NA	NA	NA	good1978diccionario	NA
+21051	chic12	petate	wːe³⁵	wːe³⁵	47	NA	NA	NA	hernandez-mendoza2020vocabulario	NA
+5951	chic12	cama, lecho	nna³	nna³	48	NA	NA	NA	good1978diccionario	NA
+21052	chic12	cama, lecho	na³	na³	48	NA	NA	NA	hernandez-mendoza2020vocabulario	NA
+5952	chic12	banco, asiento	rega’³a	rega’³a	49	NA	NA	NA	good1978diccionario	NA
+21053	chic12	banquito, banco, silla	re³ɡa³ˀ	re³ɡa³ˀ	49	NA	NA	NA	hernandez-mendoza2020vocabulario	NA
+5953	chic12	animal	xucu³	xucu³	50	NA	NA	NA	good1978diccionario	NA
+21054	chic12	animal	ʃu³ku³	ʃu³ku³	50	NA	NA	NA	hernandez-mendoza2020vocabulario	NA
+5954	chic12	pájaro	xataj⁴a	xataj⁴a	51	NA	NA	NA	good1978diccionario	NA
+21055	chic12	pájaro	ʃa³ta³²ʰ	ʃa³ta³²ʰ	51	NA	NA	NA	hernandez-mendoza2020vocabulario	NA
+5955	chic12	pez, pescado	xucuaj³a	xu-cuaj³a	52	animal-fish	NA	NA	good1978diccionario	NA
+21056	chic12	pez, pescado	ʃu³kʷa³²ʰ	ʃu³kʷa³²ʰ	52	NA	NA	NA	hernandez-mendoza2020vocabulario	NA
+5956	chic12	culebra, serpiente	xucua¹	xu-cua¹	53	animal-snake	NA	NA	good1978diccionario	NA
+21057	chic12	culebra, serpiente	ʃu³kʷa³⁵	ʃu³kʷa³⁵	53	NA	NA	NA	hernandez-mendoza2020vocabulario	NA
+5957	chic12	rana	xiriquïj³	xiriquïj³	54	NA	NA	NA	good1978diccionario	NA
+21058	chic12	rana	ʃi²ri³kɨ³ʰ	ʃi²ri³kɨ³ʰ	54	NA	NA	NA	hernandez-mendoza2020vocabulario	NA
+5958	chic12	gavilán	xinun’³un	xinun’³un	55	NA	maybe	Mixtec?	good1978diccionario	NA
+21059	chic12	gavilán	ʃi³nũ³ˀ	ʃi³nũ³ˀ	55	NA	NA	NA	hernandez-mendoza2020vocabulario	NA
+5959	chic12	alacrán, escorpión	xiquïn⁴³	xiquïn⁴³	56	NA	NA	NA	good1978diccionario	NA
+21060	chic12	alacrán	ʃa³kɨ̃³²	ʃa³kɨ̃³²	56	NA	NA	NA	hernandez-mendoza2020vocabulario	NA
+5960	chic12	cucaracha	xiraquïn³	xiraquïn³	57	NA	NA	NA	good1978diccionario	NA
+21061	chic12	cucaracha	ʃi²ra³kɨ̃³	ʃi²ra³kɨ̃³	57	NA	NA	NA	hernandez-mendoza2020vocabulario	NA
+5961	chic12	chapulín	xiriqui¹	xiriqui¹	58	NA	NA	NA	good1978diccionario	NA
+21062	chic12	chapulín	nãʔnĩ³⁵	nãʔnĩ³⁵	58	NA	NA	NA	hernandez-mendoza2020vocabulario	NA
+5962	chic12	abeja	xutan³	xutan³	59	NA	NA	NA	good1978diccionario	NA
+21063	chic12	abeja	ʃu³tã³	ʃu³tã³	59	NA	NA	NA	hernandez-mendoza2020vocabulario	NA
+5963	chic12	ratón	xutu⁴ nij³	xutu⁴-nij³	60	NA	NA	NA	good1978diccionario	NA
+5964	chic12	rata	xutu⁴ güi³⁵	xutu⁴-güi³⁵	60	NA	NA	NA	good1978diccionario	NA
+21064	chic12	ratón, rata	ʃu³tu³²	ʃu³tu³²	60	NA	NA	NA	hernandez-mendoza2020vocabulario	NA
+5965	chic12	venado	xutaj³	xutaj³	61	NA	NA	NA	good1978diccionario	NA
+21065	chic12	venado	ʃu³ta³ʰ	ʃu³ta³ʰ	61	NA	NA	NA	hernandez-mendoza2020vocabulario	NA
+5966	chic12	ardilla	xuhua¹	xuhua¹	62	NA	NA	NA	good1978diccionario	NA
+21066	chic12	ardilla	ʃu³wa⁴	ʃu³wa⁴	62	NA	NA	NA	hernandez-mendoza2020vocabulario	NA
+5967	chic12	zorrillo	xan’an³	xan’an³	63	NA	NA	NA	good1978diccionario	NA
+21067	chic12	zorrillo	ʃa³ˀã³	ʃa³ˀã³	63	NA	NA	NA	hernandez-mendoza2020vocabulario	NA
+5968	chic12	tlacuache	jnaquïnj³ïn	jnaquïnj³ïn	64	NA	NA	NA	good1978diccionario	NA
+21068	chic12	tlacuache	ta⁴kɨ̃¹ʰ	ta⁴kɨ̃¹ʰ	64	NA	NA	NA	hernandez-mendoza2020vocabulario	NA
+21069	chic12	tlacuache	tna⁴kɨ̃¹ʰ	tna⁴kɨ̃¹ʰ	64	NA	NA	NA	hernandez-mendoza2020vocabulario	NA
+5969	chic12	mapache	guyuj³	guyuj³	65	NA	NA	NA	good1978diccionario	NA
+21070	chic12	mapache	ɡu³ju³ʰ	ɡu³ju³ʰ	65	NA	NA	NA	hernandez-mendoza2020vocabulario	NA
+5970	chic12	conejo	xato³	xato³	66	NA	NA	NA	good1978diccionario	NA
+21071	chic12	conejo	ʃa³to³	ʃa³to³	66	NA	NA	NA	hernandez-mendoza2020vocabulario	NA
+5971	chic12	zopilote	xachru¹	xachru¹	67	NA	NA	NA	good1978diccionario	NA
+21072	chic12	zopilote	ʃa³ʈʂu³⁵	ʃa³ʈʂu³⁵	67	NA	NA	NA	hernandez-mendoza2020vocabulario	NA
+5972	chic12	perro	xuhue³	xuhue³	68	NA	NA	NA	good1978diccionario	NA
+21073	chic12	perro	ʃu³we³	ʃu³we³	68	NA	NA	NA	hernandez-mendoza2020vocabulario	NA
+5973	chic12	gato	xilu³	xilu³	69	NA	NA	NA	good1978diccionario	NA
+21074	chic12	gato	ʃi³lu³	ʃi³lu³	69	NA	NA	NA	hernandez-mendoza2020vocabulario	NA
+5974	chic12	gallo	de’loj⁵o	de’loj⁵o	70	NA	NA	NA	good1978diccionario	NA
+21075	chic12	gallo	de⁴ʔlo¹ʰ	de⁴ʔlo¹ʰ	70	NA	NA	NA	hernandez-mendoza2020vocabulario	NA
+5975	chic12	gallina	xuche⁴	xuche⁴	71	NA	NA	NA	good1978diccionario	NA
+21076	chic12	gallina	ʃu³tʃe³²	ʃu³tʃe³²	71	NA	NA	NA	hernandez-mendoza2020vocabulario	NA
+5976	chic12	marrano, puerco, cerdo	xaca¹	xaca¹	72	NA	NA	NA	good1978diccionario	NA
+21077	chic12	marrano, puerco, cerdo	ʃa³ka³⁵	ʃa³ka³⁵	72	NA	NA	NA	hernandez-mendoza2020vocabulario	NA
+5977	chic12	caballo	guayu³	guayu³	73	NA	NA	NA	good1978diccionario	NA
+21078	chic12	caballo	gᵂa⁴ju³	gᵂa⁴ju³	73	NA	yes	Colonial Spanish	hernandez-mendoza2020vocabulario	NA
+5978	chic12	borrego, oveja	matsïj⁴ï	matsïj⁴ï	74	NA	NA	NA	good1978diccionario	NA
+21079	chic12	borrego, oveja	ma³tsi³²ʰ	ma³tsi³²ʰ	74	NA	NA	NA	hernandez-mendoza2020vocabulario	NA
+5979	chic12	hormiga	xucua³	xucua³	75	NA	NA	NA	good1978diccionario	NA
+21080	chic12	hormiga	ʃu³kʷa³	ʃu³kʷa³	75	NA	NA	NA	hernandez-mendoza2020vocabulario	NA
+5980	chic12	cuerno	si-cu¹ xuj³	si-cu¹-xuj³	76	thing?-bone-animal	NA	NA	good1978diccionario	NA
+21081	chic12	cuerno	si³ku³⁵	si³ku³⁵	76	NA	NA	NA	hernandez-mendoza2020vocabulario	NA
+5981	chic12	pluma, lana	to³⁴	to³⁴	77	NA	NA	NA	good1978diccionario	NA
+21082	chic12	pluma	to³²	to³²	77	NA	NA	NA	hernandez-mendoza2020vocabulario	NA
+5982	chic12	ala	si-gachi³ xuj³	si-gachi³-xuj³	78	thing?-?-animal	NA	NA	good1978diccionario	NA
+21083	chic12	ala	si³ɡa²tʃi³	si³ɡa²tʃi³	78	NA	NA	NA	hernandez-mendoza2020vocabulario	NA
+5983	chic12	cola	dune’³e xuj³	dune’³e-xuj³	79	?-animal	NA	NA	good1978diccionario	NA
+21084	chic12	cola	du³ne³ˀ	du³ne³ˀ	79	NA	NA	NA	hernandez-mendoza2020vocabulario	NA
+5984	chic12	árbol, palo, madera	chrun³	chrun³	80	NA	NA	NA	good1978diccionario	NA
+21085	chic12	árbol, palo	ʈʂũ³	ʈʂũ³	80	NA	NA	NA	hernandez-mendoza2020vocabulario	NA
+5985	chic12	hierba (no comestible)	coj³o	coj³o	81	NA	NA	NA	good1978diccionario	NA
+21086	chic12	hierba	ko³²ʰ	ko³²ʰ	81	NA	NA	NA	hernandez-mendoza2020vocabulario	NA
+5986	chic12	zacate	gui⁴’yo⁵	gui⁴’yo⁵	82	NA	NA	NA	good1978diccionario	NA
+5987	chic12	pasto	chrin’³in	chrin’³in	82	NA	NA	NA	good1978diccionario	NA
+21087	chic12	pasto	ʈʂĩ³ˀ	ʈʂĩ³ˀ	82	NA	NA	NA	hernandez-mendoza2020vocabulario	NA
+5988	chic12	flor	yaj³a	yaj³a	83	NA	NA	NA	good1978diccionario	NA
+21088	chic12	flor	ja³²ʰ	ja³²ʰ	83	NA	NA	NA	hernandez-mendoza2020vocabulario	NA
+5989	chic12	maguey	huue³⁴	huue³⁴	84	NA	NA	NA	good1978diccionario	NA
+21089	chic12	maguey	wːe³²	wːe³²	84	NA	NA	NA	hernandez-mendoza2020vocabulario	NA
+5990	chic12	raíz, cuerda	ya’a⁴	ya’a⁴	85	NA	NA	NA	good1978diccionario	NA
+21090	chic12	raíz	ja³ˀa³²	ja³ˀa³²	85	NA	NA	NA	hernandez-mendoza2020vocabulario	NA
+5991	chic12	espina	tanj³an	tanj³an	86	NA	NA	NA	good1978diccionario	NA
+21091	chic12	espina	tã³²ʰ	tã³²ʰ	86	NA	NA	NA	hernandez-mendoza2020vocabulario	NA
+5992	chic12	maíz	'nï¹	'nï¹	87	NA	NA	NA	good1978diccionario	NA
+21092	chic12	maíz en grano	ʔnĩ³⁵	ʔnĩ³⁵	87	NA	NA	NA	hernandez-mendoza2020vocabulario	NA
+5993	chic12	milpa	nna³⁵	nna³⁵	88	NA	NA	NA	good1978diccionario	NA
+21093	chic12	milpa	na³¹	na³¹	88	NA	NA	NA	hernandez-mendoza2020vocabulario	NA
+5994	chic12	elote	tsi³⁴	tsi³⁴	89	NA	NA	NA	good1978diccionario	NA
+21094	chic12	elote	tsi³²	tsi³²	89	NA	NA	NA	hernandez-mendoza2020vocabulario	NA
+5995	chic12	nixtamal	niyaj⁴a	niyaj⁴a	90	NA	NA	NA	good1978diccionario	NA
+21095	chic12	nixtamal	ni³ja³²ʰ	ni³ja³²ʰ	90	NA	NA	NA	hernandez-mendoza2020vocabulario	NA
+5996	chic12	masa	quïnj³ïn	quïnj³ïn	91	NA	NA	NA	good1978diccionario	NA
+21096	chic12	masa	kɨ̃³²ʰ	kɨ̃³²ʰ	91	NA	NA	NA	hernandez-mendoza2020vocabulario	NA
+5997	chic12	tortilla	chra³	chra³	92	NA	NA	NA	good1978diccionario	NA
+21097	chic12	tortilla	ʈʂa³	ʈʂa³	92	NA	NA	NA	hernandez-mendoza2020vocabulario	NA
+5998	chic12	rastrojo	gui’yo⁵³	gui’yo⁵³	93	NA	NA	NA	good1978diccionario	NA
+21098	chic12	rastrojo (de milpa, caña)	ru³mĩ³⁵	ru³mĩ³⁵	93	NA	NA	NA	hernandez-mendoza2020vocabulario	NA
+5999	chic12	surco	ducuan¹	ducuan¹	94	NA	NA	NA	good1978diccionario	NA
+21099	chic12	surco	du³kʷã³⁵	du³kʷã³⁵	94	NA	NA	NA	hernandez-mendoza2020vocabulario	NA
+6000	chic12	espiga	ca³⁴	ca³⁴	95	NA	NA	NA	good1978diccionario	NA
+21100	chic12	espiga	ka³²	ka³²	95	NA	NA	NA	hernandez-mendoza2020vocabulario	NA
+6001	chic12	frijol(es)	rune⁴	rune⁴	96	NA	NA	NA	good1978diccionario	NA
+21101	chic12	frijol(es)	ru³ne³²	ru³ne³²	96	NA	NA	NA	hernandez-mendoza2020vocabulario	NA
+6002	chic12	ejote	natan³	natan³	97	NA	NA	NA	good1978diccionario	NA
+21102	chic12	ejote	na³tã³	na³tã³	97	NA	NA	NA	hernandez-mendoza2020vocabulario	NA
+6003	chic12	chile	ya’³aj	ya’³aj	98	NA	NA	NA	good1978diccionario	NA
+21103	chic12	chile	ja³ˀa³ʰ	ja³ˀa³ʰ	98	NA	NA	NA	hernandez-mendoza2020vocabulario	NA
+6004	chic12	sal	yan³⁴	yan³⁴	99	NA	NA	NA	good1978diccionario	NA
+21104	chic12	sal	ɲã³²	ɲã³²	99	NA	NA	NA	hernandez-mendoza2020vocabulario	NA
+21105	chic12	sal	j̃ã³²	j̃ã³²	99	NA	NA	NA	hernandez-mendoza2020vocabulario	NA
+6005	chic12	calabaza	can³	can³	100	NA	NA	NA	good1978diccionario	NA
+21106	chic12	calabaza	kã³	kã³	100	NA	NA	NA	hernandez-mendoza2020vocabulario	NA
+6006	chic12	chayote (planta)	nitïn⁴	nitïn⁴	101	NA	NA	NA	good1978diccionario	NA
+21107	chic12	chayote	ni³tĩ³²	ni³tĩ³²	101	NA	NA	NA	hernandez-mendoza2020vocabulario	NA
+6007	chic12	caña	yo³⁴	yo³⁴	102	NA	NA	NA	good1978diccionario	NA
+21108	chic12	caña	jo³²	jo³²	102	NA	NA	NA	hernandez-mendoza2020vocabulario	NA
+6008	chic12	miel	gatsi’⁴ij	gatsi’⁴ij	103	NA	NA	NA	good1978diccionario	NA
+21109	chic12	miel	ɡa³tsi¹ˀ	ɡa³tsi¹ˀ	103	NA	NA	NA	hernandez-mendoza2020vocabulario	NA
+6009	chic12	grasa, manteca	nami³⁴	nami³⁴	104	NA	NA	NA	good1978diccionario	NA
+21110	chic12	grasa, manteca	nã³mĩ³²	nã³mĩ³²	104	NA	NA	NA	hernandez-mendoza2020vocabulario	NA
+6010	chic12	blanquillo, huevo	chruj³	chruj³	105	NA	NA	NA	good1978diccionario	NA
+21111	chic12	blanquillo, huevo	ʈʂu³ʰ	ʈʂu³ʰ	105	NA	NA	NA	hernandez-mendoza2020vocabulario	NA
+6011	chic12	tomate	rinïj⁴ï	rinïj⁴ï	106	NA	NA	NA	good1978diccionario	NA
+21112	chic12	tomate	ri³nĩ³²ʰ	ri³nĩ³²ʰ	106	NA	NA	NA	hernandez-mendoza2020vocabulario	NA
+6012	chic12	camote	mmi³⁴	mmi³⁴	107	NA	NA	NA	good1978diccionario	NA
+21113	chic12	camote	mːĩ³²	mːĩ³²	107	NA	NA	NA	hernandez-mendoza2020vocabulario	NA
+6013	chic12	aguacate	ru²ne³	ru²ne³	108	NA	NA	NA	good1978diccionario	NA
+21114	chic12	aguacate	ru⁴ne³	ru⁴ne³	108	NA	NA	NA	hernandez-mendoza2020vocabulario	NA
+6014	chic12	plátano	nato⁴	nato⁴	109	NA	NA	NA	good1978diccionario	NA
+21115	chic12	plátano	na³to³²	na³to³²	109	NA	NA	NA	hernandez-mendoza2020vocabulario	NA
+6015	chic12	nopal	dinï⁴	dinï⁴	110	NA	NA	NA	good1978diccionario	NA
+21116	chic12	nopal	di³nĩ³²	di³nĩ³²	110	NA	NA	NA	hernandez-mendoza2020vocabulario	NA
+6016	chic12	mamey	nato⁴ ro’oj⁵o	nato⁴ ro’oj⁵o	111	banana-red	partial	Spanish	good1978diccionario	NA
+6017	chic12	zapote	reco⁴	reco⁴	111	NA	NA	NA	good1978diccionario	NA
+21117	chic12	mamey	na³to³² # ro²ʔo¹ʰ	na³to³²-ro²ʔo¹ʰ	111	NA	NA	NA	hernandez-mendoza2020vocabulario	NA
+6018	chic12	chirimoya, anona	reco⁴ duhua³	reco⁴ duhua³	112	zapote-?	NA	NA	good1978diccionario	NA
+21118	chic12	chirimoya	re³ko³²	re³ko³²	112	NA	NA	NA	hernandez-mendoza2020vocabulario	NA
+6019	chic12	hongo	ran’an⁴³	ran’an⁴³	113	NA	NA	NA	good1978diccionario	NA
+21119	chic12	hongo	rã³ˀã³	rã³ˀã³	113	NA	NA	NA	hernandez-mendoza2020vocabulario	NA
+6020	chic12	carne	nne³⁵	nne³⁵	114	NA	NA	NA	good1978diccionario	NA
+21120	chic12	carne	ne³¹	ne³¹	114	NA	NA	NA	hernandez-mendoza2020vocabulario	NA
+6021	chic12	comal	xio⁴	xio⁴	115	NA	NA	NA	good1978diccionario	NA
+21121	chic12	comal	ʃo³²	ʃo³²	115	NA	NA	NA	hernandez-mendoza2020vocabulario	NA
+6022	chic12	olla	ruj³	ruj³	116	NA	NA	NA	good1978diccionario	NA
+21122	chic12	olla	ru³ʰ	ru³ʰ	116	NA	NA	NA	hernandez-mendoza2020vocabulario	NA
+6023	chic12	horno	guchrun'⁴	guchrun'⁴	117	NA	NA	NA	good1978diccionario	NA
+21123	chic12	horno	ɡu³ʈʂũ³⁵	ɡu³ʈʂũ³⁵	117	NA	NA	NA	hernandez-mendoza2020vocabulario	NA
+6024	chic12	lumbre, fuego	yan³'an⁴	yan³'an⁴	118	NA	NA	NA	good1978diccionario	NA
+21124	chic12	lumbre, fuego	j̃ã³ˀã³²	j̃ã³ˀã³²	118	NA	NA	NA	hernandez-mendoza2020vocabulario	NA
+6025	chic12	ceniza	yaj³	yaj³	119	NA	NA	NA	good1978diccionario	NA
+21125	chic12	ceniza	jːa³ʰ	jːa³ʰ	119	NA	NA	NA	hernandez-mendoza2020vocabulario	NA
+6026	chic12	carbón (de humo; tizne)	yo'o⁵³	yo'o⁵³	120	NA	NA	NA	good1978diccionario	NA
+6027	chic12	carbón (de leña)	ru'ui'³i	ru'ui'³i	120	NA	NA	NA	good1978diccionario	NA
+21126	chic12	carbón	ru³ˀwi³ˀ	ru³ˀwi³ˀ	120	NA	NA	NA	hernandez-mendoza2020vocabulario	NA
+6028	chic12	humo	gatse’⁴e	gatse’⁴e	121	NA	NA	NA	good1978diccionario	NA
+21127	chic12	humo	ɡa³tse¹ˀ	ɡa³tse¹ˀ	121	NA	NA	NA	hernandez-mendoza2020vocabulario	NA
+6029	chic12	basura	aco⁵³	aco⁵³	122	NA	NA	NA	good1978diccionario	NA
+21128	chic12	basura	a³ko¹	a³ko¹	122	NA	NA	NA	hernandez-mendoza2020vocabulario	NA
+6030	chic12	plato	go’o³	go’o³	123	NA	NA	NA	good1978diccionario	NA
+21129	chic12	plato	ɡo³ˀo³	ɡo³ˀo³	123	NA	NA	NA	hernandez-mendoza2020vocabulario	NA
+6031	chic12	jícara	achru’⁴u	achru’⁴u	124	NA	NA	NA	good1978diccionario	NA
+21130	chic12	jícara	a³ʈʂu³ˀ	a³ʈʂu³ˀ	124	NA	NA	NA	hernandez-mendoza2020vocabulario	NA
+6032	chic12	canasta	xuguti³	xuguti³	125	NA	NA	NA	good1978diccionario	NA
+6033	chic12	tenate	yo²	yo²	125	NA	NA	NA	good1978diccionario	NA
+21131	chic12	canasta, tenate	ʃu²ɡu⁴ti³	ʃu²ɡu⁴ti³	125	NA	NA	NA	hernandez-mendoza2020vocabulario	NA
+6034	chic12	caja, cajón	chrun¹	chrun¹	126	NA	NA	NA	good1978diccionario	NA
+21132	chic12	caja, cajón	ʈʂũ³⁵	ʈʂũ³⁵	126	NA	NA	NA	hernandez-mendoza2020vocabulario	NA
+6035	chic12	hilo	'uej³e	'uej³e	127	NA	NA	NA	good1978diccionario	NA
+21133	chic12	hilo	ʔwe³²ʰ	ʔwe³²ʰ	127	NA	NA	NA	hernandez-mendoza2020vocabulario	NA
+6036	chic12	peine	gutsï’⁴ïj	gutsï’⁴ïj	128	NA	NA	NA	good1978diccionario	NA
+21134	chic12	peine	ɡu³tsi³ˀ	ɡu³tsi³ˀ	128	NA	NA	NA	hernandez-mendoza2020vocabulario	NA
+6037	chic12	mecate, cuerda	nne’³e	nne’³e	129	NA	NA	NA	good1978diccionario	NA
+21135	chic12	mecate, cuerda	ne³ˀ	ne³ˀ	129	NA	NA	NA	hernandez-mendoza2020vocabulario	NA
+6038	chic12	agujero, hoyo	yu’uj⁴u	yu’uj⁴u	130	NA	NA	NA	good1978diccionario	NA
+21136	chic12	agujero, hoyo	ju³ˀu³²ʰ	ju³ˀu³²ʰ	130	NA	NA	NA	hernandez-mendoza2020vocabulario	NA
+6039	chic12	red, ayate	nnanj³	nnanj³	131	NA	NA	NA	good1978diccionario	NA
+6040	chic12	red	xinaj⁴	xinaj⁴	131	NA	NA	NA	good1978diccionario	NA
+21137	chic12	red	nːã³ʰ	nːã³ʰ	131	NA	NA	NA	hernandez-mendoza2020vocabulario	NA
+6041	chic12	jabón	mmi’³i	mmi’³i	132	NA	NA	NA	good1978diccionario	NA
+21138	chic12	jabón	mːĩ³ˀ	mːĩ³ˀ	132	NA	NA	NA	hernandez-mendoza2020vocabulario	NA
+6042	chic12	anillo	se’ej⁵e	se’ej⁵e	133	NA	NA	NA	good1978diccionario	NA
+21139	chic12	anillo	se³ˀe³²ʰ	se³ˀe³²ʰ	133	NA	NA	NA	hernandez-mendoza2020vocabulario	NA
+6043	chic12	luna, mes	ahui⁴	ahui⁴	134	NA	NA	NA	good1978diccionario	NA
+21140	chic12	luna	a³wi³²	a³wi³²	134	NA	NA	NA	hernandez-mendoza2020vocabulario	NA
+6044	chic12	nube	nga³	nga³	135	NA	NA	NA	good1978diccionario	NA
+21141	chic12	nube	ŋɡa³	ŋɡa³	135	NA	NA	NA	hernandez-mendoza2020vocabulario	NA
+6045	chic12	rayo	du’ui³	du’ui³	136	NA	NA	NA	good1978diccionario	NA
+6046	chic12	relámpago	ran³⁵	ran³⁵	136	NA	NA	NA	good1978diccionario	NA
+21142	chic12	rayo, relámpago	du³ˀwi³	du³ˀwi³	136	NA	NA	NA	hernandez-mendoza2020vocabulario	NA
+6047	chic12	agua	nne³⁴	nne³⁴	137	NA	NA	NA	good1978diccionario	NA
+21143	chic12	agua	ne³²	ne³²	137	NA	NA	NA	hernandez-mendoza2020vocabulario	NA
+6048	chic12	lluvia	guman⁵³	guman⁵³	138	NA	NA	NA	good1978diccionario	NA
+21144	chic12	lluvia	ɡu³mã¹	ɡu³mã¹	138	NA	NA	NA	hernandez-mendoza2020vocabulario	NA
+6049	chic12	río	quïn³	quïn³	139	NA	NA	NA	good1978diccionario	NA
+21145	chic12	río	kɨ̃³	kɨ̃³	139	NA	NA	NA	hernandez-mendoza2020vocabulario	NA
+6050	chic12	rocío	nia⁵³	nia⁵³	140	NA	NA	NA	good1978diccionario	NA
+21146	chic12	rocío	ni³ja¹	ni³ja¹	140	NA	NA	NA	hernandez-mendoza2020vocabulario	NA
+6051	chic12	cerro, monte	quïj³ï	quïj³ï	141	NA	NA	NA	good1978diccionario	NA
+21147	chic12	cerro	kɨ³²ʰ	kɨ³²ʰ	141	NA	NA	NA	hernandez-mendoza2020vocabulario	NA
+6052	chic12	llano	ta³	ta³	142	NA	NA	NA	good1978diccionario	NA
+21148	chic12	llanura, llano	ta³	ta³	142	NA	NA	NA	hernandez-mendoza2020vocabulario	NA
+6053	chic12	piedra	yëj³	yëj³	143	NA	NA	NA	good1978diccionario	NA
+21149	chic12	piedra	jːe³ʰ	jːe³ʰ	143	NA	NA	NA	hernandez-mendoza2020vocabulario	NA
+6054	chic12	algodón	gachij⁴i	gachij⁴i	144	NA	NA	NA	good1978diccionario	NA
+21150	chic12	algodón	ɡa³tʃi³²ʰ	ɡa³tʃi³²ʰ	144	NA	NA	NA	hernandez-mendoza2020vocabulario	NA
+6055	chic12	metal, hierro, botella	gaga’³a	gaga’³a	145	NA	NA	NA	good1978diccionario	NA
+21151	chic12	fierro	a³ɡa³ˀ	a³ɡa³ˀ	145	NA	NA	NA	hernandez-mendoza2020vocabulario	NA
+6056	chic12	papel	yanj³	yanj³	146	NA	NA	NA	good1978diccionario	NA
+21152	chic12	papel	ɲã³ʰ	ɲã³ʰ	146	NA	NA	NA	hernandez-mendoza2020vocabulario	NA
+21153	chic12	papel	j̃ã³ʰ	j̃ã³ʰ	146	NA	NA	NA	hernandez-mendoza2020vocabulario	NA
+6057	chic12	cal	nan’anj⁴an	nan’anj⁴an	147	NA	NA	NA	good1978diccionario	NA
+21154	chic12	cal	nã³ˀã³²ʰ	nã³ˀã³²ʰ	147	NA	NA	NA	hernandez-mendoza2020vocabulario	NA
+6058	chic12	cera	yanj³an	yanj³an	148	NA	NA	NA	good1978diccionario	NA
+21155	chic12	cera	si³kɨ³⁵	si³kɨ³⁵	148	NA	NA	NA	hernandez-mendoza2020vocabulario	NA
+6059	chic12	lodo	siguë’³ë	siguë’³ë	149	NA	NA	NA	good1978diccionario	NA
+21156	chic12	lodo	si³ɡe³ˀ	si³ɡe³ˀ	149	NA	NA	NA	hernandez-mendoza2020vocabulario	NA
+6060	chic12	espuma	atan’⁴an	atan’⁴an	150	NA	NA	NA	good1978diccionario	NA
+21157	chic12	espuma	da³tã¹ˀ	da³tã¹ˀ	150	NA	NA	NA	hernandez-mendoza2020vocabulario	NA
+6061	chic12	polvo	yaj³ yo’o¹	yaj³-yo’o¹	151	ash-earth	NA	NA	good1978diccionario	NA
+21158	chic12	polvo	ja³ʰ	ja³ʰ	151	same as ash 	NA	NA	hernandez-mendoza2020vocabulario	NA
+6062	chic12	rojo	sa³⁴ mare³	mare³	152	sa³⁴  = cosa	NA	NA	good1978diccionario	NA
+21159	chic12	rojo	mã²re³	mã²re³	152	NA	NA	NA	hernandez-mendoza2020vocabulario	NA
+6063	chic12	verde	sa³⁴ mare³⁴	mare³⁴	153	sa³⁴  = cosa	NA	NA	good1978diccionario	NA
+21160	chic12	verde	mã²re³¹	mã²re³¹	153	NA	NA	NA	hernandez-mendoza2020vocabulario	NA
+6064	chic12	amarillo	sa³⁴ mayaj⁴a	mayaj⁴a	154	sa³⁴  = cosa	NA	NA	good1978diccionario	NA
+21161	chic12	amarillo	mã²ja³²ʰ	mã²ja³²ʰ	154	NA	NA	NA	hernandez-mendoza2020vocabulario	NA
+6065	chic12	negro	sa³⁴ maru⁵³	maru⁵³	155	sa³⁴  = cosa	NA	NA	good1978diccionario	NA
+21162	chic12	negro	mã²ru³¹	mã²ru³¹	155	NA	NA	NA	hernandez-mendoza2020vocabulario	NA
+6066	chic12	blanco	gatsi⁵³	gatsi⁵³	156	NA	NA	NA	good1978diccionario	NA
+21163	chic12	blanco	ɡa²tsi¹	ɡa²tsi¹	156	NA	NA	NA	hernandez-mendoza2020vocabulario	NA
+6067	chic12	uno	'ngo⁵³	'ngo⁵³	157	NA	NA	NA	good1978diccionario	NA
+21164	chic12	uno	ˀᵑɡo¹³ʰ	ˀᵑɡo¹³ʰ	157	NA	NA	NA	hernandez-mendoza2020vocabulario	NA
+6068	chic12	dos	huui⁵³	huui⁵³	158	NA	NA	NA	good1978diccionario	NA
+21165	chic12	dos	wːi¹³	wːi¹³	158	NA	NA	NA	hernandez-mendoza2020vocabulario	NA
+6069	chic12	tres	hua’⁵nï³	hua’⁵nï³	159	NA	NA	NA	good1978diccionario	NA
+21166	chic12	tres	wa¹ˀnĩ³	wa¹ˀnĩ³	159	NA	NA	NA	hernandez-mendoza2020vocabulario	NA
+6070	chic12	cuatro	gan’⁵an³	gan’⁵an³	160	NA	NA	NA	good1978diccionario	NA
+21167	chic12	cuatro	ɡa¹ˀã³	ɡa¹ˀã³	160	NA	NA	NA	hernandez-mendoza2020vocabulario	NA
+6071	chic12	cinco	un’⁵un³	un’⁵un³	161	NA	NA	NA	good1978diccionario	NA
+21168	chic12	cinco	ũ²ʔũ³ʰ	ũ²ʔũ³ʰ	161	NA	NA	NA	hernandez-mendoza2020vocabulario	NA
+6072	chic12	seis	huatan’³	huatan’³	162	NA	NA	NA	good1978diccionario	NA
+21169	chic12	seis	wa²tã³ʰ	wa²tã³ʰ	162	NA	NA	NA	hernandez-mendoza2020vocabulario	NA
+6073	chic12	siete	chij⁴	chij⁴	163	NA	NA	NA	good1978diccionario	NA
+21170	chic12	siete	tʃi²ʰ	tʃi²ʰ	163	NA	NA	NA	hernandez-mendoza2020vocabulario	NA
+6074	chic12	ocho	tïnj⁴	tïnj⁴	164	NA	NA	NA	good1978diccionario	NA
+21171	chic12	ocho	tɨ̃³ʰ	tɨ̃³ʰ	164	NA	NA	NA	hernandez-mendoza2020vocabulario	NA
+6075	chic12	nueve	'ïn⁴	'ïn⁴	165	NA	NA	NA	good1978diccionario	NA
+21172	chic12	nueve	ʔĩ²	ʔĩ²	165	NA	NA	NA	hernandez-mendoza2020vocabulario	NA
+6076	chic12	diez	chi’⁴	chi’⁴	166	NA	NA	NA	good1978diccionario	NA
+21173	chic12	diez	tʃi²ʔ	tʃi²ʔ	166	NA	NA	NA	hernandez-mendoza2020vocabulario	NA
+6077	chic12	quince	xinun’³	xinun’³	167	NA	NA	NA	good1978diccionario	NA
+21174	chic12	quince	ʃi²nu³ˀ	ʃi²nu³ˀ	167	NA	NA	NA	hernandez-mendoza2020vocabulario	NA
+6078	chic12	veinte	co⁴	co⁴	168	NA	NA	NA	good1978diccionario	NA
+21175	chic12	veinte	ko²	ko²	168	NA	NA	NA	hernandez-mendoza2020vocabulario	NA
+6079	chic12	pobre	aco³	aco³	169	NA	NA	NA	good1978diccionario	NA
+21176	chic12	pobre	a²ko³	a²ko³	169	NA	NA	NA	hernandez-mendoza2020vocabulario	NA
+6080	chic12	rico	xiru’ue⁴ sij³	xiru’ue⁴	170	sij³ = he	NA	NA	good1978diccionario	NA
+21177	chic12	rico	ʃi²ru³ˀwe³²	ʃi²ru³ˀwe³²	170	NA	NA	NA	hernandez-mendoza2020vocabulario	NA
+6081	chic12	frío	nuhuij³	nuhuij³	171	NA	NA	NA	good1978diccionario	NA
+21178	chic12	frío	a³ko³ʰ	a³ko³ʰ	171	NA	NA	NA	hernandez-mendoza2020vocabulario	NA
+6082	chic12	caliente	a’man³	a’man³	172	NA	NA	NA	good1978diccionario	NA
+6083	chic12	caliente, caluroso	yan⁴’an³	yan⁴’an³	172	NA	NA	NA	good1978diccionario	NA
+21179	chic12	está caliente, caliente	j̃ã²ʔã³	j̃ã²ʔã³	172	NA	NA	NA	hernandez-mendoza2020vocabulario	NA
+6084	chic12	grande (de tamaño)	xa⁴chi³	xa⁴chi³	173	NA	NA	NA	good1978diccionario	NA
+21180	chic12	grande.SG	ʃa²tʃi¹ʰ	ʃa²tʃi¹ʰ	173	NA	NA	NA	hernandez-mendoza2020vocabulario	NA
+6085	chic12	pequeño, chico	sa³⁴ lij³	lij³	175	sa³⁴  = cosa	NA	NA	good1978diccionario	NA
+21181	chic12	pequeño.SG, chico.SG	li³	li³	175	NA	NA	NA	hernandez-mendoza2020vocabulario	NA
+6086	chic12	largo	xe’e⁵³	xe’e⁵³	177	NA	NA	NA	good1978diccionario	NA
+21182	chic12	largo.SG	ʃe³ˀe³	ʃe³ˀe³	177	NA	NA	NA	hernandez-mendoza2020vocabulario	NA
+6087	chic12	bueno	sa’⁵a	sa’⁵a	179	NA	NA	NA	good1978diccionario	NA
+21183	chic12	bueno	sa¹ˀ	sa¹ˀ	179	NA	NA	NA	hernandez-mendoza2020vocabulario	NA
+6088	chic12	dulce	si³ tsi’ij³	si³-tsi’ij³	180	NA	NA	NA	good1978diccionario	NA
+21184	chic12	dulce	tsi¹ˀ	tsi¹ˀ	180	NA	NA	NA	hernandez-mendoza2020vocabulario	NA
+6089	chic12	salado	ni’⁴⁵ huaj³	ni’⁴⁵-huaj³	181	NA	NA	NA	good1978diccionario	NA
+21185	chic12	salado	a³nĩ¹ˀ	a³nĩ¹ˀ	181	NA	NA	NA	hernandez-mendoza2020vocabulario	NA
+6090	chic12	amargo	ai’⁴⁵	ai’⁴⁵	182	NA	NA	NA	good1978diccionario	NA
+21186	chic12	amargo	a³i¹ˀ	a³i¹ˀ	182	NA	NA	NA	hernandez-mendoza2020vocabulario	NA
+6091	chic12	sabroso, delicioso	daj³⁴	daj³⁴	183	NA	NA	NA	good1978diccionario	NA
+21187	chic12	sabroso	da³ʰ	da³ʰ	183	NA	NA	NA	hernandez-mendoza2020vocabulario	NA
+6092	chic12	ancho, amplio	gachra’⁴	gachra’⁴	184	NA	NA	NA	good1978diccionario	NA
+21188	chic12	ancho	ɡa³ʈʂa¹ˀ	ɡa³ʈʂa¹ˀ	184	NA	NA	NA	hernandez-mendoza2020vocabulario	NA
+6093	chic12	nuevo	naca⁵	naca⁵	185	NA	NA	NA	good1978diccionario	NA
+21189	chic12	nuevo	na²ka¹	na²ka¹	185	NA	NA	NA	hernandez-mendoza2020vocabulario	NA
+6094	chic12	flojo	rumi⁵³	rumi⁵³	186	NA	NA	NA	good1978diccionario	NA
+21190	chic12	flojo	ru²mi¹	ru²mi¹	186	NA	NA	NA	hernandez-mendoza2020vocabulario	NA
+6095	chic12	celoso	xico’⁴⁵	xico’⁴⁵	188	NA	NA	NA	good1978diccionario	NA
+21191	chic12	celoso	ʃi²ko¹ʰ	ʃi²ko¹ʰ	188	NA	NA	NA	hernandez-mendoza2020vocabulario	NA
+6096	chic12	cerca	nichrun’⁴⁵	nichrun’⁴⁵	189	NA	NA	NA	good1978diccionario	NA
+21192	chic12	cerca de, está cerca	ni³ʈʂũ¹ˀ	ni³ʈʂũ¹ˀ	189	NA	NA	NA	hernandez-mendoza2020vocabulario	NA
+6097	chic12	lejos	gan’⁵	gan’⁵	190	NA	NA	NA	good1978diccionario	NA
+21193	chic12	está lejos, lejos	ɡã¹ˀ	ɡã¹ˀ	190	NA	NA	NA	hernandez-mendoza2020vocabulario	NA
+6098	chic12	pesado	a’i⁴⁵	a’i⁴⁵	191	NA	NA	NA	good1978diccionario	NA
+21194	chic12	pesado	a³ˀi¹	a³ˀi¹	191	NA	NA	NA	hernandez-mendoza2020vocabulario	NA
+6099	chic12	crudo	'ui⁵³	'ui⁵³	192	NA	NA	NA	good1978diccionario	NA
+21195	chic12	crudo	ʔwi¹	ʔwi¹	192	NA	NA	NA	hernandez-mendoza2020vocabulario	NA
+6100	chic12	liso	nu’ui³	nu’ui³	193	NA	NA	NA	good1978diccionario	NA
+21196	chic12	liso	nu²ʔwi³	nu²ʔwi³	193	NA	NA	NA	hernandez-mendoza2020vocabulario	NA
+6101	chic12	despacio	nanaj⁴	nanaj⁴	194	NA	NA	NA	good1978diccionario	NA
+21197	chic12	despacio	na²ʰ	na²ʰ	194	NA	NA	NA	hernandez-mendoza2020vocabulario	NA
+6102	chic12	ayer	guquï³	guquï³	195	NA	NA	NA	good1978diccionario	NA
+21198	chic12	ayer	ɡu³ki³	ɡu³ki³	195	NA	NA	NA	hernandez-mendoza2020vocabulario	NA
+6103	chic12	año	yo’³o	yo’³o	196	NA	NA	NA	good1978diccionario	NA
+21199	chic12	año	jo³ˀ	jo³ˀ	196	NA	NA	NA	hernandez-mendoza2020vocabulario	NA
+6104	chic12	ahora, hoy	yyaj⁵⁴	yyaj⁵⁴	197	NA	NA	NA	good1978diccionario	NA
+21200	chic12	ahora, hoy	ja¹³ʰ	ja¹³ʰ	197	NA	NA	NA	hernandez-mendoza2020vocabulario	NA
+6105	chic12	noche	yan’⁵anj³	yan’⁵anj³	198	NA	NA	NA	good1978diccionario	NA
+21201	chic12	noche	nːĩ³¹	nːĩ³¹	198	NA	NA	NA	hernandez-mendoza2020vocabulario	NA
+6106	chic12	día	güi³	güi³	200	NA	NA	NA	good1978diccionario	NA
+21202	chic12	día	gᵂi³	gᵂi³	200	NA	NA	NA	hernandez-mendoza2020vocabulario	NA
+6107	chic12	de día	guni’yanj⁴an	guni’yanj⁴an	201	NA	NA	NA	good1978diccionario	NA
+6108	chic12	mitad	da’aj⁵	da’aj⁵	202	NA	NA	NA	good1978diccionario	NA
+21203	chic12	mitad	da²ʔa²ʰ	da²ʔa²ʰ	202	NA	NA	NA	hernandez-mendoza2020vocabulario	NA
+6109	chic12	dinero	san’anj⁴an	san’anj⁴an	203	NA	NA	NA	good1978diccionario	NA
+21204	chic12	dinero	sa³ˀã³²ʰ	sa³ˀã³²ʰ	203	NA	NA	NA	hernandez-mendoza2020vocabulario	NA
+6110	chic12	trabajo	sun³⁴	sun³⁴	204	NA	NA	NA	good1978diccionario	NA
+21205	chic12	trabajo	sũ³²	sũ³²	204	NA	NA	NA	hernandez-mendoza2020vocabulario	NA
+6111	chic12	palabra	nuguan’⁴an	nuguan’⁴an	205	NA	NA	NA	good1978diccionario	NA
+21206	chic12	palabra	nu³gᵂã³ˀ	nu³gᵂã³ˀ	205	NA	NA	NA	hernandez-mendoza2020vocabulario	NA
+6112	chic12	culpa	gaquïn’⁴ïn	gaquïn’⁴ïn	206	NA	NA	NA	good1978diccionario	NA
+21207	chic12	culpa	a³kɨ̃³ˀ	a³kɨ̃³ˀ	206	NA	NA	NA	hernandez-mendoza2020vocabulario	NA
+6113	chic12	sueño	nnej³e	nnej³e	207	NA	NA	NA	good1978diccionario	NA
+21208	chic12	sueño	ne³²ʰ	ne³²ʰ	207	NA	NA	NA	hernandez-mendoza2020vocabulario	NA
+6114	chic12	cuándo	aman⁴	aman⁴	208	NA	NA	NA	good1978diccionario	NA
+21209	chic12	cuándo	da³mã¹	da³mã¹	208	NA	NA	NA	hernandez-mendoza2020vocabulario	NA
+6115	chic12	canción, música	chra’³a	chra’³a	209	NA	NA	NA	good1978diccionario	NA
+21210	chic12	canción, música	ʈʂa³ˀ	ʈʂa³ˀ	209	NA	NA	NA	hernandez-mendoza2020vocabulario	NA

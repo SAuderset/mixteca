@@ -1,206 +1,206 @@
-ID	DOCULECT	CONCEPT	GLOSS	VALUE	FORM	IDlist	CONCEPTICON_ID	LOAN	LOAN_SOURCE	SOURCE	FLOATTONE
-2966	flor12	FATHER	padre, papá	táta	táta	3	1217	NA	NA	oxnard2020	NA
-2971	flor12	CHILD (DESCENDANT)	hijo/hija	se'é	se'é	5	1801	NA	NA	oxnard2020	NA
-2976	flor12	CROSS-SEX SIBLING	hermana/hermano de otro genero	kò'vì	kò'vì	8	NA	NA	NA	oxnard2020	NA
-2980	flor12	BROTHER (OF MAN)	hermano de hombre	ñanì	ñanì	9	559	NA	NA	oxnard2020	NA
-2985	flor12	SISTER (OF WOMAN)	hermana de mujer	ku'ì	ku'ì	10	NA	NA	NA	oxnard2020	NA
-2989	flor12	AUNT	tía	xíxi	xíxi	11	1272	NA	NA	oxnard2020	NA
-2992	flor12	UNCLE	tío	xito	xito	12	1327	NA	NA	oxnard2020	NA
-2996	flor12	MAN	hombre	tsiàja	tsiàja	13	1554	NA	NA	oxnard2020	NA
-3000	flor12	WOMAN	mujer	si'i	si'i	14	962	NA	NA	oxnard2020	NA
-3004	flor12	OWNER	dueño	nà xi'ìn ña'à	nà-xi'ìn-ña'à	15	1036	NA	NA	oxnard2020	NA
-3009	flor12	PRIEST	sacerdote	sùjtù	sùjtù	16	852	NA	NA	oxnard2020	NA
-3014	flor12	BLOOD	sangre	nìjǐ	nìjǐ	17	946	NA	NA	oxnard2020	NA
-3019	flor12	BONE	hueso	ikǐ	ikǐ	18	1394	NA	NA	oxnard2020	NA
-3024	flor12	HAIR	pelo	ijxǐ	ijxǐ	19	1040	NA	NA	oxnard2020	NA
-3029	flor12	FACE	cara	nùjǔn	nùjǔn	20	1560	NA	NA	oxnard2020	NA
-3034	flor12	TONGUE	lengua	yajǎ	yajǎ	21	1205	NA	NA	oxnard2020	NA
-3037	flor12	TOOTH	diente	nù'un	nù'un	22	1380	NA	NA	oxnard2020	NA
-3042	flor12	MOUTH	boca	yu'ǔ	yu'ǔ	23	674	NA	NA	oxnard2020	NA
-3047	flor12	EAR	oreja	sò'o	sò'o	24	1247	NA	NA	oxnard2020	NA
-3052	flor12	NOSE	nariz	xijtsǐn	xijtsǐn	25	1221	NA	NA	oxnard2020	NA
-3057	flor12	NECK	cuello 	sojkǔn	sojkǔn	26	1333	NA	NA	oxnard2020	NA
-3062	flor12	HAND	mano	nta'ǎ	nta'ǎ	27	1277	NA	NA	oxnard2020	NA
-3067	flor12	FINGERNAIL	uña	chíjǐn	chíjǐn	28	1258	NA	NA	oxnard2020	NA
-3072	flor12	BACK	espalda	sàtǎ	sàtǎ	29	1291	NA	NA	oxnard2020	NA
-3077	flor12	BELLY OR STOMACH	estómago	xìtsivà	xìtsivà	30	2114	NA	NA	oxnard2020	NA
-3081	flor12	INTESTINES	tripa	xitsi	xitsi	31	1991	NA	NA	oxnard2020	NA
-3086	flor12	FOOT	pie	xa'ǎ	xa'ǎ	32	1301	NA	NA	oxnard2020	NA
-3091	flor12	DISEASE	enfermedad	kuè'è	kuè'è	33	1986	NA	NA	oxnard2020	NA
-3096	flor12	MEDICINE	medicina	tàjtǎn	tàjtǎn	34	1372	NA	NA	oxnard2020	NA
-3099	flor12	SWELLING	hinchazón	kuiñu	kuiñu	35	1903	NA	NA	oxnard2020	NA
-3104	flor12	PIMPLE	grano 	ntsi'í	ntsi'í	36	1809	NA	NA	oxnard2020	NA
-3109	flor12	PUS	pus	ndajkua	ndajkua	37	1808	NA	NA	oxnard2020	NA
-3114	flor12	URINE	orina	láxa	láxa	38	1142	NA	NA	oxnard2020	NA
-3119	flor12	CLOTHES	ropa	tsiǎà	tsiǎà	39	1895	NA	NA	oxnard2020	NA
-3124	flor12	SANDAL	huarache	ntsìxǎn	ntsìxǎn	40	NA	NA	NA	oxnard2020	NA
-3129	flor12	TROUSERS	pantalón	xajtû	xajtû	41	809	NA	NA	oxnard2020	NA
-3136	flor12	TOWN OR VILLAGE	pueblo	ñuù	ñuù	43	3609	NA	NA	oxnard2020	NA
-3141	flor12	HOUSE	casa	ve'e	ve'e	44	1252	NA	NA	oxnard2020	NA
-3146	flor12	PATH	camino	ichǐ	ichǐ	45	2252	NA	NA	oxnard2020	NA
-3151	flor12	POST	horcón	si'ìn	si'ìn	46	281	NA	NA	oxnard2020	NA
-3155	flor12	MAT	petate	yijvǐ	yijvǐ	47	195	NA	NA	oxnard2020	NA
-3160	flor12	BED	cama	xìjto	xìjto	48	1663	NA	NA	oxnard2020	NA
-3165	flor12	STOOL	silla	tsiayì	tsiayì	49	2058	NA	NA	oxnard2020	NA
-3170	flor12	ANIMAL	animal	kijtsǐ	kijtsǐ	50	619	NA	NA	oxnard2020	NA
-3175	flor12	BIRD	pájaro	saà	saà	51	937	NA	NA	oxnard2020	NA
-3180	flor12	FISH	pescado	tsiàká	tsiàká	52	227	NA	NA	oxnard2020	NA
-3185	flor12	SNAKE	culebra	kòjǒ	kòjǒ	53	730	NA	NA	oxnard2020	NA
-3190	flor12	FROG	rana	sá'và	sá'và	54	503	NA	NA	oxnard2020	NA
-3195	flor12	HAWK	gavilán	xí'ña	xí'ña	55	307	NA	NA	oxnard2020	NA
-3200	flor12	SCORPION	alacrán	so'mà	so'mà	56	1538	NA	NA	oxnard2020	NA
-3205	flor12	COCKROACH	cucaracha	tsìtse'é	tsì-tse'é	57	1575	NA	NA	oxnard2020	NA
-3209	flor12	GRASSHOPPER	chapulín	tsikâ	tsikâ	58	607	NA	NA	oxnard2020	NA
-3214	flor12	BEE	abeja	ñùjñǔ	ñùjñǔ	59	665	NA	NA	oxnard2020	NA
-3219	flor12	MUROID (MOUSE OR RAT)	ratón	tsìín	tsìín	60	2139	NA	NA	oxnard2020	NA
-3224	flor12	DEER	venado	usû	usû	61	1936	NA	NA	oxnard2020	NA
-3229	flor12	SQUIRREL	ardilla	ntsìkuáñu	ntsì-kuáñu	62	1628	NA	NA	oxnard2020	NA
-3234	flor12	SKUNK	zorrillo	léló	léló	63	NA	NA	NA	oxnard2020	NA
-3241	flor12	POSSUM	tlacuache	xàjkó	xàjkó	64	470	NA	NA	oxnard2020	NA
-3246	flor12	RACCOON	mapache	má'à	má'à	65	828	NA	NA	oxnard2020	NA
-3250	flor12	RABBIT	conejo	lèso	lèso	66	1136	NA	NA	oxnard2020	NA
-3255	flor12	VULTURE	zopilote	tsìkòxìjǐ	tsì-kòxìjǐ	67	1185	NA	NA	oxnard2020	NA
-3260	flor12	DOG	perro	tsǐnâ	tsǐnâ	68	2009	NA	NA	oxnard2020	NA
-3265	flor12	CAT	gato	chútu	chútu	69	1208	NA	NA	oxnard2020	NA
-3272	flor12	ROOSTER	gallo	chéle	chéle	70	1511	NA	NA	oxnard2020	NA
-3277	flor12	HEN	gallina	nchuxi	nchuxi	71	1514	NA	NA	oxnard2020	NA
-3281	flor12	PIG	cerdo	kinì	kinì	72	1337	NA	NA	oxnard2020	NA
-3286	flor12	HORSE	caballo	kuayì	kuayì	73	615	yes	Colonial Spanish	oxnard2020	NA
-3291	flor12	SHEEP	borrego	lanchi	lanchi	74	1331	NA	NA	oxnard2020	NA
-3296	flor12	ANT	hormiga	tsiòkó	tsiòkó	75	587	NA	NA	oxnard2020	NA
-3301	flor12	HORN (ANATOMY)	cuerno	ntsikǐ	ntsikǐ	76	1393	NA	NA	oxnard2020	NA
-3306	flor12	FEATHER	pluma	tǒmî	tǒmî	77	1201	NA	NA	oxnard2020	NA
-3311	flor12	WING	ala	nchìxǐn	nchìxǐn	78	1257	NA	NA	oxnard2020	NA
-3316	flor12	TAIL	cola	nto'ǒ	nto'ǒ	79	1220	NA	NA	oxnard2020	NA
-3321	flor12	TREE	árbol	ijtǔn	ijtǔn	80	906	NA	NA	oxnard2020	NA
-3324	flor12	HERBACEOUS PLANT	hierba	yùjkù	yùjkù	81	NA	NA	NA	oxnard2020	NA
-3329	flor12	GRASS	zacate, pasto	ijtsià	ijtsià	82	606	NA	NA	oxnard2020	NA
-3334	flor12	FLOWER	flor	ita	ita	83	239	NA	NA	oxnard2020	NA
-3339	flor12	MAGUEY	maguey	yajvǐ	yajvǐ	84	NA	NA	NA	oxnard2020	NA
-3344	flor12	MAGUEY	maguey	yàjvǐ	yàjvǐ	84	NA	NA	NA	oxnard2020	NA
-3347	flor12	ROOT	raíz	tsiò'o	tsiò'o	85	670	NA	NA	oxnard2020	NA
-3352	flor12	THORN	espina, araña	ijñǔ	ijñǔ	86	124	NA	NA	oxnard2020	NA
-3357	flor12	CORN	maíz	nùjnǐ	nùjnǐ	87	506	NA	NA	oxnard2020	NA
-3362	flor12	CORN FIELD	milpa	ujtû	ujtû	88	449	NA	NA	oxnard2020	NA
-3367	flor12	EAR OF CORN (FRESH)	elote (no crudo, para comer)	nchìxǐ	nchìxǐ	89	NA	NA	NA	oxnard2020	NA
-3372	flor12	NIXTAMAL	nixtamal	xá'a	xá'a	90	NA	NA	NA	oxnard2020	NA
-3376	flor12	CORN DOUGH	masa	ixǎn	ixǎn	91	NA	NA	NA	oxnard2020	NA
-3381	flor12	TORTILLA	tortilla	xìtǎ	xìtǎ	92	NA	NA	NA	oxnard2020	NA
-3386	flor12	CORN STALK	rastrojo	xè'è mii	xè'è mii	93	NA	NA	NA	oxnard2020	NA
-3391	flor12	FURROW	surco	chìchi	chìchi	94	1794	NA	NA	oxnard2020	NA
-3397	flor12	TASSEL	espiga de milpa	yojkǒ	yojkǒ	95	NA	NA	NA	oxnard2020	NA
-3400	flor12	BEAN	frijol	ntujchǐ	ntujchǐ	96	832	NA	NA	oxnard2020	NA
-3405	flor12	GREEN BEAN	ejote	nchǐchî	nchǐchî	97	NA	NA	NA	oxnard2020	NA
-3410	flor12	CHILI PEPPER	chile	ya'ǎ	ya'ǎ	98	919	NA	NA	oxnard2020	NA
-3415	flor12	SALT	sal	ììn	ììn	99	1274	NA	NA	oxnard2020	NA
-3420	flor12	PUMPKIN	calabaza	ijkǐn	ijkǐn	100	864	NA	NA	oxnard2020	NA
-3425	flor12	PUMPKIN	calabaza	ikǐn	ikǐn	100	864	NA	NA	oxnard2020	NA
-3430	flor12	CHAYOTE	chayote	najñǎ	najñǎ	101	NA	NA	NA	oxnard2020	NA
-3435	flor12	SUGAR CANE	caña	ntojǒ	ntojǒ	102	146	NA	NA	oxnard2020	NA
-3440	flor12	HONEY	miel	ntǔxi	ntǔxi	103	942	NA	NA	oxnard2020	NA
-3445	flor12	FAT (FROM ANIMALS)	manteca	xǎ'ân	xǎ'ân	104	1282	NA	NA	oxnard2020	NA
-3450	flor12	EGG	huevo	ntsìjvǐ	ntsìjvǐ	105	744	NA	NA	oxnard2020	NA
-3455	flor12	TOMATO	tomate	tsìnanǎ	tsì-nanǎ	106	986	NA	NA	oxnard2020	NA
-3460	flor12	SWEET POTATO	camote	ña'mì	ña'mì	107	159	NA	NA	oxnard2020	NA
-3465	flor12	AVOCADO	aguacate	chìjchí	chìjchí	108	3725	NA	NA	oxnard2020	NA
-3470	flor12	BANANA	plátano	ntsijkǎ	ntsijkǎ	109	868	NA	NA	oxnard2020	NA
-3475	flor12	PRICKLY PEAR CACTUS	nopal	vi'ntsiǎ	vi'ntsiǎ	110	NA	NA	NA	oxnard2020	NA
-3480	flor12	MAMEY	mamey	ntsiká kuá'a	ntsiká kuá'a	111	NA	NA	NA	oxnard2020	NA
-3484	flor12	MAMEY	zapote	ntsìká kuá'a	ntsìká kuá'a	111	NA	NA	NA	oxnard2020	NA
-3488	flor12	CUSTARD APPLE	chirimoya	ntojkǒ	ntojkǒ	112	NA	NA	NA	oxnard2020	NA
-3491	flor12	MUSHROOM	hongo	xi'ǐ	xi'ǐ	113	641	NA	NA	oxnard2020	NA
-3496	flor12	MEAT	carne	koñô	koñô	114	634	NA	NA	oxnard2020	NA
-3501	flor12	GRIDDLE	comal	xìjyǒ	xìjyǒ	115	NA	NA	NA	oxnard2020	NA
-3505	flor12	COOKING POT	olla	kìsi	kìsi	116	3653	NA	NA	oxnard2020	NA
-3514	flor12	FIRE	fuego, lumbre	ñu'ù	ñu'ù	118	221	NA	NA	oxnard2020	NA
-3519	flor12	ASH	ceniza	yàjǎ	yàjǎ	119	646	NA	NA	oxnard2020	NA
-3524	flor12	CHARCOAL	carbón	tòjǔn	tòjǔn	120	1188	NA	NA	oxnard2020	NA
-3529	flor12	CHARCOAL	carbón	tùjun	tùjun	120	1188	NA	NA	oxnard2020	NA
-3533	flor12	SMOKE (EXHAUST)	humo	ì'mân	ì'mân	121	778	NA	NA	oxnard2020	NA
-3538	flor12	GARBAGE	basura	xè'è	xè'è	122	909	NA	NA	oxnard2020	NA
-3543	flor12	GOURD BOWL	jícara	yaxǐn	yaxǐn	124	NA	NA	NA	oxnard2020	NA
-3548	flor12	BASKET	tenate	ntò'ǒ	ntò'ǒ	125	1539	NA	NA	oxnard2020	NA
-3553	flor12	BASKET	canasta	tìká	tìká	125	1539	NA	NA	oxnard2020	NA
-3556	flor12	THREAD	hilo	yi'và	yi'và	127	1161	NA	NA	oxnard2020	NA
-3561	flor12	COMB	peine	kuikà	kuikà	128	1475	NA	NA	oxnard2020	NA
-3566	flor12	ROPE	mecate	yo'ǒ	yo'ǒ	129	1218	NA	NA	oxnard2020	NA
-3571	flor12	HOLE	agujero	yavì	yavì	130	1667	NA	NA	oxnard2020	NA
-3579	flor12	SOAP	jabón	nǎjma	nǎjma	132	788	NA	NA	oxnard2020	NA
-3583	flor12	MOON	luna	yòjǒ	yòjǒ	134	1313	NA	NA	oxnard2020	NA
-3588	flor12	CLOUD	nube	vìjkǒ	vìjkǒ	135	1489	NA	NA	oxnard2020	NA
-3593	flor12	LIGHTNING	relámpago	kááni sàjvǐ	kááni sàjvǐ	136	1654	NA	NA	oxnard2020	NA
-3947	flor12	LIGHTNING	relámpago	taxa	taxa	136	1654	NA	NA	oxnard2020	NA
-3597	flor12	LIGHTNING	rayo	taxa	taxa	136	1654	NA	NA	oxnard2020	NA
-3602	flor12	WATER	agua	tsìkuǐi	tsì-kuǐi	137	948	NA	NA	oxnard2020	NA
-3607	flor12	RAIN (PRECIPITATION)	lluvia	sàjvǐ	sàjvǐ	138	658	NA	NA	oxnard2020	NA
-3612	flor12	RIVER	río	ìjtsia	ìjtsia	139	666	NA	NA	oxnard2020	NA
-3617	flor12	DEW	rocío, brisa	yúyú	yúyú	140	1977	NA	NA	oxnard2020	NA
-3622	flor12	MOUNTAIN OR HILL	cerro	ko'nto	ko'nto	141	2118	NA	NA	oxnard2020	NA
-3627	flor12	PLAIN	llano	yosǒ 	yosǒ 	142	652	NA	NA	oxnard2020	NA
-3632	flor12	STONE OR ROCK	piedra	yùjǔ	yùjǔ	143	2125	NA	NA	oxnard2020	NA
-3637	flor12	COTTON	algodón	kàjchǐ	kàjchǐ	144	1850	NA	NA	oxnard2020	NA
-3642	flor12	METAL	fierro	kàa	kàa	145	2244	NA	NA	oxnard2020	NA
-3647	flor12	PAPER	papel	tutu	tutu	146	648	NA	NA	oxnard2020	NA
-3651	flor12	LIME (MATERIAL)	cal	kajka	kajka	147	2540	NA	NA	oxnard2020	NA
-3656	flor12	BEESWAX	cera	ìjmǎ	ìjmǎ	148	1931	NA	NA	oxnard2020	NA
-3661	flor12	MUD	lodo	ntsia'yì	ntsia'yì	149	640	NA	NA	oxnard2020	NA
-3666	flor12	FOAM	espuma	chìkìñù	chìkìñù	150	1768	NA	NA	oxnard2020	NA
-3672	flor12	DUST	polvo	yakǎ	yakǎ	151	2	NA	NA	oxnard2020	NA
-3677	flor12	RED	rojo	kuá'a	kuá'a	152	156	NA	NA	oxnard2020	NA
-3682	flor12	GREEN	verde	kuijǐ	kuijǐ	153	1425	NA	NA	oxnard2020	NA
-3687	flor12	YELLOW	amarillo	kuáan	kuáan	154	1424	NA	NA	oxnard2020	NA
-3692	flor12	BLACK	negro	tòjǒn	tòjǒn	155	163	NA	NA	oxnard2020	NA
-3700	flor12	WHITE	blanco	yaa	yaa	156	1335	NA	NA	oxnard2020	NA
-3705	flor12	ONE	uno	iin	iin	157	1493	NA	NA	oxnard2020	NA
-3710	flor12	TWO	dos	ìvì	ìvì	158	1498	NA	NA	oxnard2020	NA
-3715	flor12	THREE	tres	ònì	ònì	159	492	NA	NA	oxnard2020	NA
-3720	flor12	FOUR	cuatro	kòjmǐ	kòjmǐ	160	1500	NA	NA	oxnard2020	NA
-3725	flor12	FIVE	cinco	ù'ùn	ù'ùn	161	493	NA	NA	oxnard2020	NA
-3730	flor12	SIX	seis	ìñù	ìñù	162	1703	NA	NA	oxnard2020	NA
-3735	flor12	SEVEN	siete	ùxà	ùxà	163	1704	NA	NA	oxnard2020	NA
-3740	flor12	EIGHT	ocho	ònà	ònà	164	1705	NA	NA	oxnard2020	NA
-3745	flor12	NINE	nueve	ììn	ììn	165	1483	NA	NA	oxnard2020	NA
-3750	flor12	TEN	diez	ùxì	ùxì	166	1515	NA	NA	oxnard2020	NA
-3755	flor12	FIFTEEN	quince	xa'ùn	xa'ùn	167	1709	NA	NA	oxnard2020	NA
-3760	flor12	TWENTY	veinte	òkò	òkò	168	1710	NA	NA	oxnard2020	NA
-3764	flor12	POOR	pobre	ntá'vi	ntá'vi	169	1674	NA	NA	oxnard2020	NA
-3769	flor12	RICH	rico 	kuíka	kuíka	170	712	NA	NA	oxnard2020	NA
-3774	flor12	COLD	frío	vìxin	vìxin	171	1287	NA	NA	oxnard2020	NA
-3779	flor12	HOT	caliente	i'ní	i'ní	172	1286	NA	NA	oxnard2020	NA
-3784	flor12	BIG (SINGULAR)	grande.SG	ka'nu	ka'nu	173	NA	NA	NA	oxnard2020	NA
-3789	flor12	SMALL (SINGULAR)	pequeño.SG	lo'o	lo'o	175	NA	NA	NA	oxnard2020	NA
-3793	flor12	SMALL (PLURAL)	pequeño.PL	lo'o	lo'o	176	NA	NA	NA	oxnard2020	NA
-3797	flor12	SMALL (PLURAL)	pequeño (en pedazos?)	litsín	litsín	176	NA	NA	NA	oxnard2020	NA
-3801	flor12	LARGE (SINGULAR)	largo.SG	kajnǐ	kajnǐ	177	NA	NA	NA	oxnard2020	NA
-3806	flor12	GOOD	bueno	và'a	và'a	179	1035	NA	NA	oxnard2020	NA
-3811	flor12	SWEET	dulce	vìxì	vìxì	180	717	NA	NA	oxnard2020	NA
-3816	flor12	SALTY	salado	ò'vâ	ò'vâ	181	1091	NA	NA	oxnard2020	NA
-3821	flor12	BITTER	amargo	òvà	òvà	182	887	NA	NA	oxnard2020	NA
-3825	flor12	BITTER	amargo	òvà	òvà	182	887	NA	NA	oxnard2020	NA
-3828	flor12	TASTY	sabroso	àsǐn	àsǐn	183	1813	NA	NA	oxnard2020	NA
-3833	flor12	WIDE	ancho	ntsíjkà	ntsíjkà	184	1243	NA	NA	oxnard2020	NA
-3837	flor12	NEW	nuevo	xàá	xàá	185	1231	NA	NA	oxnard2020	NA
-3842	flor12	LAZY	flojo	xúxan	xúxan	186	1564	NA	NA	oxnard2020	NA
-3847	flor12	UGLY	feo	kini	kini	187	1548	NA	NA	oxnard2020	NA
-3852	flor12	JEALOUS	celoso	kuíñû	kuíñû	188	2821	NA	NA	oxnard2020	NA
-3855	flor12	NEAR	cerca, próximo	yajtsin	yajtsin	189	1942	NA	NA	oxnard2020	NA
-3860	flor12	FAR	lejos	xíka	xíka	190	1406	NA	NA	oxnard2020	NA
-3863	flor12	HEAVY	pesado	vèje	vèje	191	1210	NA	NA	oxnard2020	NA
-3868	flor12	RAW	crudo	í'i	í'i	192	1959	NA	NA	oxnard2020	NA
-3872	flor12	SMOOTH	liso	kaní	kaní	193	1234	NA	NA	oxnard2020	NA
-3877	flor12	SLOW	despacio	kuée	kuée	194	701	NA	NA	oxnard2020	NA
-3882	flor12	SLOW	despacio	kuée	kuée	194	701	NA	NA	oxnard2020	NA
-3885	flor12	YESTERDAY	ayer	koni	koni	195	1174	NA	NA	oxnard2020	NA
-3890	flor12	YEAR	año	kuìyà	kuìyà	196	1226	NA	NA	oxnard2020	NA
-3895	flor12	NOW OR TODAY	ahora, hoy	vitsin	vitsin	197	2097	NA	NA	oxnard2020	NA
-3900	flor12	NIGHT	noche	ñǔu	ñǔu	198	1233	NA	NA	oxnard2020	NA
-3905	flor12	DAY (24 HOURS)	día, fecha	kìjǐ	kìjǐ	200	1260	NA	NA	oxnard2020	NA
-3910	flor12	DAY (NOT NIGHT)	de día	ntiví	ntiví	201	1225	NA	NA	oxnard2020	NA
-3915	flor12	HALF	mitad	mà'ñú	mà'ñú	202	816	NA	NA	oxnard2020	NA
-3920	flor12	MONEY	dinero	xù'ún	xù'ún	203	1559	NA	NA	oxnard2020	NA
-3925	flor12	WORKING OR WORK	trabajo	chiñu	chiñu	204	2281	NA	NA	oxnard2020	NA
-3929	flor12	WORKING OR WORK	trabajo	chuun	chuun	204	2281	NA	NA	oxnard2020	NA
-3932	flor12	WORD	palabra	tò'on	tò'on	205	1599	NA	NA	oxnard2020	NA
-3937	flor12	FAULT	culpa	kuàjchi	kuàjchi	206	134	NA	NA	oxnard2020	NA
-3942	flor12	DREAM	sueño	xànì	xànì	207	2374	NA	NA	oxnard2020	NA
-3945	flor12	MUSIC	canción	yaà	yaà	209	642	NA	NA	oxnard2020	NA
+ID	DOCULECT	GLOSS	VALUE	FORM	IDlist	NOTES	LOAN	LOAN_SOURCE	SOURCE	FLOATTONE
+2966	flor12	padre, papá	táta	táta	3	NA	NA	NA	oxnard2020	NA
+2971	flor12	hijo/hija	se'é	se'é	5	NA	NA	NA	oxnard2020	NA
+2976	flor12	hermana/hermano de otro genero	kò'vì	kò'vì	8	NA	NA	NA	oxnard2020	NA
+2980	flor12	hermano de hombre	ñanì	ñanì	9	NA	NA	NA	oxnard2020	NA
+2985	flor12	hermana de mujer	ku'ì	ku'ì	10	NA	NA	NA	oxnard2020	NA
+2989	flor12	tía	xíxi	xíxi	11	NA	NA	NA	oxnard2020	NA
+2992	flor12	tío	xito	xito	12	NA	NA	NA	oxnard2020	NA
+2996	flor12	hombre	tsiàja	tsiàja	13	NA	NA	NA	oxnard2020	NA
+3000	flor12	mujer	si'i	si'i	14	NA	NA	NA	oxnard2020	NA
+3004	flor12	dueño	nà xi'ìn ña'à	nà-xi'ìn-ña'à	15	thing-?-thing	NA	NA	oxnard2020	NA
+3009	flor12	sacerdote	sùjtù	sùjtù	16	NA	NA	NA	oxnard2020	NA
+3014	flor12	sangre	nìjǐ	nìjǐ	17	NA	NA	NA	oxnard2020	NA
+3019	flor12	hueso	ikǐ	ikǐ	18	NA	NA	NA	oxnard2020	NA
+3024	flor12	pelo	ijxǐ	ijxǐ	19	NA	NA	NA	oxnard2020	NA
+3029	flor12	cara	nùjǔn	nùjǔn	20	NA	NA	NA	oxnard2020	NA
+3034	flor12	lengua	yajǎ	yajǎ	21	NA	NA	NA	oxnard2020	NA
+3037	flor12	diente	nù'un	nù'un	22	NA	NA	NA	oxnard2020	NA
+3042	flor12	boca	yu'ǔ	yu'ǔ	23	NA	NA	NA	oxnard2020	NA
+3047	flor12	oreja	sò'o	sò'o	24	NA	NA	NA	oxnard2020	NA
+3052	flor12	nariz	xijtsǐn	xijtsǐn	25	NA	NA	NA	oxnard2020	NA
+3057	flor12	cuello 	sojkǔn	sojkǔn	26	NA	NA	NA	oxnard2020	NA
+3062	flor12	mano	nta'ǎ	nta'ǎ	27	NA	NA	NA	oxnard2020	NA
+3067	flor12	uña	chíjǐn	chíjǐn	28	NA	NA	NA	oxnard2020	NA
+3072	flor12	espalda	sàtǎ	sàtǎ	29	NA	NA	NA	oxnard2020	NA
+3077	flor12	estómago	xìtsivà	xìtsivà	30	NA	NA	NA	oxnard2020	NA
+3081	flor12	tripa	xitsi	xitsi	31	NA	NA	NA	oxnard2020	NA
+3086	flor12	pie	xa'ǎ	xa'ǎ	32	NA	NA	NA	oxnard2020	NA
+3091	flor12	enfermedad	kuè'è	kuè'è	33	NA	NA	NA	oxnard2020	NA
+3096	flor12	medicina	tàjtǎn	tàjtǎn	34	NA	NA	NA	oxnard2020	NA
+3099	flor12	hinchazón	kuiñu	kuiñu	35	NA	NA	NA	oxnard2020	NA
+3104	flor12	grano 	ntsi'í	ntsi'í	36	NA	NA	NA	oxnard2020	NA
+3109	flor12	pus	ndajkua	ndajkua	37	NA	NA	NA	oxnard2020	NA
+3114	flor12	orina	láxa	láxa	38	NA	NA	NA	oxnard2020	NA
+3119	flor12	ropa	tsiǎà	tsiǎà	39	NA	NA	NA	oxnard2020	NA
+3124	flor12	huarache	ntsìxǎn	ntsìxǎn	40	NA	NA	NA	oxnard2020	NA
+3129	flor12	pantalón	xajtû	xajtû	41	NA	NA	NA	oxnard2020	NA
+3136	flor12	pueblo	ñuù	ñuù	43	NA	NA	NA	oxnard2020	NA
+3141	flor12	casa	ve'e	ve'e	44	NA	NA	NA	oxnard2020	NA
+3146	flor12	camino	ichǐ	ichǐ	45	NA	NA	NA	oxnard2020	NA
+3151	flor12	horcón	si'ìn	si'ìn	46	NA	NA	NA	oxnard2020	NA
+3155	flor12	petate	yijvǐ	yijvǐ	47	NA	NA	NA	oxnard2020	NA
+3160	flor12	cama	xìjto	xìjto	48	NA	NA	NA	oxnard2020	NA
+3165	flor12	silla	tsiayì	tsiayì	49	NA	NA	NA	oxnard2020	NA
+3170	flor12	animal	kijtsǐ	kijtsǐ	50	NA	NA	NA	oxnard2020	NA
+3175	flor12	pájaro	saà	saà	51	NA	NA	NA	oxnard2020	NA
+3180	flor12	pescado	tsiàká	tsiàká	52	NA	NA	NA	oxnard2020	NA
+3185	flor12	culebra	kòjǒ	kòjǒ	53	NA	NA	NA	oxnard2020	NA
+3190	flor12	rana	sá'và	sá'và	54	NA	NA	NA	oxnard2020	NA
+3195	flor12	gavilán	xí'ña	xí'ña	55	NA	NA	NA	oxnard2020	NA
+3200	flor12	alacrán	so'mà	so'mà	56	NA	NA	NA	oxnard2020	NA
+3205	flor12	cucaracha	tsìtse'é	tsì-tse'é	57	animal-	NA	NA	oxnard2020	NA
+3209	flor12	chapulín	tsikâ	tsikâ	58	NA	NA	NA	oxnard2020	NA
+3214	flor12	abeja	ñùjñǔ	ñùjñǔ	59	NA	NA	NA	oxnard2020	NA
+3219	flor12	ratón	tsìín	tsìín	60	NA	NA	NA	oxnard2020	NA
+3224	flor12	venado	usû	usû	61	NA	NA	NA	oxnard2020	NA
+3229	flor12	ardilla	ntsìkuáñu	ntsì-kuáñu	62	NA	NA	NA	oxnard2020	NA
+3234	flor12	zorrillo	léló	léló	63	NA	NA	NA	oxnard2020	NA
+3241	flor12	tlacuache	xàjkó	xàjkó	64	NA	NA	NA	oxnard2020	NA
+3246	flor12	mapache	má'à	má'à	65	NA	NA	NA	oxnard2020	NA
+3250	flor12	conejo	lèso	lèso	66	NA	NA	NA	oxnard2020	NA
+3255	flor12	zopilote	tsìkòxìjǐ	tsì-kòxìjǐ	67	NA	NA	NA	oxnard2020	NA
+3260	flor12	perro	tsǐnâ	tsǐnâ	68	NA	NA	NA	oxnard2020	NA
+3265	flor12	gato	chútu	chútu	69	NA	NA	NA	oxnard2020	NA
+3272	flor12	gallo	chéle	chéle	70	NA	NA	NA	oxnard2020	NA
+3277	flor12	gallina	nchuxi	nchuxi	71	NA	NA	NA	oxnard2020	NA
+3281	flor12	cerdo	kinì	kinì	72	NA	NA	NA	oxnard2020	NA
+3286	flor12	caballo	kuayì	kuayì	73	NA	yes	Colonial Spanish	oxnard2020	NA
+3291	flor12	borrego	lanchi	lanchi	74	NA	NA	NA	oxnard2020	NA
+3296	flor12	hormiga	tsiòkó	tsiòkó	75	NA	NA	NA	oxnard2020	NA
+3301	flor12	cuerno	ntsikǐ	ntsikǐ	76	NA	NA	NA	oxnard2020	NA
+3306	flor12	pluma	tǒmî	tǒmî	77	NA	NA	NA	oxnard2020	NA
+3311	flor12	ala	nchìxǐn	nchìxǐn	78	NA	NA	NA	oxnard2020	NA
+3316	flor12	cola	nto'ǒ	nto'ǒ	79	NA	NA	NA	oxnard2020	NA
+3321	flor12	árbol	ijtǔn	ijtǔn	80	NA	NA	NA	oxnard2020	NA
+3324	flor12	hierba	yùjkù	yùjkù	81	NA	NA	NA	oxnard2020	NA
+3329	flor12	zacate, pasto	ijtsià	ijtsià	82	NA	NA	NA	oxnard2020	NA
+3334	flor12	flor	ita	ita	83	NA	NA	NA	oxnard2020	NA
+3339	flor12	maguey	yajvǐ	yajvǐ	84	NA	NA	NA	oxnard2020	NA
+3344	flor12	maguey	yàjvǐ	yàjvǐ	84	NA	NA	NA	oxnard2020	NA
+3347	flor12	raíz	tsiò'o	tsiò'o	85	NA	NA	NA	oxnard2020	NA
+3352	flor12	espina, araña	ijñǔ	ijñǔ	86	NA	NA	NA	oxnard2020	NA
+3357	flor12	maíz	nùjnǐ	nùjnǐ	87	NA	NA	NA	oxnard2020	NA
+3362	flor12	milpa	ujtû	ujtû	88	NA	NA	NA	oxnard2020	NA
+3367	flor12	elote (no crudo, para comer)	nchìxǐ	nchìxǐ	89	NA	NA	NA	oxnard2020	NA
+3372	flor12	nixtamal	xá'a	xá'a	90	NA	NA	NA	oxnard2020	NA
+3376	flor12	masa	ixǎn	ixǎn	91	NA	NA	NA	oxnard2020	NA
+3381	flor12	tortilla	xìtǎ	xìtǎ	92	NA	NA	NA	oxnard2020	NA
+3386	flor12	rastrojo	xè'è mii	xè'è mii	93	NA	NA	NA	oxnard2020	NA
+3391	flor12	surco	chìchi	chìchi	94	NA	NA	NA	oxnard2020	NA
+3397	flor12	espiga de milpa	yojkǒ	yojkǒ	95	NA	NA	NA	oxnard2020	NA
+3400	flor12	frijol	ntujchǐ	ntujchǐ	96	NA	NA	NA	oxnard2020	NA
+3405	flor12	ejote	nchǐchî	nchǐchî	97	NA	NA	NA	oxnard2020	NA
+3410	flor12	chile	ya'ǎ	ya'ǎ	98	NA	NA	NA	oxnard2020	NA
+3415	flor12	sal	ììn	ììn	99	NA	NA	NA	oxnard2020	NA
+3420	flor12	calabaza	ijkǐn	ijkǐn	100	NA	NA	NA	oxnard2020	NA
+3425	flor12	calabaza	ikǐn	ikǐn	100	NA	NA	NA	oxnard2020	NA
+3430	flor12	chayote	najñǎ	najñǎ	101	NA	NA	NA	oxnard2020	NA
+3435	flor12	caña	ntojǒ	ntojǒ	102	NA	NA	NA	oxnard2020	NA
+3440	flor12	miel	ntǔxi	ntǔxi	103	NA	NA	NA	oxnard2020	NA
+3445	flor12	manteca	xǎ'ân	xǎ'ân	104	NA	NA	NA	oxnard2020	NA
+3450	flor12	huevo	ntsìjvǐ	ntsìjvǐ	105	NA	NA	NA	oxnard2020	NA
+3455	flor12	tomate	tsìnanǎ	tsì-nanǎ	106	NA	NA	NA	oxnard2020	NA
+3460	flor12	camote	ña'mì	ña'mì	107	NA	NA	NA	oxnard2020	NA
+3465	flor12	aguacate	chìjchí	chìjchí	108	NA	NA	NA	oxnard2020	NA
+3470	flor12	plátano	ntsijkǎ	ntsijkǎ	109	NA	NA	NA	oxnard2020	NA
+3475	flor12	nopal	vi'ntsiǎ	vi'ntsiǎ	110	NA	NA	NA	oxnard2020	NA
+3480	flor12	mamey	ntsiká kuá'a	ntsiká kuá'a	111	banana red	NA	NA	oxnard2020	NA
+3484	flor12	zapote	ntsìká kuá'a	ntsìká kuá'a	111	banana red	NA	NA	oxnard2020	NA
+3488	flor12	chirimoya	ntojkǒ	ntojkǒ	112	NA	NA	NA	oxnard2020	NA
+3491	flor12	hongo	xi'ǐ	xi'ǐ	113	NA	NA	NA	oxnard2020	NA
+3496	flor12	carne	koñô	koñô	114	NA	NA	NA	oxnard2020	NA
+3501	flor12	comal	xìjyǒ	xìjyǒ	115	NA	NA	NA	oxnard2020	NA
+3505	flor12	olla	kìsi	kìsi	116	NA	NA	NA	oxnard2020	NA
+3514	flor12	fuego, lumbre	ñu'ù	ñu'ù	118	NA	NA	NA	oxnard2020	NA
+3519	flor12	ceniza	yàjǎ	yàjǎ	119	NA	NA	NA	oxnard2020	NA
+3524	flor12	carbón	tòjǔn	tòjǔn	120	NA	NA	NA	oxnard2020	NA
+3529	flor12	carbón	tùjun	tùjun	120	NA	NA	NA	oxnard2020	NA
+3533	flor12	humo	ì'mân	ì'mân	121	NA	NA	NA	oxnard2020	NA
+3538	flor12	basura	xè'è	xè'è	122	NA	NA	NA	oxnard2020	NA
+3543	flor12	jícara	yaxǐn	yaxǐn	124	NA	NA	NA	oxnard2020	NA
+3548	flor12	tenate	ntò'ǒ	ntò'ǒ	125	NA	NA	NA	oxnard2020	NA
+3553	flor12	canasta	tìká	tìká	125	NA	NA	NA	oxnard2020	NA
+3556	flor12	hilo	yi'và	yi'và	127	NA	NA	NA	oxnard2020	NA
+3561	flor12	peine	kuikà	kuikà	128	NA	NA	NA	oxnard2020	NA
+3566	flor12	mecate	yo'ǒ	yo'ǒ	129	NA	NA	NA	oxnard2020	NA
+3571	flor12	agujero	yavì	yavì	130	NA	NA	NA	oxnard2020	NA
+3579	flor12	jabón	nǎjma	nǎjma	132	NA	NA	NA	oxnard2020	NA
+3583	flor12	luna	yòjǒ	yòjǒ	134	NA	NA	NA	oxnard2020	NA
+3588	flor12	nube	vìjkǒ	vìjkǒ	135	NA	NA	NA	oxnard2020	NA
+3593	flor12	relámpago	kááni sàjvǐ	kááni sàjvǐ	136	NA	NA	NA	oxnard2020	NA
+3947	flor12	relámpago	taxa	taxa	136	NA	NA	NA	oxnard2020	NA
+3597	flor12	rayo	taxa	taxa	136	NA	NA	NA	oxnard2020	NA
+3602	flor12	agua	tsìkuǐi	tsì-kuǐi	137	NA	NA	NA	oxnard2020	NA
+3607	flor12	lluvia	sàjvǐ	sàjvǐ	138	NA	NA	NA	oxnard2020	NA
+3612	flor12	río	ìjtsia	ìjtsia	139	NA	NA	NA	oxnard2020	NA
+3617	flor12	rocío, brisa	yúyú	yúyú	140	NA	NA	NA	oxnard2020	NA
+3622	flor12	cerro	ko'nto	ko'nto	141	NA	NA	NA	oxnard2020	NA
+3627	flor12	llano	yosǒ 	yosǒ 	142	NA	NA	NA	oxnard2020	NA
+3632	flor12	piedra	yùjǔ	yùjǔ	143	NA	NA	NA	oxnard2020	NA
+3637	flor12	algodón	kàjchǐ	kàjchǐ	144	NA	NA	NA	oxnard2020	NA
+3642	flor12	fierro	kàa	kàa	145	NA	NA	NA	oxnard2020	NA
+3647	flor12	papel	tutu	tutu	146	NA	NA	NA	oxnard2020	NA
+3651	flor12	cal	kajka	kajka	147	NA	NA	NA	oxnard2020	NA
+3656	flor12	cera	ìjmǎ	ìjmǎ	148	NA	NA	NA	oxnard2020	NA
+3661	flor12	lodo	ntsia'yì	ntsia'yì	149	NA	NA	NA	oxnard2020	NA
+3666	flor12	espuma	chìkìñù	chìkìñù	150	NA	NA	NA	oxnard2020	NA
+3672	flor12	polvo	yakǎ	yakǎ	151	NA	NA	NA	oxnard2020	NA
+3677	flor12	rojo	kuá'a	kuá'a	152	NA	NA	NA	oxnard2020	NA
+3682	flor12	verde	kuijǐ	kuijǐ	153	NA	NA	NA	oxnard2020	NA
+3687	flor12	amarillo	kuáan	kuáan	154	NA	NA	NA	oxnard2020	NA
+3692	flor12	negro	tòjǒn	tòjǒn	155	NA	NA	NA	oxnard2020	NA
+3700	flor12	blanco	yaa	yaa	156	NA	NA	NA	oxnard2020	NA
+3705	flor12	uno	iin	iin	157	NA	NA	NA	oxnard2020	NA
+3710	flor12	dos	ìvì	ìvì	158	NA	NA	NA	oxnard2020	NA
+3715	flor12	tres	ònì	ònì	159	NA	NA	NA	oxnard2020	NA
+3720	flor12	cuatro	kòjmǐ	kòjmǐ	160	NA	NA	NA	oxnard2020	NA
+3725	flor12	cinco	ù'ùn	ù'ùn	161	NA	NA	NA	oxnard2020	NA
+3730	flor12	seis	ìñù	ìñù	162	NA	NA	NA	oxnard2020	NA
+3735	flor12	siete	ùxà	ùxà	163	NA	NA	NA	oxnard2020	NA
+3740	flor12	ocho	ònà	ònà	164	NA	NA	NA	oxnard2020	NA
+3745	flor12	nueve	ììn	ììn	165	NA	NA	NA	oxnard2020	NA
+3750	flor12	diez	ùxì	ùxì	166	NA	NA	NA	oxnard2020	NA
+3755	flor12	quince	xa'ùn	xa'ùn	167	NA	NA	NA	oxnard2020	NA
+3760	flor12	veinte	òkò	òkò	168	NA	NA	NA	oxnard2020	NA
+3764	flor12	pobre	ntá'vi	ntá'vi	169	NA	NA	NA	oxnard2020	NA
+3769	flor12	rico 	kuíka	kuíka	170	NA	NA	NA	oxnard2020	NA
+3774	flor12	frío	vìxin	vìxin	171	NA	NA	NA	oxnard2020	NA
+3779	flor12	caliente	i'ní	i'ní	172	NA	NA	NA	oxnard2020	NA
+3784	flor12	grande.SG	ka'nu	ka'nu	173	NA	NA	NA	oxnard2020	NA
+3789	flor12	pequeño.SG	lo'o	lo'o	175	NA	NA	NA	oxnard2020	NA
+3793	flor12	pequeño.PL	lo'o	lo'o	176	NA	NA	NA	oxnard2020	NA
+3797	flor12	pequeño (en pedazos?)	litsín	litsín	176	NA	NA	NA	oxnard2020	NA
+3801	flor12	largo.SG	kajnǐ	kajnǐ	177	NA	NA	NA	oxnard2020	NA
+3806	flor12	bueno	và'a	và'a	179	NA	NA	NA	oxnard2020	NA
+3811	flor12	dulce	vìxì	vìxì	180	NA	NA	NA	oxnard2020	NA
+3816	flor12	salado	ò'vâ	ò'vâ	181	NA	NA	NA	oxnard2020	NA
+3821	flor12	amargo	òvà	òvà	182	NA	NA	NA	oxnard2020	NA
+3825	flor12	amargo	òvà	òvà	182	NA	NA	NA	oxnard2020	NA
+3828	flor12	sabroso	àsǐn	àsǐn	183	NA	NA	NA	oxnard2020	NA
+3833	flor12	ancho	ntsíjkà	ntsíjkà	184	NA	NA	NA	oxnard2020	NA
+3837	flor12	nuevo	xàá	xàá	185	NA	NA	NA	oxnard2020	NA
+3842	flor12	flojo	xúxan	xúxan	186	NA	NA	NA	oxnard2020	NA
+3847	flor12	feo	kini	kini	187	NA	NA	NA	oxnard2020	NA
+3852	flor12	celoso	kuíñû	kuíñû	188	NA	NA	NA	oxnard2020	NA
+3855	flor12	cerca, próximo	yajtsin	yajtsin	189	NA	NA	NA	oxnard2020	NA
+3860	flor12	lejos	xíka	xíka	190	NA	NA	NA	oxnard2020	NA
+3863	flor12	pesado	vèje	vèje	191	NA	NA	NA	oxnard2020	NA
+3868	flor12	crudo	í'i	í'i	192	NA	NA	NA	oxnard2020	NA
+3872	flor12	liso	kaní	kaní	193	NA	NA	NA	oxnard2020	NA
+3877	flor12	despacio	kuée	kuée	194	NA	NA	NA	oxnard2020	NA
+3882	flor12	despacio	kuée	kuée	194	NA	NA	NA	oxnard2020	NA
+3885	flor12	ayer	koni	koni	195	NA	NA	NA	oxnard2020	NA
+3890	flor12	año	kuìyà	kuìyà	196	NA	NA	NA	oxnard2020	NA
+3895	flor12	ahora, hoy	vitsin	vitsin	197	NA	NA	NA	oxnard2020	NA
+3900	flor12	noche	ñǔu	ñǔu	198	NA	NA	NA	oxnard2020	NA
+3905	flor12	día, fecha	kìjǐ	kìjǐ	200	NA	NA	NA	oxnard2020	NA
+3910	flor12	de día	ntiví	ntiví	201	NA	NA	NA	oxnard2020	NA
+3915	flor12	mitad	mà'ñú	mà'ñú	202	NA	NA	NA	oxnard2020	NA
+3920	flor12	dinero	xù'ún	xù'ún	203	NA	NA	NA	oxnard2020	NA
+3925	flor12	trabajo	chiñu	chiñu	204	NA	NA	NA	oxnard2020	NA
+3929	flor12	trabajo	chuun	chuun	204	NA	NA	NA	oxnard2020	NA
+3932	flor12	palabra	tò'on	tò'on	205	NA	NA	NA	oxnard2020	NA
+3937	flor12	culpa	kuàjchi	kuàjchi	206	NA	NA	NA	oxnard2020	NA
+3942	flor12	sueño	xànì	xànì	207	NA	NA	NA	oxnard2020	NA
+3945	flor12	canción	yaà	yaà	209	NA	NA	NA	oxnard2020	NA

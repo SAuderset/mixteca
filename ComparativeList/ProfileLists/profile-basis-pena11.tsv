@@ -1,236 +1,236 @@
-ID	DOCULECT	CONCEPT	GLOSS	VALUE	FORM	IDlist	CONCEPTICON_ID	LOAN	LOAN_SOURCE	SOURCE	FLOATTONE
-4846	pena11	MOTHER	madre	si’i	si’i	1	1216	NA	NA	hollenbach2017diccionario	[A]
-4847	pena11	MOTHER	madre	náà	náà	1	1216	NA	NA	hollenbach2017diccionario	[BA]
-4848	pena11	MOTHER VOCATIVE	mamá!	náà	náà	2	NA	NA	NA	hollenbach2017diccionario	[BA]
-4849	pena11	FATHER	padre	táà	táà	3	1217	NA	NA	hollenbach2017diccionario	[BA]
-4850	pena11	FATHER	padre	yuva	yuva	3	1217	NA	NA	hollenbach2017diccionario	[A]
-4851	pena11	FATHER VOCATIVE	papá!	táà	táà	4	NA	NA	NA	hollenbach2017diccionario	[BA]
-4852	pena11	CHILD (DESCENDANT)	hijo/hija	sà’ya	sà’ya	5	1801	NA	NA	hollenbach2017diccionario	
-4853	pena11	SON	hijo	sàyìi	sà-yìi	6	1620	NA	NA	hollenbach2017diccionario	[A]
-4854	pena11	DAUGHTER	hija	sàsí’í	sà-sí’í	7	1357	NA	NA	hollenbach2017diccionario	
-4855	pena11	CROSS-SEX SIBLING	hermana/hermano de otro genero	kù’va	kù’va	8	NA	NA	NA	hollenbach2017diccionario	
-4856	pena11	CROSS-SEX SIBLING	hermana/hermano de otro genero	kù’a	kù’a	8	NA	NA	NA	hollenbach2017diccionario	
-4857	pena11	BROTHER (OF MAN)	hermano de hombre	ñanì	ñanì	9	559	NA	NA	hollenbach2017diccionario	
-4858	pena11	SISTER (OF WOMAN)	hermana de mujer	ku’ù	ku’ù	10	NA	NA	NA	hollenbach2017diccionario	{BA}
-4859	pena11	AUNT	tía	xixì	xixì	11	1272	NA	NA	hollenbach2017diccionario	
-4860	pena11	UNCLE	tío	xitò	xitò	12	1327	NA	NA	hollenbach2017diccionario	
-4861	pena11	MAN	hombre	tèe	tèe	13	1554	NA	NA	hollenbach2017diccionario	
-4862	pena11	WOMAN	mujer	ña’a	ña’a	14	962	NA	NA	hollenbach2017diccionario	
-4863	pena11	OWNER	dueño	ito’ò	ito’ò	15	1036	NA	NA	hollenbach2017diccionario	[BA]
-4864	pena11	OWNER	dueño	jito’ò	ji-to’ò	15	1036	NA	NA	hollenbach2017diccionario	[BA]
-4865	pena11	PRIEST	sacerdote	sutù	sutù	16	852	NA	NA	hollenbach2017diccionario	[BA]
-4866	pena11	BLOOD	sangre	niñì	niñì	17	946	NA	NA	hollenbach2017diccionario	[BA]
-4867	pena11	BONE	hueso	yiki	yiki	18	1394	NA	NA	hollenbach2017diccionario	[A]
-4868	pena11	HAIR	cabello	ixi	ixi	19	1040	NA	NA	hollenbach2017diccionario	[A]
-4869	pena11	FACE	cara	nuù	nuù	20	1560	NA	NA	hollenbach2017diccionario	[BA]
-4870	pena11	TONGUE	lengua	yáà	yáà	21	1205	NA	NA	hollenbach2017diccionario	[BA]
-4871	pena11	TOOTH	diente	nù’u	nù’u	22	1380	NA	NA	hollenbach2017diccionario	
-4872	pena11	MOUTH	boca	yu’u	yu’u	23	674	NA	NA	hollenbach2017diccionario	[M]
-4873	pena11	EAR	oreja	sò’o	sò’o	24	1247	NA	NA	hollenbach2017diccionario	{A}
-4874	pena11	NOSE	nariz	xitnì	xitnì	25	1221	NA	NA	hollenbach2017diccionario	[BA]
-4875	pena11	NECK	cuello	sukùn	sukùn	26	1333	NA	NA	hollenbach2017diccionario	[BA]
-4876	pena11	HAND	mano	nda’a	nda’a	27	1277	NA	NA	hollenbach2017diccionario	[A]
-4877	pena11	FINGERNAIL	uña	tníì	tníì	28	1258	NA	NA	hollenbach2017diccionario	[BA]
-4878	pena11	BACK	espalda	yatà	yatà	29	1291	NA	NA	hollenbach2017diccionario	[BA]
-4879	pena11	BELLY OR STOMACH	panza, estómago	chìi	chìi	30	2114	NA	NA	hollenbach2017diccionario	
-4880	pena11	INTESTINES	tripas	jitì	jitì	31	1991	NA	NA	hollenbach2017diccionario	{BA}
-4881	pena11	FOOT	pie	ja’à	ja’à	32	1301	NA	NA	hollenbach2017diccionario	[BA]
-4882	pena11	DISEASE	enfermedad	kue’è	kue’è	33	1986	NA	NA	hollenbach2017diccionario	{BA}
-4883	pena11	MEDICINE	medicina	jàtàtná	jà-tàtná	34	1372	NA	NA	hollenbach2017diccionario	[B]
-4884	pena11	MEDICINE	medicina	tatnà	tatnà	34	1372	NA	NA	hollenbach2017diccionario	[BA]
-4885	pena11	SWELLING	hinchazón	kueñu	kueñu	35	1903	NA	NA	hollenbach2017diccionario	
-4886	pena11	PIMPLE	grano, roncha	ndì’yi	ndì’yi	36	1809	NA	NA	hollenbach2017diccionario	
-4887	pena11	PUS	pus	ndakua	ndakua	37	1808	NA	NA	hollenbach2017diccionario	[A]
-4888	pena11	URINE	orina	ndèxèxé	ndèxèxé	38	1142	NA	NA	hollenbach2017diccionario	[B]
-4889	pena11	CLOTHES	tela, ropa	sa’ma	sa’ma	39	1895	NA	NA	hollenbach2017diccionario	[A]
-4890	pena11	SANDAL	huarache	ndijàn	ndijàn	40	NA	NA	NA	hollenbach2017diccionario	{BA}
-4891	pena11	TROUSERS	pantalón	lóò	lóò	41	809	NA	NA	hollenbach2017diccionario	
-4892	pena11	BLOUSE (WOVEN)	huipil	xikìn	xikìn	42	NA	NA	NA	hollenbach2017diccionario	[BA]
-4893	pena11	TOWN OR VILLAGE	pueblo	ñuù	ñuù	43	3609	NA	NA	hollenbach2017diccionario	
-4894	pena11	HOUSE	casa	ve’e	ve’e	44	1252	NA	NA	hollenbach2017diccionario	
-4895	pena11	PATH	camino	ichi	ichi	45	2252	NA	NA	hollenbach2017diccionario	[A]
-4896	pena11	POST	horcón	si’ìn	si’ìn	46	281	NA	NA	hollenbach2017diccionario	
-4897	pena11	MAT	petate	yuu	yuu	47	195	NA	NA	hollenbach2017diccionario	[A]
-4898	pena11	BED	cama, lecho	jìto	jìto	48	1663	NA	NA	hollenbach2017diccionario	
-4899	pena11	STOOL	banquito	teyù	teyù	49	2058	NA	NA	hollenbach2017diccionario	{BA}
-4900	pena11	ANIMAL	animal	kiti	kiti	50	619	NA	NA	hollenbach2017diccionario	[A]
-4901	pena11	BIRD	pájaro	lásaà	lá-saà	51	937	NA	NA	hollenbach2017diccionario	
-4902	pena11	FISH	pez, pescado	tiaka	tiaka	52	227	NA	NA	hollenbach2017diccionario	[A]
-4903	pena11	SNAKE	culebra, serpiente	koò	koò	53	730	NA	NA	hollenbach2017diccionario	[BA]
-4904	pena11	FROG	rana	sa’và	sa’và	54	503	NA	NA	hollenbach2017diccionario	{BA}
-4905	pena11	HAWK	gavilán	xí’ñá	xí’ñá	55	307	NA	NA	hollenbach2017diccionario	[A]
-4906	pena11	SCORPION	alacrán	tìsu’mà	tì-su’mà	56	1538	NA	NA	hollenbach2017diccionario	[BA]
-4907	pena11	COCKROACH	cucaracha	laté’yá	la-té’yá	57	1575	NA	NA	hollenbach2017diccionario	[A]
-4908	pena11	GRASSHOPPER	chapulín	tìka	tìka	58	607	NA	NA	hollenbach2017diccionario	{A}
-4909	pena11	BEE	abeja	ñuñù	ñuñù	59	665	NA	NA	hollenbach2017diccionario	[BA]
-4910	pena11	MUROID (MOUSE OR RAT)	ratón, rata	tnìñi	tnìñi	60	2139	NA	NA	hollenbach2017diccionario	[A]
-4911	pena11	DEER	venado	isù	isù	61	1936	NA	NA	hollenbach2017diccionario	{BA}
-4912	pena11	SQUIRREL	ardilla	kuèñu	kuèñu	62	1628	NA	NA	hollenbach2017diccionario	
-4913	pena11	SKUNK	zorrillo	láñi’ì	lá-ñi’ì	63	NA	NA	NA	hollenbach2017diccionario	{BA}
-4914	pena11	POSSUM	tlacuache, zarigüeya	jákó	jákó	64	470	NA	NA	hollenbach2017diccionario	[A]
-4915	pena11	RACCOON	mapache	ma’à	ma’à	65	828	NA	NA	hollenbach2017diccionario	
-4916	pena11	RABBIT	conejo	isò	isò	66	1136	NA	NA	hollenbach2017diccionario	
-4917	pena11	VULTURE	zopilote, águila	tiókó	tiókó	67	1185	NA	NA	hollenbach2017diccionario	[A]
-4918	pena11	DOG	perro	lá-inà	lá-inà	68	2009	NA	NA	hollenbach2017diccionario	
-4919	pena11	CAT	gato	vílú	vílú	69	1208	NA	NA	hollenbach2017diccionario	[A]
-4920	pena11	ROOSTER	gallo	lí’li	lí’li	70	1511	NA	NA	hollenbach2017diccionario	
-4921	pena11	ROOSTER	gallo	lí’i	lí’i	70	1511	NA	NA	hollenbach2017diccionario	
-4922	pena11	HEN	gallina	tíla	tíla	71	1514	NA	NA	hollenbach2017diccionario	
-4923	pena11	PIG	marrano, puerco	chíkinì	chí-kinì	72	1337	NA	NA	hollenbach2017diccionario	
-4924	pena11	PIG	marrano, puerco	kuchi	kuchi	72	1337	yes	Spanish	hollenbach2017diccionario	
-4925	pena11	PIG	marrano, puerco	kinì	kinì	72	1337	NA	NA	hollenbach2017diccionario	
-4926	pena11	HORSE	caballo	kueyú	kueyú	73	615	yes	Colonial Spanish	hollenbach2017diccionario	[B]
-4927	pena11	SHEEP	borrego, oveja	ndíkachi	ndí-kachi	74	1331	NA	NA	hollenbach2017diccionario	
-4928	pena11	ANT	hormiga	tioko	tioko	75	587	NA	NA	hollenbach2017diccionario	[A]
-4929	pena11	HORN (ANATOMY)	cuerno	ndiki	ndiki	76	1393	NA	NA	hollenbach2017diccionario	[A]
-4930	pena11	FEATHER	pluma	tnùmi	tnùmi	77	1201	NA	NA	hollenbach2017diccionario	
-4931	pena11	WING	ala	ndijìn	ndijìn	78	1257	NA	NA	hollenbach2017diccionario	[BA]
-4932	pena11	TAIL	cola	su’mà	su’mà	79	1220	NA	NA	hollenbach2017diccionario	[BA]
-4933	pena11	TREE	árbol, palo	yutnu	yutnu	80	906	NA	NA	hollenbach2017diccionario	[A]
-4934	pena11	HERBACEOUS PLANT	hierba sin uso, maleza	yì’i	yì’i	81	NA	NA	NA	hollenbach2017diccionario	{A}
-4935	pena11	HERBACEOUS PLANT	hierba	yukù	yukù	81	NA	NA	NA	hollenbach2017diccionario	{BA}
-4936	pena11	GRASS	zacate, pasto	itè	itè	82	606	NA	NA	hollenbach2017diccionario	
-4937	pena11	FLOWER	flor	ità	ità	83	239	NA	NA	hollenbach2017diccionario	
-4938	pena11	MAGUEY	maguey	yavi	yavi	84	NA	NA	NA	hollenbach2017diccionario	[A]
-4939	pena11	ROOT	raíz	yo’o	yo’o	85	670	NA	NA	hollenbach2017diccionario	[A]
-4940	pena11	THORN	espina	iñu	iñu	86	124	NA	NA	hollenbach2017diccionario	[A]
-4941	pena11	CORN	maíz en grano	nunì	nunì	87	506	NA	NA	hollenbach2017diccionario	[BA]
-4942	pena11	CORN FIELD	milpa, terreno	itù	itù	88	449	NA	NA	hollenbach2017diccionario	
-4943	pena11	EAR OF CORN (FRESH)	elote	ndixin	ndixin	89	NA	NA	NA	hollenbach2017diccionario	[A]
-4944	pena11	NIXTAMAL	nixtamal	ndàku	ndàku	90	NA	NA	NA	hollenbach2017diccionario	[B]
-4945	pena11	CORN DOUGH	masa	ñujan	ñujan	91	NA	NA	NA	hollenbach2017diccionario	[A]
-4946	pena11	TORTILLA	tortilla	staà	staà	92	NA	NA	NA	hollenbach2017diccionario	[BA]
-4947	pena11	TORTILLA	tortilla	xità	xità	92	NA	NA	NA	hollenbach2017diccionario	[BA]
-4948	pena11	CORN STALK	rastrojo (el tallo entero)	itè nìi	itè	93	NA	NA	NA	hollenbach2017diccionario	[A]
-4949	pena11	FURROW	surco	yukùn	yukùn	94	1794	NA	NA	hollenbach2017diccionario	{BA}
-4950	pena11	TASSEL	espiga	yoko	yoko	95	NA	NA	NA	hollenbach2017diccionario	[A]
-4951	pena11	BEAN	frijol(es)	nduchi	nduchi	96	832	NA	NA	hollenbach2017diccionario	[A]
-4952	pena11	GREEN BEAN	ejote	ndìchi	ndìchi	97	NA	NA	NA	hollenbach2017diccionario	
-4953	pena11	CHILI PEPPER	chile	ya’a	ya’a	98	919	NA	NA	hollenbach2017diccionario	[A]
-4954	pena11	SALT	sal	ñiì	ñiì	99	1274	NA	NA	hollenbach2017diccionario	[BA]
-4955	pena11	PUMPKIN	calabaza	yikin	yikin	100	864	NA	NA	hollenbach2017diccionario	[A]
-4956	pena11	CHAYOTE	chayote	naña	naña	101	NA	NA	NA	hollenbach2017diccionario	[A]
-4957	pena11	SUGAR CANE	caña	ndoò	ndoò	102	146	NA	NA	hollenbach2017diccionario	[BA]
-4958	pena11	HONEY	miel	ndùxi	ndùxi	103	942	NA	NA	hollenbach2017diccionario	
-4959	pena11	FAT (FROM ANIMALS)	grasa, manteca	xè’en	xè’en	104	1282	NA	NA	hollenbach2017diccionario	
-4960	pena11	EGG	blanquillo, huevo	ndivì	ndivì	105	744	NA	NA	hollenbach2017diccionario	[BA]
-4961	pena11	TOMATO	tomate, jitomate	tìnanà	tì-nanà	106	986	NA	NA	hollenbach2017diccionario	[BA]
-4962	pena11	SWEET POTATO	camote, batata	ña’mì	ña’mì	107	159	NA	NA	hollenbach2017diccionario	{BA}
-4963	pena11	AVOCADO	aguacate	tìchi	tìchi	108	3725	NA	NA	hollenbach2017diccionario	{A}
-4964	pena11	BANANA	plátano	ndika	ndika	109	868	NA	NA	hollenbach2017diccionario	[A]
-4965	pena11	PRICKLY PEAR CACTUS	nopal	vi’ndè	vi’ndè	110	NA	NA	NA	hollenbach2017diccionario	{BA}
-4966	pena11	MAMEY	mamey	ndika kua’á	ndika-kua’á	111	NA	NA	NA	hollenbach2017diccionario	[A]
-4967	pena11	MAMEY	zapote, anona	ndoko	ndoko	111	NA	NA	NA	hollenbach2017diccionario	[A]
-4968	pena11	MUSHROOM	hongo	ji’ì	ji’ì	113	641	NA	NA	hollenbach2017diccionario	{BA}
-4969	pena11	MEAT	carne	kùñu	kùñu	114	634	NA	NA	hollenbach2017diccionario	
-4970	pena11	GRIDDLE	comal	jiyò	jiyò	115	NA	NA	NA	hollenbach2017diccionario	{BA}
-4971	pena11	COOKING POT	olla	kìsi	kìsi	116	3653	NA	NA	hollenbach2017diccionario	
-4972	pena11	OVEN	horno	jitnù	jitnù	117	1143	NA	NA	hollenbach2017diccionario	{BA}
-4973	pena11	FIRE	lumbre	ñu’ù	ñu’ù	118	221	NA	NA	hollenbach2017diccionario	{BA}
-4974	pena11	ASH	ceniza	yaà	yaà	119	646	NA	NA	hollenbach2017diccionario	{BA}
-4975	pena11	CHARCOAL	carbón	tìkàyi	tì-kàyi	120	1188	NA	NA	hollenbach2017diccionario	[A]
-4976	pena11	SMOKE (EXHAUST)	humo	ñu’mà	ñu’mà	121	778	NA	NA	hollenbach2017diccionario	{BA}
-4977	pena11	GARBAGE	basura	mì’i	mì’i	122	909	NA	NA	hollenbach2017diccionario	{A}
-4978	pena11	PLATE	plato	ko’ò	ko’ò	123	480	NA	NA	hollenbach2017diccionario	[BA]
-4979	pena11	GOURD BOWL	jícara, bandeja	ñajin	ñajin	124	NA	NA	NA	hollenbach2017diccionario	[A]
-4980	pena11	GOURD BOWL	jícara ovalada	tìkàsi	tì-kàsi	124	NA	NA	NA	hollenbach2017diccionario	[A]
-4981	pena11	BASKET	canasta	chìka	chìka	125	1539	NA	NA	hollenbach2017diccionario	[A]
-4982	pena11	BASKET	canasta	chìká	chìká	125	1539	NA	NA	hollenbach2017diccionario	[B]
-4983	pena11	BASKET	tenate	ndo’ò	ndo’ò	125	1539	NA	NA	hollenbach2017diccionario	[A]
-4984	pena11	BOX OR CHEST	cajón, baúl	jatnù	jatnù	126	3150	NA	NA	hollenbach2017diccionario	{BA}
-4985	pena11	THREAD	hilo, estambre	yu’và	yu’và	127	1161	NA	NA	hollenbach2017diccionario	[BA]
-4986	pena11	COMB	peine	kukà	kukà	128	1475	NA	NA	hollenbach2017diccionario	{BA}
-4987	pena11	ROPE	mecate, cuerda	yo’o	yo’o	129	1218	NA	NA	hollenbach2017diccionario	[A]
-4988	pena11	HOLE	agujero, hoyo	yavì	yavì	130	1667	NA	NA	hollenbach2017diccionario	{BA}
-4989	pena11	NET	red, bozal	ñuñu	ñuñu	131	2963	NA	NA	hollenbach2017diccionario	[A]
-4990	pena11	SOAP	jabón	namà	namà	132	788	NA	NA	hollenbach2017diccionario	{BA}
-4991	pena11	RING	anillo	xe’e	xe’e	133	1374	NA	NA	hollenbach2017diccionario	[A]
-4992	pena11	MOON	luna	yoò	yoò	134	1313	NA	NA	hollenbach2017diccionario	[BA]
-4993	pena11	CLOUD	nube	vikò	vikò	135	1489	NA	NA	hollenbach2017diccionario	[BA]
-4994	pena11	LIGHTNING	rayo, relámpago	tajan	tajan	136	1654	NA	NA	hollenbach2017diccionario	
-4995	pena11	WATER	agua	ndute	ndute	137	948	NA	NA	hollenbach2017diccionario	[A]
-4996	pena11	RAIN (PRECIPITATION)	lluvia	savì	savì	138	658	NA	NA	hollenbach2017diccionario	[BA]
-4997	pena11	RIVER	río	yùte	yùte	139	666	NA	NA	hollenbach2017diccionario	{A}
-4998	pena11	DEW	rocío, gota	yúyú	yúyú	140	1977	NA	NA	hollenbach2017diccionario	[A]
-4999	pena11	MOUNTAIN OR HILL	cerro, monte	yuku	yuku	141	2118	NA	NA	hollenbach2017diccionario	[A]
-5000	pena11	PLAIN	llano	yoso	yoso	142	652	NA	NA	hollenbach2017diccionario	[A]
-5001	pena11	STONE OR ROCK	piedra	yuù	yuù	143	2125	NA	NA	hollenbach2017diccionario	[BA]
-5002	pena11	COTTON	algodón	kachì	kachì	144	1850	NA	NA	hollenbach2017diccionario	{BA}
-5003	pena11	METAL	fierro, campana	kàa	kàa	145	2244	NA	NA	hollenbach2017diccionario	
-5004	pena11	PAPER	papel	tutù	tutù	146	648	NA	NA	hollenbach2017diccionario	{BA}
-5005	pena11	LIME (MATERIAL)	cal	kakà	kakà	147	2540	NA	NA	hollenbach2017diccionario	{BA}
-5006	pena11	BEESWAX	cera	ñumà	ñumà	148	1931	NA	NA	hollenbach2017diccionario	[BA]
-5007	pena11	MUD	lodo	ndé’yǒ	ndé’yǒ	149	640	NA	NA	hollenbach2017diccionario	{BA}
-5008	pena11	FOAM	espuma	tì-iñù	tì-iñù	150	1768	NA	NA	hollenbach2017diccionario	{BA}
-5009	pena11	DUST	polvo, harina	yuchi	yuchi	151	2	NA	NA	hollenbach2017diccionario	[A]
-5010	pena11	DUST	polvo	ñùyàká	ñù-yàká	151	2	NA	NA	hollenbach2017diccionario	[B]
-5011	pena11	RED	rojo	kuá’á	kuá’á	152	156	NA	NA	hollenbach2017diccionario	{A}
-5012	pena11	GREEN	verde	kuíá	kuíá	153	1425	NA	NA	hollenbach2017diccionario	[A]
-5013	pena11	YELLOW	amarillo	kuáán	kuáán	154	1424	NA	NA	hollenbach2017diccionario	{A}
-5014	pena11	BLACK	negro, oscuro	tnuu	tnuu	155	163	NA	NA	hollenbach2017diccionario	[A]
-5015	pena11	BLACK	negro, oscuro	tnúú	tnúú	155	163	NA	NA	hollenbach2017diccionario	[A]
-5016	pena11	WHITE	blanco	kuíjín	kuíjín	156	1335	NA	NA	hollenbach2017diccionario	[B]
-5017	pena11	WHITE	blanco, pálido	yaa	yaa	156	1335	NA	NA	hollenbach2017diccionario	
-5018	pena11	ONE	uno	in	in	157	1493	NA	NA	hollenbach2017diccionario	
-5019	pena11	TWO	dos	uù	uù	158	1498	NA	NA	hollenbach2017diccionario	
-5020	pena11	THREE	tres	unì	unì	159	492	NA	NA	hollenbach2017diccionario	
-5021	pena11	FOUR	cuatro	kuùn	kuùn	160	1500	NA	NA	hollenbach2017diccionario	[BA]
-5022	pena11	FOUR	cuatro	kùun	kùun	160	1500	NA	NA	hollenbach2017diccionario	[A]
-5023	pena11	FIVE	cinco	u’ùn	u’ùn	161	493	NA	NA	hollenbach2017diccionario	
-5024	pena11	SIX	seis	iñù	iñù	162	1703	NA	NA	hollenbach2017diccionario	
-5025	pena11	SEVEN	siete	ujà	ujà	163	1704	NA	NA	hollenbach2017diccionario	
-5026	pena11	EIGHT	ocho	unà	unà	164	1705	NA	NA	hollenbach2017diccionario	
-5027	pena11	NINE	nueve	iìn	iìn	165	1483	NA	NA	hollenbach2017diccionario	
-5028	pena11	TEN	diez	uxì	uxì	166	1515	NA	NA	hollenbach2017diccionario	
-5029	pena11	FIFTEEN	quince	ja’ùn	ja’ùn	167	1709	NA	NA	hollenbach2017diccionario	
-5030	pena11	TWENTY	veinte	okò	okò	168	1710	NA	NA	hollenbach2017diccionario	
-5031	pena11	POOR	pobre	ndá’ví	ndá’ví	169	1674	NA	NA	hollenbach2017diccionario	[B]
-5032	pena11	RICH	rico	kúká	kúká	170	712	NA	NA	hollenbach2017diccionario	{BA}
-5033	pena11	RICH	rico	xikú	xikú	170	712	NA	NA	hollenbach2017diccionario	[B]
-5034	pena11	COLD	frío	vìjin	vìjin	171	1287	NA	NA	hollenbach2017diccionario	
-5035	pena11	HOT	caliente, valiente	i’ni	i’ni	172	1286	NA	NA	hollenbach2017diccionario	[A]
-5036	pena11	BIG (SINGULAR)	grande.SG	ká’nú	ká’nú	173	NA	NA	NA	hollenbach2017diccionario	[B]
-5037	pena11	BIG (PLURAL)	grande.PL	ná’nú	ná’nú	174	NA	NA	NA	hollenbach2017diccionario	[B/A]
-5038	pena11	SMALL (SINGULAR)	pequeño	chí’ìn	chí’ìn	175	NA	NA	NA	hollenbach2017diccionario	
-5039	pena11	SMALL (SINGULAR)	pequeño, chico	chí’lì	chí’lì	175	NA	NA	NA	hollenbach2017diccionario	
-5040	pena11	SMALL (SINGULAR)	pequeño, chico	tí’ì	tí’ì	175	NA	NA	NA	hollenbach2017diccionario	
-5041	pena11	SMALL (SINGULAR)	pequeño, chico	lule	lule	175	NA	NA	NA	hollenbach2017diccionario	[A]
-5042	pena11	SMALL (PLURAL)	pequeño.PL, chico.PL	líkín	líkín	176	NA	NA	NA	hollenbach2017diccionario	[A/B]
-5043	pena11	SMALL (PLURAL)	pequeño.PL, chico.PL	kuéchí	kuéchí	176	NA	NA	NA	hollenbach2017diccionario	[A]
-5044	pena11	LARGE (SINGULAR)	largo.SG	kání	kání	177	NA	NA	NA	hollenbach2017diccionario	[A/B]
-5045	pena11	LARGE (PLURAL)	largo.PL	nání	nání	178	NA	NA	NA	hollenbach2017diccionario	[A/B]
-5046	pena11	GOOD	bueno	và’a	và’a	179	1035	NA	NA	hollenbach2017diccionario	
-5047	pena11	SWEET	dulce	vixì	vixì	180	717	NA	NA	hollenbach2017diccionario	
-5048	pena11	SALTY	salado	u’wà	u’wà	181	1091	NA	NA	hollenbach2017diccionario	
-5049	pena11	BITTER	amargo (de una fruta)	kaya	kaya	182	887	NA	NA	hollenbach2017diccionario	[A]
-5050	pena11	BITTER	amargo	uwà	uwà	182	887	NA	NA	hollenbach2017diccionario	
-5051	pena11	BITTER	amargo	uvà	uvà	182	887	NA	NA	hollenbach2017diccionario	
-5052	pena11	TASTY	sabroso	asì	asì	183	1813	NA	NA	hollenbach2017diccionario	[BA]
-5053	pena11	WIDE	ancho	jìté	jìté	184	1243	NA	NA	hollenbach2017diccionario	[B]
-5054	pena11	NEW	nuevo	jaa	jaa	185	1231	NA	NA	hollenbach2017diccionario	[A]
-5055	pena11	LAZY	flojo, perezoso	kúxí	kúxí	186	1564	NA	NA	hollenbach2017diccionario	[A]
-5056	pena11	LAZY	flojo (una cosa amarrado)	ta’ya	ta’ya	186	1564	NA	NA	hollenbach2017diccionario	
-5057	pena11	UGLY	feo, malo	kini	kini	187	1548	NA	NA	hollenbach2017diccionario	
-5058	pena11	JEALOUS	celoso	kuéñú	kuéñú	188	2821	NA	NA	hollenbach2017diccionario	[B/A]
-5059	pena11	NEAR	cerca, cercano	yatni	yatni	189	1942	NA	NA	hollenbach2017diccionario	
-5060	pena11	FAR	lejos, lejano	jíká	jíká	190	1406	NA	NA	hollenbach2017diccionario	[A]
-5061	pena11	HEAVY	pesado	vèe	vèe	191	1210	NA	NA	hollenbach2017diccionario	
-5062	pena11	RAW	crudo, verde (no maduro)	yí’í	yí’í	192	1959	NA	NA	hollenbach2017diccionario	
-5063	pena11	SMOOTH	liso	liì	liì	193	1234	NA	NA	hollenbach2017diccionario	[BA]
-5064	pena11	SMOOTH	liso, resbaloso	tindí’ví	tindí’ví	193	1234	NA	NA	hollenbach2017diccionario	[A]
-5065	pena11	SLOW	despacio	kuéé	kuéé	194	701	NA	NA	hollenbach2017diccionario	
-5066	pena11	YESTERDAY	ayer	iku	iku	195	1174	NA	NA	hollenbach2017diccionario	
-5067	pena11	YEAR	año	kuiyà	kuiyà	196	1226	NA	NA	hollenbach2017diccionario	{BA}
-5068	pena11	NOW OR TODAY	ahora, hoy	vitna	vitna	197	2097	NA	NA	hollenbach2017diccionario	
-5069	pena11	NIGHT	noche	jakuaà	jakuaà	198	1233	NA	NA	hollenbach2017diccionario	[BA]
-5070	pena11	NIGHT TIME	de noche	ñuu	ñuu	199	NA	NA	NA	hollenbach2017diccionario	[A]
-5071	pena11	DAY (24 HOURS)	día	kivì	kivì	200	1260	NA	NA	hollenbach2017diccionario	[BA]
-5072	pena11	DAY (NOT NIGHT)	de día	nduu	nduu	201	1225	NA	NA	hollenbach2017diccionario	[A]
-5073	pena11	HALF	mitad, medio	sava	sava	202	816	NA	NA	hollenbach2017diccionario	
-5074	pena11	MONEY	dinero	xù’un	xù’un	203	1559	NA	NA	hollenbach2017diccionario	[A]
-5075	pena11	WORKING OR WORK	trabajo	tniñu	tniñu	204	2281	NA	NA	hollenbach2017diccionario	
-5076	pena11	WORD	lengua, idioma	sa’àn	sa’àn	205	1599	NA	NA	hollenbach2017diccionario	
-5077	pena11	FAULT	culpa, pecado	kuèchi	kuèchi	206	134	NA	NA	hollenbach2017diccionario	
-5078	pena11	DREAM	sueño	ñùmà’ná	ñùmà’ná	207	2374	NA	NA	hollenbach2017diccionario	[B]
-5079	pena11	WHEN	cuándo	ama	ama	208	1238	NA	NA	hollenbach2017diccionario	[A]
-5080	pena11	MUSIC	canción, canto	yaà	yaà	209	642	NA	NA	hollenbach2017diccionario	[BA]
+ID	DOCULECT	GLOSS	VALUE	FORM	IDlist	NOTES	LOAN	LOAN_SOURCE	SOURCE	FLOATTONE
+4846	pena11	madre	si’i	si’i	1	NA	NA	NA	hollenbach2017diccionario	[A]
+4847	pena11	madre	náà	náà	1	NA	NA	NA	hollenbach2017diccionario	[BA]
+4848	pena11	mamá!	náà	náà	2	NA	NA	NA	hollenbach2017diccionario	[BA]
+4849	pena11	padre	táà	táà	3	NA	NA	NA	hollenbach2017diccionario	[BA]
+4850	pena11	padre	yuva	yuva	3	NA	NA	NA	hollenbach2017diccionario	[A]
+4851	pena11	papá!	táà	táà	4	NA	NA	NA	hollenbach2017diccionario	[BA]
+4852	pena11	hijo/hija	sà’ya	sà’ya	5	NA	NA	NA	hollenbach2017diccionario	
+4853	pena11	hijo	sàyìi	sà-yìi	6	child-male	NA	NA	hollenbach2017diccionario	[A]
+4854	pena11	hija	sàsí’í	sà-sí’í	7	child-female	NA	NA	hollenbach2017diccionario	
+4855	pena11	hermana/hermano de otro genero	kù’va	kù’va	8	NA	NA	NA	hollenbach2017diccionario	
+4856	pena11	hermana/hermano de otro genero	kù’a	kù’a	8	NA	NA	NA	hollenbach2017diccionario	
+4857	pena11	hermano de hombre	ñanì	ñanì	9	NA	NA	NA	hollenbach2017diccionario	
+4858	pena11	hermana de mujer	ku’ù	ku’ù	10	NA	NA	NA	hollenbach2017diccionario	{BA}
+4859	pena11	tía	xixì	xixì	11	NA	NA	NA	hollenbach2017diccionario	
+4860	pena11	tío	xitò	xitò	12	NA	NA	NA	hollenbach2017diccionario	
+4861	pena11	hombre	tèe	tèe	13	NA	NA	NA	hollenbach2017diccionario	
+4862	pena11	mujer	ña’a	ña’a	14	NA	NA	NA	hollenbach2017diccionario	
+4863	pena11	dueño	ito’ò	ito’ò	15	NA	NA	NA	hollenbach2017diccionario	[BA]
+4864	pena11	dueño	jito’ò	ji-to’ò	15	NA	NA	NA	hollenbach2017diccionario	[BA]
+4865	pena11	sacerdote	sutù	sutù	16	NA	NA	NA	hollenbach2017diccionario	[BA]
+4866	pena11	sangre	niñì	niñì	17	NA	NA	NA	hollenbach2017diccionario	[BA]
+4867	pena11	hueso	yiki	yiki	18	NA	NA	NA	hollenbach2017diccionario	[A]
+4868	pena11	cabello	ixi	ixi	19	NA	NA	NA	hollenbach2017diccionario	[A]
+4869	pena11	cara	nuù	nuù	20	NA	NA	NA	hollenbach2017diccionario	[BA]
+4870	pena11	lengua	yáà	yáà	21	NA	NA	NA	hollenbach2017diccionario	[BA]
+4871	pena11	diente	nù’u	nù’u	22	NA	NA	NA	hollenbach2017diccionario	
+4872	pena11	boca	yu’u	yu’u	23	NA	NA	NA	hollenbach2017diccionario	[M]
+4873	pena11	oreja	sò’o	sò’o	24	NA	NA	NA	hollenbach2017diccionario	{A}
+4874	pena11	nariz	xitnì	xitnì	25	NA	NA	NA	hollenbach2017diccionario	[BA]
+4875	pena11	cuello	sukùn	sukùn	26	NA	NA	NA	hollenbach2017diccionario	[BA]
+4876	pena11	mano	nda’a	nda’a	27	NA	NA	NA	hollenbach2017diccionario	[A]
+4877	pena11	uña	tníì	tníì	28	NA	NA	NA	hollenbach2017diccionario	[BA]
+4878	pena11	espalda	yatà	yatà	29	NA	NA	NA	hollenbach2017diccionario	[BA]
+4879	pena11	panza, estómago	chìi	chìi	30	NA	NA	NA	hollenbach2017diccionario	
+4880	pena11	tripas	jitì	jitì	31	NA	NA	NA	hollenbach2017diccionario	{BA}
+4881	pena11	pie	ja’à	ja’à	32	NA	NA	NA	hollenbach2017diccionario	[BA]
+4882	pena11	enfermedad	kue’è	kue’è	33	NA	NA	NA	hollenbach2017diccionario	{BA}
+4883	pena11	medicina	jàtàtná	jà-tàtná	34	caus?-medicine?	NA	NA	hollenbach2017diccionario	[B]
+4884	pena11	medicina	tatnà	tatnà	34	NA	NA	NA	hollenbach2017diccionario	[BA]
+4885	pena11	hinchazón	kueñu	kueñu	35	NA	NA	NA	hollenbach2017diccionario	
+4886	pena11	grano, roncha	ndì’yi	ndì’yi	36	NA	NA	NA	hollenbach2017diccionario	
+4887	pena11	pus	ndakua	ndakua	37	NA	NA	NA	hollenbach2017diccionario	[A]
+4888	pena11	orina	ndèxèxé	ndèxèxé	38	NA	NA	NA	hollenbach2017diccionario	[B]
+4889	pena11	tela, ropa	sa’ma	sa’ma	39	NA	NA	NA	hollenbach2017diccionario	[A]
+4890	pena11	huarache	ndijàn	ndijàn	40	NA	NA	NA	hollenbach2017diccionario	{BA}
+4891	pena11	pantalón	lóò	lóò	41	NA	NA	NA	hollenbach2017diccionario	
+4892	pena11	huipil	xikìn	xikìn	42	NA	NA	NA	hollenbach2017diccionario	[BA]
+4893	pena11	pueblo	ñuù	ñuù	43	NA	NA	NA	hollenbach2017diccionario	
+4894	pena11	casa	ve’e	ve’e	44	NA	NA	NA	hollenbach2017diccionario	
+4895	pena11	camino	ichi	ichi	45	NA	NA	NA	hollenbach2017diccionario	[A]
+4896	pena11	horcón	si’ìn	si’ìn	46	NA	NA	NA	hollenbach2017diccionario	
+4897	pena11	petate	yuu	yuu	47	NA	NA	NA	hollenbach2017diccionario	[A]
+4898	pena11	cama, lecho	jìto	jìto	48	NA	NA	NA	hollenbach2017diccionario	
+4899	pena11	banquito	teyù	teyù	49	NA	NA	NA	hollenbach2017diccionario	{BA}
+4900	pena11	animal	kiti	kiti	50	NA	NA	NA	hollenbach2017diccionario	[A]
+4901	pena11	pájaro	lásaà	lá-saà	51	animal?-bird	NA	NA	hollenbach2017diccionario	
+4902	pena11	pez, pescado	tiaka	tiaka	52	NA	NA	NA	hollenbach2017diccionario	[A]
+4903	pena11	culebra, serpiente	koò	koò	53	NA	NA	NA	hollenbach2017diccionario	[BA]
+4904	pena11	rana	sa’và	sa’và	54	NA	NA	NA	hollenbach2017diccionario	{BA}
+4905	pena11	gavilán	xí’ñá	xí’ñá	55	NA	NA	NA	hollenbach2017diccionario	[A]
+4906	pena11	alacrán	tìsu’mà	tì-su’mà	56	animal-tail	NA	NA	hollenbach2017diccionario	[BA]
+4907	pena11	cucaracha	laté’yá	la-té’yá	57	animal?-cockroach	NA	NA	hollenbach2017diccionario	[A]
+4908	pena11	chapulín	tìka	tìka	58	NA	NA	NA	hollenbach2017diccionario	{A}
+4909	pena11	abeja	ñuñù	ñuñù	59	NA	NA	NA	hollenbach2017diccionario	[BA]
+4910	pena11	ratón, rata	tnìñi	tnìñi	60	NA	NA	NA	hollenbach2017diccionario	[A]
+4911	pena11	venado	isù	isù	61	NA	NA	NA	hollenbach2017diccionario	{BA}
+4912	pena11	ardilla	kuèñu	kuèñu	62	NA	NA	NA	hollenbach2017diccionario	
+4913	pena11	zorrillo	láñi’ì	lá-ñi’ì	63	animal?-fox?	NA	NA	hollenbach2017diccionario	{BA}
+4914	pena11	tlacuache, zarigüeya	jákó	jákó	64	NA	NA	NA	hollenbach2017diccionario	[A]
+4915	pena11	mapache	ma’à	ma’à	65	NA	NA	NA	hollenbach2017diccionario	
+4916	pena11	conejo	isò	isò	66	NA	NA	NA	hollenbach2017diccionario	
+4917	pena11	zopilote, águila	tiókó	tiókó	67	NA	NA	NA	hollenbach2017diccionario	[A]
+4918	pena11	perro	lá-inà	lá-inà	68	animal?-dog	NA	NA	hollenbach2017diccionario	
+4919	pena11	gato	vílú	vílú	69	NA	NA	NA	hollenbach2017diccionario	[A]
+4920	pena11	gallo	lí’li	lí’li	70	NA	NA	NA	hollenbach2017diccionario	
+4921	pena11	gallo	lí’i	lí’i	70	NA	NA	NA	hollenbach2017diccionario	
+4922	pena11	gallina	tíla	tíla	71	NA	NA	NA	hollenbach2017diccionario	
+4923	pena11	marrano, puerco	chíkinì	chí-kinì	72	?-pig	NA	NA	hollenbach2017diccionario	
+4924	pena11	marrano, puerco	kuchi	kuchi	72	NA	yes	Spanish	hollenbach2017diccionario	
+4925	pena11	marrano, puerco	kinì	kinì	72	NA	NA	NA	hollenbach2017diccionario	
+4926	pena11	caballo	kueyú	kueyú	73	old Sp. loan	yes	Colonial Spanish	hollenbach2017diccionario	[B]
+4927	pena11	borrego, oveja	ndíkachi	ndí-kachi	74	?-cotton	NA	NA	hollenbach2017diccionario	
+4928	pena11	hormiga	tioko	tioko	75	NA	NA	NA	hollenbach2017diccionario	[A]
+4929	pena11	cuerno	ndiki	ndiki	76	NA	NA	NA	hollenbach2017diccionario	[A]
+4930	pena11	pluma	tnùmi	tnùmi	77	NA	NA	NA	hollenbach2017diccionario	
+4931	pena11	ala	ndijìn	ndijìn	78	NA	NA	NA	hollenbach2017diccionario	[BA]
+4932	pena11	cola	su’mà	su’mà	79	NA	NA	NA	hollenbach2017diccionario	[BA]
+4933	pena11	árbol, palo	yutnu	yutnu	80	NA	NA	NA	hollenbach2017diccionario	[A]
+4934	pena11	hierba sin uso, maleza	yì’i	yì’i	81	NA	NA	NA	hollenbach2017diccionario	{A}
+4935	pena11	hierba	yukù	yukù	81	NA	NA	NA	hollenbach2017diccionario	{BA}
+4936	pena11	zacate, pasto	itè	itè	82	NA	NA	NA	hollenbach2017diccionario	
+4937	pena11	flor	ità	ità	83	NA	NA	NA	hollenbach2017diccionario	
+4938	pena11	maguey	yavi	yavi	84	NA	NA	NA	hollenbach2017diccionario	[A]
+4939	pena11	raíz	yo’o	yo’o	85	NA	NA	NA	hollenbach2017diccionario	[A]
+4940	pena11	espina	iñu	iñu	86	NA	NA	NA	hollenbach2017diccionario	[A]
+4941	pena11	maíz en grano	nunì	nunì	87	NA	NA	NA	hollenbach2017diccionario	[BA]
+4942	pena11	milpa, terreno	itù	itù	88	NA	NA	NA	hollenbach2017diccionario	
+4943	pena11	elote	ndixin	ndixin	89	NA	NA	NA	hollenbach2017diccionario	[A]
+4944	pena11	nixtamal	ndàku	ndàku	90	NA	NA	NA	hollenbach2017diccionario	[B]
+4945	pena11	masa	ñujan	ñujan	91	NA	NA	NA	hollenbach2017diccionario	[A]
+4946	pena11	tortilla	staà	staà	92	NA	NA	NA	hollenbach2017diccionario	[BA]
+4947	pena11	tortilla	xità	xità	92	NA	NA	NA	hollenbach2017diccionario	[BA]
+4948	pena11	rastrojo (el tallo entero)	itè nìi	itè	93	rastrojo-entero	NA	NA	hollenbach2017diccionario	[A]
+4949	pena11	surco	yukùn	yukùn	94	NA	NA	NA	hollenbach2017diccionario	{BA}
+4950	pena11	espiga	yoko	yoko	95	NA	NA	NA	hollenbach2017diccionario	[A]
+4951	pena11	frijol(es)	nduchi	nduchi	96	NA	NA	NA	hollenbach2017diccionario	[A]
+4952	pena11	ejote	ndìchi	ndìchi	97	NA	NA	NA	hollenbach2017diccionario	
+4953	pena11	chile	ya’a	ya’a	98	NA	NA	NA	hollenbach2017diccionario	[A]
+4954	pena11	sal	ñiì	ñiì	99	NA	NA	NA	hollenbach2017diccionario	[BA]
+4955	pena11	calabaza	yikin	yikin	100	NA	NA	NA	hollenbach2017diccionario	[A]
+4956	pena11	chayote	naña	naña	101	NA	NA	NA	hollenbach2017diccionario	[A]
+4957	pena11	caña	ndoò	ndoò	102	NA	NA	NA	hollenbach2017diccionario	[BA]
+4958	pena11	miel	ndùxi	ndùxi	103	NA	NA	NA	hollenbach2017diccionario	
+4959	pena11	grasa, manteca	xè’en	xè’en	104	NA	NA	NA	hollenbach2017diccionario	
+4960	pena11	blanquillo, huevo	ndivì	ndivì	105	NA	NA	NA	hollenbach2017diccionario	[BA]
+4961	pena11	tomate, jitomate	tìnanà	tì-nanà	106	round-tomato	NA	NA	hollenbach2017diccionario	[BA]
+4962	pena11	camote, batata	ña’mì	ña’mì	107	NA	NA	NA	hollenbach2017diccionario	{BA}
+4963	pena11	aguacate	tìchi	tìchi	108	NA	NA	NA	hollenbach2017diccionario	{A}
+4964	pena11	plátano	ndika	ndika	109	NA	NA	NA	hollenbach2017diccionario	[A]
+4965	pena11	nopal	vi’ndè	vi’ndè	110	NA	NA	NA	hollenbach2017diccionario	{BA}
+4966	pena11	mamey	ndika kua’á	ndika-kua’á	111	banana-red	NA	NA	hollenbach2017diccionario	[A]
+4967	pena11	zapote, anona	ndoko	ndoko	111	NA	NA	NA	hollenbach2017diccionario	[A]
+4968	pena11	hongo	ji’ì	ji’ì	113	NA	NA	NA	hollenbach2017diccionario	{BA}
+4969	pena11	carne	kùñu	kùñu	114	NA	NA	NA	hollenbach2017diccionario	
+4970	pena11	comal	jiyò	jiyò	115	NA	NA	NA	hollenbach2017diccionario	{BA}
+4971	pena11	olla	kìsi	kìsi	116	NA	NA	NA	hollenbach2017diccionario	
+4972	pena11	horno	jitnù	jitnù	117	NA	NA	NA	hollenbach2017diccionario	{BA}
+4973	pena11	lumbre	ñu’ù	ñu’ù	118	NA	NA	NA	hollenbach2017diccionario	{BA}
+4974	pena11	ceniza	yaà	yaà	119	NA	NA	NA	hollenbach2017diccionario	{BA}
+4975	pena11	carbón	tìkàyi	tì-kàyi	120	round-?	NA	NA	hollenbach2017diccionario	[A]
+4976	pena11	humo	ñu’mà	ñu’mà	121	NA	NA	NA	hollenbach2017diccionario	{BA}
+4977	pena11	basura	mì’i	mì’i	122	NA	NA	NA	hollenbach2017diccionario	{A}
+4978	pena11	plato	ko’ò	ko’ò	123	NA	NA	NA	hollenbach2017diccionario	[BA]
+4979	pena11	jícara, bandeja	ñajin	ñajin	124	NA	NA	NA	hollenbach2017diccionario	[A]
+4980	pena11	jícara ovalada	tìkàsi	tì-kàsi	124	round-?	NA	NA	hollenbach2017diccionario	[A]
+4981	pena11	canasta	chìka	chìka	125	NA	NA	NA	hollenbach2017diccionario	[A]
+4982	pena11	canasta	chìká	chìká	125	NA	NA	NA	hollenbach2017diccionario	[B]
+4983	pena11	tenate	ndo’ò	ndo’ò	125	NA	NA	NA	hollenbach2017diccionario	[A]
+4984	pena11	cajón, baúl	jatnù	jatnù	126	NA	NA	NA	hollenbach2017diccionario	{BA}
+4985	pena11	hilo, estambre	yu’và	yu’và	127	NA	NA	NA	hollenbach2017diccionario	[BA]
+4986	pena11	peine	kukà	kukà	128	NA	NA	NA	hollenbach2017diccionario	{BA}
+4987	pena11	mecate, cuerda	yo’o	yo’o	129	NA	NA	NA	hollenbach2017diccionario	[A]
+4988	pena11	agujero, hoyo	yavì	yavì	130	NA	NA	NA	hollenbach2017diccionario	{BA}
+4989	pena11	red, bozal	ñuñu	ñuñu	131	NA	NA	NA	hollenbach2017diccionario	[A]
+4990	pena11	jabón	namà	namà	132	NA	NA	NA	hollenbach2017diccionario	{BA}
+4991	pena11	anillo	xe’e	xe’e	133	NA	NA	NA	hollenbach2017diccionario	[A]
+4992	pena11	luna	yoò	yoò	134	NA	NA	NA	hollenbach2017diccionario	[BA]
+4993	pena11	nube	vikò	vikò	135	NA	NA	NA	hollenbach2017diccionario	[BA]
+4994	pena11	rayo, relámpago	tajan	tajan	136	NA	NA	NA	hollenbach2017diccionario	
+4995	pena11	agua	ndute	ndute	137	NA	NA	NA	hollenbach2017diccionario	[A]
+4996	pena11	lluvia	savì	savì	138	NA	NA	NA	hollenbach2017diccionario	[BA]
+4997	pena11	río	yùte	yùte	139	NA	NA	NA	hollenbach2017diccionario	{A}
+4998	pena11	rocío, gota	yúyú	yúyú	140	NA	NA	NA	hollenbach2017diccionario	[A]
+4999	pena11	cerro, monte	yuku	yuku	141	NA	NA	NA	hollenbach2017diccionario	[A]
+5000	pena11	llano	yoso	yoso	142	NA	NA	NA	hollenbach2017diccionario	[A]
+5001	pena11	piedra	yuù	yuù	143	NA	NA	NA	hollenbach2017diccionario	[BA]
+5002	pena11	algodón	kachì	kachì	144	NA	NA	NA	hollenbach2017diccionario	{BA}
+5003	pena11	fierro, campana	kàa	kàa	145	NA	NA	NA	hollenbach2017diccionario	
+5004	pena11	papel	tutù	tutù	146	NA	NA	NA	hollenbach2017diccionario	{BA}
+5005	pena11	cal	kakà	kakà	147	NA	NA	NA	hollenbach2017diccionario	{BA}
+5006	pena11	cera	ñumà	ñumà	148	NA	NA	NA	hollenbach2017diccionario	[BA]
+5007	pena11	lodo	ndé’yǒ	ndé’yǒ	149	ndé’yo13 (low-mid on last syllable)	NA	NA	hollenbach2017diccionario	{BA}
+5008	pena11	espuma	tì-iñù	tì-iñù	150	round?-?	NA	NA	hollenbach2017diccionario	{BA}
+5009	pena11	polvo, harina	yuchi	yuchi	151	NA	NA	NA	hollenbach2017diccionario	[A]
+5010	pena11	polvo	ñùyàká	ñù-yàká	151	?-dust	NA	NA	hollenbach2017diccionario	[B]
+5011	pena11	rojo	kuá’á	kuá’á	152	NA	NA	NA	hollenbach2017diccionario	{A}
+5012	pena11	verde	kuíá	kuíá	153	NA	NA	NA	hollenbach2017diccionario	[A]
+5013	pena11	amarillo	kuáán	kuáán	154	NA	NA	NA	hollenbach2017diccionario	{A}
+5014	pena11	negro, oscuro	tnuu	tnuu	155	NA	NA	NA	hollenbach2017diccionario	[A]
+5015	pena11	negro, oscuro	tnúú	tnúú	155	NA	NA	NA	hollenbach2017diccionario	[A]
+5016	pena11	blanco	kuíjín	kuíjín	156	NA	NA	NA	hollenbach2017diccionario	[B]
+5017	pena11	blanco, pálido	yaa	yaa	156	NA	NA	NA	hollenbach2017diccionario	
+5018	pena11	uno	in	in	157	NA	NA	NA	hollenbach2017diccionario	
+5019	pena11	dos	uù	uù	158	NA	NA	NA	hollenbach2017diccionario	
+5020	pena11	tres	unì	unì	159	NA	NA	NA	hollenbach2017diccionario	
+5021	pena11	cuatro	kuùn	kuùn	160	NA	NA	NA	hollenbach2017diccionario	[BA]
+5022	pena11	cuatro	kùun	kùun	160	NA	NA	NA	hollenbach2017diccionario	[A]
+5023	pena11	cinco	u’ùn	u’ùn	161	NA	NA	NA	hollenbach2017diccionario	
+5024	pena11	seis	iñù	iñù	162	NA	NA	NA	hollenbach2017diccionario	
+5025	pena11	siete	ujà	ujà	163	NA	NA	NA	hollenbach2017diccionario	
+5026	pena11	ocho	unà	unà	164	NA	NA	NA	hollenbach2017diccionario	
+5027	pena11	nueve	iìn	iìn	165	NA	NA	NA	hollenbach2017diccionario	
+5028	pena11	diez	uxì	uxì	166	NA	NA	NA	hollenbach2017diccionario	
+5029	pena11	quince	ja’ùn	ja’ùn	167	NA	NA	NA	hollenbach2017diccionario	
+5030	pena11	veinte	okò	okò	168	NA	NA	NA	hollenbach2017diccionario	
+5031	pena11	pobre	ndá’ví	ndá’ví	169	NA	NA	NA	hollenbach2017diccionario	[B]
+5032	pena11	rico	kúká	kúká	170	rare and only used in compounds	NA	NA	hollenbach2017diccionario	{BA}
+5033	pena11	rico	xikú	xikú	170	NA	NA	NA	hollenbach2017diccionario	[B]
+5034	pena11	frío	vìjin	vìjin	171	NA	NA	NA	hollenbach2017diccionario	
+5035	pena11	caliente, valiente	i’ni	i’ni	172	NA	NA	NA	hollenbach2017diccionario	[A]
+5036	pena11	grande.SG	ká’nú	ká’nú	173	NA	NA	NA	hollenbach2017diccionario	[B]
+5037	pena11	grande.PL	ná’nú	ná’nú	174	NA	NA	NA	hollenbach2017diccionario	[B/A]
+5038	pena11	pequeño	chí’ìn	chí’ìn	175	NA	NA	NA	hollenbach2017diccionario	
+5039	pena11	pequeño, chico	chí’lì	chí’lì	175	NA	NA	NA	hollenbach2017diccionario	
+5040	pena11	pequeño, chico	tí’ì	tí’ì	175	NA	NA	NA	hollenbach2017diccionario	
+5041	pena11	pequeño, chico	lule	lule	175	NA	NA	NA	hollenbach2017diccionario	[A]
+5042	pena11	pequeño.PL, chico.PL	líkín	líkín	176	NA	NA	NA	hollenbach2017diccionario	[A/B]
+5043	pena11	pequeño.PL, chico.PL	kuéchí	kuéchí	176	NA	NA	NA	hollenbach2017diccionario	[A]
+5044	pena11	largo.SG	kání	kání	177	NA	NA	NA	hollenbach2017diccionario	[A/B]
+5045	pena11	largo.PL	nání	nání	178	NA	NA	NA	hollenbach2017diccionario	[A/B]
+5046	pena11	bueno	và’a	và’a	179	NA	NA	NA	hollenbach2017diccionario	
+5047	pena11	dulce	vixì	vixì	180	NA	NA	NA	hollenbach2017diccionario	
+5048	pena11	salado	u’wà	u’wà	181	NA	NA	NA	hollenbach2017diccionario	
+5049	pena11	amargo (de una fruta)	kaya	kaya	182	NA	NA	NA	hollenbach2017diccionario	[A]
+5050	pena11	amargo	uwà	uwà	182	NA	NA	NA	hollenbach2017diccionario	
+5051	pena11	amargo	uvà	uvà	182	NA	NA	NA	hollenbach2017diccionario	
+5052	pena11	sabroso	asì	asì	183	NA	NA	NA	hollenbach2017diccionario	[BA]
+5053	pena11	ancho	jìté	jìté	184	NA	NA	NA	hollenbach2017diccionario	[B]
+5054	pena11	nuevo	jaa	jaa	185	NA	NA	NA	hollenbach2017diccionario	[A]
+5055	pena11	flojo, perezoso	kúxí	kúxí	186	NA	NA	NA	hollenbach2017diccionario	[A]
+5056	pena11	flojo (una cosa amarrado)	ta’ya	ta’ya	186	NA	NA	NA	hollenbach2017diccionario	
+5057	pena11	feo, malo	kini	kini	187	NA	NA	NA	hollenbach2017diccionario	
+5058	pena11	celoso	kuéñú	kuéñú	188	NA	NA	NA	hollenbach2017diccionario	[B/A]
+5059	pena11	cerca, cercano	yatni	yatni	189	NA	NA	NA	hollenbach2017diccionario	
+5060	pena11	lejos, lejano	jíká	jíká	190	NA	NA	NA	hollenbach2017diccionario	[A]
+5061	pena11	pesado	vèe	vèe	191	NA	NA	NA	hollenbach2017diccionario	
+5062	pena11	crudo, verde (no maduro)	yí’í	yí’í	192	NA	NA	NA	hollenbach2017diccionario	
+5063	pena11	liso	liì	liì	193	NA	NA	NA	hollenbach2017diccionario	[BA]
+5064	pena11	liso, resbaloso	tindí’ví	tindí’ví	193	NA	NA	NA	hollenbach2017diccionario	[A]
+5065	pena11	despacio	kuéé	kuéé	194	NA	NA	NA	hollenbach2017diccionario	
+5066	pena11	ayer	iku	iku	195	NA	NA	NA	hollenbach2017diccionario	
+5067	pena11	año	kuiyà	kuiyà	196	NA	NA	NA	hollenbach2017diccionario	{BA}
+5068	pena11	ahora, hoy	vitna	vitna	197	NA	NA	NA	hollenbach2017diccionario	
+5069	pena11	noche	jakuaà	jakuaà	198	NA	NA	NA	hollenbach2017diccionario	[BA]
+5070	pena11	de noche	ñuu	ñuu	199	NA	NA	NA	hollenbach2017diccionario	[A]
+5071	pena11	día	kivì	kivì	200	NA	NA	NA	hollenbach2017diccionario	[BA]
+5072	pena11	de día	nduu	nduu	201	NA	NA	NA	hollenbach2017diccionario	[A]
+5073	pena11	mitad, medio	sava	sava	202	NA	NA	NA	hollenbach2017diccionario	
+5074	pena11	dinero	xù’un	xù’un	203	NA	NA	NA	hollenbach2017diccionario	[A]
+5075	pena11	trabajo	tniñu	tniñu	204	NA	NA	NA	hollenbach2017diccionario	
+5076	pena11	lengua, idioma	sa’àn	sa’àn	205	NA	NA	NA	hollenbach2017diccionario	
+5077	pena11	culpa, pecado	kuèchi	kuèchi	206	NA	NA	NA	hollenbach2017diccionario	
+5078	pena11	sueño	ñùmà’ná	ñùmà’ná	207	NA	NA	NA	hollenbach2017diccionario	[B]
+5079	pena11	cuándo	ama	ama	208	NA	NA	NA	hollenbach2017diccionario	[A]
+5080	pena11	canción, canto	yaà	yaà	209	NA	NA	NA	hollenbach2017diccionario	[BA]

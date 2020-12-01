@@ -1,76 +1,76 @@
-ID	DOCULECT	CONCEPT	GLOSS	VALUE	FORM	IDlist	CONCEPTICON_ID	LOAN	LOAN_SOURCE	SOURCE	FLOATTONE
-1287	conc11	MOTHER	mother	chākū	chākū	1	1216	NA	NA	bradley1991preliminary	NA
-1288	conc11	MOTHER VOCATIVE	mother!, mom!	nána	nána	2	NA	NA	NA	bradley1991preliminary	NA
-1289	conc11	FATHER	father	chīdā	chīdā	3	1217	NA	NA	bradley1991preliminary	NA
-1290	conc11	FATHER VOCATIVE	father!, dad!	táta	táta	4	NA	NA	NA	bradley1991preliminary	NA
-1291	conc11	CHILD (DESCENDANT)	son/daughter, child	dāyā	dāyā	5	1801	NA	NA	bradley1991preliminary	NA
-1292	conc11	BROTHER (OF MAN)	brother of man	dhīn	dhīn	9	559	NA	NA	bradley1991preliminary	NA
-1293	conc11	AUNT	aunt	dūdé	dūdé	11	1272	NA	NA	bradley1991preliminary	NA
-1294	conc11	MAN	man	sāhan	sāhan	13	1554	NA	NA	bradley1991preliminary	NA
-1295	conc11	WOMAN	woman	tāhan	tāhan	14	962	NA	NA	bradley1991preliminary	NA
-1296	conc11	WOMAN	woman	nthātā	nthātā	14	962	NA	NA	bradley1991preliminary	NA
-1297	conc11	BONE	bone	īní	īní	18	1394	NA	NA	bradley1991preliminary	NA
-1298	conc11	HAIR	hair, head	tīin	tīin	19	1040	NA	NA	bradley1991preliminary	NA
-1299	conc11	FACE	face	nā	nā	20	1560	NA	NA	bradley1991preliminary	NA
-1300	conc11	TOOTH	tooth	dīyhūn	dīyhūn	22	1380	NA	NA	bradley1991preliminary	NA
-1301	conc11	HAND	hand	tāhá	tāhá	27	1277	NA	NA	bradley1991preliminary	NA
-1302	conc11	BELLY OR STOMACH	stomach	chētē	chētē	30	2114	NA	NA	bradley1991preliminary	NA
-1303	conc11	FOOT	foot	kāhā	kāhā	32	1301	NA	NA	bradley1991preliminary	NA
-1304	conc11	MEDICINE	medicine	xiku	xiku	34	1372	NA	NA	bradley1991preliminary	NA
-1305	conc11	CLOTHES	cloth, clothes	tīnó	tīnó	39	1895	NA	NA	bradley1991preliminary	NA
-1306	conc11	TOWN OR VILLAGE	town	vakyan	vakyan	43	3609	NA	NA	bradley1991preliminary	NA
-1307	conc11	HOUSE	house	váha	váha	44	1252	NA	NA	bradley1991preliminary	NA
-1308	conc11	PATH	road	yúní	yúní	45	2252	NA	NA	bradley1991preliminary	NA
-1309	conc11	ANIMAL	animal	ītī	ītī	50	619	NA	NA	bradley1991preliminary	NA
-1310	conc11	SNAKE	snake	kú	kú	53	730	NA	NA	bradley1991preliminary	NA
-1311	conc11	DEER	deer	yhūdú chēenu	yhūdú-chēenu	61	1936	NA	NA	bradley1991preliminary	NA
-1312	conc11	SKUNK	skunk	hīímha	hīímha	63	NA	NA	NA	bradley1991preliminary	NA
-1313	conc11	POSSUM	(o)possum	īyāáta	īyāáta	64	470	NA	NA	bradley1991preliminary	NA
-1314	conc11	RABBIT	rabbit	kōnẽxó	kōnẽxó	66	1136	yes	Spanish	bradley1991preliminary	NA
-1315	conc11	HEN	chicken	tūhū	tūhū	71	1514	NA	NA	bradley1991preliminary	NA
-1316	conc11	PIG	pig	kūchí	kūchí	72	1337	yes	Spanish	bradley1991preliminary	NA
-1317	conc11	HORSE	horse	yhūdú	yhūdú	73	615	NA	NA	bradley1991preliminary	NA
-1318	conc11	TREE	tree	yāhān	yāhān	80	906	NA	NA	bradley1991preliminary	NA
-1319	conc11	FLOWER	flower	nāanta	nāanta	83	239	NA	NA	bradley1991preliminary	NA
-1320	conc11	CORN	corn	nínú	nínú	87	506	NA	NA	bradley1991preliminary	NA
-1321	conc11	TORTILLA	tortilla	yūuntu	yūuntu	92	NA	NA	NA	bradley1991preliminary	NA
-1322	conc11	SALT	salt	xīima	xīima	99	1274	NA	NA	bradley1991preliminary	NA
-1323	conc11	EGG	egg	dūtúhú	dūtúhú	105	744	NA	NA	bradley1991preliminary	NA
-1324	conc11	MEAT	meat	yūta	yūta	114	634	NA	NA	bradley1991preliminary	NA
-1325	conc11	SMOKE (EXHAUST)	smoke	yhāmhī	yhāmhī	121	778	NA	NA	bradley1991preliminary	NA
-1326	conc11	PLATE	plate	kūhū	kūhū	123	480	NA	NA	bradley1991preliminary	NA
-1327	conc11	ROPE	rope	hīiyu	hīiyu	129	1218	NA	NA	bradley1991preliminary	NA
-1328	conc11	HOLE	hole	xīvā	xīvā	130	1667	NA	NA	bradley1991preliminary	NA
-1329	conc11	MOON	moon	īyu	īyu	134	1313	NA	NA	bradley1991preliminary	NA
-1330	conc11	WATER	water	nūnī	nūnī	137	948	NA	NA	bradley1991preliminary	NA
-1331	conc11	RIVER	river	xīkū	xīkū	139	666	NA	NA	bradley1991preliminary	NA
-1332	conc11	MOUNTAIN OR HILL	mountain	chēeno	chēeno	141	2118	NA	NA	bradley1991preliminary	NA
-1333	conc11	MUD	mud	yinchetée	yinchetée	149	640	NA	NA	bradley1991preliminary	NA
-1334	conc11	RED	red	kwáha	kwáha	152	156	NA	NA	bradley1991preliminary	NA
-1335	conc11	ONE	one	āmā	āmā	157	1493	NA	NA	bradley1991preliminary	NA
-1336	conc11	TWO	two	uvi	uvi	158	1498	NA	NA	bradley1991preliminary	NA
-1337	conc11	THREE	three	inu	inu	159	492	NA	NA	bradley1991preliminary	NA
-1338	conc11	FOUR	four	kun	kun	160	1500	NA	NA	bradley1991preliminary	NA
-1339	conc11	FIVE	five	xūhūn	xūhūn	161	493	NA	NA	bradley1991preliminary	NA
-1340	conc11	SIX	six	xan	xan	162	1703	NA	NA	bradley1991preliminary	NA
-1341	conc11	SEVEN	seven	ntacha	ntacha	163	1704	NA	NA	bradley1991preliminary	NA
-1342	conc11	EIGHT	eight	nīnī	nīnī	164	1705	NA	NA	bradley1991preliminary	NA
-1343	conc11	NINE	nine	nū	nū	165	1483	NA	NA	bradley1991preliminary	NA
-1344	conc11	TEN	ten	ntīchī	ntīchī	166	1515	NA	NA	bradley1991preliminary	NA
-1345	conc11	FIFTEEN	fifteen	ntīthíyūn	ntīthíyūn	167	1709	NA	NA	bradley1991preliminary	NA
-1346	conc11	TWENTY	twenty	ntīkū	ntīkū	168	1710	NA	NA	bradley1991preliminary	NA
-1347	conc11	BIG (SINGULAR)	big.SG	chhātā	chhātā	173	NA	NA	NA	bradley1991preliminary	NA
-1348	conc11	BIG (PLURAL)	big.PL	hātā	hātā	174	NA	NA	NA	bradley1991preliminary	NA
-1349	conc11	SMALL (SINGULAR)	small.SG	lhín	lhín	175	NA	NA	NA	bradley1991preliminary	NA
-1350	conc11	SMALL (PLURAL)	small.PL	hāyáa	hāyáa	176	NA	NA	NA	bradley1991preliminary	NA
-1351	conc11	LARGE (SINGULAR)	long.SG	chhenu	chhenu	177	NA	NA	NA	bradley1991preliminary	NA
-1352	conc11	LARGE (PLURAL)	long.PL	henu	henu	178	NA	NA	NA	bradley1991preliminary	NA
-1353	conc11	GOOD	good	nthāī	nthāī	179	1035	NA	NA	bradley1991preliminary	NA
-1354	conc11	LAZY	lazy	dāanthi	dāanthi	186	1564	NA	NA	bradley1991preliminary	NA
-1355	conc11	NEAR	near	nīnū	nīnū	189	1942	NA	NA	bradley1991preliminary	NA
-1356	conc11	FAR	far	yāhān	yāhān	190	1406	NA	NA	bradley1991preliminary	NA
-1357	conc11	YESTERDAY	yesterday	ikū	ikū	195	1174	NA	NA	bradley1991preliminary	NA
-1358	conc11	YEAR	year	ntūyu	ntūyu	196	1226	NA	NA	bradley1991preliminary	NA
-1359	conc11	NOW OR TODAY	now	mā	mā	197	2097	NA	NA	bradley1991preliminary	NA
-1360	conc11	DAY (24 HOURS)	day	xūvī	xūvī	200	1260	NA	NA	bradley1991preliminary	NA
-1361	conc11	WHEN	when	tikwáhān	tikwáhān	208	1238	NA	NA	bradley1991preliminary	NA
+ID	DOCULECT	GLOSS	VALUE	FORM	IDlist	NOTES	LOAN	LOAN_SOURCE	SOURCE	FLOATTONE
+1287	conc11	mother	chākū	chākū	1	NA	NA	NA	bradley1991preliminary	NA
+1288	conc11	mother!, mom!	nána	nána	2	NA	NA	NA	bradley1991preliminary	NA
+1289	conc11	father	chīdā	chīdā	3	NA	NA	NA	bradley1991preliminary	NA
+1290	conc11	father!, dad!	táta	táta	4	NA	NA	NA	bradley1991preliminary	NA
+1291	conc11	son/daughter, child	dāyā	dāyā	5	NA	NA	NA	bradley1991preliminary	NA
+1292	conc11	brother of man	dhīn	dhīn	9	only as dhīn-u ‘brother-my’	NA	NA	bradley1991preliminary	NA
+1293	conc11	aunt	dūdé	dūdé	11	NA	NA	NA	bradley1991preliminary	NA
+1294	conc11	man	sāhan	sāhan	13	not sure about the tone, since the word never appears in isolation; with emphasis it seems to be sáhan	NA	NA	bradley1991preliminary	NA
+1295	conc11	woman	tāhan	tāhan	14	NA	NA	NA	bradley1991preliminary	NA
+1296	conc11	woman	nthātā	nthātā	14	I don’t know if there’s a difference between the two terms	NA	NA	bradley1991preliminary	NA
+1297	conc11	bone	īní	īní	18	NA	NA	NA	bradley1991preliminary	NA
+1298	conc11	hair, head	tīin	tīin	19	NA	NA	NA	bradley1991preliminary	NA
+1299	conc11	face	nā	nā	20	NA	NA	NA	bradley1991preliminary	NA
+1300	conc11	tooth	dīyhūn	dīyhūn	22	NA	NA	NA	bradley1991preliminary	NA
+1301	conc11	hand	tāhá	tāhá	27	NA	NA	NA	bradley1991preliminary	NA
+1302	conc11	stomach	chētē	chētē	30	NA	NA	NA	bradley1991preliminary	NA
+1303	conc11	foot	kāhā	kāhā	32	NA	NA	NA	bradley1991preliminary	NA
+1304	conc11	medicine	xiku	xiku	34	NA	NA	NA	bradley1991preliminary	NA
+1305	conc11	cloth, clothes	tīnó	tīnó	39	NA	NA	NA	bradley1991preliminary	NA
+1306	conc11	town	vakyan	vakyan	43	NA	NA	NA	bradley1991preliminary	NA
+1307	conc11	house	váha	váha	44	NA	NA	NA	bradley1991preliminary	NA
+1308	conc11	road	yúní	yúní	45	NA	NA	NA	bradley1991preliminary	NA
+1309	conc11	animal	ītī	ītī	50	NA	NA	NA	bradley1991preliminary	NA
+1310	conc11	snake	kú	kú	53	NA	NA	NA	bradley1991preliminary	NA
+1311	conc11	deer	yhūdú chēenu	yhūdú-chēenu	61	horse-mountain; although I suspect the first part meant deer earlier	NA	NA	bradley1991preliminary	NA
+1312	conc11	skunk	hīímha	hīímha	63	NA	NA	NA	bradley1991preliminary	NA
+1313	conc11	(o)possum	īyāáta	īyāáta	64	NA	NA	NA	bradley1991preliminary	NA
+1314	conc11	rabbit	kōnẽxó	kōnẽxó	66	loan	yes	Spanish	bradley1991preliminary	NA
+1315	conc11	chicken	tūhū	tūhū	71	NA	NA	NA	bradley1991preliminary	NA
+1316	conc11	pig	kūchí	kūchí	72	NA	yes	Spanish	bradley1991preliminary	NA
+1317	conc11	horse	yhūdú	yhūdú	73	not sure about tones	NA	NA	bradley1991preliminary	NA
+1318	conc11	tree	yāhān	yāhān	80	NA	NA	NA	bradley1991preliminary	NA
+1319	conc11	flower	nāanta	nāanta	83	NA	NA	NA	bradley1991preliminary	NA
+1320	conc11	corn	nínú	nínú	87	NA	NA	NA	bradley1991preliminary	NA
+1321	conc11	tortilla	yūuntu	yūuntu	92	NA	NA	NA	bradley1991preliminary	NA
+1322	conc11	salt	xīima	xīima	99	NA	NA	NA	bradley1991preliminary	NA
+1323	conc11	egg	dūtúhú	dūtúhú	105	NA	NA	NA	bradley1991preliminary	NA
+1324	conc11	meat	yūta	yūta	114	NA	NA	NA	bradley1991preliminary	NA
+1325	conc11	smoke	yhāmhī	yhāmhī	121	NA	NA	NA	bradley1991preliminary	NA
+1326	conc11	plate	kūhū	kūhū	123	NA	NA	NA	bradley1991preliminary	NA
+1327	conc11	rope	hīiyu	hīiyu	129	NA	NA	NA	bradley1991preliminary	NA
+1328	conc11	hole	xīvā	xīvā	130	NA	NA	NA	bradley1991preliminary	NA
+1329	conc11	moon	īyu	īyu	134	NA	NA	NA	bradley1991preliminary	NA
+1330	conc11	water	nūnī	nūnī	137	NA	NA	NA	bradley1991preliminary	NA
+1331	conc11	river	xīkū	xīkū	139	NA	NA	NA	bradley1991preliminary	NA
+1332	conc11	mountain	chēeno	chēeno	141	NA	NA	NA	bradley1991preliminary	NA
+1333	conc11	mud	yinchetée	yinchetée	149	NA	NA	NA	bradley1991preliminary	NA
+1334	conc11	red	kwáha	kwáha	152	NA	NA	NA	bradley1991preliminary	NA
+1335	conc11	one	āmā	āmā	157	NA	NA	NA	bradley1991preliminary	NA
+1336	conc11	two	uvi	uvi	158	NA	NA	NA	bradley1991preliminary	NA
+1337	conc11	three	inu	inu	159	NA	NA	NA	bradley1991preliminary	NA
+1338	conc11	four	kun	kun	160	NA	NA	NA	bradley1991preliminary	NA
+1339	conc11	five	xūhūn	xūhūn	161	NA	NA	NA	bradley1991preliminary	NA
+1340	conc11	six	xan	xan	162	NA	NA	NA	bradley1991preliminary	NA
+1341	conc11	seven	ntacha	ntacha	163	NA	NA	NA	bradley1991preliminary	NA
+1342	conc11	eight	nīnī	nīnī	164	NA	NA	NA	bradley1991preliminary	NA
+1343	conc11	nine	nū	nū	165	NA	NA	NA	bradley1991preliminary	NA
+1344	conc11	ten	ntīchī	ntīchī	166	NA	NA	NA	bradley1991preliminary	NA
+1345	conc11	fifteen	ntīthíyūn	ntīthíyūn	167	NA	NA	NA	bradley1991preliminary	NA
+1346	conc11	twenty	ntīkū	ntīkū	168	NA	NA	NA	bradley1991preliminary	NA
+1347	conc11	big.SG	chhātā	chhātā	173	NA	NA	NA	bradley1991preliminary	NA
+1348	conc11	big.PL	hātā	hātā	174	NA	NA	NA	bradley1991preliminary	NA
+1349	conc11	small.SG	lhín	lhín	175	NA	NA	NA	bradley1991preliminary	NA
+1350	conc11	small.PL	hāyáa	hāyáa	176	NA	NA	NA	bradley1991preliminary	NA
+1351	conc11	long.SG	chhenu	chhenu	177	NA	NA	NA	bradley1991preliminary	NA
+1352	conc11	long.PL	henu	henu	178	NA	NA	NA	bradley1991preliminary	NA
+1353	conc11	good	nthāī	nthāī	179	NA	NA	NA	bradley1991preliminary	NA
+1354	conc11	lazy	dāanthi	dāanthi	186	NA	NA	NA	bradley1991preliminary	NA
+1355	conc11	near	nīnū	nīnū	189	NA	NA	NA	bradley1991preliminary	NA
+1356	conc11	far	yāhān	yāhān	190	NA	NA	NA	bradley1991preliminary	NA
+1357	conc11	yesterday	ikū	ikū	195	NA	NA	NA	bradley1991preliminary	NA
+1358	conc11	year	ntūyu	ntūyu	196	NA	NA	NA	bradley1991preliminary	NA
+1359	conc11	now	mā	mā	197	NA	NA	NA	bradley1991preliminary	NA
+1360	conc11	day	xūvī	xūvī	200	NA	NA	NA	bradley1991preliminary	NA
+1361	conc11	when	tikwáhān	tikwáhān	208	NA	NA	NA	bradley1991preliminary	NA

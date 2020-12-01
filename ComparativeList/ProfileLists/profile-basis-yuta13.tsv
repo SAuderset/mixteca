@@ -1,220 +1,220 @@
-ID	DOCULECT	CONCEPT	GLOSS	VALUE	FORM	IDlist	CONCEPTICON_ID	LOAN	LOAN_SOURCE	SOURCE	FLOATTONE
-20782	yuta13	MOTHER	madre	naná	naná	1	1216	NA	NA	williams2017diccionario	NA
-20783	yuta13	MOTHER VOCATIVE	mamá!	nána̠	nána̠	2	NA	NA	NA	williams2017diccionario	NA
-20784	yuta13	FATHER	padre	tatá	tatá	3	1217	NA	NA	williams2017diccionario	NA
-20785	yuta13	FATHER VOCATIVE	papá!	tá’a̠	tá’a̠	4	NA	NA	NA	williams2017diccionario	NA
-20786	yuta13	CHILD (DESCENDANT)	hijo/hija	de̠’e	de̠’e	5	1801	NA	NA	williams2017diccionario	NA
-20787	yuta13	CROSS-SEX SIBLING	hermana/hermano de otro genero	ki̠’o	ki̠’o	8	NA	NA	NA	williams2017diccionario	NA
-20788	yuta13	BROTHER (OF MAN)	hermano de hombre	ñani	ñani	9	559	NA	NA	williams2017diccionario	NA
-20789	yuta13	SISTER (OF WOMAN)	hermana de mujer	ku’u̠	ku’u̠	10	NA	NA	NA	williams2017diccionario	NA
-20790	yuta13	AUNT	tía	didi	didi	11	1272	NA	NA	williams2017diccionario	NA
-20791	yuta13	UNCLE	tío	dito	dito	12	1327	NA	NA	williams2017diccionario	NA
-20792	yuta13	MAN	hombre	ta̠a	ta̠a	13	1554	NA	NA	williams2017diccionario	NA
-20793	yuta13	WOMAN	mujer	ñá’a̠	ñá’a̠	14	962	NA	NA	williams2017diccionario	NA
-20794	yuta13	OWNER	dueño, patrón	sato’o	sa-to’o	15	1036	NA	NA	williams2017diccionario	NA
-20795	yuta13	PRIEST	sacerdote	duti̠	duti̠	16	852	NA	NA	williams2017diccionario	NA
-20796	yuta13	BLOOD	sangre	nii̠	nii̠	17	946	NA	NA	williams2017diccionario	NA
-20797	yuta13	BONE	hueso	lásá	lásá	18	1394	NA	NA	williams2017diccionario	NA
-20798	yuta13	BONE	hueso	yikí lásá	yikí lásá	18	1394	NA	NA	williams2017diccionario	NA
-20799	yuta13	HAIR	pelo	ídi̠	ídi̠	19	1040	NA	NA	williams2017diccionario	NA
-20800	yuta13	FACE	cara	noo̠	noo̠	20	1560	NA	NA	williams2017diccionario	NA
-20801	yuta13	TONGUE	lengua	yáa̠	yáa̠	21	1205	NA	NA	williams2017diccionario	NA
-20802	yuta13	TOOTH	diente	no̠’o	no̠’o	22	1380	NA	NA	williams2017diccionario	NA
-20803	yuta13	MOUTH	boca	yú’u̠	yú’u̠	23	674	NA	NA	williams2017diccionario	NA
-20804	yuta13	EAR	oreja, oído	do̠’o	do̠’o	24	1247	NA	NA	williams2017diccionario	NA
-20805	yuta13	NOSE	nariz	diti̠	diti̠	25	1221	NA	NA	williams2017diccionario	NA
-20806	yuta13	NECK	cuello	diko̠	diko̠	26	1333	NA	NA	williams2017diccionario	NA
-20807	yuta13	HAND	mano	ndá’a̠	ndá’a̠	27	1277	NA	NA	williams2017diccionario	NA
-20808	yuta13	FINGERNAIL	uña	chíi̠n	chíi̠n	28	1258	NA	NA	williams2017diccionario	NA
-20809	yuta13	BACK	espalda	sata̠	sata̠	29	1291	NA	NA	williams2017diccionario	NA
-20810	yuta13	BELLY OR STOMACH	barriga, estómago	ti̠xi	ti̠xi	30	2114	NA	NA	williams2017diccionario	NA
-20811	yuta13	INTESTINES	tripa, tripas	xiti	xiti	31	1991	NA	NA	williams2017diccionario	NA
-20812	yuta13	FOOT	pie, pierna	sa’a̠	sa’a̠	32	1301	NA	NA	williams2017diccionario	NA
-20813	yuta13	DISEASE	enfermedad	kue’e̠	kue’e̠	33	1986	NA	NA	williams2017diccionario	NA
-20814	yuta13	MEDICINE	medicina	tata̠	tata̠	34	1372	NA	NA	williams2017diccionario	NA
-20815	yuta13	PIMPLE	grano	ndíki̠	ndíki̠	36	1809	NA	NA	williams2017diccionario	NA
-20816	yuta13	PUS	pus, materia	ndáko̠	ndáko̠	37	1808	NA	NA	williams2017diccionario	NA
-20817	yuta13	CLOTHES	tela, ropa	dá’o̠n	dá’o̠n	39	1895	NA	NA	williams2017diccionario	NA
-20818	yuta13	SANDAL	huarache	ndisa̠	ndisa̠	40	NA	NA	NA	williams2017diccionario	NA
-20819	yuta13	TROUSERS	pantalón	sati	sati	41	809	NA	NA	williams2017diccionario	NA
-20820	yuta13	TOWN OR VILLAGE	pueblo	ñoo	ñoo	43	3609	NA	NA	williams2017diccionario	NA
-20821	yuta13	HOUSE	casa	ve’e	ve’e	44	1252	NA	NA	williams2017diccionario	NA
-20822	yuta13	PATH	camino	íchi̠	íchi̠	45	2252	NA	NA	williams2017diccionario	NA
-20823	yuta13	POST	horcón	di’i̠n	di’i̠n	46	281	NA	NA	williams2017diccionario	NA
-20824	yuta13	MAT	petate	yúu̠	yúu̠	47	195	NA	NA	williams2017diccionario	NA
-20825	yuta13	BED	cama	xi̠to	xi̠to	48	1663	NA	NA	williams2017diccionario	NA
-20826	yuta13	STOOL	silla	sillá	sillá	49	2058	yes	Spanish	williams2017diccionario	NA
-20827	yuta13	STOOL	banquito	téi̠	téi̠	49	2058	NA	NA	williams2017diccionario	NA
-20828	yuta13	ANIMAL	animal	kíti̠	kíti̠	50	619	NA	NA	williams2017diccionario	NA
-20829	yuta13	BIRD	pájaro	laa	laa	51	937	NA	NA	williams2017diccionario	NA
-20830	yuta13	FISH	pez, pescado	ti̠yaká	ti̠yaká	52	227	NA	NA	williams2017diccionario	NA
-20831	yuta13	SNAKE	culebra, serpiente	koo̠	koo̠	53	730	NA	NA	williams2017diccionario	NA
-20832	yuta13	FROG	rana	lá’o̠	lá’o̠	54	503	NA	NA	williams2017diccionario	NA
-20833	yuta13	HAWK	gavilán	dí’án	dí’án	55	307	NA	NA	williams2017diccionario	NA
-20834	yuta13	SCORPION	alacrán	ti̠dó’o̠ma̠	ti̠-dó’o̠ma̠	56	1538	NA	NA	williams2017diccionario	NA
-20835	yuta13	COCKROACH	cucaracha	tá’í	tá’í	57	1575	NA	NA	williams2017diccionario	NA
-20836	yuta13	COCKROACH	cucaracha	tá’áyá	tá’áyá	57	1575	NA	NA	williams2017diccionario	NA
-20837	yuta13	GRASSHOPPER	chapulín	tí’i̠	tí’i̠	58	607	NA	NA	williams2017diccionario	NA
-20838	yuta13	GRASSHOPPER	chapulín (chico)	ti̠ka	ti̠ka	58	607	NA	NA	williams2017diccionario	NA
-20839	yuta13	GRASSHOPPER	chapulín (grande)	ndichichi	ndi-chichi	58	607	NA	NA	williams2017diccionario	NA
-20840	yuta13	BEE	abeja	kirí ñoño̠	kirí ñoño̠	59	665	NA	NA	williams2017diccionario	NA
-20841	yuta13	BEE	abeja	ñoño̠	ñoño̠	59	665	NA	NA	williams2017diccionario	NA
-20842	yuta13	MUROID (MOUSE OR RAT)	ratón	ti̠ín	ti̠ín	60	2139	NA	NA	williams2017diccionario	NA
-20843	yuta13	MUROID (MOUSE OR RAT)	rata	ti̠yóto̠	ti̠-yóto̠	60	2139	NA	NA	williams2017diccionario	NA
-20844	yuta13	DEER	venado	sa̠kuaa	sa̠kuaa	61	1936	NA	NA	williams2017diccionario	NA
-20845	yuta13	DEER	venado	se̠kuaa	se̠kuaa	61	1936	NA	NA	williams2017diccionario	NA
-20846	yuta13	SQUIRREL	ardilla	ndikuéín	ndi-kuéín	62	1628	NA	NA	williams2017diccionario	NA
-20847	yuta13	SKUNK	zorrillo	ti̠ñi̠’í	ti̠-ñi̠’í	63	NA	NA	NA	williams2017diccionario	NA
-20848	yuta13	POSSUM	tlacuache	sáko	sáko	64	470	NA	NA	williams2017diccionario	NA
-20849	yuta13	RACCOON	mapache	má’a̠	má’a̠	65	828	NA	NA	williams2017diccionario	NA
-20850	yuta13	RABBIT	conejo	ilo	ilo	66	1136	NA	NA	williams2017diccionario	NA
-20851	yuta13	VULTURE	zopilote	ti̠yo̠kó	ti̠-yo̠kó	67	1185	NA	NA	williams2017diccionario	NA
-20852	yuta13	DOG	perro	ti̠na	ti̠na	68	2009	NA	NA	williams2017diccionario	NA
-20853	yuta13	CAT	gato	chitó	chitó	69	1208	NA	NA	williams2017diccionario	NA
-20854	yuta13	ROOSTER	gallo	chéli	chéli	70	1511	NA	NA	williams2017diccionario	NA
-20855	yuta13	HEN	gallina	ti̠ño̠ó	ti̠-ño̠ó	71	1514	NA	NA	williams2017diccionario	NA
-20856	yuta13	PIG	marrano, puerco, cerdo	kochí	kochí	72	1337	yes	Spanish	williams2017diccionario	NA
-20857	yuta13	HORSE	caballo	kuéi̠	kuéi̠	73	615	yes	Colonial Spanish	williams2017diccionario	NA
-20858	yuta13	SHEEP	borrego	ndikachí	ndikachí	74	1331	NA	NA	williams2017diccionario	NA
-20859	yuta13	ANT	hormiga (grande y negra)	ti̠yi̠tó	ti̠-yi̠tó	75	587	NA	NA	williams2017diccionario	NA
-20860	yuta13	ANT	hormiga (pequen̄a y negra)	ti̠’i̠’á	ti̠-’i̠’á	75	587	NA	NA	williams2017diccionario	NA
-20861	yuta13	HORN (ANATOMY)	cuerno	ndíki̠	ndíki̠	76	1393	NA	NA	williams2017diccionario	NA
-20862	yuta13	FEATHER	pluma	to̠mi	to̠mi	77	1201	NA	NA	williams2017diccionario	NA
-20863	yuta13	WING	ala	ndixi̠	ndixi̠	78	1257	NA	NA	williams2017diccionario	NA
-20864	yuta13	TAIL	cola	ndó’o̠	ndó’o̠	79	1220	NA	NA	williams2017diccionario	NA
-20865	yuta13	TREE	árbol, palo	yíto̠	yíto̠	80	906	NA	NA	williams2017diccionario	NA
-20866	yuta13	HERBACEOUS PLANT	hierba	yuku̠	yuku̠	81	NA	NA	NA	williams2017diccionario	NA
-20867	yuta13	GRASS	zacate	ndáyo̠’o	ndá-yo̠’o	82	606	NA	NA	williams2017diccionario	NA
-20868	yuta13	GRASS	pasto	ita	ita	82	606	NA	NA	williams2017diccionario	NA
-20869	yuta13	FLOWER	flor	ita	ita	83	239	NA	NA	williams2017diccionario	NA
-20870	yuta13	MAGUEY	maguey	yái̠	yái̠	84	NA	NA	NA	williams2017diccionario	NA
-20871	yuta13	ROOT	raíz	yo̠’o	yo̠’o	85	670	NA	NA	williams2017diccionario	NA
-20872	yuta13	THORN	espina	ío̠n	ío̠n	86	124	NA	NA	williams2017diccionario	NA
-20873	yuta13	CORN	maíz en grano	noni̠	noni̠	87	506	NA	NA	williams2017diccionario	NA
-20874	yuta13	CORN FIELD	milpa	iti	iti	88	449	NA	NA	williams2017diccionario	NA
-20875	yuta13	EAR OF CORN (FRESH)	elote tierno	ída̠	ída̠	89	NA	NA	NA	williams2017diccionario	NA
-20876	yuta13	EAR OF CORN (FRESH)	elote	ndídi̠	ndídi̠	89	NA	NA	NA	williams2017diccionario	NA
-20877	yuta13	NIXTAMAL	nixtamal	nda̠kí	nda̠kí	90	NA	NA	NA	williams2017diccionario	NA
-20878	yuta13	CORN DOUGH	masa, atole	yúsa̠	yúsa̠	91	NA	NA	NA	williams2017diccionario	NA
-20879	yuta13	TORTILLA	tortilla	dita̠	dita̠	92	NA	NA	NA	williams2017diccionario	NA
-20880	yuta13	FURROW	surco	yíko̠	yíko̠	94	1794	NA	NA	williams2017diccionario	NA
-20881	yuta13	TASSEL	espiga (de la milpa)	yoko	yoko	95	NA	NA	NA	williams2017diccionario	NA
-20882	yuta13	BEAN	frijol(es)	ndúchi̠	ndúchi̠	96	832	NA	NA	williams2017diccionario	NA
-20883	yuta13	GREEN BEAN	ejote	ndi̠chi	ndi̠chi	97	NA	NA	NA	williams2017diccionario	NA
-20884	yuta13	CHILI PEPPER	chile	yá’a̠	yá’a̠	98	919	NA	NA	williams2017diccionario	NA
-20885	yuta13	SALT	sal	ñii̠	ñii̠	99	1274	NA	NA	williams2017diccionario	NA
-20886	yuta13	PUMPKIN	calabaza	yíki̠	yíki̠	100	864	NA	NA	williams2017diccionario	NA
-20887	yuta13	CHAYOTE	chayote	ti̠nei̠n	ti̠-nei̠n	101	NA	NA	NA	williams2017diccionario	NA
-20888	yuta13	SUGAR CANE	caña	ndoo̠	ndoo̠	102	146	NA	NA	williams2017diccionario	NA
-20889	yuta13	HONEY	miel	ndu̠dí	ndu̠dí	103	942	NA	NA	williams2017diccionario	NA
-20890	yuta13	FAT (FROM ANIMALS)	grasa, manteca	da̠’an	da̠’an	104	1282	NA	NA	williams2017diccionario	NA
-20891	yuta13	EGG	blanquillo, huevo	nduu̠	nduu̠	105	744	NA	NA	williams2017diccionario	NA
-20892	yuta13	TOMATO	tomate	ti̠nana	ti̠-nana	106	986	NA	NA	williams2017diccionario	NA
-20893	yuta13	SWEET POTATO	camote	ña’ami	ña’ami	107	159	NA	NA	williams2017diccionario	NA
-20894	yuta13	AVOCADO	aguacate	ti̠chí	ti̠chí	108	3725	NA	NA	williams2017diccionario	NA
-20895	yuta13	BANANA	plátano	ndíka̠	ndíka̠	109	868	NA	NA	williams2017diccionario	NA
-20896	yuta13	PRICKLY PEAR CACTUS	nopal	ta̠vi̠’índá	ta̠-vi̠’índá	110	NA	NA	NA	williams2017diccionario	NA
-20897	yuta13	MAMEY	zapote negro	ndokó to̠ón	ndokó to̠ón	111	NA	NA	NA	williams2017diccionario	NA
-20898	yuta13	CUSTARD APPLE	chirimoya	ndóko̠	ndóko̠	112	NA	NA	NA	williams2017diccionario	NA
-20899	yuta13	MUSHROOM	hongo	xi’i̠	xi’i̠	113	641	NA	NA	williams2017diccionario	NA
-20900	yuta13	MEAT	carne	ko̠ño	ko̠ño	114	634	NA	NA	williams2017diccionario	NA
-20901	yuta13	GRIDDLE	comal	xoo̠	xoo̠	115	NA	NA	NA	williams2017diccionario	NA
-20902	yuta13	COOKING POT	olla	ki̠di	ki̠di	116	3653	NA	NA	williams2017diccionario	NA
-20903	yuta13	OVEN	horno	xito̠	xito̠	117	1143	NA	NA	williams2017diccionario	NA
-20904	yuta13	FIRE	lumbre, fuego	ñó’o̠	ñó’o̠	118	221	NA	NA	williams2017diccionario	NA
-20905	yuta13	ASH	ceniza	yaa̠	yaa̠	119	646	NA	NA	williams2017diccionario	NA
-20906	yuta13	CHARCOAL	carbón	too̠n	too̠n	120	1188	NA	NA	williams2017diccionario	NA
-20907	yuta13	SMOKE (EXHAUST)	humo	ño’o̠ma̠	ño’o̠ma̠	121	778	NA	NA	williams2017diccionario	NA
-20908	yuta13	GARBAGE	basura	xe’e̠	xe’e̠	122	909	NA	NA	williams2017diccionario	NA
-20909	yuta13	PLATE	plato	ko’o̠	ko’o̠	123	480	NA	NA	williams2017diccionario	NA
-20910	yuta13	GOURD BOWL	jícara	yáxi̠	yáxi̠	124	NA	NA	NA	williams2017diccionario	NA
-20911	yuta13	BASKET	canasta	ti̠yika̠	ti̠-yika̠	125	1539	NA	NA	williams2017diccionario	NA
-20912	yuta13	BASKET	tenate	ndo’o̠	ndo’o̠	125	1539	NA	NA	williams2017diccionario	NA
-20913	yuta13	BOX OR CHEST	cajón, baúl	sato̠	sato̠	126	3150	NA	NA	williams2017diccionario	NA
-20914	yuta13	THREAD	hilo	yi’o̠	yi’o̠	127	1161	yes	Spanish	williams2017diccionario	NA
-20915	yuta13	COMB	peine	kuika̠	kuika̠	128	1475	NA	NA	williams2017diccionario	NA
-20916	yuta13	ROPE	mecate, cuerda	yó’o̠	yó’o̠	129	1218	NA	NA	williams2017diccionario	NA
-20917	yuta13	HOLE	hoyo	yái̠	yái̠	130	1667	NA	NA	williams2017diccionario	NA
-20918	yuta13	NET	red	ti̠ñóno̠	ti̠-ñóno̠	131	2963	NA	NA	williams2017diccionario	NA
-20919	yuta13	SOAP	jabón	nama̠	nama̠	132	788	NA	NA	williams2017diccionario	NA
-20920	yuta13	RING	anillo	dé’e̠	dé’e̠	133	1374	NA	NA	williams2017diccionario	NA
-20921	yuta13	MOON	luna	yoo̠	yoo̠	134	1313	NA	NA	williams2017diccionario	NA
-20922	yuta13	CLOUD	nube	viko̠	viko̠	135	1489	NA	NA	williams2017diccionario	NA
-20923	yuta13	LIGHTNING	relámpago	tasa	tasa	136	1654	NA	NA	williams2017diccionario	NA
-20924	yuta13	WATER	agua	ta̠kui̠í	ta̠kui̠í	137	948	NA	NA	williams2017diccionario	NA
-20925	yuta13	RAIN (PRECIPITATION)	lluvia	dai̠	dai̠	138	658	NA	NA	williams2017diccionario	NA
-20926	yuta13	RIVER	río	yu̠ta	yu̠ta	139	666	NA	NA	williams2017diccionario	NA
-20927	yuta13	DEW	rocío	yúyó	yúyó	140	1977	NA	NA	williams2017diccionario	NA
-20928	yuta13	MOUNTAIN OR HILL	cerro, monte, montaña	yúku̠	yúku̠	141	2118	NA	NA	williams2017diccionario	NA
-20929	yuta13	PLAIN	llano	yódo̠	yódo̠	142	652	NA	NA	williams2017diccionario	NA
-20930	yuta13	STONE OR ROCK	piedra	yuu̠	yuu̠	143	2125	NA	NA	williams2017diccionario	NA
-20931	yuta13	COTTON	algodón	kachi̠	kachi̠	144	1850	NA	NA	williams2017diccionario	NA
-20932	yuta13	METAL	fierro, metal	ka̠a	ka̠a	145	2244	NA	NA	williams2017diccionario	NA
-20933	yuta13	PAPER	papel	tuti	tuti	146	648	NA	NA	williams2017diccionario	NA
-20934	yuta13	LIME (MATERIAL)	cal	kaka	kaka	147	2540	NA	NA	williams2017diccionario	NA
-20935	yuta13	BEESWAX	cera	ñoma̠	ñoma̠	148	1931	NA	NA	williams2017diccionario	NA
-20936	yuta13	MUD	lodo	ndei’i̠	ndei’i̠	149	640	NA	NA	williams2017diccionario	NA
-20937	yuta13	FOAM	espuma	chi’i̠o̠n	chi’i̠o̠n	150	1768	NA	NA	williams2017diccionario	NA
-20938	yuta13	DUST	polvo	ño̠ya̠ká	ño̠ya̠ká	151	2	NA	NA	williams2017diccionario	NA
-20939	yuta13	RED	rojo	kua’á	kua’á	152	156	NA	NA	williams2017diccionario	NA
-20940	yuta13	GREEN	verde	kuíi̠	kuíi̠	153	1425	NA	NA	williams2017diccionario	NA
-20941	yuta13	YELLOW	amarillo	kuaán	kuaán	154	1424	NA	NA	williams2017diccionario	NA
-20942	yuta13	BLACK	negro	ndei’í	ndei’í	155	163	NA	NA	williams2017diccionario	NA
-20943	yuta13	WHITE	blanco	kuxí	kuxí	156	1335	NA	NA	williams2017diccionario	NA
-20944	yuta13	ONE	uno	iin	iin	157	1493	NA	NA	williams2017diccionario	NA
-20945	yuta13	TWO	dos	uu̠	uu̠	158	1498	NA	NA	williams2017diccionario	NA
-20946	yuta13	THREE	tres	oni̠	oni̠	159	492	NA	NA	williams2017diccionario	NA
-20947	yuta13	FOUR	cuatro	komi̠	komi̠	160	1500	NA	NA	williams2017diccionario	NA
-20948	yuta13	FIVE	cinco	o’o̠n	o’o̠n	161	493	NA	NA	williams2017diccionario	NA
-20949	yuta13	SIX	seis	iño̠	iño̠	162	1703	NA	NA	williams2017diccionario	NA
-20950	yuta13	SEVEN	siete	usa̠̠	usa̠̠	163	1704	NA	NA	williams2017diccionario	NA
-20951	yuta13	EIGHT	ocho	ona̠	ona̠	164	1705	NA	NA	williams2017diccionario	NA
-20952	yuta13	NINE	nueve	ii̠n	ii̠n	165	1483	NA	NA	williams2017diccionario	NA
-20953	yuta13	TEN	diez	uxi̠	uxi̠	166	1515	NA	NA	williams2017diccionario	NA
-20954	yuta13	FIFTEEN	quince	sa’o̠n	sa’o̠n	167	1709	NA	NA	williams2017diccionario	NA
-20955	yuta13	TWENTY	veinte	oko̠	oko̠	168	1710	NA	NA	williams2017diccionario	NA
-20956	yuta13	POOR	pobre	nda’í	nda’í	169	1674	NA	NA	williams2017diccionario	NA
-20957	yuta13	RICH	rico	kuíká	kuíká	170	712	NA	NA	williams2017diccionario	NA
-20958	yuta13	COLD	frío	vi̠xi	vi̠xi	171	1287	NA	NA	williams2017diccionario	NA
-20959	yuta13	HOT	caliente	i’íní	i’íní	172	1286	NA	NA	williams2017diccionario	NA
-20960	yuta13	BIG (SINGULAR)	grande.SG	ká’ano	ká’ano	173	NA	NA	NA	williams2017diccionario	NA
-20961	yuta13	BIG (PLURAL)	grande.PL	ná’ano	ná’ano	174	NA	NA	NA	williams2017diccionario	NA
-20962	yuta13	SMALL (SINGULAR)	pequeño.SG, chico.SG	leé	leé	175	NA	NA	NA	williams2017diccionario	NA
-20963	yuta13	SMALL (SINGULAR)	pequeño.SG, chico.SG	ló’o̠	ló’o̠	175	NA	NA	NA	williams2017diccionario	NA
-20964	yuta13	SMALL (PLURAL)	pequeño.PL, chico.PL	kuálí	kuálí	176	NA	NA	NA	williams2017diccionario	NA
-20965	yuta13	LARGE (SINGULAR)	largo.SG	káni̠	káni̠	177	NA	NA	NA	williams2017diccionario	NA
-20966	yuta13	LARGE (PLURAL)	largo.PL	náni̠	náni̠	178	NA	NA	NA	williams2017diccionario	NA
-20967	yuta13	GOOD	bueno	va̠’a	va̠’a	179	1035	NA	NA	williams2017diccionario	NA
-20968	yuta13	SWEET	dulce	vidi̠	vidi̠	180	717	NA	NA	williams2017diccionario	NA
-20969	yuta13	SALTY	salado	o’o̠va̠	o’o̠va̠	181	1091	NA	NA	williams2017diccionario	NA
-20970	yuta13	BITTER	amargo	ova̠	ova̠	182	887	NA	NA	williams2017diccionario	NA
-20971	yuta13	TASTY	sabroso	adi̠	adi̠	183	1813	NA	NA	williams2017diccionario	NA
-20972	yuta13	WIDE	ancho	ndíka̠	ndíka̠	184	1243	NA	NA	williams2017diccionario	NA
-20973	yuta13	NEW	nuevo	sa̠á	sa̠á	185	1231	NA	NA	williams2017diccionario	NA
-20974	yuta13	LAZY	flojo	dúsá	dúsá	186	1564	NA	NA	williams2017diccionario	NA
-20975	yuta13	UGLY	feo, malo	kini	kini	187	1548	NA	NA	williams2017diccionario	NA
-20976	yuta13	JEALOUS	celoso	kuión	kuión	188	2821	NA	NA	williams2017diccionario	NA
-20977	yuta13	NEAR	cerca	yati	yati	189	1942	NA	NA	williams2017diccionario	NA
-20978	yuta13	FAR	está lejos, lejos	xíká	xíká	190	1406	NA	NA	williams2017diccionario	NA
-20979	yuta13	HEAVY	pesado	ve̠e	ve̠e	191	1210	NA	NA	williams2017diccionario	NA
-20980	yuta13	RAW	crudo	yí’í	yí’í	192	1959	NA	NA	williams2017diccionario	NA
-20981	yuta13	SMOOTH	liso	vilá	vilá	193	1234	NA	NA	williams2017diccionario	NA
-20982	yuta13	SLOW	despacio	kueé	kueé	194	701	NA	NA	williams2017diccionario	NA
-20983	yuta13	YESTERDAY	ayer	koni	koni	195	1174	NA	NA	williams2017diccionario	NA
-20984	yuta13	YEAR	año	kuia̠	kuia̠	196	1226	NA	NA	williams2017diccionario	NA
-20985	yuta13	NOW OR TODAY	ahora, hoy	viti	viti	197	2097	NA	NA	williams2017diccionario	NA
-20986	yuta13	NIGHT	noche	sa̠kuaá	sa̠-kuaá	198	1233	NA	NA	williams2017diccionario	NA
-20987	yuta13	NIGHT	noche	se̠kuaá	se̠-kuaá	198	1233	NA	NA	williams2017diccionario	NA
-20988	yuta13	NIGHT TIME	de noche	ñoo	ñoo	199	NA	NA	NA	williams2017diccionario	NA
-20989	yuta13	DAY (24 HOURS)	día	kuu̠	kuu̠	200	1260	NA	NA	williams2017diccionario	NA
-20990	yuta13	DAY (NOT NIGHT)	de día	nduú	nduú	201	1225	NA	NA	williams2017diccionario	NA
-20991	yuta13	HALF	mitad	iin ñe’e	iin ñe’e	202	816	NA	NA	williams2017diccionario	NA
-20992	yuta13	HALF	a la mitad, medio	dao	dao	202	816	NA	NA	williams2017diccionario	NA
-20993	yuta13	MONEY	dinero	di̠’ón	di̠’ón	203	1559	NA	NA	williams2017diccionario	NA
-20994	yuta13	WORKING OR WORK	trabajo	choon	choon	204	2281	NA	NA	williams2017diccionario	NA
-20995	yuta13	WORD	palabra	to̠’on	to̠’on	205	1599	NA	NA	williams2017diccionario	NA
-20996	yuta13	FAULT	culpa	kua̠chi	kua̠chi	206	134	NA	NA	williams2017diccionario	NA
-20997	yuta13	DREAM	sueño	sa̠ni	sa̠ni	207	2374	NA	NA	williams2017diccionario	NA
-20998	yuta13	WHEN	cuándo	ndá oon	ndá oon	208	1238	NA	NA	williams2017diccionario	NA
-20999	yuta13	WHEN	cuándo	ndeí oon	ndeí oon	208	1238	NA	NA	williams2017diccionario	NA
-21000	yuta13	MUSIC	canción, canto	yaa	yaa	209	642	NA	NA	williams2017diccionario	NA
+ID	DOCULECT	GLOSS	VALUE	FORM	IDlist	NOTES	LOAN	LOAN_SOURCE	SOURCE	FLOATTONE
+20782	yuta13	madre	naná	naná	1	NA	NA	NA	williams2017diccionario	NA
+20783	yuta13	mamá!	nána̠	nána̠	2	NA	NA	NA	williams2017diccionario	NA
+20784	yuta13	padre	tatá	tatá	3	NA	NA	NA	williams2017diccionario	NA
+20785	yuta13	papá!	tá’a̠	tá’a̠	4	NA	NA	NA	williams2017diccionario	NA
+20786	yuta13	hijo/hija	de̠’e	de̠’e	5	NA	NA	NA	williams2017diccionario	NA
+20787	yuta13	hermana/hermano de otro genero	ki̠’o	ki̠’o	8	NA	NA	NA	williams2017diccionario	NA
+20788	yuta13	hermano de hombre	ñani	ñani	9	NA	NA	NA	williams2017diccionario	NA
+20789	yuta13	hermana de mujer	ku’u̠	ku’u̠	10	NA	NA	NA	williams2017diccionario	NA
+20790	yuta13	tía	didi	didi	11	NA	NA	NA	williams2017diccionario	NA
+20791	yuta13	tío	dito	dito	12	NA	NA	NA	williams2017diccionario	NA
+20792	yuta13	hombre	ta̠a	ta̠a	13	NA	NA	NA	williams2017diccionario	NA
+20793	yuta13	mujer	ñá’a̠	ñá’a̠	14	NA	NA	NA	williams2017diccionario	NA
+20794	yuta13	dueño, patrón	sato’o	sa-to’o	15	NA	NA	NA	williams2017diccionario	NA
+20795	yuta13	sacerdote	duti̠	duti̠	16	NA	NA	NA	williams2017diccionario	NA
+20796	yuta13	sangre	nii̠	nii̠	17	NA	NA	NA	williams2017diccionario	NA
+20797	yuta13	hueso	lásá	lásá	18	NA	NA	NA	williams2017diccionario	NA
+20798	yuta13	hueso	yikí lásá	yikí lásá	18	NA	NA	NA	williams2017diccionario	NA
+20799	yuta13	pelo	ídi̠	ídi̠	19	NA	NA	NA	williams2017diccionario	NA
+20800	yuta13	cara	noo̠	noo̠	20	NA	NA	NA	williams2017diccionario	NA
+20801	yuta13	lengua	yáa̠	yáa̠	21	NA	NA	NA	williams2017diccionario	NA
+20802	yuta13	diente	no̠’o	no̠’o	22	NA	NA	NA	williams2017diccionario	NA
+20803	yuta13	boca	yú’u̠	yú’u̠	23	NA	NA	NA	williams2017diccionario	NA
+20804	yuta13	oreja, oído	do̠’o	do̠’o	24	NA	NA	NA	williams2017diccionario	NA
+20805	yuta13	nariz	diti̠	diti̠	25	NA	NA	NA	williams2017diccionario	NA
+20806	yuta13	cuello	diko̠	diko̠	26	NA	NA	NA	williams2017diccionario	NA
+20807	yuta13	mano	ndá’a̠	ndá’a̠	27	NA	NA	NA	williams2017diccionario	NA
+20808	yuta13	uña	chíi̠n	chíi̠n	28	NA	NA	NA	williams2017diccionario	NA
+20809	yuta13	espalda	sata̠	sata̠	29	NA	NA	NA	williams2017diccionario	NA
+20810	yuta13	barriga, estómago	ti̠xi	ti̠xi	30	NA	NA	NA	williams2017diccionario	NA
+20811	yuta13	tripa, tripas	xiti	xiti	31	NA	NA	NA	williams2017diccionario	NA
+20812	yuta13	pie, pierna	sa’a̠	sa’a̠	32	NA	NA	NA	williams2017diccionario	NA
+20813	yuta13	enfermedad	kue’e̠	kue’e̠	33	NA	NA	NA	williams2017diccionario	NA
+20814	yuta13	medicina	tata̠	tata̠	34	NA	NA	NA	williams2017diccionario	NA
+20815	yuta13	grano	ndíki̠	ndíki̠	36	NA	NA	NA	williams2017diccionario	NA
+20816	yuta13	pus, materia	ndáko̠	ndáko̠	37	NA	NA	NA	williams2017diccionario	NA
+20817	yuta13	tela, ropa	dá’o̠n	dá’o̠n	39	NA	NA	NA	williams2017diccionario	NA
+20818	yuta13	huarache	ndisa̠	ndisa̠	40	NA	NA	NA	williams2017diccionario	NA
+20819	yuta13	pantalón	sati	sati	41	NA	NA	NA	williams2017diccionario	NA
+20820	yuta13	pueblo	ñoo	ñoo	43	NA	NA	NA	williams2017diccionario	NA
+20821	yuta13	casa	ve’e	ve’e	44	NA	NA	NA	williams2017diccionario	NA
+20822	yuta13	camino	íchi̠	íchi̠	45	NA	NA	NA	williams2017diccionario	NA
+20823	yuta13	horcón	di’i̠n	di’i̠n	46	NA	NA	NA	williams2017diccionario	NA
+20824	yuta13	petate	yúu̠	yúu̠	47	NA	NA	NA	williams2017diccionario	NA
+20825	yuta13	cama	xi̠to	xi̠to	48	NA	NA	NA	williams2017diccionario	NA
+20826	yuta13	silla	sillá	sillá	49	NA	yes	Spanish	williams2017diccionario	NA
+20827	yuta13	banquito	téi̠	téi̠	49	NA	NA	NA	williams2017diccionario	NA
+20828	yuta13	animal	kíti̠	kíti̠	50	NA	NA	NA	williams2017diccionario	NA
+20829	yuta13	pájaro	laa	laa	51	NA	NA	NA	williams2017diccionario	NA
+20830	yuta13	pez, pescado	ti̠yaká	ti̠yaká	52	NA	NA	NA	williams2017diccionario	NA
+20831	yuta13	culebra, serpiente	koo̠	koo̠	53	NA	NA	NA	williams2017diccionario	NA
+20832	yuta13	rana	lá’o̠	lá’o̠	54	NA	NA	NA	williams2017diccionario	NA
+20833	yuta13	gavilán	dí’án	dí’án	55	NA	NA	NA	williams2017diccionario	NA
+20834	yuta13	alacrán	ti̠dó’o̠ma̠	ti̠-dó’o̠ma̠	56	NA	NA	NA	williams2017diccionario	NA
+20835	yuta13	cucaracha	tá’í	tá’í	57	NA	NA	NA	williams2017diccionario	NA
+20836	yuta13	cucaracha	tá’áyá	tá’áyá	57	NA	NA	NA	williams2017diccionario	NA
+20837	yuta13	chapulín	tí’i̠	tí’i̠	58	NA	NA	NA	williams2017diccionario	NA
+20838	yuta13	chapulín (chico)	ti̠ka	ti̠ka	58	NA	NA	NA	williams2017diccionario	NA
+20839	yuta13	chapulín (grande)	ndichichi	ndi-chichi	58	NA	NA	NA	williams2017diccionario	NA
+20840	yuta13	abeja	kirí ñoño̠	kirí ñoño̠	59	NA	NA	NA	williams2017diccionario	NA
+20841	yuta13	abeja	ñoño̠	ñoño̠	59	NA	NA	NA	williams2017diccionario	NA
+20842	yuta13	ratón	ti̠ín	ti̠ín	60	NA	NA	NA	williams2017diccionario	NA
+20843	yuta13	rata	ti̠yóto̠	ti̠-yóto̠	60	NA	NA	NA	williams2017diccionario	NA
+20844	yuta13	venado	sa̠kuaa	sa̠kuaa	61	NA	NA	NA	williams2017diccionario	NA
+20845	yuta13	venado	se̠kuaa	se̠kuaa	61	NA	NA	NA	williams2017diccionario	NA
+20846	yuta13	ardilla	ndikuéín	ndi-kuéín	62	NA	NA	NA	williams2017diccionario	NA
+20847	yuta13	zorrillo	ti̠ñi̠’í	ti̠-ñi̠’í	63	NA	NA	NA	williams2017diccionario	NA
+20848	yuta13	tlacuache	sáko	sáko	64	NA	NA	NA	williams2017diccionario	NA
+20849	yuta13	mapache	má’a̠	má’a̠	65	NA	NA	NA	williams2017diccionario	NA
+20850	yuta13	conejo	ilo	ilo	66	NA	NA	NA	williams2017diccionario	NA
+20851	yuta13	zopilote	ti̠yo̠kó	ti̠-yo̠kó	67	NA	NA	NA	williams2017diccionario	NA
+20852	yuta13	perro	ti̠na	ti̠na	68	NA	NA	NA	williams2017diccionario	NA
+20853	yuta13	gato	chitó	chitó	69	NA	NA	NA	williams2017diccionario	NA
+20854	yuta13	gallo	chéli	chéli	70	NA	NA	NA	williams2017diccionario	NA
+20855	yuta13	gallina	ti̠ño̠ó	ti̠-ño̠ó	71	NA	NA	NA	williams2017diccionario	NA
+20856	yuta13	marrano, puerco, cerdo	kochí	kochí	72	NA	yes	Spanish	williams2017diccionario	NA
+20857	yuta13	caballo	kuéi̠	kuéi̠	73	NA	yes	Colonial Spanish	williams2017diccionario	NA
+20858	yuta13	borrego	ndikachí	ndikachí	74	NA	NA	NA	williams2017diccionario	NA
+20859	yuta13	hormiga (grande y negra)	ti̠yi̠tó	ti̠-yi̠tó	75	NA	NA	NA	williams2017diccionario	NA
+20860	yuta13	hormiga (pequen̄a y negra)	ti̠’i̠’á	ti̠-’i̠’á	75	NA	NA	NA	williams2017diccionario	NA
+20861	yuta13	cuerno	ndíki̠	ndíki̠	76	NA	NA	NA	williams2017diccionario	NA
+20862	yuta13	pluma	to̠mi	to̠mi	77	NA	NA	NA	williams2017diccionario	NA
+20863	yuta13	ala	ndixi̠	ndixi̠	78	NA	NA	NA	williams2017diccionario	NA
+20864	yuta13	cola	ndó’o̠	ndó’o̠	79	NA	NA	NA	williams2017diccionario	NA
+20865	yuta13	árbol, palo	yíto̠	yíto̠	80	NA	NA	NA	williams2017diccionario	NA
+20866	yuta13	hierba	yuku̠	yuku̠	81	NA	NA	NA	williams2017diccionario	NA
+20867	yuta13	zacate	ndáyo̠’o	ndá-yo̠’o	82	NA	NA	NA	williams2017diccionario	NA
+20868	yuta13	pasto	ita	ita	82	same as flower	NA	NA	williams2017diccionario	NA
+20869	yuta13	flor	ita	ita	83	NA	NA	NA	williams2017diccionario	NA
+20870	yuta13	maguey	yái̠	yái̠	84	NA	NA	NA	williams2017diccionario	NA
+20871	yuta13	raíz	yo̠’o	yo̠’o	85	NA	NA	NA	williams2017diccionario	NA
+20872	yuta13	espina	ío̠n	ío̠n	86	NA	NA	NA	williams2017diccionario	NA
+20873	yuta13	maíz en grano	noni̠	noni̠	87	NA	NA	NA	williams2017diccionario	NA
+20874	yuta13	milpa	iti	iti	88	NA	NA	NA	williams2017diccionario	NA
+20875	yuta13	elote tierno	ída̠	ída̠	89	NA	NA	NA	williams2017diccionario	NA
+20876	yuta13	elote	ndídi̠	ndídi̠	89	NA	NA	NA	williams2017diccionario	NA
+20877	yuta13	nixtamal	nda̠kí	nda̠kí	90	NA	NA	NA	williams2017diccionario	NA
+20878	yuta13	masa, atole	yúsa̠	yúsa̠	91	NA	NA	NA	williams2017diccionario	NA
+20879	yuta13	tortilla	dita̠	dita̠	92	NA	NA	NA	williams2017diccionario	NA
+20880	yuta13	surco	yíko̠	yíko̠	94	NA	NA	NA	williams2017diccionario	NA
+20881	yuta13	espiga (de la milpa)	yoko	yoko	95	NA	NA	NA	williams2017diccionario	NA
+20882	yuta13	frijol(es)	ndúchi̠	ndúchi̠	96	NA	NA	NA	williams2017diccionario	NA
+20883	yuta13	ejote	ndi̠chi	ndi̠chi	97	NA	NA	NA	williams2017diccionario	NA
+20884	yuta13	chile	yá’a̠	yá’a̠	98	NA	NA	NA	williams2017diccionario	NA
+20885	yuta13	sal	ñii̠	ñii̠	99	NA	NA	NA	williams2017diccionario	NA
+20886	yuta13	calabaza	yíki̠	yíki̠	100	NA	NA	NA	williams2017diccionario	NA
+20887	yuta13	chayote	ti̠nei̠n	ti̠-nei̠n	101	NA	NA	NA	williams2017diccionario	NA
+20888	yuta13	caña	ndoo̠	ndoo̠	102	NA	NA	NA	williams2017diccionario	NA
+20889	yuta13	miel	ndu̠dí	ndu̠dí	103	NA	NA	NA	williams2017diccionario	NA
+20890	yuta13	grasa, manteca	da̠’an	da̠’an	104	NA	NA	NA	williams2017diccionario	NA
+20891	yuta13	blanquillo, huevo	nduu̠	nduu̠	105	NA	NA	NA	williams2017diccionario	NA
+20892	yuta13	tomate	ti̠nana	ti̠-nana	106	NA	NA	NA	williams2017diccionario	NA
+20893	yuta13	camote	ña’ami	ña’ami	107	NA	NA	NA	williams2017diccionario	NA
+20894	yuta13	aguacate	ti̠chí	ti̠chí	108	NA	NA	NA	williams2017diccionario	NA
+20895	yuta13	plátano	ndíka̠	ndíka̠	109	NA	NA	NA	williams2017diccionario	NA
+20896	yuta13	nopal	ta̠vi̠’índá	ta̠-vi̠’índá	110	NA	NA	NA	williams2017diccionario	NA
+20897	yuta13	zapote negro	ndokó to̠ón	ndokó to̠ón	111	NA	NA	NA	williams2017diccionario	NA
+20898	yuta13	chirimoya	ndóko̠	ndóko̠	112	NA	NA	NA	williams2017diccionario	NA
+20899	yuta13	hongo	xi’i̠	xi’i̠	113	NA	NA	NA	williams2017diccionario	NA
+20900	yuta13	carne	ko̠ño	ko̠ño	114	NA	NA	NA	williams2017diccionario	NA
+20901	yuta13	comal	xoo̠	xoo̠	115	NA	NA	NA	williams2017diccionario	NA
+20902	yuta13	olla	ki̠di	ki̠di	116	NA	NA	NA	williams2017diccionario	NA
+20903	yuta13	horno	xito̠	xito̠	117	NA	NA	NA	williams2017diccionario	NA
+20904	yuta13	lumbre, fuego	ñó’o̠	ñó’o̠	118	NA	NA	NA	williams2017diccionario	NA
+20905	yuta13	ceniza	yaa̠	yaa̠	119	NA	NA	NA	williams2017diccionario	NA
+20906	yuta13	carbón	too̠n	too̠n	120	NA	NA	NA	williams2017diccionario	NA
+20907	yuta13	humo	ño’o̠ma̠	ño’o̠ma̠	121	NA	NA	NA	williams2017diccionario	NA
+20908	yuta13	basura	xe’e̠	xe’e̠	122	NA	NA	NA	williams2017diccionario	NA
+20909	yuta13	plato	ko’o̠	ko’o̠	123	NA	NA	NA	williams2017diccionario	NA
+20910	yuta13	jícara	yáxi̠	yáxi̠	124	NA	NA	NA	williams2017diccionario	NA
+20911	yuta13	canasta	ti̠yika̠	ti̠-yika̠	125	NA	NA	NA	williams2017diccionario	NA
+20912	yuta13	tenate	ndo’o̠	ndo’o̠	125	NA	NA	NA	williams2017diccionario	NA
+20913	yuta13	cajón, baúl	sato̠	sato̠	126	NA	NA	NA	williams2017diccionario	NA
+20914	yuta13	hilo	yi’o̠	yi’o̠	127	NA	yes	Spanish	williams2017diccionario	NA
+20915	yuta13	peine	kuika̠	kuika̠	128	NA	NA	NA	williams2017diccionario	NA
+20916	yuta13	mecate, cuerda	yó’o̠	yó’o̠	129	NA	NA	NA	williams2017diccionario	NA
+20917	yuta13	hoyo	yái̠	yái̠	130	NA	NA	NA	williams2017diccionario	NA
+20918	yuta13	red	ti̠ñóno̠	ti̠-ñóno̠	131	NA	NA	NA	williams2017diccionario	NA
+20919	yuta13	jabón	nama̠	nama̠	132	NA	NA	NA	williams2017diccionario	NA
+20920	yuta13	anillo	dé’e̠	dé’e̠	133	NA	NA	NA	williams2017diccionario	NA
+20921	yuta13	luna	yoo̠	yoo̠	134	NA	NA	NA	williams2017diccionario	NA
+20922	yuta13	nube	viko̠	viko̠	135	NA	NA	NA	williams2017diccionario	NA
+20923	yuta13	relámpago	tasa	tasa	136	NA	NA	NA	williams2017diccionario	NA
+20924	yuta13	agua	ta̠kui̠í	ta̠kui̠í	137	NA	NA	NA	williams2017diccionario	NA
+20925	yuta13	lluvia	dai̠	dai̠	138	NA	NA	NA	williams2017diccionario	NA
+20926	yuta13	río	yu̠ta	yu̠ta	139	NA	NA	NA	williams2017diccionario	NA
+20927	yuta13	rocío	yúyó	yúyó	140	NA	NA	NA	williams2017diccionario	NA
+20928	yuta13	cerro, monte, montaña	yúku̠	yúku̠	141	NA	NA	NA	williams2017diccionario	NA
+20929	yuta13	llano	yódo̠	yódo̠	142	NA	NA	NA	williams2017diccionario	NA
+20930	yuta13	piedra	yuu̠	yuu̠	143	NA	NA	NA	williams2017diccionario	NA
+20931	yuta13	algodón	kachi̠	kachi̠	144	NA	NA	NA	williams2017diccionario	NA
+20932	yuta13	fierro, metal	ka̠a	ka̠a	145	NA	NA	NA	williams2017diccionario	NA
+20933	yuta13	papel	tuti	tuti	146	NA	NA	NA	williams2017diccionario	NA
+20934	yuta13	cal	kaka	kaka	147	NA	NA	NA	williams2017diccionario	NA
+20935	yuta13	cera	ñoma̠	ñoma̠	148	NA	NA	NA	williams2017diccionario	NA
+20936	yuta13	lodo	ndei’i̠	ndei’i̠	149	NA	NA	NA	williams2017diccionario	NA
+20937	yuta13	espuma	chi’i̠o̠n	chi’i̠o̠n	150	NA	NA	NA	williams2017diccionario	NA
+20938	yuta13	polvo	ño̠ya̠ká	ño̠ya̠ká	151	NA	NA	NA	williams2017diccionario	NA
+20939	yuta13	rojo	kua’á	kua’á	152	NA	NA	NA	williams2017diccionario	NA
+20940	yuta13	verde	kuíi̠	kuíi̠	153	NA	NA	NA	williams2017diccionario	NA
+20941	yuta13	amarillo	kuaán	kuaán	154	NA	NA	NA	williams2017diccionario	NA
+20942	yuta13	negro	ndei’í	ndei’í	155	NA	NA	NA	williams2017diccionario	NA
+20943	yuta13	blanco	kuxí	kuxí	156	NA	NA	NA	williams2017diccionario	NA
+20944	yuta13	uno	iin	iin	157	NA	NA	NA	williams2017diccionario	NA
+20945	yuta13	dos	uu̠	uu̠	158	NA	NA	NA	williams2017diccionario	NA
+20946	yuta13	tres	oni̠	oni̠	159	NA	NA	NA	williams2017diccionario	NA
+20947	yuta13	cuatro	komi̠	komi̠	160	NA	NA	NA	williams2017diccionario	NA
+20948	yuta13	cinco	o’o̠n	o’o̠n	161	NA	NA	NA	williams2017diccionario	NA
+20949	yuta13	seis	iño̠	iño̠	162	NA	NA	NA	williams2017diccionario	NA
+20950	yuta13	siete	usa̠̠	usa̠̠	163	NA	NA	NA	williams2017diccionario	NA
+20951	yuta13	ocho	ona̠	ona̠	164	NA	NA	NA	williams2017diccionario	NA
+20952	yuta13	nueve	ii̠n	ii̠n	165	NA	NA	NA	williams2017diccionario	NA
+20953	yuta13	diez	uxi̠	uxi̠	166	NA	NA	NA	williams2017diccionario	NA
+20954	yuta13	quince	sa’o̠n	sa’o̠n	167	NA	NA	NA	williams2017diccionario	NA
+20955	yuta13	veinte	oko̠	oko̠	168	NA	NA	NA	williams2017diccionario	NA
+20956	yuta13	pobre	nda’í	nda’í	169	NA	NA	NA	williams2017diccionario	NA
+20957	yuta13	rico	kuíká	kuíká	170	NA	NA	NA	williams2017diccionario	NA
+20958	yuta13	frío	vi̠xi	vi̠xi	171	NA	NA	NA	williams2017diccionario	NA
+20959	yuta13	caliente	i’íní	i’íní	172	NA	NA	NA	williams2017diccionario	NA
+20960	yuta13	grande.SG	ká’ano	ká’ano	173	NA	NA	NA	williams2017diccionario	NA
+20961	yuta13	grande.PL	ná’ano	ná’ano	174	NA	NA	NA	williams2017diccionario	NA
+20962	yuta13	pequeño.SG, chico.SG	leé	leé	175	NA	NA	NA	williams2017diccionario	NA
+20963	yuta13	pequeño.SG, chico.SG	ló’o̠	ló’o̠	175	NA	NA	NA	williams2017diccionario	NA
+20964	yuta13	pequeño.PL, chico.PL	kuálí	kuálí	176	NA	NA	NA	williams2017diccionario	NA
+20965	yuta13	largo.SG	káni̠	káni̠	177	NA	NA	NA	williams2017diccionario	NA
+20966	yuta13	largo.PL	náni̠	náni̠	178	NA	NA	NA	williams2017diccionario	NA
+20967	yuta13	bueno	va̠’a	va̠’a	179	NA	NA	NA	williams2017diccionario	NA
+20968	yuta13	dulce	vidi̠	vidi̠	180	NA	NA	NA	williams2017diccionario	NA
+20969	yuta13	salado	o’o̠va̠	o’o̠va̠	181	NA	NA	NA	williams2017diccionario	NA
+20970	yuta13	amargo	ova̠	ova̠	182	NA	NA	NA	williams2017diccionario	NA
+20971	yuta13	sabroso	adi̠	adi̠	183	NA	NA	NA	williams2017diccionario	NA
+20972	yuta13	ancho	ndíka̠	ndíka̠	184	NA	NA	NA	williams2017diccionario	NA
+20973	yuta13	nuevo	sa̠á	sa̠á	185	NA	NA	NA	williams2017diccionario	NA
+20974	yuta13	flojo	dúsá	dúsá	186	NA	NA	NA	williams2017diccionario	NA
+20975	yuta13	feo, malo	kini	kini	187	NA	NA	NA	williams2017diccionario	NA
+20976	yuta13	celoso	kuión	kuión	188	NA	NA	NA	williams2017diccionario	NA
+20977	yuta13	cerca	yati	yati	189	NA	NA	NA	williams2017diccionario	NA
+20978	yuta13	está lejos, lejos	xíká	xíká	190	NA	NA	NA	williams2017diccionario	NA
+20979	yuta13	pesado	ve̠e	ve̠e	191	NA	NA	NA	williams2017diccionario	NA
+20980	yuta13	crudo	yí’í	yí’í	192	NA	NA	NA	williams2017diccionario	NA
+20981	yuta13	liso	vilá	vilá	193	NA	NA	NA	williams2017diccionario	NA
+20982	yuta13	despacio	kueé	kueé	194	NA	NA	NA	williams2017diccionario	NA
+20983	yuta13	ayer	koni	koni	195	NA	NA	NA	williams2017diccionario	NA
+20984	yuta13	año	kuia̠	kuia̠	196	NA	NA	NA	williams2017diccionario	NA
+20985	yuta13	ahora, hoy	viti	viti	197	NA	NA	NA	williams2017diccionario	NA
+20986	yuta13	noche	sa̠kuaá	sa̠-kuaá	198	NA	NA	NA	williams2017diccionario	NA
+20987	yuta13	noche	se̠kuaá	se̠-kuaá	198	NA	NA	NA	williams2017diccionario	NA
+20988	yuta13	de noche	ñoo	ñoo	199	NA	NA	NA	williams2017diccionario	NA
+20989	yuta13	día	kuu̠	kuu̠	200	NA	NA	NA	williams2017diccionario	NA
+20990	yuta13	de día	nduú	nduú	201	NA	NA	NA	williams2017diccionario	NA
+20991	yuta13	mitad	iin ñe’e	iin ñe’e	202	NA	NA	NA	williams2017diccionario	NA
+20992	yuta13	a la mitad, medio	dao	dao	202	NA	NA	NA	williams2017diccionario	NA
+20993	yuta13	dinero	di̠’ón	di̠’ón	203	NA	NA	NA	williams2017diccionario	NA
+20994	yuta13	trabajo	choon	choon	204	NA	NA	NA	williams2017diccionario	NA
+20995	yuta13	palabra	to̠’on	to̠’on	205	NA	NA	NA	williams2017diccionario	NA
+20996	yuta13	culpa	kua̠chi	kua̠chi	206	NA	NA	NA	williams2017diccionario	NA
+20997	yuta13	sueño	sa̠ni	sa̠ni	207	NA	NA	NA	williams2017diccionario	NA
+20998	yuta13	cuándo	ndá oon	ndá oon	208	NA	NA	NA	williams2017diccionario	NA
+20999	yuta13	cuándo	ndeí oon	ndeí oon	208	NA	NA	NA	williams2017diccionario	NA
+21000	yuta13	canción, canto	yaa	yaa	209	NA	NA	NA	williams2017diccionario	NA

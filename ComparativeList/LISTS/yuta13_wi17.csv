@@ -2,18 +2,18 @@ IDlist	CATEGORY	GLOSS	VALUE	FORM	ID	NOTES	LOAN	LOAN_SOURCE	DOCULECT	SOURCE
 1	kinship	madre	naná		20782				yuta13	williams2017diccionario
 2	kinship	mamá!	nána̠		20783				yuta13	williams2017diccionario
 3	kinship	padre	tatá		20784				yuta13	williams2017diccionario
-4	kinship	papá!	tá’a̠		20785				yuta13	williams2017diccionario
-5	kinship	hijo/hija	de̠’e		20786				yuta13	williams2017diccionario
+4	kinship	papá!	tá'a̠		20785				yuta13	williams2017diccionario
+5	kinship	hijo/hija	de̠'e		20786				yuta13	williams2017diccionario
 6	kinship	hijo	$						yuta13	williams2017diccionario
 7	kinship	hija	$						yuta13	williams2017diccionario
-8	kinship	hermana/hermano de otro genero	ki̠’o		20787				yuta13	williams2017diccionario
+8	kinship	hermana/hermano de otro genero	ki̠'o		20787				yuta13	williams2017diccionario
 9	kinship	hermano de hombre	ñani		20788				yuta13	williams2017diccionario
-10	kinship	hermana de mujer	ku’u̠		20789				yuta13	williams2017diccionario
+10	kinship	hermana de mujer	ku'u̠		20789				yuta13	williams2017diccionario
 11	kinship	tía	didi		20790				yuta13	williams2017diccionario
 12	kinship	tío	dito		20791				yuta13	williams2017diccionario
 13	person	hombre	ta̠a		20792				yuta13	williams2017diccionario
-14	person	mujer	ñá’a̠		20793				yuta13	williams2017diccionario
-15	person	dueño, patrón	sato’o	sa-to’o	20794				yuta13	williams2017diccionario
+14	person	mujer	ñá'a̠		20793				yuta13	williams2017diccionario
+15	person	dueño, patrón	sato'o	sa-to'o	20794				yuta13	williams2017diccionario
 16	person	sacerdote	duti̠		20795				yuta13	williams2017diccionario
 17	body	sangre	nii̠		20796				yuta13	williams2017diccionario
 18	body	hueso	lásá		20797				yuta13	williams2017diccionario
@@ -21,31 +21,31 @@ IDlist	CATEGORY	GLOSS	VALUE	FORM	ID	NOTES	LOAN	LOAN_SOURCE	DOCULECT	SOURCE
 19	body	pelo	ídi̠		20799				yuta13	williams2017diccionario
 20	body	cara	noo̠		20800				yuta13	williams2017diccionario
 21	body	lengua	yáa̠		20801				yuta13	williams2017diccionario
-22	body	diente	no̠’o		20802				yuta13	williams2017diccionario
-23	body	boca	yú’u̠		20803				yuta13	williams2017diccionario
-24	body	oreja, oído	do̠’o		20804				yuta13	williams2017diccionario
+22	body	diente	no̠'o		20802				yuta13	williams2017diccionario
+23	body	boca	yú'u̠		20803				yuta13	williams2017diccionario
+24	body	oreja, oído	do̠'o		20804				yuta13	williams2017diccionario
 25	body	nariz	diti̠		20805				yuta13	williams2017diccionario
 26	body	cuello	diko̠		20806				yuta13	williams2017diccionario
-27	body	mano	ndá’a̠		20807				yuta13	williams2017diccionario
+27	body	mano	ndá'a̠		20807				yuta13	williams2017diccionario
 28	body	uña	chíi̠n		20808				yuta13	williams2017diccionario
 29	body	espalda	sata̠		20809				yuta13	williams2017diccionario
 30	body	barriga, estómago	ti̠xi		20810				yuta13	williams2017diccionario
 31	body	tripa, tripas	xiti		20811				yuta13	williams2017diccionario
-32	body	pie, pierna	sa’a̠		20812				yuta13	williams2017diccionario
-33	body	enfermedad	kue’e̠		20813				yuta13	williams2017diccionario
+32	body	pie, pierna	sa'a̠		20812				yuta13	williams2017diccionario
+33	body	enfermedad	kue'e̠		20813				yuta13	williams2017diccionario
 34	body	medicina	tata̠		20814				yuta13	williams2017diccionario
 35	body	hinchazón	$						yuta13	williams2017diccionario
 36	body	grano	ndíki̠		20815				yuta13	williams2017diccionario
 37	body	pus, materia	ndáko̠		20816				yuta13	williams2017diccionario
 38	body	orina	$						yuta13	williams2017diccionario
-39	clothing	tela, ropa	dá’o̠n		20817				yuta13	williams2017diccionario
+39	clothing	tela, ropa	dá'o̠n		20817				yuta13	williams2017diccionario
 40	clothing	huarache	ndisa̠		20818				yuta13	williams2017diccionario
 41	clothing	pantalón	sati		20819				yuta13	williams2017diccionario
 42	clothing	huipil	$						yuta13	williams2017diccionario
 43	living	pueblo	ñoo		20820				yuta13	williams2017diccionario
-44	living	casa	ve’e		20821				yuta13	williams2017diccionario
+44	living	casa	ve'e		20821				yuta13	williams2017diccionario
 45	living	camino	íchi̠		20822				yuta13	williams2017diccionario
-46	living	horcón	di’i̠n		20823				yuta13	williams2017diccionario
+46	living	horcón	di'i̠n		20823				yuta13	williams2017diccionario
 47	living	petate	yúu̠		20824				yuta13	williams2017diccionario
 48	living	cama	xi̠to		20825				yuta13	williams2017diccionario
 49	living	silla	sillá		20826		yes	Spanish	yuta13	williams2017diccionario
@@ -54,12 +54,12 @@ IDlist	CATEGORY	GLOSS	VALUE	FORM	ID	NOTES	LOAN	LOAN_SOURCE	DOCULECT	SOURCE
 51	animal	pájaro	laa		20829				yuta13	williams2017diccionario
 52	animal	pez, pescado	ti̠yaká		20830				yuta13	williams2017diccionario
 53	animal	culebra, serpiente	koo̠		20831				yuta13	williams2017diccionario
-54	animal	rana	lá’o̠		20832				yuta13	williams2017diccionario
-55	animal	gavilán	dí’án		20833				yuta13	williams2017diccionario
-56	animal	alacrán	ti̠dó’o̠ma̠	ti̠-dó’o̠ma̠	20834				yuta13	williams2017diccionario
-57	animal	cucaracha	tá’í		20835				yuta13	williams2017diccionario
-57		cucaracha	tá’áyá		20836				yuta13	williams2017diccionario
-58	animal	chapulín	tí’i̠		20837				yuta13	williams2017diccionario
+54	animal	rana	lá'o̠		20832				yuta13	williams2017diccionario
+55	animal	gavilán	dí'án		20833				yuta13	williams2017diccionario
+56	animal	alacrán	ti̠dó'o̠ma̠	ti̠-dó'o̠ma̠	20834				yuta13	williams2017diccionario
+57	animal	cucaracha	tá'í		20835				yuta13	williams2017diccionario
+57		cucaracha	tá'áyá		20836				yuta13	williams2017diccionario
+58	animal	chapulín	tí'i̠		20837				yuta13	williams2017diccionario
 58	animal	chapulín (chico)	ti̠ka		20838				yuta13	williams2017diccionario
 58	animal	chapulín (grande)	ndichichi	ndi-chichi	20839				yuta13	williams2017diccionario
 59	animal	abeja	kirí ñoño̠		20840				yuta13	williams2017diccionario
@@ -69,9 +69,9 @@ IDlist	CATEGORY	GLOSS	VALUE	FORM	ID	NOTES	LOAN	LOAN_SOURCE	DOCULECT	SOURCE
 61	animal	venado	sa̠kuaa		20844				yuta13	williams2017diccionario
 61	animal	venado	se̠kuaa		20845				yuta13	williams2017diccionario
 62	animal	ardilla	ndikuéín	ndi-kuéín	20846				yuta13	williams2017diccionario
-63	animal	zorrillo	ti̠ñi̠’í	ti̠-ñi̠’í	20847				yuta13	williams2017diccionario
+63	animal	zorrillo	ti̠ñi̠'í	ti̠-ñi̠'í	20847				yuta13	williams2017diccionario
 64	animal	tlacuache	sáko		20848				yuta13	williams2017diccionario
-65	animal	mapache	má’a̠		20849				yuta13	williams2017diccionario
+65	animal	mapache	má'a̠		20849				yuta13	williams2017diccionario
 66	animal	conejo	ilo		20850				yuta13	williams2017diccionario
 67	animal	zopilote	ti̠yo̠kó	ti̠-yo̠kó	20851				yuta13	williams2017diccionario
 68	animal	perro	ti̠na		20852				yuta13	williams2017diccionario
@@ -82,18 +82,18 @@ IDlist	CATEGORY	GLOSS	VALUE	FORM	ID	NOTES	LOAN	LOAN_SOURCE	DOCULECT	SOURCE
 73	animal	caballo	kuéi̠		20857		yes	Colonial Spanish	yuta13	williams2017diccionario
 74	animal	borrego	ndikachí		20858				yuta13	williams2017diccionario
 75	animal	hormiga (grande y negra)	ti̠yi̠tó	ti̠-yi̠tó	20859				yuta13	williams2017diccionario
-75		hormiga (pequen̄a y negra)	ti̠’i̠’á	ti̠-’i̠’á	20860				yuta13	williams2017diccionario
+75		hormiga (pequen̄a y negra)	ti̠'i̠'á	ti̠-'i̠'á	20860				yuta13	williams2017diccionario
 76	animal	cuerno	ndíki̠		20861				yuta13	williams2017diccionario
 77	animal	pluma	to̠mi		20862				yuta13	williams2017diccionario
 78	animal	ala	ndixi̠		20863				yuta13	williams2017diccionario
-79	animal	cola	ndó’o̠		20864				yuta13	williams2017diccionario
+79	animal	cola	ndó'o̠		20864				yuta13	williams2017diccionario
 80	plant	árbol, palo	yíto̠		20865				yuta13	williams2017diccionario
 81	plant	hierba	yuku̠		20866				yuta13	williams2017diccionario
-82	plant	zacate	ndáyo̠’o	ndá-yo̠’o	20867				yuta13	williams2017diccionario
+82	plant	zacate	ndáyo̠'o	ndá-yo̠'o	20867				yuta13	williams2017diccionario
 82		pasto	ita		20868	same as flower			yuta13	williams2017diccionario
 83	plant	flor	ita		20869				yuta13	williams2017diccionario
 84	plant	maguey	yái̠		20870				yuta13	williams2017diccionario
-85	plant	raíz	yo̠’o		20871				yuta13	williams2017diccionario
+85	plant	raíz	yo̠'o		20871				yuta13	williams2017diccionario
 86	plant	espina	ío̠n		20872				yuta13	williams2017diccionario
 87	corn	maíz en grano	noni̠		20873				yuta13	williams2017diccionario
 88	corn	milpa	iti		20874				yuta13	williams2017diccionario
@@ -107,43 +107,43 @@ IDlist	CATEGORY	GLOSS	VALUE	FORM	ID	NOTES	LOAN	LOAN_SOURCE	DOCULECT	SOURCE
 95	corn	espiga (de la milpa)	yoko		20881				yuta13	williams2017diccionario
 96	food	frijol(es)	ndúchi̠		20882				yuta13	williams2017diccionario
 97	food	ejote	ndi̠chi		20883				yuta13	williams2017diccionario
-98	food	chile	yá’a̠		20884				yuta13	williams2017diccionario
+98	food	chile	yá'a̠		20884				yuta13	williams2017diccionario
 99	food	sal	ñii̠		20885				yuta13	williams2017diccionario
 100	food	calabaza	yíki̠		20886				yuta13	williams2017diccionario
 101	food	chayote	ti̠nei̠n	ti̠-nei̠n	20887				yuta13	williams2017diccionario
 102	food	caña	ndoo̠		20888				yuta13	williams2017diccionario
 103	food	miel	ndu̠dí		20889				yuta13	williams2017diccionario
-104	food	grasa, manteca	da̠’an		20890				yuta13	williams2017diccionario
+104	food	grasa, manteca	da̠'an		20890				yuta13	williams2017diccionario
 105	food	blanquillo, huevo	nduu̠		20891				yuta13	williams2017diccionario
 106	food	tomate	ti̠nana	ti̠-nana	20892				yuta13	williams2017diccionario
-107	food	camote	ña’ami		20893				yuta13	williams2017diccionario
+107	food	camote	ña'ami		20893				yuta13	williams2017diccionario
 108	food	aguacate	ti̠chí		20894				yuta13	williams2017diccionario
 109	food	plátano	ndíka̠		20895				yuta13	williams2017diccionario
-110	food	nopal	ta̠vi̠’índá	ta̠-vi̠’índá	20896				yuta13	williams2017diccionario
+110	food	nopal	ta̠vi̠'índá	ta̠-vi̠'índá	20896				yuta13	williams2017diccionario
 111	food	zapote negro	ndokó to̠ón		20897				yuta13	williams2017diccionario
 112	food	chirimoya	ndóko̠		20898				yuta13	williams2017diccionario
-113	food	hongo	xi’i̠		20899				yuta13	williams2017diccionario
+113	food	hongo	xi'i̠		20899				yuta13	williams2017diccionario
 114	food	carne	ko̠ño		20900				yuta13	williams2017diccionario
 115	cooking	comal	xoo̠		20901				yuta13	williams2017diccionario
 116	cooking	olla	ki̠di		20902				yuta13	williams2017diccionario
 117	cooking	horno	xito̠		20903				yuta13	williams2017diccionario
-118	cooking	lumbre, fuego	ñó’o̠		20904				yuta13	williams2017diccionario
+118	cooking	lumbre, fuego	ñó'o̠		20904				yuta13	williams2017diccionario
 119	cooking	ceniza	yaa̠		20905				yuta13	williams2017diccionario
 120	cooking	carbón	too̠n		20906				yuta13	williams2017diccionario
-121	cooking	humo	ño’o̠ma̠		20907				yuta13	williams2017diccionario
-122	cooking	basura	xe’e̠		20908				yuta13	williams2017diccionario
-123	cooking	plato	ko’o̠		20909				yuta13	williams2017diccionario
+121	cooking	humo	ño'o̠ma̠		20907				yuta13	williams2017diccionario
+122	cooking	basura	xe'e̠		20908				yuta13	williams2017diccionario
+123	cooking	plato	ko'o̠		20909				yuta13	williams2017diccionario
 124	container	jícara	yáxi̠		20910				yuta13	williams2017diccionario
 125	container	canasta	ti̠yika̠	ti̠-yika̠	20911				yuta13	williams2017diccionario
-125		tenate	ndo’o̠		20912				yuta13	williams2017diccionario
+125		tenate	ndo'o̠		20912				yuta13	williams2017diccionario
 126	container	cajón, baúl	sato̠		20913				yuta13	williams2017diccionario
-127	thing	hilo	yi’o̠		20914		yes	Spanish	yuta13	williams2017diccionario
+127	thing	hilo	yi'o̠		20914		yes	Spanish	yuta13	williams2017diccionario
 128	thing	peine	kuika̠		20915				yuta13	williams2017diccionario
-129	thing	mecate, cuerda	yó’o̠		20916				yuta13	williams2017diccionario
+129	thing	mecate, cuerda	yó'o̠		20916				yuta13	williams2017diccionario
 130	thing	hoyo	yái̠		20917				yuta13	williams2017diccionario
 131	thing	red	ti̠ñóno̠	ti̠-ñóno̠	20918				yuta13	williams2017diccionario
 132	thing	jabón	nama̠		20919				yuta13	williams2017diccionario
-133	thing	anillo	dé’e̠		20920				yuta13	williams2017diccionario
+133	thing	anillo	dé'e̠		20920				yuta13	williams2017diccionario
 134	nature	luna	yoo̠		20921				yuta13	williams2017diccionario
 135	nature	nube	viko̠		20922				yuta13	williams2017diccionario
 136	nature	relámpago	tasa		20923				yuta13	williams2017diccionario
@@ -159,40 +159,40 @@ IDlist	CATEGORY	GLOSS	VALUE	FORM	ID	NOTES	LOAN	LOAN_SOURCE	DOCULECT	SOURCE
 146	material	papel	tuti		20933				yuta13	williams2017diccionario
 147	material	cal	kaka		20934				yuta13	williams2017diccionario
 148	material	cera	ñoma̠		20935				yuta13	williams2017diccionario
-149	material	lodo	ndei’i̠		20936				yuta13	williams2017diccionario
-150	material	espuma	chi’i̠o̠n		20937				yuta13	williams2017diccionario
+149	material	lodo	ndei'i̠		20936				yuta13	williams2017diccionario
+150	material	espuma	chi'i̠o̠n		20937				yuta13	williams2017diccionario
 151	material	polvo	ño̠ya̠ká		20938				yuta13	williams2017diccionario
-152	color	rojo	kua’á		20939				yuta13	williams2017diccionario
+152	color	rojo	kua'á		20939				yuta13	williams2017diccionario
 153	color	verde	kuíi̠		20940				yuta13	williams2017diccionario
 154	color	amarillo	kuaán		20941				yuta13	williams2017diccionario
-155	color	negro	ndei’í		20942				yuta13	williams2017diccionario
+155	color	negro	ndei'í		20942				yuta13	williams2017diccionario
 156	color	blanco	kuxí		20943				yuta13	williams2017diccionario
 157	number	uno	iin		20944				yuta13	williams2017diccionario
 158	number	dos	uu̠		20945				yuta13	williams2017diccionario
 159	number	tres	oni̠		20946				yuta13	williams2017diccionario
 160	number	cuatro	komi̠		20947				yuta13	williams2017diccionario
-161	number	cinco	o’o̠n		20948				yuta13	williams2017diccionario
+161	number	cinco	o'o̠n		20948				yuta13	williams2017diccionario
 162	number	seis	iño̠		20949				yuta13	williams2017diccionario
-163	number	siete	usa̠̠		20950				yuta13	williams2017diccionario
+163	number	siete	usa̠		20950				yuta13	williams2017diccionario
 164	number	ocho	ona̠		20951				yuta13	williams2017diccionario
 165	number	nueve	ii̠n		20952				yuta13	williams2017diccionario
 166	number	diez	uxi̠		20953				yuta13	williams2017diccionario
-167	number	quince	sa’o̠n		20954				yuta13	williams2017diccionario
+167	number	quince	sa'o̠n		20954				yuta13	williams2017diccionario
 168	number	veinte	oko̠		20955				yuta13	williams2017diccionario
-169	property	pobre	nda’í		20956				yuta13	williams2017diccionario
+169	property	pobre	nda'í		20956				yuta13	williams2017diccionario
 170	property	rico	kuíká		20957				yuta13	williams2017diccionario
 171	property	frío	vi̠xi		20958				yuta13	williams2017diccionario
-172	property	caliente	i’íní		20959				yuta13	williams2017diccionario
-173	property	grande.SG	ká’ano		20960				yuta13	williams2017diccionario
-174	property	grande.PL	ná’ano		20961				yuta13	williams2017diccionario
+172	property	caliente	i'íní		20959				yuta13	williams2017diccionario
+173	property	grande.SG	ká'ano		20960				yuta13	williams2017diccionario
+174	property	grande.PL	ná'ano		20961				yuta13	williams2017diccionario
 175	property	pequeño.SG, chico.SG	leé		20962				yuta13	williams2017diccionario
-175		pequeño.SG, chico.SG	ló’o̠		20963				yuta13	williams2017diccionario
+175		pequeño.SG, chico.SG	ló'o̠		20963				yuta13	williams2017diccionario
 176	property	pequeño.PL, chico.PL	kuálí		20964				yuta13	williams2017diccionario
 177	property	largo.SG	káni̠		20965				yuta13	williams2017diccionario
 178	property	largo.PL	náni̠		20966				yuta13	williams2017diccionario
-179	property	bueno	va̠’a		20967				yuta13	williams2017diccionario
+179	property	bueno	va̠'a		20967				yuta13	williams2017diccionario
 180	property	dulce	vidi̠		20968				yuta13	williams2017diccionario
-181	property	salado	o’o̠va̠		20969				yuta13	williams2017diccionario
+181	property	salado	o'o̠va̠		20969				yuta13	williams2017diccionario
 182	property	amargo	ova̠		20970				yuta13	williams2017diccionario
 183	property	sabroso	adi̠		20971				yuta13	williams2017diccionario
 184	property	ancho	ndíka̠		20972				yuta13	williams2017diccionario
@@ -203,7 +203,7 @@ IDlist	CATEGORY	GLOSS	VALUE	FORM	ID	NOTES	LOAN	LOAN_SOURCE	DOCULECT	SOURCE
 189	property	cerca	yati		20977				yuta13	williams2017diccionario
 190	property	está lejos, lejos	xíká		20978				yuta13	williams2017diccionario
 191	property	pesado	ve̠e		20979				yuta13	williams2017diccionario
-192	property	crudo	yí’í		20980				yuta13	williams2017diccionario
+192	property	crudo	yí'í		20980				yuta13	williams2017diccionario
 193	property	liso	vilá		20981				yuta13	williams2017diccionario
 194	property	despacio	kueé		20982				yuta13	williams2017diccionario
 195	time	ayer	koni		20983				yuta13	williams2017diccionario
@@ -214,11 +214,11 @@ IDlist	CATEGORY	GLOSS	VALUE	FORM	ID	NOTES	LOAN	LOAN_SOURCE	DOCULECT	SOURCE
 199	time	de noche	ñoo		20988				yuta13	williams2017diccionario
 200	time	día	kuu̠		20989				yuta13	williams2017diccionario
 201	time	de día	nduú		20990				yuta13	williams2017diccionario
-202	abstract	mitad	iin ñe’e		20991				yuta13	williams2017diccionario
+202	abstract	mitad	iin ñe'e		20991				yuta13	williams2017diccionario
 202		a la mitad, medio	dao		20992				yuta13	williams2017diccionario
-203	abstract	dinero	di̠’ón		20993				yuta13	williams2017diccionario
+203	abstract	dinero	di̠'ón		20993				yuta13	williams2017diccionario
 204	abstract	trabajo	choon		20994				yuta13	williams2017diccionario
-205	abstract	palabra	to̠’on		20995				yuta13	williams2017diccionario
+205	abstract	palabra	to̠'on		20995				yuta13	williams2017diccionario
 206	abstract	culpa	kua̠chi		20996				yuta13	williams2017diccionario
 207	abstract	sueño	sa̠ni		20997				yuta13	williams2017diccionario
 208	abstract	cuándo	ndá oon		20998				yuta13	williams2017diccionario

@@ -1,259 +1,259 @@
-ID	DOCULECT	CONCEPT	GLOSS	VALUE	FORM	IDlist	CONCEPTICON_ID	LOAN	LOAN_SOURCE	SOURCE	FLOATTONE
-1139	diux11	MOTHER	mother	ðɨ́hî	ðɨ́hî	1	1216	NA	NA	kuiper1991syntactic	NA
-1140	diux11	MOTHER VOCATIVE	mother!, mom!	nána	nána	2	NA	NA	NA	kuiper1991syntactic	NA
-1141	diux11	FATHER	father	taā	taā	3	1217	NA	NA	kuiper1991syntactic	NA
-1142	diux11	FATHER VOCATIVE	father!, dad!	táta	táta	4	NA	NA	NA	kuiper1991syntactic	NA
-1143	diux11	CHILD (DESCENDANT)	son/daughter, child	ðichí	ðichí	5	1801	NA	NA	kuiper1991syntactic	NA
-1144	diux11	CHILD (DESCENDANT)	son/daughter, child	ðahyá	ðahyá	5	1801	NA	NA	kuiper1991syntactic	NA
-2048	diux11	CHILD (DESCENDANT)	child	đá’ʔžá	đá’ʔžá	5	1801	NA	NA	durr1987preliminary	NA
-6370	diux11	CHILD (DESCENDANT)	hijo/hija	đaʔya	đaʔya	5	1801	NA	NA	josserand1983mixtec	NA
-2064	diux11	CROSS-SEX SIBLING	cross-sex sibling	kú’ʔá	kú’ʔá	8	NA	NA	NA	durr1987preliminary	NA
-1145	diux11	BROTHER (OF MAN)	brother of man	ñá’ní	ñá’ní	9	559	NA	NA	kuiper1991syntactic	NA
-2074	diux11	BROTHER (OF MAN)	brother of man	'ñànì	'ñànì	9	559	NA	NA	durr1987preliminary	NA
-1146	diux11	SISTER (OF WOMAN)	sister of woman	kú’hú	kú’hú	10	NA	NA	NA	kuiper1991syntactic	NA
-2086	diux11	SISTER (OF WOMAN)	sister of woman	kú’ʔú	kú’ʔú	10	NA	NA	NA	durr1987preliminary	NA
-1147	diux11	AUNT	aunt	ðíðî	ðíðî	11	1272	NA	NA	kuiper1991syntactic	NA
-2097	diux11	AUNT	aunt	'đìđí	'đìđí	11	1272	NA	NA	durr1987preliminary	NA
-1148	diux11	UNCLE	uncle	ðítô	ðítô	12	1327	NA	NA	kuiper1991syntactic	NA
-2111	diux11	UNCLE	uncle	'đìtò	'đìtò	12	1327	NA	NA	durr1987preliminary	NA
-1149	diux11	MAN	man	té-yɨ̄ɨ	té-yɨ̄ɨ	13	1554	NA	NA	kuiper1991syntactic	NA
-6604	diux11	MAN	hombre	se-yɨɨ	se-yɨɨ	13	1554	NA	NA	josserand1983mixtec	NA
-1150	diux11	WOMAN	woman	ña-ðíhî	ña-ðíhî	14	962	NA	NA	kuiper1991syntactic	NA
-1151	diux11	OWNER	owner, boss	shtóho	shtóho	15	1036	NA	NA	kuiper1991syntactic	NA
-1152	diux11	PRIEST	priest	ðutú	ðutú	16	852	NA	NA	kuiper1991syntactic	NA
-1153	diux11	BLOOD	blood	ñí’ñí	ñí’ñí	17	946	NA	NA	kuiper1991syntactic	NA
-6904	diux11	BLOOD	sangre	nɨ̧ñɨ̧	nɨ̧ñɨ̧	17	946	NA	NA	josserand1983mixtec	NA
-2144	diux11	BONE	bone	žɨ̀kɨ̀	žɨ̀kɨ̀	18	1394	NA	NA	durr1987preliminary	NA
-1154	diux11	HAIR	hair	íðí	íðí	19	1040	NA	NA	kuiper1991syntactic	NA
-1155	diux11	FACE	face	nūú	nūú	20	1560	NA	NA	kuiper1991syntactic	NA
-1156	diux11	MOUTH	mouth	yūhu	yūhu	23	674	NA	NA	kuiper1991syntactic	NA
-1157	diux11	EAR	ear	ðóho	ðóho	24	1247	NA	NA	kuiper1991syntactic	NA
-2195	diux11	EAR	ear	đò’ʔó	đò’ʔó	24	1247	NA	NA	durr1987preliminary	NA
-7206	diux11	EAR	oreja	đoʔo	đoʔo	24	1247	NA	NA	josserand1983mixtec	NA
-1158	diux11	NOSE	nose	ðínhni	ðínhni	25	1221	NA	NA	kuiper1991syntactic	NA
-7323	diux11	NOSE	nariz	đi̧tni̧	đi̧tni̧	25	1221	NA	NA	josserand1983mixtec	NA
-7438	diux11	NOSE	cuello	đuxu̧	đuxu̧	25	1221	NA	NA	josserand1983mixtec	NA
-1159	diux11	HAND	hand	ndāha	ndāha	27	1277	NA	NA	kuiper1991syntactic	NA
-1160	diux11	FINGERNAIL	fingernail	tnɨ́ñɨ	tnɨ́ñɨ	28	1258	NA	NA	kuiper1991syntactic	NA
-7552	diux11	FINGERNAIL	uña	tnɨ̧ñɨ̧	tnɨ̧ñɨ̧	28	1258	NA	NA	josserand1983mixtec	NA
-1161	diux11	BACK	back	yátâ	yátâ	29	1291	NA	NA	kuiper1991syntactic	NA
-1162	diux11	BELLY OR STOMACH	stomach	shiti	shiti	30	2114	NA	NA	kuiper1991syntactic	NA
-7671	diux11	INTESTINES	tripas	šiti	šiti	31	1991	NA	NA	josserand1983mixtec	NA
-1163	diux11	FOOT	foot	shéhê	shéhê	32	1301	NA	NA	kuiper1991syntactic	NA
-2240	diux11	FOOT	foot	šé’ʔé	šé’ʔé	32	1301	NA	NA	durr1987preliminary	NA
-7790	diux11	FOOT	pie	šeʔe	šeʔe	32	1301	NA	NA	josserand1983mixtec	NA
-1164	diux11	DISEASE	illness, sickness	kwehe	kwehe	33	1986	NA	NA	kuiper1991syntactic	NA
-7906	diux11	DISEASE	enfermedad	kʷeʔe	kʷeʔe	33	1986	NA	NA	josserand1983mixtec	NA
-1165	diux11	MEDICINE	medicine	tátná	tátná	34	1372	NA	NA	kuiper1991syntactic	NA
-2251	diux11	MEDICINE	medicine	tá’tná̧	tá’tná̧	34	1372	NA	NA	durr1987preliminary	NA
-8116	diux11	SWELLING	grano	ⁿdɨʔyɨ	ⁿdɨʔyɨ	35	1903	NA	NA	josserand1983mixtec	NA
-8229	diux11	PUS	pus	ⁿdakʷa	ⁿdakʷa	37	1808	NA	NA	josserand1983mixtec	NA
-1166	diux11	CLOTHES	cloth, clothes, clothing	ðanhma	ðanhma	39	1895	NA	NA	kuiper1991syntactic	NA
-1167	diux11	SANDAL	sandal, sandals	ndíshâ	ndíshâ	40	NA	NA	NA	kuiper1991syntactic	NA
-8408	diux11	SANDAL	huarache	ⁿdiša	ⁿdiša	40	NA	NA	NA	josserand1983mixtec	NA
-1168	diux11	TROUSERS	pants	shá’tú	shá’tú	41	809	NA	NA	kuiper1991syntactic	NA
-1169	diux11	BLOUSE (WOVEN)	blouse	ðún’hnú	ðún’hnú	42	NA	NA	NA	kuiper1991syntactic	NA
-1170	diux11	TOWN OR VILLAGE	town	ñûû	ñûû	43	3609	NA	NA	kuiper1991syntactic	NA
-8675	diux11	TOWN OR VILLAGE	pueblo	ñu̧u̧	ñu̧u̧	43	3609	NA	NA	josserand1983mixtec	NA
-1171	diux11	HOUSE	house	vēhe	vēhe	44	1252	NA	NA	kuiper1991syntactic	NA
-8791	diux11	HOUSE	casa	ƀeʔe	ƀeʔe	44	1252	NA	NA	josserand1983mixtec	NA
-1172	diux11	PATH	road	īchi	īchi	45	2252	NA	NA	kuiper1991syntactic	NA
-1173	diux11	MAT	mat, sleeping mat, straw mat	yúú	yúú	47	195	NA	NA	kuiper1991syntactic	NA
-8995	diux11	MAT	petate	žuu	žuu	47	195	NA	NA	josserand1983mixtec	NA
-9117	diux11	BED	cama	šito	šito	48	1663	NA	NA	josserand1983mixtec	NA
-1174	diux11	STOOL	chair	siyá	siyá	49	2058	yes	Spanish	kuiper1991syntactic	NA
-9231	diux11	STOOL	banquito	teyu	teyu	49	2058	NA	NA	josserand1983mixtec	NA
-1175	diux11	ANIMAL	animal	kɨ̄tɨ	kɨ̄tɨ	50	619	NA	NA	kuiper1991syntactic	NA
-2342	diux11	ANIMAL	animal	kɨ̀tɨ̀	kɨ̀tɨ̀	50	619	NA	NA	durr1987preliminary	NA
-9353	diux11	ANIMAL	animal	kɨtɨ	kɨtɨ	50	619	NA	NA	josserand1983mixtec	NA
-10112	diux11	ANIMAL	rata	tɨ-tɨ̧ñɨ̧	tɨ-tɨ̧ñɨ̧	50	619	NA	NA	josserand1983mixtec	NA
-1176	diux11	BIRD	bird	chiliðáá	chiliðáá	51	937	NA	NA	kuiper1991syntactic	NA
-9471	diux11	BIRD	pájaro	čili-đaa	čili-đaa	51	937	NA	NA	josserand1983mixtec	NA
-10250	diux11	BIRD	venado	iđu	iđu	51	937	NA	NA	josserand1983mixtec	NA
-1177	diux11	FISH	fish	chāka	chāka	52	227	NA	NA	kuiper1991syntactic	NA
-2366	diux11	FISH	fish	čákà	čákà	52	227	NA	NA	durr1987preliminary	NA
-10366	diux11	FISH	ardilla	kʷȩñu̧	kʷȩñu̧	52	227	NA	NA	josserand1983mixtec	NA
-1178	diux11	SNAKE	snake	kó’ó	kó’ó	53	730	NA	NA	kuiper1991syntactic	NA
-9674	diux11	FROG	rana	ⁿraka	ⁿraka	54	503	NA	NA	josserand1983mixtec	NA
-1179	diux11	BEE	bee	tndáka	tn-dáka	59	665	NA	NA	kuiper1991syntactic	NA
-1180	diux11	BEE	bee	ñú’ñú	ñú’ñú	59	665	NA	NA	kuiper1991syntactic	NA
-10486	diux11	BEE	gato	ƀilu	ƀilu	59	665	NA	NA	josserand1983mixtec	NA
-1181	diux11	MUROID (MOUSE OR RAT)	mouse	tɨ-tnɨ́ñɨ	tɨ-tnɨ́ñɨ	60	2139	NA	NA	kuiper1991syntactic	NA
-1182	diux11	DEER	deer	í’ðú	í’ðú	61	1936	NA	NA	kuiper1991syntactic	NA
-1183	diux11	RABBIT	rabbit	konexó	konexó	66	1136	yes	Spanish	kuiper1991syntactic	NA
-1184	diux11	VULTURE	turkey vulture	chó’kó	chó’kó	67	1185	NA	NA	kuiper1991syntactic	NA
-1185	diux11	DOG	dog	í’ná	í’ná	68	2009	NA	NA	kuiper1991syntactic	NA
-1186	diux11	DOG	dog	ti-hînâ	ti-hînâ	68	2009	NA	NA	kuiper1991syntactic	NA
-1187	diux11	CAT	cat	vílu	vílu	69	1208	NA	NA	kuiper1991syntactic	NA
-1188	diux11	ROOSTER	rooster	lihí	lihí	70	1511	NA	NA	kuiper1991syntactic	NA
-1189	diux11	HEN	chicken	chūún	chūún	71	1514	NA	NA	kuiper1991syntactic	NA
-1190	diux11	SHEEP	sheep	t-káchi	t-káchi	74	1331	NA	NA	kuiper1991syntactic	NA
-10608	diux11	ANT	cuerno	ⁿdɨkɨ	ⁿdɨkɨ	75	587	NA	NA	josserand1983mixtec	NA
-10723	diux11	FEATHER	pluma	tnu̧u̧	tnu̧u̧	77	1201	NA	NA	josserand1983mixtec	NA
-1191	diux11	TAIL	tail	ðú’hán	ðú’hán	79	1220	NA	NA	kuiper1991syntactic	NA
-10931	diux11	TAIL	cola	đu̧ʔa̧	đu̧ʔa̧	79	1220	NA	NA	josserand1983mixtec	NA
-1192	diux11	TREE	tree	yūtnu	yūtnu	80	906	NA	NA	kuiper1991syntactic	NA
-11051	diux11	TREE	árbol	žutnu̧	žutnu̧	80	906	NA	NA	josserand1983mixtec	NA
-1193	diux11	FLOWER	flower	ita	ita	83	239	NA	NA	kuiper1991syntactic	NA
-1194	diux11	MAGUEY	maguey, century plant	yáú	yáú	84	NA	NA	NA	kuiper1991syntactic	NA
-11270	diux11	MAGUEY	maguey	žau	žau	84	NA	NA	NA	josserand1983mixtec	NA
-1195	diux11	ROOT	root	yoho	yoho	85	670	NA	NA	kuiper1991syntactic	NA
-1196	diux11	THORN	thorn	íñú	íñú	86	124	NA	NA	kuiper1991syntactic	NA
-1197	diux11	CORN	corn	núnî	núnî	87	506	NA	NA	kuiper1991syntactic	NA
-11389	diux11	CORN	maíz	nu̧ni̧	nu̧ni̧	87	506	NA	NA	josserand1983mixtec	NA
-1198	diux11	CORN FIELD	cornfield	ítû	ítû	88	449	NA	NA	kuiper1991syntactic	NA
-11511	diux11	CORN FIELD	milpa	itu	itu	88	449	NA	NA	josserand1983mixtec	NA
-1199	diux11	EAR OF CORN (FRESH)	ear of corn	ñɨ́ñɨ́	ñɨ́ñɨ́	89	NA	NA	NA	kuiper1991syntactic	NA
-1200	diux11	CORN DOUGH	corn dough, tortilla dough	yūsha	yūsha	91	NA	NA	NA	kuiper1991syntactic	NA
-11625	diux11	CORN DOUGH	masa	yuša	yuša	91	NA	NA	NA	josserand1983mixtec	NA
-1201	diux11	TORTILLA	tortilla	ðítâ	ðítâ	92	NA	NA	NA	kuiper1991syntactic	NA
-11747	diux11	TORTILLA	tortilla	đita	đita	92	NA	NA	NA	josserand1983mixtec	NA
-12130	diux11	TASSEL	frijol(es)	ⁿduči	ⁿduči	95	NA	NA	NA	josserand1983mixtec	NA
-1202	diux11	BEAN	legume	nduchi	nduchi	96	832	NA	NA	kuiper1991syntactic	NA
-1203	diux11	GREEN BEAN	green bean	ndí’chí	ndí’chí	97	NA	NA	NA	kuiper1991syntactic	NA
-1204	diux11	CHILI PEPPER	chili pepper	yáhá	yáhá	98	919	NA	NA	kuiper1991syntactic	NA
-2498	diux11	CHILI PEPPER	chile	žàʔà	žàʔà	98	919	NA	NA	durr1987preliminary	NA
-1205	diux11	SALT	salt	ñɨ́’ɨ́	ñɨ́’ɨ́	99	1274	NA	NA	kuiper1991syntactic	NA
-12332	diux11	SALT	sal	ñɨ̧ɨ̧	ñɨ̧ɨ̧	99	1274	NA	NA	josserand1983mixtec	NA
-12449	diux11	PUMPKIN	calabaza	žɨxɨ̧	žɨxɨ̧	100	864	NA	NA	josserand1983mixtec	NA
-2507	diux11	SUGAR CANE	cane	ⁿdó’ó	ⁿdó’ó	102	146	NA	NA	durr1987preliminary	NA
-12563	diux11	SUGAR CANE	caña	ⁿdoo	ⁿdoo	102	146	NA	NA	josserand1983mixtec	NA
-12676	diux11	HONEY	miel	ⁿduđi	ⁿduđi	103	942	NA	NA	josserand1983mixtec	NA
-1206	diux11	FAT (FROM ANIMALS)	lard, grease	ðé’hén	ðé’hén	104	1282	NA	NA	kuiper1991syntactic	NA
-1207	diux11	EGG	egg	ndɨu	ndɨu	105	744	NA	NA	kuiper1991syntactic	NA
-12801	diux11	EGG	blanquillo, huevo	ⁿdɨu	ⁿdɨu	105	744	NA	NA	josserand1983mixtec	NA
-1208	diux11	TOMATO	tomato	t-nána	t-nána	106	986	NA	NA	kuiper1991syntactic	NA
-1209	diux11	AVOCADO	avocado	tɨ́chɨ	tɨ́chɨ	108	3725	NA	NA	kuiper1991syntactic	NA
-1210	diux11	BANANA	banana	kwí’hí	kwí’hí	109	868	NA	NA	kuiper1991syntactic	NA
-1211	diux11	PRICKLY PEAR CACTUS	prickly pear cactus	víhndê	víhndê	110	NA	NA	NA	kuiper1991syntactic	NA
-1212	diux11	MEAT	meat	kú’ñú	kú’ñú	114	634	NA	NA	kuiper1991syntactic	NA
-13179	diux11	MEAT	carne	ku̧ñu̧	ku̧ñu̧	114	634	NA	NA	josserand1983mixtec	NA
-13297	diux11	GRIDDLE	comal	šio	šio	115	NA	NA	NA	josserand1983mixtec	NA
-1213	diux11	COOKING POT	pot	kɨ́ðɨ̂	kɨ́ðɨ̂	116	3653	NA	NA	kuiper1991syntactic	NA
-13503	diux11	OVEN	horno	šitnu̧	šitnu̧	117	1143	NA	NA	josserand1983mixtec	NA
-1214	diux11	FIRE	fire	ñúhû	ñúhû	118	221	NA	NA	kuiper1991syntactic	NA
-13613	diux11	FIRE	lumbre	ñu̧ʔu̧	ñu̧ʔu̧	118	221	NA	NA	josserand1983mixtec	NA
-13729	diux11	SMOKE (EXHAUST)	humo	ñu̧ʔa̧	ñu̧ʔa̧	121	778	NA	NA	josserand1983mixtec	NA
-1215	diux11	GARBAGE	garbage, trash	mí’hí	mí’hí	122	909	NA	NA	kuiper1991syntactic	NA
-1216	diux11	PLATE	plate	kóhô	kóhô	123	480	NA	NA	kuiper1991syntactic	NA
-13946	diux11	GOURD BOWL	jícara	yaši	yaši	124	NA	NA	NA	josserand1983mixtec	NA
-1217	diux11	BASKET	basket	yɨ̄ka	yɨ̄ka	125	1539	NA	NA	kuiper1991syntactic	NA
-14066	diux11	BASKET	cajón	kaxa	kaxa	125	1539	NA	NA	josserand1983mixtec	NA
-1218	diux11	BOX OR CHEST	box, trunk	shá’tnú	shá’tnú	126	3150	NA	NA	kuiper1991syntactic	NA
-2545	diux11	THREAD	thread	žú’ʔá	žú’ʔá	127	1161	NA	NA	durr1987preliminary	NA
-14173	diux11	THREAD	hilo	žuʔa	žuʔa	127	1161	NA	NA	josserand1983mixtec	NA
-1219	diux11	ROPE	rope	yóhó	yóhó	129	1218	NA	NA	kuiper1991syntactic	NA
-1220	diux11	HOLE	hole	yɨ́hɨ	yɨ́hɨ	130	1667	NA	NA	kuiper1991syntactic	NA
-1221	diux11	NET	net, net bag	ñúnú	ñúnú	131	2963	NA	NA	kuiper1991syntactic	NA
-14445	diux11	NET	red	ñu̧nu̧	ñu̧nu̧	131	2963	NA	NA	josserand1983mixtec	NA
-1222	diux11	SOAP	soap	ná’má	ná’má	132	788	NA	NA	kuiper1991syntactic	NA
-1223	diux11	MOON	moon	yôô	yôô	134	1313	NA	NA	kuiper1991syntactic	NA
-1224	diux11	CLOUD	cloud	víkô	víkô	135	1489	NA	NA	kuiper1991syntactic	NA
-1225	diux11	WATER	water	ndūte	ndūte	137	948	NA	NA	kuiper1991syntactic	NA
-14568	diux11	WATER	agua	ⁿdute	ⁿdute	137	948	NA	NA	josserand1983mixtec	NA
-1226	diux11	RAIN (PRECIPITATION)	rain (precipitation)	ðá’ú	ðá’ú	138	658	NA	NA	kuiper1991syntactic	NA
-14697	diux11	RAIN (PRECIPITATION)	lluvia	đau	đau	138	658	NA	NA	josserand1983mixtec	NA
-1227	diux11	RIVER	river	yūte	yūte	139	666	NA	NA	kuiper1991syntactic	NA
-14819	diux11	RIVER	río	điʔwa-kaʔnu̧	điʔwa-kaʔnu̧	139	666	NA	NA	josserand1983mixtec	NA
-1228	diux11	MOUNTAIN OR HILL	mountain	yūku	yūku	141	2118	NA	NA	kuiper1991syntactic	NA
-15032	diux11	MOUNTAIN OR HILL	cerro	yuku	yuku	141	2118	NA	NA	josserand1983mixtec	NA
-15156	diux11	PLAIN	llano	žođo	žođo	142	652	NA	NA	josserand1983mixtec	NA
-1229	diux11	STONE OR ROCK	stone, rock	yûû	yûû	143	2125	NA	NA	kuiper1991syntactic	NA
-2626	diux11	STONE OR ROCK	stone	žú’ú	žú’ú	143	2125	NA	NA	durr1987preliminary	NA
-15282	diux11	STONE OR ROCK	piedra	žuu	žuu	143	2125	NA	NA	josserand1983mixtec	NA
-1230	diux11	COTTON	cotton	káchi	káchi	144	1850	NA	NA	kuiper1991syntactic	NA
-15401	diux11	COTTON	algodón	kači	kači	144	1850	NA	NA	josserand1983mixtec	NA
-1231	diux11	METAL	metal	kaa	kaa	145	2244	NA	NA	kuiper1991syntactic	NA
-1232	diux11	PAPER	paper	tūtû	tūtû	146	648	NA	NA	kuiper1991syntactic	NA
-2663	diux11	PAPER	paper	tú'tú	tú'tú	146	648	NA	NA	durr1987preliminary	NA
-1233	diux11	BEESWAX	wax	ñú’á	ñú’á	148	1931	NA	NA	kuiper1991syntactic	NA
-15597	diux11	BEESWAX	cera	ñu̧a̧	ñu̧a̧	148	1931	NA	NA	josserand1983mixtec	NA
-1234	diux11	MUD	mud	ndehyû	ndehyû	149	640	NA	NA	kuiper1991syntactic	NA
-15722	diux11	MUD	lodo	ⁿdeʔyu	ⁿdeʔyu	149	640	NA	NA	josserand1983mixtec	NA
-15837	diux11	FOAM	espuma	i̧ỹu̧	i̧ỹu̧	150	1768	NA	NA	josserand1983mixtec	NA
-16431	diux11	FOAM	cuatro	ku̧u̧	ku̧u̧	150	1768	NA	NA	josserand1983mixtec	NA
-16554	diux11	DUST	cinco	u̧ʔu̧	u̧ʔu̧	151	2	NA	NA	josserand1983mixtec	NA
-1236	diux11	RED	red	kwéhe	kwéhe	152	156	NA	NA	kuiper1991syntactic	NA
-15957	diux11	RED	rojo	kʷeʔe	kʷeʔe	152	156	NA	NA	josserand1983mixtec	NA
-16673	diux11	RED	seis	i̧ñu̧	i̧ñu̧	152	156	NA	NA	josserand1983mixtec	NA
-1237	diux11	GREEN	green	kwīī	kwīī	153	1425	NA	NA	kuiper1991syntactic	NA
-16789	diux11	GREEN	siete	uša	uša	153	1425	NA	NA	josserand1983mixtec	NA
-1238	diux11	YELLOW	yellow	kwāan	kwāan	154	1424	NA	NA	kuiper1991syntactic	NA
-2706	diux11	YELLOW	yellow	'kʷà̧à̧	'kʷà̧à̧	154	1424	NA	NA	durr1987preliminary	NA
-16073	diux11	YELLOW	amarillo	kʷa̧a̧	kʷa̧a̧	154	1424	NA	NA	josserand1983mixtec	NA
-16907	diux11	YELLOW	ocho	u̧na̧	u̧na̧	154	1424	NA	NA	josserand1983mixtec	NA
-1239	diux11	BLACK	black	tnúū	tnúū	155	163	NA	NA	kuiper1991syntactic	NA
-17021	diux11	BLACK	diez	uši	uši	155	163	NA	NA	josserand1983mixtec	NA
-1240	diux11	WHITE	white	kwishí	kwishí	156	1335	NA	NA	kuiper1991syntactic	NA
-1241	diux11	ONE	one	ɨ̄ɨ̄n	ɨ̄ɨ̄n	157	1493	NA	NA	kuiper1991syntactic	NA
-2735	diux11	ONE	one	ɨ̧̀ɨ̧̀	ɨ̧̀ɨ̧̀	157	1493	NA	NA	durr1987preliminary	NA
-17137	diux11	ONE	quince	ša̧ʔu̧	ša̧ʔu̧	157	1493	NA	NA	josserand1983mixtec	NA
-1242	diux11	TWO	two	úû	úû	158	1498	NA	NA	kuiper1991syntactic	NA
-2749	diux11	TWO	two	úú	úú	158	1498	NA	NA	durr1987preliminary	NA
-16188	diux11	TWO	dos	uu	uu	158	1498	NA	NA	josserand1983mixtec	NA
-1243	diux11	THREE	three	únî	únî	159	492	NA	NA	kuiper1991syntactic	NA
-16311	diux11	THREE	tres	u̧ni̧	u̧ni̧	159	492	NA	NA	josserand1983mixtec	NA
-17256	diux11	THREE	pobre	ⁿdaʔu	ⁿdaʔu	159	492	NA	NA	josserand1983mixtec	NA
-1244	diux11	FOUR	four	kóôn	kóôn	160	1500	NA	NA	kuiper1991syntactic	NA
-2760	diux11	FOUR	four	kó̧’ó̧	kó̧’ó̧	160	1500	NA	NA	durr1987preliminary	NA
-1245	diux11	FIVE	five	óhôn	óhôn	161	493	NA	NA	kuiper1991syntactic	NA
-1246	diux11	SIX	six	íñû	íñû	162	1703	NA	NA	kuiper1991syntactic	NA
-1247	diux11	SEVEN	seven	úshâ	úshâ	163	1704	NA	NA	kuiper1991syntactic	NA
-1248	diux11	EIGHT	eight	únâ	únâ	164	1705	NA	NA	kuiper1991syntactic	NA
-1249	diux11	NINE	nine	ɨ́ɨ̂n	ɨ́ɨ̂n	165	1483	NA	NA	kuiper1991syntactic	NA
-2785	diux11	NINE	nine	ɨ̧́’ɨ̧́	ɨ̧́’ɨ̧́	165	1483	NA	NA	durr1987preliminary	NA
-1250	diux11	TEN	ten	úshî	úshî	166	1515	NA	NA	kuiper1991syntactic	NA
-1251	diux11	FIFTEEN	fifteen	shánhûn	shánhûn	167	1709	NA	NA	kuiper1991syntactic	NA
-1252	diux11	TWENTY	twenty	ókô	ókô	168	1710	NA	NA	kuiper1991syntactic	NA
-1253	diux11	POOR	poor	ndahú	ndahú	169	1674	NA	NA	kuiper1991syntactic	NA
-1254	diux11	COLD	cold	víshî	víshî	171	1287	NA	NA	kuiper1991syntactic	NA
-17372	diux11	COLD	frío	ƀiši	ƀiši	171	1287	NA	NA	josserand1983mixtec	NA
-1255	diux11	HOT	hot	ínhní	ínhní	172	1286	NA	NA	kuiper1991syntactic	NA
-1256	diux11	BIG (SINGULAR)	big.SG	kánhnu	kánhnu	173	NA	NA	NA	kuiper1991syntactic	NA
-2819	diux11	BIG (SINGULAR)	big.SG	kà̧ʔnù̧	kà̧ʔnù̧	173	NA	NA	NA	durr1987preliminary	NA
-17583	diux11	BIG (SINGULAR)	grande (sg.)	kaʔnu̧	kaʔnu̧	173	NA	NA	NA	josserand1983mixtec	NA
-1257	diux11	BIG (PLURAL)	big.PL	nánhnu	nánhnu	174	NA	NA	NA	kuiper1991syntactic	NA
-1258	diux11	SMALL (SINGULAR)	small.SG	luchī	luchī	175	NA	NA	NA	kuiper1991syntactic	NA
-2831	diux11	SMALL (SINGULAR)	little.SG	'lùčì	'lùčì	175	NA	NA	NA	durr1987preliminary	NA
-17702	diux11	SMALL (SINGULAR)	chico	luči	luči	175	NA	NA	NA	josserand1983mixtec	NA
-1259	diux11	SMALL (PLURAL)	small.PL	kwechī	kwechī	176	NA	NA	NA	kuiper1991syntactic	NA
-1260	diux11	LARGE (SINGULAR)	long.SG	kaní	kaní	177	NA	NA	NA	kuiper1991syntactic	NA
-1261	diux11	LARGE (PLURAL)	long.PL	naní	naní	178	NA	NA	NA	kuiper1991syntactic	NA
-1262	diux11	GOOD	good	váhâ	váhâ	179	1035	NA	NA	kuiper1991syntactic	NA
-2863	diux11	GOOD	good	ƀà’ʔá	ƀà’ʔá	179	1035	NA	NA	durr1987preliminary	NA
-1263	diux11	SWEET	sweet	víðî	víðî	180	717	NA	NA	kuiper1991syntactic	NA
-17920	diux11	SWEET	dulce	ƀiđi̧	ƀiđi̧	180	717	NA	NA	josserand1983mixtec	NA
-1264	diux11	TASTY	tasty, delicious	aðɨ̄	aðɨ̄	183	1813	NA	NA	kuiper1991syntactic	NA
-1265	diux11	WIDE	wide	nunu	nunu	184	1243	NA	NA	kuiper1991syntactic	NA
-1266	diux11	LAZY	lazy	kúðí	kúðí	186	1564	NA	NA	kuiper1991syntactic	NA
-1267	diux11	UGLY	ugly	kwihá	kwihá	187	1548	NA	NA	kuiper1991syntactic	NA
-1268	diux11	JEALOUS	jealous	kwiñā	kwiñā	188	2821	NA	NA	kuiper1991syntactic	NA
-1269	diux11	NEAR	near	yátní	yátní	189	1942	NA	NA	kuiper1991syntactic	NA
-18575	diux11	NEAR	está cerca	žatni̧ⁿ	žatni̧ⁿ	189	1942	NA	NA	josserand1983mixtec	NA
-1270	diux11	FAR	far	shíká	shíká	190	1406	NA	NA	kuiper1991syntactic	NA
-1271	diux11	HEAVY	heavy	vēé	vēé	191	1210	NA	NA	kuiper1991syntactic	NA
-18682	diux11	HEAVY	pesado	ƀee	ƀee	191	1210	NA	NA	josserand1983mixtec	NA
-1272	diux11	SLOW	slow	kweē	kweē	194	701	NA	NA	kuiper1991syntactic	NA
-18912	diux11	SLOW	despacio	kʷee-ni̧	kʷee-ni̧	194	701	NA	NA	josserand1983mixtec	NA
-1273	diux11	YESTERDAY	yesterday	íkú	íkú	195	1174	NA	NA	kuiper1991syntactic	NA
-19026	diux11	YESTERDAY	ayer	iku	iku	195	1174	NA	NA	josserand1983mixtec	NA
-19141	diux11	YESTERDAY	año	kʷia	kʷia	195	1174	NA	NA	josserand1983mixtec	NA
-1274	diux11	YEAR	year	kwi’á	kwi’á	196	1226	NA	NA	kuiper1991syntactic	NA
-1275	diux11	NOW OR TODAY	now, today	vítna	vítna	197	2097	NA	NA	kuiper1991syntactic	NA
-1276	diux11	NIGHT	night, blind	kwaá	kwaá	198	1233	NA	NA	kuiper1991syntactic	NA
-1277	diux11	NIGHT TIME	night time, at night	niu	niu	199	NA	NA	NA	kuiper1991syntactic	NA
-1278	diux11	DAY (24 HOURS)	day	kɨ̄ú	kɨ̄ú	200	1260	NA	NA	kuiper1991syntactic	NA
-2930	diux11	DAY (24 HOURS)	day	kɨ́’ú	kɨ́’ú	200	1260	NA	NA	durr1987preliminary	NA
-19445	diux11	DAY (24 HOURS)	día	kɨu	kɨu	200	1260	NA	NA	josserand1983mixtec	NA
-1279	diux11	DAY (NOT NIGHT)	day time	ndúú	ndúú	201	1225	NA	NA	kuiper1991syntactic	NA
-1280	diux11	HALF	half, middle	ðáva	ðáva	202	816	NA	NA	kuiper1991syntactic	NA
-19567	diux11	HALF	mitad	đawa	đawa	202	816	NA	NA	josserand1983mixtec	NA
-1281	diux11	MONEY	money	tviní	tviní	203	1559	yes	Old Spanish	kuiper1991syntactic	NA
-1282	diux11	WORKING OR WORK	work	tniū	tniū	204	2281	NA	NA	kuiper1991syntactic	NA
-19684	diux11	WORKING OR WORK	trabajo	tni̧u̧	tni̧u̧	204	2281	NA	NA	josserand1983mixtec	NA
-1283	diux11	WORD	word	tnúhû	tnúhû	205	1599	NA	NA	kuiper1991syntactic	NA
-19807	diux11	WORD	palabra	tnu̧ʔu̧	tnu̧ʔu̧	205	1599	NA	NA	josserand1983mixtec	NA
-1284	diux11	FAULT	fault, sin	kwéchí	kwéchí	206	134	NA	NA	kuiper1991syntactic	NA
-1285	diux11	WHEN	when	ná	ná	208	1238	NA	NA	kuiper1991syntactic	NA
-20012	diux11	WHEN	cuándo	na̧-kɨu	na̧-kɨu	208	1238	NA	NA	josserand1983mixtec	NA
-1286	diux11	MUSIC	song, music	yáa	yáa	209	642	NA	NA	kuiper1991syntactic	NA
+ID	DOCULECT	GLOSS	VALUE	FORM	IDlist	NOTES	LOAN	LOAN_SOURCE	SOURCE	FLOATTONE
+1139	diux11	mother	ðɨ́hî	ðɨ́hî	1	NA	NA	NA	kuiper1991syntactic	NA
+1140	diux11	mother!, mom!	nána	nána	2	NA	NA	NA	kuiper1991syntactic	NA
+1141	diux11	father	taā	taā	3	NA	NA	NA	kuiper1991syntactic	NA
+1142	diux11	father!, dad!	táta	táta	4	NA	NA	NA	kuiper1991syntactic	NA
+1143	diux11	son/daughter, child	ðichí	ðichí	5	NA	NA	NA	kuiper1991syntactic	NA
+1144	diux11	son/daughter, child	ðahyá	ðahyá	5	NA	NA	NA	kuiper1991syntactic	NA
+2048	diux11	child	đá’ʔžá	đá’ʔžá	5	NA	NA	NA	durr1987preliminary	NA
+6370	diux11	hijo/hija	đaʔya	đaʔya	5	NA	NA	NA	josserand1983mixtec	NA
+2064	diux11	cross-sex sibling	kú’ʔá	kú’ʔá	8	NA	NA	NA	durr1987preliminary	NA
+1145	diux11	brother of man	ñá’ní	ñá’ní	9	NA	NA	NA	kuiper1991syntactic	NA
+2074	diux11	brother of man	'ñànì	'ñànì	9	NA	NA	NA	durr1987preliminary	NA
+1146	diux11	sister of woman	kú’hú	kú’hú	10	NA	NA	NA	kuiper1991syntactic	NA
+2086	diux11	sister of woman	kú’ʔú	kú’ʔú	10	NA	NA	NA	durr1987preliminary	NA
+1147	diux11	aunt	ðíðî	ðíðî	11	NA	NA	NA	kuiper1991syntactic	NA
+2097	diux11	aunt	'đìđí	'đìđí	11	NA	NA	NA	durr1987preliminary	NA
+1148	diux11	uncle	ðítô	ðítô	12	NA	NA	NA	kuiper1991syntactic	NA
+2111	diux11	uncle	'đìtò	'đìtò	12	NA	NA	NA	durr1987preliminary	NA
+1149	diux11	man	té-yɨ̄ɨ	té-yɨ̄ɨ	13	male-?	NA	NA	kuiper1991syntactic	NA
+6604	diux11	hombre	se-yɨɨ	se-yɨɨ	13	NA	NA	NA	josserand1983mixtec	NA
+1150	diux11	woman	ña-ðíhî	ña-ðíhî	14	female-?	NA	NA	kuiper1991syntactic	NA
+1151	diux11	owner, boss	shtóho	shtóho	15	NA	NA	NA	kuiper1991syntactic	NA
+1152	diux11	priest	ðutú	ðutú	16	NA	NA	NA	kuiper1991syntactic	NA
+1153	diux11	blood	ñí’ñí	ñí’ñí	17	tones are not basic form, only appears in one example	NA	NA	kuiper1991syntactic	NA
+6904	diux11	sangre	nɨ̧ñɨ̧	nɨ̧ñɨ̧	17	NA	NA	NA	josserand1983mixtec	NA
+2144	diux11	bone	žɨ̀kɨ̀	žɨ̀kɨ̀	18	NA	NA	NA	durr1987preliminary	NA
+1154	diux11	hair	íðí	íðí	19	NA	NA	NA	kuiper1991syntactic	NA
+1155	diux11	face	nūú	nūú	20	NA	NA	NA	kuiper1991syntactic	NA
+1156	diux11	mouth	yūhu	yūhu	23	NA	NA	NA	kuiper1991syntactic	NA
+1157	diux11	ear	ðóho	ðóho	24	NA	NA	NA	kuiper1991syntactic	NA
+2195	diux11	ear	đò’ʔó	đò’ʔó	24	NA	NA	NA	durr1987preliminary	NA
+7206	diux11	oreja	đoʔo	đoʔo	24	NA	NA	NA	josserand1983mixtec	NA
+1158	diux11	nose	ðínhni	ðínhni	25	NA	NA	NA	kuiper1991syntactic	NA
+7323	diux11	nariz	đi̧tni̧	đi̧tni̧	25	NA	NA	NA	josserand1983mixtec	NA
+7438	diux11	cuello	đuxu̧	đuxu̧	26	NA	NA	NA	josserand1983mixtec	NA
+1159	diux11	hand	ndāha	ndāha	27	not sure about basic tones	NA	NA	kuiper1991syntactic	NA
+1160	diux11	fingernail	tnɨ́ñɨ	tnɨ́ñɨ	28	only as part of tɨ-tnɨ́ñɨ ‘mouse’	NA	NA	kuiper1991syntactic	NA
+7552	diux11	uña	tnɨ̧ñɨ̧	tnɨ̧ñɨ̧	28	NA	NA	NA	josserand1983mixtec	NA
+1161	diux11	back	yátâ	yátâ	29	NA	NA	NA	kuiper1991syntactic	NA
+1162	diux11	stomach	shiti	shiti	30	NA	NA	NA	kuiper1991syntactic	NA
+7671	diux11	tripas	šiti	šiti	31	NA	NA	NA	josserand1983mixtec	NA
+1163	diux11	foot	shéhê	shéhê	32	NA	NA	NA	kuiper1991syntactic	NA
+2240	diux11	foot	šé’ʔé	šé’ʔé	32	NA	NA	NA	durr1987preliminary	NA
+7790	diux11	pie	šeʔe	šeʔe	32	NA	NA	NA	josserand1983mixtec	NA
+1164	diux11	illness, sickness	kwehe	kwehe	33	not sure about tones	NA	NA	kuiper1991syntactic	NA
+7906	diux11	enfermedad	kʷeʔe	kʷeʔe	33	NA	NA	NA	josserand1983mixtec	NA
+1165	diux11	medicine	tátná	tátná	34	not sure about tones	NA	NA	kuiper1991syntactic	NA
+2251	diux11	medicine	tá’tná̧	tá’tná̧	34	NA	NA	NA	durr1987preliminary	NA
+8116	diux11	grano	ⁿdɨʔyɨ	ⁿdɨʔyɨ	36	NA	NA	NA	josserand1983mixtec	NA
+8229	diux11	pus	ⁿdakʷa	ⁿdakʷa	37	NA	NA	NA	josserand1983mixtec	NA
+1166	diux11	cloth, clothes, clothing	ðanhma	ðanhma	39	NA	NA	NA	kuiper1991syntactic	NA
+1167	diux11	sandal, sandals	ndíshâ	ndíshâ	40	NA	NA	NA	kuiper1991syntactic	NA
+8408	diux11	huarache	ⁿdiša	ⁿdiša	40	NA	NA	NA	josserand1983mixtec	NA
+1168	diux11	pants	shá’tú	shá’tú	41	not basic tones	NA	NA	kuiper1991syntactic	NA
+1169	diux11	blouse	ðún’hnú	ðún’hnú	42	not basic tones	NA	NA	kuiper1991syntactic	NA
+1170	diux11	town	ñûû	ñûû	43	NA	NA	NA	kuiper1991syntactic	NA
+8675	diux11	pueblo	ñu̧u̧	ñu̧u̧	43	NA	NA	NA	josserand1983mixtec	NA
+1171	diux11	house	vēhe	vēhe	44	NA	NA	NA	kuiper1991syntactic	NA
+8791	diux11	casa	ƀeʔe	ƀeʔe	44	NA	NA	NA	josserand1983mixtec	NA
+1172	diux11	road	īchi	īchi	45	NA	NA	NA	kuiper1991syntactic	NA
+1173	diux11	mat, sleeping mat, straw mat	yúú	yúú	47	not basic tones	NA	NA	kuiper1991syntactic	NA
+8995	diux11	petate	žuu	žuu	47	NA	NA	NA	josserand1983mixtec	NA
+9117	diux11	cama	šito	šito	48	NA	NA	NA	josserand1983mixtec	NA
+1174	diux11	chair	siyá	siyá	49	Sp. silla	yes	Spanish	kuiper1991syntactic	NA
+9231	diux11	banquito	teyu	teyu	49	NA	NA	NA	josserand1983mixtec	NA
+1175	diux11	animal	kɨ̄tɨ	kɨ̄tɨ	50	NA	NA	NA	kuiper1991syntactic	NA
+2342	diux11	animal	kɨ̀tɨ̀	kɨ̀tɨ̀	50	NA	NA	NA	durr1987preliminary	NA
+9353	diux11	animal	kɨtɨ	kɨtɨ	50	NA	NA	NA	josserand1983mixtec	NA
+1176	diux11	bird	chiliðáá	chiliðáá	51	not basic tones; looks like a compound	NA	NA	kuiper1991syntactic	NA
+9471	diux11	pájaro	čili-đaa	čili-đaa	51	NA	NA	NA	josserand1983mixtec	NA
+1177	diux11	fish	chāka	chāka	52	not basic tones probably	NA	NA	kuiper1991syntactic	NA
+2366	diux11	fish	čákà	čákà	52	NA	NA	NA	durr1987preliminary	NA
+1178	diux11	snake	kó’ó	kó’ó	53	not basic tones probably	NA	NA	kuiper1991syntactic	NA
+9674	diux11	rana	ⁿraka	ⁿraka	54	NA	NA	NA	josserand1983mixtec	NA
+1179	diux11	bee	tndáka	tn-dáka	59	animal-fish; not entirely sure about segmentation	NA	NA	kuiper1991syntactic	NA
+1180	diux11	bee	ñú’ñú	ñú’ñú	59	don’t know what the difference is to the other one	NA	NA	kuiper1991syntactic	NA
+1181	diux11	mouse	tɨ-tnɨ́ñɨ	tɨ-tnɨ́ñɨ	60	animal-fingernail	NA	NA	kuiper1991syntactic	NA
+10112	diux11	rata	tɨ-tɨ̧ñɨ̧	tɨ-tɨ̧ñɨ̧	60	NA	NA	NA	josserand1983mixtec	NA
+1182	diux11	deer	í’ðú	í’ðú	61	NA	NA	NA	kuiper1991syntactic	NA
+10250	diux11	venado	iđu	iđu	61	NA	NA	NA	josserand1983mixtec	NA
+10366	diux11	ardilla	kʷȩñu̧	kʷȩñu̧	62	NA	NA	NA	josserand1983mixtec	NA
+1183	diux11	rabbit	konexó	konexó	66	Sp. conejo	yes	Spanish	kuiper1991syntactic	NA
+1184	diux11	turkey vulture	chó’kó	chó’kó	67	not basic tones	NA	NA	kuiper1991syntactic	NA
+1185	diux11	dog	í’ná	í’ná	68	NA	NA	NA	kuiper1991syntactic	NA
+1186	diux11	dog	ti-hînâ	ti-hînâ	68	animal-dog; not sure what the difference is to the other one	NA	NA	kuiper1991syntactic	NA
+1187	diux11	cat	vílu	vílu	69	NA	NA	NA	kuiper1991syntactic	NA
+10486	diux11	gato	ƀilu	ƀilu	69	NA	NA	NA	josserand1983mixtec	NA
+1188	diux11	rooster	lihí	lihí	70	NA	NA	NA	kuiper1991syntactic	NA
+1189	diux11	chicken	chūún	chūún	71	NA	NA	NA	kuiper1991syntactic	NA
+1190	diux11	sheep	t-káchi	t-káchi	74	animal-cotton	NA	NA	kuiper1991syntactic	NA
+10608	diux11	cuerno	ⁿdɨkɨ	ⁿdɨkɨ	76	NA	NA	NA	josserand1983mixtec	NA
+10723	diux11	pluma	tnu̧u̧	tnu̧u̧	77	NA	NA	NA	josserand1983mixtec	NA
+1191	diux11	tail	ðú’hán	ðú’hán	79	not basic tones	NA	NA	kuiper1991syntactic	NA
+10931	diux11	cola	đu̧ʔa̧	đu̧ʔa̧	79	NA	NA	NA	josserand1983mixtec	NA
+1192	diux11	tree	yūtnu	yūtnu	80	basic tones	NA	NA	kuiper1991syntactic	NA
+11051	diux11	árbol	žutnu̧	žutnu̧	80	NA	NA	NA	josserand1983mixtec	NA
+1193	diux11	flower	ita	ita	83	NA	NA	NA	kuiper1991syntactic	NA
+1194	diux11	maguey, century plant	yáú	yáú	84	NA	NA	NA	kuiper1991syntactic	NA
+11270	diux11	maguey	žau	žau	84	NA	NA	NA	josserand1983mixtec	NA
+1195	diux11	root	yoho	yoho	85	NA	NA	NA	kuiper1991syntactic	NA
+1196	diux11	thorn	íñú	íñú	86	not basic tones	NA	NA	kuiper1991syntactic	NA
+1197	diux11	corn	núnî	núnî	87	NA	NA	NA	kuiper1991syntactic	NA
+11389	diux11	maíz	nu̧ni̧	nu̧ni̧	87	NA	NA	NA	josserand1983mixtec	NA
+1198	diux11	cornfield	ítû	ítû	88	NA	NA	NA	kuiper1991syntactic	NA
+11511	diux11	milpa	itu	itu	88	NA	NA	NA	josserand1983mixtec	NA
+1199	diux11	ear of corn	ñɨ́ñɨ́	ñɨ́ñɨ́	89	NA	NA	NA	kuiper1991syntactic	NA
+1200	diux11	corn dough, tortilla dough	yūsha	yūsha	91	NA	NA	NA	kuiper1991syntactic	NA
+11625	diux11	masa	yuša	yuša	91	NA	NA	NA	josserand1983mixtec	NA
+1201	diux11	tortilla	ðítâ	ðítâ	92	NA	NA	NA	kuiper1991syntactic	NA
+11747	diux11	tortilla	đita	đita	92	NA	NA	NA	josserand1983mixtec	NA
+1202	diux11	legume	nduchi	nduchi	96	NA	NA	NA	kuiper1991syntactic	NA
+12130	diux11	frijol(es)	ⁿduči	ⁿduči	96	NA	NA	NA	josserand1983mixtec	NA
+1203	diux11	green bean	ndí’chí	ndí’chí	97	not basic tones	NA	NA	kuiper1991syntactic	NA
+1204	diux11	chili pepper	yáhá	yáhá	98	NA	NA	NA	kuiper1991syntactic	NA
+2498	diux11	chile	žàʔà	žàʔà	98	NA	NA	NA	durr1987preliminary	NA
+1205	diux11	salt	ñɨ́’ɨ́	ñɨ́’ɨ́	99	not basic tones	NA	NA	kuiper1991syntactic	NA
+12332	diux11	sal	ñɨ̧ɨ̧	ñɨ̧ɨ̧	99	NA	NA	NA	josserand1983mixtec	NA
+12449	diux11	calabaza	žɨxɨ̧	žɨxɨ̧	100	NA	NA	NA	josserand1983mixtec	NA
+2507	diux11	cane	ⁿdó’ó	ⁿdó’ó	102	NA	NA	NA	durr1987preliminary	NA
+12563	diux11	caña	ⁿdoo	ⁿdoo	102	NA	NA	NA	josserand1983mixtec	NA
+12676	diux11	miel	ⁿduđi	ⁿduđi	103	NA	NA	NA	josserand1983mixtec	NA
+1206	diux11	lard, grease	ðé’hén	ðé’hén	104	not basic tones	NA	NA	kuiper1991syntactic	NA
+1207	diux11	egg	ndɨu	ndɨu	105	NA	NA	NA	kuiper1991syntactic	NA
+12801	diux11	blanquillo, huevo	ⁿdɨu	ⁿdɨu	105	NA	NA	NA	josserand1983mixtec	NA
+1208	diux11	tomato	t-nána	t-nána	106	spherical-?	NA	NA	kuiper1991syntactic	NA
+1209	diux11	avocado	tɨ́chɨ	tɨ́chɨ	108	only in tnu-tɨ́chɨ ‘avocado tree’	NA	NA	kuiper1991syntactic	NA
+1210	diux11	banana	kwí’hí	kwí’hí	109	not basic tones	NA	NA	kuiper1991syntactic	NA
+1211	diux11	prickly pear cactus	víhndê	víhndê	110	NA	NA	NA	kuiper1991syntactic	NA
+1212	diux11	meat	kú’ñú	kú’ñú	114	not basic tones	NA	NA	kuiper1991syntactic	NA
+13179	diux11	carne	ku̧ñu̧	ku̧ñu̧	114	NA	NA	NA	josserand1983mixtec	NA
+13297	diux11	comal	šio	šio	115	NA	NA	NA	josserand1983mixtec	NA
+1213	diux11	pot	kɨ́ðɨ̂	kɨ́ðɨ̂	116	NA	NA	NA	kuiper1991syntactic	NA
+13503	diux11	horno	šitnu̧	šitnu̧	117	NA	NA	NA	josserand1983mixtec	NA
+1214	diux11	fire	ñúhû	ñúhû	118	NA	NA	NA	kuiper1991syntactic	NA
+13613	diux11	lumbre	ñu̧ʔu̧	ñu̧ʔu̧	118	NA	NA	NA	josserand1983mixtec	NA
+13729	diux11	humo	ñu̧ʔa̧	ñu̧ʔa̧	121	NA	NA	NA	josserand1983mixtec	NA
+1215	diux11	garbage, trash	mí’hí	mí’hí	122	NA	NA	NA	kuiper1991syntactic	NA
+1216	diux11	plate	kóhô	kóhô	123	not basic tones	NA	NA	kuiper1991syntactic	NA
+13946	diux11	jícara	yaši	yaši	124	NA	NA	NA	josserand1983mixtec	NA
+1217	diux11	basket	yɨ̄ka	yɨ̄ka	125	NA	NA	NA	kuiper1991syntactic	NA
+1218	diux11	box, trunk	shá’tnú	shá’tnú	126	not basic tones	NA	NA	kuiper1991syntactic	NA
+14066	diux11	cajón	kaxa	kaxa	126	NA	NA	NA	josserand1983mixtec	NA
+2545	diux11	thread	žú’ʔá	žú’ʔá	127	NA	NA	NA	durr1987preliminary	NA
+14173	diux11	hilo	žuʔa	žuʔa	127	NA	NA	NA	josserand1983mixtec	NA
+1219	diux11	rope	yóhó	yóhó	129	NA	NA	NA	kuiper1991syntactic	NA
+1220	diux11	hole	yɨ́hɨ	yɨ́hɨ	130	only in compound yu-yau-yɨ́hɨ mouth-hole-tiger ‘edge of the tiger’s hole’	NA	NA	kuiper1991syntactic	NA
+1221	diux11	net, net bag	ñúnú	ñúnú	131	NA	NA	NA	kuiper1991syntactic	NA
+14445	diux11	red	ñu̧nu̧	ñu̧nu̧	131	NA	NA	NA	josserand1983mixtec	NA
+1222	diux11	soap	ná’má	ná’má	132	NA	NA	NA	kuiper1991syntactic	NA
+1223	diux11	moon	yôô	yôô	134	NA	NA	NA	kuiper1991syntactic	NA
+1224	diux11	cloud	víkô	víkô	135	NA	NA	NA	kuiper1991syntactic	NA
+1225	diux11	water	ndūte	ndūte	137	NA	NA	NA	kuiper1991syntactic	NA
+14568	diux11	agua	ⁿdute	ⁿdute	137	NA	NA	NA	josserand1983mixtec	NA
+1226	diux11	rain (precipitation)	ðá’ú	ðá’ú	138	NA	NA	NA	kuiper1991syntactic	NA
+14697	diux11	lluvia	đau	đau	138	NA	NA	NA	josserand1983mixtec	NA
+1227	diux11	river	yūte	yūte	139	NA	NA	NA	kuiper1991syntactic	NA
+14819	diux11	río	điʔwa-kaʔnu̧	điʔwa-kaʔnu̧	139	NA	NA	NA	josserand1983mixtec	NA
+1228	diux11	mountain	yūku	yūku	141	NA	NA	NA	kuiper1991syntactic	NA
+15032	diux11	cerro	yuku	yuku	141	NA	NA	NA	josserand1983mixtec	NA
+15156	diux11	llano	žođo	žođo	142	NA	NA	NA	josserand1983mixtec	NA
+1229	diux11	stone, rock	yûû	yûû	143	NA	NA	NA	kuiper1991syntactic	NA
+2626	diux11	stone	žú’ú	žú’ú	143	NA	NA	NA	durr1987preliminary	NA
+15282	diux11	piedra	žuu	žuu	143	NA	NA	NA	josserand1983mixtec	NA
+1230	diux11	cotton	káchi	káchi	144	only as part of t-káchi ‘sheep’	NA	NA	kuiper1991syntactic	NA
+15401	diux11	algodón	kači	kači	144	NA	NA	NA	josserand1983mixtec	NA
+1231	diux11	metal	kaa	kaa	145	NA	NA	NA	kuiper1991syntactic	NA
+1232	diux11	paper	tūtû	tūtû	146	NA	NA	NA	kuiper1991syntactic	NA
+2663	diux11	paper	tú'tú	tú'tú	146	NA	NA	NA	durr1987preliminary	NA
+1233	diux11	wax	ñú’á	ñú’á	148	NA	NA	NA	kuiper1991syntactic	NA
+15597	diux11	cera	ñu̧a̧	ñu̧a̧	148	NA	NA	NA	josserand1983mixtec	NA
+1234	diux11	mud	ndehyû	ndehyû	149	NA	NA	NA	kuiper1991syntactic	NA
+15722	diux11	lodo	ⁿdeʔyu	ⁿdeʔyu	149	NA	NA	NA	josserand1983mixtec	NA
+15837	diux11	espuma	i̧ỹu̧	i̧ỹu̧	150	NA	NA	NA	josserand1983mixtec	NA
+1236	diux11	red	kwéhe	kwéhe	152	not basic tones	NA	NA	kuiper1991syntactic	NA
+15957	diux11	rojo	kʷeʔe	kʷeʔe	152	NA	NA	NA	josserand1983mixtec	NA
+1237	diux11	green	kwīī	kwīī	153	not basic tones	NA	NA	kuiper1991syntactic	NA
+1238	diux11	yellow	kwāan	kwāan	154	not basic tones	NA	NA	kuiper1991syntactic	NA
+2706	diux11	yellow	'kʷà̧à̧	'kʷà̧à̧	154	NA	NA	NA	durr1987preliminary	NA
+16073	diux11	amarillo	kʷa̧a̧	kʷa̧a̧	154	NA	NA	NA	josserand1983mixtec	NA
+1239	diux11	black	tnúū	tnúū	155	NA	NA	NA	kuiper1991syntactic	NA
+1240	diux11	white	kwishí	kwishí	156	NA	NA	NA	kuiper1991syntactic	NA
+1241	diux11	one	ɨ̄ɨ̄n	ɨ̄ɨ̄n	157	basic tones	NA	NA	kuiper1991syntactic	NA
+2735	diux11	one	ɨ̧̀ɨ̧̀	ɨ̧̀ɨ̧̀	157	NA	NA	NA	durr1987preliminary	NA
+1242	diux11	two	úû	úû	158	basic tones	NA	NA	kuiper1991syntactic	NA
+2749	diux11	two	úú	úú	158	NA	NA	NA	durr1987preliminary	NA
+16188	diux11	dos	uu	uu	158	NA	NA	NA	josserand1983mixtec	NA
+1243	diux11	three	únî	únî	159	basic tones	NA	NA	kuiper1991syntactic	NA
+16311	diux11	tres	u̧ni̧	u̧ni̧	159	NA	NA	NA	josserand1983mixtec	NA
+1244	diux11	four	kóôn	kóôn	160	basic tones	NA	NA	kuiper1991syntactic	NA
+2760	diux11	four	kó̧’ó̧	kó̧’ó̧	160	NA	NA	NA	durr1987preliminary	NA
+16431	diux11	cuatro	ku̧u̧	ku̧u̧	160	NA	NA	NA	josserand1983mixtec	NA
+1245	diux11	five	óhôn	óhôn	161	basic tones	NA	NA	kuiper1991syntactic	NA
+16554	diux11	cinco	u̧ʔu̧	u̧ʔu̧	161	NA	NA	NA	josserand1983mixtec	NA
+1246	diux11	six	íñû	íñû	162	basic tones	NA	NA	kuiper1991syntactic	NA
+16673	diux11	seis	i̧ñu̧	i̧ñu̧	162	NA	NA	NA	josserand1983mixtec	NA
+1247	diux11	seven	úshâ	úshâ	163	basic tones	NA	NA	kuiper1991syntactic	NA
+16789	diux11	siete	uša	uša	163	NA	NA	NA	josserand1983mixtec	NA
+1248	diux11	eight	únâ	únâ	164	basic tones	NA	NA	kuiper1991syntactic	NA
+16907	diux11	ocho	u̧na̧	u̧na̧	164	NA	NA	NA	josserand1983mixtec	NA
+1249	diux11	nine	ɨ́ɨ̂n	ɨ́ɨ̂n	165	basic tones	NA	NA	kuiper1991syntactic	NA
+2785	diux11	nine	ɨ̧́’ɨ̧́	ɨ̧́’ɨ̧́	165	NA	NA	NA	durr1987preliminary	NA
+1250	diux11	ten	úshî	úshî	166	basic tones	NA	NA	kuiper1991syntactic	NA
+17021	diux11	diez	uši	uši	166	NA	NA	NA	josserand1983mixtec	NA
+1251	diux11	fifteen	shánhûn	shánhûn	167	basic tones	NA	NA	kuiper1991syntactic	NA
+17137	diux11	quince	ša̧ʔu̧	ša̧ʔu̧	167	NA	NA	NA	josserand1983mixtec	NA
+1252	diux11	twenty	ókô	ókô	168	basic tones	NA	NA	kuiper1991syntactic	NA
+1253	diux11	poor	ndahú	ndahú	169	NA	NA	NA	kuiper1991syntactic	NA
+17256	diux11	pobre	ⁿdaʔu	ⁿdaʔu	169	NA	NA	NA	josserand1983mixtec	NA
+1254	diux11	cold	víshî	víshî	171	NA	NA	NA	kuiper1991syntactic	NA
+17372	diux11	frío	ƀiši	ƀiši	171	NA	NA	NA	josserand1983mixtec	NA
+1255	diux11	hot	ínhní	ínhní	172	not basic tones	NA	NA	kuiper1991syntactic	NA
+1256	diux11	big.SG	kánhnu	kánhnu	173	basic tones	NA	NA	kuiper1991syntactic	NA
+2819	diux11	big.SG	kà̧ʔnù̧	kà̧ʔnù̧	173	NA	NA	NA	durr1987preliminary	NA
+17583	diux11	grande (sg.)	kaʔnu̧	kaʔnu̧	173	NA	NA	NA	josserand1983mixtec	NA
+1257	diux11	big.PL	nánhnu	nánhnu	174	basic tones	NA	NA	kuiper1991syntactic	NA
+1258	diux11	small.SG	luchī	luchī	175	basic tones	NA	NA	kuiper1991syntactic	NA
+2831	diux11	little.SG	'lùčì	'lùčì	175	NA	NA	NA	durr1987preliminary	NA
+17702	diux11	chico	luči	luči	175	NA	NA	NA	josserand1983mixtec	NA
+1259	diux11	small.PL	kwechī	kwechī	176	basic tones	NA	NA	kuiper1991syntactic	NA
+1260	diux11	long.SG	kaní	kaní	177	basic tones	NA	NA	kuiper1991syntactic	NA
+1261	diux11	long.PL	naní	naní	178	basic tones	NA	NA	kuiper1991syntactic	NA
+1262	diux11	good	váhâ	váhâ	179	NA	NA	NA	kuiper1991syntactic	NA
+2863	diux11	good	ƀà’ʔá	ƀà’ʔá	179	NA	NA	NA	durr1987preliminary	NA
+1263	diux11	sweet	víðî	víðî	180	NA	NA	NA	kuiper1991syntactic	NA
+17920	diux11	dulce	ƀiđi̧	ƀiđi̧	180	NA	NA	NA	josserand1983mixtec	NA
+1264	diux11	tasty, delicious	aðɨ̄	aðɨ̄	183	not basic tones	NA	NA	kuiper1991syntactic	NA
+1265	diux11	wide	nunu	nunu	184	basic tones	NA	NA	kuiper1991syntactic	NA
+1266	diux11	lazy	kúðí	kúðí	186	not basic tones	NA	NA	kuiper1991syntactic	NA
+1267	diux11	ugly	kwihá	kwihá	187	NA	NA	NA	kuiper1991syntactic	NA
+1268	diux11	jealous	kwiñā	kwiñā	188	NA	NA	NA	kuiper1991syntactic	NA
+1269	diux11	near	yátní	yátní	189	NA	NA	NA	kuiper1991syntactic	NA
+18575	diux11	está cerca	žatni̧ⁿ	žatni̧ⁿ	189	NA	NA	NA	josserand1983mixtec	NA
+1270	diux11	far	shíká	shíká	190	NA	NA	NA	kuiper1991syntactic	NA
+1271	diux11	heavy	vēé	vēé	191	not basic tones	NA	NA	kuiper1991syntactic	NA
+18682	diux11	pesado	ƀee	ƀee	191	NA	NA	NA	josserand1983mixtec	NA
+1272	diux11	slow	kweē	kweē	194	NA	NA	NA	kuiper1991syntactic	NA
+18912	diux11	despacio	kʷee-ni̧	kʷee-ni̧	194	NA	NA	NA	josserand1983mixtec	NA
+1273	diux11	yesterday	íkú	íkú	195	NA	NA	NA	kuiper1991syntactic	NA
+19026	diux11	ayer	iku	iku	195	NA	NA	NA	josserand1983mixtec	NA
+1274	diux11	year	kwi’á	kwi’á	196	NA	NA	NA	kuiper1991syntactic	NA
+19141	diux11	año	kʷia	kʷia	196	NA	NA	NA	josserand1983mixtec	NA
+1275	diux11	now, today	vítna	vítna	197	NA	NA	NA	kuiper1991syntactic	NA
+1276	diux11	night, blind	kwaá	kwaá	198	the gloss is ‘blind’, but in the free translation ‘night’ in all examples	NA	NA	kuiper1991syntactic	NA
+1277	diux11	night time, at night	niu	niu	199	NA	NA	NA	kuiper1991syntactic	NA
+1278	diux11	day	kɨ̄ú	kɨ̄ú	200	NA	NA	NA	kuiper1991syntactic	NA
+2930	diux11	day	kɨ́’ú	kɨ́’ú	200	NA	NA	NA	durr1987preliminary	NA
+19445	diux11	día	kɨu	kɨu	200	NA	NA	NA	josserand1983mixtec	NA
+1279	diux11	day time	ndúú	ndúú	201	NA	NA	NA	kuiper1991syntactic	NA
+1280	diux11	half, middle	ðáva	ðáva	202	NA	NA	NA	kuiper1991syntactic	NA
+19567	diux11	mitad	đawa	đawa	202	NA	NA	NA	josserand1983mixtec	NA
+1281	diux11	money	tviní	tviní	203	from Old Sp. tomín	yes	Old Spanish	kuiper1991syntactic	NA
+1282	diux11	work	tniū	tniū	204	NA	NA	NA	kuiper1991syntactic	NA
+19684	diux11	trabajo	tni̧u̧	tni̧u̧	204	NA	NA	NA	josserand1983mixtec	NA
+1283	diux11	word	tnúhû	tnúhû	205	NA	NA	NA	kuiper1991syntactic	NA
+19807	diux11	palabra	tnu̧ʔu̧	tnu̧ʔu̧	205	NA	NA	NA	josserand1983mixtec	NA
+1284	diux11	fault, sin	kwéchí	kwéchí	206	not basic tones	NA	NA	kuiper1991syntactic	NA
+1285	diux11	when	ná	ná	208	not sure if this used as a question too	NA	NA	kuiper1991syntactic	NA
+20012	diux11	cuándo	na̧-kɨu	na̧-kɨu	208	NA	NA	NA	josserand1983mixtec	NA
+1286	diux11	song, music	yáa	yáa	209	only as part of tnu-yáa wood-music ‘oak’	NA	NA	kuiper1991syntactic	NA

@@ -1,199 +1,199 @@
-ID	DOCULECT	CONCEPT	GLOSS	VALUE	FORM	IDlist	CONCEPTICON_ID	LOAN	LOAN_SOURCE	SOURCE	FLOATTONE
-20584	yucu17	MOTHER	mother	nanà	nanà	1	1216	NA	NA	salazar2020yucunani	NA
-20585	yucu17	MOTHER VOCATIVE	mother!, mom!	máá	máá	2	NA	yes	Spanish	salazar2020yucunani	NA
-20586	yucu17	FATHER	father	tatà	tatà	3	1217	yes	Spanish	salazar2020yucunani	NA
-20587	yucu17	FATHER VOCATIVE	father!, dad!	páá	páá	4	NA	yes	Spanish	salazar2020yucunani	NA
-20588	yucu17	CHILD (DESCENDANT)	son/daughter, child	sè'e	sè'e	5	1801	NA	NA	salazar2020yucunani	NA
-20589	yucu17	CROSS-SEX SIBLING	cross-sex sibling	kuà'a	kuà'a	8	NA	NA	NA	salazar2020yucunani	NA
-20590	yucu17	BROTHER (OF MAN)	brother of man	ñanì	ñanì	9	559	NA	NA	salazar2020yucunani	NA
-20591	yucu17	SISTER (OF WOMAN)	sister of woman	kù'ù 	kù'ù 	10	NA	NA	NA	salazar2020yucunani	NA
-20592	yucu17	AUNT	aunt	xitò	xitò	11	1272	NA	NA	salazar2020yucunani	NA
-20593	yucu17	UNCLE	uncle	xixì	xixì	12	1327	NA	NA	salazar2020yucunani	NA
-20594	yucu17	MAN	man	ñaꞌá	ñaꞌá	13	1554	NA	NA	salazar2020yucunani	NA
-20595	yucu17	WOMAN	woman	chàa	chàa	14	962	NA	NA	salazar2020yucunani	NA
-20596	yucu17	OWNER	owner, boss	stoꞌò	stoꞌò	15	1036	NA	NA	salazar2020yucunani	NA
-20597	yucu17	PRIEST	priest	sùtù	sùtù	16	852	NA	NA	salazar2020yucunani	NA
-20598	yucu17	BLOOD	blood	nìí	nìí	17	946	NA	NA	salazar2020yucunani	NA
-20599	yucu17	BONE	bone	kiché'é	ki-ché'é	18	1394	NA	NA	salazar2020yucunani	NA
-20600	yucu17	HAIR	hair	ixǐ	ixǐ	19	1040	NA	NA	salazar2020yucunani	NA
-20601	yucu17	FACE	face	nùú	nùú	20	1560	NA	NA	salazar2020yucunani	NA
-20602	yucu17	TONGUE	tongue	yaǎ	yaǎ	21	1205	NA	NA	salazar2020yucunani	NA
-20603	yucu17	TOOTH	tooth	nù'u	nù'u	22	1380	NA	NA	salazar2020yucunani	NA
-20604	yucu17	MOUTH	mouth	yu'ú	yu'ú	23	674	NA	NA	salazar2020yucunani	NA
-20605	yucu17	EAR	ear	sòꞌo	sòꞌo	24	1247	NA	NA	salazar2020yucunani	NA
-20606	yucu17	NOSE	nose	xìchǐ	xìchǐ	25	1221	NA	NA	salazar2020yucunani	NA
-20607	yucu17	NECK	neck	sùkǔ	sùkǔ	26	1333	NA	NA	salazar2020yucunani	NA
-20608	yucu17	HAND	hand	nta'á	nta'á	27	1277	NA	NA	salazar2020yucunani	NA
-20609	yucu17	FINGERNAIL	fingernail	chíǐn	chíǐn	28	1258	NA	NA	salazar2020yucunani	NA
-20610	yucu17	BACK	back	sàtǎ	sàtǎ	29	1291	NA	NA	salazar2020yucunani	NA
-20611	yucu17	BELLY OR STOMACH	stomach, belly	tìtsi	tìtsi	30	2114	NA	NA	salazar2020yucunani	NA
-20612	yucu17	INTESTINES	tripe	tsitì	tsitì	31	1991	NA	NA	salazar2020yucunani	NA
-20613	yucu17	FOOT	foot	tsà'ǎ	tsà'ǎ	32	1301	NA	NA	salazar2020yucunani	NA
-20614	yucu17	DISEASE	disease, illness, sickness	kuè'è	kuè'è	33	1986	NA	NA	salazar2020yucunani	NA
-20615	yucu17	MEDICINE	medicine, remedy	tàtǎ 	tàtǎ 	34	1372	NA	NA	salazar2020yucunani	NA
-20616	yucu17	SWELLING	swelling	nìkǎa	nì-kǎa	35	1903	NA	NA	salazar2020yucunani	NA
-20617	yucu17	PIMPLE	pimple	ntì'i	ntì'i	36	1809	NA	NA	salazar2020yucunani	NA
-20618	yucu17	PUS	pus	ntakuǎ	ntakuǎ	37	1808	NA	NA	salazar2020yucunani	NA
-20619	yucu17	URINE	urine	lálá	lálá	38	1142	NA	NA	salazar2020yucunani	NA
-20620	yucu17	CLOTHES	cloth	télà	télà	39	1895	yes	Spanish	salazar2020yucunani	NA
-20621	yucu17	CLOTHES	clothes	sa'mǎ	sa'mǎ	39	1895	NA	NA	salazar2020yucunani	NA
-20622	yucu17	SANDAL	sandal, footwear	ntsìtsǎ	ntsìtsǎ	40	NA	NA	NA	salazar2020yucunani	NA
-20623	yucu17	TROUSERS	pants	tsatù	tsatù	41	809	NA	NA	salazar2020yucunani	NA
-20624	yucu17	BLOUSE (WOVEN)	blouse, woven blouse	sa'mǎ	sa'mǎ	42	NA	NA	NA	salazar2020yucunani	NA
-20625	yucu17	TOWN OR VILLAGE	village, town	ñuù	ñuù	43	3609	NA	NA	salazar2020yucunani	NA
-20626	yucu17	HOUSE	house	ve'e	ve'e	44	1252	NA	NA	salazar2020yucunani	NA
-20627	yucu17	PATH	path, road, trail	ichǐ	ichǐ	45	2252	NA	NA	salazar2020yucunani	NA
-20628	yucu17	POST	house post	sì'ìn	sì'ìn	46	281	NA	NA	salazar2020yucunani	NA
-20629	yucu17	MAT	mat, sleeping mat, straw mat	yuvǐ	yuvǐ	47	195	NA	NA	salazar2020yucunani	NA
-20630	yucu17	BED	bed	tsìto	tsìto	48	1663	NA	NA	salazar2020yucunani	NA
-20631	yucu17	STOOL	stool, chair	chaì	chaì	49	2058	NA	NA	salazar2020yucunani	NA
-20632	yucu17	ANIMAL	animal	kitǐ	kitǐ	50	619	NA	NA	salazar2020yucunani	NA
-20633	yucu17	BIRD	bird	saà	saà	51	937	NA	NA	salazar2020yucunani	NA
-20634	yucu17	FISH	fish	chakǎ	chakǎ	52	227	NA	NA	salazar2020yucunani	NA
-20635	yucu17	SNAKE	snake	kòó	kòó	53	730	NA	NA	salazar2020yucunani	NA
-20636	yucu17	FROG	frog	sa'và	sa'và	54	503	NA	NA	salazar2020yucunani	NA
-20637	yucu17	HAWK	hawk	xí'an	xí'an	55	307	NA	NA	salazar2020yucunani	NA
-20638	yucu17	SCORPION	scorpion	tìsuꞌmà	tì-suꞌmà	56	1538	NA	NA	salazar2020yucunani	NA
-20639	yucu17	COCKROACH	cockroach	ntichéꞌé	nti-chéꞌé	57	1575	NA	NA	salazar2020yucunani	NA
-20640	yucu17	GRASSHOPPER	grasshopper	tìka	tìka	58	607	NA	NA	salazar2020yucunani	NA
-20641	yucu17	BEE	bee	ñùñǔ	ñùñǔ	59	665	NA	NA	salazar2020yucunani	NA
-20642	yucu17	MUROID (MOUSE OR RAT)	mouse	tǐ'in	tǐ'in	60	2139	NA	NA	salazar2020yucunani	NA
-20643	yucu17	DEER	deer	isù	isù	61	1936	NA	NA	salazar2020yucunani	NA
-20644	yucu17	SQUIRREL	squirrel	ntikuáin	nti-kuáin	62	1628	NA	NA	salazar2020yucunani	NA
-20645	yucu17	SKUNK	skunk	tǐ'in ità	tǐ'in ità	63	NA	NA	NA	salazar2020yucunani	NA
-20646	yucu17	POSSUM	(o)possum	tsóko	tsóko	64	470	NA	NA	salazar2020yucunani	NA
-20647	yucu17	RACCOON	raccoon	má'à	má'à	65	828	NA	NA	salazar2020yucunani	NA
-20648	yucu17	RABBIT	rabbit	lesû	lesû	66	1136	NA	NA	salazar2020yucunani	NA
-20649	yucu17	VULTURE	vulture	lóchí	lóchí	67	1185	yes	Nahuatl	salazar2020yucunani	NA
-20650	yucu17	DOG	dog	tǐnà	tǐnà	68	2009	NA	NA	salazar2020yucunani	NA
-20651	yucu17	CAT	cat	vílú	vílú	69	1208	NA	NA	salazar2020yucunani	NA
-20652	yucu17	ROOSTER	rooster	tó'lo	tó'lo	70	1511	NA	NA	salazar2020yucunani	NA
-20653	yucu17	HEN	hen, chicken	chùún	chùún	71	1514	NA	NA	salazar2020yucunani	NA
-20654	yucu17	PIG	pig	kinì	kinì	72	1337	NA	NA	salazar2020yucunani	NA
-20655	yucu17	HORSE	horse	kuáì	kuáì	73	615	yes	Colonial Spanish	salazar2020yucunani	NA
-20656	yucu17	ANT	ant	chokǒ	chokǒ	75	587	NA	NA	salazar2020yucunani	NA
-20657	yucu17	HORN (ANATOMY)	horn (anatomy)	ntikǐ	ntikǐ	76	1393	NA	NA	salazar2020yucunani	NA
-20658	yucu17	FEATHER	feather	tùmi	tùmi	77	1201	NA	NA	salazar2020yucunani	NA
-20659	yucu17	WING	wing	ntsìtsǐ	ntsìtsǐ	78	1257	NA	NA	salazar2020yucunani	NA
-20660	yucu17	TAIL	tail	nto'ó	nto'ó	79	1220	NA	NA	salazar2020yucunani	NA
-20661	yucu17	TREE	tree	yutǔ	yutǔ	80	906	NA	NA	salazar2020yucunani	NA
-20662	yucu17	HERBACEOUS PLANT	herbaceous plant	yùkù	yùkù	81	NA	NA	NA	salazar2020yucunani	NA
-20663	yucu17	GRASS	grass	ichà	ichà	82	606	NA	NA	salazar2020yucunani	NA
-20664	yucu17	FLOWER	flower	ità	ità	83	239	NA	NA	salazar2020yucunani	NA
-20665	yucu17	MAGUEY	maguey, century plant	yavǐ	yavǐ	84	NA	NA	NA	salazar2020yucunani	NA
-20666	yucu17	ROOT	root	yo'ó	yo'ó	85	670	NA	NA	salazar2020yucunani	NA
-20667	yucu17	THORN	thorn	iñǔ	iñǔ	86	124	NA	NA	salazar2020yucunani	NA
-20668	yucu17	CORN	grain of corn	nùnǐ	nùnǐ	87	506	NA	NA	salazar2020yucunani	NA
-20669	yucu17	CORN FIELD	cornfield	itù	itù	88	449	NA	NA	salazar2020yucunani	NA
-20670	yucu17	EAR OF CORN (FRESH)	fresh ear of corn	ntixǐ	ntixǐ	89	NA	NA	NA	salazar2020yucunani	NA
-20671	yucu17	CORN DOUGH	cornmeal, corn dough	yutsǎ	yutsǎ	91	NA	NA	NA	salazar2020yucunani	NA
-20672	yucu17	TORTILLA	tortilla	stàá	stàá	92	NA	NA	NA	salazar2020yucunani	NA
-20673	yucu17	CORN STALK	cleared field, cornstalk	ntáyò'o	ntá-yò'o	93	NA	NA	NA	salazar2020yucunani	NA
-20674	yucu17	FURROW	furrow, planting row	yukù	yukù	94	1794	NA	NA	salazar2020yucunani	NA
-20675	yucu17	TASSEL	tassel, maize spike	nùmǎ yutǔ	nùmǎ-yutǔ	95	NA	NA	NA	salazar2020yucunani	NA
-20676	yucu17	BEAN	bean	ntuchǐ	ntuchǐ	96	832	NA	NA	salazar2020yucunani	NA
-20677	yucu17	GREEN BEAN	green bean	nchìxì	nchìxì	97	NA	NA	NA	salazar2020yucunani	NA
-20678	yucu17	CHILI PEPPER	chili pepper	ya'á	ya'á	98	919	NA	NA	salazar2020yucunani	NA
-20679	yucu17	SALT	salt	ìín	ìín	99	1274	NA	NA	salazar2020yucunani	NA
-20680	yucu17	PUMPKIN	squash	ikǐ	ikǐ	100	864	NA	NA	salazar2020yucunani	NA
-20681	yucu17	CHAYOTE	chayote squash	nañǎ	nañǎ	101	NA	NA	NA	salazar2020yucunani	NA
-20682	yucu17	SUGAR CANE	sugar cane	ntòó	ntòó	102	146	NA	NA	salazar2020yucunani	NA
-20683	yucu17	HONEY	honey	ntǔxì	ntǔxì	103	942	NA	NA	salazar2020yucunani	NA
-20684	yucu17	FAT (FROM ANIMALS)	fat, lard, grease	xà'àn	xà'àn	104	1282	NA	NA	salazar2020yucunani	NA
-20685	yucu17	EGG	egg	ntìvǐ	ntìvǐ	105	744	NA	NA	salazar2020yucunani	NA
-20686	yucu17	TOMATO	tomato	tìnanǎ	tì-nanǎ	106	986	NA	NA	salazar2020yucunani	NA
-20687	yucu17	SWEET POTATO	edible tuber	ña'mì	ña'mì	107	159	NA	NA	salazar2020yucunani	NA
-20688	yucu17	AVOCADO	avocado	tǐchi	tǐchi	108	3725	NA	NA	salazar2020yucunani	NA
-20689	yucu17	BANANA	banana	nchikǎ	nchikǎ	109	868	NA	NA	salazar2020yucunani	NA
-20690	yucu17	PRICKLY PEAR CACTUS	prickly pear cactus	mì'nchǎ	mì'nchǎ	110	NA	NA	NA	salazar2020yucunani	NA
-20691	yucu17	MAMEY	mamey	nchikatsà'ǎ	nchika-tsà'ǎ	111	NA	NA	NA	salazar2020yucunani	NA
-20692	yucu17	MUSHROOM	mushroom	tsìꞌǐ	tsìꞌǐ	113	641	NA	NA	salazar2020yucunani	NA
-20693	yucu17	MEAT	meat	kǔñù	kǔñù	114	634	NA	NA	salazar2020yucunani	NA
-20694	yucu17	GRIDDLE	griddle	tsìǒ	tsìǒ	115	NA	NA	NA	salazar2020yucunani	NA
-20695	yucu17	COOKING POT	pot, cooking pot	kìsi	kìsi	116	3653	NA	NA	salazar2020yucunani	NA
-20696	yucu17	OVEN	oven	tsìtù	tsìtù	117	1143	NA	NA	salazar2020yucunani	NA
-20697	yucu17	FIRE	fire	ñu'ù	ñu'ù	118	221	NA	NA	salazar2020yucunani	NA
-20698	yucu17	ASH	ash	yàá	yàá	119	646	NA	NA	salazar2020yucunani	NA
-20699	yucu17	CHARCOAL	charcoal	tùún	tùún	120	1188	NA	NA	salazar2020yucunani	NA
-20700	yucu17	SMOKE (EXHAUST)	smoke	ñù'mà	ñù'mà	121	778	NA	NA	salazar2020yucunani	NA
-20701	yucu17	GARBAGE	garbage, trash	mǐ'in	mǐ'in	122	909	NA	NA	salazar2020yucunani	NA
-20702	yucu17	PLATE	plate	kò'ǒ	kò'ǒ	123	480	NA	NA	salazar2020yucunani	NA
-20703	yucu17	GOURD BOWL	gourd, gourd bowl	yatsǐ	yatsǐ	124	NA	NA	NA	salazar2020yucunani	NA
-20704	yucu17	BASKET	palm basket	ntò'ǒ	ntò'ǒ	125	1539	NA	NA	salazar2020yucunani	NA
-20705	yucu17	BASKET	reed basket	tsikàvíchi	tsikà-víchi	125	1539	NA	NA	salazar2020yucunani	NA
-20706	yucu17	BOX OR CHEST	trunk	tsàtǔ	tsàtǔ	126	3150	NA	NA	salazar2020yucunani	NA
-20707	yucu17	THREAD	thread	yùꞌvà	yùꞌvà	127	1161	NA	NA	salazar2020yucunani	NA
-20708	yucu17	COMB	comb	kuìkà	kuìkà	128	1475	NA	NA	salazar2020yucunani	NA
-20709	yucu17	ROPE	rope	yo'ó	yo'ó	129	1218	NA	NA	salazar2020yucunani	NA
-20710	yucu17	HOLE	hole	yàvì	yàvì	130	1667	NA	NA	salazar2020yucunani	NA
-20711	yucu17	NET	net, mesh	ñùnǔ	ñùnǔ	131	2963	NA	NA	salazar2020yucunani	NA
-20712	yucu17	MOON	moon	yòó	yòó	134	1313	NA	NA	salazar2020yucunani	NA
-20713	yucu17	CLOUD	cloud	vìkǒ	vìkǒ	135	1489	NA	NA	salazar2020yucunani	NA
-20714	yucu17	LIGHTNING	lightning	tsántuchǎ	tsá-ntuchǎ	136	1654	NA	NA	salazar2020yucunani	NA
-20715	yucu17	LIGHTNING	flash	kanchii	kanchii	136	1654	NA	NA	salazar2020yucunani	NA
-20716	yucu17	WATER	water	chìkuíi	chìkuíi	137	948	NA	NA	salazar2020yucunani	NA
-20717	yucu17	RAIN (PRECIPITATION)	rain (precipitation)	sàvǐ	sàvǐ	138	658	NA	NA	salazar2020yucunani	NA
-20718	yucu17	RIVER	river	yùcha	yùcha	139	666	NA	NA	salazar2020yucunani	NA
-20719	yucu17	DEW	dew	yúyú	yúyú	140	1977	NA	NA	salazar2020yucunani	NA
-20720	yucu17	MOUNTAIN OR HILL	mountain, forest	yukǔ	yukǔ	141	2118	NA	NA	salazar2020yucunani	NA
-20721	yucu17	PLAIN	plain, flatland	yosǒ	yosǒ	142	652	NA	NA	salazar2020yucunani	NA
-20722	yucu17	STONE OR ROCK	stone, rock	yùú	yùú	143	2125	NA	NA	salazar2020yucunani	NA
-20723	yucu17	COTTON	cotton	kàchǐ	kàchǐ	144	1850	NA	NA	salazar2020yucunani	NA
-20724	yucu17	METAL	metal	kàa	kàa	145	2244	NA	NA	salazar2020yucunani	NA
-20725	yucu17	PAPER	paper	tutù	tutù	146	648	NA	NA	salazar2020yucunani	NA
-20726	yucu17	LIME (MATERIAL)	lime (material)	kakà	kakà	147	2540	NA	NA	salazar2020yucunani	NA
-20727	yucu17	BEESWAX	beeswax, wax	ñùmǎ	ñùmǎ	148	1931	NA	NA	salazar2020yucunani	NA
-20728	yucu17	MUD	mud	nchaꞌì	nchaꞌì	149	640	NA	NA	salazar2020yucunani	NA
-20729	yucu17	FOAM	foam	tìñù	tìñù	150	1768	NA	NA	salazar2020yucunani	NA
-20730	yucu17	DUST	dust, powder	ñu'ú	ñu'ú	151	2	NA	NA	salazar2020yucunani	NA
-20731	yucu17	RED	red	kuá'à	kuá'à	152	156	NA	NA	salazar2020yucunani	NA
-20732	yucu17	GREEN	green	kuiǐ	kuiǐ	153	1425	NA	NA	salazar2020yucunani	NA
-20733	yucu17	YELLOW	yellow	kuáan	kuáan	154	1424	NA	NA	salazar2020yucunani	NA
-20734	yucu17	BLACK	black	nchá'ì	nchá'ì	155	163	NA	NA	salazar2020yucunani	NA
-20735	yucu17	WHITE	white	yaa	yaa	156	1335	NA	NA	salazar2020yucunani	NA
-20736	yucu17	ONE	one	iin	iin	157	1493	NA	NA	salazar2020yucunani	NA
-20737	yucu17	TWO	two	ùvì	ùvì	158	1498	NA	NA	salazar2020yucunani	NA
-20738	yucu17	THREE	three	ùnì	ùnì	159	492	NA	NA	salazar2020yucunani	NA
-20739	yucu17	FOUR	four	kùmǐ	kùmǐ	160	1500	NA	NA	salazar2020yucunani	NA
-20740	yucu17	FIVE	five	ù'ùn	ù'ùn	161	493	NA	NA	salazar2020yucunani	NA
-20741	yucu17	SIX	six	ìñù	ìñù	162	1703	NA	NA	salazar2020yucunani	NA
-20742	yucu17	SEVEN	seven	ùtsà	ùtsà	163	1704	NA	NA	salazar2020yucunani	NA
-20743	yucu17	EIGHT	eight	ùnà	ùnà	164	1705	NA	NA	salazar2020yucunani	NA
-20744	yucu17	NINE	nine	ììn	ììn	165	1483	NA	NA	salazar2020yucunani	NA
-20745	yucu17	TEN	ten	ùtsì	ùtsì	166	1515	NA	NA	salazar2020yucunani	NA
-20746	yucu17	FIFTEEN	fifteen	tsà'ùn	tsà'ùn	167	1709	NA	NA	salazar2020yucunani	NA
-20747	yucu17	TWENTY	twenty	òkò	òkò	168	1710	NA	NA	salazar2020yucunani	NA
-20748	yucu17	POOR	poor	ntáꞌvì	ntáꞌvì	169	1674	NA	NA	salazar2020yucunani	NA
-20749	yucu17	RICH	rich	kuíka	kuíka	170	712	NA	NA	salazar2020yucunani	NA
-20750	yucu17	COLD	cold	vìtsi	vìtsi	171	1287	NA	NA	salazar2020yucunani	NA
-20751	yucu17	HOT	hot	yókó	yókó	172	1286	NA	NA	salazar2020yucunani	NA
-20752	yucu17	BIG (SINGULAR)	big.SG	luu	luu	173	NA	NA	NA	salazar2020yucunani	NA
-20753	yucu17	SMALL (SINGULAR)	small.SG	ká'nu	ká'nu	175	NA	NA	NA	salazar2020yucunani	NA
-20754	yucu17	LARGE (SINGULAR)	long.SG	kánǐ	kánǐ	177	NA	NA	NA	salazar2020yucunani	NA
-20755	yucu17	GOOD	good	và'a	và'a	179	1035	NA	NA	salazar2020yucunani	NA
-20756	yucu17	SWEET	sweet	vìxì	vìxì	180	717	NA	NA	salazar2020yucunani	NA
-20757	yucu17	SALTY	salty	ù'và	ù'và	181	1091	NA	NA	salazar2020yucunani	NA
-20758	yucu17	BITTER	bitter	ùvà	ùvà	182	887	NA	NA	salazar2020yucunani	NA
-20759	yucu17	TASTY	tasty, delicious	àsǐ	àsǐ	183	1813	NA	NA	salazar2020yucunani	NA
-20760	yucu17	WIDE	wide	ntíkà	ntíkà	184	1243	NA	NA	salazar2020yucunani	NA
-20761	yucu17	NEW	new	tsaâ	tsaâ	185	1231	NA	NA	salazar2020yucunani	NA
-20762	yucu17	LAZY	lazy	kú'ntú	kú'ntú	186	1564	NA	NA	salazar2020yucunani	NA
-20763	yucu17	UGLY	ugly	kini	kini	187	1548	NA	NA	salazar2020yucunani	NA
-20764	yucu17	NEAR	near	yachi	yachi	189	1942	NA	NA	salazar2020yucunani	NA
-20765	yucu17	FAR	far	tsíka	tsíka	190	1406	NA	NA	salazar2020yucunani	NA
-20766	yucu17	HEAVY	heavy	vèe	vèe	191	1210	NA	NA	salazar2020yucunani	NA
-20767	yucu17	RAW	raw	í'i	í'i	192	1959	NA	NA	salazar2020yucunani	NA
-20768	yucu17	SMOOTH	smooth	ntiǐ	ntiǐ	193	1234	NA	NA	salazar2020yucunani	NA
-20769	yucu17	SLOW	slow	kuéen	kuéen	194	701	NA	NA	salazar2020yucunani	NA
-20770	yucu17	YESTERDAY	yesterday	kúní	kúní	195	1174	NA	NA	salazar2020yucunani	NA
-20771	yucu17	YEAR	year	kuìà	kuìà	196	1226	NA	NA	salazar2020yucunani	NA
-20772	yucu17	NOW OR TODAY	now, today	vichi	vichi	197	2097	NA	NA	salazar2020yucunani	NA
-20773	yucu17	NIGHT	night	tsikuàá	tsi-kuàá	198	1233	NA	NA	salazar2020yucunani	NA
-20774	yucu17	DAY (24 HOURS)	day, date	kìí	kìí	200	1260	NA	NA	salazar2020yucunani	NA
-20775	yucu17	HALF	half, middle	sava	sava	202	816	NA	NA	salazar2020yucunani	NA
-20776	yucu17	MONEY	money	xǔ'un	xǔ'un	203	1559	NA	NA	salazar2020yucunani	NA
-20777	yucu17	WORKING OR WORK	work	chuun	chuun	204	2281	NA	NA	salazar2020yucunani	NA
-20778	yucu17	WORD	word	tù'un	tù'un	205	1599	NA	NA	salazar2020yucunani	NA
-20779	yucu17	FAULT	fault, blame, sin	kuàchi	kuàchi	206	134	NA	NA	salazar2020yucunani	NA
-20780	yucu17	DREAM	nap, sleepiness	mǎnà	mǎnà	207	2374	NA	NA	salazar2020yucunani	NA
-20781	yucu17	MUSIC	song, music	yaà	yaà	209	642	NA	NA	salazar2020yucunani	NA
+ID	DOCULECT	GLOSS	VALUE	FORM	IDlist	NOTES	LOAN	LOAN_SOURCE	SOURCE	FLOATTONE
+20584	yucu17	mother	nanà	nanà	1	NA	NA	NA	salazar2020yucunani	NA
+20585	yucu17	mother!, mom!	máá	máá	2	NA	yes	Spanish	salazar2020yucunani	NA
+20586	yucu17	father	tatà	tatà	3	NA	yes	Spanish	salazar2020yucunani	NA
+20587	yucu17	father!, dad!	páá	páá	4	NA	yes	Spanish	salazar2020yucunani	NA
+20588	yucu17	son/daughter, child	sè'e	sè'e	5	NA	NA	NA	salazar2020yucunani	NA
+20589	yucu17	cross-sex sibling	kuà'a	kuà'a	8	NA	NA	NA	salazar2020yucunani	NA
+20590	yucu17	brother of man	ñanì	ñanì	9	NA	NA	NA	salazar2020yucunani	NA
+20591	yucu17	sister of woman	kù'ù 	kù'ù 	10	NA	NA	NA	salazar2020yucunani	NA
+20592	yucu17	aunt	xitò	xitò	11	NA	NA	NA	salazar2020yucunani	NA
+20593	yucu17	uncle	xixì	xixì	12	NA	NA	NA	salazar2020yucunani	NA
+20594	yucu17	man	ñaꞌá	ñaꞌá	13	NA	NA	NA	salazar2020yucunani	NA
+20595	yucu17	woman	chàa	chàa	14	NA	NA	NA	salazar2020yucunani	NA
+20596	yucu17	owner, boss	stoꞌò	stoꞌò	15	NA	NA	NA	salazar2020yucunani	NA
+20597	yucu17	priest	sùtù	sùtù	16	NA	NA	NA	salazar2020yucunani	NA
+20598	yucu17	blood	nìí	nìí	17	NA	NA	NA	salazar2020yucunani	NA
+20599	yucu17	bone	kiché'é	ki-ché'é	18	NA	NA	NA	salazar2020yucunani	NA
+20600	yucu17	hair	ixǐ	ixǐ	19	NA	NA	NA	salazar2020yucunani	NA
+20601	yucu17	face	nùú	nùú	20	NA	NA	NA	salazar2020yucunani	NA
+20602	yucu17	tongue	yaǎ	yaǎ	21	NA	NA	NA	salazar2020yucunani	NA
+20603	yucu17	tooth	nù'u	nù'u	22	NA	NA	NA	salazar2020yucunani	NA
+20604	yucu17	mouth	yu'ú	yu'ú	23	NA	NA	NA	salazar2020yucunani	NA
+20605	yucu17	ear	sòꞌo	sòꞌo	24	NA	NA	NA	salazar2020yucunani	NA
+20606	yucu17	nose	xìchǐ	xìchǐ	25	NA	NA	NA	salazar2020yucunani	NA
+20607	yucu17	neck	sùkǔ	sùkǔ	26	NA	NA	NA	salazar2020yucunani	NA
+20608	yucu17	hand	nta'á	nta'á	27	NA	NA	NA	salazar2020yucunani	NA
+20609	yucu17	fingernail	chíǐn	chíǐn	28	NA	NA	NA	salazar2020yucunani	NA
+20610	yucu17	back	sàtǎ	sàtǎ	29	NA	NA	NA	salazar2020yucunani	NA
+20611	yucu17	stomach, belly	tìtsi	tìtsi	30	NA	NA	NA	salazar2020yucunani	NA
+20612	yucu17	tripe	tsitì	tsitì	31	NA	NA	NA	salazar2020yucunani	NA
+20613	yucu17	foot	tsà'ǎ	tsà'ǎ	32	NA	NA	NA	salazar2020yucunani	NA
+20614	yucu17	disease, illness, sickness	kuè'è	kuè'è	33	NA	NA	NA	salazar2020yucunani	NA
+20615	yucu17	medicine, remedy	tàtǎ 	tàtǎ 	34	NA	NA	NA	salazar2020yucunani	NA
+20616	yucu17	swelling	nìkǎa	nì-kǎa	35	NA	NA	NA	salazar2020yucunani	NA
+20617	yucu17	pimple	ntì'i	ntì'i	36	NA	NA	NA	salazar2020yucunani	NA
+20618	yucu17	pus	ntakuǎ	ntakuǎ	37	NA	NA	NA	salazar2020yucunani	NA
+20619	yucu17	urine	lálá	lálá	38	NA	NA	NA	salazar2020yucunani	NA
+20620	yucu17	cloth	télà	télà	39	NA	yes	Spanish	salazar2020yucunani	NA
+20621	yucu17	clothes	sa'mǎ	sa'mǎ	39	NA	NA	NA	salazar2020yucunani	NA
+20622	yucu17	sandal, footwear	ntsìtsǎ	ntsìtsǎ	40	NA	NA	NA	salazar2020yucunani	NA
+20623	yucu17	pants	tsatù	tsatù	41	NA	NA	NA	salazar2020yucunani	NA
+20624	yucu17	blouse, woven blouse	sa'mǎ	sa'mǎ	42	same as clothes	NA	NA	salazar2020yucunani	NA
+20625	yucu17	village, town	ñuù	ñuù	43	NA	NA	NA	salazar2020yucunani	NA
+20626	yucu17	house	ve'e	ve'e	44	NA	NA	NA	salazar2020yucunani	NA
+20627	yucu17	path, road, trail	ichǐ	ichǐ	45	NA	NA	NA	salazar2020yucunani	NA
+20628	yucu17	house post	sì'ìn	sì'ìn	46	NA	NA	NA	salazar2020yucunani	NA
+20629	yucu17	mat, sleeping mat, straw mat	yuvǐ	yuvǐ	47	NA	NA	NA	salazar2020yucunani	NA
+20630	yucu17	bed	tsìto	tsìto	48	NA	NA	NA	salazar2020yucunani	NA
+20631	yucu17	stool, chair	chaì	chaì	49	NA	NA	NA	salazar2020yucunani	NA
+20632	yucu17	animal	kitǐ	kitǐ	50	NA	NA	NA	salazar2020yucunani	NA
+20633	yucu17	bird	saà	saà	51	NA	NA	NA	salazar2020yucunani	NA
+20634	yucu17	fish	chakǎ	chakǎ	52	NA	NA	NA	salazar2020yucunani	NA
+20635	yucu17	snake	kòó	kòó	53	NA	NA	NA	salazar2020yucunani	NA
+20636	yucu17	frog	sa'và	sa'và	54	NA	NA	NA	salazar2020yucunani	NA
+20637	yucu17	hawk	xí'an	xí'an	55	NA	NA	NA	salazar2020yucunani	NA
+20638	yucu17	scorpion	tìsuꞌmà	tì-suꞌmà	56	NA	NA	NA	salazar2020yucunani	NA
+20639	yucu17	cockroach	ntichéꞌé	nti-chéꞌé	57	NA	NA	NA	salazar2020yucunani	NA
+20640	yucu17	grasshopper	tìka	tìka	58	NA	NA	NA	salazar2020yucunani	NA
+20641	yucu17	bee	ñùñǔ	ñùñǔ	59	NA	NA	NA	salazar2020yucunani	NA
+20642	yucu17	mouse	tǐ'in	tǐ'in	60	NA	NA	NA	salazar2020yucunani	NA
+20643	yucu17	deer	isù	isù	61	NA	NA	NA	salazar2020yucunani	NA
+20644	yucu17	squirrel	ntikuáin	nti-kuáin	62	NA	NA	NA	salazar2020yucunani	NA
+20645	yucu17	skunk	tǐ'in ità	tǐ'in ità	63	NA	NA	NA	salazar2020yucunani	NA
+20646	yucu17	(o)possum	tsóko	tsóko	64	NA	NA	NA	salazar2020yucunani	NA
+20647	yucu17	raccoon	má'à	má'à	65	NA	NA	NA	salazar2020yucunani	NA
+20648	yucu17	rabbit	lesû	lesû	66	NA	NA	NA	salazar2020yucunani	NA
+20649	yucu17	vulture	lóchí	lóchí	67	NA	yes	Nahuatl	salazar2020yucunani	NA
+20650	yucu17	dog	tǐnà	tǐnà	68	NA	NA	NA	salazar2020yucunani	NA
+20651	yucu17	cat	vílú	vílú	69	NA	NA	NA	salazar2020yucunani	NA
+20652	yucu17	rooster	tó'lo	tó'lo	70	NA	NA	NA	salazar2020yucunani	NA
+20653	yucu17	hen, chicken	chùún	chùún	71	NA	NA	NA	salazar2020yucunani	NA
+20654	yucu17	pig	kinì	kinì	72	NA	NA	NA	salazar2020yucunani	NA
+20655	yucu17	horse	kuáì	kuáì	73	NA	yes	Colonial Spanish	salazar2020yucunani	NA
+20656	yucu17	ant	chokǒ	chokǒ	75	NA	NA	NA	salazar2020yucunani	NA
+20657	yucu17	horn (anatomy)	ntikǐ	ntikǐ	76	NA	NA	NA	salazar2020yucunani	NA
+20658	yucu17	feather	tùmi	tùmi	77	NA	NA	NA	salazar2020yucunani	NA
+20659	yucu17	wing	ntsìtsǐ	ntsìtsǐ	78	NA	NA	NA	salazar2020yucunani	NA
+20660	yucu17	tail	nto'ó	nto'ó	79	NA	NA	NA	salazar2020yucunani	NA
+20661	yucu17	tree	yutǔ	yutǔ	80	NA	NA	NA	salazar2020yucunani	NA
+20662	yucu17	herbaceous plant	yùkù	yùkù	81	NA	NA	NA	salazar2020yucunani	NA
+20663	yucu17	grass	ichà	ichà	82	NA	NA	NA	salazar2020yucunani	NA
+20664	yucu17	flower	ità	ità	83	NA	NA	NA	salazar2020yucunani	NA
+20665	yucu17	maguey, century plant	yavǐ	yavǐ	84	NA	NA	NA	salazar2020yucunani	NA
+20666	yucu17	root	yo'ó	yo'ó	85	NA	NA	NA	salazar2020yucunani	NA
+20667	yucu17	thorn	iñǔ	iñǔ	86	NA	NA	NA	salazar2020yucunani	NA
+20668	yucu17	grain of corn	nùnǐ	nùnǐ	87	NA	NA	NA	salazar2020yucunani	NA
+20669	yucu17	cornfield	itù	itù	88	NA	NA	NA	salazar2020yucunani	NA
+20670	yucu17	fresh ear of corn	ntixǐ	ntixǐ	89	NA	NA	NA	salazar2020yucunani	NA
+20671	yucu17	cornmeal, corn dough	yutsǎ	yutsǎ	91	NA	NA	NA	salazar2020yucunani	NA
+20672	yucu17	tortilla	stàá	stàá	92	NA	NA	NA	salazar2020yucunani	NA
+20673	yucu17	cleared field, cornstalk	ntáyò'o	ntá-yò'o	93	NA	NA	NA	salazar2020yucunani	NA
+20674	yucu17	furrow, planting row	yukù	yukù	94	NA	NA	NA	salazar2020yucunani	NA
+20675	yucu17	tassel, maize spike	nùmǎ yutǔ	nùmǎ-yutǔ	95	NA	NA	NA	salazar2020yucunani	NA
+20676	yucu17	bean	ntuchǐ	ntuchǐ	96	NA	NA	NA	salazar2020yucunani	NA
+20677	yucu17	green bean	nchìxì	nchìxì	97	NA	NA	NA	salazar2020yucunani	NA
+20678	yucu17	chili pepper	ya'á	ya'á	98	NA	NA	NA	salazar2020yucunani	NA
+20679	yucu17	salt	ìín	ìín	99	NA	NA	NA	salazar2020yucunani	NA
+20680	yucu17	squash	ikǐ	ikǐ	100	NA	NA	NA	salazar2020yucunani	NA
+20681	yucu17	chayote squash	nañǎ	nañǎ	101	NA	NA	NA	salazar2020yucunani	NA
+20682	yucu17	sugar cane	ntòó	ntòó	102	NA	NA	NA	salazar2020yucunani	NA
+20683	yucu17	honey	ntǔxì	ntǔxì	103	NA	NA	NA	salazar2020yucunani	NA
+20684	yucu17	fat, lard, grease	xà'àn	xà'àn	104	NA	NA	NA	salazar2020yucunani	NA
+20685	yucu17	egg	ntìvǐ	ntìvǐ	105	NA	NA	NA	salazar2020yucunani	NA
+20686	yucu17	tomato	tìnanǎ	tì-nanǎ	106	NA	NA	NA	salazar2020yucunani	NA
+20687	yucu17	edible tuber	ña'mì	ña'mì	107	NA	NA	NA	salazar2020yucunani	NA
+20688	yucu17	avocado	tǐchi	tǐchi	108	NA	NA	NA	salazar2020yucunani	NA
+20689	yucu17	banana	nchikǎ	nchikǎ	109	NA	NA	NA	salazar2020yucunani	NA
+20690	yucu17	prickly pear cactus	mì'nchǎ	mì'nchǎ	110	NA	NA	NA	salazar2020yucunani	NA
+20691	yucu17	mamey	nchikatsà'ǎ	nchika-tsà'ǎ	111	banana-?	NA	NA	salazar2020yucunani	NA
+20692	yucu17	mushroom	tsìꞌǐ	tsìꞌǐ	113	NA	NA	NA	salazar2020yucunani	NA
+20693	yucu17	meat	kǔñù	kǔñù	114	NA	NA	NA	salazar2020yucunani	NA
+20694	yucu17	griddle	tsìǒ	tsìǒ	115	NA	NA	NA	salazar2020yucunani	NA
+20695	yucu17	pot, cooking pot	kìsi	kìsi	116	NA	NA	NA	salazar2020yucunani	NA
+20696	yucu17	oven	tsìtù	tsìtù	117	NA	NA	NA	salazar2020yucunani	NA
+20697	yucu17	fire	ñu'ù	ñu'ù	118	NA	NA	NA	salazar2020yucunani	NA
+20698	yucu17	ash	yàá	yàá	119	NA	NA	NA	salazar2020yucunani	NA
+20699	yucu17	charcoal	tùún	tùún	120	NA	NA	NA	salazar2020yucunani	NA
+20700	yucu17	smoke	ñù'mà	ñù'mà	121	NA	NA	NA	salazar2020yucunani	NA
+20701	yucu17	garbage, trash	mǐ'in	mǐ'in	122	NA	NA	NA	salazar2020yucunani	NA
+20702	yucu17	plate	kò'ǒ	kò'ǒ	123	NA	NA	NA	salazar2020yucunani	NA
+20703	yucu17	gourd, gourd bowl	yatsǐ	yatsǐ	124	NA	NA	NA	salazar2020yucunani	NA
+20704	yucu17	palm basket	ntò'ǒ	ntò'ǒ	125	NA	NA	NA	salazar2020yucunani	NA
+20705	yucu17	reed basket	tsikàvíchi	tsikà-víchi	125	NA	NA	NA	salazar2020yucunani	NA
+20706	yucu17	trunk	tsàtǔ	tsàtǔ	126	NA	NA	NA	salazar2020yucunani	NA
+20707	yucu17	thread	yùꞌvà	yùꞌvà	127	NA	NA	NA	salazar2020yucunani	NA
+20708	yucu17	comb	kuìkà	kuìkà	128	NA	NA	NA	salazar2020yucunani	NA
+20709	yucu17	rope	yo'ó	yo'ó	129	NA	NA	NA	salazar2020yucunani	NA
+20710	yucu17	hole	yàvì	yàvì	130	NA	NA	NA	salazar2020yucunani	NA
+20711	yucu17	net, mesh	ñùnǔ	ñùnǔ	131	NA	NA	NA	salazar2020yucunani	NA
+20712	yucu17	moon	yòó	yòó	134	NA	NA	NA	salazar2020yucunani	NA
+20713	yucu17	cloud	vìkǒ	vìkǒ	135	NA	NA	NA	salazar2020yucunani	NA
+20714	yucu17	lightning	tsántuchǎ	tsá-ntuchǎ	136	NA	NA	NA	salazar2020yucunani	NA
+20715	yucu17	flash	kanchii	kanchii	136	tones not marked	NA	NA	salazar2020yucunani	NA
+20716	yucu17	water	chìkuíi	chìkuíi	137	NA	NA	NA	salazar2020yucunani	NA
+20717	yucu17	rain (precipitation)	sàvǐ	sàvǐ	138	NA	NA	NA	salazar2020yucunani	NA
+20718	yucu17	river	yùcha	yùcha	139	NA	NA	NA	salazar2020yucunani	NA
+20719	yucu17	dew	yúyú	yúyú	140	NA	NA	NA	salazar2020yucunani	NA
+20720	yucu17	mountain, forest	yukǔ	yukǔ	141	NA	NA	NA	salazar2020yucunani	NA
+20721	yucu17	plain, flatland	yosǒ	yosǒ	142	NA	NA	NA	salazar2020yucunani	NA
+20722	yucu17	stone, rock	yùú	yùú	143	NA	NA	NA	salazar2020yucunani	NA
+20723	yucu17	cotton	kàchǐ	kàchǐ	144	NA	NA	NA	salazar2020yucunani	NA
+20724	yucu17	metal	kàa	kàa	145	NA	NA	NA	salazar2020yucunani	NA
+20725	yucu17	paper	tutù	tutù	146	NA	NA	NA	salazar2020yucunani	NA
+20726	yucu17	lime (material)	kakà	kakà	147	NA	NA	NA	salazar2020yucunani	NA
+20727	yucu17	beeswax, wax	ñùmǎ	ñùmǎ	148	NA	NA	NA	salazar2020yucunani	NA
+20728	yucu17	mud	nchaꞌì	nchaꞌì	149	NA	NA	NA	salazar2020yucunani	NA
+20729	yucu17	foam	tìñù	tìñù	150	NA	NA	NA	salazar2020yucunani	NA
+20730	yucu17	dust, powder	ñu'ú	ñu'ú	151	NA	NA	NA	salazar2020yucunani	NA
+20731	yucu17	red	kuá'à	kuá'à	152	NA	NA	NA	salazar2020yucunani	NA
+20732	yucu17	green	kuiǐ	kuiǐ	153	NA	NA	NA	salazar2020yucunani	NA
+20733	yucu17	yellow	kuáan	kuáan	154	NA	NA	NA	salazar2020yucunani	NA
+20734	yucu17	black	nchá'ì	nchá'ì	155	NA	NA	NA	salazar2020yucunani	NA
+20735	yucu17	white	yaa	yaa	156	NA	NA	NA	salazar2020yucunani	NA
+20736	yucu17	one	iin	iin	157	NA	NA	NA	salazar2020yucunani	NA
+20737	yucu17	two	ùvì	ùvì	158	NA	NA	NA	salazar2020yucunani	NA
+20738	yucu17	three	ùnì	ùnì	159	NA	NA	NA	salazar2020yucunani	NA
+20739	yucu17	four	kùmǐ	kùmǐ	160	NA	NA	NA	salazar2020yucunani	NA
+20740	yucu17	five	ù'ùn	ù'ùn	161	NA	NA	NA	salazar2020yucunani	NA
+20741	yucu17	six	ìñù	ìñù	162	NA	NA	NA	salazar2020yucunani	NA
+20742	yucu17	seven	ùtsà	ùtsà	163	NA	NA	NA	salazar2020yucunani	NA
+20743	yucu17	eight	ùnà	ùnà	164	NA	NA	NA	salazar2020yucunani	NA
+20744	yucu17	nine	ììn	ììn	165	NA	NA	NA	salazar2020yucunani	NA
+20745	yucu17	ten	ùtsì	ùtsì	166	NA	NA	NA	salazar2020yucunani	NA
+20746	yucu17	fifteen	tsà'ùn	tsà'ùn	167	NA	NA	NA	salazar2020yucunani	NA
+20747	yucu17	twenty	òkò	òkò	168	NA	NA	NA	salazar2020yucunani	NA
+20748	yucu17	poor	ntáꞌvì	ntáꞌvì	169	NA	NA	NA	salazar2020yucunani	NA
+20749	yucu17	rich	kuíka	kuíka	170	NA	NA	NA	salazar2020yucunani	NA
+20750	yucu17	cold	vìtsi	vìtsi	171	NA	NA	NA	salazar2020yucunani	NA
+20751	yucu17	hot	yókó	yókó	172	NA	NA	NA	salazar2020yucunani	NA
+20752	yucu17	big.SG	luu	luu	173	NA	NA	NA	salazar2020yucunani	NA
+20753	yucu17	small.SG	ká'nu	ká'nu	175	NA	NA	NA	salazar2020yucunani	NA
+20754	yucu17	long.SG	kánǐ	kánǐ	177	NA	NA	NA	salazar2020yucunani	NA
+20755	yucu17	good	và'a	và'a	179	NA	NA	NA	salazar2020yucunani	NA
+20756	yucu17	sweet	vìxì	vìxì	180	NA	NA	NA	salazar2020yucunani	NA
+20757	yucu17	salty	ù'và	ù'và	181	NA	NA	NA	salazar2020yucunani	NA
+20758	yucu17	bitter	ùvà	ùvà	182	NA	NA	NA	salazar2020yucunani	NA
+20759	yucu17	tasty, delicious	àsǐ	àsǐ	183	NA	NA	NA	salazar2020yucunani	NA
+20760	yucu17	wide	ntíkà	ntíkà	184	NA	NA	NA	salazar2020yucunani	NA
+20761	yucu17	new	tsaâ	tsaâ	185	NA	NA	NA	salazar2020yucunani	NA
+20762	yucu17	lazy	kú'ntú	kú'ntú	186	NA	NA	NA	salazar2020yucunani	NA
+20763	yucu17	ugly	kini	kini	187	NA	NA	NA	salazar2020yucunani	NA
+20764	yucu17	near	yachi	yachi	189	NA	NA	NA	salazar2020yucunani	NA
+20765	yucu17	far	tsíka	tsíka	190	NA	NA	NA	salazar2020yucunani	NA
+20766	yucu17	heavy	vèe	vèe	191	NA	NA	NA	salazar2020yucunani	NA
+20767	yucu17	raw	í'i	í'i	192	NA	NA	NA	salazar2020yucunani	NA
+20768	yucu17	smooth	ntiǐ	ntiǐ	193	NA	NA	NA	salazar2020yucunani	NA
+20769	yucu17	slow	kuéen	kuéen	194	NA	NA	NA	salazar2020yucunani	NA
+20770	yucu17	yesterday	kúní	kúní	195	NA	NA	NA	salazar2020yucunani	NA
+20771	yucu17	year	kuìà	kuìà	196	NA	NA	NA	salazar2020yucunani	NA
+20772	yucu17	now, today	vichi	vichi	197	NA	NA	NA	salazar2020yucunani	NA
+20773	yucu17	night	tsikuàá	tsi-kuàá	198	NA	NA	NA	salazar2020yucunani	NA
+20774	yucu17	day, date	kìí	kìí	200	NA	NA	NA	salazar2020yucunani	NA
+20775	yucu17	half, middle	sava	sava	202	NA	NA	NA	salazar2020yucunani	NA
+20776	yucu17	money	xǔ'un	xǔ'un	203	NA	NA	NA	salazar2020yucunani	NA
+20777	yucu17	work	chuun	chuun	204	NA	NA	NA	salazar2020yucunani	NA
+20778	yucu17	word	tù'un	tù'un	205	NA	NA	NA	salazar2020yucunani	NA
+20779	yucu17	fault, blame, sin	kuàchi	kuàchi	206	NA	NA	NA	salazar2020yucunani	NA
+20780	yucu17	nap, sleepiness	mǎnà	mǎnà	207	NA	NA	NA	salazar2020yucunani	NA
+20781	yucu17	song, music	yaà	yaà	209	NA	NA	NA	salazar2020yucunani	NA

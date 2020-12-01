@@ -1,88 +1,88 @@
-ID	DOCULECT	CONCEPT	GLOSS	VALUE	FORM	IDlist	CONCEPTICON_ID	LOAN	LOAN_SOURCE	SOURCE	FLOATTONE
-6410	pena12	CHILD (DESCENDANT)	hijo/hija	seʔe	seʔe	5	1801	NA	NA	josserand1983mixtec	NA
-6527	pena12	BROTHER (OF MAN)	hermano de hombre	ña̧ni̧	ña̧ni̧	9	559	NA	NA	josserand1983mixtec	NA
-6650	pena12	MAN	hombre	tee	tee	13	1554	NA	NA	josserand1983mixtec	NA
-6943	pena12	BLOOD	sangre	ni̧ñi̧	ni̧ñi̧	17	946	NA	NA	josserand1983mixtec	NA
-7136	pena12	MOUTH	boca	žuʔu	žuʔu	23	674	NA	NA	josserand1983mixtec	NA
-7244	pena12	EAR	oreja	soʔo	soʔo	24	1247	NA	NA	josserand1983mixtec	NA
-7361	pena12	NOSE	nariz	šitni̧	šitni̧	25	1221	NA	NA	josserand1983mixtec	NA
-7475	pena12	NOSE	cuello	suku̧	suku̧	25	1221	NA	NA	josserand1983mixtec	NA
-7593	pena12	FINGERNAIL	uña	tni̧i̧	tni̧i̧	28	1258	NA	NA	josserand1983mixtec	NA
-7711	pena12	INTESTINES	tripas	čii	čii	31	1991	NA	NA	josserand1983mixtec	NA
-7829	pena12	FOOT	pie	xaʔa	xaʔa	32	1301	NA	NA	josserand1983mixtec	NA
-7944	pena12	DISEASE	enfermedad	kʷeʔe	kʷeʔe	33	1986	NA	NA	josserand1983mixtec	NA
-8154	pena12	SWELLING	grano	ⁿdiʔi	ⁿdiʔi	35	1903	NA	NA	josserand1983mixtec	NA
-8269	pena12	PUS	pus	ⁿdakʷa	ⁿdakʷa	37	1808	NA	NA	josserand1983mixtec	NA
-8447	pena12	SANDAL	huarache	ⁿdixa	ⁿdixa	40	NA	NA	NA	josserand1983mixtec	NA
-8716	pena12	TOWN OR VILLAGE	pueblo	ñu̧u̧	ñu̧u̧	43	3609	NA	NA	josserand1983mixtec	NA
-8830	pena12	HOUSE	casa	ƀeʔe	ƀeʔe	44	1252	NA	NA	josserand1983mixtec	NA
-9037	pena12	MAT	petate	žuu	žuu	47	195	NA	NA	josserand1983mixtec	NA
-9155	pena12	BED	cama	xito	xito	48	1663	NA	NA	josserand1983mixtec	NA
-9273	pena12	STOOL	banquito	ba̧ᵑgu	ba̧ᵑgu	49	2058	NA	NA	josserand1983mixtec	NA
-9393	pena12	ANIMAL	animal	kiti	kiti	50	619	NA	NA	josserand1983mixtec	NA
-10161	pena12	ANIMAL	rata	liᵑgi	liᵑgi	50	619	NA	NA	josserand1983mixtec	NA
-9511	pena12	BIRD	pájaro	saa	saa	51	937	NA	NA	josserand1983mixtec	NA
-10289	pena12	BIRD	venado	isu	isu	51	937	NA	NA	josserand1983mixtec	NA
-10405	pena12	FISH	ardilla	kʷa̧ni̧	kʷa̧ni̧	52	227	NA	NA	josserand1983mixtec	NA
-9717	pena12	FROG	rana	sapu	sapu	54	503	NA	NA	josserand1983mixtec	NA
-10528	pena12	BEE	gato	ƀilu	ƀilu	59	665	NA	NA	josserand1983mixtec	NA
-10647	pena12	ANT	cuerno	ⁿdiki	ⁿdiki	75	587	NA	NA	josserand1983mixtec	NA
-10764	pena12	FEATHER	pluma	tnu̧mi̧	tnu̧mi̧	77	1201	NA	NA	josserand1983mixtec	NA
-10972	pena12	TAIL	cola	su̧ʔma̧	su̧ʔma̧	79	1220	NA	NA	josserand1983mixtec	NA
-11092	pena12	TREE	árbol	žutnu̧	žutnu̧	80	906	NA	NA	josserand1983mixtec	NA
-11309	pena12	MAGUEY	maguey	žaƀi	žaƀi	84	NA	NA	NA	josserand1983mixtec	NA
-11429	pena12	CORN	maíz	nu̧ni̧	nu̧ni̧	87	506	NA	NA	josserand1983mixtec	NA
-11665	pena12	CORN DOUGH	masa	ñu̧xa̧	ñu̧xa̧	91	NA	NA	NA	josserand1983mixtec	NA
-11788	pena12	TORTILLA	tortilla	staa	staa	92	NA	NA	NA	josserand1983mixtec	NA
-12168	pena12	TASSEL	frijol(es)	ⁿduči	ⁿduči	95	NA	NA	NA	josserand1983mixtec	NA
-12372	pena12	SALT	sal	ñi̧i̧	ñi̧i̧	99	1274	NA	NA	josserand1983mixtec	NA
-12485	pena12	PUMPKIN	calabaza	žiki̧	žiki̧	100	864	NA	NA	josserand1983mixtec	NA
-12601	pena12	SUGAR CANE	caña	ⁿdoo	ⁿdoo	102	146	NA	NA	josserand1983mixtec	NA
-12718	pena12	HONEY	miel	ⁿduši	ⁿduši	103	942	NA	NA	josserand1983mixtec	NA
-12841	pena12	EGG	blanquillo, huevo	ⁿdiƀi	ⁿdiƀi	105	744	NA	NA	josserand1983mixtec	NA
-13219	pena12	MEAT	carne	ku̧ñu̧	ku̧ñu̧	114	634	NA	NA	josserand1983mixtec	NA
-13338	pena12	GRIDDLE	comal	xižo	xižo	115	NA	NA	NA	josserand1983mixtec	NA
-13651	pena12	FIRE	lumbre	ñu̧ʔu̧	ñu̧ʔu̧	118	221	NA	NA	josserand1983mixtec	NA
-13771	pena12	SMOKE (EXHAUST)	humo	ñu̧ʔma̧	ñu̧ʔma̧	121	778	NA	NA	josserand1983mixtec	NA
-13988	pena12	GOURD BOWL	jícara	ña̧xi̧	ña̧xi̧	124	NA	NA	NA	josserand1983mixtec	NA
-14100	pena12	BASKET	cajón	kaxa	kaxa	125	1539	NA	NA	josserand1983mixtec	NA
-14212	pena12	THREAD	hilo	žuʔƀa	žuʔƀa	127	1161	NA	NA	josserand1983mixtec	NA
-14484	pena12	NET	red	ñu̧nu̧	ñu̧nu̧	131	2963	NA	NA	josserand1983mixtec	NA
-14609	pena12	WATER	agua	ⁿdute	ⁿdute	137	948	NA	NA	josserand1983mixtec	NA
-14736	pena12	RAIN (PRECIPITATION)	lluvia	saƀi	saƀi	138	658	NA	NA	josserand1983mixtec	NA
-14861	pena12	RIVER	río	žute	žute	139	666	NA	NA	josserand1983mixtec	NA
-15072	pena12	MOUNTAIN OR HILL	cerro	žuku	žuku	141	2118	NA	NA	josserand1983mixtec	NA
-15196	pena12	PLAIN	llano	ⁿduʔƀa	ⁿduʔƀa	142	652	NA	NA	josserand1983mixtec	NA
-15322	pena12	STONE OR ROCK	piedra	žuu	žuu	143	2125	NA	NA	josserand1983mixtec	NA
-15439	pena12	COTTON	algodón	kači	kači	144	1850	NA	NA	josserand1983mixtec	NA
-15637	pena12	BEESWAX	cera	ñu̧ma̧	ñu̧ma̧	148	1931	NA	NA	josserand1983mixtec	NA
-15761	pena12	MUD	lodo	ⁿdeʔžu	ⁿdeʔžu	149	640	NA	NA	josserand1983mixtec	NA
-15877	pena12	FOAM	espuma	ti-ʔi̧ñu̧	ti-ʔi̧ñu̧	150	1768	NA	NA	josserand1983mixtec	NA
-16471	pena12	FOAM	cuatro	ku̧u̧	ku̧u̧	150	1768	NA	NA	josserand1983mixtec	NA
-16594	pena12	DUST	cinco	u̧ʔu̧	u̧ʔu̧	151	2	NA	NA	josserand1983mixtec	NA
-15997	pena12	RED	rojo	kʷaʔa	kʷaʔa	152	156	NA	NA	josserand1983mixtec	NA
-16712	pena12	RED	seis	i̧ñu̧	i̧ñu̧	152	156	NA	NA	josserand1983mixtec	NA
-16828	pena12	GREEN	siete	uxa	uxa	153	1425	NA	NA	josserand1983mixtec	NA
-16112	pena12	YELLOW	amarillo	kʷa̧a̧	kʷa̧a̧	154	1424	NA	NA	josserand1983mixtec	NA
-16945	pena12	YELLOW	ocho	u̧na̧	u̧na̧	154	1424	NA	NA	josserand1983mixtec	NA
-17060	pena12	BLACK	diez	uši	uši	155	163	NA	NA	josserand1983mixtec	NA
-17176	pena12	ONE	quince	su̧ʔu̧	su̧ʔu̧	157	1493	NA	NA	josserand1983mixtec	NA
-16230	pena12	TWO	dos	uu	uu	158	1498	NA	NA	josserand1983mixtec	NA
-16351	pena12	THREE	tres	u̧ni̧	u̧ni̧	159	492	NA	NA	josserand1983mixtec	NA
-17293	pena12	THREE	pobre	ⁿdaʔƀi	ⁿdaʔƀi	159	492	NA	NA	josserand1983mixtec	NA
-17411	pena12	COLD	frío	ƀixi	ƀixi	171	1287	NA	NA	josserand1983mixtec	NA
-17621	pena12	BIG (SINGULAR)	grande (sg.)	kaʔnu̧	kaʔnu̧	173	NA	NA	NA	josserand1983mixtec	NA
-17747	pena12	SMALL (SINGULAR)	chico	luli	luli	175	NA	NA	NA	josserand1983mixtec	NA
-17959	pena12	SWEET	dulce	ƀiši	ƀiši	180	717	NA	NA	josserand1983mixtec	NA
-18381	pena12	NEW	floja	taža	taža	185	1231	NA	NA	josserand1983mixtec	NA
-18608	pena12	NEAR	está cerca	žatni̧	žatni̧	189	1942	NA	NA	josserand1983mixtec	NA
-18718	pena12	HEAVY	pesado	ƀee	ƀee	191	1210	NA	NA	josserand1983mixtec	NA
-18950	pena12	SLOW	despacio	kʷee	kʷee	194	701	NA	NA	josserand1983mixtec	NA
-19064	pena12	YESTERDAY	ayer	iku	iku	195	1174	NA	NA	josserand1983mixtec	NA
-19180	pena12	YESTERDAY	año	kʷiya	kʷiya	195	1174	NA	NA	josserand1983mixtec	NA
-19181	pena12	YESTERDAY	año	kʷiža	kʷiža	195	1174	NA	NA	josserand1983mixtec	NA
-19485	pena12	DAY (24 HOURS)	día	kiƀi	kiƀi	200	1260	NA	NA	josserand1983mixtec	NA
-19608	pena12	HALF	mitad	saƀa	saƀa	202	816	NA	NA	josserand1983mixtec	NA
-19725	pena12	WORKING OR WORK	trabajo	ni̧ñu̧	ni̧ñu̧	204	2281	NA	NA	josserand1983mixtec	NA
-19847	pena12	WORD	palabra	tnu̧ʔu̧	tnu̧ʔu̧	205	1599	NA	NA	josserand1983mixtec	NA
-20055	pena12	WHEN	cuándo	ⁿde-kiƀi	ⁿde-kiƀi	208	1238	NA	NA	josserand1983mixtec	NA
+ID	DOCULECT	GLOSS	VALUE	FORM	IDlist	NOTES	LOAN	LOAN_SOURCE	SOURCE	FLOATTONE
+6410	pena12	hijo/hija	seʔe	seʔe	5	NA	NA	NA	josserand1983mixtec	NA
+6527	pena12	hermano de hombre	ña̧ni̧	ña̧ni̧	9	NA	NA	NA	josserand1983mixtec	NA
+6650	pena12	hombre	tee	tee	13	NA	NA	NA	josserand1983mixtec	NA
+6943	pena12	sangre	ni̧ñi̧	ni̧ñi̧	17	NA	NA	NA	josserand1983mixtec	NA
+7136	pena12	boca	žuʔu	žuʔu	23	NA	NA	NA	josserand1983mixtec	NA
+7244	pena12	oreja	soʔo	soʔo	24	NA	NA	NA	josserand1983mixtec	NA
+7361	pena12	nariz	šitni̧	šitni̧	25	NA	NA	NA	josserand1983mixtec	NA
+7475	pena12	cuello	suku̧	suku̧	26	NA	NA	NA	josserand1983mixtec	NA
+7593	pena12	uña	tni̧i̧	tni̧i̧	28	NA	NA	NA	josserand1983mixtec	NA
+7711	pena12	tripas	čii	čii	31	NA	NA	NA	josserand1983mixtec	NA
+7829	pena12	pie	xaʔa	xaʔa	32	NA	NA	NA	josserand1983mixtec	NA
+7944	pena12	enfermedad	kʷeʔe	kʷeʔe	33	NA	NA	NA	josserand1983mixtec	NA
+8154	pena12	grano	ⁿdiʔi	ⁿdiʔi	36	NA	NA	NA	josserand1983mixtec	NA
+8269	pena12	pus	ⁿdakʷa	ⁿdakʷa	37	NA	NA	NA	josserand1983mixtec	NA
+8447	pena12	huarache	ⁿdixa	ⁿdixa	40	NA	NA	NA	josserand1983mixtec	NA
+8716	pena12	pueblo	ñu̧u̧	ñu̧u̧	43	NA	NA	NA	josserand1983mixtec	NA
+8830	pena12	casa	ƀeʔe	ƀeʔe	44	NA	NA	NA	josserand1983mixtec	NA
+9037	pena12	petate	žuu	žuu	47	NA	NA	NA	josserand1983mixtec	NA
+9155	pena12	cama	xito	xito	48	NA	NA	NA	josserand1983mixtec	NA
+9273	pena12	banquito	ba̧ᵑgu	ba̧ᵑgu	49	NA	NA	NA	josserand1983mixtec	NA
+9393	pena12	animal	kiti	kiti	50	NA	NA	NA	josserand1983mixtec	NA
+9511	pena12	pájaro	saa	saa	51	NA	NA	NA	josserand1983mixtec	NA
+9717	pena12	rana	sapu	sapu	54	NA	NA	NA	josserand1983mixtec	NA
+10161	pena12	rata	liᵑgi	liᵑgi	60	NA	NA	NA	josserand1983mixtec	NA
+10289	pena12	venado	isu	isu	61	NA	NA	NA	josserand1983mixtec	NA
+10405	pena12	ardilla	kʷa̧ni̧	kʷa̧ni̧	62	NA	NA	NA	josserand1983mixtec	NA
+10528	pena12	gato	ƀilu	ƀilu	69	NA	NA	NA	josserand1983mixtec	NA
+10647	pena12	cuerno	ⁿdiki	ⁿdiki	76	NA	NA	NA	josserand1983mixtec	NA
+10764	pena12	pluma	tnu̧mi̧	tnu̧mi̧	77	NA	NA	NA	josserand1983mixtec	NA
+10972	pena12	cola	su̧ʔma̧	su̧ʔma̧	79	NA	NA	NA	josserand1983mixtec	NA
+11092	pena12	árbol	žutnu̧	žutnu̧	80	NA	NA	NA	josserand1983mixtec	NA
+11309	pena12	maguey	žaƀi	žaƀi	84	NA	NA	NA	josserand1983mixtec	NA
+11429	pena12	maíz	nu̧ni̧	nu̧ni̧	87	NA	NA	NA	josserand1983mixtec	NA
+11665	pena12	masa	ñu̧xa̧	ñu̧xa̧	91	NA	NA	NA	josserand1983mixtec	NA
+11788	pena12	tortilla	staa	staa	92	NA	NA	NA	josserand1983mixtec	NA
+12168	pena12	frijol(es)	ⁿduči	ⁿduči	96	NA	NA	NA	josserand1983mixtec	NA
+12372	pena12	sal	ñi̧i̧	ñi̧i̧	99	NA	NA	NA	josserand1983mixtec	NA
+12485	pena12	calabaza	žiki̧	žiki̧	100	NA	NA	NA	josserand1983mixtec	NA
+12601	pena12	caña	ⁿdoo	ⁿdoo	102	NA	NA	NA	josserand1983mixtec	NA
+12718	pena12	miel	ⁿduši	ⁿduši	103	NA	NA	NA	josserand1983mixtec	NA
+12841	pena12	blanquillo, huevo	ⁿdiƀi	ⁿdiƀi	105	NA	NA	NA	josserand1983mixtec	NA
+13219	pena12	carne	ku̧ñu̧	ku̧ñu̧	114	NA	NA	NA	josserand1983mixtec	NA
+13338	pena12	comal	xižo	xižo	115	NA	NA	NA	josserand1983mixtec	NA
+13651	pena12	lumbre	ñu̧ʔu̧	ñu̧ʔu̧	118	NA	NA	NA	josserand1983mixtec	NA
+13771	pena12	humo	ñu̧ʔma̧	ñu̧ʔma̧	121	NA	NA	NA	josserand1983mixtec	NA
+13988	pena12	jícara	ña̧xi̧	ña̧xi̧	124	NA	NA	NA	josserand1983mixtec	NA
+14100	pena12	cajón	kaxa	kaxa	126	NA	NA	NA	josserand1983mixtec	NA
+14212	pena12	hilo	žuʔƀa	žuʔƀa	127	NA	NA	NA	josserand1983mixtec	NA
+14484	pena12	red	ñu̧nu̧	ñu̧nu̧	131	NA	NA	NA	josserand1983mixtec	NA
+14609	pena12	agua	ⁿdute	ⁿdute	137	NA	NA	NA	josserand1983mixtec	NA
+14736	pena12	lluvia	saƀi	saƀi	138	NA	NA	NA	josserand1983mixtec	NA
+14861	pena12	río	žute	žute	139	NA	NA	NA	josserand1983mixtec	NA
+15072	pena12	cerro	žuku	žuku	141	NA	NA	NA	josserand1983mixtec	NA
+15196	pena12	llano	ⁿduʔƀa	ⁿduʔƀa	142	NA	NA	NA	josserand1983mixtec	NA
+15322	pena12	piedra	žuu	žuu	143	NA	NA	NA	josserand1983mixtec	NA
+15439	pena12	algodón	kači	kači	144	NA	NA	NA	josserand1983mixtec	NA
+15637	pena12	cera	ñu̧ma̧	ñu̧ma̧	148	NA	NA	NA	josserand1983mixtec	NA
+15761	pena12	lodo	ⁿdeʔžu	ⁿdeʔžu	149	NA	NA	NA	josserand1983mixtec	NA
+15877	pena12	espuma	ti-ʔi̧ñu̧	ti-ʔi̧ñu̧	150	NA	NA	NA	josserand1983mixtec	NA
+15997	pena12	rojo	kʷaʔa	kʷaʔa	152	NA	NA	NA	josserand1983mixtec	NA
+16112	pena12	amarillo	kʷa̧a̧	kʷa̧a̧	154	NA	NA	NA	josserand1983mixtec	NA
+16230	pena12	dos	uu	uu	158	NA	NA	NA	josserand1983mixtec	NA
+16351	pena12	tres	u̧ni̧	u̧ni̧	159	NA	NA	NA	josserand1983mixtec	NA
+16471	pena12	cuatro	ku̧u̧	ku̧u̧	160	NA	NA	NA	josserand1983mixtec	NA
+16594	pena12	cinco	u̧ʔu̧	u̧ʔu̧	161	NA	NA	NA	josserand1983mixtec	NA
+16712	pena12	seis	i̧ñu̧	i̧ñu̧	162	NA	NA	NA	josserand1983mixtec	NA
+16828	pena12	siete	uxa	uxa	163	NA	NA	NA	josserand1983mixtec	NA
+16945	pena12	ocho	u̧na̧	u̧na̧	164	NA	NA	NA	josserand1983mixtec	NA
+17060	pena12	diez	uši	uši	166	NA	NA	NA	josserand1983mixtec	NA
+17176	pena12	quince	su̧ʔu̧	su̧ʔu̧	167	NA	NA	NA	josserand1983mixtec	NA
+17293	pena12	pobre	ⁿdaʔƀi	ⁿdaʔƀi	169	NA	NA	NA	josserand1983mixtec	NA
+17411	pena12	frío	ƀixi	ƀixi	171	NA	NA	NA	josserand1983mixtec	NA
+17621	pena12	grande (sg.)	kaʔnu̧	kaʔnu̧	173	NA	NA	NA	josserand1983mixtec	NA
+17747	pena12	chico	luli	luli	175	NA	NA	NA	josserand1983mixtec	NA
+17959	pena12	dulce	ƀiši	ƀiši	180	NA	NA	NA	josserand1983mixtec	NA
+18381	pena12	floja	taža	taža	186	NA	NA	NA	josserand1983mixtec	NA
+18608	pena12	está cerca	žatni̧	žatni̧	189	NA	NA	NA	josserand1983mixtec	NA
+18718	pena12	pesado	ƀee	ƀee	191	NA	NA	NA	josserand1983mixtec	NA
+18950	pena12	despacio	kʷee	kʷee	194	NA	NA	NA	josserand1983mixtec	NA
+19064	pena12	ayer	iku	iku	195	NA	NA	NA	josserand1983mixtec	NA
+19180	pena12	año	kʷiya	kʷiya	196	NA	NA	NA	josserand1983mixtec	NA
+19181	pena12	año	kʷiža	kʷiža	196	NA	NA	NA	josserand1983mixtec	NA
+19485	pena12	día	kiƀi	kiƀi	200	NA	NA	NA	josserand1983mixtec	NA
+19608	pena12	mitad	saƀa	saƀa	202	NA	NA	NA	josserand1983mixtec	NA
+19725	pena12	trabajo	ni̧ñu̧	ni̧ñu̧	204	NA	NA	NA	josserand1983mixtec	NA
+19847	pena12	palabra	tnu̧ʔu̧	tnu̧ʔu̧	205	NA	NA	NA	josserand1983mixtec	NA
+20055	pena12	cuándo	ⁿde-kiƀi	ⁿde-kiƀi	208	NA	NA	NA	josserand1983mixtec	NA

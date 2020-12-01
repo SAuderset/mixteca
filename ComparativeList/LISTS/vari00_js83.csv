@@ -199,7 +199,7 @@ IDlist	GLOSS	VALUE	FORM	ID	NOTES	LOAN	LOAN_SOURCE	DOCULECT	SOURCE
 9	hermano de hombre	ña̧ni̧		6568				zaca11	josserand1983mixtec
 9	hermano de hombre	ña̧ni̧		6569				zapo11	josserand1983mixtec
 9	hermano de hombre	ña̧nī̧		6496				gran11	josserand1983mixtec
-9	hermano de hombre	ña̧̧ni̧̧		6528				peno11	josserand1983mixtec
+9	hermano de hombre	ña̧ni̧̧		6528				peno11	josserand1983mixtec
 9	hermano de hombre	ñā̧nī̧		6559				xaya12	josserand1983mixtec
 9	hermano de hombre	ñā̧nì̧		6526				ocot11	josserand1983mixtec
 9	hermano de hombre	ñā̧nī̧		6525				nuyo11	josserand1983mixtec
@@ -1750,7 +1750,7 @@ IDlist	GLOSS	VALUE	FORM	ID	NOTES	LOAN	LOAN_SOURCE	DOCULECT	SOURCE
 35	hinchazón	xʷi̧ỹu̧		8060				tama11	josserand1983mixtec
 36	grano	či-u̧ʔu̧		8142				mont14	josserand1983mixtec
 36	grano	co̧ʔo̧		8144				ndua11	josserand1983mixtec
-36	grano	ii-(?)		8103				chaz11	josserand1983mixtec
+36	grano	ii-(?)	ii	8103				chaz11	josserand1983mixtec
 36	grano	ⁿčiʔi		8117				dura11	josserand1983mixtec
 36	grano	ⁿčiʔi		8126				ixpa11	josserand1983mixtec
 36	grano	ⁿčìʔī		8162				reye11	josserand1983mixtec
@@ -2292,7 +2292,7 @@ IDlist	GLOSS	VALUE	FORM	ID	NOTES	LOAN	LOAN_SOURCE	DOCULECT	SOURCE
 42	huipil	šiku̧		8628				tepe12	josserand1983mixtec
 42	huipil	šiku̧		8642				zaca11	josserand1983mixtec
 42	huipil	šìku̧		8588				coic11	josserand1983mixtec
-42	huipil	šitNi̧?		8632				tlac11	josserand1983mixtec
+42	huipil	šitNi̧?	šitNi̧	8632	deleted q-mark			tlac11	josserand1983mixtec
 42	huipil	so̧ʔno̧		8600				itun11	josserand1983mixtec
 42	huipil	su ⁿduʔu		8584				chay11	josserand1983mixtec
 42	huipil	šuku̧		8609				lore11	josserand1983mixtec
@@ -3738,7 +3738,7 @@ IDlist	GLOSS	VALUE	FORM	ID	NOTES	LOAN	LOAN_SOURCE	DOCULECT	SOURCE
 57	cucaracha	tu-teʔya		10037				mont13	josserand1983mixtec
 57	cucaracha	tʸu̧u̧		10001				brav11	josserand1983mixtec
 57	cucaracha	tʸu̧u̧		10012				cuat11	josserand1983mixtec
-60	rata	(či-čii?)		10120				flor11	josserand1983mixtec
+60	rata	(či-čii?)	či-čii	10120	deleted q-mark			flor11	josserand1983mixtec
 60	rata	či-či̧i̧		10084				amat11	josserand1983mixtec
 60	rata	či-nɨ̧ñɨ̧		10125				huit11	josserand1983mixtec
 60	rata	či-nɨ̧ñɨ̧		10164				pied11	josserand1983mixtec
@@ -4093,7 +4093,7 @@ IDlist	GLOSS	VALUE	FORM	ID	NOTES	LOAN	LOAN_SOURCE	DOCULECT	SOURCE
 62	ardilla	ⁿdī-kʷá̧ñu̧		10441				yucu15	josserand1983mixtec
 62	ardilla	ⁿdi-kʷēī		10347				ayut11	josserand1983mixtec
 62	ardilla	ⁿdi-kʷi̧i̧		10442				yucu16	josserand1983mixtec
-62	ardilla	ⁿdo-ardia?		10355		partial	Spanish	chig11	josserand1983mixtec
+62	ardilla	ⁿdo-ardia?	ⁿdo-ardia	10355	deleted q-mark	partial	Spanish	chig11	josserand1983mixtec
 62	ardilla	ⁿdʸi-kʷa̧i̧		10385				juxt11	josserand1983mixtec
 62	ardilla	ⁿdʸi-kʷa̧i̧		10389				mixt11	josserand1983mixtec
 62	ardilla	si-ardiya		10379		partial	Spanish	ixta13	josserand1983mixtec
@@ -4637,7 +4637,7 @@ IDlist	GLOSS	VALUE	FORM	ID	NOTES	LOAN	LOAN_SOURCE	DOCULECT	SOURCE
 79	cola	si̧ʔma̧		10902				alac11	josserand1983mixtec
 79	cola	si̧ʔma̧		10913				cahu11	josserand1983mixtec
 79	cola	si̧ʔma̧		10927				cuat11	josserand1983mixtec
-79	cola	so̧ʔºmȩ		10977				prog11	josserand1983mixtec
+79	cola	so̧ʔºmȩ	so̧ʔmȩ	10977	echo vowel deleted			prog11	josserand1983mixtec
 79	cola	su̧(ʔ)ma̧		10958				mont13	josserand1983mixtec
 79	cola	sù̧mà̧		10971				ocot11	josserand1983mixtec
 79	cola	sù̧ʔmà̧		10970				nuyo11	josserand1983mixtec
@@ -6553,7 +6553,7 @@ IDlist	GLOSS	VALUE	FORM	ID	NOTES	LOAN	LOAN_SOURCE	DOCULECT	SOURCE
 106	jitomate	či-na̧na̧		12938				nuxa11	josserand1983mixtec
 106	jitomate	či-na̧na̧		12939				nuxi11	josserand1983mixtec
 106	jitomate	či-na̧na̧		12954				teco11	josserand1983mixtec
-106	jitomate	či-na̧na-̧(ⁿčaʔža)		12923				ixpa11	josserand1983mixtec
+106	jitomate	či-na̧na̧-(ⁿčaʔža)		12923				ixpa11	josserand1983mixtec
 106	jitomate	či-na̧na̧-ⁿčiʔe		12947				reye11	josserand1983mixtec
 106	jitomate	ȼi-na̧na̧		12904				chaz11	josserand1983mixtec
 106	jitomate	ȼi-na̧na̧		12906				chig11	josserand1983mixtec
@@ -9194,7 +9194,7 @@ IDlist	GLOSS	VALUE	FORM	ID	NOTES	LOAN	LOAN_SOURCE	DOCULECT	SOURCE
 145	fierro	tu̧ni̧		15550				tona11	josserand1983mixtec
 145	fierro	tu̧ni̧		15555				yolo12	josserand1983mixtec
 145	fierro	tu̧ni̧		15562				zaca11	josserand1983mixtec
-145	fierro	tu̧ni̧̧		15531				peno11	josserand1983mixtec
+145	fierro	tu̧ni̧		15531				peno11	josserand1983mixtec
 145	fierro	tu̧nī̧		15509				gran11	josserand1983mixtec
 145	fierro	tù̧nì̧		15499				coic11	josserand1983mixtec
 145	fierro	tū̧nì̧		15561				yucu15	josserand1983mixtec
@@ -9801,7 +9801,7 @@ IDlist	GLOSS	VALUE	FORM	ID	NOTES	LOAN	LOAN_SOURCE	DOCULECT	SOURCE
 154	amarillo	kʷá̧á̧		16058				chay11	josserand1983mixtec
 154	amarillo	kʷá̧á̧		16083				ixpa11	josserand1983mixtec
 154	amarillo	kʷá̧á̧		16095				metl11	josserand1983mixtec
-154	amarillo	kʷà̧a̧̧		16113				peno11	josserand1983mixtec
+154	amarillo	kʷà̧a̧		16113				peno11	josserand1983mixtec
 154	amarillo	kʷā̧á̧		16142				xaya12	josserand1983mixtec
 154	amarillo	kʷā̧ā̧		16053				ayut11	josserand1983mixtec
 154	amarillo	kʷa̧a̧ⁿ		16099				mont12	josserand1983mixtec
@@ -10789,7 +10789,7 @@ IDlist	GLOSS	VALUE	FORM	ID	NOTES	LOAN	LOAN_SOURCE	DOCULECT	SOURCE
 167	quince	sa̧ʔa̧		17112				apas11	josserand1983mixtec
 167	quince	sa̧ʔa̧		17131				coxc11	josserand1983mixtec
 167	quince	saʔo		17199				tepo11	josserand1983mixtec
-167	quince	şā̧ʔò̧		17175				ocot11	josserand1983mixtec
+167	quince	šā̧ʔò̧		17175				ocot11	josserand1983mixtec
 167	quince	saʔu		17210				xaya11	josserand1983mixtec
 167	quince	saʔu̧		17139				esta11	josserand1983mixtec
 167	quince	sa̧ʔu̧		17105				acat11	josserand1983mixtec
@@ -10989,7 +10989,7 @@ IDlist	GLOSS	VALUE	FORM	ID	NOTES	LOAN	LOAN_SOURCE	DOCULECT	SOURCE
 169	pobre	ⁿdaʔwi		17327				yolo12	josserand1983mixtec
 169	pobre	ⁿdaʔwi		17329				yucu11	josserand1983mixtec
 169	pobre	ⁿdaʔwi		17337				zapo11	josserand1983mixtec
-169	pobre	ⁿdaʔŵi		17237				brav11	josserand1983mixtec
+169	pobre	ⁿdaʔwi		17237				brav11	josserand1983mixtec
 169	pobre	ⁿdaʔwɨ		17265				itun11	josserand1983mixtec
 169	pobre	ⁿr̃aʔwi		17244				chic11	josserand1983mixtec
 171	frío	(xa)wiši		17423				soya11	josserand1983mixtec
@@ -12923,7 +12923,7 @@ IDlist	GLOSS	VALUE	FORM	ID	NOTES	LOAN	LOAN_SOURCE	DOCULECT	SOURCE
 197	ahora	ƀitʸi̧		19269				jami11	josserand1983mixtec
 197	ahora	ƀiʔna̧		19279				mont14	josserand1983mixtec
 197	ahora	ƀi̧ʔña		19283				nuxi11	josserand1983mixtec
-197	ahora	đitwi?		19307				tlal11	josserand1983mixtec
+197	ahora	đitwi?	đitwi	19307	deleted q-mark			tlal11	josserand1983mixtec
 197	ahora	eši		19248				coat11	josserand1983mixtec
 197	ahora	nī̧tā̧		19285				ocot11	josserand1983mixtec
 197	ahora	ta-wii		19258				este11	josserand1983mixtec
@@ -13036,7 +13036,7 @@ IDlist	GLOSS	VALUE	FORM	ID	NOTES	LOAN	LOAN_SOURCE	DOCULECT	SOURCE
 199	toda la noche	ni̧u̧		19394				tida11	josserand1983mixtec
 199	toda la noche	ni̧u̧		19395				tila11	josserand1983mixtec
 199	toda la noche	ni̧u̧		19399				tlaz11	josserand1983mixtec
-199	toda la noche	ni̧̧u̧		19375				peno11	josserand1983mixtec
+199	toda la noche	ni̧u̧		19375				peno11	josserand1983mixtec
 199	toda la noche	ni̧u̧-yaa		19352				guad11	josserand1983mixtec
 199	toda la noche	ni̧u̧-yaka		19400				tona11	josserand1983mixtec
 199	toda la noche	niyu		19380				prom01	josserand1983mixtec

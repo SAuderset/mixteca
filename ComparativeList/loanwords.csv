@@ -1,9 +1,6 @@
 ID,DOCULECT,GLOSS,VALUE,FORM,IDlist,NOTES,LOAN,LOAN_SOURCE,SOURCE
 2,abas11,mamá!,ma,NA,2,"not sure, but example suggests so",yes,Spanish,galindo-sanchez2009vocabulario
 4,abas11,papá!,paa,NA,4,NA,yes,Spanish,galindo-sanchez2009vocabulario
-4549,alac11,gato,míxtón,NA,69,NA,yes,Colonial Spanish?,zylstra2012gramatica
-4553,alac11,caballo,kuáyí,NA,73,NA,yes,Colonial Spanish,zylstra2012gramatica
-4599,alac11,cajón,xato̠n,NA,126,NA,yes,Spanish,zylstra2012gramatica
 1040,alac11,rabbit,yīsōn,NA,66,Sp. conejo,yes,Spanish,zylstra1991syntactic
 1041,alac11,rabbit,lēsōn,NA,66,Sp. conejo,yes,Spanish,zylstra1991syntactic
 1047,alac11,horse,kwáyí,NA,73,Sp. caballo,yes,Spanish,zylstra1991syntactic
@@ -15,9 +12,9 @@ ID,DOCULECT,GLOSS,VALUE,FORM,IDlist,NOTES,LOAN,LOAN_SOURCE,SOURCE
 4007,chay11,gato,milu,NA,69,NA,yes,Colonial Spanish,pensinger1974diccionario
 4011,chay11,caballo,cavayu,NA,73,"Sp. loan, in examples only",yes,Spanish,pensinger1974diccionario
 4039,chay11,chayote,chayote,NA,101,"Sp. loan, examples only",yes,Spanish,pensinger1974diccionario
-5958,chic12,gavilán,xinun’³un,NA,55,NA,maybe,Mixtec?,good1978diccionario
-6016,chic12,mamey,nato⁴ ro’oj⁵o,nato⁴ ro’oj⁵o,111,banana-red,partial,Spanish,good1978diccionario
-21078,chic12,caballo,gᵂa⁴ju³,NA,73,NA,yes,Colonial Spanish,hernandez-mendoza2020vocabulario
+5958,chic12,gavilán,xinun'³un,NA,55,NA,maybe,Mixtec?,good1978diccionario
+6016,chic12,mamey,nato⁴ ro'oj⁵o,nato⁴ ro'oj⁵o,111,banana-red,partial,Spanish,good1978diccionario
+21078,chic12,caballo,gʷa⁴ju³,NA,73,NA,yes,Colonial Spanish,hernandez-mendoza2020vocabulario
 922,coat11,cat,mishtun,NA,69,from Old Sp. mistón,yes,Colonial Spanish,small1990syntactic
 923,coat11,pig,kutsin,NA,72,from Sp. cochino,yes,Spanish,small1990syntactic
 4181,colo11,medicina,numerí,NA,34,NA,yes?,Spanish?,stark1986diccionario
@@ -91,7 +88,7 @@ ID,DOCULECT,GLOSS,VALUE,FORM,IDlist,NOTES,LOAN,LOAN_SOURCE,SOURCE
 20826,yuta13,silla,sillá,NA,49,NA,yes,Spanish,williams2017diccionario
 20856,yuta13,"marrano, puerco, cerdo",kochí,NA,72,NA,yes,Spanish,williams2017diccionario
 20857,yuta13,caballo,kuéi̠,NA,73,NA,yes,Colonial Spanish,williams2017diccionario
-20914,yuta13,hilo,yi’o̠,NA,127,NA,yes,Spanish,williams2017diccionario
+20914,yuta13,hilo,yi'o̠,NA,127,NA,yes,Spanish,williams2017diccionario
 4400,zaca11,conejo,kunexu,NA,66,Sp. loan,yes,Spanish,towne2011gramatica
 4403,zaca11,caballo,kuayu,NA,73,old Sp. loan,yes,Colonial Spanish,towne2011gramatica
 4415,zaca11,surco,surku,NA,94,Sp. loan,yes,Spanish,towne2011gramatica

@@ -1,22 +1,22 @@
-ID	DOCULECT	CONCEPT	GLOSS	VALUE	FORM	IDlist	CONCEPTICON_ID	LOAN	LOAN_SOURCE	SOURCE	FLOATTONE
-7169	yucu14	MOUTH	boca	žuʔu	žuʔu	23	674	NA	NA	josserand1983mixtec	NA
-7399	yucu14	NOSE	nariz	đi̧(ʔ)ni̧	đi̧ʔni̧	25	1221	NA	NA	josserand1983mixtec	NA
-7512	yucu14	NOSE	cuello	đu̧ⁿɡu	đu̧ⁿɡu	25	1221	NA	NA	josserand1983mixtec	NA
-7749	yucu14	INTESTINES	tripas	šiti	šiti	31	1991	NA	NA	josserand1983mixtec	NA
-7866	yucu14	FOOT	pie	šaʔa	šaʔa	32	1301	NA	NA	josserand1983mixtec	NA
-11351	yucu14	MAGUEY	maguey	žau	žau	84	NA	NA	NA	josserand1983mixtec	NA
-11468	yucu14	CORN	maíz	nu̧ni̧	nu̧ni̧	87	506	NA	NA	josserand1983mixtec	NA
-11827	yucu14	TORTILLA	tortilla	đita	đita	92	NA	NA	NA	josserand1983mixtec	NA
-12761	yucu14	HONEY	miel	ⁿduđi	ⁿduđi	103	942	NA	NA	josserand1983mixtec	NA
-12971	yucu14	EGG	jitomate	ti-na̧na̧	ti-na̧na̧	105	744	NA	NA	josserand1983mixtec	NA
-13471	yucu14	GRIDDLE	olla	kii	kii	115	NA	NA	NA	josserand1983mixtec	NA
-14030	yucu14	GOURD BOWL	jícara	žaši	žaši	124	NA	NA	NA	josserand1983mixtec	NA
-14651	yucu14	WATER	agua	ⁿduča	ⁿduča	137	948	NA	NA	josserand1983mixtec	NA
-15112	yucu14	MOUNTAIN OR HILL	cerro	ti-ⁿduu	ti-ⁿduu	141	2118	NA	NA	josserand1983mixtec	NA
-15113	yucu14	MOUNTAIN OR HILL	cerro	žuku	žuku	141	2118	NA	NA	josserand1983mixtec	NA
-15242	yucu14	PLAIN	llano	žođo	žođo	142	652	NA	NA	josserand1983mixtec	NA
-15363	yucu14	STONE OR ROCK	piedra	žuu	žuu	143	2125	NA	NA	josserand1983mixtec	NA
-16270	yucu14	TWO	dos	uu	uu	158	1498	NA	NA	josserand1983mixtec	NA
-16390	yucu14	THREE	tres	u̧ni̧	u̧ni̧	159	492	NA	NA	josserand1983mixtec	NA
-17790	yucu14	SMALL (SINGULAR)	chico	luči	luči	175	NA	NA	NA	josserand1983mixtec	NA
-17999	yucu14	SWEET	dulce	ƀiyi	ƀiyi	180	717	NA	NA	josserand1983mixtec	NA
+ID	DOCULECT	GLOSS	VALUE	FORM	IDlist	NOTES	LOAN	LOAN_SOURCE	SOURCE	FLOATTONE
+7169	yucu14	boca	žuʔu	žuʔu	23	NA	NA	NA	josserand1983mixtec	NA
+7399	yucu14	nariz	đi̧(ʔ)ni̧	đi̧ʔni̧	25	NA	NA	NA	josserand1983mixtec	NA
+7512	yucu14	cuello	đu̧ⁿɡu	đu̧ⁿɡu	26	NA	NA	NA	josserand1983mixtec	NA
+7749	yucu14	tripas	šiti	šiti	31	NA	NA	NA	josserand1983mixtec	NA
+7866	yucu14	pie	šaʔa	šaʔa	32	NA	NA	NA	josserand1983mixtec	NA
+11351	yucu14	maguey	žau	žau	84	NA	NA	NA	josserand1983mixtec	NA
+11468	yucu14	maíz	nu̧ni̧	nu̧ni̧	87	NA	NA	NA	josserand1983mixtec	NA
+11827	yucu14	tortilla	đita	đita	92	NA	NA	NA	josserand1983mixtec	NA
+12761	yucu14	miel	ⁿduđi	ⁿduđi	103	NA	NA	NA	josserand1983mixtec	NA
+12971	yucu14	jitomate	ti-na̧na̧	ti-na̧na̧	106	NA	NA	NA	josserand1983mixtec	NA
+13471	yucu14	olla	kii	kii	116	NA	NA	NA	josserand1983mixtec	NA
+14030	yucu14	jícara	žaši	žaši	124	NA	NA	NA	josserand1983mixtec	NA
+14651	yucu14	agua	ⁿduča	ⁿduča	137	NA	NA	NA	josserand1983mixtec	NA
+15112	yucu14	cerro	ti-ⁿduu	ti-ⁿduu	141	NA	NA	NA	josserand1983mixtec	NA
+15113	yucu14	cerro	žuku	žuku	141	NA	NA	NA	josserand1983mixtec	NA
+15242	yucu14	llano	žođo	žođo	142	NA	NA	NA	josserand1983mixtec	NA
+15363	yucu14	piedra	žuu	žuu	143	NA	NA	NA	josserand1983mixtec	NA
+16270	yucu14	dos	uu	uu	158	NA	NA	NA	josserand1983mixtec	NA
+16390	yucu14	tres	u̧ni̧	u̧ni̧	159	NA	NA	NA	josserand1983mixtec	NA
+17790	yucu14	chico	luči	luči	175	NA	NA	NA	josserand1983mixtec	NA
+17999	yucu14	dulce	ƀiyi	ƀiyi	180	NA	NA	NA	josserand1983mixtec	NA

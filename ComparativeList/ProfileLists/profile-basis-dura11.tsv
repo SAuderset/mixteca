@@ -1,340 +1,340 @@
-ID	DOCULECT	CONCEPT	GLOSS	VALUE	FORM	IDlist	CONCEPTICON_ID	LOAN	LOAN_SOURCE	SOURCE	FLOATTONE
-20100	dura11	MOTHER	madre	nánà	nánà	1	1216	NA	NA	hernandez2020san-martin	NA
-20101	dura11	MOTHER VOCATIVE	mamá!	náná	náná	2	NA	NA	NA	hernandez2020san-martin	NA
-20102	dura11	FATHER	padre	tátà	tátà	3	1217	NA	NA	hernandez2020san-martin	NA
-20103	dura11	FATHER VOCATIVE	papá!	tátá	tátá	4	NA	yes	Spanish	hernandez2020san-martin	NA
-20104	dura11	CHILD (DESCENDANT)	hijo/hija	se'e	se'e	5	1801	NA	NA	hernandez2020san-martin	NA
-6371	dura11	CHILD (DESCENDANT)	hijo/hija	seʔe	seʔe	5	1801	NA	NA	josserand1983mixtec	NA
-20105	dura11	CROSS-SEX SIBLING	hermana/hermano de otro genero	kò'va	kò'va	8	NA	NA	NA	hernandez2020san-martin	NA
-20106	dura11	BROTHER (OF MAN)	hermano de hombre	ñani	ñani	9	559	NA	NA	hernandez2020san-martin	NA
-6492	dura11	BROTHER (OF MAN)	hermano de hombre	ña̧ni̧	ña̧ni̧	9	559	NA	NA	josserand1983mixtec	NA
-20107	dura11	SISTER (OF WOMAN)	hermana de mujer	kì'vì	kì'vì	10	NA	NA	NA	hernandez2020san-martin	NA
-20108	dura11	AUNT	tía	shishi	shishi	11	1272	NA	NA	hernandez2020san-martin	NA
-20109	dura11	UNCLE	tío	shito	shito	12	1327	NA	NA	hernandez2020san-martin	NA
-20110	dura11	MAN	hombre	txàa	txàa	13	1554	NA	NA	hernandez2020san-martin	NA
-6605	dura11	MAN	hombre	čàā	čàā	13	1554	NA	NA	josserand1983mixtec	NA
-20111	dura11	WOMAN	mujer	ña'à	ña'à	14	962	NA	NA	hernandez2020san-martin	NA
-20112	dura11	OWNER	dueño	sito'o	sito'o	15	1036	NA	NA	hernandez2020san-martin	NA
-6726	dura11	OWNER	dueño	ʔes-toʔo	ʔes-toʔo	15	1036	NA	NA	josserand1983mixtec	NA
-6812	dura11	OWNER	sacerdote	siti	siti	15	1036	NA	NA	josserand1983mixtec	NA
-20113	dura11	PRIEST	sacerdote	sìtì	sìtì	16	852	NA	NA	hernandez2020san-martin	NA
-20114	dura11	BLOOD	sangre	nìì	nìì	17	946	NA	NA	hernandez2020san-martin	NA
-6905	dura11	BLOOD	sangre	ni̧i̧	ni̧i̧	17	946	NA	NA	josserand1983mixtec	NA
-20115	dura11	BONE	hueso	ko'nto	ko'nto	18	1394	NA	NA	hernandez2020san-martin	NA
-20116	dura11	HAIR	pelo	ishì	ishì	19	1040	NA	NA	hernandez2020san-martin	NA
-20117	dura11	FACE	cara	nùù	nùù	20	1560	NA	NA	hernandez2020san-martin	NA
-20118	dura11	TONGUE	lengua	yáà	yáà	21	1205	NA	NA	hernandez2020san-martin	NA
-20119	dura11	TOOTH	diente	nù'un	nù'un	22	1380	NA	NA	hernandez2020san-martin	NA
-7020	dura11	TOOTH	diente	nù̧ʔu̧	nù̧ʔu̧	22	1380	NA	NA	josserand1983mixtec	NA
-20120	dura11	MOUTH	boca	yi'ì	yi'ì	23	674	NA	NA	hernandez2020san-martin	NA
-7107	dura11	MOUTH	boca	žūʔù	žūʔù	23	674	NA	NA	josserand1983mixtec	NA
-20121	dura11	EAR	oreja	sò'o	sò'o	24	1247	NA	NA	hernandez2020san-martin	NA
-7207	dura11	EAR	oreja	suʔu	suʔu	24	1247	NA	NA	josserand1983mixtec	NA
-20122	dura11	NOSE	nariz	xìtxì	xìtxì	25	1221	NA	NA	hernandez2020san-martin	NA
-7324	dura11	NOSE	nariz	šiči	šiči	25	1221	NA	NA	josserand1983mixtec	NA
-7439	dura11	NOSE	cuello	suku̧	suku̧	25	1221	NA	NA	josserand1983mixtec	NA
-20123	dura11	NECK	cuello, garganta	sùkùn	sùkùn	26	1333	NA	NA	hernandez2020san-martin	NA
-20124	dura11	HAND	mano	nta'à	nta'à	27	1277	NA	NA	hernandez2020san-martin	NA
-20125	dura11	FINGERNAIL	uña	chíìn	chíìn	28	1258	NA	NA	hernandez2020san-martin	NA
-7553	dura11	FINGERNAIL	uña	či̧i̧	či̧i̧	28	1258	NA	NA	josserand1983mixtec	NA
-20126	dura11	BACK	espalda	sàtà	sàtà	29	1291	NA	NA	hernandez2020san-martin	NA
-20127	dura11	BELLY OR STOMACH	estómago	txìxin	txìxin	30	2114	NA	NA	hernandez2020san-martin	NA
-20128	dura11	INTESTINES	tripa, tripas	xitxi	xitxi	31	1991	NA	NA	hernandez2020san-martin	NA
-7672	dura11	INTESTINES	tripas	šiȼi	šiȼi	31	1991	NA	NA	josserand1983mixtec	NA
-20129	dura11	FOOT	pie	xa'à	xa'à	32	1301	NA	NA	hernandez2020san-martin	NA
-7791	dura11	FOOT	pie	šàʔà	šàʔà	32	1301	NA	NA	josserand1983mixtec	NA
-20130	dura11	DISEASE	enfermedad	kuè'è	kuè'è	33	1986	NA	NA	hernandez2020san-martin	NA
-7907	dura11	DISEASE	enfermedad	kʷeʔe	kʷeʔe	33	1986	NA	NA	josserand1983mixtec	NA
-20131	dura11	MEDICINE	medicina	tàtàn	tàtàn	34	1372	NA	NA	hernandez2020san-martin	NA
-20132	dura11	SWELLING	hinchazón	kuiñu	kuiñu	35	1903	NA	NA	hernandez2020san-martin	NA
-8018	dura11	SWELLING	hinchazón	kʷi̧ñu̧	kʷi̧ñu̧	35	1903	NA	NA	josserand1983mixtec	NA
-8117	dura11	SWELLING	grano	ⁿčiʔi	ⁿčiʔi	35	1903	NA	NA	josserand1983mixtec	NA
-20133	dura11	PIMPLE	grano	ntxì'i	ntxì'i	36	1809	NA	NA	hernandez2020san-martin	NA
-20134	dura11	PUS	pus, materia	lakuàn	lakuàn	37	1808	NA	NA	hernandez2020san-martin	NA
-8230	dura11	PUS	pus	ⁿdakʷa	ⁿdakʷa	37	1808	NA	NA	josserand1983mixtec	NA
-20135	dura11	URINE	orina	txìsháshá	txì-sháshá	38	1142	NA	NA	hernandez2020san-martin	NA
-20136	dura11	CLOTHES	ropa	txikòtò	txi-kòtò	39	1895	NA	NA	hernandez2020san-martin	NA
-20137	dura11	SANDAL	huarache	íntxixàn	íntxixàn	40	NA	NA	NA	hernandez2020san-martin	NA
-8409	dura11	SANDAL	huarache	ⁿčiša̧	ⁿčiša̧	40	NA	NA	NA	josserand1983mixtec	NA
-20138	dura11	TROUSERS	pantalón	xati	xati	41	809	NA	NA	hernandez2020san-martin	NA
-8516	dura11	TROUSERS	calzón, pantalón	šati	šati	41	809	NA	NA	josserand1983mixtec	NA
-20139	dura11	BLOUSE (WOVEN)	huipil	shìkùn	shìkùn	42	NA	NA	NA	hernandez2020san-martin	NA
-20140	dura11	TOWN OR VILLAGE	pueblo	ñuu	ñuu	43	3609	NA	NA	hernandez2020san-martin	NA
-8676	dura11	TOWN OR VILLAGE	pueblo	ñu̧u̧	ñu̧u̧	43	3609	NA	NA	josserand1983mixtec	NA
-20141	dura11	HOUSE	casa	ve'e	ve'e	44	1252	NA	NA	hernandez2020san-martin	NA
-8792	dura11	HOUSE	casa	veʔe	veʔe	44	1252	NA	NA	josserand1983mixtec	NA
-20142	dura11	PATH	camino	ichì	ichì	45	2252	NA	NA	hernandez2020san-martin	NA
-8900	dura11	PATH	horcón	si̧ʔi̧	si̧ʔi̧	45	2252	NA	NA	josserand1983mixtec	NA
-20143	dura11	POST	horcón	sì'ìn	sì'ìn	46	281	NA	NA	hernandez2020san-martin	NA
-20144	dura11	MAT	petate	yivì	yivì	47	195	NA	NA	hernandez2020san-martin	NA
-8996	dura11	MAT	petate	žiƀi	žiƀi	47	195	NA	NA	josserand1983mixtec	NA
-20145	dura11	BED	cama, lecho	xìto	xìto	48	1663	NA	NA	hernandez2020san-martin	NA
-9118	dura11	BED	cama	šito	šito	48	1663	NA	NA	josserand1983mixtec	NA
-20146	dura11	STOOL	silla	txeì	txeì	49	2058	NA	NA	hernandez2020san-martin	NA
-9232	dura11	STOOL	banquito	čei	čei	49	2058	NA	NA	josserand1983mixtec	NA
-20147	dura11	ANIMAL	animal	kitxì	kitxì	50	619	NA	NA	hernandez2020san-martin	NA
-9354	dura11	ANIMAL	animal	kīȼì	kīȼì	50	619	NA	NA	josserand1983mixtec	NA
-10114	dura11	ANIMAL	rata	čoko	čoko	50	619	NA	NA	josserand1983mixtec	NA
-10113	dura11	ANIMAL	rata	ȼi̧i̧	ȼi̧i̧	50	619	NA	NA	josserand1983mixtec	NA
-20148	dura11	BIRD	pájaro	laa	laa	51	937	NA	NA	hernandez2020san-martin	NA
-9472	dura11	BIRD	pájaro	laa	laa	51	937	NA	NA	josserand1983mixtec	NA
-10251	dura11	BIRD	venado	ʔisi	ʔisi	51	937	NA	NA	josserand1983mixtec	NA
-20149	dura11	FISH	pez, pescado	txaká	txaká	52	227	NA	NA	hernandez2020san-martin	NA
-10367	dura11	FISH	ardilla	ⁿči-kʷa̧ñi̧	ⁿči-kʷa̧ñi̧	52	227	NA	NA	josserand1983mixtec	NA
-20150	dura11	SNAKE	culebra, serpiente	kòò	kòò	53	730	NA	NA	hernandez2020san-martin	NA
-9581	dura11	SNAKE	culebra	koo	koo	53	730	NA	NA	josserand1983mixtec	NA
-20151	dura11	FROG	rana	lá'và	lá'và	54	503	NA	NA	hernandez2020san-martin	NA
-9675	dura11	FROG	rana	ku̧ⁿdu	ku̧ⁿdu	54	503	NA	NA	josserand1983mixtec	NA
-9676	dura11	FROG	rana	laʔwa	laʔwa	54	503	NA	NA	josserand1983mixtec	NA
-20152	dura11	HAWK	gavilán	shá'án	shá'án	55	307	NA	NA	hernandez2020san-martin	NA
-9805	dura11	HAWK	gavilán	šà̧ʔà̧	šà̧ʔà̧	55	307	NA	NA	josserand1983mixtec	NA
-9804	dura11	HAWK	gavilán	tasi	tasi	55	307	NA	NA	josserand1983mixtec	NA
-9930	dura11	HAWK	alacrán	či-su̧ʔma̧	či-su̧ʔma̧	55	307	NA	NA	josserand1983mixtec	NA
-20153	dura11	SCORPION	alacrán	txìsu'mà	txì-su'mà	56	1538	NA	NA	hernandez2020san-martin	NA
-20154	dura11	COCKROACH	cucaracha	txé'é	txé'é	57	1575	NA	NA	hernandez2020san-martin	NA
-10015	dura11	COCKROACH	cucaracha	ȼʸeʔe	ȼʸeʔe	57	1575	NA	NA	josserand1983mixtec	NA
-20155	dura11	GRASSHOPPER	chapulín	txìka	txìka	58	607	NA	NA	hernandez2020san-martin	NA
-20156	dura11	BEE	abeja	ñùñù	ñùñù	59	665	NA	NA	hernandez2020san-martin	NA
-10487	dura11	BEE	gato	(čiti)	čiti	59	665	NA	NA	josserand1983mixtec	NA
-20157	dura11	MUROID (MOUSE OR RAT)	ratón	txìín	txìín	60	2139	NA	NA	hernandez2020san-martin	NA
-20158	dura11	DEER	venado	isi	isi	61	1936	NA	NA	hernandez2020san-martin	NA
-20159	dura11	SQUIRREL	ardilla	ntxikuání	ntxi-kuání	62	1628	NA	NA	hernandez2020san-martin	NA
-20160	dura11	SKUNK	zorrillo	txìnì'ín 	txì-nì'ín 	63	NA	NA	NA	hernandez2020san-martin	NA
-20161	dura11	POSSUM	tlacuache	lánko	lánko	64	470	maybe	NA	hernandez2020san-martin	NA
-20162	dura11	RACCOON	mapache	ma'à	ma'à	65	828	NA	NA	hernandez2020san-martin	NA
-20163	dura11	RABBIT	conejo	leso	leso	66	1136	yes	Colonial Spanish	hernandez2020san-martin	NA
-20164	dura11	VULTURE	zopilote	lònchi	lònchi	67	1185	yes	Nahuatl (not sure)	hernandez2020san-martin	NA
-20165	dura11	DOG	perro	txìna	tx-ìna	68	2009	NA	NA	hernandez2020san-martin	NA
-20166	dura11	CAT	gato	chítí	chítí	69	1208	NA	NA	hernandez2020san-martin	NA
-20167	dura11	ROOSTER	gallo	chéle	chéle	70	1511	NA	NA	hernandez2020san-martin	NA
-20168	dura11	HEN	gallina, pollo	ntuxí	ntuxí	71	1514	NA	NA	hernandez2020san-martin	NA
-20169	dura11	PIG	marrano, puerco, cerdo	kóchí	kóchí	72	1337	yes	Spanish	hernandez2020san-martin	NA
-20170	dura11	HORSE	caballo	kuéì	kuéì	73	615	yes	Colonial Spanish	hernandez2020san-martin	NA
-20171	dura11	SHEEP	borrego, oveja	lánchí	lánchí	74	1331	yes	not sure	hernandez2020san-martin	NA
-20172	dura11	ANT	hormiga	txokó	txokó	75	587	NA	NA	hernandez2020san-martin	NA
-10609	dura11	ANT	cuerno	ⁿčiki̧	ⁿčiki̧	75	587	NA	NA	josserand1983mixtec	NA
-20173	dura11	HORN (ANATOMY)	cuerno	ntxikìn	ntxikìn	76	1393	NA	NA	hernandez2020san-martin	NA
-20174	dura11	FEATHER	pluma	tùmi	tùmi	77	1201	NA	NA	hernandez2020san-martin	NA
-10724	dura11	FEATHER	pluma	tù̧mī̧	tù̧mī̧	77	1201	NA	NA	josserand1983mixtec	NA
-20175	dura11	WING	ala	ntxìxìn	ntxìxìn	78	1257	NA	NA	hernandez2020san-martin	NA
-10837	dura11	WING	ala	ⁿčiši̧	ⁿčiši̧	78	1257	NA	NA	josserand1983mixtec	NA
-20176	dura11	TAIL	cola	nto'ò	nto'ò	79	1220	NA	NA	hernandez2020san-martin	NA
-10932	dura11	TAIL	cola	ⁿdoʔo	ⁿdoʔo	79	1220	NA	NA	josserand1983mixtec	NA
-20177	dura11	TREE	árbol, palo	itùn	itùn	80	906	NA	NA	hernandez2020san-martin	NA
-11052	dura11	TREE	árbol	ītù̧	ītù̧	80	906	NA	NA	josserand1983mixtec	NA
-20178	dura11	HERBACEOUS PLANT	hierba	yìkì	yìkì	81	NA	NA	NA	hernandez2020san-martin	NA
-11168	dura11	HERBACEOUS PLANT	hierba	žùʔù	žùʔù	81	NA	NA	NA	josserand1983mixtec	NA
-20179	dura11	GRASS	zacate	ntáyò'o	ntá-yò'o	82	606	NA	NA	hernandez2020san-martin	NA
-20180	dura11	GRASS	zacate, pasto	itxa	itxa	82	606	NA	NA	hernandez2020san-martin	NA
-20181	dura11	FLOWER	flor	ita	ita	83	239	NA	NA	hernandez2020san-martin	NA
-20182	dura11	MAGUEY	maguey	yavì	yavì	84	NA	NA	NA	hernandez2020san-martin	NA
-11271	dura11	MAGUEY	maguey	žāƀì	žāƀì	84	NA	NA	NA	josserand1983mixtec	NA
-20183	dura11	ROOT	raíz	yò'o	yò'o	85	670	NA	NA	hernandez2020san-martin	NA
-20184	dura11	THORN	espina	iñù	iñù	86	124	NA	NA	hernandez2020san-martin	NA
-20185	dura11	CORN	maíz en grano	nùnì	nùnì	87	506	NA	NA	hernandez2020san-martin	NA
-11390	dura11	CORN	maíz	nù̧nì̧	nù̧nì̧	87	506	NA	NA	josserand1983mixtec	NA
-20186	dura11	CORN FIELD	milpa	iti	iti	88	449	NA	NA	hernandez2020san-martin	NA
-11512	dura11	CORN FIELD	milpa	ʔiti	ʔiti	88	449	NA	NA	josserand1983mixtec	NA
-20187	dura11	EAR OF CORN (FRESH)	elote	nchishì	nchishì	89	NA	NA	NA	hernandez2020san-martin	NA
-20188	dura11	NIXTAMAL	nixtamal	xá'á	xá'á	90	NA	NA	NA	hernandez2020san-martin	NA
-20189	dura11	CORN DOUGH	masa	yixàn	yixàn	91	NA	NA	NA	hernandez2020san-martin	NA
-11626	dura11	CORN DOUGH	masa	žiša̧	žiša̧	91	NA	NA	NA	josserand1983mixtec	NA
-20190	dura11	TORTILLA	tortilla	shìtà	shìtà	92	NA	NA	NA	hernandez2020san-martin	NA
-11748	dura11	TORTILLA	tortilla	šita	šita	92	NA	NA	NA	josserand1983mixtec	NA
-20191	dura11	CORN STALK	rastrojo (en general)	takà	takà	93	NA	NA	NA	hernandez2020san-martin	NA
-20192	dura11	CORN STALK	rastrojo (de milpa)	ñàmà	ñàmà	93	NA	NA	NA	hernandez2020san-martin	NA
-20193	dura11	FURROW	surco	yikùn	yikùn	94	1794	NA	NA	hernandez2020san-martin	NA
-11949	dura11	FURROW	surco	žīkù	žīkù	94	1794	NA	NA	josserand1983mixtec	NA
-20194	dura11	TASSEL	espiga	yokò	yokò	95	NA	NA	NA	hernandez2020san-martin	NA
-12035	dura11	TASSEL	espiga	žoko	žoko	95	NA	NA	NA	josserand1983mixtec	NA
-12131	dura11	TASSEL	frijol(es)	ⁿduči	ⁿduči	95	NA	NA	NA	josserand1983mixtec	NA
-20195	dura11	BEAN	frijol(es)	ntuchì	ntuchì	96	832	NA	NA	hernandez2020san-martin	NA
-20196	dura11	GREEN BEAN	ejote	nchìchi	nchìchi	97	NA	NA	NA	hernandez2020san-martin	NA
-12239	dura11	GREEN BEAN	ejote	ⁿčiči	ⁿčiči	97	NA	NA	NA	josserand1983mixtec	NA
-20197	dura11	CHILI PEPPER	chile	ya'à	ya'à	98	919	NA	NA	hernandez2020san-martin	NA
-20198	dura11	SALT	sal	nìì	nìì	99	1274	NA	NA	hernandez2020san-martin	NA
-12333	dura11	SALT	sal	ñi̧i̧	ñi̧i̧	99	1274	NA	NA	josserand1983mixtec	NA
-20199	dura11	PUMPKIN	calabaza	yikìn	yikìn	100	864	NA	NA	hernandez2020san-martin	NA
-12450	dura11	PUMPKIN	calabaza	žīkì̧	žīkì̧	100	864	NA	NA	josserand1983mixtec	NA
-20200	dura11	CHAYOTE	chayote	nañà	nañà	101	NA	NA	NA	hernandez2020san-martin	NA
-20201	dura11	SUGAR CANE	caña	ntòò	ntòò	102	146	NA	NA	hernandez2020san-martin	NA
-12564	dura11	SUGAR CANE	caña	ⁿdoo	ⁿdoo	102	146	NA	NA	josserand1983mixtec	NA
-20202	dura11	HONEY	miel	ntùshi	ntùshi	103	942	NA	NA	hernandez2020san-martin	NA
-12677	dura11	HONEY	miel	ⁿduši	ⁿduši	103	942	NA	NA	josserand1983mixtec	NA
-20203	dura11	FAT (FROM ANIMALS)	grasa, manteca	shà'an	shà'an	104	1282	NA	NA	hernandez2020san-martin	NA
-20204	dura11	EGG	blanquillo, huevo	ntxìvì	ntxìvì	105	744	NA	NA	hernandez2020san-martin	NA
-12802	dura11	EGG	blanquillo, huevo	ⁿčiƀi	ⁿčiƀi	105	744	NA	NA	josserand1983mixtec	NA
-12915	dura11	EGG	jitomate	či-na̧na̧	či-na̧na̧	105	744	NA	NA	josserand1983mixtec	NA
-20205	dura11	TOMATO	tomate	txìnana	txì-nana	106	986	NA	NA	hernandez2020san-martin	NA
-20206	dura11	SWEET POTATO	camote	ña'mi	ña'mi	107	159	NA	NA	hernandez2020san-martin	NA
-20207	dura11	AVOCADO	aguacate	chìchí	chìchí	108	3725	NA	NA	hernandez2020san-martin	NA
-20208	dura11	BANANA	plátano	ntxikà	ntxikà	109	868	NA	NA	hernandez2020san-martin	NA
-20209	dura11	PRICKLY PEAR CACTUS	nopal	tùvì'ntxá	tù-vì'ntxá	110	NA	NA	NA	hernandez2020san-martin	NA
-13001	dura11	PRICKLY PEAR CACTUS	nopal	tu̧-ƀi̧ʔⁿča	tu̧-ƀi̧ʔⁿča	110	NA	NA	NA	josserand1983mixtec	NA
-20210	dura11	MAMEY	mamey	ntxìká xa'à	ntxìká xa'à	111	NA	NA	NA	hernandez2020san-martin	NA
-20211	dura11	MAMEY	zapote negro	ntòko tùún	ntòko tùún	111	NA	NA	NA	hernandez2020san-martin	NA
-13086	dura11	MAMEY	mamey	ⁿčika	ⁿčika	111	NA	NA	NA	josserand1983mixtec	NA
-20212	dura11	CUSTARD APPLE	chirimoya	ntokò	ntokò	112	NA	NA	NA	hernandez2020san-martin	NA
-20213	dura11	MUSHROOM	hongo	xì'ì	xì'ì	113	641	NA	NA	hernandez2020san-martin	NA
-20214	dura11	MEAT	carne	kùñu	kùñu	114	634	NA	NA	hernandez2020san-martin	NA
-13180	dura11	MEAT	carne	ku̧ñu̧	ku̧ñu̧	114	634	NA	NA	josserand1983mixtec	NA
-20215	dura11	GRIDDLE	comal	xòò	xòò	115	NA	NA	NA	hernandez2020san-martin	NA
-13298	dura11	GRIDDLE	comal	šʸoo	šʸoo	115	NA	NA	NA	josserand1983mixtec	NA
-13414	dura11	GRIDDLE	olla	kisi	kisi	115	NA	NA	NA	josserand1983mixtec	NA
-20216	dura11	COOKING POT	olla	kìsi	kìsi	116	3653	NA	NA	hernandez2020san-martin	NA
-20217	dura11	OVEN	horno	xìtùn	xìtùn	117	1143	NA	NA	hernandez2020san-martin	NA
-13504	dura11	OVEN	horno	šitu̧	šitu̧	117	1143	NA	NA	josserand1983mixtec	NA
-20218	dura11	FIRE	lumbre, fuego	ñu'u	ñu'u	118	221	NA	NA	hernandez2020san-martin	NA
-13614	dura11	FIRE	lumbre	ñu̧ʔu̧	ñu̧ʔu̧	118	221	NA	NA	josserand1983mixtec	NA
-20219	dura11	ASH	ceniza	yàà	yàà	119	646	NA	NA	hernandez2020san-martin	NA
-20220	dura11	CHARCOAL	carbón	tùùn	tùùn	120	1188	NA	NA	hernandez2020san-martin	NA
-20221	dura11	SMOKE (EXHAUST)	humo	ñù'mà	ñù'mà	121	778	NA	NA	hernandez2020san-martin	NA
-13730	dura11	SMOKE (EXHAUST)	humo	ñu̧ʔma̧	ñu̧ʔma̧	121	778	NA	NA	josserand1983mixtec	NA
-20222	dura11	GARBAGE	basura	chè'è	chè'è	122	909	NA	NA	hernandez2020san-martin	NA
-13848	dura11	GARBAGE	basura	(čeʔe)	čeʔe	122	909	NA	NA	josserand1983mixtec	NA
-20223	dura11	PLATE	plato	kò'ò	kò'ò	123	480	NA	NA	hernandez2020san-martin	NA
-20224	dura11	GOURD BOWL	jícara	yaxì	yaxì	124	NA	NA	NA	hernandez2020san-martin	NA
-13947	dura11	GOURD BOWL	jícara	žāšì	žāšì	124	NA	NA	NA	josserand1983mixtec	NA
-20225	dura11	BASKET	canasta	tìká	tìká	125	1539	NA	NA	hernandez2020san-martin	NA
-20226	dura11	BASKET	tenate	ntò'ò	ntò'ò	125	1539	NA	NA	hernandez2020san-martin	NA
-14067	dura11	BASKET	cajón	šatu̧	šatu̧	125	1539	NA	NA	josserand1983mixtec	NA
-20227	dura11	BOX OR CHEST	cajón, baúl	xàtùn	xàtùn	126	3150	NA	NA	hernandez2020san-martin	NA
-20228	dura11	THREAD	hilo	yò'và	yò'và	127	1161	NA	NA	hernandez2020san-martin	NA
-14174	dura11	THREAD	hilo	žùʔwà	žùʔwà	127	1161	NA	NA	josserand1983mixtec	NA
-20229	dura11	COMB	peine	kuìkà	kuìkà	128	1475	NA	NA	hernandez2020san-martin	NA
-14285	dura11	COMB	peine	kʷika	kʷika	128	1475	NA	NA	josserand1983mixtec	NA
-20230	dura11	ROPE	mecate, cuerda	yo'ò	yo'ò	129	1218	NA	NA	hernandez2020san-martin	NA
-20231	dura11	HOLE	agujero, hoyo	yavì	yavì	130	1667	NA	NA	hernandez2020san-martin	NA
-20232	dura11	NET	red	yátí	yátí	131	2963	NA	NA	hernandez2020san-martin	NA
-14446	dura11	NET	red	ñu̧ñu̧	ñu̧ñu̧	131	2963	NA	NA	josserand1983mixtec	NA
-20233	dura11	SOAP	jabón	nàmà	nàmà	132	788	NA	NA	hernandez2020san-martin	NA
-20234	dura11	RING	anillo	shé'è	shé'è	133	1374	NA	NA	hernandez2020san-martin	NA
-20235	dura11	MOON	luna	yòò	yòò	134	1313	NA	NA	hernandez2020san-martin	NA
-20236	dura11	CLOUD	nube	vìkò	vìkò	135	1489	NA	NA	hernandez2020san-martin	NA
-20237	dura11	LIGHTNING	rayo, relámpago	xí'ì ntxìtxà	xí'ì ntxìtxà	136	1654	NA	NA	hernandez2020san-martin	NA
-20238	dura11	LIGHTNING	truenos	taxa	taxa	136	1654	NA	NA	hernandez2020san-martin	NA
-20239	dura11	WATER	agua	txìkuìí	txì-kuìí	137	948	NA	NA	hernandez2020san-martin	NA
-14569	dura11	WATER	agua	či-kʷii	či-kʷii	137	948	NA	NA	josserand1983mixtec	NA
-20240	dura11	RAIN (PRECIPITATION)	lluvia	sàvì	sàvì	138	658	NA	NA	hernandez2020san-martin	NA
-14698	dura11	RAIN (PRECIPITATION)	lluvia	(ku̧u̧)-sàƀi	ku̧u̧-sàƀi	138	658	NA	NA	josserand1983mixtec	NA
-20241	dura11	RIVER	río	yìtxa	yìtxa	139	666	NA	NA	hernandez2020san-martin	NA
-14820	dura11	RIVER	río	žiča	žiča	139	666	NA	NA	josserand1983mixtec	NA
-20242	dura11	DEW	rocío	yíyí	yíyí	140	1977	NA	NA	hernandez2020san-martin	NA
-14934	dura11	DEW	rocío	žiʔi	žiʔi	140	1977	NA	NA	josserand1983mixtec	NA
-20243	dura11	MOUNTAIN OR HILL	montaña, monte	yikì	yikì	141	2118	NA	NA	hernandez2020san-martin	NA
-15033	dura11	MOUNTAIN OR HILL	cerro	žīkì	žīkì	141	2118	NA	NA	josserand1983mixtec	NA
-20244	dura11	PLAIN	llanura, cerro donde hay una pastura	yosò	yosò	142	652	NA	NA	hernandez2020san-martin	NA
-15157	dura11	PLAIN	llano	žoso	žoso	142	652	NA	NA	josserand1983mixtec	NA
-20245	dura11	STONE OR ROCK	piedra	yìì	yìì	143	2125	NA	NA	hernandez2020san-martin	NA
-15283	dura11	STONE OR ROCK	piedra	žii	žii	143	2125	NA	NA	josserand1983mixtec	NA
-20246	dura11	COTTON	algodón	kàchì	kàchì	144	1850	NA	NA	hernandez2020san-martin	NA
-15402	dura11	COTTON	algodón	kači	kači	144	1850	NA	NA	josserand1983mixtec	NA
-20247	dura11	METAL	fierro	kàa	kàa	145	2244	NA	NA	hernandez2020san-martin	NA
-15505	dura11	METAL	fierro	tu̧ni̧	tu̧ni̧	145	2244	NA	NA	josserand1983mixtec	NA
-20248	dura11	PAPER	papel	titi	titi	146	648	NA	NA	hernandez2020san-martin	NA
-20249	dura11	LIME (MATERIAL)	cal	kaka	kaka	147	2540	NA	NA	hernandez2020san-martin	NA
-20250	dura11	BEESWAX	cera	ñùmà	ñùmà	148	1931	NA	NA	hernandez2020san-martin	NA
-15598	dura11	BEESWAX	cera	ñu̧ma̧	ñu̧ma̧	148	1931	NA	NA	josserand1983mixtec	NA
-20251	dura11	MUD	lodo (con agua)	là'là	là'là	149	640	NA	NA	hernandez2020san-martin	NA
-20252	dura11	MUD	barro	ntxè'ì 	ntxè'ì 	149	640	NA	NA	hernandez2020san-martin	NA
-15723	dura11	MUD	lodo	ⁿčaʔi	ⁿčaʔi	149	640	NA	NA	josserand1983mixtec	NA
-20253	dura11	FOAM	espuma	chìñù	chìñù	150	1768	NA	NA	hernandez2020san-martin	NA
-15838	dura11	FOAM	espuma	čī̧ñù̧	čī̧ñù̧	150	1768	NA	NA	josserand1983mixtec	NA
-16432	dura11	FOAM	cuatro	kú̧mì̧	kú̧mì̧	150	1768	NA	NA	josserand1983mixtec	NA
-20254	dura11	DUST	polvo	machi	machi	151	2	NA	NA	hernandez2020san-martin	NA
-16555	dura11	DUST	cinco	ʔu̧ʔu̧	ʔu̧ʔu̧	151	2	NA	NA	josserand1983mixtec	NA
-20255	dura11	RED	rojo	kuá'á	kuá'á	152	156	NA	NA	hernandez2020san-martin	NA
-15958	dura11	RED	rojo	kʷáʔā	kʷáʔā	152	156	NA	NA	josserand1983mixtec	NA
-16674	dura11	RED	seis	ʔi̧ñu̧	ʔi̧ñu̧	152	156	NA	NA	josserand1983mixtec	NA
-20256	dura11	GREEN	verde	kuíì	kuíì	153	1425	NA	NA	hernandez2020san-martin	NA
-16790	dura11	GREEN	siete	ʔišā	ʔišā	153	1425	NA	NA	josserand1983mixtec	NA
-20257	dura11	YELLOW	amarillo	kuáán	kuáán	154	1424	NA	NA	hernandez2020san-martin	NA
-16074	dura11	YELLOW	amarillo	kʷa̧a̧	kʷa̧a̧	154	1424	NA	NA	josserand1983mixtec	NA
-16908	dura11	YELLOW	ocho	ʔu̧na̧	ʔu̧na̧	154	1424	NA	NA	josserand1983mixtec	NA
-20258	dura11	BLACK	negro	tùún	tùún	155	163	NA	NA	hernandez2020san-martin	NA
-17022	dura11	BLACK	diez	ʔìšì	ʔìšì	155	163	NA	NA	josserand1983mixtec	NA
-20259	dura11	WHITE	blanco, vacío	yaa	yaa	156	1335	NA	NA	hernandez2020san-martin	NA
-20260	dura11	ONE	uno	iin	iin	157	1493	NA	NA	hernandez2020san-martin	NA
-17138	dura11	ONE	quince	šaʔu̧	šaʔu̧	157	1493	NA	NA	josserand1983mixtec	NA
-20261	dura11	TWO	dos	ìvì	ìvì	158	1498	NA	NA	hernandez2020san-martin	NA
-16189	dura11	TWO	dos	ʔìvì	ʔìvì	158	1498	NA	NA	josserand1983mixtec	NA
-20262	dura11	THREE	tres	ùnì	ùnì	159	492	NA	NA	hernandez2020san-martin	NA
-16312	dura11	THREE	tres	ù̧nì̧	ù̧nì̧	159	492	NA	NA	josserand1983mixtec	NA
-17257	dura11	THREE	pobre	ⁿdaʔvi	ⁿdaʔvi	159	492	NA	NA	josserand1983mixtec	NA
-20263	dura11	FOUR	cuatro	kòmì	kòmì	160	1500	NA	NA	hernandez2020san-martin	NA
-20264	dura11	FIVE	cinco	ùn'ùn	ùn'ùn	161	493	NA	NA	hernandez2020san-martin	NA
-20265	dura11	SIX	seis	ìñù 	ìñù 	162	1703	NA	NA	hernandez2020san-martin	NA
-20266	dura11	SEVEN	siete	ìxà	ìxà	163	1704	NA	NA	hernandez2020san-martin	NA
-20267	dura11	EIGHT	ocho	ùnà	ùnà	164	1705	NA	NA	hernandez2020san-martin	NA
-20268	dura11	NINE	nueve	ììn	ììn	165	1483	NA	NA	hernandez2020san-martin	NA
-20269	dura11	TEN	diez	ìxì	ìxì	166	1515	NA	NA	hernandez2020san-martin	NA
-20270	dura11	FIFTEEN	quince	xà'ùn	xà'ùn	167	1709	NA	NA	hernandez2020san-martin	NA
-20271	dura11	TWENTY	veinte	òkò	òkò	168	1710	NA	NA	hernandez2020san-martin	NA
-20272	dura11	POOR	pobre	ntá'ví	ntá'ví	169	1674	NA	NA	hernandez2020san-martin	NA
-20273	dura11	RICH	rico	kuíká	kuíká	170	712	NA	NA	hernandez2020san-martin	NA
-20274	dura11	COLD	frío	vìxin	vìxin	171	1287	NA	NA	hernandez2020san-martin	NA
-17373	dura11	COLD	frío	ƀiši̧	ƀiši̧	171	1287	NA	NA	josserand1983mixtec	NA
-20275	dura11	HOT	está caliente, caliente	ì'ní	ì'ní	172	1286	NA	NA	hernandez2020san-martin	NA
-17487	dura11	HOT	caliente	ʔi̧ʔni̧	ʔi̧ʔni̧	172	1286	NA	NA	josserand1983mixtec	NA
-20276	dura11	BIG (SINGULAR)	grande.SG	ká'nu	ká'nu	173	NA	NA	NA	hernandez2020san-martin	NA
-17584	dura11	BIG (SINGULAR)	grande (sg.)	kaʔnu̧	kaʔnu̧	173	NA	NA	NA	josserand1983mixtec	NA
-20277	dura11	BIG (PLURAL)	grande.PL	ná'nu	ná'nu	174	NA	NA	NA	hernandez2020san-martin	NA
-20278	dura11	SMALL (SINGULAR)	pequeño.SG, chico.SG	lo'o	lo'o	175	NA	NA	NA	hernandez2020san-martin	NA
-17703	dura11	SMALL (SINGULAR)	chico	loʔo	loʔo	175	NA	NA	NA	josserand1983mixtec	NA
-20279	dura11	SMALL (PLURAL)	pequeño.PL, chico.PL	válí	válí	176	NA	NA	NA	hernandez2020san-martin	NA
-20280	dura11	LARGE (SINGULAR)	largo.SG	kánì	kánì	177	NA	NA	NA	hernandez2020san-martin	NA
-20281	dura11	LARGE (PLURAL)	largo.PL	nánì	nánì	178	NA	NA	NA	hernandez2020san-martin	NA
-20282	dura11	GOOD	bueno	và'a	và'a	179	1035	NA	NA	hernandez2020san-martin	NA
-17826	dura11	GOOD	bueno	ƀàʔā	ƀàʔā	179	1035	NA	NA	josserand1983mixtec	NA
-20283	dura11	SWEET	dulce	vìshì	vìshì	180	717	NA	NA	hernandez2020san-martin	NA
-17921	dura11	SWEET	dulce	ƀiši	ƀiši	180	717	NA	NA	josserand1983mixtec	NA
-20284	dura11	SALTY	salado	ò'và	ò'và	181	1091	NA	NA	hernandez2020san-martin	NA
-18035	dura11	SALTY	salado	ʔuʔwa	ʔuʔwa	181	1091	NA	NA	josserand1983mixtec	NA
-20285	dura11	BITTER	amargo	òvà	òvà	182	887	NA	NA	hernandez2020san-martin	NA
-18124	dura11	BITTER	amargo	ʔua	ʔua	182	887	NA	NA	josserand1983mixtec	NA
-20286	dura11	TASTY	sabroso	àsì	àsì	183	1813	NA	NA	hernandez2020san-martin	NA
-18209	dura11	TASTY	sabroso	ʔasi	ʔasi	183	1813	NA	NA	josserand1983mixtec	NA
-20287	dura11	WIDE	ancho	ntxíkà	ntxíkà	184	1243	NA	NA	hernandez2020san-martin	NA
-20288	dura11	NEW	nuevo	xàá	xàá	185	1231	NA	NA	hernandez2020san-martin	NA
-18324	dura11	NEW	flojo	ku-šuša̧	ku-šuša̧	185	1231	NA	NA	josserand1983mixtec	NA
-18325	dura11	NEW	floja	taža	taža	185	1231	NA	NA	josserand1983mixtec	NA
-20289	dura11	LAZY	flojo	kúshí	kúshí	186	1564	NA	NA	hernandez2020san-martin	NA
-20290	dura11	UGLY	feo	kini	kini	187	1548	NA	NA	hernandez2020san-martin	NA
-18472	dura11	UGLY	feo	kini̧	kini̧	187	1548	NA	NA	josserand1983mixtec	NA
-20291	dura11	JEALOUS	celoso	kuíñú	kuíñú	188	2821	NA	NA	hernandez2020san-martin	NA
-20292	dura11	NEAR	cerca de, está cerca	yatxi	yatxi	189	1942	NA	NA	hernandez2020san-martin	NA
-18576	dura11	NEAR	está cerca	žači	žači	189	1942	NA	NA	josserand1983mixtec	NA
-20293	dura11	FAR	está lejos, lejos	xíká	xíká	190	1406	NA	NA	hernandez2020san-martin	NA
-20294	dura11	HEAVY	pesado	vèe	vèe	191	1210	NA	NA	hernandez2020san-martin	NA
-18683	dura11	HEAVY	pesado	vee	vee	191	1210	NA	NA	josserand1983mixtec	NA
-20295	dura11	RAW	crudo	yí'í	yí'í	192	1959	NA	NA	hernandez2020san-martin	NA
-20296	dura11	SMOOTH	liso	ntxi'ví	ntxi'ví	193	1234	NA	NA	hernandez2020san-martin	NA
-18796	dura11	SMOOTH	lisa, liso	ⁿčiʔi	ⁿčiʔi	193	1234	NA	NA	josserand1983mixtec	NA
-20297	dura11	SLOW	despacio	kueé	kueé	194	701	NA	NA	hernandez2020san-martin	NA
-18913	dura11	SLOW	despacio	kʷee	kʷee	194	701	NA	NA	josserand1983mixtec	NA
-20298	dura11	YESTERDAY	ayer	kuni	kuni	195	1174	NA	NA	hernandez2020san-martin	NA
-19027	dura11	YESTERDAY	ayer	kuni	kuni	195	1174	NA	NA	josserand1983mixtec	NA
-19142	dura11	YESTERDAY	año	kʷia	kʷia	195	1174	NA	NA	josserand1983mixtec	NA
-20299	dura11	YEAR	año	kuìà	kuìà	196	1226	NA	NA	hernandez2020san-martin	NA
-20300	dura11	NOW OR TODAY	ahora, hoy	vitxi	vitxi	197	2097	NA	NA	hernandez2020san-martin	NA
-19256	dura11	NOW OR TODAY	ahora	ƀiči	ƀiči	197	2097	NA	NA	josserand1983mixtec	NA
-20301	dura11	NIGHT	noche	xìkuaa	xìkuaa	198	1233	NA	NA	hernandez2020san-martin	NA
-20302	dura11	NIGHT TIME	de noche	ñùú	ñùú	199	NA	NA	NA	hernandez2020san-martin	NA
-19348	dura11	NIGHT TIME	toda la noche	ñi̧nu̧-žaa	ñi̧nu̧-žaa	199	NA	NA	NA	josserand1983mixtec	NA
-20303	dura11	DAY (24 HOURS)	día, fecha	kìì	kìì	200	1260	NA	NA	hernandez2020san-martin	NA
-19446	dura11	DAY (24 HOURS)	día	kìvì	kìvì	200	1260	NA	NA	josserand1983mixtec	NA
-20304	dura11	DAY (NOT NIGHT)	de día	ntiví	ntiví	201	1225	NA	NA	hernandez2020san-martin	NA
-20305	dura11	HALF	mitad	sava	sava	202	816	NA	NA	hernandez2020san-martin	NA
-19569	dura11	HALF	mitad	ña̧ʔnu̧	ña̧ʔnu̧	202	816	NA	NA	josserand1983mixtec	NA
-19568	dura11	HALF	mitad	sava	sava	202	816	NA	NA	josserand1983mixtec	NA
-20306	dura11	MONEY	dinero	shù'ún	shù'ún	203	1559	NA	NA	hernandez2020san-martin	NA
-20307	dura11	WORKING OR WORK	trabajo	chuun	chuun	204	2281	NA	NA	hernandez2020san-martin	NA
-19685	dura11	WORKING OR WORK	trabajo	ču̧u̧	ču̧u̧	204	2281	NA	NA	josserand1983mixtec	NA
-20308	dura11	WORD	palabra	tù'un	tù'un	205	1599	NA	NA	hernandez2020san-martin	NA
-19808	dura11	WORD	palabra	tù̧ʔu̧	tù̧ʔu̧	205	1599	NA	NA	josserand1983mixtec	NA
-19916	dura11	WORD	culpa	kʷàči	kʷàči	205	1599	NA	NA	josserand1983mixtec	NA
-20309	dura11	FAULT	culpa	kuàchi	kuàchi	206	134	NA	NA	hernandez2020san-martin	NA
-20310	dura11	DREAM	sueño	mà'ná	mà'ná	207	2374	NA	NA	hernandez2020san-martin	NA
-20311	dura11	WHEN	cuándo	ñama	ñama	208	1238	NA	NA	hernandez2020san-martin	NA
-20013	dura11	WHEN	cuándo	ña̧ma̧	ña̧ma̧	208	1238	NA	NA	josserand1983mixtec	NA
-20312	dura11	MUSIC	canción, música	yaa	yaa	209	642	NA	NA	hernandez2020san-martin	NA
+ID	DOCULECT	GLOSS	VALUE	FORM	IDlist	NOTES	LOAN	LOAN_SOURCE	SOURCE	FLOATTONE
+20100	dura11	madre	nánà	nánà	1	NA	NA	NA	hernandez2020san-martin	NA
+20101	dura11	mamá!	náná	náná	2	NA	NA	NA	hernandez2020san-martin	NA
+20102	dura11	padre	tátà	tátà	3	NA	NA	NA	hernandez2020san-martin	NA
+20103	dura11	papá!	tátá	tátá	4	NA	yes	Spanish	hernandez2020san-martin	NA
+20104	dura11	hijo/hija	se'e	se'e	5	NA	NA	NA	hernandez2020san-martin	NA
+6371	dura11	hijo/hija	seʔe	seʔe	5	NA	NA	NA	josserand1983mixtec	NA
+20105	dura11	hermana/hermano de otro genero	kò'va	kò'va	8	NA	NA	NA	hernandez2020san-martin	NA
+20106	dura11	hermano de hombre	ñani	ñani	9	NA	NA	NA	hernandez2020san-martin	NA
+6492	dura11	hermano de hombre	ña̧ni̧	ña̧ni̧	9	NA	NA	NA	josserand1983mixtec	NA
+20107	dura11	hermana de mujer	kì'vì	kì'vì	10	NA	NA	NA	hernandez2020san-martin	NA
+20108	dura11	tía	shishi	shishi	11	NA	NA	NA	hernandez2020san-martin	NA
+20109	dura11	tío	shito	shito	12	NA	NA	NA	hernandez2020san-martin	NA
+20110	dura11	hombre	txàa	txàa	13	NA	NA	NA	hernandez2020san-martin	NA
+6605	dura11	hombre	čàā	čàā	13	NA	NA	NA	josserand1983mixtec	NA
+20111	dura11	mujer	ña'à	ña'à	14	NA	NA	NA	hernandez2020san-martin	NA
+20112	dura11	dueño	sito'o	sito'o	15	NA	NA	NA	hernandez2020san-martin	NA
+6726	dura11	dueño	ʔes-toʔo	ʔes-toʔo	15	NA	NA	NA	josserand1983mixtec	NA
+20113	dura11	sacerdote	sìtì	sìtì	16	NA	NA	NA	hernandez2020san-martin	NA
+6812	dura11	sacerdote	siti	siti	16	NA	NA	NA	josserand1983mixtec	NA
+20114	dura11	sangre	nìì	nìì	17	NA	NA	NA	hernandez2020san-martin	NA
+6905	dura11	sangre	ni̧i̧	ni̧i̧	17	NA	NA	NA	josserand1983mixtec	NA
+20115	dura11	hueso	ko'nto	ko'nto	18	NA	NA	NA	hernandez2020san-martin	NA
+20116	dura11	pelo	ishì	ishì	19	NA	NA	NA	hernandez2020san-martin	NA
+20117	dura11	cara	nùù	nùù	20	NA	NA	NA	hernandez2020san-martin	NA
+20118	dura11	lengua	yáà	yáà	21	NA	NA	NA	hernandez2020san-martin	NA
+20119	dura11	diente	nù'un	nù'un	22	NA	NA	NA	hernandez2020san-martin	NA
+7020	dura11	diente	nù̧ʔu̧	nù̧ʔu̧	22	NA	NA	NA	josserand1983mixtec	NA
+20120	dura11	boca	yi'ì	yi'ì	23	NA	NA	NA	hernandez2020san-martin	NA
+7107	dura11	boca	žūʔù	žūʔù	23	NA	NA	NA	josserand1983mixtec	NA
+20121	dura11	oreja	sò'o	sò'o	24	NA	NA	NA	hernandez2020san-martin	NA
+7207	dura11	oreja	suʔu	suʔu	24	NA	NA	NA	josserand1983mixtec	NA
+20122	dura11	nariz	xìtxì	xìtxì	25	NA	NA	NA	hernandez2020san-martin	NA
+7324	dura11	nariz	šiči	šiči	25	NA	NA	NA	josserand1983mixtec	NA
+20123	dura11	cuello, garganta	sùkùn	sùkùn	26	NA	NA	NA	hernandez2020san-martin	NA
+7439	dura11	cuello	suku̧	suku̧	26	NA	NA	NA	josserand1983mixtec	NA
+20124	dura11	mano	nta'à	nta'à	27	NA	NA	NA	hernandez2020san-martin	NA
+20125	dura11	uña	chíìn	chíìn	28	NA	NA	NA	hernandez2020san-martin	NA
+7553	dura11	uña	či̧i̧	či̧i̧	28	NA	NA	NA	josserand1983mixtec	NA
+20126	dura11	espalda	sàtà	sàtà	29	NA	NA	NA	hernandez2020san-martin	NA
+20127	dura11	estómago	txìxin	txìxin	30	NA	NA	NA	hernandez2020san-martin	NA
+20128	dura11	tripa, tripas	xitxi	xitxi	31	NA	NA	NA	hernandez2020san-martin	NA
+7672	dura11	tripas	šiȼi	šiȼi	31	NA	NA	NA	josserand1983mixtec	NA
+20129	dura11	pie	xa'à	xa'à	32	NA	NA	NA	hernandez2020san-martin	NA
+7791	dura11	pie	šàʔà	šàʔà	32	NA	NA	NA	josserand1983mixtec	NA
+20130	dura11	enfermedad	kuè'è	kuè'è	33	NA	NA	NA	hernandez2020san-martin	NA
+7907	dura11	enfermedad	kʷeʔe	kʷeʔe	33	NA	NA	NA	josserand1983mixtec	NA
+20131	dura11	medicina	tàtàn	tàtàn	34	NA	NA	NA	hernandez2020san-martin	NA
+20132	dura11	hinchazón	kuiñu	kuiñu	35	NA	NA	NA	hernandez2020san-martin	NA
+8018	dura11	hinchazón	kʷi̧ñu̧	kʷi̧ñu̧	35	NA	NA	NA	josserand1983mixtec	NA
+20133	dura11	grano	ntxì'i	ntxì'i	36	NA	NA	NA	hernandez2020san-martin	NA
+8117	dura11	grano	ⁿčiʔi	ⁿčiʔi	36	NA	NA	NA	josserand1983mixtec	NA
+20134	dura11	pus, materia	lakuàn	lakuàn	37	NA	NA	NA	hernandez2020san-martin	NA
+8230	dura11	pus	ⁿdakʷa	ⁿdakʷa	37	NA	NA	NA	josserand1983mixtec	NA
+20135	dura11	orina	txìsháshá	txì-sháshá	38	liquid-pee(v)	NA	NA	hernandez2020san-martin	NA
+20136	dura11	ropa	txikòtò	txi-kòtò	39	NA	NA	NA	hernandez2020san-martin	NA
+20137	dura11	huarache	íntxixàn	íntxixàn	40	NA	NA	NA	hernandez2020san-martin	NA
+8409	dura11	huarache	ⁿčiša̧	ⁿčiša̧	40	NA	NA	NA	josserand1983mixtec	NA
+20138	dura11	pantalón	xati	xati	41	NA	NA	NA	hernandez2020san-martin	NA
+8516	dura11	calzón, pantalón	šati	šati	41	NA	NA	NA	josserand1983mixtec	NA
+20139	dura11	huipil	shìkùn	shìkùn	42	NA	NA	NA	hernandez2020san-martin	NA
+20140	dura11	pueblo	ñuu	ñuu	43	NA	NA	NA	hernandez2020san-martin	NA
+8676	dura11	pueblo	ñu̧u̧	ñu̧u̧	43	NA	NA	NA	josserand1983mixtec	NA
+20141	dura11	casa	ve'e	ve'e	44	NA	NA	NA	hernandez2020san-martin	NA
+8792	dura11	casa	veʔe	veʔe	44	NA	NA	NA	josserand1983mixtec	NA
+20142	dura11	camino	ichì	ichì	45	NA	NA	NA	hernandez2020san-martin	NA
+20143	dura11	horcón	sì'ìn	sì'ìn	46	NA	NA	NA	hernandez2020san-martin	NA
+8900	dura11	horcón	si̧ʔi̧	si̧ʔi̧	46	NA	NA	NA	josserand1983mixtec	NA
+20144	dura11	petate	yivì	yivì	47	NA	NA	NA	hernandez2020san-martin	NA
+8996	dura11	petate	žiƀi	žiƀi	47	NA	NA	NA	josserand1983mixtec	NA
+20145	dura11	cama, lecho	xìto	xìto	48	NA	NA	NA	hernandez2020san-martin	NA
+9118	dura11	cama	šito	šito	48	NA	NA	NA	josserand1983mixtec	NA
+20146	dura11	silla	txeì	txeì	49	NA	NA	NA	hernandez2020san-martin	NA
+9232	dura11	banquito	čei	čei	49	NA	NA	NA	josserand1983mixtec	NA
+20147	dura11	animal	kitxì	kitxì	50	NA	NA	NA	hernandez2020san-martin	NA
+9354	dura11	animal	kīȼì	kīȼì	50	NA	NA	NA	josserand1983mixtec	NA
+20148	dura11	pájaro	laa	laa	51	NA	NA	NA	hernandez2020san-martin	NA
+9472	dura11	pájaro	laa	laa	51	NA	NA	NA	josserand1983mixtec	NA
+20149	dura11	pez, pescado	txaká	txaká	52	NA	NA	NA	hernandez2020san-martin	NA
+20150	dura11	culebra, serpiente	kòò	kòò	53	NA	NA	NA	hernandez2020san-martin	NA
+9581	dura11	culebra	koo	koo	53	NA	NA	NA	josserand1983mixtec	NA
+20151	dura11	rana	lá'và	lá'và	54	NA	NA	NA	hernandez2020san-martin	NA
+9675	dura11	rana	ku̧ⁿdu	ku̧ⁿdu	54	NA	NA	NA	josserand1983mixtec	NA
+9676	dura11	rana	laʔwa	laʔwa	54	NA	NA	NA	josserand1983mixtec	NA
+20152	dura11	gavilán	shá'án	shá'án	55	NA	NA	NA	hernandez2020san-martin	NA
+9805	dura11	gavilán	šà̧ʔà̧	šà̧ʔà̧	55	NA	NA	NA	josserand1983mixtec	NA
+9804	dura11	gavilán	tasi	tasi	55	NA	NA	NA	josserand1983mixtec	NA
+20153	dura11	alacrán	txìsu'mà	txì-su'mà	56	animal-tail	NA	NA	hernandez2020san-martin	NA
+9930	dura11	alacrán	či-su̧ʔma̧	či-su̧ʔma̧	56	NA	NA	NA	josserand1983mixtec	NA
+20154	dura11	cucaracha	txé'é	txé'é	57	NA	NA	NA	hernandez2020san-martin	NA
+10015	dura11	cucaracha	ȼʸeʔe	ȼʸeʔe	57	NA	NA	NA	josserand1983mixtec	NA
+20155	dura11	chapulín	txìka	txìka	58	NA	NA	NA	hernandez2020san-martin	NA
+20156	dura11	abeja	ñùñù	ñùñù	59	NA	NA	NA	hernandez2020san-martin	NA
+20157	dura11	ratón	txìín	txìín	60	NA	NA	NA	hernandez2020san-martin	NA
+10114	dura11	rata	čoko	čoko	60	NA	NA	NA	josserand1983mixtec	NA
+10113	dura11	rata	ȼi̧i̧	ȼi̧i̧	60	NA	NA	NA	josserand1983mixtec	NA
+20158	dura11	venado	isi	isi	61	NA	NA	NA	hernandez2020san-martin	NA
+10251	dura11	venado	ʔisi	ʔisi	61	NA	NA	NA	josserand1983mixtec	NA
+20159	dura11	ardilla	ntxikuání	ntxi-kuání	62	NA	NA	NA	hernandez2020san-martin	NA
+10367	dura11	ardilla	ⁿči-kʷa̧ñi̧	ⁿči-kʷa̧ñi̧	62	NA	NA	NA	josserand1983mixtec	NA
+20160	dura11	zorrillo	txìnì'ín 	txì-nì'ín 	63	animal-?	NA	NA	hernandez2020san-martin	NA
+20161	dura11	tlacuache	lánko	lánko	64	NA	maybe	NA	hernandez2020san-martin	NA
+20162	dura11	mapache	ma'à	ma'à	65	NA	NA	NA	hernandez2020san-martin	NA
+20163	dura11	conejo	leso	leso	66	NA	yes	Colonial Spanish	hernandez2020san-martin	NA
+20164	dura11	zopilote	lònchi	lònchi	67	NA	yes	Nahuatl (not sure)	hernandez2020san-martin	NA
+20165	dura11	perro	txìna	tx-ìna	68	NA	NA	NA	hernandez2020san-martin	NA
+20166	dura11	gato	chítí	chítí	69	NA	NA	NA	hernandez2020san-martin	NA
+10487	dura11	gato	(čiti)	čiti	69	NA	NA	NA	josserand1983mixtec	NA
+20167	dura11	gallo	chéle	chéle	70	NA	NA	NA	hernandez2020san-martin	NA
+20168	dura11	gallina, pollo	ntuxí	ntuxí	71	NA	NA	NA	hernandez2020san-martin	NA
+20169	dura11	marrano, puerco, cerdo	kóchí	kóchí	72	NA	yes	Spanish	hernandez2020san-martin	NA
+20170	dura11	caballo	kuéì	kuéì	73	NA	yes	Colonial Spanish	hernandez2020san-martin	NA
+20171	dura11	borrego, oveja	lánchí	lánchí	74	NA	yes	not sure	hernandez2020san-martin	NA
+20172	dura11	hormiga	txokó	txokó	75	NA	NA	NA	hernandez2020san-martin	NA
+20173	dura11	cuerno	ntxikìn	ntxikìn	76	NA	NA	NA	hernandez2020san-martin	NA
+10609	dura11	cuerno	ⁿčiki̧	ⁿčiki̧	76	NA	NA	NA	josserand1983mixtec	NA
+20174	dura11	pluma	tùmi	tùmi	77	NA	NA	NA	hernandez2020san-martin	NA
+10724	dura11	pluma	tù̧mī̧	tù̧mī̧	77	NA	NA	NA	josserand1983mixtec	NA
+20175	dura11	ala	ntxìxìn	ntxìxìn	78	NA	NA	NA	hernandez2020san-martin	NA
+10837	dura11	ala	ⁿčiši̧	ⁿčiši̧	78	NA	NA	NA	josserand1983mixtec	NA
+20176	dura11	cola	nto'ò	nto'ò	79	NA	NA	NA	hernandez2020san-martin	NA
+10932	dura11	cola	ⁿdoʔo	ⁿdoʔo	79	NA	NA	NA	josserand1983mixtec	NA
+20177	dura11	árbol, palo	itùn	itùn	80	NA	NA	NA	hernandez2020san-martin	NA
+11052	dura11	árbol	ītù̧	ītù̧	80	NA	NA	NA	josserand1983mixtec	NA
+20178	dura11	hierba	yìkì	yìkì	81	NA	NA	NA	hernandez2020san-martin	NA
+11168	dura11	hierba	žùʔù	žùʔù	81	NA	NA	NA	josserand1983mixtec	NA
+20179	dura11	zacate	ntáyò'o	ntá-yò'o	82	NA	NA	NA	hernandez2020san-martin	NA
+20180	dura11	zacate, pasto	itxa	itxa	82	NA	NA	NA	hernandez2020san-martin	NA
+20181	dura11	flor	ita	ita	83	NA	NA	NA	hernandez2020san-martin	NA
+20182	dura11	maguey	yavì	yavì	84	NA	NA	NA	hernandez2020san-martin	NA
+11271	dura11	maguey	žāƀì	žāƀì	84	NA	NA	NA	josserand1983mixtec	NA
+20183	dura11	raíz	yò'o	yò'o	85	NA	NA	NA	hernandez2020san-martin	NA
+20184	dura11	espina	iñù	iñù	86	NA	NA	NA	hernandez2020san-martin	NA
+20185	dura11	maíz en grano	nùnì	nùnì	87	NA	NA	NA	hernandez2020san-martin	NA
+11390	dura11	maíz	nù̧nì̧	nù̧nì̧	87	NA	NA	NA	josserand1983mixtec	NA
+20186	dura11	milpa	iti	iti	88	NA	NA	NA	hernandez2020san-martin	NA
+11512	dura11	milpa	ʔiti	ʔiti	88	NA	NA	NA	josserand1983mixtec	NA
+20187	dura11	elote	nchishì	nchishì	89	NA	NA	NA	hernandez2020san-martin	NA
+20188	dura11	nixtamal	xá'á	xá'á	90	NA	NA	NA	hernandez2020san-martin	NA
+20189	dura11	masa	yixàn	yixàn	91	NA	NA	NA	hernandez2020san-martin	NA
+11626	dura11	masa	žiša̧	žiša̧	91	NA	NA	NA	josserand1983mixtec	NA
+20190	dura11	tortilla	shìtà	shìtà	92	NA	NA	NA	hernandez2020san-martin	NA
+11748	dura11	tortilla	šita	šita	92	NA	NA	NA	josserand1983mixtec	NA
+20191	dura11	rastrojo (en general)	takà	takà	93	NA	NA	NA	hernandez2020san-martin	NA
+20192	dura11	rastrojo (de milpa)	ñàmà	ñàmà	93	NA	NA	NA	hernandez2020san-martin	NA
+20193	dura11	surco	yikùn	yikùn	94	NA	NA	NA	hernandez2020san-martin	NA
+11949	dura11	surco	žīkù	žīkù	94	NA	NA	NA	josserand1983mixtec	NA
+20194	dura11	espiga	yokò	yokò	95	NA	NA	NA	hernandez2020san-martin	NA
+12035	dura11	espiga	žoko	žoko	95	NA	NA	NA	josserand1983mixtec	NA
+20195	dura11	frijol(es)	ntuchì	ntuchì	96	NA	NA	NA	hernandez2020san-martin	NA
+12131	dura11	frijol(es)	ⁿduči	ⁿduči	96	NA	NA	NA	josserand1983mixtec	NA
+20196	dura11	ejote	nchìchi	nchìchi	97	NA	NA	NA	hernandez2020san-martin	NA
+12239	dura11	ejote	ⁿčiči	ⁿčiči	97	NA	NA	NA	josserand1983mixtec	NA
+20197	dura11	chile	ya'à	ya'à	98	NA	NA	NA	hernandez2020san-martin	NA
+20198	dura11	sal	nìì	nìì	99	NA	NA	NA	hernandez2020san-martin	NA
+12333	dura11	sal	ñi̧i̧	ñi̧i̧	99	NA	NA	NA	josserand1983mixtec	NA
+20199	dura11	calabaza	yikìn	yikìn	100	NA	NA	NA	hernandez2020san-martin	NA
+12450	dura11	calabaza	žīkì̧	žīkì̧	100	NA	NA	NA	josserand1983mixtec	NA
+20200	dura11	chayote	nañà	nañà	101	NA	NA	NA	hernandez2020san-martin	NA
+20201	dura11	caña	ntòò	ntòò	102	NA	NA	NA	hernandez2020san-martin	NA
+12564	dura11	caña	ⁿdoo	ⁿdoo	102	NA	NA	NA	josserand1983mixtec	NA
+20202	dura11	miel	ntùshi	ntùshi	103	NA	NA	NA	hernandez2020san-martin	NA
+12677	dura11	miel	ⁿduši	ⁿduši	103	NA	NA	NA	josserand1983mixtec	NA
+20203	dura11	grasa, manteca	shà'an	shà'an	104	NA	NA	NA	hernandez2020san-martin	NA
+20204	dura11	blanquillo, huevo	ntxìvì	ntxìvì	105	NA	NA	NA	hernandez2020san-martin	NA
+12802	dura11	blanquillo, huevo	ⁿčiƀi	ⁿčiƀi	105	NA	NA	NA	josserand1983mixtec	NA
+20205	dura11	tomate	txìnana	txì-nana	106	round-	NA	NA	hernandez2020san-martin	NA
+12915	dura11	jitomate	či-na̧na̧	či-na̧na̧	106	NA	NA	NA	josserand1983mixtec	NA
+20206	dura11	camote	ña'mi	ña'mi	107	NA	NA	NA	hernandez2020san-martin	NA
+20207	dura11	aguacate	chìchí	chìchí	108	NA	NA	NA	hernandez2020san-martin	NA
+20208	dura11	plátano	ntxikà	ntxikà	109	NA	NA	NA	hernandez2020san-martin	NA
+20209	dura11	nopal	tùvì'ntxá	tù-vì'ntxá	110	wood-	NA	NA	hernandez2020san-martin	NA
+13001	dura11	nopal	tu̧-ƀi̧ʔⁿča	tu̧-ƀi̧ʔⁿča	110	NA	NA	NA	josserand1983mixtec	NA
+20210	dura11	mamey	ntxìká xa'à	ntxìká xa'à	111	banana-foot	NA	NA	hernandez2020san-martin	NA
+20211	dura11	zapote negro	ntòko tùún	ntòko tùún	111	custard.apple-black	NA	NA	hernandez2020san-martin	NA
+13086	dura11	mamey	ⁿčika	ⁿčika	111	NA	NA	NA	josserand1983mixtec	NA
+20212	dura11	chirimoya	ntokò	ntokò	112	NA	NA	NA	hernandez2020san-martin	NA
+20213	dura11	hongo	xì'ì	xì'ì	113	NA	NA	NA	hernandez2020san-martin	NA
+20214	dura11	carne	kùñu	kùñu	114	NA	NA	NA	hernandez2020san-martin	NA
+13180	dura11	carne	ku̧ñu̧	ku̧ñu̧	114	NA	NA	NA	josserand1983mixtec	NA
+20215	dura11	comal	xòò	xòò	115	NA	NA	NA	hernandez2020san-martin	NA
+13298	dura11	comal	šʸoo	šʸoo	115	NA	NA	NA	josserand1983mixtec	NA
+20216	dura11	olla	kìsi	kìsi	116	NA	NA	NA	hernandez2020san-martin	NA
+13414	dura11	olla	kisi	kisi	116	NA	NA	NA	josserand1983mixtec	NA
+20217	dura11	horno	xìtùn	xìtùn	117	NA	NA	NA	hernandez2020san-martin	NA
+13504	dura11	horno	šitu̧	šitu̧	117	NA	NA	NA	josserand1983mixtec	NA
+20218	dura11	lumbre, fuego	ñu'u	ñu'u	118	NA	NA	NA	hernandez2020san-martin	NA
+13614	dura11	lumbre	ñu̧ʔu̧	ñu̧ʔu̧	118	NA	NA	NA	josserand1983mixtec	NA
+20219	dura11	ceniza	yàà	yàà	119	NA	NA	NA	hernandez2020san-martin	NA
+20220	dura11	carbón	tùùn	tùùn	120	NA	NA	NA	hernandez2020san-martin	NA
+20221	dura11	humo	ñù'mà	ñù'mà	121	NA	NA	NA	hernandez2020san-martin	NA
+13730	dura11	humo	ñu̧ʔma̧	ñu̧ʔma̧	121	NA	NA	NA	josserand1983mixtec	NA
+20222	dura11	basura	chè'è	chè'è	122	NA	NA	NA	hernandez2020san-martin	NA
+13848	dura11	basura	(čeʔe)	čeʔe	122	NA	NA	NA	josserand1983mixtec	NA
+20223	dura11	plato	kò'ò	kò'ò	123	NA	NA	NA	hernandez2020san-martin	NA
+20224	dura11	jícara	yaxì	yaxì	124	NA	NA	NA	hernandez2020san-martin	NA
+13947	dura11	jícara	žāšì	žāšì	124	NA	NA	NA	josserand1983mixtec	NA
+20225	dura11	canasta	tìká	tìká	125	NA	NA	NA	hernandez2020san-martin	NA
+20226	dura11	tenate	ntò'ò	ntò'ò	125	NA	NA	NA	hernandez2020san-martin	NA
+20227	dura11	cajón, baúl	xàtùn	xàtùn	126	NA	NA	NA	hernandez2020san-martin	NA
+14067	dura11	cajón	šatu̧	šatu̧	126	NA	NA	NA	josserand1983mixtec	NA
+20228	dura11	hilo	yò'và	yò'và	127	NA	NA	NA	hernandez2020san-martin	NA
+14174	dura11	hilo	žùʔwà	žùʔwà	127	NA	NA	NA	josserand1983mixtec	NA
+20229	dura11	peine	kuìkà	kuìkà	128	NA	NA	NA	hernandez2020san-martin	NA
+14285	dura11	peine	kʷika	kʷika	128	NA	NA	NA	josserand1983mixtec	NA
+20230	dura11	mecate, cuerda	yo'ò	yo'ò	129	NA	NA	NA	hernandez2020san-martin	NA
+20231	dura11	agujero, hoyo	yavì	yavì	130	NA	NA	NA	hernandez2020san-martin	NA
+20232	dura11	red	yátí	yátí	131	NA	NA	NA	hernandez2020san-martin	NA
+14446	dura11	red	ñu̧ñu̧	ñu̧ñu̧	131	NA	NA	NA	josserand1983mixtec	NA
+20233	dura11	jabón	nàmà	nàmà	132	NA	NA	NA	hernandez2020san-martin	NA
+20234	dura11	anillo	shé'è	shé'è	133	NA	NA	NA	hernandez2020san-martin	NA
+20235	dura11	luna	yòò	yòò	134	NA	NA	NA	hernandez2020san-martin	NA
+20236	dura11	nube	vìkò	vìkò	135	NA	NA	NA	hernandez2020san-martin	NA
+20237	dura11	rayo, relámpago	xí'ì ntxìtxà	xí'ì ntxìtxà	136	NA	NA	NA	hernandez2020san-martin	NA
+20238	dura11	truenos	taxa	taxa	136	NA	NA	NA	hernandez2020san-martin	NA
+20239	dura11	agua	txìkuìí	txì-kuìí	137	liquid-	NA	NA	hernandez2020san-martin	NA
+14569	dura11	agua	či-kʷii	či-kʷii	137	NA	NA	NA	josserand1983mixtec	NA
+20240	dura11	lluvia	sàvì	sàvì	138	NA	NA	NA	hernandez2020san-martin	NA
+14698	dura11	lluvia	(ku̧u̧)-sàƀi	ku̧u̧-sàƀi	138	NA	NA	NA	josserand1983mixtec	NA
+20241	dura11	río	yìtxa	yìtxa	139	NA	NA	NA	hernandez2020san-martin	NA
+14820	dura11	río	žiča	žiča	139	NA	NA	NA	josserand1983mixtec	NA
+20242	dura11	rocío	yíyí	yíyí	140	NA	NA	NA	hernandez2020san-martin	NA
+14934	dura11	rocío	žiʔi	žiʔi	140	NA	NA	NA	josserand1983mixtec	NA
+20243	dura11	montaña, monte	yikì	yikì	141	NA	NA	NA	hernandez2020san-martin	NA
+15033	dura11	cerro	žīkì	žīkì	141	NA	NA	NA	josserand1983mixtec	NA
+20244	dura11	llanura, cerro donde hay una pastura	yosò	yosò	142	NA	NA	NA	hernandez2020san-martin	NA
+15157	dura11	llano	žoso	žoso	142	NA	NA	NA	josserand1983mixtec	NA
+20245	dura11	piedra	yìì	yìì	143	NA	NA	NA	hernandez2020san-martin	NA
+15283	dura11	piedra	žii	žii	143	NA	NA	NA	josserand1983mixtec	NA
+20246	dura11	algodón	kàchì	kàchì	144	NA	NA	NA	hernandez2020san-martin	NA
+15402	dura11	algodón	kači	kači	144	NA	NA	NA	josserand1983mixtec	NA
+20247	dura11	fierro	kàa	kàa	145	NA	NA	NA	hernandez2020san-martin	NA
+15505	dura11	fierro	tu̧ni̧	tu̧ni̧	145	NA	NA	NA	josserand1983mixtec	NA
+20248	dura11	papel	titi	titi	146	NA	NA	NA	hernandez2020san-martin	NA
+20249	dura11	cal	kaka	kaka	147	NA	NA	NA	hernandez2020san-martin	NA
+20250	dura11	cera	ñùmà	ñùmà	148	NA	NA	NA	hernandez2020san-martin	NA
+15598	dura11	cera	ñu̧ma̧	ñu̧ma̧	148	NA	NA	NA	josserand1983mixtec	NA
+20251	dura11	lodo (con agua)	là'là	là'là	149	NA	NA	NA	hernandez2020san-martin	NA
+20252	dura11	barro	ntxè'ì 	ntxè'ì 	149	NA	NA	NA	hernandez2020san-martin	NA
+15723	dura11	lodo	ⁿčaʔi	ⁿčaʔi	149	NA	NA	NA	josserand1983mixtec	NA
+20253	dura11	espuma	chìñù	chìñù	150	NA	NA	NA	hernandez2020san-martin	NA
+15838	dura11	espuma	čī̧ñù̧	čī̧ñù̧	150	NA	NA	NA	josserand1983mixtec	NA
+20254	dura11	polvo	machi	machi	151	NA	NA	NA	hernandez2020san-martin	NA
+20255	dura11	rojo	kuá'á	kuá'á	152	NA	NA	NA	hernandez2020san-martin	NA
+15958	dura11	rojo	kʷáʔā	kʷáʔā	152	NA	NA	NA	josserand1983mixtec	NA
+20256	dura11	verde	kuíì	kuíì	153	NA	NA	NA	hernandez2020san-martin	NA
+20257	dura11	amarillo	kuáán	kuáán	154	NA	NA	NA	hernandez2020san-martin	NA
+16074	dura11	amarillo	kʷa̧a̧	kʷa̧a̧	154	NA	NA	NA	josserand1983mixtec	NA
+20258	dura11	negro	tùún	tùún	155	NA	NA	NA	hernandez2020san-martin	NA
+20259	dura11	blanco, vacío	yaa	yaa	156	NA	NA	NA	hernandez2020san-martin	NA
+20260	dura11	uno	iin	iin	157	NA	NA	NA	hernandez2020san-martin	NA
+20261	dura11	dos	ìvì	ìvì	158	NA	NA	NA	hernandez2020san-martin	NA
+16189	dura11	dos	ʔìvì	ʔìvì	158	NA	NA	NA	josserand1983mixtec	NA
+20262	dura11	tres	ùnì	ùnì	159	NA	NA	NA	hernandez2020san-martin	NA
+16312	dura11	tres	ù̧nì̧	ù̧nì̧	159	NA	NA	NA	josserand1983mixtec	NA
+20263	dura11	cuatro	kòmì	kòmì	160	NA	NA	NA	hernandez2020san-martin	NA
+16432	dura11	cuatro	kú̧mì̧	kú̧mì̧	160	NA	NA	NA	josserand1983mixtec	NA
+20264	dura11	cinco	ùn'ùn	ùn'ùn	161	NA	NA	NA	hernandez2020san-martin	NA
+16555	dura11	cinco	ʔu̧ʔu̧	ʔu̧ʔu̧	161	NA	NA	NA	josserand1983mixtec	NA
+20265	dura11	seis	ìñù 	ìñù 	162	NA	NA	NA	hernandez2020san-martin	NA
+16674	dura11	seis	ʔi̧ñu̧	ʔi̧ñu̧	162	NA	NA	NA	josserand1983mixtec	NA
+20266	dura11	siete	ìxà	ìxà	163	NA	NA	NA	hernandez2020san-martin	NA
+16790	dura11	siete	ʔišā	ʔišā	163	NA	NA	NA	josserand1983mixtec	NA
+20267	dura11	ocho	ùnà	ùnà	164	NA	NA	NA	hernandez2020san-martin	NA
+16908	dura11	ocho	ʔu̧na̧	ʔu̧na̧	164	NA	NA	NA	josserand1983mixtec	NA
+20268	dura11	nueve	ììn	ììn	165	NA	NA	NA	hernandez2020san-martin	NA
+20269	dura11	diez	ìxì	ìxì	166	NA	NA	NA	hernandez2020san-martin	NA
+17022	dura11	diez	ʔìšì	ʔìšì	166	NA	NA	NA	josserand1983mixtec	NA
+20270	dura11	quince	xà'ùn	xà'ùn	167	NA	NA	NA	hernandez2020san-martin	NA
+17138	dura11	quince	šaʔu̧	šaʔu̧	167	NA	NA	NA	josserand1983mixtec	NA
+20271	dura11	veinte	òkò	òkò	168	NA	NA	NA	hernandez2020san-martin	NA
+20272	dura11	pobre	ntá'ví	ntá'ví	169	NA	NA	NA	hernandez2020san-martin	NA
+17257	dura11	pobre	ⁿdaʔvi	ⁿdaʔvi	169	NA	NA	NA	josserand1983mixtec	NA
+20273	dura11	rico	kuíká	kuíká	170	NA	NA	NA	hernandez2020san-martin	NA
+20274	dura11	frío	vìxin	vìxin	171	NA	NA	NA	hernandez2020san-martin	NA
+17373	dura11	frío	ƀiši̧	ƀiši̧	171	NA	NA	NA	josserand1983mixtec	NA
+20275	dura11	está caliente, caliente	ì'ní	ì'ní	172	NA	NA	NA	hernandez2020san-martin	NA
+17487	dura11	caliente	ʔi̧ʔni̧	ʔi̧ʔni̧	172	NA	NA	NA	josserand1983mixtec	NA
+20276	dura11	grande.SG	ká'nu	ká'nu	173	NA	NA	NA	hernandez2020san-martin	NA
+17584	dura11	grande (sg.)	kaʔnu̧	kaʔnu̧	173	NA	NA	NA	josserand1983mixtec	NA
+20277	dura11	grande.PL	ná'nu	ná'nu	174	NA	NA	NA	hernandez2020san-martin	NA
+20278	dura11	pequeño.SG, chico.SG	lo'o	lo'o	175	NA	NA	NA	hernandez2020san-martin	NA
+17703	dura11	chico	loʔo	loʔo	175	NA	NA	NA	josserand1983mixtec	NA
+20279	dura11	pequeño.PL, chico.PL	válí	válí	176	NA	NA	NA	hernandez2020san-martin	NA
+20280	dura11	largo.SG	kánì	kánì	177	NA	NA	NA	hernandez2020san-martin	NA
+20281	dura11	largo.PL	nánì	nánì	178	NA	NA	NA	hernandez2020san-martin	NA
+20282	dura11	bueno	và'a	và'a	179	NA	NA	NA	hernandez2020san-martin	NA
+17826	dura11	bueno	ƀàʔā	ƀàʔā	179	NA	NA	NA	josserand1983mixtec	NA
+20283	dura11	dulce	vìshì	vìshì	180	NA	NA	NA	hernandez2020san-martin	NA
+17921	dura11	dulce	ƀiši	ƀiši	180	NA	NA	NA	josserand1983mixtec	NA
+20284	dura11	salado	ò'và	ò'và	181	NA	NA	NA	hernandez2020san-martin	NA
+18035	dura11	salado	ʔuʔwa	ʔuʔwa	181	NA	NA	NA	josserand1983mixtec	NA
+20285	dura11	amargo	òvà	òvà	182	NA	NA	NA	hernandez2020san-martin	NA
+18124	dura11	amargo	ʔua	ʔua	182	NA	NA	NA	josserand1983mixtec	NA
+20286	dura11	sabroso	àsì	àsì	183	NA	NA	NA	hernandez2020san-martin	NA
+18209	dura11	sabroso	ʔasi	ʔasi	183	NA	NA	NA	josserand1983mixtec	NA
+20287	dura11	ancho	ntxíkà	ntxíkà	184	NA	NA	NA	hernandez2020san-martin	NA
+20288	dura11	nuevo	xàá	xàá	185	NA	NA	NA	hernandez2020san-martin	NA
+20289	dura11	flojo	kúshí	kúshí	186	NA	NA	NA	hernandez2020san-martin	NA
+18324	dura11	flojo	ku-šuša̧	ku-šuša̧	186	NA	NA	NA	josserand1983mixtec	NA
+18325	dura11	floja	taža	taža	186	NA	NA	NA	josserand1983mixtec	NA
+20290	dura11	feo	kini	kini	187	NA	NA	NA	hernandez2020san-martin	NA
+18472	dura11	feo	kini̧	kini̧	187	NA	NA	NA	josserand1983mixtec	NA
+20291	dura11	celoso	kuíñú	kuíñú	188	NA	NA	NA	hernandez2020san-martin	NA
+20292	dura11	cerca de, está cerca	yatxi	yatxi	189	NA	NA	NA	hernandez2020san-martin	NA
+18576	dura11	está cerca	žači	žači	189	NA	NA	NA	josserand1983mixtec	NA
+20293	dura11	está lejos, lejos	xíká	xíká	190	NA	NA	NA	hernandez2020san-martin	NA
+20294	dura11	pesado	vèe	vèe	191	NA	NA	NA	hernandez2020san-martin	NA
+18683	dura11	pesado	vee	vee	191	NA	NA	NA	josserand1983mixtec	NA
+20295	dura11	crudo	yí'í	yí'í	192	NA	NA	NA	hernandez2020san-martin	NA
+20296	dura11	liso	ntxi'ví	ntxi'ví	193	NA	NA	NA	hernandez2020san-martin	NA
+18796	dura11	lisa, liso	ⁿčiʔi	ⁿčiʔi	193	NA	NA	NA	josserand1983mixtec	NA
+20297	dura11	despacio	kueé	kueé	194	NA	NA	NA	hernandez2020san-martin	NA
+18913	dura11	despacio	kʷee	kʷee	194	NA	NA	NA	josserand1983mixtec	NA
+20298	dura11	ayer	kuni	kuni	195	NA	NA	NA	hernandez2020san-martin	NA
+19027	dura11	ayer	kuni	kuni	195	NA	NA	NA	josserand1983mixtec	NA
+20299	dura11	año	kuìà	kuìà	196	NA	NA	NA	hernandez2020san-martin	NA
+19142	dura11	año	kʷia	kʷia	196	NA	NA	NA	josserand1983mixtec	NA
+20300	dura11	ahora, hoy	vitxi	vitxi	197	NA	NA	NA	hernandez2020san-martin	NA
+19256	dura11	ahora	ƀiči	ƀiči	197	NA	NA	NA	josserand1983mixtec	NA
+20301	dura11	noche	xìkuaa	xìkuaa	198	NA	NA	NA	hernandez2020san-martin	NA
+20302	dura11	de noche	ñùú	ñùú	199	NA	NA	NA	hernandez2020san-martin	NA
+19348	dura11	toda la noche	ñi̧nu̧-žaa	ñi̧nu̧-žaa	199	NA	NA	NA	josserand1983mixtec	NA
+20303	dura11	día, fecha	kìì	kìì	200	NA	NA	NA	hernandez2020san-martin	NA
+19446	dura11	día	kìvì	kìvì	200	NA	NA	NA	josserand1983mixtec	NA
+20304	dura11	de día	ntiví	ntiví	201	NA	NA	NA	hernandez2020san-martin	NA
+20305	dura11	mitad	sava	sava	202	NA	NA	NA	hernandez2020san-martin	NA
+19569	dura11	mitad	ña̧ʔnu̧	ña̧ʔnu̧	202	NA	NA	NA	josserand1983mixtec	NA
+19568	dura11	mitad	sava	sava	202	NA	NA	NA	josserand1983mixtec	NA
+20306	dura11	dinero	shù'ún	shù'ún	203	NA	NA	NA	hernandez2020san-martin	NA
+20307	dura11	trabajo	chuun	chuun	204	NA	NA	NA	hernandez2020san-martin	NA
+19685	dura11	trabajo	ču̧u̧	ču̧u̧	204	NA	NA	NA	josserand1983mixtec	NA
+20308	dura11	palabra	tù'un	tù'un	205	NA	NA	NA	hernandez2020san-martin	NA
+19808	dura11	palabra	tù̧ʔu̧	tù̧ʔu̧	205	NA	NA	NA	josserand1983mixtec	NA
+20309	dura11	culpa	kuàchi	kuàchi	206	NA	NA	NA	hernandez2020san-martin	NA
+19916	dura11	culpa	kʷàči	kʷàči	206	NA	NA	NA	josserand1983mixtec	NA
+20310	dura11	sueño	mà'ná	mà'ná	207	NA	NA	NA	hernandez2020san-martin	NA
+20311	dura11	cuándo	ñama	ñama	208	NA	NA	NA	hernandez2020san-martin	NA
+20013	dura11	cuándo	ña̧ma̧	ña̧ma̧	208	NA	NA	NA	josserand1983mixtec	NA
+20312	dura11	canción, música	yaa	yaa	209	NA	NA	NA	hernandez2020san-martin	NA

@@ -1,131 +1,131 @@
-ID	DOCULECT	CONCEPT	GLOSS	VALUE	FORM	IDlist	CONCEPTICON_ID	LOAN	LOAN_SOURCE	SOURCE	FLOATTONE
-6390	juxt11	CHILD (DESCENDANT)	hijo/hija	seʔe	seʔe	5	1801	NA	NA	josserand1983mixtec	NA
-6509	juxt11	BROTHER (OF MAN)	hermano de hombre	ña̧ni̧	ña̧ni̧	9	559	NA	NA	josserand1983mixtec	NA
-6626	juxt11	MAN	hombre	tʸaa	tʸaa	13	1554	NA	NA	josserand1983mixtec	NA
-6741	juxt11	OWNER	dueño	stoʔo	stoʔo	15	1036	NA	NA	josserand1983mixtec	NA
-6826	juxt11	OWNER	sacerdote	sutu	sutu	15	1036	NA	NA	josserand1983mixtec	NA
-6923	juxt11	BLOOD	sangre	ni̧i̧	ni̧i̧	17	946	NA	NA	josserand1983mixtec	NA
-7036	juxt11	TOOTH	diente	nu̧ʔu̧	nu̧ʔu̧	22	1380	NA	NA	josserand1983mixtec	NA
-7122	juxt11	MOUTH	boca	žuʔu	žuʔu	23	674	NA	NA	josserand1983mixtec	NA
-7225	juxt11	EAR	oreja	soʔo	soʔo	24	1247	NA	NA	josserand1983mixtec	NA
-7342	juxt11	NOSE	nariz	šiti	šiti	25	1221	NA	NA	josserand1983mixtec	NA
-7457	juxt11	NOSE	cuello	suku	suku	25	1221	NA	NA	josserand1983mixtec	NA
-7572	juxt11	FINGERNAIL	uña	či̧i̧	či̧i̧	28	1258	NA	NA	josserand1983mixtec	NA
-7690	juxt11	INTESTINES	tripas	ṣitʸi	ṣitʸi	31	1991	NA	NA	josserand1983mixtec	NA
-7809	juxt11	FOOT	pie	ṣaʔa	ṣaʔa	32	1301	NA	NA	josserand1983mixtec	NA
-7925	juxt11	DISEASE	enfermedad	kʷeʔe	kʷeʔe	33	1986	NA	NA	josserand1983mixtec	NA
-8036	juxt11	SWELLING	hinchazón	kʷi̧ñu̧	kʷi̧ñu̧	35	1903	NA	NA	josserand1983mixtec	NA
-8134	juxt11	SWELLING	grano	ⁿdʸiʔi	ⁿdʸiʔi	35	1903	NA	NA	josserand1983mixtec	NA
-8250	juxt11	PUS	pus	kjʔna̧	kjʔna̧	37	1808	NA	NA	josserand1983mixtec	NA
-8249	juxt11	PUS	pus	ⁿdakʷa-tʸi-ma̧ʔa̧	ⁿdakʷa-tʸi-ma̧ʔa̧	37	1808	NA	NA	josserand1983mixtec	NA
-8345	juxt11	URINE	orina	lala	lala	38	1142	NA	NA	josserand1983mixtec	NA
-8427	juxt11	SANDAL	huarache	ⁿdiṣa	ⁿdiṣa	40	NA	NA	NA	josserand1983mixtec	NA
-8528	juxt11	TROUSERS	calzón, pantalón	satu	satu	41	809	NA	NA	josserand1983mixtec	NA
-8608	juxt11	BLOUSE (WOVEN)	huipil	šiku	šiku	42	NA	NA	NA	josserand1983mixtec	NA
-8607	juxt11	BLOUSE (WOVEN)	huipil	su̧ʔnu̧	su̧ʔnu̧	42	NA	NA	NA	josserand1983mixtec	NA
-8696	juxt11	TOWN OR VILLAGE	pueblo	ñu̧u̧	ñu̧u̧	43	3609	NA	NA	josserand1983mixtec	NA
-8810	juxt11	HOUSE	casa	weʔe	weʔe	44	1252	NA	NA	josserand1983mixtec	NA
-8915	juxt11	PATH	horcón	siʔi	siʔi	45	2252	NA	NA	josserand1983mixtec	NA
-9015	juxt11	MAT	petate	žuƀi	žuƀi	47	195	NA	NA	josserand1983mixtec	NA
-9135	juxt11	BED	cama	ṣito	ṣito	48	1663	NA	NA	josserand1983mixtec	NA
-9251	juxt11	STOOL	banquito	šila	šila	49	2058	NA	NA	josserand1983mixtec	NA
-9252	juxt11	STOOL	banquito	tʸʰai	tʸʰai	49	2058	NA	NA	josserand1983mixtec	NA
-9373	juxt11	ANIMAL	animal	kitʸi	kitʸi	50	619	NA	NA	josserand1983mixtec	NA
-10137	juxt11	ANIMAL	rata	tʸi̧i̧	tʸi̧i̧	50	619	NA	NA	josserand1983mixtec	NA
-9490	juxt11	BIRD	pájaro	laa	laa	51	937	NA	NA	josserand1983mixtec	NA
-10269	juxt11	BIRD	venado	isu	isu	51	937	NA	NA	josserand1983mixtec	NA
-10385	juxt11	FISH	ardilla	ⁿdʸi-kʷa̧i̧	ⁿdʸi-kʷa̧i̧	52	227	NA	NA	josserand1983mixtec	NA
-9596	juxt11	SNAKE	culebra	koo	koo	53	730	NA	NA	josserand1983mixtec	NA
-9696	juxt11	FROG	rana	laʔƀa	laʔƀa	54	503	NA	NA	josserand1983mixtec	NA
-9829	juxt11	HAWK	gavilán	ši̧ʔa̧	ši̧ʔa̧	55	307	NA	NA	josserand1983mixtec	NA
-9946	juxt11	HAWK	alacrán	ti-su̧ʔma̧	ti-su̧ʔma̧	55	307	NA	NA	josserand1983mixtec	NA
-10031	juxt11	COCKROACH	cucaracha	ⁿdʸi-tʸeʔe	ⁿdʸi-tʸeʔe	57	1575	NA	NA	josserand1983mixtec	NA
-10507	juxt11	BEE	gato	(čitu)	čitu	59	665	NA	NA	josserand1983mixtec	NA
-10628	juxt11	ANT	cuerno	ⁿdʸiki	ⁿdʸiki	75	587	NA	NA	josserand1983mixtec	NA
-10742	juxt11	FEATHER	pluma	tu̧mi̧	tu̧mi̧	77	1201	NA	NA	josserand1983mixtec	NA
-10852	juxt11	WING	ala	ⁿdʸisʸi	ⁿdʸisʸi	78	1257	NA	NA	josserand1983mixtec	NA
-10950	juxt11	TAIL	cola	ⁿdoʔo	ⁿdoʔo	79	1220	NA	NA	josserand1983mixtec	NA
-11071	juxt11	TREE	árbol	žutu	žutu	80	906	NA	NA	josserand1983mixtec	NA
-11183	juxt11	HERBACEOUS PLANT	hierba	žuku	žuku	81	NA	NA	NA	josserand1983mixtec	NA
-11289	juxt11	MAGUEY	maguey	žaƀi	žaƀi	84	NA	NA	NA	josserand1983mixtec	NA
-11408	juxt11	CORN	maíz	nu̧ni̧	nu̧ni̧	87	506	NA	NA	josserand1983mixtec	NA
-11530	juxt11	CORN FIELD	milpa	itu	itu	88	449	NA	NA	josserand1983mixtec	NA
-11644	juxt11	CORN DOUGH	masa	žusa	žusa	91	NA	NA	NA	josserand1983mixtec	NA
-11766	juxt11	TORTILLA	tortilla	šita	šita	92	NA	NA	NA	josserand1983mixtec	NA
-11879	juxt11	CORN STALK	rastrojo	ña̧ma̧	ña̧ma̧	93	NA	NA	NA	josserand1983mixtec	NA
-11964	juxt11	FURROW	surco	žuku	žuku	94	1794	NA	NA	josserand1983mixtec	NA
-12051	juxt11	TASSEL	espiga	žoko	žoko	95	NA	NA	NA	josserand1983mixtec	NA
-12148	juxt11	TASSEL	frijol(es)	ⁿduči	ⁿduči	95	NA	NA	NA	josserand1983mixtec	NA
-12254	juxt11	GREEN BEAN	ejote	ⁿdiči	ⁿdiči	97	NA	NA	NA	josserand1983mixtec	NA
-12351	juxt11	SALT	sal	ñi̧i̧	ñi̧i̧	99	1274	NA	NA	josserand1983mixtec	NA
-12466	juxt11	PUMPKIN	calabaza	žiki	žiki	100	864	NA	NA	josserand1983mixtec	NA
-12582	juxt11	SUGAR CANE	caña	ⁿdoo	ⁿdoo	102	146	NA	NA	josserand1983mixtec	NA
-12696	juxt11	HONEY	miel	ⁿduši	ⁿduši	103	942	NA	NA	josserand1983mixtec	NA
-12820	juxt11	EGG	blanquillo, huevo	ⁿdʸiƀi	ⁿdʸiƀi	105	744	NA	NA	josserand1983mixtec	NA
-12930	juxt11	EGG	jitomate	tʸi-na̧na̧	tʸi-na̧na̧	105	744	NA	NA	josserand1983mixtec	NA
-13016	juxt11	PRICKLY PEAR CACTUS	nopal	ƀi̧ʔⁿdʸa	ƀi̧ʔⁿdʸa	110	NA	NA	NA	josserand1983mixtec	NA
-13100	juxt11	MAMEY	mamey	ⁿdika-sʸaʔa	ⁿdika-sʸaʔa	111	NA	NA	NA	josserand1983mixtec	NA
-13198	juxt11	MEAT	carne	ku̧ñu̧	ku̧ñu̧	114	634	NA	NA	josserand1983mixtec	NA
-13316	juxt11	GRIDDLE	comal	sʸoo	sʸoo	115	NA	NA	NA	josserand1983mixtec	NA
-13428	juxt11	GRIDDLE	olla	kisi	kisi	115	NA	NA	NA	josserand1983mixtec	NA
-13519	juxt11	OVEN	barbacoa	šitu	šitu	117	1143	NA	NA	josserand1983mixtec	NA
-13632	juxt11	FIRE	lumbre	ñu̧ʔu̧	ñu̧ʔu̧	118	221	NA	NA	josserand1983mixtec	NA
-13748	juxt11	SMOKE (EXHAUST)	humo	ñu̧ʔma̧	ñu̧ʔma̧	121	778	NA	NA	josserand1983mixtec	NA
-13864	juxt11	GARBAGE	basura	mi̧ʔi̧	mi̧ʔi̧	122	909	NA	NA	josserand1983mixtec	NA
-13966	juxt11	GOURD BOWL	jícara	yas̯i	yas̯i	124	NA	NA	NA	josserand1983mixtec	NA
-13967	juxt11	GOURD BOWL	jícara	žas̯i	žas̯i	124	NA	NA	NA	josserand1983mixtec	NA
-14083	juxt11	BASKET	cajón	šatu	šatu	125	1539	NA	NA	josserand1983mixtec	NA
-14192	juxt11	THREAD	hilo	žuʔƀa	žuʔƀa	127	1161	NA	NA	josserand1983mixtec	NA
-14300	juxt11	COMB	peine	kʷìkà	kʷìkà	128	1475	NA	NA	josserand1983mixtec	NA
-14377	juxt11	HOLE	agujero	žaƀi	žaƀi	130	1667	NA	NA	josserand1983mixtec	NA
-14464	juxt11	NET	red	ñu̧nu̧	ñu̧nu̧	131	2963	NA	NA	josserand1983mixtec	NA
-14589	juxt11	WATER	agua	tʸi-kʷii	tʸi-kʷii	137	948	NA	NA	josserand1983mixtec	NA
-14715	juxt11	RAIN (PRECIPITATION)	lluvia	saƀi	saƀi	138	658	NA	NA	josserand1983mixtec	NA
-14838	juxt11	RIVER	río	žutʸa	žutʸa	139	666	NA	NA	josserand1983mixtec	NA
-14949	juxt11	DEW	rocío	žužu	žužu	140	1977	NA	NA	josserand1983mixtec	NA
-15052	juxt11	MOUNTAIN OR HILL	cerro	žuku	žuku	141	2118	NA	NA	josserand1983mixtec	NA
-15175	juxt11	PLAIN	llano	nu̧-ⁿdaa	nu̧-ⁿdaa	142	652	NA	NA	josserand1983mixtec	NA
-15301	juxt11	STONE OR ROCK	piedra	žuu	žuu	143	2125	NA	NA	josserand1983mixtec	NA
-15420	juxt11	COTTON	algodón	kači	kači	144	1850	NA	NA	josserand1983mixtec	NA
-15521	juxt11	METAL	fierro	tu̧ni̧	tu̧ni̧	145	2244	NA	NA	josserand1983mixtec	NA
-15615	juxt11	BEESWAX	cera	ñu̧ma̧	ñu̧ma̧	148	1931	NA	NA	josserand1983mixtec	NA
-15740	juxt11	MUD	lodo	ⁿdʸeʔi	ⁿdʸeʔi	149	640	NA	NA	josserand1983mixtec	NA
-15856	juxt11	FOAM	espuma	či-ki̧ñu̧	či-ki̧ñu̧	150	1768	NA	NA	josserand1983mixtec	NA
-16450	juxt11	FOAM	cuatro	ku̧mi̧	ku̧mi̧	150	1768	NA	NA	josserand1983mixtec	NA
-16573	juxt11	DUST	cinco	u̧ʔu̧	u̧ʔu̧	151	2	NA	NA	josserand1983mixtec	NA
-15976	juxt11	RED	rojo	kʷaʔa	kʷaʔa	152	156	NA	NA	josserand1983mixtec	NA
-16692	juxt11	RED	seis	i̧ñu̧	i̧ñu̧	152	156	NA	NA	josserand1983mixtec	NA
-16808	juxt11	GREEN	siete	uš̭a	uš̭a	153	1425	NA	NA	josserand1983mixtec	NA
-16092	juxt11	YELLOW	amarillo	kʷa̧a̧	kʷa̧a̧	154	1424	NA	NA	josserand1983mixtec	NA
-16926	juxt11	YELLOW	ocho	u̧na̧	u̧na̧	154	1424	NA	NA	josserand1983mixtec	NA
-17040	juxt11	BLACK	diez	uṣi	uṣi	155	163	NA	NA	josserand1983mixtec	NA
-17156	juxt11	ONE	quince	ṣa̧ʔu̧	ṣa̧ʔu̧	157	1493	NA	NA	josserand1983mixtec	NA
-16209	juxt11	TWO	dos	uƀi	uƀi	158	1498	NA	NA	josserand1983mixtec	NA
-16331	juxt11	THREE	tres	u̧ni̧	u̧ni̧	159	492	NA	NA	josserand1983mixtec	NA
-17275	juxt11	THREE	pobre	ⁿdaʔƀi	ⁿdaʔƀi	159	492	NA	NA	josserand1983mixtec	NA
-17391	juxt11	COLD	frío	ƀiṣi	ƀiṣi	171	1287	NA	NA	josserand1983mixtec	NA
-17502	juxt11	HOT	caliente	i̧ʔni̧	i̧ʔni̧	172	1286	NA	NA	josserand1983mixtec	NA
-17602	juxt11	BIG (SINGULAR)	grande (sg.)	kaʔnu̧	kaʔnu̧	173	NA	NA	NA	josserand1983mixtec	NA
-17724	juxt11	SMALL (SINGULAR)	chico	luu	luu	175	NA	NA	NA	josserand1983mixtec	NA
-17841	juxt11	GOOD	bueno	ƀaʔa	ƀaʔa	179	1035	NA	NA	josserand1983mixtec	NA
-17939	juxt11	SWEET	dulce	ƀiši	ƀiši	180	717	NA	NA	josserand1983mixtec	NA
-18050	juxt11	SALTY	salado	uʔƀa	uʔƀa	181	1091	NA	NA	josserand1983mixtec	NA
-18139	juxt11	BITTER	amargo	uƀa	uƀa	182	887	NA	NA	josserand1983mixtec	NA
-18222	juxt11	TASTY	sabroso	asi	asi	183	1813	NA	NA	josserand1983mixtec	NA
-18356	juxt11	NEW	flojo	kuši	kuši	185	1231	NA	NA	josserand1983mixtec	NA
-18357	juxt11	NEW	floja	taža	taža	185	1231	NA	NA	josserand1983mixtec	NA
-18488	juxt11	UGLY	feo	kini̧	kini̧	187	1548	NA	NA	josserand1983mixtec	NA
-18592	juxt11	NEAR	está cerca	žatʸi	žatʸi	189	1942	NA	NA	josserand1983mixtec	NA
-18701	juxt11	HEAVY	pesado	ƀee	ƀee	191	1210	NA	NA	josserand1983mixtec	NA
-18818	juxt11	SMOOTH	lisa, liso	ⁿdiʔƀi	ⁿdiʔƀi	193	1234	NA	NA	josserand1983mixtec	NA
-18931	juxt11	SLOW	despacio	kʷee	kʷee	194	701	NA	NA	josserand1983mixtec	NA
-19045	juxt11	YESTERDAY	ayer	iku	iku	195	1174	NA	NA	josserand1983mixtec	NA
-19160	juxt11	YESTERDAY	año	kʷia	kʷia	195	1174	NA	NA	josserand1983mixtec	NA
-19273	juxt11	NOW OR TODAY	ahora	ƀitʸi	ƀitʸi	197	2097	NA	NA	josserand1983mixtec	NA
-19363	juxt11	NIGHT TIME	toda la noche	ni̧ñu̧	ni̧ñu̧	199	NA	NA	NA	josserand1983mixtec	NA
-19466	juxt11	DAY (24 HOURS)	día	kiƀi	kiƀi	200	1260	NA	NA	josserand1983mixtec	NA
-19588	juxt11	HALF	mitad	sawa	sawa	202	816	NA	NA	josserand1983mixtec	NA
-19703	juxt11	WORKING OR WORK	trabajo	ču̧u̧	ču̧u̧	204	2281	NA	NA	josserand1983mixtec	NA
-19826	juxt11	WORD	palabra	tu̧ʔu̧	tu̧ʔu̧	205	1599	NA	NA	josserand1983mixtec	NA
-19931	juxt11	WORD	culpa	kʷači	kʷači	205	1599	NA	NA	josserand1983mixtec	NA
-20033	juxt11	WHEN	cuándo	ña̧ma̧	ña̧ma̧	208	1238	NA	NA	josserand1983mixtec	NA
+ID	DOCULECT	GLOSS	VALUE	FORM	IDlist	NOTES	LOAN	LOAN_SOURCE	SOURCE	FLOATTONE
+6390	juxt11	hijo/hija	seʔe	seʔe	5	NA	NA	NA	josserand1983mixtec	NA
+6509	juxt11	hermano de hombre	ña̧ni̧	ña̧ni̧	9	NA	NA	NA	josserand1983mixtec	NA
+6626	juxt11	hombre	tʸaa	tʸaa	13	NA	NA	NA	josserand1983mixtec	NA
+6741	juxt11	dueño	stoʔo	stoʔo	15	NA	NA	NA	josserand1983mixtec	NA
+6826	juxt11	sacerdote	sutu	sutu	16	NA	NA	NA	josserand1983mixtec	NA
+6923	juxt11	sangre	ni̧i̧	ni̧i̧	17	NA	NA	NA	josserand1983mixtec	NA
+7036	juxt11	diente	nu̧ʔu̧	nu̧ʔu̧	22	NA	NA	NA	josserand1983mixtec	NA
+7122	juxt11	boca	žuʔu	žuʔu	23	NA	NA	NA	josserand1983mixtec	NA
+7225	juxt11	oreja	soʔo	soʔo	24	NA	NA	NA	josserand1983mixtec	NA
+7342	juxt11	nariz	šiti	šiti	25	NA	NA	NA	josserand1983mixtec	NA
+7457	juxt11	cuello	suku	suku	26	NA	NA	NA	josserand1983mixtec	NA
+7572	juxt11	uña	či̧i̧	či̧i̧	28	NA	NA	NA	josserand1983mixtec	NA
+7690	juxt11	tripas	ṣitʸi	ṣitʸi	31	NA	NA	NA	josserand1983mixtec	NA
+7809	juxt11	pie	ṣaʔa	ṣaʔa	32	NA	NA	NA	josserand1983mixtec	NA
+7925	juxt11	enfermedad	kʷeʔe	kʷeʔe	33	NA	NA	NA	josserand1983mixtec	NA
+8036	juxt11	hinchazón	kʷi̧ñu̧	kʷi̧ñu̧	35	NA	NA	NA	josserand1983mixtec	NA
+8134	juxt11	grano	ⁿdʸiʔi	ⁿdʸiʔi	36	NA	NA	NA	josserand1983mixtec	NA
+8250	juxt11	pus	kjʔna̧	kjʔna̧	37	NA	NA	NA	josserand1983mixtec	NA
+8249	juxt11	pus	ⁿdakʷa-tʸi-ma̧ʔa̧	ⁿdakʷa-tʸi-ma̧ʔa̧	37	NA	NA	NA	josserand1983mixtec	NA
+8345	juxt11	orina	lala	lala	38	NA	NA	NA	josserand1983mixtec	NA
+8427	juxt11	huarache	ⁿdiṣa	ⁿdiṣa	40	NA	NA	NA	josserand1983mixtec	NA
+8528	juxt11	calzón, pantalón	satu	satu	41	NA	NA	NA	josserand1983mixtec	NA
+8608	juxt11	huipil	šiku	šiku	42	NA	NA	NA	josserand1983mixtec	NA
+8607	juxt11	huipil	su̧ʔnu̧	su̧ʔnu̧	42	NA	NA	NA	josserand1983mixtec	NA
+8696	juxt11	pueblo	ñu̧u̧	ñu̧u̧	43	NA	NA	NA	josserand1983mixtec	NA
+8810	juxt11	casa	weʔe	weʔe	44	NA	NA	NA	josserand1983mixtec	NA
+8915	juxt11	horcón	siʔi	siʔi	46	NA	NA	NA	josserand1983mixtec	NA
+9015	juxt11	petate	žuƀi	žuƀi	47	NA	NA	NA	josserand1983mixtec	NA
+9135	juxt11	cama	ṣito	ṣito	48	NA	NA	NA	josserand1983mixtec	NA
+9251	juxt11	banquito	šila	šila	49	NA	NA	NA	josserand1983mixtec	NA
+9252	juxt11	banquito	tʸʰai	tʸʰai	49	NA	NA	NA	josserand1983mixtec	NA
+9373	juxt11	animal	kitʸi	kitʸi	50	NA	NA	NA	josserand1983mixtec	NA
+9490	juxt11	pájaro	laa	laa	51	NA	NA	NA	josserand1983mixtec	NA
+9596	juxt11	culebra	koo	koo	53	NA	NA	NA	josserand1983mixtec	NA
+9696	juxt11	rana	laʔƀa	laʔƀa	54	NA	NA	NA	josserand1983mixtec	NA
+9829	juxt11	gavilán	ši̧ʔa̧	ši̧ʔa̧	55	NA	NA	NA	josserand1983mixtec	NA
+9946	juxt11	alacrán	ti-su̧ʔma̧	ti-su̧ʔma̧	56	NA	NA	NA	josserand1983mixtec	NA
+10031	juxt11	cucaracha	ⁿdʸi-tʸeʔe	ⁿdʸi-tʸeʔe	57	NA	NA	NA	josserand1983mixtec	NA
+10137	juxt11	rata	tʸi̧i̧	tʸi̧i̧	60	NA	NA	NA	josserand1983mixtec	NA
+10269	juxt11	venado	isu	isu	61	NA	NA	NA	josserand1983mixtec	NA
+10385	juxt11	ardilla	ⁿdʸi-kʷa̧i̧	ⁿdʸi-kʷa̧i̧	62	NA	NA	NA	josserand1983mixtec	NA
+10507	juxt11	gato	(čitu)	čitu	69	NA	NA	NA	josserand1983mixtec	NA
+10628	juxt11	cuerno	ⁿdʸiki	ⁿdʸiki	76	NA	NA	NA	josserand1983mixtec	NA
+10742	juxt11	pluma	tu̧mi̧	tu̧mi̧	77	NA	NA	NA	josserand1983mixtec	NA
+10852	juxt11	ala	ⁿdʸisʸi	ⁿdʸisʸi	78	NA	NA	NA	josserand1983mixtec	NA
+10950	juxt11	cola	ⁿdoʔo	ⁿdoʔo	79	NA	NA	NA	josserand1983mixtec	NA
+11071	juxt11	árbol	žutu	žutu	80	NA	NA	NA	josserand1983mixtec	NA
+11183	juxt11	hierba	žuku	žuku	81	NA	NA	NA	josserand1983mixtec	NA
+11289	juxt11	maguey	žaƀi	žaƀi	84	NA	NA	NA	josserand1983mixtec	NA
+11408	juxt11	maíz	nu̧ni̧	nu̧ni̧	87	NA	NA	NA	josserand1983mixtec	NA
+11530	juxt11	milpa	itu	itu	88	NA	NA	NA	josserand1983mixtec	NA
+11644	juxt11	masa	žusa	žusa	91	NA	NA	NA	josserand1983mixtec	NA
+11766	juxt11	tortilla	šita	šita	92	NA	NA	NA	josserand1983mixtec	NA
+11879	juxt11	rastrojo	ña̧ma̧	ña̧ma̧	93	NA	NA	NA	josserand1983mixtec	NA
+11964	juxt11	surco	žuku	žuku	94	NA	NA	NA	josserand1983mixtec	NA
+12051	juxt11	espiga	žoko	žoko	95	NA	NA	NA	josserand1983mixtec	NA
+12148	juxt11	frijol(es)	ⁿduči	ⁿduči	96	NA	NA	NA	josserand1983mixtec	NA
+12254	juxt11	ejote	ⁿdiči	ⁿdiči	97	NA	NA	NA	josserand1983mixtec	NA
+12351	juxt11	sal	ñi̧i̧	ñi̧i̧	99	NA	NA	NA	josserand1983mixtec	NA
+12466	juxt11	calabaza	žiki	žiki	100	NA	NA	NA	josserand1983mixtec	NA
+12582	juxt11	caña	ⁿdoo	ⁿdoo	102	NA	NA	NA	josserand1983mixtec	NA
+12696	juxt11	miel	ⁿduši	ⁿduši	103	NA	NA	NA	josserand1983mixtec	NA
+12820	juxt11	blanquillo, huevo	ⁿdʸiƀi	ⁿdʸiƀi	105	NA	NA	NA	josserand1983mixtec	NA
+12930	juxt11	jitomate	tʸi-na̧na̧	tʸi-na̧na̧	106	NA	NA	NA	josserand1983mixtec	NA
+13016	juxt11	nopal	ƀi̧ʔⁿdʸa	ƀi̧ʔⁿdʸa	110	NA	NA	NA	josserand1983mixtec	NA
+13100	juxt11	mamey	ⁿdika-sʸaʔa	ⁿdika-sʸaʔa	111	NA	NA	NA	josserand1983mixtec	NA
+13198	juxt11	carne	ku̧ñu̧	ku̧ñu̧	114	NA	NA	NA	josserand1983mixtec	NA
+13316	juxt11	comal	sʸoo	sʸoo	115	NA	NA	NA	josserand1983mixtec	NA
+13428	juxt11	olla	kisi	kisi	116	NA	NA	NA	josserand1983mixtec	NA
+13519	juxt11	barbacoa	šitu	šitu	117	NA	NA	NA	josserand1983mixtec	NA
+13632	juxt11	lumbre	ñu̧ʔu̧	ñu̧ʔu̧	118	NA	NA	NA	josserand1983mixtec	NA
+13748	juxt11	humo	ñu̧ʔma̧	ñu̧ʔma̧	121	NA	NA	NA	josserand1983mixtec	NA
+13864	juxt11	basura	mi̧ʔi̧	mi̧ʔi̧	122	NA	NA	NA	josserand1983mixtec	NA
+13966	juxt11	jícara	yas̯i	yas̯i	124	NA	NA	NA	josserand1983mixtec	NA
+13967	juxt11	jícara	žas̯i	žas̯i	124	NA	NA	NA	josserand1983mixtec	NA
+14083	juxt11	cajón	šatu	šatu	126	NA	NA	NA	josserand1983mixtec	NA
+14192	juxt11	hilo	žuʔƀa	žuʔƀa	127	NA	NA	NA	josserand1983mixtec	NA
+14300	juxt11	peine	kʷìkà	kʷìkà	128	NA	NA	NA	josserand1983mixtec	NA
+14377	juxt11	agujero	žaƀi	žaƀi	130	NA	NA	NA	josserand1983mixtec	NA
+14464	juxt11	red	ñu̧nu̧	ñu̧nu̧	131	NA	NA	NA	josserand1983mixtec	NA
+14589	juxt11	agua	tʸi-kʷii	tʸi-kʷii	137	NA	NA	NA	josserand1983mixtec	NA
+14715	juxt11	lluvia	saƀi	saƀi	138	NA	NA	NA	josserand1983mixtec	NA
+14838	juxt11	río	žutʸa	žutʸa	139	NA	NA	NA	josserand1983mixtec	NA
+14949	juxt11	rocío	žužu	žužu	140	NA	NA	NA	josserand1983mixtec	NA
+15052	juxt11	cerro	žuku	žuku	141	NA	NA	NA	josserand1983mixtec	NA
+15175	juxt11	llano	nu̧-ⁿdaa	nu̧-ⁿdaa	142	NA	NA	NA	josserand1983mixtec	NA
+15301	juxt11	piedra	žuu	žuu	143	NA	NA	NA	josserand1983mixtec	NA
+15420	juxt11	algodón	kači	kači	144	NA	NA	NA	josserand1983mixtec	NA
+15521	juxt11	fierro	tu̧ni̧	tu̧ni̧	145	NA	NA	NA	josserand1983mixtec	NA
+15615	juxt11	cera	ñu̧ma̧	ñu̧ma̧	148	NA	NA	NA	josserand1983mixtec	NA
+15740	juxt11	lodo	ⁿdʸeʔi	ⁿdʸeʔi	149	NA	NA	NA	josserand1983mixtec	NA
+15856	juxt11	espuma	či-ki̧ñu̧	či-ki̧ñu̧	150	NA	NA	NA	josserand1983mixtec	NA
+15976	juxt11	rojo	kʷaʔa	kʷaʔa	152	NA	NA	NA	josserand1983mixtec	NA
+16092	juxt11	amarillo	kʷa̧a̧	kʷa̧a̧	154	NA	NA	NA	josserand1983mixtec	NA
+16209	juxt11	dos	uƀi	uƀi	158	NA	NA	NA	josserand1983mixtec	NA
+16331	juxt11	tres	u̧ni̧	u̧ni̧	159	NA	NA	NA	josserand1983mixtec	NA
+16450	juxt11	cuatro	ku̧mi̧	ku̧mi̧	160	NA	NA	NA	josserand1983mixtec	NA
+16573	juxt11	cinco	u̧ʔu̧	u̧ʔu̧	161	NA	NA	NA	josserand1983mixtec	NA
+16692	juxt11	seis	i̧ñu̧	i̧ñu̧	162	NA	NA	NA	josserand1983mixtec	NA
+16808	juxt11	siete	uš̭a	uš̭a	163	NA	NA	NA	josserand1983mixtec	NA
+16926	juxt11	ocho	u̧na̧	u̧na̧	164	NA	NA	NA	josserand1983mixtec	NA
+17040	juxt11	diez	uṣi	uṣi	166	NA	NA	NA	josserand1983mixtec	NA
+17156	juxt11	quince	ṣa̧ʔu̧	ṣa̧ʔu̧	167	NA	NA	NA	josserand1983mixtec	NA
+17275	juxt11	pobre	ⁿdaʔƀi	ⁿdaʔƀi	169	NA	NA	NA	josserand1983mixtec	NA
+17391	juxt11	frío	ƀiṣi	ƀiṣi	171	NA	NA	NA	josserand1983mixtec	NA
+17502	juxt11	caliente	i̧ʔni̧	i̧ʔni̧	172	NA	NA	NA	josserand1983mixtec	NA
+17602	juxt11	grande (sg.)	kaʔnu̧	kaʔnu̧	173	NA	NA	NA	josserand1983mixtec	NA
+17724	juxt11	chico	luu	luu	175	NA	NA	NA	josserand1983mixtec	NA
+17841	juxt11	bueno	ƀaʔa	ƀaʔa	179	NA	NA	NA	josserand1983mixtec	NA
+17939	juxt11	dulce	ƀiši	ƀiši	180	NA	NA	NA	josserand1983mixtec	NA
+18050	juxt11	salado	uʔƀa	uʔƀa	181	NA	NA	NA	josserand1983mixtec	NA
+18139	juxt11	amargo	uƀa	uƀa	182	NA	NA	NA	josserand1983mixtec	NA
+18222	juxt11	sabroso	asi	asi	183	NA	NA	NA	josserand1983mixtec	NA
+18356	juxt11	flojo	kuši	kuši	186	NA	NA	NA	josserand1983mixtec	NA
+18357	juxt11	floja	taža	taža	186	NA	NA	NA	josserand1983mixtec	NA
+18488	juxt11	feo	kini̧	kini̧	187	NA	NA	NA	josserand1983mixtec	NA
+18592	juxt11	está cerca	žatʸi	žatʸi	189	NA	NA	NA	josserand1983mixtec	NA
+18701	juxt11	pesado	ƀee	ƀee	191	NA	NA	NA	josserand1983mixtec	NA
+18818	juxt11	lisa, liso	ⁿdiʔƀi	ⁿdiʔƀi	193	NA	NA	NA	josserand1983mixtec	NA
+18931	juxt11	despacio	kʷee	kʷee	194	NA	NA	NA	josserand1983mixtec	NA
+19045	juxt11	ayer	iku	iku	195	NA	NA	NA	josserand1983mixtec	NA
+19160	juxt11	año	kʷia	kʷia	196	NA	NA	NA	josserand1983mixtec	NA
+19273	juxt11	ahora	ƀitʸi	ƀitʸi	197	NA	NA	NA	josserand1983mixtec	NA
+19363	juxt11	toda la noche	ni̧ñu̧	ni̧ñu̧	199	NA	NA	NA	josserand1983mixtec	NA
+19466	juxt11	día	kiƀi	kiƀi	200	NA	NA	NA	josserand1983mixtec	NA
+19588	juxt11	mitad	sawa	sawa	202	NA	NA	NA	josserand1983mixtec	NA
+19703	juxt11	trabajo	ču̧u̧	ču̧u̧	204	NA	NA	NA	josserand1983mixtec	NA
+19826	juxt11	palabra	tu̧ʔu̧	tu̧ʔu̧	205	NA	NA	NA	josserand1983mixtec	NA
+19931	juxt11	culpa	kʷači	kʷači	206	NA	NA	NA	josserand1983mixtec	NA
+20033	juxt11	cuándo	ña̧ma̧	ña̧ma̧	208	NA	NA	NA	josserand1983mixtec	NA

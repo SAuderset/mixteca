@@ -2,24 +2,24 @@
 
 library(tidyverse)
 library(stringi)
+library(here)
 
-# read in word list
 
-setwd("/Users/auderset/Documents/GitHub/mixteca/ComparativeList/LISTS")
-
-# read in all files (delete template file and all unfinished ones first)
-wl <- list.files(pattern = "*_*.csv") %>% map_df(~read_delim(., "\t"))
+# read in all files (except template file)
+# won't work without full.names = TRUE!
+wl <- map_dfr(list.files(path = "./LISTS", pattern = "*\\d\\d_*.csv", full.names = TRUE), read_tsv)
 head(wl)
 glimpse(wl)
-
 
 # restructure, delete rows with NA
 wl1 <- wl %>% select(ID, DOCULECT, GLOSS, VALUE, FORM, IDlist, NOTES, LOAN, LOAN_SOURCE, SOURCE) %>%
   filter(VALUE!="$")
 glimpse(wl1)
 
+unique(wl1$SOURCE)
+
 # subset with just loanwords for meeting
-loans <- wl1 %>% filter(!is.na(LOAN)) %>% distinct()
+loans <- wl1 %>% filter(!is.na(LOAN))
 write_csv(loans, "loanwords.csv")
 
 
@@ -39,6 +39,7 @@ sm <- wl1 %>% filter(SOURCE=="swanton2020observaciones") %>%
   separate(VALUE, into = c("VALUE", "FLOATTONE"), sep = "(?=\\+)") %>%
   mutate(FLOATTONE = trimws(FLOATTONE))
 glimpse(sm)
+
 
 # add column to main df, paste two other dfs back
 wl1.sub <- wl1 %>% filter(SOURCE!="swanton2020observaciones") %>% filter(SOURCE!="hollenbach2017diccionario") %>% filter(SOURCE!="alexander1980gramatica") %>% mutate(FLOATTONE=NA)
@@ -64,7 +65,7 @@ wl3 <- wl2 %>% mutate(VALUE = stri_trans_nfc(VALUE)) %>%
 # attention: do not lowercase everything! in Josserand the upper case is used for voiceless segments!
 # all spaces to -, otherwise really weird stuff shows up in the orthography profile
 wl3 <- wl3 %>% mutate(FORM = stri_trans_nfc(wl3$FORM)) %>%
-  mutate(FORM = if_else(stri_detect_regex(FORM, "^[A-Z]"), stri_trans_tolower(FORM), stri_trans_nfc(FORM))) %>% mutate(FORM = str_replace_all(FORM, fixed(" "), "-"))
+  mutate(FORM = if_else(stri_detect_regex(FORM, "^[[:upper:]]"), stri_trans_tolower(FORM), stri_trans_nfc(FORM))) %>% mutate(FORM = str_replace_all(FORM, fixed(" "), "-"))
 # rearrange columns
 wl3 <- select(wl3, ID, DOCULECT, GLOSS:IDlist, LOAN:FLOATTONE)
 glimpse(wl3)

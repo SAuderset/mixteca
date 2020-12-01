@@ -1,204 +1,204 @@
-ID	DOCULECT	CONCEPT	GLOSS	VALUE	FORM	IDlist	CONCEPTICON_ID	LOAN	LOAN_SOURCE	SOURCE	FLOATTONE
-2965	pied12	FATHER	padre, papá	tájtě	tájtě	3	1217	NA	NA	oxnard2020	NA
-2970	pied12	CHILD (DESCENDANT)	hijo/hija	sè'e	sè'e	5	1801	NA	NA	oxnard2020	NA
-2975	pied12	CROSS-SEX SIBLING	hermana/hermano de otro genero	kò'va	kò'va	8	NA	NA	NA	oxnard2020	NA
-2979	pied12	BROTHER (OF MAN)	hermano de hombre	ñañî	ñañî	9	559	NA	NA	oxnard2020	NA
-2984	pied12	SISTER (OF WOMAN)	hermana de mujer	ku'ù	ku'ù	10	NA	NA	NA	oxnard2020	NA
-2988	pied12	AUNT	tía	xixi	xixi	11	1272	NA	NA	oxnard2020	NA
-2991	pied12	UNCLE	tío	xito	xito	12	1327	NA	NA	oxnard2020	NA
-2995	pied12	MAN	hombre	tsiàja 	tsiàja 	13	1554	NA	NA	oxnard2020	NA
-3003	pied12	OWNER	dueño	xìto'ô	xìto'ô	15	1036	NA	NA	oxnard2020	NA
-3008	pied12	PRIEST	sacerdote	sujtù	sujtù	16	852	NA	NA	oxnard2020	NA
-3013	pied12	BLOOD	sangre	nìjǐ	nìjǐ	17	946	NA	NA	oxnard2020	NA
-3018	pied12	BONE	hueso	ìkin	ìkin	18	1394	NA	NA	oxnard2020	NA
-3023	pied12	HAIR	pelo	ixǐ	ixǐ	19	1040	NA	NA	oxnard2020	NA
-3028	pied12	FACE	cara	nùjǔ	nùjǔ	20	1560	NA	NA	oxnard2020	NA
-3033	pied12	TONGUE	lengua	yajǎ	yajǎ	21	1205	NA	NA	oxnard2020	NA
-3036	pied12	TOOTH	diente	nù'u	nù'u	22	1380	NA	NA	oxnard2020	NA
-3041	pied12	MOUTH	boca	yu'ǔ	yu'ǔ	23	674	NA	NA	oxnard2020	NA
-3046	pied12	EAR	oreja	sò'o	sò'o	24	1247	NA	NA	oxnard2020	NA
-3051	pied12	NOSE	nariz	xitsǐn	xitsǐn	25	1221	NA	NA	oxnard2020	NA
-3056	pied12	NECK	cuello 	sokǔn	sokǔn	26	1333	NA	NA	oxnard2020	NA
-3061	pied12	HAND	mano	nta'ǎ	nta'ǎ	27	1277	NA	NA	oxnard2020	NA
-3066	pied12	FINGERNAIL	uña	chíjǐn	chíjǐn	28	1258	NA	NA	oxnard2020	NA
-3071	pied12	BACK	espalda	sàjtǎ	sàjtǎ	29	1291	NA	NA	oxnard2020	NA
-3076	pied12	BELLY OR STOMACH	estómago	nchìxìn	nchìxìn	30	2114	NA	NA	oxnard2020	NA
-3080	pied12	INTESTINES	tripa	xitsîn	xitsîn	31	1991	NA	NA	oxnard2020	NA
-3085	pied12	FOOT	pie	xà'ǎ	xà'ǎ	32	1301	NA	NA	oxnard2020	NA
-3090	pied12	DISEASE	enfermedad	kuè'è	kuè'è	33	1986	NA	NA	oxnard2020	NA
-3095	pied12	MEDICINE	medicina	tàjtǎn	tàjtǎn	34	1372	NA	NA	oxnard2020	NA
-3098	pied12	SWELLING	hinchazón	kuiñu	kuiñu	35	1903	NA	NA	oxnard2020	NA
-3103	pied12	PIMPLE	grano 	ntsì'i	ntsì'i	36	1809	NA	NA	oxnard2020	NA
-3108	pied12	PUS	pus	ntajkuà	ntajkuà	37	1808	NA	NA	oxnard2020	NA
-3113	pied12	URINE	orina	lǎxa	lǎxa	38	1142	NA	NA	oxnard2020	NA
-3118	pied12	CLOTHES	ropa	tsiǎà	tsiǎà	39	1895	NA	NA	oxnard2020	NA
-3123	pied12	SANDAL	huarache	nchìxǎn 	nchìxǎn 	40	NA	NA	NA	oxnard2020	NA
-3128	pied12	TROUSERS	pantalón	xajtû	xajtû	41	809	NA	NA	oxnard2020	NA
-3135	pied12	TOWN OR VILLAGE	pueblo	ñuù	ñuù	43	3609	NA	NA	oxnard2020	NA
-3140	pied12	HOUSE	casa	ve'e	ve'e	44	1252	NA	NA	oxnard2020	NA
-3145	pied12	PATH	camino	ichǐ	ichǐ	45	2252	NA	NA	oxnard2020	NA
-3150	pied12	POST	horcón	sì'ìn	sì'ìn	46	281	NA	NA	oxnard2020	NA
-3154	pied12	MAT	petate	yivǐ	yivǐ	47	195	NA	NA	oxnard2020	NA
-3159	pied12	BED	cama	xìto	xìto	48	1663	NA	NA	oxnard2020	NA
-3164	pied12	STOOL	silla	tsiáyi	tsiáyi	49	2058	NA	NA	oxnard2020	NA
-3169	pied12	ANIMAL	animal	kitsǐ	kitsǐ	50	619	NA	NA	oxnard2020	NA
-3174	pied12	BIRD	pájaro	saà	saà	51	937	NA	NA	oxnard2020	NA
-3179	pied12	FISH	pescado	tsiàká	tsiàká	52	227	NA	NA	oxnard2020	NA
-3184	pied12	SNAKE	culebra	kòjǒ	kòjǒ	53	730	NA	NA	oxnard2020	NA
-3189	pied12	FROG	rana	sá'và	sá'và	54	503	NA	NA	oxnard2020	NA
-3194	pied12	HAWK	gavilán	xi'ña	xi'ña	55	307	NA	NA	oxnard2020	NA
-3199	pied12	SCORPION	alacrán	tsìso'mà	tsì-so'mà	56	1538	NA	NA	oxnard2020	NA
-3204	pied12	COCKROACH	cucaracha	tsìtsie'é	tsì-tsie'é	57	1575	NA	NA	oxnard2020	NA
-3208	pied12	GRASSHOPPER	chapulín	tsikâ	tsikâ	58	607	NA	NA	oxnard2020	NA
-3213	pied12	BEE	abeja	ñùñǔ	ñùñǔ	59	665	NA	NA	oxnard2020	NA
-3218	pied12	MUROID (MOUSE OR RAT)	ratón	tsìín	tsìín	60	2139	NA	NA	oxnard2020	NA
-3223	pied12	DEER	venado	usû	usû	61	1936	NA	NA	oxnard2020	NA
-3228	pied12	SQUIRREL	ardilla	tsìkuáñu	tsì-kuáñu	62	1628	NA	NA	oxnard2020	NA
-3233	pied12	SKUNK	zorrillo	léló	léló	63	NA	NA	NA	oxnard2020	NA
-3240	pied12	POSSUM	tlacuache	xàko	xàko	64	470	NA	NA	oxnard2020	NA
-3245	pied12	RACCOON	mapache	má'a	má'a	65	828	NA	NA	oxnard2020	NA
-3249	pied12	RABBIT	conejo	leso	leso	66	1136	NA	NA	oxnard2020	NA
-3254	pied12	VULTURE	zopilote	tsìkǒxìjǐ	tsì-kǒxìjǐ	67	1185	NA	NA	oxnard2020	NA
-3259	pied12	DOG	perro	tsìnâ	tsìnâ	68	2009	NA	NA	oxnard2020	NA
-3264	pied12	CAT	gato	chújtu	chújtu	69	1208	NA	NA	oxnard2020	NA
-3271	pied12	ROOSTER	gallo	chéle	chéle	70	1511	NA	NA	oxnard2020	NA
-3276	pied12	HEN	gallina	nchuxí	nchuxí	71	1514	NA	NA	oxnard2020	NA
-3280	pied12	PIG	cerdo	kinì	kinì	72	1337	NA	NA	oxnard2020	NA
-3285	pied12	HORSE	caballo	{kuayì}	kuayì	73	615	yes	Colonial Spanish	oxnard2020	NA
-3290	pied12	SHEEP	borrego	lanchi	lanchi	74	1331	NA	NA	oxnard2020	NA
-3295	pied12	ANT	hormiga	tsiòkó	tsiòkó	75	587	NA	NA	oxnard2020	NA
-3300	pied12	HORN (ANATOMY)	cuerno	ntsikǐn	ntsikǐn	76	1393	NA	NA	oxnard2020	NA
-3305	pied12	FEATHER	pluma	tǒmî	tǒmî	77	1201	NA	NA	oxnard2020	NA
-3310	pied12	WING	ala	nchìxǐn	nchìxǐn	78	1257	NA	NA	oxnard2020	NA
-3315	pied12	TAIL	cola	nto'ǒ	nto'ǒ	79	1220	NA	NA	oxnard2020	NA
-3320	pied12	TREE	árbol	ijtǔ	ijtǔ	80	906	NA	NA	oxnard2020	NA
-3323	pied12	HERBACEOUS PLANT	hierba	yùjkù	yùjkù	81	NA	NA	NA	oxnard2020	NA
-3328	pied12	GRASS	zacate, pasto	ijtsiâ	ijtsiâ	82	606	NA	NA	oxnard2020	NA
-3333	pied12	FLOWER	flor	ijtâ	ijtâ	83	239	NA	NA	oxnard2020	NA
-3338	pied12	MAGUEY	maguey	yavǐ	yavǐ	84	NA	NA	NA	oxnard2020	NA
-3343	pied12	MAGUEY	maguey	tsìkǔxin	tsì-kǔxin	84	NA	NA	NA	oxnard2020	NA
-3346	pied12	ROOT	raíz	tsiò'o	tsiò'o	85	670	NA	NA	oxnard2020	NA
-3351	pied12	THORN	espina, araña	ijñǔ	ijñǔ	86	124	NA	NA	oxnard2020	NA
-3356	pied12	CORN	maíz	nùnǐ	nùnǐ	87	506	NA	NA	oxnard2020	NA
-3361	pied12	CORN FIELD	milpa	utû	utû	88	449	NA	NA	oxnard2020	NA
-3366	pied12	EAR OF CORN (FRESH)	elote (no crudo, para comer)	nchixǐ	nchixǐ	89	NA	NA	NA	oxnard2020	NA
-3371	pied12	NIXTAMAL	nixtamal	xá'a	xá'a	90	NA	NA	NA	oxnard2020	NA
-3375	pied12	CORN DOUGH	masa	ixǎn	ixǎn	91	NA	NA	NA	oxnard2020	NA
-3380	pied12	TORTILLA	tortilla	xìtǎ	xìtǎ	92	NA	NA	NA	oxnard2020	NA
-3385	pied12	CORN STALK	rastrojo	xè'è	xè'è	93	NA	NA	NA	oxnard2020	NA
-3390	pied12	FURROW	surco	í'tsin	í'tsin	94	1794	NA	NA	oxnard2020	NA
-3396	pied12	TASSEL	espiga de milpa	yojkǒ	yojkǒ	95	NA	NA	NA	oxnard2020	NA
-3399	pied12	BEAN	frijol	ntuchǐ	ntuchǐ	96	832	NA	NA	oxnard2020	NA
-3404	pied12	GREEN BEAN	ejote	nchìchî	nchìchî	97	NA	NA	NA	oxnard2020	NA
-3409	pied12	CHILI PEPPER	chile	ya'ǎ	ya'ǎ	98	919	NA	NA	oxnard2020	NA
-3414	pied12	SALT	sal	ìjǐn	ìjǐn	99	1274	NA	NA	oxnard2020	NA
-3419	pied12	PUMPKIN	calabaza	ikǐn	ikǐn	100	864	NA	NA	oxnard2020	NA
-3424	pied12	PUMPKIN	calabaza	kiá'mǐ	kiá'mǐ	100	864	NA	NA	oxnard2020	NA
-3429	pied12	CHAYOTE	chayote	nañǎ	nañǎ	101	NA	NA	NA	oxnard2020	NA
-3434	pied12	SUGAR CANE	caña	ntòjǒ	ntòjǒ	102	146	NA	NA	oxnard2020	NA
-3439	pied12	HONEY	miel	ntǔxi	ntǔxi	103	942	NA	NA	oxnard2020	NA
-3444	pied12	FAT (FROM ANIMALS)	manteca	xǎ'ân	xǎ'ân	104	1282	NA	NA	oxnard2020	NA
-3449	pied12	EGG	huevo	ntsìvǐ	ntsìvǐ	105	744	NA	NA	oxnard2020	NA
-3454	pied12	TOMATO	tomate	tsìnanǎ	tsì-nanǎ	106	986	NA	NA	oxnard2020	NA
-3459	pied12	SWEET POTATO	camote	ña'mǐ	ña'mǐ	107	159	NA	NA	oxnard2020	NA
-3464	pied12	AVOCADO	aguacate	chìjchí	chìjchí	108	3725	NA	NA	oxnard2020	NA
-3469	pied12	BANANA	plátano	ntsijkǎ	ntsijkǎ	109	868	NA	NA	oxnard2020	NA
-3474	pied12	PRICKLY PEAR CACTUS	nopal	vi'ntsiǎ	vi'ntsiǎ	110	NA	NA	NA	oxnard2020	NA
-3479	pied12	MAMEY	mamey	ntsiká kuá'a	ntsiká kuá'a	111	NA	NA	NA	oxnard2020	NA
-3483	pied12	MAMEY	zapote	ntòkǒ	ntòkǒ	111	NA	NA	NA	oxnard2020	NA
-3487	pied12	CUSTARD APPLE	chirimoya	ntokǒ	ntokǒ	112	NA	NA	NA	oxnard2020	NA
-3490	pied12	MUSHROOM	hongo	xi'ǐ	xi'ǐ	113	641	NA	NA	oxnard2020	NA
-3495	pied12	MEAT	carne	koñû	koñû	114	634	NA	NA	oxnard2020	NA
-3500	pied12	GRIDDLE	comal	xìyǒ	xìyǒ	115	NA	NA	NA	oxnard2020	NA
-3504	pied12	COOKING POT	olla	kìsi	kìsi	116	3653	NA	NA	oxnard2020	NA
-3509	pied12	OVEN	horno	xìtùn	xìtùn	117	1143	NA	NA	oxnard2020	NA
-3513	pied12	FIRE	fuego, lumbre	ñu'ù	ñu'ù	118	221	NA	NA	oxnard2020	NA
-3518	pied12	ASH	ceniza	yàjǎ	yàjǎ	119	646	NA	NA	oxnard2020	NA
-3523	pied12	CHARCOAL	carbón	tùún	tùún	120	1188	NA	NA	oxnard2020	NA
-3528	pied12	CHARCOAL	carbón	tsìkàyì	tsìkàyì	120	1188	NA	NA	oxnard2020	NA
-3532	pied12	SMOKE (EXHAUST)	humo	i'màn	i'màn	121	778	NA	NA	oxnard2020	NA
-3537	pied12	GARBAGE	basura	xè'è	xè'è	122	909	NA	NA	oxnard2020	NA
-3542	pied12	GOURD BOWL	jícara	yaxǐn tsié'é	yaxǐn tsié'é	124	NA	NA	NA	oxnard2020	NA
-3547	pied12	BASKET	tenate	ntò'ǒ	ntò'ǒ	125	1539	NA	NA	oxnard2020	NA
-3552	pied12	BASKET	canasta	kanàsta	kanàsta	125	1539	yes	Spanish	oxnard2020	NA
-3555	pied12	THREAD	hilo	yi'và	yi'và	127	1161	NA	NA	oxnard2020	NA
-3560	pied12	COMB	peine	kuijkà	kuijkà	128	1475	NA	NA	oxnard2020	NA
-3565	pied12	ROPE	mecate	yo'ǒ	yo'ǒ	129	1218	NA	NA	oxnard2020	NA
-3570	pied12	HOLE	agujero	yavì	yavì	130	1667	NA	NA	oxnard2020	NA
-3575	pied12	NET	red	yujñǔ	yujñǔ	131	2963	NA	NA	oxnard2020	NA
-3582	pied12	MOON	luna	yòjǒ	yòjǒ	134	1313	NA	NA	oxnard2020	NA
-3587	pied12	CLOUD	nube	vìkǒ	vìkǒ	135	1489	NA	NA	oxnard2020	NA
-3592	pied12	LIGHTNING	relámpago	taxa	taxa	136	1654	NA	NA	oxnard2020	NA
-3596	pied12	LIGHTNING	rayo	taxa	taxa	136	1654	NA	NA	oxnard2020	NA
-3601	pied12	WATER	agua	tsìkuǐi	tsì-kuǐi	137	948	NA	NA	oxnard2020	NA
-3606	pied12	RAIN (PRECIPITATION)	lluvia	sàvǐ	sàvǐ	138	658	NA	NA	oxnard2020	NA
-3611	pied12	RIVER	río	ìtsia	ìtsia	139	666	NA	NA	oxnard2020	NA
-3616	pied12	DEW	rocío	yúyú	yúyú	140	1977	NA	NA	oxnard2020	NA
-3621	pied12	MOUNTAIN OR HILL	cerro	ko'nto	ko'nto	141	2118	NA	NA	oxnard2020	NA
-3626	pied12	PLAIN	llano	yosǒ 	yosǒ 	142	652	NA	NA	oxnard2020	NA
-3631	pied12	STONE OR ROCK	piedra	yùjǔ	yùjǔ	143	2125	NA	NA	oxnard2020	NA
-3636	pied12	COTTON	algodón	kàchǐ	kàchǐ	144	1850	NA	NA	oxnard2020	NA
-3641	pied12	METAL	fierro	kǎà	kǎà	145	2244	NA	NA	oxnard2020	NA
-3646	pied12	PAPER	papel	tujtû	tujtû	146	648	NA	NA	oxnard2020	NA
-3650	pied12	LIME (MATERIAL)	cal	kajkâ	kajkâ	147	2540	NA	NA	oxnard2020	NA
-3655	pied12	BEESWAX	cera	ìmǎ	ìmǎ	148	1931	NA	NA	oxnard2020	NA
-3660	pied12	MUD	lodo	ntsia'yì	ntsia'yì	149	640	NA	NA	oxnard2020	NA
-3665	pied12	FOAM	espuma	chìkìñù	chìkìñù	150	1768	NA	NA	oxnard2020	NA
-3671	pied12	DUST	polvo	yájkǎ	yájkǎ	151	2	NA	NA	oxnard2020	NA
-3676	pied12	RED	rojo	kuá'a	kuá'a	152	156	NA	NA	oxnard2020	NA
-3681	pied12	GREEN	verde	kuijǐ	kuijǐ	153	1425	NA	NA	oxnard2020	NA
-3686	pied12	YELLOW	amarillo	kuáan	kuáan	154	1424	NA	NA	oxnard2020	NA
-3691	pied12	BLACK	negro	tùjǔn	tùjǔn	155	163	NA	NA	oxnard2020	NA
-3696	pied12	BLACK	negro	ntsiayì	ntsiayì	155	163	NA	NA	oxnard2020	NA
-3699	pied12	WHITE	blanco	yaa	yaa	156	1335	NA	NA	oxnard2020	NA
-3704	pied12	ONE	uno	iin	iin	157	1493	NA	NA	oxnard2020	NA
-3709	pied12	TWO	dos	ìvì	ìvì	158	1498	NA	NA	oxnard2020	NA
-3714	pied12	THREE	tres	ònì	ònì	159	492	NA	NA	oxnard2020	NA
-3719	pied12	FOUR	cuatro	kòmǐ	kòmǐ	160	1500	NA	NA	oxnard2020	NA
-3724	pied12	FIVE	cinco	ù'ùn	ù'ùn	161	493	NA	NA	oxnard2020	NA
-3729	pied12	SIX	seis	ìñù	ìñù	162	1703	NA	NA	oxnard2020	NA
-3734	pied12	SEVEN	siete	ùxà	ùxà	163	1704	NA	NA	oxnard2020	NA
-3739	pied12	EIGHT	ocho	ònà	ònà	164	1705	NA	NA	oxnard2020	NA
-3744	pied12	NINE	nueve	ììn	ììn	165	1483	NA	NA	oxnard2020	NA
-3749	pied12	TEN	diez	ùxì	ùxì	166	1515	NA	NA	oxnard2020	NA
-3754	pied12	FIFTEEN	quince	xa'ùn	xa'ùn	167	1709	NA	NA	oxnard2020	NA
-3759	pied12	TWENTY	veinte	òjkò	òjkò	168	1710	NA	NA	oxnard2020	NA
-3763	pied12	POOR	pobre	ntá'vi	ntá'vi	169	1674	NA	NA	oxnard2020	NA
-3768	pied12	RICH	rico 	kuíjka	kuíjka	170	712	NA	NA	oxnard2020	NA
-3773	pied12	COLD	frío	vìxin	vìxin	171	1287	NA	NA	oxnard2020	NA
-3778	pied12	HOT	caliente	i'ní	i'ní	172	1286	NA	NA	oxnard2020	NA
-3783	pied12	BIG (SINGULAR)	grande.SG	ká'nu	ká'nu	173	NA	NA	NA	oxnard2020	NA
-3788	pied12	SMALL (SINGULAR)	pequeño.SG	lo'o	lo'o	175	NA	NA	NA	oxnard2020	NA
-3800	pied12	LARGE (SINGULAR)	largo.SG	kajnǐ	kajnǐ	177	NA	NA	NA	oxnard2020	NA
-3805	pied12	GOOD	bueno	và'a	và'a	179	1035	NA	NA	oxnard2020	NA
-3810	pied12	SWEET	dulce	vìxì	vìxì	180	717	NA	NA	oxnard2020	NA
-3815	pied12	SALTY	salado	ò'và	ò'và	181	1091	NA	NA	oxnard2020	NA
-3820	pied12	BITTER	amargo	òvà	òvà	182	887	NA	NA	oxnard2020	NA
-3824	pied12	BITTER	amargo	ajtu	ajtu	182	887	NA	NA	oxnard2020	NA
-3827	pied12	TASTY	sabroso	àsǐn	àsǐn	183	1813	NA	NA	oxnard2020	NA
-3832	pied12	WIDE	ancho	ntsíjkà	ntsíjkà	184	1243	NA	NA	oxnard2020	NA
-3836	pied12	NEW	nuevo	xàá	xàá	185	1231	NA	NA	oxnard2020	NA
-3841	pied12	LAZY	flojo	xúxan	xúxan	186	1564	NA	NA	oxnard2020	NA
-3846	pied12	UGLY	feo	kini	kini	187	1548	NA	NA	oxnard2020	NA
-3851	pied12	JEALOUS	celoso	kuíñun	kuíñun	188	2821	NA	NA	oxnard2020	NA
-3854	pied12	NEAR	cerca, próximo	yatsin	yatsin	189	1942	NA	NA	oxnard2020	NA
-3859	pied12	FAR	lejos	xìka	xìka	190	1406	NA	NA	oxnard2020	NA
-3862	pied12	HEAVY	pesado	vèje	vèje	191	1210	NA	NA	oxnard2020	NA
-3867	pied12	RAW	crudo	í'i	í'i	192	1959	NA	NA	oxnard2020	NA
-3871	pied12	SMOOTH	liso	kaní	kaní	193	1234	NA	NA	oxnard2020	NA
-3876	pied12	SLOW	despacio	kuée	kuée	194	701	NA	NA	oxnard2020	NA
-3881	pied12	SLOW	despacio	yàà	yàà	194	701	NA	NA	oxnard2020	NA
-3884	pied12	YESTERDAY	ayer	kojni	kojni	195	1174	NA	NA	oxnard2020	NA
-3889	pied12	YEAR	año	kuiyà	kuiyà	196	1226	NA	NA	oxnard2020	NA
-3894	pied12	NOW OR TODAY	ahora, hoy	vitsin	vitsin	197	2097	NA	NA	oxnard2020	NA
-3899	pied12	NIGHT	noche	ñǔu	ñǔu	198	1233	NA	NA	oxnard2020	NA
-3904	pied12	DAY (24 HOURS)	día, fecha	kìjǐ	kìjǐ	200	1260	NA	NA	oxnard2020	NA
-3909	pied12	DAY (NOT NIGHT)	de día	ntiví	ntiví	201	1225	NA	NA	oxnard2020	NA
-3914	pied12	HALF	mitad	mà'ñú	mà'ñú	202	816	NA	NA	oxnard2020	NA
-3919	pied12	MONEY	dinero	xù'ún	xù'ún	203	1559	NA	NA	oxnard2020	NA
-3924	pied12	WORKING OR WORK	trabajo	chiñu	chiñu	204	2281	NA	NA	oxnard2020	NA
-3928	pied12	WORKING OR WORK	trabajo	chuun	chuun	204	2281	NA	NA	oxnard2020	NA
-3931	pied12	WORD	palabra	tù'un	tù'un	205	1599	NA	NA	oxnard2020	NA
-3936	pied12	FAULT	culpa	kuachi	kuachi	206	134	NA	NA	oxnard2020	NA
-3941	pied12	DREAM	sueño	xànì	xànì	207	2374	NA	NA	oxnard2020	NA
-3944	pied12	MUSIC	canción	yaà	yaà	209	642	NA	NA	oxnard2020	NA
+ID	DOCULECT	GLOSS	VALUE	FORM	IDlist	NOTES	LOAN	LOAN_SOURCE	SOURCE	FLOATTONE
+2965	pied12	padre, papá	tájtě	tájtě	3	NA	NA	NA	oxnard2020	NA
+2970	pied12	hijo/hija	sè'e	sè'e	5	NA	NA	NA	oxnard2020	NA
+2975	pied12	hermana/hermano de otro genero	kò'va	kò'va	8	NA	NA	NA	oxnard2020	NA
+2979	pied12	hermano de hombre	ñañî	ñañî	9	NA	NA	NA	oxnard2020	NA
+2984	pied12	hermana de mujer	ku'ù	ku'ù	10	NA	NA	NA	oxnard2020	NA
+2988	pied12	tía	xixi	xixi	11	NA	NA	NA	oxnard2020	NA
+2991	pied12	tío	xito	xito	12	NA	NA	NA	oxnard2020	NA
+2995	pied12	hombre	tsiàja 	tsiàja 	13	NA	NA	NA	oxnard2020	NA
+3003	pied12	dueño	xìto'ô	xìto'ô	15	NA	NA	NA	oxnard2020	NA
+3008	pied12	sacerdote	sujtù	sujtù	16	NA	NA	NA	oxnard2020	NA
+3013	pied12	sangre	nìjǐ	nìjǐ	17	NA	NA	NA	oxnard2020	NA
+3018	pied12	hueso	ìkin	ìkin	18	NA	NA	NA	oxnard2020	NA
+3023	pied12	pelo	ixǐ	ixǐ	19	NA	NA	NA	oxnard2020	NA
+3028	pied12	cara	nùjǔ	nùjǔ	20	NA	NA	NA	oxnard2020	NA
+3033	pied12	lengua	yajǎ	yajǎ	21	NA	NA	NA	oxnard2020	NA
+3036	pied12	diente	nù'u	nù'u	22	NA	NA	NA	oxnard2020	NA
+3041	pied12	boca	yu'ǔ	yu'ǔ	23	NA	NA	NA	oxnard2020	NA
+3046	pied12	oreja	sò'o	sò'o	24	NA	NA	NA	oxnard2020	NA
+3051	pied12	nariz	xitsǐn	xitsǐn	25	NA	NA	NA	oxnard2020	NA
+3056	pied12	cuello 	sokǔn	sokǔn	26	NA	NA	NA	oxnard2020	NA
+3061	pied12	mano	nta'ǎ	nta'ǎ	27	NA	NA	NA	oxnard2020	NA
+3066	pied12	uña	chíjǐn	chíjǐn	28	NA	NA	NA	oxnard2020	NA
+3071	pied12	espalda	sàjtǎ	sàjtǎ	29	NA	NA	NA	oxnard2020	NA
+3076	pied12	estómago	nchìxìn	nchìxìn	30	NA	NA	NA	oxnard2020	NA
+3080	pied12	tripa	xitsîn	xitsîn	31	NA	NA	NA	oxnard2020	NA
+3085	pied12	pie	xà'ǎ	xà'ǎ	32	NA	NA	NA	oxnard2020	NA
+3090	pied12	enfermedad	kuè'è	kuè'è	33	NA	NA	NA	oxnard2020	NA
+3095	pied12	medicina	tàjtǎn	tàjtǎn	34	NA	NA	NA	oxnard2020	NA
+3098	pied12	hinchazón	kuiñu	kuiñu	35	NA	NA	NA	oxnard2020	NA
+3103	pied12	grano 	ntsì'i	ntsì'i	36	NA	NA	NA	oxnard2020	NA
+3108	pied12	pus	ntajkuà	ntajkuà	37	NA	NA	NA	oxnard2020	NA
+3113	pied12	orina	lǎxa	lǎxa	38	NA	NA	NA	oxnard2020	NA
+3118	pied12	ropa	tsiǎà	tsiǎà	39	NA	NA	NA	oxnard2020	NA
+3123	pied12	huarache	nchìxǎn 	nchìxǎn 	40	NA	NA	NA	oxnard2020	NA
+3128	pied12	pantalón	xajtû	xajtû	41	NA	NA	NA	oxnard2020	NA
+3135	pied12	pueblo	ñuù	ñuù	43	NA	NA	NA	oxnard2020	NA
+3140	pied12	casa	ve'e	ve'e	44	NA	NA	NA	oxnard2020	NA
+3145	pied12	camino	ichǐ	ichǐ	45	NA	NA	NA	oxnard2020	NA
+3150	pied12	horcón	sì'ìn	sì'ìn	46	NA	NA	NA	oxnard2020	NA
+3154	pied12	petate	yivǐ	yivǐ	47	NA	NA	NA	oxnard2020	NA
+3159	pied12	cama	xìto	xìto	48	NA	NA	NA	oxnard2020	NA
+3164	pied12	silla	tsiáyi	tsiáyi	49	NA	NA	NA	oxnard2020	NA
+3169	pied12	animal	kitsǐ	kitsǐ	50	NA	NA	NA	oxnard2020	NA
+3174	pied12	pájaro	saà	saà	51	NA	NA	NA	oxnard2020	NA
+3179	pied12	pescado	tsiàká	tsiàká	52	NA	NA	NA	oxnard2020	NA
+3184	pied12	culebra	kòjǒ	kòjǒ	53	NA	NA	NA	oxnard2020	NA
+3189	pied12	rana	sá'và	sá'và	54	NA	NA	NA	oxnard2020	NA
+3194	pied12	gavilán	xi'ña	xi'ña	55	NA	NA	NA	oxnard2020	NA
+3199	pied12	alacrán	tsìso'mà	tsì-so'mà	56	animal-tail	NA	NA	oxnard2020	NA
+3204	pied12	cucaracha	tsìtsie'é	tsì-tsie'é	57	animal-	NA	NA	oxnard2020	NA
+3208	pied12	chapulín	tsikâ	tsikâ	58	NA	NA	NA	oxnard2020	NA
+3213	pied12	abeja	ñùñǔ	ñùñǔ	59	NA	NA	NA	oxnard2020	NA
+3218	pied12	ratón	tsìín	tsìín	60	NA	NA	NA	oxnard2020	NA
+3223	pied12	venado	usû	usû	61	NA	NA	NA	oxnard2020	NA
+3228	pied12	ardilla	tsìkuáñu	tsì-kuáñu	62	NA	NA	NA	oxnard2020	NA
+3233	pied12	zorrillo	léló	léló	63	NA	NA	NA	oxnard2020	NA
+3240	pied12	tlacuache	xàko	xàko	64	NA	NA	NA	oxnard2020	NA
+3245	pied12	mapache	má'a	má'a	65	NA	NA	NA	oxnard2020	NA
+3249	pied12	conejo	leso	leso	66	NA	NA	NA	oxnard2020	NA
+3254	pied12	zopilote	tsìkǒxìjǐ	tsì-kǒxìjǐ	67	NA	NA	NA	oxnard2020	NA
+3259	pied12	perro	tsìnâ	tsìnâ	68	NA	NA	NA	oxnard2020	NA
+3264	pied12	gato	chújtu	chújtu	69	NA	NA	NA	oxnard2020	NA
+3271	pied12	gallo	chéle	chéle	70	NA	NA	NA	oxnard2020	NA
+3276	pied12	gallina	nchuxí	nchuxí	71	NA	NA	NA	oxnard2020	NA
+3280	pied12	cerdo	kinì	kinì	72	NA	NA	NA	oxnard2020	NA
+3285	pied12	caballo	{kuayì}	kuayì	73	NA	yes	Colonial Spanish	oxnard2020	NA
+3290	pied12	borrego	lanchi	lanchi	74	NA	NA	NA	oxnard2020	NA
+3295	pied12	hormiga	tsiòkó	tsiòkó	75	NA	NA	NA	oxnard2020	NA
+3300	pied12	cuerno	ntsikǐn	ntsikǐn	76	NA	NA	NA	oxnard2020	NA
+3305	pied12	pluma	tǒmî	tǒmî	77	NA	NA	NA	oxnard2020	NA
+3310	pied12	ala	nchìxǐn	nchìxǐn	78	NA	NA	NA	oxnard2020	NA
+3315	pied12	cola	nto'ǒ	nto'ǒ	79	NA	NA	NA	oxnard2020	NA
+3320	pied12	árbol	ijtǔ	ijtǔ	80	NA	NA	NA	oxnard2020	NA
+3323	pied12	hierba	yùjkù	yùjkù	81	NA	NA	NA	oxnard2020	NA
+3328	pied12	zacate, pasto	ijtsiâ	ijtsiâ	82	NA	NA	NA	oxnard2020	NA
+3333	pied12	flor	ijtâ	ijtâ	83	NA	NA	NA	oxnard2020	NA
+3338	pied12	maguey	yavǐ	yavǐ	84	NA	NA	NA	oxnard2020	NA
+3343	pied12	maguey	tsìkǔxin	tsì-kǔxin	84	NA	NA	NA	oxnard2020	NA
+3346	pied12	raíz	tsiò'o	tsiò'o	85	NA	NA	NA	oxnard2020	NA
+3351	pied12	espina, araña	ijñǔ	ijñǔ	86	NA	NA	NA	oxnard2020	NA
+3356	pied12	maíz	nùnǐ	nùnǐ	87	NA	NA	NA	oxnard2020	NA
+3361	pied12	milpa	utû	utû	88	NA	NA	NA	oxnard2020	NA
+3366	pied12	elote (no crudo, para comer)	nchixǐ	nchixǐ	89	NA	NA	NA	oxnard2020	NA
+3371	pied12	nixtamal	xá'a	xá'a	90	NA	NA	NA	oxnard2020	NA
+3375	pied12	masa	ixǎn	ixǎn	91	NA	NA	NA	oxnard2020	NA
+3380	pied12	tortilla	xìtǎ	xìtǎ	92	NA	NA	NA	oxnard2020	NA
+3385	pied12	rastrojo	xè'è	xè'è	93	NA	NA	NA	oxnard2020	NA
+3390	pied12	surco	í'tsin	í'tsin	94	NA	NA	NA	oxnard2020	NA
+3396	pied12	espiga de milpa	yojkǒ	yojkǒ	95	NA	NA	NA	oxnard2020	NA
+3399	pied12	frijol	ntuchǐ	ntuchǐ	96	NA	NA	NA	oxnard2020	NA
+3404	pied12	ejote	nchìchî	nchìchî	97	NA	NA	NA	oxnard2020	NA
+3409	pied12	chile	ya'ǎ	ya'ǎ	98	NA	NA	NA	oxnard2020	NA
+3414	pied12	sal	ìjǐn	ìjǐn	99	NA	NA	NA	oxnard2020	NA
+3419	pied12	calabaza	ikǐn	ikǐn	100	NA	NA	NA	oxnard2020	NA
+3424	pied12	calabaza	kiá'mǐ	kiá'mǐ	100	NA	NA	NA	oxnard2020	NA
+3429	pied12	chayote	nañǎ	nañǎ	101	NA	NA	NA	oxnard2020	NA
+3434	pied12	caña	ntòjǒ	ntòjǒ	102	NA	NA	NA	oxnard2020	NA
+3439	pied12	miel	ntǔxi	ntǔxi	103	NA	NA	NA	oxnard2020	NA
+3444	pied12	manteca	xǎ'ân	xǎ'ân	104	NA	NA	NA	oxnard2020	NA
+3449	pied12	huevo	ntsìvǐ	ntsìvǐ	105	NA	NA	NA	oxnard2020	NA
+3454	pied12	tomate	tsìnanǎ	tsì-nanǎ	106	NA	NA	NA	oxnard2020	NA
+3459	pied12	camote	ña'mǐ	ña'mǐ	107	NA	NA	NA	oxnard2020	NA
+3464	pied12	aguacate	chìjchí	chìjchí	108	NA	NA	NA	oxnard2020	NA
+3469	pied12	plátano	ntsijkǎ	ntsijkǎ	109	NA	NA	NA	oxnard2020	NA
+3474	pied12	nopal	vi'ntsiǎ	vi'ntsiǎ	110	NA	NA	NA	oxnard2020	NA
+3479	pied12	mamey	ntsiká kuá'a	ntsiká kuá'a	111	banana red	NA	NA	oxnard2020	NA
+3483	pied12	zapote	ntòkǒ	ntòkǒ	111	NA	NA	NA	oxnard2020	NA
+3487	pied12	chirimoya	ntokǒ	ntokǒ	112	NA	NA	NA	oxnard2020	NA
+3490	pied12	hongo	xi'ǐ	xi'ǐ	113	NA	NA	NA	oxnard2020	NA
+3495	pied12	carne	koñû	koñû	114	NA	NA	NA	oxnard2020	NA
+3500	pied12	comal	xìyǒ	xìyǒ	115	NA	NA	NA	oxnard2020	NA
+3504	pied12	olla	kìsi	kìsi	116	NA	NA	NA	oxnard2020	NA
+3509	pied12	horno	xìtùn	xìtùn	117	NA	NA	NA	oxnard2020	NA
+3513	pied12	fuego, lumbre	ñu'ù	ñu'ù	118	NA	NA	NA	oxnard2020	NA
+3518	pied12	ceniza	yàjǎ	yàjǎ	119	NA	NA	NA	oxnard2020	NA
+3523	pied12	carbón	tùún	tùún	120	NA	NA	NA	oxnard2020	NA
+3528	pied12	carbón	tsìkàyì	tsìkàyì	120	NA	NA	NA	oxnard2020	NA
+3532	pied12	humo	i'màn	i'màn	121	NA	NA	NA	oxnard2020	NA
+3537	pied12	basura	xè'è	xè'è	122	NA	NA	NA	oxnard2020	NA
+3542	pied12	jícara	yaxǐn tsié'é	yaxǐn tsié'é	124	NA	NA	NA	oxnard2020	NA
+3547	pied12	tenate	ntò'ǒ	ntò'ǒ	125	NA	NA	NA	oxnard2020	NA
+3552	pied12	canasta	kanàsta	kanàsta	125	Sp. loan	yes	Spanish	oxnard2020	NA
+3555	pied12	hilo	yi'và	yi'và	127	NA	NA	NA	oxnard2020	NA
+3560	pied12	peine	kuijkà	kuijkà	128	NA	NA	NA	oxnard2020	NA
+3565	pied12	mecate	yo'ǒ	yo'ǒ	129	NA	NA	NA	oxnard2020	NA
+3570	pied12	agujero	yavì	yavì	130	NA	NA	NA	oxnard2020	NA
+3575	pied12	red	yujñǔ	yujñǔ	131	NA	NA	NA	oxnard2020	NA
+3582	pied12	luna	yòjǒ	yòjǒ	134	NA	NA	NA	oxnard2020	NA
+3587	pied12	nube	vìkǒ	vìkǒ	135	NA	NA	NA	oxnard2020	NA
+3592	pied12	relámpago	taxa	taxa	136	NA	NA	NA	oxnard2020	NA
+3596	pied12	rayo	taxa	taxa	136	NA	NA	NA	oxnard2020	NA
+3601	pied12	agua	tsìkuǐi	tsì-kuǐi	137	NA	NA	NA	oxnard2020	NA
+3606	pied12	lluvia	sàvǐ	sàvǐ	138	NA	NA	NA	oxnard2020	NA
+3611	pied12	río	ìtsia	ìtsia	139	NA	NA	NA	oxnard2020	NA
+3616	pied12	rocío	yúyú	yúyú	140	NA	NA	NA	oxnard2020	NA
+3621	pied12	cerro	ko'nto	ko'nto	141	NA	NA	NA	oxnard2020	NA
+3626	pied12	llano	yosǒ 	yosǒ 	142	NA	NA	NA	oxnard2020	NA
+3631	pied12	piedra	yùjǔ	yùjǔ	143	NA	NA	NA	oxnard2020	NA
+3636	pied12	algodón	kàchǐ	kàchǐ	144	NA	NA	NA	oxnard2020	NA
+3641	pied12	fierro	kǎà	kǎà	145	NA	NA	NA	oxnard2020	NA
+3646	pied12	papel	tujtû	tujtû	146	NA	NA	NA	oxnard2020	NA
+3650	pied12	cal	kajkâ	kajkâ	147	NA	NA	NA	oxnard2020	NA
+3655	pied12	cera	ìmǎ	ìmǎ	148	NA	NA	NA	oxnard2020	NA
+3660	pied12	lodo	ntsia'yì	ntsia'yì	149	NA	NA	NA	oxnard2020	NA
+3665	pied12	espuma	chìkìñù	chìkìñù	150	NA	NA	NA	oxnard2020	NA
+3671	pied12	polvo	yájkǎ	yájkǎ	151	NA	NA	NA	oxnard2020	NA
+3676	pied12	rojo	kuá'a	kuá'a	152	NA	NA	NA	oxnard2020	NA
+3681	pied12	verde	kuijǐ	kuijǐ	153	NA	NA	NA	oxnard2020	NA
+3686	pied12	amarillo	kuáan	kuáan	154	NA	NA	NA	oxnard2020	NA
+3691	pied12	negro	tùjǔn	tùjǔn	155	NA	NA	NA	oxnard2020	NA
+3696	pied12	negro	ntsiayì	ntsiayì	155	NA	NA	NA	oxnard2020	NA
+3699	pied12	blanco	yaa	yaa	156	NA	NA	NA	oxnard2020	NA
+3704	pied12	uno	iin	iin	157	NA	NA	NA	oxnard2020	NA
+3709	pied12	dos	ìvì	ìvì	158	NA	NA	NA	oxnard2020	NA
+3714	pied12	tres	ònì	ònì	159	NA	NA	NA	oxnard2020	NA
+3719	pied12	cuatro	kòmǐ	kòmǐ	160	NA	NA	NA	oxnard2020	NA
+3724	pied12	cinco	ù'ùn	ù'ùn	161	NA	NA	NA	oxnard2020	NA
+3729	pied12	seis	ìñù	ìñù	162	NA	NA	NA	oxnard2020	NA
+3734	pied12	siete	ùxà	ùxà	163	NA	NA	NA	oxnard2020	NA
+3739	pied12	ocho	ònà	ònà	164	NA	NA	NA	oxnard2020	NA
+3744	pied12	nueve	ììn	ììn	165	NA	NA	NA	oxnard2020	NA
+3749	pied12	diez	ùxì	ùxì	166	NA	NA	NA	oxnard2020	NA
+3754	pied12	quince	xa'ùn	xa'ùn	167	NA	NA	NA	oxnard2020	NA
+3759	pied12	veinte	òjkò	òjkò	168	NA	NA	NA	oxnard2020	NA
+3763	pied12	pobre	ntá'vi	ntá'vi	169	NA	NA	NA	oxnard2020	NA
+3768	pied12	rico 	kuíjka	kuíjka	170	NA	NA	NA	oxnard2020	NA
+3773	pied12	frío	vìxin	vìxin	171	NA	NA	NA	oxnard2020	NA
+3778	pied12	caliente	i'ní	i'ní	172	NA	NA	NA	oxnard2020	NA
+3783	pied12	grande.SG	ká'nu	ká'nu	173	NA	NA	NA	oxnard2020	NA
+3788	pied12	pequeño.SG	lo'o	lo'o	175	NA	NA	NA	oxnard2020	NA
+3800	pied12	largo.SG	kajnǐ	kajnǐ	177	NA	NA	NA	oxnard2020	NA
+3805	pied12	bueno	và'a	và'a	179	NA	NA	NA	oxnard2020	NA
+3810	pied12	dulce	vìxì	vìxì	180	NA	NA	NA	oxnard2020	NA
+3815	pied12	salado	ò'và	ò'và	181	NA	NA	NA	oxnard2020	NA
+3820	pied12	amargo	òvà	òvà	182	NA	NA	NA	oxnard2020	NA
+3824	pied12	amargo	ajtu	ajtu	182	NA	NA	NA	oxnard2020	NA
+3827	pied12	sabroso	àsǐn	àsǐn	183	NA	NA	NA	oxnard2020	NA
+3832	pied12	ancho	ntsíjkà	ntsíjkà	184	NA	NA	NA	oxnard2020	NA
+3836	pied12	nuevo	xàá	xàá	185	NA	NA	NA	oxnard2020	NA
+3841	pied12	flojo	xúxan	xúxan	186	NA	NA	NA	oxnard2020	NA
+3846	pied12	feo	kini	kini	187	NA	NA	NA	oxnard2020	NA
+3851	pied12	celoso	kuíñun	kuíñun	188	NA	NA	NA	oxnard2020	NA
+3854	pied12	cerca, próximo	yatsin	yatsin	189	NA	NA	NA	oxnard2020	NA
+3859	pied12	lejos	xìka	xìka	190	NA	NA	NA	oxnard2020	NA
+3862	pied12	pesado	vèje	vèje	191	NA	NA	NA	oxnard2020	NA
+3867	pied12	crudo	í'i	í'i	192	NA	NA	NA	oxnard2020	NA
+3871	pied12	liso	kaní	kaní	193	NA	NA	NA	oxnard2020	NA
+3876	pied12	despacio	kuée	kuée	194	NA	NA	NA	oxnard2020	NA
+3881	pied12	despacio	yàà	yàà	194	NA	NA	NA	oxnard2020	NA
+3884	pied12	ayer	kojni	kojni	195	NA	NA	NA	oxnard2020	NA
+3889	pied12	año	kuiyà	kuiyà	196	NA	NA	NA	oxnard2020	NA
+3894	pied12	ahora, hoy	vitsin	vitsin	197	NA	NA	NA	oxnard2020	NA
+3899	pied12	noche	ñǔu	ñǔu	198	NA	NA	NA	oxnard2020	NA
+3904	pied12	día, fecha	kìjǐ	kìjǐ	200	NA	NA	NA	oxnard2020	NA
+3909	pied12	de día	ntiví	ntiví	201	NA	NA	NA	oxnard2020	NA
+3914	pied12	mitad	mà'ñú	mà'ñú	202	NA	NA	NA	oxnard2020	NA
+3919	pied12	dinero	xù'ún	xù'ún	203	NA	NA	NA	oxnard2020	NA
+3924	pied12	trabajo	chiñu	chiñu	204	NA	NA	NA	oxnard2020	NA
+3928	pied12	trabajo	chuun	chuun	204	NA	NA	NA	oxnard2020	NA
+3931	pied12	palabra	tù'un	tù'un	205	NA	NA	NA	oxnard2020	NA
+3936	pied12	culpa	kuachi	kuachi	206	NA	NA	NA	oxnard2020	NA
+3941	pied12	sueño	xànì	xànì	207	NA	NA	NA	oxnard2020	NA
+3944	pied12	canción	yaà	yaà	209	NA	NA	NA	oxnard2020	NA

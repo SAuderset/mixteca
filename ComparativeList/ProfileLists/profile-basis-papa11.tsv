@@ -1,214 +1,214 @@
-ID	DOCULECT	CONCEPT	GLOSS	VALUE	FORM	IDlist	CONCEPTICON_ID	LOAN	LOAN_SOURCE	SOURCE	FLOATTONE
-5200	papa11	MOTHER	madre	cha³cu³	cha³cu³	1	1216	NA	NA	anderson1983diccionario	NA
-5201	papa11	MOTHER VOCATIVE	mamá!	na⁴na¹	na⁴na¹	2	NA	NA	NA	anderson1983diccionario	NA
-5202	papa11	FATHER	padre	chi³da³	chi³da³	3	1217	NA	NA	anderson1983diccionario	NA
-5203	papa11	FATHER	padre	chi³du³	chi³du³	3	1217	NA	NA	anderson1983diccionario	NA
-5204	papa11	CHILD (DESCENDANT)	hijo/hija	da³ya³	da³ya³	5	1801	NA	NA	anderson1983diccionario	NA
-5205	papa11	SON	hijo	sa²’an⁴ da³ya³	sa²’an⁴ da³ya³	6	1620	NA	NA	anderson1983diccionario	NA
-5206	papa11	DAUGHTER	hija	ta¹’an⁴ da³ya³	ta¹’an⁴ da³ya³	7	1357	NA	NA	anderson1983diccionario	NA
-5207	papa11	CROSS-SEX SIBLING	hermana/hermano de otro genero	c’a²v’a²	c’a²v’a²	8	NA	NA	NA	anderson1983diccionario	NA
-5208	papa11	BROTHER (OF MAN)	hermano, hermanastro	d’i³nu⁴	d’i³nu⁴	9	559	NA	NA	anderson1983diccionario	NA
-5209	papa11	SISTER (OF WOMAN)	hermana, hermanastra	ta¹’an⁴ vi²’i⁴	ta¹’an⁴-vi²’i⁴	10	NA	NA	NA	anderson1983diccionario	NA
-5210	papa11	AUNT	tía	du³di³	du³di³	11	1272	NA	NA	anderson1983diccionario	NA
-5211	papa11	UNCLE	tío	du²nu⁴	du²nu⁴	12	1327	NA	NA	anderson1983diccionario	NA
-5212	papa11	MAN	hombre, varón	sa²’an⁴	sa²’an⁴	13	1554	NA	NA	anderson1983diccionario	NA
-5213	papa11	WOMAN	mujer	nd’a̠³ta̠³	nd’a̠³ta̠³	14	962	NA	NA	anderson1983diccionario	NA
-5214	papa11	WOMAN	mujer (informal)	ta¹’an⁴	ta¹’an⁴	14	962	NA	NA	anderson1983diccionario	NA
-5215	papa11	OWNER	dueño	'i⁴yan⁴ chin² ye⁴’en⁴	'i⁴yan⁴-chin²-ye⁴’en⁴	15	1036	NA	NA	anderson1983diccionario	NA
-5216	papa11	PRIEST	sacerdote	chi³du³	chi³du³	16	852	NA	NA	anderson1983diccionario	NA
-5217	papa11	BLOOD	sangre	yun³	yun³	17	946	NA	NA	anderson1983diccionario	NA
-5218	papa11	BONE	hueso	i³ni³	i³ni³	18	1394	NA	NA	anderson1983diccionario	NA
-5219	papa11	HAIR	pelo	yu⁴du⁴	yu⁴du⁴	19	1040	NA	NA	anderson1983diccionario	NA
-5220	papa11	FACE	cara	nan³	nan³	20	1560	NA	NA	anderson1983diccionario	NA
-5221	papa11	TONGUE	lengua	ch’i³ya³	ch’i³ya³	21	1205	NA	NA	anderson1983diccionario	NA
-5222	papa11	TOOTH	diente	d’i²yun²	d’i²yun²	22	1380	NA	NA	anderson1983diccionario	NA
-5223	papa11	MOUTH	boca	che³nde³	che³nde³	23	674	NA	NA	anderson1983diccionario	NA
-5224	papa11	EAR	oreja	ven³	ven³	24	1247	NA	NA	anderson1983diccionario	NA
-5225	papa11	NOSE	nariz	du³tu³	du³tu³	25	1221	NA	NA	anderson1983diccionario	NA
-5226	papa11	NECK	cuello, garganta	da⁴ndu³	da⁴ndu³	26	1333	NA	NA	anderson1983diccionario	NA
-5227	papa11	HAND	mano	ta̠²’a̠⁴	ta̠²’a̠⁴	27	1277	NA	NA	anderson1983diccionario	NA
-5228	papa11	BACK	espalda	da²mi²	da²mi²	29	1291	NA	NA	anderson1983diccionario	NA
-5229	papa11	BELLY OR STOMACH	panza, barriga	che⁴te⁴	che⁴te⁴	30	2114	NA	NA	anderson1983diccionario	NA
-5230	papa11	INTESTINES	tripa, intestino	gue³te³	gue³te³	31	1991	NA	NA	anderson1983diccionario	NA
-5231	papa11	FOOT	pie	ca̠³’a̠³	ca̠³’a̠³	32	1301	NA	NA	anderson1983diccionario	NA
-5232	papa11	DISEASE	enfermedad	ca³’a³	ca³’a³	33	1986	NA	NA	anderson1983diccionario	NA
-5233	papa11	MEDICINE	medicina	yi⁴cu⁴	yi⁴cu⁴	34	1372	NA	NA	anderson1983diccionario	NA
-5234	papa11	SWELLING	hinchazón	ca³’a³ yi³ndi³tu³	ca³’a³-yi³ndi³tu³	35	1903	NA	NA	anderson1983diccionario	NA
-5235	papa11	PIMPLE	grano	nd’u²v’i²	nd’u²v’i²	36	1809	NA	NA	anderson1983diccionario	NA
-5236	papa11	PUS	pus	ya³cua³	ya³cua³	37	1808	maybe	Mixtec	anderson1983diccionario	NA
-5237	papa11	URINE	orina	nu⁴nv’e⁴de³	nu⁴nv’e⁴de³	38	1142	NA	NA	anderson1983diccionario	NA
-5238	papa11	CLOTHES	tela	ti⁴nu⁴	ti⁴nu⁴	39	1895	NA	NA	anderson1983diccionario	NA
-5239	papa11	SANDAL	huarache	nda̠³cu³	nda̠³cu³	40	NA	maybe	Mixtec	anderson1983diccionario	NA
-5240	papa11	TROUSERS	pantalón	pa³nta³lón¹	pa³nta³lón¹	41	809	yes	Spanish	anderson1983diccionario	NA
-5241	papa11	BLOUSE (WOVEN)	huipil	y’u²tu⁴	y’u²tu⁴	42	NA	NA	NA	anderson1983diccionario	NA
-5242	papa11	TOWN OR VILLAGE	pueblo	yan²⁴	yan²⁴	43	3609	NA	NA	anderson1983diccionario	NA
-5243	papa11	HOUSE	casa	va⁴’a³	va⁴’a³	44	1252	NA	NA	anderson1983diccionario	NA
-5244	papa11	PATH	camino	yu²ni²	yu²ni²	45	2252	NA	NA	anderson1983diccionario	NA
-5245	papa11	POST	horcón	yi³nga̠³’a̠³	yi³nga̠³’a̠³	46	281	NA	NA	anderson1983diccionario	NA
-5246	papa11	MAT	petate	yi³va³	yi³va³	47	195	NA	NA	anderson1983diccionario	NA
-5247	papa11	BED	cama	ca²ma⁴	ca²ma⁴	48	1663	yes	Spanish	anderson1983diccionario	NA
-5248	papa11	STOOL	banco	yi²ta²³⁴	yi²ta²³⁴	49	2058	NA	NA	anderson1983diccionario	NA
-5249	papa11	ANIMAL	animal	i³ti³	i³ti³	50	619	NA	NA	anderson1983diccionario	NA
-5250	papa11	BIRD	pájaro	y’a²da²	y’a²da²	51	937	NA	NA	anderson1983diccionario	NA
-5251	papa11	FISH	pez, pescado	y’a⁴ca⁴	y’a⁴ca⁴	52	227	NA	NA	anderson1983diccionario	NA
-5252	papa11	SNAKE	culebra, serpiente	cu²	cu²	53	730	NA	NA	anderson1983diccionario	NA
-5253	papa11	FROG	rana	ra²na¹	ra²na¹	54	503	yes	Spanish	anderson1983diccionario	NA
-5254	papa11	HAWK	gavilán	i³yun³	i³yun³	55	307	NA	NA	anderson1983diccionario	NA
-5255	papa11	SCORPION	alacrán	i³tde³’en⁴	i³t-de³’en⁴	56	1538	NA	NA	anderson1983diccionario	NA
-5256	papa11	COCKROACH	cucaracha	stu²vi¹⁴	stu²vi¹⁴	57	1575	NA	NA	anderson1983diccionario	NA
-5257	papa11	GRASSHOPPER	chapulín	ti²cua¹⁴	ti²cua¹⁴	58	607	NA	NA	anderson1983diccionario	NA
-5258	papa11	BEE	abeja	y’en²⁴	y’en²⁴	59	665	NA	NA	anderson1983diccionario	NA
-5259	papa11	MUROID (MOUSE OR RAT)	ratón, rata	ti’u¹⁴di⁴	ti’u¹⁴di⁴	60	2139	NA	NA	anderson1983diccionario	NA
-5260	papa11	DEER	venado	i³che¹⁴nu³	i³che¹⁴nu³	61	1936	NA	NA	anderson1983diccionario	NA
-5261	papa11	SQUIRREL	ardilla	i²yu¹⁴	i²yu¹⁴	62	1628	NA	NA	anderson1983diccionario	NA
-5262	papa11	SKUNK	zorrillo	s’i¹m’a⁴	s’i¹m’a⁴	63	NA	NA	NA	anderson1983diccionario	NA
-5263	papa11	POSSUM	tlacuache	y’a²ta¹⁴	y’a²ta¹⁴	64	470	NA	NA	anderson1983diccionario	NA
-5264	papa11	RACCOON	mapache	y’u⁴vi⁴ y’a²na⁴	y’u⁴vi⁴-y’a²na⁴	65	828	NA	NA	anderson1983diccionario	NA
-5265	papa11	RABBIT	conejo	co³ne³jo¹	co³ne³jo¹	66	1136	yes	Spanish	anderson1983diccionario	NA
-5266	papa11	VULTURE	zopilote	s’i³cu³	s’i³cu³	67	1185	NA	NA	anderson1983diccionario	NA
-5267	papa11	DOG	perro	y’a²na⁴	y’a²na⁴	68	2009	NA	NA	anderson1983diccionario	NA
-5268	papa11	CAT	gato	vi²chi¹	vi²chi¹	69	1208	NA	NA	anderson1983diccionario	NA
-5269	papa11	ROOSTER	gallo	tu¹sa¹’an⁴	tu-¹sa¹’an⁴	70	1511	NA	NA	anderson1983diccionario	NA
-5270	papa11	HEN	gallina	tu¹ta¹’an⁴	tu-¹ta¹’an⁴	71	1514	NA	NA	anderson1983diccionario	NA
-5271	papa11	PIG	marrano	cu²chi¹	cu²chi¹	72	1337	yes	Spanish	anderson1983diccionario	NA
-5272	papa11	HORSE	caballo, bestia	y’u²du⁴	y’u²du⁴	73	615	NA	NA	anderson1983diccionario	NA
-5273	papa11	SHEEP	borrego, oveja	i³tcu³⁴chi⁴	i³t-cu³⁴chi⁴	74	1331	NA	NA	anderson1983diccionario	NA
-5274	papa11	ANT	hormiga	i³cu⁴	i³cu⁴	75	587	NA	NA	anderson1983diccionario	NA
-5275	papa11	HORN (ANATOMY)	cuerno	du³ni³ni³	du³ni³ni³	76	1393	NA	NA	anderson1983diccionario	NA
-5276	papa11	FEATHER	pluma	plu²ma¹	plu²ma¹	77	1201	yes	Spanish	anderson1983diccionario	NA
-5277	papa11	WING	ala, brazo, paleta	gue⁴che³	gue⁴che³	78	1257	NA	NA	anderson1983diccionario	NA
-5278	papa11	TAIL	cola	ndu²cu⁴de⁴’en³	ndu²cu⁴-de⁴’en³	79	1220	NA	NA	anderson1983diccionario	NA
-5279	papa11	TREE	árbol, palo	ya²’an²	ya²’an²	80	906	NA	NA	anderson1983diccionario	NA
-5280	papa11	HERBACEOUS PLANT	hierba, hoja	ya⁴ta⁴	ya⁴ta⁴	81	NA	NA	NA	anderson1983diccionario	NA
-5281	papa11	GRASS	zacate	ya²ma⁴	ya²ma⁴	82	606	NA	NA	anderson1983diccionario	NA
-5282	papa11	GRASS	pasto, zacate	yu³ni¹	yu³ni¹	82	606	NA	NA	anderson1983diccionario	NA
-5283	papa11	FLOWER	flor	na̠⁴nda̠⁴	na̠⁴nda̠⁴	83	239	NA	NA	anderson1983diccionario	NA
-5284	papa11	MAGUEY	maguey, verdura	yi⁴va⁴	yi⁴va⁴	84	NA	NA	NA	anderson1983diccionario	NA
-5285	papa11	ROOT	raíz	d’i²yu²	d’i²yu²	85	670	NA	NA	anderson1983diccionario	NA
-5286	papa11	THORN	espina	yan²	yan²	86	124	NA	NA	anderson1983diccionario	NA
-5287	papa11	CORN	maíz en grano	ni²nu²	ni²nu²	87	506	NA	NA	anderson1983diccionario	NA
-5288	papa11	CORN FIELD	milpa	yu²ndu⁴	yu²ndu⁴	88	449	NA	NA	anderson1983diccionario	NA
-5289	papa11	EAR OF CORN (FRESH)	elote	yu²di²	yu²di²	89	NA	NA	NA	anderson1983diccionario	NA
-5290	papa11	NIXTAMAL	nixtamal	ve⁴ye⁴	ve⁴ye⁴	90	NA	NA	NA	anderson1983diccionario	NA
-5291	papa11	CORN DOUGH	masa	ya⁴chi⁴	ya⁴chi⁴	91	NA	NA	NA	anderson1983diccionario	NA
-5292	papa11	TORTILLA	tortilla	yu⁴ndu⁴	yu⁴ndu⁴	92	NA	NA	NA	anderson1983diccionario	NA
-5293	papa11	CORN STALK	rastrojo	yi²v’o²⁴	yi²v’o²⁴	93	NA	NA	NA	anderson1983diccionario	NA
-5294	papa11	FURROW	surco	su²rcu⁴	su²rcu⁴	94	1794	yes	Spanish	anderson1983diccionario	NA
-5295	papa11	TASSEL	espiga	ya²mi⁴	ya²mi⁴	95	NA	NA	NA	anderson1983diccionario	NA
-5296	papa11	BEAN	frijol(es)	nu³ni³	nu³ni³	96	832	NA	NA	anderson1983diccionario	NA
-5297	papa11	GREEN BEAN	ejote	nde³te³	nde³te³	97	NA	NA	NA	anderson1983diccionario	NA
-5298	papa11	CHILI PEPPER	chile	'i³ya³	'i³ya³	98	919	NA	NA	anderson1983diccionario	NA
-5299	papa11	SALT	sal	yi⁴ma⁴	yi⁴ma⁴	99	1274	NA	NA	anderson1983diccionario	NA
-5300	papa11	PUMPKIN	calabaza	yu²cu⁴	yu²cu⁴	100	864	NA	NA	anderson1983diccionario	NA
-5301	papa11	CHAYOTE	chayote	n’in²	n’in²	101	NA	NA	NA	anderson1983diccionario	NA
-5302	papa11	SUGAR CANE	caña	ndu²	ndu²	102	146	NA	NA	anderson1983diccionario	NA
-5303	papa11	HONEY	miel, chahuistle	dan⁴³	dan⁴³	103	942	NA	NA	anderson1983diccionario	NA
-5304	papa11	FAT (FROM ANIMALS)	grasa, manteca	dun⁴	dun⁴	104	1282	NA	NA	anderson1983diccionario	NA
-5305	papa11	EGG	blanquillo, huevo	du³ti³	du³ti³	105	744	NA	NA	anderson1983diccionario	NA
-5306	papa11	TOMATO	tomate	nd’a²tu⁴	nd’a²tu⁴	106	986	NA	NA	anderson1983diccionario	NA
-5307	papa11	SWEET POTATO	camote	m’in²⁴	m’in²⁴	107	159	NA	NA	anderson1983diccionario	NA
-5308	papa11	AVOCADO	aguacate	nu³ngü’i³di⁴	nu³ngü’i³di⁴	108	3725	NA	NA	anderson1983diccionario	NA
-5309	papa11	BANANA	plátano	tia²ca²	tia²ca²	109	868	NA	NA	anderson1983diccionario	NA
-5310	papa11	PRICKLY PEAR CACTUS	nopal	yi²nd’i³tu³	yi²nd’i³tu³	110	NA	NA	NA	anderson1983diccionario	NA
-5311	papa11	MAMEY	mamey	tia²ccua̠³’a̠³	tia²c-cua̠³’a̠³	111	NA	NA	NA	anderson1983diccionario	NA
-5312	papa11	MAMEY	zapote	tia²jan²	tia²jan²	111	NA	NA	NA	anderson1983diccionario	NA
-5313	papa11	CUSTARD APPLE	chirimoya, anona	ndu⁴cu⁴	ndu⁴cu⁴	112	NA	NA	NA	anderson1983diccionario	NA
-5314	papa11	MUSHROOM	hongo	gue⁴’e⁴	gue⁴’e⁴	113	641	NA	NA	anderson1983diccionario	NA
-5315	papa11	MEAT	carne	yu²ta⁴	yu²ta⁴	114	634	NA	NA	anderson1983diccionario	NA
-5316	papa11	GRIDDLE	comal	cha²	cha²	115	NA	NA	NA	anderson1983diccionario	NA
-5317	papa11	COOKING POT	olla	chi³ta³	chi³ta³	116	3653	NA	NA	anderson1983diccionario	NA
-5318	papa11	OVEN	horno	ho²rno⁴	ho²rno⁴	117	1143	yes	Spanish	anderson1983diccionario	NA
-5319	papa11	FIRE	lumbre, fuego	ya²’an⁴	ya²’an⁴	118	221	NA	NA	anderson1983diccionario	NA
-5320	papa11	ASH	ceniza	yi⁴ya⁴	yi⁴ya⁴	119	646	NA	NA	anderson1983diccionario	NA
-5321	papa11	CHARCOAL	carbón	yi²yu⁴	yi²yu⁴	120	1188	NA	NA	anderson1983diccionario	NA
-5322	papa11	SMOKE (EXHAUST)	humo	y’a³m’i³	y’a³m’i³	121	778	NA	NA	anderson1983diccionario	NA
-5323	papa11	GARBAGE	basura	da²cu¹⁴	da²cu¹⁴	122	909	NA	NA	anderson1983diccionario	NA
-5324	papa11	PLATE	plato, traste	cu³’u³	cu³’u³	123	480	NA	NA	anderson1983diccionario	NA
-5325	papa11	GOURD BOWL	jícara	ya³’a³	ya³’a³	124	NA	NA	NA	anderson1983diccionario	NA
-5326	papa11	BASKET	canasta	cu’a²ta⁴	cu’a²ta⁴	125	1539	NA	NA	anderson1983diccionario	NA
-5327	papa11	BASKET	tenate	y’u⁴cu³	y’u⁴cu³	125	1539	NA	NA	anderson1983diccionario	NA
-5328	papa11	BOX OR CHEST	caja, baúl	yya²va²	yya²va²	126	3150	NA	NA	anderson1983diccionario	NA
-5329	papa11	THREAD	hilo	hi²lu⁴	hi²lu⁴	127	1161	yes	Spanish	anderson1983diccionario	NA
-5330	papa11	COMB	peine	ca²ca⁴	ca²ca⁴	128	1475	NA	NA	anderson1983diccionario	NA
-5331	papa11	ROPE	mecate, cuerda	'i⁴yu⁴	'i⁴yu⁴	129	1218	NA	NA	anderson1983diccionario	NA
-5332	papa11	HOLE	agujero, hoyo	yi³va³	yi³va³	130	1667	NA	NA	anderson1983diccionario	NA
-5333	papa11	NET	red	ya⁴na⁴	ya⁴na⁴	131	2963	NA	NA	anderson1983diccionario	NA
-5334	papa11	SOAP	jabón	na²ma²	na²ma²	132	788	NA	NA	anderson1983diccionario	NA
-5335	papa11	RING	anillo	cu⁴³ yi³nun³ ta̠³’a̠⁴	cu⁴³-yi³nun³-ta̠³’a̠⁴	133	1374	NA	NA	anderson1983diccionario	NA
-5336	papa11	MOON	luna	i⁴yu⁴	i⁴yu⁴	134	1313	NA	NA	anderson1983diccionario	NA
-5337	papa11	CLOUD	nube	men²⁴	men²⁴	135	1489	NA	NA	anderson1983diccionario	NA
-5338	papa11	LIGHTNING	rayo	gu⁴	gu⁴	136	1654	NA	NA	anderson1983diccionario	NA
-5339	papa11	LIGHTNING	rayo, relámpago	cu’a⁴³	cu’a⁴³	136	1654	NA	NA	anderson1983diccionario	NA
-5340	papa11	WATER	agua	nu⁴ni⁴	nu⁴ni⁴	137	948	NA	NA	anderson1983diccionario	NA
-5341	papa11	RAIN (PRECIPITATION)	lluvia	cu²vi⁴	cu²vi⁴	138	658	NA	NA	anderson1983diccionario	NA
-5342	papa11	RIVER	río	yi²cu²	yi²cu²	139	666	NA	NA	anderson1983diccionario	NA
-5343	papa11	DEW	rocío	nu⁴ni⁴ d’i²v’i³yu³	nu⁴ni⁴-d’i²v’i³yu³	140	1977	NA	NA	anderson1983diccionario	NA
-5344	papa11	MOUNTAIN OR HILL	cerro, montaña	yi⁴cu⁴	yi⁴cu⁴	141	2118	NA	NA	anderson1983diccionario	NA
-5345	papa11	PLAIN	llanura, llano	yu²du⁴	yu²du⁴	142	652	NA	NA	anderson1983diccionario	NA
-5346	papa11	STONE OR ROCK	piedra	tu²⁴	tu²⁴	143	2125	NA	NA	anderson1983diccionario	NA
-5347	papa11	COTTON	algodón	ya̠³va̠³ cu⁴chi⁴	ya̠³va̠³-cu⁴chi⁴	144	1850	NA	NA	anderson1983diccionario	NA
-5348	papa11	METAL	fierro, metal	cu⁴³	cu⁴³	145	2244	NA	NA	anderson1983diccionario	NA
-5349	papa11	PAPER	papel	ca³ca³	ca³ca³	146	648	NA	NA	anderson1983diccionario	NA
-5350	papa11	LIME (MATERIAL)	cal	ca³ca³	ca³ca³	147	2540	NA	NA	anderson1983diccionario	NA
-5351	papa11	BEESWAX	cera, abeja	y’en²⁴	y’en²⁴	148	1931	NA	NA	anderson1983diccionario	NA
-5352	papa11	MUD	lodo	yi⁴nche⁴te¹⁴	yi⁴nche⁴te¹⁴	149	640	NA	NA	anderson1983diccionario	NA
-5353	papa11	FOAM	espuma	yu⁴quien²⁴	yu⁴quien²⁴	150	1768	NA	NA	anderson1983diccionario	NA
-5354	papa11	DUST	polvo	yu⁴ni⁴	yu⁴ni⁴	151	2	NA	NA	anderson1983diccionario	NA
-5355	papa11	RED	rojo	cua̠¹’a̠⁴	cua̠¹’a̠⁴	152	156	NA	NA	anderson1983diccionario	NA
-5356	papa11	GREEN	verde	cue³	cue³	153	1425	NA	NA	anderson1983diccionario	NA
-5357	papa11	YELLOW	amarillo	cuan²	cuan²	154	1424	NA	NA	anderson1983diccionario	NA
-5358	papa11	BLACK	negro	cuen¹	cuen¹	155	163	NA	NA	anderson1983diccionario	NA
-5359	papa11	WHITE	blanco	cua¹⁴	cua¹⁴	156	1335	NA	NA	anderson1983diccionario	NA
-5360	papa11	ONE	uno	a²ma²	a²ma²	157	1493	NA	NA	anderson1983diccionario	NA
-5361	papa11	TWO	dos	u⁴vi⁴	u⁴vi⁴	158	1498	NA	NA	anderson1983diccionario	NA
-5362	papa11	THREE	tres	i⁴nu⁴	i⁴nu⁴	159	492	NA	NA	anderson1983diccionario	NA
-5363	papa11	FOUR	cuatro	cun⁴	cun⁴	160	1500	NA	NA	anderson1983diccionario	NA
-5364	papa11	FIVE	cinco	gu³’un³	gu³’un³	161	493	NA	NA	anderson1983diccionario	NA
-5365	papa11	SIX	seis	gan⁴	gan⁴	162	1703	NA	NA	anderson1983diccionario	NA
-5366	papa11	SEVEN	siete	nda⁴cha⁴	nda⁴cha⁴	163	1704	NA	NA	anderson1983diccionario	NA
-5367	papa11	EIGHT	ocho	ni³ni²	ni³ni²	164	1705	NA	NA	anderson1983diccionario	NA
-5368	papa11	NINE	nueve	nun³²	nun³²	165	1483	NA	NA	anderson1983diccionario	NA
-5369	papa11	TEN	diez	ndi³chi²	ndi³chi²	166	1515	NA	NA	anderson1983diccionario	NA
-5370	papa11	FIFTEEN	quince	ndi³t’i³yun³	ndi³t’i³yun³	167	1709	NA	NA	anderson1983diccionario	NA
-5371	papa11	TWENTY	veinte	ndi³cu²	ndi³cu²	168	1710	NA	NA	anderson1983diccionario	NA
-5372	papa11	POOR	pobre	nda²chi¹⁴	nda²chi¹⁴	169	1674	NA	NA	anderson1983diccionario	NA
-5373	papa11	RICH	rico	ri²cu⁴	ri²cu⁴	170	712	yes	Spanish	anderson1983diccionario	NA
-5374	papa11	COLD	frío	i³cha²	i³cha²	171	1287	NA	NA	anderson1983diccionario	NA
-5375	papa11	HOT	caliente	'i⁴n’u⁴	'i⁴n’u⁴	172	1286	NA	NA	anderson1983diccionario	NA
-5376	papa11	BIG (SINGULAR)	grande.SG	ch’a³ta³	ch’a³ta³	173	NA	NA	NA	anderson1983diccionario	NA
-5377	papa11	BIG (PLURAL)	grande.PL	'a³ta³	'a³ta³	174	NA	NA	NA	anderson1983diccionario	NA
-5378	papa11	SMALL (SINGULAR)	chico.SG	l’in¹	l’in¹	175	NA	NA	NA	anderson1983diccionario	NA
-5379	papa11	SMALL (PLURAL)	pequeño.PL, chico.PL	'a²ya¹⁴	'a²ya¹⁴	176	NA	NA	NA	anderson1983diccionario	NA
-5380	papa11	LARGE (SINGULAR)	largo.SG	ch’e⁴nu⁴	ch’e⁴nu⁴	177	NA	NA	NA	anderson1983diccionario	NA
-5381	papa11	LARGE (PLURAL)	largo.PL	'e⁴nu⁴	'e⁴nu⁴	178	NA	NA	NA	anderson1983diccionario	NA
-5382	papa11	GOOD	bueno	nd’a³²	nd’a³²	179	1035	NA	NA	anderson1983diccionario	NA
-5383	papa11	SWEET	dulce	ya³di³	ya³di³	180	717	NA	NA	anderson1983diccionario	NA
-5384	papa11	SALTY	salado	di⁴ni⁴	di⁴ni⁴	181	1091	NA	NA	anderson1983diccionario	NA
-5385	papa11	BITTER	amargo	ya̠³	ya̠³	182	887	NA	NA	anderson1983diccionario	NA
-5386	papa11	TASTY	sabroso	yu³du³	yu³du³	183	1813	NA	NA	anderson1983diccionario	NA
-5387	papa11	WIDE	ancho	ch’e⁴n’u⁴	ch’e⁴n’u⁴	184	1243	NA	NA	anderson1983diccionario	NA
-5388	papa11	NEW	nuevo	ga⁴³	ga⁴³	185	1231	NA	NA	anderson1983diccionario	NA
-5389	papa11	LAZY	flojo	d’a⁴nd’i⁴	d’a⁴nd’i⁴	186	1564	NA	NA	anderson1983diccionario	NA
-5390	papa11	UGLY	feo, malo	gua² nd’a̠²ca̠⁴	gua² nd’a̠²ca̠⁴	187	1548	NA	NA	anderson1983diccionario	NA
-5391	papa11	JEALOUS	celoso	nd’²ta³	nd’²ta³	188	2821	NA	NA	anderson1983diccionario	NA
-5392	papa11	NEAR	cerca	chen²⁴	chen²⁴	189	1942	NA	NA	anderson1983diccionario	NA
-5393	papa11	FAR	lejos	ye³’en²	ye³’en²	190	1406	NA	NA	anderson1983diccionario	NA
-5394	papa11	HEAVY	pesado	i³	i³	191	1210	NA	NA	anderson1983diccionario	NA
-5395	papa11	RAW	crudo, verde, azul	cue³	cue³	192	1959	NA	NA	anderson1983diccionario	NA
-5396	papa11	SMOOTH	liso	du⁴nu⁴	du⁴nu⁴	193	1234	NA	NA	anderson1983diccionario	NA
-5397	papa11	SLOW	despacio, lento	yi²nu⁴	yi²nu⁴	194	701	NA	NA	anderson1983diccionario	NA
-5398	papa11	YESTERDAY	ayer	i⁴cu³	i⁴cu³	195	1174	NA	NA	anderson1983diccionario	NA
-5399	papa11	YEAR	año	ndu²yu⁴	ndu²yu⁴	196	1226	NA	NA	anderson1983diccionario	NA
-5400	papa11	NOW OR TODAY	ahora	man³	man³	197	2097	NA	NA	anderson1983diccionario	NA
-5401	papa11	NOW OR TODAY	hoy, de día	ma⁴gu³vi³	ma⁴-gu³vi³	197	2097	NA	NA	anderson1983diccionario	NA
-5402	papa11	NIGHT	noche	güi²nu⁴	güi²nu⁴	198	1233	NA	NA	anderson1983diccionario	NA
-5403	papa11	NIGHT	noche	yan³	yan³	198	1233	NA	NA	anderson1983diccionario	NA
-5404	papa11	NIGHT TIME	de noche, noche	'an³	'an³	199	NA	NA	NA	anderson1983diccionario	NA
-5405	papa11	DAY (24 HOURS)	día, fecha	gu³vi³	gu³vi³	200	1260	NA	NA	anderson1983diccionario	NA
-5406	papa11	DAY (NOT NIGHT)	de día	gu³vi³	gu³vi³	201	1225	NA	NA	anderson1983diccionario	NA
-5407	papa11	HALF	mitad, medio	ma⁴’an³	ma⁴’an³	202	816	NA	NA	anderson1983diccionario	NA
-5408	papa11	MONEY	dinero	tu²mi⁴	tu²mi⁴	203	1559	NA	NA	anderson1983diccionario	NA
-5409	papa11	WORKING OR WORK	trabajo	nti³yun³	nti³yun³	204	2281	NA	NA	anderson1983diccionario	NA
-5410	papa11	WORD	palabra	ndu³du³	ndu³du³	205	1599	NA	NA	anderson1983diccionario	NA
-5411	papa11	DREAM	sueño, noche	yan³	yan³	207	2374	NA	NA	anderson1983diccionario	NA
-5412	papa11	MUSIC	música	ca³ta³	ca³ta³	209	642	NA	NA	anderson1983diccionario	NA
+ID	DOCULECT	GLOSS	VALUE	FORM	IDlist	NOTES	LOAN	LOAN_SOURCE	SOURCE	FLOATTONE
+5200	papa11	madre	cha³cu³	cha³cu³	1	NA	NA	NA	anderson1983diccionario	NA
+5201	papa11	mamá!	na⁴na¹	na⁴na¹	2	not entirely sure, found in an example	NA	NA	anderson1983diccionario	NA
+5202	papa11	padre	chi³da³	chi³da³	3	NA	NA	NA	anderson1983diccionario	NA
+5203	papa11	padre	chi³du³	chi³du³	3	NA	NA	NA	anderson1983diccionario	NA
+5204	papa11	hijo/hija	da³ya³	da³ya³	5	NA	NA	NA	anderson1983diccionario	NA
+5205	papa11	hijo	sa²’an⁴ da³ya³	sa²’an⁴ da³ya³	6	man-child	NA	NA	anderson1983diccionario	NA
+5206	papa11	hija	ta¹’an⁴ da³ya³	ta¹’an⁴ da³ya³	7	woman-child	NA	NA	anderson1983diccionario	NA
+5207	papa11	hermana/hermano de otro genero	c’a²v’a²	c’a²v’a²	8	NA	NA	NA	anderson1983diccionario	NA
+5208	papa11	hermano, hermanastro	d’i³nu⁴	d’i³nu⁴	9	NA	NA	NA	anderson1983diccionario	NA
+5209	papa11	hermana, hermanastra	ta¹’an⁴ vi²’i⁴	ta¹’an⁴-vi²’i⁴	10	woman ?	NA	NA	anderson1983diccionario	NA
+5210	papa11	tía	du³di³	du³di³	11	NA	NA	NA	anderson1983diccionario	NA
+5211	papa11	tío	du²nu⁴	du²nu⁴	12	NA	NA	NA	anderson1983diccionario	NA
+5212	papa11	hombre, varón	sa²’an⁴	sa²’an⁴	13	NA	NA	NA	anderson1983diccionario	NA
+5213	papa11	mujer	nd’a̠³ta̠³	nd’a̠³ta̠³	14	NA	NA	NA	anderson1983diccionario	NA
+5214	papa11	mujer (informal)	ta¹’an⁴	ta¹’an⁴	14	NA	NA	NA	anderson1983diccionario	NA
+5215	papa11	dueño	'i⁴yan⁴ chin² ye⁴’en⁴	'i⁴yan⁴-chin²-ye⁴’en⁴	15	NA	NA	NA	anderson1983diccionario	NA
+5216	papa11	sacerdote	chi³du³	chi³du³	16	NA	NA	NA	anderson1983diccionario	NA
+5217	papa11	sangre	yun³	yun³	17	NA	NA	NA	anderson1983diccionario	NA
+5218	papa11	hueso	i³ni³	i³ni³	18	NA	NA	NA	anderson1983diccionario	NA
+5219	papa11	pelo	yu⁴du⁴	yu⁴du⁴	19	NA	NA	NA	anderson1983diccionario	NA
+5220	papa11	cara	nan³	nan³	20	NA	NA	NA	anderson1983diccionario	NA
+5221	papa11	lengua	ch’i³ya³	ch’i³ya³	21	NA	NA	NA	anderson1983diccionario	NA
+5222	papa11	diente	d’i²yun²	d’i²yun²	22	NA	NA	NA	anderson1983diccionario	NA
+5223	papa11	boca	che³nde³	che³nde³	23	NA	NA	NA	anderson1983diccionario	NA
+5224	papa11	oreja	ven³	ven³	24	NA	NA	NA	anderson1983diccionario	NA
+5225	papa11	nariz	du³tu³	du³tu³	25	NA	NA	NA	anderson1983diccionario	NA
+5226	papa11	cuello, garganta	da⁴ndu³	da⁴ndu³	26	NA	NA	NA	anderson1983diccionario	NA
+5227	papa11	mano	ta̠²’a̠⁴	ta̠²’a̠⁴	27	NA	NA	NA	anderson1983diccionario	NA
+5228	papa11	espalda	da²mi²	da²mi²	29	NA	NA	NA	anderson1983diccionario	NA
+5229	papa11	panza, barriga	che⁴te⁴	che⁴te⁴	30	NA	NA	NA	anderson1983diccionario	NA
+5230	papa11	tripa, intestino	gue³te³	gue³te³	31	NA	NA	NA	anderson1983diccionario	NA
+5231	papa11	pie	ca̠³’a̠³	ca̠³’a̠³	32	NA	NA	NA	anderson1983diccionario	NA
+5232	papa11	enfermedad	ca³’a³	ca³’a³	33	NA	NA	NA	anderson1983diccionario	NA
+5233	papa11	medicina	yi⁴cu⁴	yi⁴cu⁴	34	NA	NA	NA	anderson1983diccionario	NA
+5234	papa11	hinchazón	ca³’a³ yi³ndi³tu³	ca³’a³-yi³ndi³tu³	35	illness-?	NA	NA	anderson1983diccionario	NA
+5235	papa11	grano	nd’u²v’i²	nd’u²v’i²	36	NA	NA	NA	anderson1983diccionario	NA
+5236	papa11	pus	ya³cua³	ya³cua³	37	loan from Mixtec I think	maybe	Mixtec	anderson1983diccionario	NA
+5237	papa11	orina	nu⁴nv’e⁴de³	nu⁴nv’e⁴de³	38	NA	NA	NA	anderson1983diccionario	NA
+5238	papa11	tela	ti⁴nu⁴	ti⁴nu⁴	39	NA	NA	NA	anderson1983diccionario	NA
+5239	papa11	huarache	nda̠³cu³	nda̠³cu³	40	loan?	maybe	Mixtec	anderson1983diccionario	NA
+5240	papa11	pantalón	pa³nta³lón¹	pa³nta³lón¹	41	Sp. loan	yes	Spanish	anderson1983diccionario	NA
+5241	papa11	huipil	y’u²tu⁴	y’u²tu⁴	42	NA	NA	NA	anderson1983diccionario	NA
+5242	papa11	pueblo	yan²⁴	yan²⁴	43	NA	NA	NA	anderson1983diccionario	NA
+5243	papa11	casa	va⁴’a³	va⁴’a³	44	NA	NA	NA	anderson1983diccionario	NA
+5244	papa11	camino	yu²ni²	yu²ni²	45	NA	NA	NA	anderson1983diccionario	NA
+5245	papa11	horcón	yi³nga̠³’a̠³	yi³nga̠³’a̠³	46	NA	NA	NA	anderson1983diccionario	NA
+5246	papa11	petate	yi³va³	yi³va³	47	NA	NA	NA	anderson1983diccionario	NA
+5247	papa11	cama	ca²ma⁴	ca²ma⁴	48	Sp. loan	yes	Spanish	anderson1983diccionario	NA
+5248	papa11	banco	yi²ta²³⁴	yi²ta²³⁴	49	NA	NA	NA	anderson1983diccionario	NA
+5249	papa11	animal	i³ti³	i³ti³	50	NA	NA	NA	anderson1983diccionario	NA
+5250	papa11	pájaro	y’a²da²	y’a²da²	51	NA	NA	NA	anderson1983diccionario	NA
+5251	papa11	pez, pescado	y’a⁴ca⁴	y’a⁴ca⁴	52	NA	NA	NA	anderson1983diccionario	NA
+5252	papa11	culebra, serpiente	cu²	cu²	53	NA	NA	NA	anderson1983diccionario	NA
+5253	papa11	rana	ra²na¹	ra²na¹	54	Sp. loan	yes	Spanish	anderson1983diccionario	NA
+5254	papa11	gavilán	i³yun³	i³yun³	55	NA	NA	NA	anderson1983diccionario	NA
+5255	papa11	alacrán	i³tde³’en⁴	i³t-de³’en⁴	56	animal-tail	NA	NA	anderson1983diccionario	NA
+5256	papa11	cucaracha	stu²vi¹⁴	stu²vi¹⁴	57	NA	NA	NA	anderson1983diccionario	NA
+5257	papa11	chapulín	ti²cua¹⁴	ti²cua¹⁴	58	NA	NA	NA	anderson1983diccionario	NA
+5258	papa11	abeja	y’en²⁴	y’en²⁴	59	NA	NA	NA	anderson1983diccionario	NA
+5259	papa11	ratón, rata	ti’u¹⁴di⁴	ti’u¹⁴di⁴	60	NA	NA	NA	anderson1983diccionario	NA
+5260	papa11	venado	i³che¹⁴nu³	i³che¹⁴nu³	61	NA	NA	NA	anderson1983diccionario	NA
+5261	papa11	ardilla	i²yu¹⁴	i²yu¹⁴	62	NA	NA	NA	anderson1983diccionario	NA
+5262	papa11	zorrillo	s’i¹m’a⁴	s’i¹m’a⁴	63	NA	NA	NA	anderson1983diccionario	NA
+5263	papa11	tlacuache	y’a²ta¹⁴	y’a²ta¹⁴	64	NA	NA	NA	anderson1983diccionario	NA
+5264	papa11	mapache	y’u⁴vi⁴ y’a²na⁴	y’u⁴vi⁴-y’a²na⁴	65	tejón perro	NA	NA	anderson1983diccionario	NA
+5265	papa11	conejo	co³ne³jo¹	co³ne³jo¹	66	Sp. loan	yes	Spanish	anderson1983diccionario	NA
+5266	papa11	zopilote	s’i³cu³	s’i³cu³	67	NA	NA	NA	anderson1983diccionario	NA
+5267	papa11	perro	y’a²na⁴	y’a²na⁴	68	NA	NA	NA	anderson1983diccionario	NA
+5268	papa11	gato	vi²chi¹	vi²chi¹	69	NA	NA	NA	anderson1983diccionario	NA
+5269	papa11	gallo	tu¹sa¹’an⁴	tu-¹sa¹’an⁴	70	?-male	NA	NA	anderson1983diccionario	NA
+5270	papa11	gallina	tu¹ta¹’an⁴	tu-¹ta¹’an⁴	71	?-female	NA	NA	anderson1983diccionario	NA
+5271	papa11	marrano	cu²chi¹	cu²chi¹	72	Sp. loan	yes	Spanish	anderson1983diccionario	NA
+5272	papa11	caballo, bestia	y’u²du⁴	y’u²du⁴	73	NA	NA	NA	anderson1983diccionario	NA
+5273	papa11	borrego, oveja	i³tcu³⁴chi⁴	i³t-cu³⁴chi⁴	74	animal-cotton	NA	NA	anderson1983diccionario	NA
+5274	papa11	hormiga	i³cu⁴	i³cu⁴	75	NA	NA	NA	anderson1983diccionario	NA
+5275	papa11	cuerno	du³ni³ni³	du³ni³ni³	76	NA	NA	NA	anderson1983diccionario	NA
+5276	papa11	pluma	plu²ma¹	plu²ma¹	77	Sp. loan	yes	Spanish	anderson1983diccionario	NA
+5277	papa11	ala, brazo, paleta	gue⁴che³	gue⁴che³	78	NA	NA	NA	anderson1983diccionario	NA
+5278	papa11	cola	ndu²cu⁴de⁴’en³	ndu²cu⁴-de⁴’en³	79	with-tail	NA	NA	anderson1983diccionario	NA
+5279	papa11	árbol, palo	ya²’an²	ya²’an²	80	NA	NA	NA	anderson1983diccionario	NA
+5280	papa11	hierba, hoja	ya⁴ta⁴	ya⁴ta⁴	81	NA	NA	NA	anderson1983diccionario	NA
+5281	papa11	zacate	ya²ma⁴	ya²ma⁴	82	NA	NA	NA	anderson1983diccionario	NA
+5282	papa11	pasto, zacate	yu³ni¹	yu³ni¹	82	NA	NA	NA	anderson1983diccionario	NA
+5283	papa11	flor	na̠⁴nda̠⁴	na̠⁴nda̠⁴	83	NA	NA	NA	anderson1983diccionario	NA
+5284	papa11	maguey, verdura	yi⁴va⁴	yi⁴va⁴	84	NA	NA	NA	anderson1983diccionario	NA
+5285	papa11	raíz	d’i²yu²	d’i²yu²	85	NA	NA	NA	anderson1983diccionario	NA
+5286	papa11	espina	yan²	yan²	86	NA	NA	NA	anderson1983diccionario	NA
+5287	papa11	maíz en grano	ni²nu²	ni²nu²	87	NA	NA	NA	anderson1983diccionario	NA
+5288	papa11	milpa	yu²ndu⁴	yu²ndu⁴	88	NA	NA	NA	anderson1983diccionario	NA
+5289	papa11	elote	yu²di²	yu²di²	89	NA	NA	NA	anderson1983diccionario	NA
+5290	papa11	nixtamal	ve⁴ye⁴	ve⁴ye⁴	90	NA	NA	NA	anderson1983diccionario	NA
+5291	papa11	masa	ya⁴chi⁴	ya⁴chi⁴	91	NA	NA	NA	anderson1983diccionario	NA
+5292	papa11	tortilla	yu⁴ndu⁴	yu⁴ndu⁴	92	NA	NA	NA	anderson1983diccionario	NA
+5293	papa11	rastrojo	yi²v’o²⁴	yi²v’o²⁴	93	NA	NA	NA	anderson1983diccionario	NA
+5294	papa11	surco	su²rcu⁴	su²rcu⁴	94	Sp. loan	yes	Spanish	anderson1983diccionario	NA
+5295	papa11	espiga	ya²mi⁴	ya²mi⁴	95	NA	NA	NA	anderson1983diccionario	NA
+5296	papa11	frijol(es)	nu³ni³	nu³ni³	96	NA	NA	NA	anderson1983diccionario	NA
+5297	papa11	ejote	nde³te³	nde³te³	97	NA	NA	NA	anderson1983diccionario	NA
+5298	papa11	chile	'i³ya³	'i³ya³	98	NA	NA	NA	anderson1983diccionario	NA
+5299	papa11	sal	yi⁴ma⁴	yi⁴ma⁴	99	NA	NA	NA	anderson1983diccionario	NA
+5300	papa11	calabaza	yu²cu⁴	yu²cu⁴	100	NA	NA	NA	anderson1983diccionario	NA
+5301	papa11	chayote	n’in²	n’in²	101	NA	NA	NA	anderson1983diccionario	NA
+5302	papa11	caña	ndu²	ndu²	102	NA	NA	NA	anderson1983diccionario	NA
+5303	papa11	miel, chahuistle	dan⁴³	dan⁴³	103	NA	NA	NA	anderson1983diccionario	NA
+5304	papa11	grasa, manteca	dun⁴	dun⁴	104	NA	NA	NA	anderson1983diccionario	NA
+5305	papa11	blanquillo, huevo	du³ti³	du³ti³	105	NA	NA	NA	anderson1983diccionario	NA
+5306	papa11	tomate	nd’a²tu⁴	nd’a²tu⁴	106	NA	NA	NA	anderson1983diccionario	NA
+5307	papa11	camote	m’in²⁴	m’in²⁴	107	NA	NA	NA	anderson1983diccionario	NA
+5308	papa11	aguacate	nu³ngü’i³di⁴	nu³ngü’i³di⁴	108	NA	NA	NA	anderson1983diccionario	NA
+5309	papa11	plátano	tia²ca²	tia²ca²	109	NA	NA	NA	anderson1983diccionario	NA
+5310	papa11	nopal	yi²nd’i³tu³	yi²nd’i³tu³	110	NA	NA	NA	anderson1983diccionario	NA
+5311	papa11	mamey	tia²ccua̠³’a̠³	tia²c-cua̠³’a̠³	111	banana-red	NA	NA	anderson1983diccionario	NA
+5312	papa11	zapote	tia²jan²	tia²jan²	111	NA	NA	NA	anderson1983diccionario	NA
+5313	papa11	chirimoya, anona	ndu⁴cu⁴	ndu⁴cu⁴	112	NA	NA	NA	anderson1983diccionario	NA
+5314	papa11	hongo	gue⁴’e⁴	gue⁴’e⁴	113	NA	NA	NA	anderson1983diccionario	NA
+5315	papa11	carne	yu²ta⁴	yu²ta⁴	114	NA	NA	NA	anderson1983diccionario	NA
+5316	papa11	comal	cha²	cha²	115	NA	NA	NA	anderson1983diccionario	NA
+5317	papa11	olla	chi³ta³	chi³ta³	116	NA	NA	NA	anderson1983diccionario	NA
+5318	papa11	horno	ho²rno⁴	ho²rno⁴	117	Sp. loan	yes	Spanish	anderson1983diccionario	NA
+5319	papa11	lumbre, fuego	ya²’an⁴	ya²’an⁴	118	NA	NA	NA	anderson1983diccionario	NA
+5320	papa11	ceniza	yi⁴ya⁴	yi⁴ya⁴	119	NA	NA	NA	anderson1983diccionario	NA
+5321	papa11	carbón	yi²yu⁴	yi²yu⁴	120	NA	NA	NA	anderson1983diccionario	NA
+5322	papa11	humo	y’a³m’i³	y’a³m’i³	121	NA	NA	NA	anderson1983diccionario	NA
+5323	papa11	basura	da²cu¹⁴	da²cu¹⁴	122	NA	NA	NA	anderson1983diccionario	NA
+5324	papa11	plato, traste	cu³’u³	cu³’u³	123	NA	NA	NA	anderson1983diccionario	NA
+5325	papa11	jícara	ya³’a³	ya³’a³	124	NA	NA	NA	anderson1983diccionario	NA
+5326	papa11	canasta	cu’a²ta⁴	cu’a²ta⁴	125	NA	NA	NA	anderson1983diccionario	NA
+5327	papa11	tenate	y’u⁴cu³	y’u⁴cu³	125	NA	NA	NA	anderson1983diccionario	NA
+5328	papa11	caja, baúl	yya²va²	yya²va²	126	NA	NA	NA	anderson1983diccionario	NA
+5329	papa11	hilo	hi²lu⁴	hi²lu⁴	127	Sp. loan	yes	Spanish	anderson1983diccionario	NA
+5330	papa11	peine	ca²ca⁴	ca²ca⁴	128	NA	NA	NA	anderson1983diccionario	NA
+5331	papa11	mecate, cuerda	'i⁴yu⁴	'i⁴yu⁴	129	NA	NA	NA	anderson1983diccionario	NA
+5332	papa11	agujero, hoyo	yi³va³	yi³va³	130	NA	NA	NA	anderson1983diccionario	NA
+5333	papa11	red	ya⁴na⁴	ya⁴na⁴	131	NA	NA	NA	anderson1983diccionario	NA
+5334	papa11	jabón	na²ma²	na²ma²	132	NA	NA	NA	anderson1983diccionario	NA
+5335	papa11	anillo	cu⁴³ yi³nun³ ta̠³’a̠⁴	cu⁴³-yi³nun³-ta̠³’a̠⁴	133	NA	NA	NA	anderson1983diccionario	NA
+5336	papa11	luna	i⁴yu⁴	i⁴yu⁴	134	NA	NA	NA	anderson1983diccionario	NA
+5337	papa11	nube	men²⁴	men²⁴	135	NA	NA	NA	anderson1983diccionario	NA
+5338	papa11	rayo	gu⁴	gu⁴	136	NA	NA	NA	anderson1983diccionario	NA
+5339	papa11	rayo, relámpago	cu’a⁴³	cu’a⁴³	136	NA	NA	NA	anderson1983diccionario	NA
+5340	papa11	agua	nu⁴ni⁴	nu⁴ni⁴	137	NA	NA	NA	anderson1983diccionario	NA
+5341	papa11	lluvia	cu²vi⁴	cu²vi⁴	138	NA	NA	NA	anderson1983diccionario	NA
+5342	papa11	río	yi²cu²	yi²cu²	139	NA	NA	NA	anderson1983diccionario	NA
+5343	papa11	rocío	nu⁴ni⁴ d’i²v’i³yu³	nu⁴ni⁴-d’i²v’i³yu³	140	water-night.dew	NA	NA	anderson1983diccionario	NA
+5344	papa11	cerro, montaña	yi⁴cu⁴	yi⁴cu⁴	141	NA	NA	NA	anderson1983diccionario	NA
+5345	papa11	llanura, llano	yu²du⁴	yu²du⁴	142	NA	NA	NA	anderson1983diccionario	NA
+5346	papa11	piedra	tu²⁴	tu²⁴	143	NA	NA	NA	anderson1983diccionario	NA
+5347	papa11	algodón	ya̠³va̠³ cu⁴chi⁴	ya̠³va̠³-cu⁴chi⁴	144	?-cotton	NA	NA	anderson1983diccionario	NA
+5348	papa11	fierro, metal	cu⁴³	cu⁴³	145	NA	NA	NA	anderson1983diccionario	NA
+5349	papa11	papel	ca³ca³	ca³ca³	146	NA	NA	NA	anderson1983diccionario	NA
+5350	papa11	cal	ca³ca³	ca³ca³	147	NA	NA	NA	anderson1983diccionario	NA
+5351	papa11	cera, abeja	y’en²⁴	y’en²⁴	148	NA	NA	NA	anderson1983diccionario	NA
+5352	papa11	lodo	yi⁴nche⁴te¹⁴	yi⁴nche⁴te¹⁴	149	NA	NA	NA	anderson1983diccionario	NA
+5353	papa11	espuma	yu⁴quien²⁴	yu⁴quien²⁴	150	NA	NA	NA	anderson1983diccionario	NA
+5354	papa11	polvo	yu⁴ni⁴	yu⁴ni⁴	151	NA	NA	NA	anderson1983diccionario	NA
+5355	papa11	rojo	cua̠¹’a̠⁴	cua̠¹’a̠⁴	152	NA	NA	NA	anderson1983diccionario	NA
+5356	papa11	verde	cue³	cue³	153	NA	NA	NA	anderson1983diccionario	NA
+5357	papa11	amarillo	cuan²	cuan²	154	NA	NA	NA	anderson1983diccionario	NA
+5358	papa11	negro	cuen¹	cuen¹	155	NA	NA	NA	anderson1983diccionario	NA
+5359	papa11	blanco	cua¹⁴	cua¹⁴	156	NA	NA	NA	anderson1983diccionario	NA
+5360	papa11	uno	a²ma²	a²ma²	157	NA	NA	NA	anderson1983diccionario	NA
+5361	papa11	dos	u⁴vi⁴	u⁴vi⁴	158	NA	NA	NA	anderson1983diccionario	NA
+5362	papa11	tres	i⁴nu⁴	i⁴nu⁴	159	NA	NA	NA	anderson1983diccionario	NA
+5363	papa11	cuatro	cun⁴	cun⁴	160	NA	NA	NA	anderson1983diccionario	NA
+5364	papa11	cinco	gu³’un³	gu³’un³	161	NA	NA	NA	anderson1983diccionario	NA
+5365	papa11	seis	gan⁴	gan⁴	162	NA	NA	NA	anderson1983diccionario	NA
+5366	papa11	siete	nda⁴cha⁴	nda⁴cha⁴	163	NA	NA	NA	anderson1983diccionario	NA
+5367	papa11	ocho	ni³ni²	ni³ni²	164	NA	NA	NA	anderson1983diccionario	NA
+5368	papa11	nueve	nun³²	nun³²	165	NA	NA	NA	anderson1983diccionario	NA
+5369	papa11	diez	ndi³chi²	ndi³chi²	166	NA	NA	NA	anderson1983diccionario	NA
+5370	papa11	quince	ndi³t’i³yun³	ndi³t’i³yun³	167	NA	NA	NA	anderson1983diccionario	NA
+5371	papa11	veinte	ndi³cu²	ndi³cu²	168	NA	NA	NA	anderson1983diccionario	NA
+5372	papa11	pobre	nda²chi¹⁴	nda²chi¹⁴	169	NA	NA	NA	anderson1983diccionario	NA
+5373	papa11	rico	ri²cu⁴	ri²cu⁴	170	Sp. loan	yes	Spanish	anderson1983diccionario	NA
+5374	papa11	frío	i³cha²	i³cha²	171	NA	NA	NA	anderson1983diccionario	NA
+5375	papa11	caliente	'i⁴n’u⁴	'i⁴n’u⁴	172	NA	NA	NA	anderson1983diccionario	NA
+5376	papa11	grande.SG	ch’a³ta³	ch’a³ta³	173	NA	NA	NA	anderson1983diccionario	NA
+5377	papa11	grande.PL	'a³ta³	'a³ta³	174	NA	NA	NA	anderson1983diccionario	NA
+5378	papa11	chico.SG	l’in¹	l’in¹	175	NA	NA	NA	anderson1983diccionario	NA
+5379	papa11	pequeño.PL, chico.PL	'a²ya¹⁴	'a²ya¹⁴	176	NA	NA	NA	anderson1983diccionario	NA
+5380	papa11	largo.SG	ch’e⁴nu⁴	ch’e⁴nu⁴	177	NA	NA	NA	anderson1983diccionario	NA
+5381	papa11	largo.PL	'e⁴nu⁴	'e⁴nu⁴	178	NA	NA	NA	anderson1983diccionario	NA
+5382	papa11	bueno	nd’a³²	nd’a³²	179	NA	NA	NA	anderson1983diccionario	NA
+5383	papa11	dulce	ya³di³	ya³di³	180	NA	NA	NA	anderson1983diccionario	NA
+5384	papa11	salado	di⁴ni⁴	di⁴ni⁴	181	NA	NA	NA	anderson1983diccionario	NA
+5385	papa11	amargo	ya̠³	ya̠³	182	NA	NA	NA	anderson1983diccionario	NA
+5386	papa11	sabroso	yu³du³	yu³du³	183	NA	NA	NA	anderson1983diccionario	NA
+5387	papa11	ancho	ch’e⁴n’u⁴	ch’e⁴n’u⁴	184	NA	NA	NA	anderson1983diccionario	NA
+5388	papa11	nuevo	ga⁴³	ga⁴³	185	NA	NA	NA	anderson1983diccionario	NA
+5389	papa11	flojo	d’a⁴nd’i⁴	d’a⁴nd’i⁴	186	NA	NA	NA	anderson1983diccionario	NA
+5390	papa11	feo, malo	gua² nd’a̠²ca̠⁴	gua² nd’a̠²ca̠⁴	187	NA	NA	NA	anderson1983diccionario	NA
+5391	papa11	celoso	nd’²ta³	nd’²ta³	188	NA	NA	NA	anderson1983diccionario	NA
+5392	papa11	cerca	chen²⁴	chen²⁴	189	NA	NA	NA	anderson1983diccionario	NA
+5393	papa11	lejos	ye³’en²	ye³’en²	190	NA	NA	NA	anderson1983diccionario	NA
+5394	papa11	pesado	i³	i³	191	NA	NA	NA	anderson1983diccionario	NA
+5395	papa11	crudo, verde, azul	cue³	cue³	192	NA	NA	NA	anderson1983diccionario	NA
+5396	papa11	liso	du⁴nu⁴	du⁴nu⁴	193	NA	NA	NA	anderson1983diccionario	NA
+5397	papa11	despacio, lento	yi²nu⁴	yi²nu⁴	194	NA	NA	NA	anderson1983diccionario	NA
+5398	papa11	ayer	i⁴cu³	i⁴cu³	195	NA	NA	NA	anderson1983diccionario	NA
+5399	papa11	año	ndu²yu⁴	ndu²yu⁴	196	NA	NA	NA	anderson1983diccionario	NA
+5400	papa11	ahora	man³	man³	197	NA	NA	NA	anderson1983diccionario	NA
+5401	papa11	hoy, de día	ma⁴gu³vi³	ma⁴-gu³vi³	197	now-day	NA	NA	anderson1983diccionario	NA
+5402	papa11	noche	güi²nu⁴	güi²nu⁴	198	NA	NA	NA	anderson1983diccionario	NA
+5403	papa11	noche	yan³	yan³	198	NA	NA	NA	anderson1983diccionario	NA
+5404	papa11	de noche, noche	'an³	'an³	199	NA	NA	NA	anderson1983diccionario	NA
+5405	papa11	día, fecha	gu³vi³	gu³vi³	200	NA	NA	NA	anderson1983diccionario	NA
+5406	papa11	de día	gu³vi³	gu³vi³	201	NA	NA	NA	anderson1983diccionario	NA
+5407	papa11	mitad, medio	ma⁴’an³	ma⁴’an³	202	NA	NA	NA	anderson1983diccionario	NA
+5408	papa11	dinero	tu²mi⁴	tu²mi⁴	203	NA	NA	NA	anderson1983diccionario	NA
+5409	papa11	trabajo	nti³yun³	nti³yun³	204	NA	NA	NA	anderson1983diccionario	NA
+5410	papa11	palabra	ndu³du³	ndu³du³	205	NA	NA	NA	anderson1983diccionario	NA
+5411	papa11	sueño, noche	yan³	yan³	207	NA	NA	NA	anderson1983diccionario	NA
+5412	papa11	música	ca³ta³	ca³ta³	209	NA	NA	NA	anderson1983diccionario	NA
