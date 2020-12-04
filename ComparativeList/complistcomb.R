@@ -110,7 +110,11 @@ ev
 tail(ev)
 
 # export to tsv for further processing
-write_tsv(wl3, "/Users/auderset/Documents/GitHub/mixteca/ComparativeList/mixt_complist.tsv")
+write_tsv(wl3, "mixt_complist.tsv")
+
+# export list of doculects plus source for checking off orthography profiles
+orthography_list <- wl3 %>% select(DOCULECT, SOURCE) %>% distinct()
+write_tsv(orthography_list, "orthography_checklist.tsv")
 
 # to know where to continue IDs
 max(wl3$ID, na.rm = TRUE)

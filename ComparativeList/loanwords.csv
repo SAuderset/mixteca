@@ -6,7 +6,7 @@ ID,DOCULECT,GLOSS,VALUE,FORM,IDlist,NOTES,LOAN,LOAN_SOURCE,SOURCE
 1047,alac11,horse,kwáyí,NA,73,Sp. caballo,yes,Spanish,zylstra1991syntactic
 1073,alac11,box,káxá,NA,126,Sp. caja,yes,Spanish,zylstra1991syntactic
 787,ayut11,cat,mīshtūn,NA,69,NA,yes,Colonial Spanish,hills1990syntactic
-790,ayut11,horse,kwēī,NA,73,from Sp. caballo,yes ,Spanish,hills1990syntactic
+790,ayut11,horse,kwēī,NA,73,from Sp. caballo,yes,Spanish,hills1990syntactic
 3983,chay11,pantalón,pantalón,NA,41,Sp. loan,yes,Spanish,pensinger1974diccionario
 4004,chay11,conejo,cuñexu,NA,66,"Sp. loan, in examples only",yes,Spanish,pensinger1974diccionario
 4007,chay11,gato,milu,NA,69,NA,yes,Colonial Spanish,pensinger1974diccionario
@@ -42,7 +42,7 @@ ID,DOCULECT,GLOSS,VALUE,FORM,IDlist,NOTES,LOAN,LOAN_SOURCE,SOURCE
 408,jami11,rabbit,kūñēshú,NA,66,Sp. conejo,yes,Spanish,johnson1988syntactic
 6177,jica13,zorrillo,lírú,NA,63,NA,probably,Spanish,Emily John-Martin
 6180,jica13,conejo,leso,NA,66,NA,yes,Colonial Spanish,Emily John-Martin
-6189,jica13,caballo,kuáyu̠,NA,73,NA,yes ,Colonial Spanish,Emily John-Martin
+6189,jica13,caballo,kuáyu̠,NA,73,NA,yes,Colonial Spanish,Emily John-Martin
 530,ocot11,rabbit,lēxō,NA,66,NA,yes?,Spanish,alexander1988syntactic
 534,ocot11,horse,kwáyu,NA,73,NA,yes,Colonial Spanish,alexander1988syntactic
 5236,papa11,pus,ya³cua³,NA,37,loan from Mixtec I think,maybe,Mixtec,anderson1983diccionario
