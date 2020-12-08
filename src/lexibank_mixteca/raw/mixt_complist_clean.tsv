@@ -1,4 +1,4 @@
-ID	DOCULECT	CONCEPT	SPANISH_GLOSS	ORIGINAL	VALUE	IDlist	CONCEPTICON_ID	LOAN	LOAN_SOURCE	SOURCE	FLOATTONE
+ID	DOCULECT	CONCEPT	SPANISH_GLOSS	VALUE	FORM	IDlist	CONCEPTICON_ID	LOAN	LOAN_SOURCE	SOURCE	FLOATTONE
 4703	xoch11	MEDICINE	medicina	ta̠ta̠n	̠	34	1372	NA	NA	stark2013diccionario	NA
 9368	jate11	ANIMAL	animal	(-tɨ)	-tɨ	50	619	NA	NA	josserand1983mixtec	NA
 5379	papa11	SMALL (PLURAL)	pequeño.PL, chico.PL	'a²ya¹⁴	'a²ya¹⁴	176	NA	NA	NA	anderson1983diccionario	NA
@@ -17270,7 +17270,7 @@ ID	DOCULECT	CONCEPT	SPANISH_GLOSS	ORIGINAL	VALUE	IDlist	CONCEPTICON_ID	LOAN	LOAN
 848	ayut11	COLD	cold	vishin	vishin	171	1287	NA	NA	hills1990syntactic	NA
 978	coat11	COLD	cold	vishín	vishín	171	1287	NA	NA	small1990syntactic	NA
 1110	alac11	COLD	cold	vīshin	vīshin	171	1287	NA	NA	zylstra1991syntactic	NA
-1119	alac11	FRO	sweet	visi	visi	180	717	NA	NA	zylstra1991syntactic	NA
+1119	alac11	SWEET	sweet	visi	visi	180	717	NA	NA	zylstra1991syntactic	NA
 1986	tepo01	TEN	diez	visi	visi	166	1515	NA	NA	alvarado1593vocabulario	NA
 4111	chay11	COLD	frío	visi	visi	171	1287	NA	NA	pensinger1974diccionario	NA
 4650	alac11	SWEET	dulce	visi	visi	180	717	NA	NA	zylstra2012gramatica	NA
