@@ -157,7 +157,7 @@ ID	DOCULECT	CONCEPT	SPANISH_GLOSS	VALUE	FORM	IDlist	CONCEPTICON_ID	LOAN	LOAN_SOU
 3828	SanMarcoslaFlorMixtec	TASTY	sabroso	àsǐn	àsǐn	183	1813			oxnard2020		flor12
 596	SantoTomasOcotepecMixtec	TASTY	delicious	āsin	āsin	183	1813			alexander1988syntactic		ocot11
 859	AyutlalosLibresMixtec	TASTY	delicious	āsinh	āsinh	183	1813			hills1990syntactic		ayut11
-18240	Proto-MixtecMixtec	TASTY	sabroso	asi̧ʔ	asi̧ʔ	183	1813			josserand1983mixtec		prom01
+18240	Proto-Mixtec	TASTY	sabroso	asi̧ʔ	asi̧ʔ	183	1813			josserand1983mixtec		prom01
 18193	AyutlalosLibresMixtec	TASTY	sabroso	āsi̧ʔ	āsi̧ʔ	183	1813			josserand1983mixtec		ayut11
 18183	SantaMariaAcatepecMixtec	TASTY	sabroso	asɨ	asɨ	183	1813			josserand1983mixtec		acat11
 18204	SanJuanColoradoMixtec	TASTY	sabroso	asɨ	asɨ	183	1813			josserand1983mixtec		colo11
@@ -173,7 +173,7 @@ ID	DOCULECT	CONCEPT	SPANISH_GLOSS	VALUE	FORM	IDlist	CONCEPTICON_ID	LOAN	LOAN_SOU
 476	SantiagoJamiltepecMixtec	TASTY	delicious	asɨn	asɨn	183	1813			johnson1988syntactic		jami11
 5182	SanEstebanAtatlahucaMixtec	TASTY	sabroso	asɨ̄n	asɨ̄n	183	1813			alexander1980gramatica	[C]	atat11
 4335	SanJuanColoradoMixtec	TASTY	sabroso	àsɨ̀n	àsɨ̀n	183	1813			stark1986diccionario		colo11
-18239	Proto-MixtecMixtec	TASTY	sabroso	asɨ̧ʔ	asɨ̧ʔ	183	1813			josserand1983mixtec		prom01
+18239	Proto-Mixtec	TASTY	sabroso	asɨ̧ʔ	asɨ̧ʔ	183	1813			josserand1983mixtec		prom01
 18268	SantaMariaZacatepecMixtec	TASTY	sabroso	asɨ̧ʔ	asɨ̧ʔ	183	1813			josserand1983mixtec		zaca11
 18197	ChalcatongoHidalgoMixtec	TASTY	sabroso	asu	asu	183	1813			josserand1983mixtec		chal11
 18261	SantaMariaYolotepecMixtec	TASTY	sabroso	asu̧	asu̧	183	1813			josserand1983mixtec		yolo11
@@ -184,8 +184,8 @@ ID	DOCULECT	CONCEPT	SPANISH_GLOSS	VALUE	FORM	IDlist	CONCEPTICON_ID	LOAN	LOAN_SOU
 5943	SanAndresChicahuaxtlaTriqui	CLOTH OR CLOTHES	tela, ropa, trapo	atsij⁵i	atsij⁵i	39				good1978diccionario		chic12
 2011	SanPedroySanPabloTeposcolula1600Mixtec	BITTER	amarga cosa	atu	atu	182	887			alvarado1593vocabulario		tepo01
 18157	SanMateoSindihuiMixtec	BITTER	amargo	atu	atu	182	887			josserand1983mixtec		sind11
-20063	Proto-MixtecMixtec	WHEN	cuándo	awa̧	awa̧	208	1238			josserand1983mixtec		prom01
-5640	Proto-MixtecMixtec	WHEN	cuándo	áwã́	áwã́	208	1238			swanton2020observaciones		prom01
+20063	Proto-Mixtec	WHEN	cuándo	awa̧	awa̧	208	1238			josserand1983mixtec		prom01
+5640	Proto-Mixtec	WHEN	cuándo	áwã́	áwã́	208	1238			swanton2020observaciones		prom01
 19977	SantaMariaAcatepecMixtec	WHEN	cuándo	a̧wa̧	a̧wa̧	208	1238			josserand1983mixtec		acat11
 19991	SanPedroAtoyacMixtec	WHEN	cuándo	a̧wa̧	a̧wa̧	208	1238			josserand1983mixtec		atoy11
 19997	SanAgustinChayucoMixtec	WHEN	cuándo	a̧wa̧	a̧wa̧	208	1238			josserand1983mixtec		chay11
@@ -209,11 +209,11 @@ ID	DOCULECT	CONCEPT	SPANISH_GLOSS	VALUE	FORM	IDlist	CONCEPTICON_ID	LOAN	LOAN_SOU
 2013	SanPedroySanPabloTeposcolula1600Mixtec	BITTER	amarga cosa	aya	aya	182	887			alvarado1593vocabulario		tepo01
 4122	SanAgustinChayucoMixtec	TASTY	sabroso	azi	azi	183	1813			pensinger1974diccionario		chay11
 18210	SanMartinEstadoMixtec	TASTY	sabroso	aθi	aθi	183	1813			josserand1983mixtec		esta11
-5788	Proto-MixtecMixtec	METAL	metal	ᴮ-káà	ᴮ-káà	145	2244			swanton2020observaciones		prom01
-5718	Proto-MixtecMixtec	MEAT	carne	(ᴮ)-kójõ̀	ᴮ-kójõ̀	114	634			swanton2020observaciones		prom01
-5703	Proto-MixtecMixtec	FAT (FROM ANIMALS)	manteca	(ᴮ)-séʔẽ̀	ᴮ-séʔẽ̀	104	1282			swanton2020observaciones		prom01
-5659	Proto-MixtecMixtec	FEATHER	pluma	ᴮ-tówĩ̀	ᴮ-tówĩ̀	77	1201			swanton2020observaciones		prom01
-5896	Proto-MixtecMixtec	DREAM	sueño	(ᴮ)-xánì	ᴮ-xánì	207	2374			swanton2020observaciones		prom01
+5788	Proto-Mixtec	METAL	metal	ᴮ-káà	ᴮ-káà	145	2244			swanton2020observaciones		prom01
+5718	Proto-Mixtec	MEAT	carne	(ᴮ)-kójõ̀	ᴮ-kójõ̀	114	634			swanton2020observaciones		prom01
+5703	Proto-Mixtec	FAT (FROM ANIMALS)	manteca	(ᴮ)-séʔẽ̀	ᴮ-séʔẽ̀	104	1282			swanton2020observaciones		prom01
+5659	Proto-Mixtec	FEATHER	pluma	ᴮ-tówĩ̀	ᴮ-tówĩ̀	77	1201			swanton2020observaciones		prom01
+5896	Proto-Mixtec	DREAM	sueño	(ᴮ)-xánì	ᴮ-xánì	207	2374			swanton2020observaciones		prom01
 344	SantaMariaYolotepecMixtec	GOOD	bueno	ba'¹a³	ba'¹a³	179	1035			amith2020yoloxochitl		yolo11
 341	SantaMariaYolotepecMixtec	SMALL (PLURAL)	pequeño.PL	ba⁴li⁴	ba⁴li⁴	176				amith2020yoloxochitl		yolo11
 5570	SanJuanTepeuxila1900Mixtec	DREAM	sueño	bad'iana	bad'iana	207	2374			belmar1902el-cuicateco		tepe03
@@ -2855,8 +2855,8 @@ ID	DOCULECT	CONCEPT	SPANISH_GLOSS	VALUE	FORM	IDlist	CONCEPTICON_ID	LOAN	LOAN_SOU
 3656	SanMarcoslaFlorMixtec	BEESWAX	cera	ìjmǎ	ìjmǎ	148	1931			oxnard2020		flor12
 3351	PiedraAzulMixtec	THORN	espina, araña	ijñǔ	ijñǔ	86	124			oxnard2020		pied12
 3352	SanMarcoslaFlorMixtec	THORN	espina, araña	ijñǔ	ijñǔ	86	124			oxnard2020		flor12
-5823	Proto-MixtecMixtec	SIX	seis	ìjõ̀	ìjõ̀	162	1703			swanton2020observaciones		prom01
-5684	Proto-MixtecMixtec	THORN	espina	íjṍʔ	íjṍʔ	86	124			swanton2020observaciones		prom01
+5823	Proto-Mixtec	SIX	seis	ìjõ̀	ìjõ̀	162	1703			swanton2020observaciones		prom01
+5684	Proto-Mixtec	THORN	espina	íjṍʔ	íjṍʔ	86	124			swanton2020observaciones		prom01
 3333	PiedraAzulMixtec	FLOWER	flor	ijtâ	ijtâ	83	239			oxnard2020		pied12
 3329	SanMarcoslaFlorMixtec	GRASS	zacate, pasto	ijtsià	ijtsià	82	606			oxnard2020		flor12
 3328	PiedraAzulMixtec	GRASS	zacate, pasto	ijtsiâ	ijtsiâ	82	606			oxnard2020		pied12
@@ -2974,7 +2974,7 @@ ID	DOCULECT	CONCEPT	SPANISH_GLOSS	VALUE	FORM	IDlist	CONCEPTICON_ID	LOAN	LOAN_SOU
 19067	SantiagoPinotepaNacionalMixtec	YESTERDAY	ayer	iku	iku	195	1174			josserand1983mixtec		pino11
 19068	PinotepaDonLuisMixtec	YESTERDAY	ayer	iku	iku	195	1174			josserand1983mixtec		pino12
 19069	SanMiguelProgresoMixtec	YESTERDAY	ayer	iku	iku	195	1174			josserand1983mixtec		prog11
-19071	Proto-MixtecMixtec	YESTERDAY	ayer	iku	iku	195	1174			josserand1983mixtec		prom01
+19071	Proto-Mixtec	YESTERDAY	ayer	iku	iku	195	1174			josserand1983mixtec		prom01
 19073	SanFranciscoSayultepecMixtec	YESTERDAY	ayer	iku	iku	195	1174			josserand1983mixtec		sayu11
 19074	SanMateoSindihuiMixtec	YESTERDAY	ayer	iku	iku	195	1174			josserand1983mixtec		sind11
 19075	SanJoseSinicahuaMixtec	YESTERDAY	ayer	iku	iku	195	1174			josserand1983mixtec		sini11
@@ -3022,7 +3022,7 @@ ID	DOCULECT	CONCEPT	SPANISH_GLOSS	VALUE	FORM	IDlist	CONCEPTICON_ID	LOAN	LOAN_SOU
 2906	SanJeronimoXayacatlanMixtec	YESTERDAY	yesterday	īkū	īkū	195	1174			durr1987preliminary		xaya11
 19095	XayacatlanBravoMixtec	YESTERDAY	ayer	īkū	īkū	195	1174			josserand1983mixtec		xaya12
 2905	SanMiguelElGrandeMixtec	YESTERDAY	yesterday	īkū	īkū-	195	1174			durr1987preliminary		gran11
-5871	Proto-MixtecMixtec	YESTERDAY	ayer	íkú-(ní)	íkú-ní	195	1174			swanton2020observaciones		prom01
+5871	Proto-Mixtec	YESTERDAY	ayer	íkú-(ní)	íkú-ní	195	1174			swanton2020observaciones		prom01
 824	AyutlalosLibresMixtec	MOUNTAIN OR HILL	mountain	ikūh	ikūh	141	2118			hills1990syntactic		ayut11
 15999	SanMiguelPiedrasMixtec	RED	rojo	(i)kʷeʔe	ikʷeʔe	152	156			josserand1983mixtec		pied11
 14171	CuilapamGuerreroMixtec	THREAD	hilo	ilɨ	ilɨ	127	1161			josserand1983mixtec		cuil11
@@ -3259,7 +3259,7 @@ ID	DOCULECT	CONCEPT	SPANISH_GLOSS	VALUE	FORM	IDlist	CONCEPTICON_ID	LOAN	LOAN_SOU
 1019	AlacatlatzalaMixtec	HAIR	hair	īsí	īsí	19	1040			zylstra1991syntactic		alac11
 17100	YucuquimiOcampoMixtec	TEN	diez	isi-(ƀi)	isi-ƀi	166	1515			josserand1983mixtec		yucu16
 15405	SanFranciscolasFloresMixtec	COTTON	algodón	iši-ⁿǰaʔa	iši-ⁿǰaʔa	144	1850			josserand1983mixtec		flor11
-5588	Proto-MixtecMixtec	HAIR	pelo	ísíʔ	ísíʔ	19	1040			swanton2020observaciones		prom01
+5588	Proto-Mixtec	HAIR	pelo	ísíʔ	ísíʔ	19	1040			swanton2020observaciones		prom01
 785	AyutlalosLibresMixtec	RABBIT	rabbit	iso	iso	66	1136			hills1990syntactic		ayut11
 5114	SanEstebanAtatlahucaMixtec	RABBIT	conejo	iso	iso	66	1136			alexander1980gramatica	[C]	atat11
 20358	SantoDomingoHuendioMixtec	RABBIT	conejo	iso	iso	66	1136			becerra-roldan2015un-estudio		huen11
@@ -3315,7 +3315,7 @@ ID	DOCULECT	CONCEPT	SPANISH_GLOSS	VALUE	FORM	IDlist	CONCEPTICON_ID	LOAN	LOAN_SOU
 10292	SantiagoPinotepaNacionalMixtec	DEER	venado	isu	isu	61	1936			josserand1983mixtec		pino11
 10293	PinotepaDonLuisMixtec	DEER	venado	isu	isu	61	1936			josserand1983mixtec		pino12
 10294	SanMiguelProgresoMixtec	DEER	venado	isu	isu	61	1936			josserand1983mixtec		prog11
-10296	Proto-MixtecMixtec	DEER	venado	isu	isu	61	1936			josserand1983mixtec		prom01
+10296	Proto-Mixtec	DEER	venado	isu	isu	61	1936			josserand1983mixtec		prom01
 10298	SanFranciscoSayultepecMixtec	DEER	venado	isu	isu	61	1936			josserand1983mixtec		sayu11
 10300	SanJoseSinicahuaMixtec	DEER	venado	isu	isu	61	1936			josserand1983mixtec		sini11
 10308	LosTejocotesMixtec	DEER	venado	isu	isu	61	1936			josserand1983mixtec		tejo11
@@ -3372,7 +3372,7 @@ ID	DOCULECT	CONCEPT	SPANISH_GLOSS	VALUE	FORM	IDlist	CONCEPTICON_ID	LOAN	LOAN_SOU
 4937	MagdalenaPenascoMixtec	FLOWER	flor	ità	ità	83	239			hollenbach2017diccionario		pena11
 20664	YucunanyMixtec	FLOWER	flower	ità	ità	83	239			salazar2020yucunani		yucu17
 3335	SanSebastianMonteMixtec	FLOWER	flor	ítà	ítà	83	239			oxnard2020		mont12
-5679	Proto-MixtecMixtec	FLOWER	flor	ítà	ítà	83	239			swanton2020observaciones		prom01
+5679	Proto-Mixtec	FLOWER	flor	ítà	ítà	83	239			swanton2020observaciones		prom01
 3610	TlahuapaMixtec	RIVER	río	ìta	ìta	139	666			oxnard2020		tlah11
 2448	SantaMariaPenolesMixtec	FLOWER	flower	ìtá	ìtá	83	239			durr1987preliminary		peno11
 2448	SantaMariaPenolesMixtec	FLOWER	flower	ìtá	ìtá	83	239			durr1987preliminary		peno11
@@ -3394,7 +3394,7 @@ ID	DOCULECT	CONCEPT	SPANISH_GLOSS	VALUE	FORM	IDlist	CONCEPTICON_ID	LOAN	LOAN_SOU
 929	SanJuanCoatzospamMixtec	GRASS	grass	ite	ite	82	606			small1990syntactic		coat11
 4936	MagdalenaPenascoMixtec	GRASS	zacate, pasto	itè	itè	82	606			hollenbach2017diccionario		pena11
 4948	MagdalenaPenascoMixtec	CORN STALK	rastrojo (el tallo entero)	itè nìi	itè	93				hollenbach2017diccionario	[A]	pena11
-5674	Proto-MixtecMixtec	GRASS	pasto	ítè	ítè	82	606			swanton2020observaciones		prom01
+5674	Proto-Mixtec	GRASS	pasto	ítè	ítè	82	606			swanton2020observaciones		prom01
 538	SantoTomasOcotepecMixtec	GRASS	grass	īte	īte	82	606			alexander1988syntactic		ocot11
 5450	SanJuanTepeuxila1900Mixtec	ANIMAL	animal	iti	iti	50	619			belmar1902el-cuicateco		tepe03
 7716	SanMiguelProgresoMixtec	INTESTINES	tripas	iti	iti	31	1991			josserand1983mixtec		prog11
@@ -3414,7 +3414,7 @@ ID	DOCULECT	CONCEPT	SPANISH_GLOSS	VALUE	FORM	IDlist	CONCEPTICON_ID	LOAN	LOAN_SOU
 4391	SantaMariaZacatepecMixtec	PATH	camino	iti'	iti'	45	2252			towne2011gramatica		zaca11
 6200	ElJicaralMixtec	GRASS	zacate, pasto	itia	itia	82	606			Emily John-Martin		jica13
 6263	ElJicaralMixtec	RIVER	río	i̠tia	i̠tia	139	666			Emily John-Martin		jica13
-5626	Proto-MixtecMixtec	PATH	camino	ítíʔ	ítíʔ	45	2252			swanton2020observaciones		prom01
+5626	Proto-Mixtec	PATH	camino	ítíʔ	ítíʔ	45	2252			swanton2020observaciones		prom01
 7660	SanJuanCoatzospamMixtec	INTESTINES	tripas	itɨ	itɨ	31	1991			josserand1983mixtec		coat11
 7721	SanMateoSindihuiMixtec	INTESTINES	tripas	itɨ	itɨ	31	1991			josserand1983mixtec		sind11
 11509	CuilapamGuerreroMixtec	CORN FIELD	milpa	itɨ	itɨ	88	449			josserand1983mixtec		cuil11
@@ -3492,7 +3492,7 @@ ID	DOCULECT	CONCEPT	SPANISH_GLOSS	VALUE	FORM	IDlist	CONCEPTICON_ID	LOAN	LOAN_SOU
 11544	SantaMariaNutioMixtec	CORN FIELD	milpa	itu	itu	88	449			josserand1983mixtec		nuti11
 11551	SantiagoPinotepaNacionalMixtec	CORN FIELD	milpa	itu	itu	88	449			josserand1983mixtec		pino11
 11552	PinotepaDonLuisMixtec	CORN FIELD	milpa	itu	itu	88	449			josserand1983mixtec		pino12
-11554	Proto-MixtecMixtec	CORN FIELD	milpa	itu	itu	88	449			josserand1983mixtec		prom01
+11554	Proto-Mixtec	CORN FIELD	milpa	itu	itu	88	449			josserand1983mixtec		prom01
 11556	SanFranciscoSayultepecMixtec	CORN FIELD	milpa	itu	itu	88	449			josserand1983mixtec		sayu11
 11558	SanBartoloSoyaltepecMixtec	CORN FIELD	milpa	itu	itu	88	449			josserand1983mixtec		soya11
 11559	SanJuanTamazolaMixtec	CORN FIELD	milpa	itu	itu	88	449			josserand1983mixtec		tama11
@@ -3596,7 +3596,7 @@ ID	DOCULECT	CONCEPT	SPANISH_GLOSS	VALUE	FORM	IDlist	CONCEPTICON_ID	LOAN	LOAN_SOU
 13349	SanMateoSindihuiMixtec	GRIDDLE	comal	i(y)o	iyo	115				josserand1983mixtec		sind11
 13356	SanJuanTeitaMixtec	GRIDDLE	comal	iyo	iyo	115				josserand1983mixtec		teit11
 13382	YutanduchiGuerreroMixtec	GRIDDLE	comal	iyo	iyo	115				josserand1983mixtec		yuta11
-16719	Proto-MixtecMixtec	SIX	seis	iyo̧	iyo̧	162	1703			josserand1983mixtec		prom01
+16719	Proto-Mixtec	SIX	seis	iyo̧	iyo̧	162	1703			josserand1983mixtec		prom01
 5460	SanJuanTepeuxila1900Mixtec	SQUIRREL	ardilla	iyu	iyu	62	1628			belmar1902el-cuicateco		tepe03
 5501	SanJuanTepeuxila1900Mixtec	CHARCOAL	carbón	iyu	iyu	120	1188			belmar1902el-cuicateco		tepe03
 16735	SantiagoTilantongoMixtec	SIX	seis	i̧(y)u̧	i̧yu̧	162	1703			josserand1983mixtec		tila11
@@ -3665,7 +3665,7 @@ ID	DOCULECT	CONCEPT	SPANISH_GLOSS	VALUE	FORM	IDlist	CONCEPTICON_ID	LOAN	LOAN_SOU
 17544	SanBartolomeYucuaneMixtec	HOT	caliente	i̧ʔni̧	i̧ʔni̧	172	1286			josserand1983mixtec		yucu11
 17549	ZapotitlanPalmasMixtec	HOT	caliente	i̧ʔni̧	i̧ʔni̧	172	1286			josserand1983mixtec		zapo11
 17540	XayacatlanBravoMixtec	HOT	caliente	ī̧ʔnī̧	ī̧ʔnī̧	172	1286			josserand1983mixtec		xaya12
-17519	Proto-MixtecMixtec	HOT	caliente	iʔniʔ	iʔniʔ	172	1286			josserand1983mixtec		prom01
+17519	Proto-Mixtec	HOT	caliente	iʔniʔ	iʔniʔ	172	1286			josserand1983mixtec		prom01
 17470	AyutlalosLibresMixtec	HOT	caliente	i̧ʔni̧ʔ	i̧ʔni̧ʔ	172	1286			josserand1983mixtec		ayut11
 13552	SantaMariaTataltepecMixtec	OVEN	horno	iʔNnu̧	iʔNnu̧	117	1143			josserand1983mixtec		tata11
 17475	SanAgustinChayucoMixtec	HOT	caliente	i̧ʔñi̧	i̧ʔñi̧	172	1286			josserand1983mixtec		chay11
@@ -3749,7 +3749,7 @@ ID	DOCULECT	CONCEPT	SPANISH_GLOSS	VALUE	FORM	IDlist	CONCEPTICON_ID	LOAN	LOAN_SOU
 21103	SanAndresChicahuaxtlaTriqui	CHILI PEPPER	chile	ja³ˀa³ʰ	ja³ˀa³ʰ	98	919			hernandez-mendoza2020vocabulario		chic12
 5594	AlcozaucaGuerreroMixtec	TONGUE	lengua	ja⁴¹a⁴	ja⁴¹a⁴	21	1205			swanton2020observaciones		alco11
 5054	MagdalenaPenascoMixtec	NEW	nuevo	jaa	jaa	185	1231			hollenbach2017diccionario	[A]	pena11
-5901	Proto-MixtecMixtec	MUSIC	canción,  música	jáà	jáà	209	642			swanton2020observaciones		prom01
+5901	Proto-Mixtec	MUSIC	canción,  música	jáà	jáà	209	642			swanton2020observaciones		prom01
 4187	SanJuanColoradoMixtec	CLOTH OR CLOTHES	tela, ropa	jahma	jahma	39				stark1986diccionario		colo11
 4914	MagdalenaPenascoMixtec	POSSUM	tlacuache, zarigüeya	jákó	jákó	64	470			hollenbach2017diccionario	[A]	pena11
 5069	MagdalenaPenascoMixtec	NIGHT	noche	jakuaà	jakuaà	198	1233			hollenbach2017diccionario	[BA]	pena11
@@ -3763,12 +3763,12 @@ ID	DOCULECT	CONCEPT	SPANISH_GLOSS	VALUE	FORM	IDlist	CONCEPTICON_ID	LOAN	LOAN_SOU
 4489	SantaMariaZacatepecMixtec	HALF	mitad	java	java	202	816			towne2011gramatica		zaca11
 3608	SanSebastianMonteMixtec	RAIN (PRECIPITATION)	lluvia	jàvì	jàvì	138	658			oxnard2020		mont12
 2972	SanSebastianMonteMixtec	CHILD (DESCENDANT)	hijo/hija	jàya 	jàya 	5	1801			oxnard2020		mont12
-5698	Proto-MixtecMixtec	CHILI PEPPER	chile	jáʔáʔ	jáʔáʔ	98	919			swanton2020observaciones		prom01
-5713	Proto-MixtecMixtec	SWEET POTATO	camote	jáʔwĩ 	jáʔwĩ 	107	159			swanton2020observaciones		prom01
+5698	Proto-Mixtec	CHILI PEPPER	chile	jáʔáʔ	jáʔáʔ	98	919			swanton2020observaciones		prom01
+5713	Proto-Mixtec	SWEET POTATO	camote	jáʔwĩ 	jáʔwĩ 	107	159			swanton2020observaciones		prom01
 5098	SanEstebanAtatlahucaMixtec	FOOT	pie	jehē	jehē	32	1301			alexander1980gramatica	[C]	atat11
-5578	Proto-MixtecMixtec	BROTHER (OF MAN)	hermano de hombre	jénì	jénì	9	559			swanton2020observaciones		prom01
-5852	Proto-MixtecMixtec	NEAR	cerca	jétĩ́	jétĩ́	189	1942			swanton2020observaciones		prom01
-5743	Proto-MixtecMixtec	GOURD BOWL	jícara	jéxĩ́ʔ	jéxĩ́ʔ	124				swanton2020observaciones		prom01
+5578	Proto-Mixtec	BROTHER (OF MAN)	hermano de hombre	jénì	jénì	9	559			swanton2020observaciones		prom01
+5852	Proto-Mixtec	NEAR	cerca	jétĩ́	jétĩ́	189	1942			swanton2020observaciones		prom01
+5743	Proto-Mixtec	GOURD BOWL	jícara	jéxĩ́ʔ	jéxĩ́ʔ	124				swanton2020observaciones		prom01
 4864	MagdalenaPenascoMixtec	OWNER	dueño	jito'ò	ji-to'ò	15	1036			hollenbach2017diccionario	[BA]	pena11
 4968	MagdalenaPenascoMixtec	MUSHROOM	hongo	ji'ì	ji'ì	113	641			hollenbach2017diccionario	{BA}	pena11
 5668	YucuquimiOcampoMixtec	TREE	árbol	ji³to¹	ji³to¹	80	906			swanton2020observaciones		yucu16
@@ -3804,8 +3804,8 @@ ID	DOCULECT	CONCEPT	SPANISH_GLOSS	VALUE	FORM	IDlist	CONCEPTICON_ID	LOAN	LOAN_SOU
 5757	YucuquimiOcampoMixtec	ROPE	mecate	jo³ʔo¹	jo³ʔo¹	129	1218			swanton2020observaciones		yucu16
 5754	AlcozaucaGuerreroMixtec	ROPE	mecate	jo³ʔo⁴	jo³ʔo⁴	129	1218			swanton2020observaciones		alco11
 21199	SanAndresChicahuaxtlaTriqui	YEAR	año	jo³ˀ	jo³ˀ	196	1226			hernandez-mendoza2020vocabulario		chic12
-5758	Proto-MixtecMixtec	MOON	luna	jòòʔ	jòòʔ	134	1313			swanton2020observaciones		prom01
-5753	Proto-MixtecMixtec	ROPE	mecate	jóʔóʔ	jóʔóʔ	129	1218			swanton2020observaciones		prom01
+5758	Proto-Mixtec	MOON	luna	jòòʔ	jòòʔ	134	1313			swanton2020observaciones		prom01
+5753	Proto-Mixtec	ROPE	mecate	jóʔóʔ	jóʔóʔ	129	1218			swanton2020observaciones		prom01
 5771	ChalcatongoHidalgoMixtec	RIVER	río	ju¹ʧa²	ju¹ʧa²	139	666			swanton2020observaciones		chal11
 5779	AlcozaucaGuerreroMixtec	STONE OR ROCK	piedra	ju¹u⁴	ju¹u⁴	143	2125			swanton2020observaciones		alco11
 5633	SantaMariaZacatepecMixtec	MAT	petate	ju²bi²ʔ	ju²bi²ʔ	47	195			swanton2020observaciones		zaca11
@@ -3829,21 +3829,21 @@ ID	DOCULECT	CONCEPT	SPANISH_GLOSS	VALUE	FORM	IDlist	CONCEPTICON_ID	LOAN	LOAN_SOU
 8989	SanCristobalJamiltepecMixtec	MAT	petate	ǰuƀi	ǰuƀi	47	195			josserand1983mixtec		cris11
 4173	SanJuanColoradoMixtec	NECK	cuello	jùcùn yò	jùcùn	26	1333			stark1986diccionario		colo11
 4228	SanJuanColoradoMixtec	TAIL	cola	jùhmà tɨ̀	jùhmà	79	1220			stark1986diccionario		colo11
-5669	Proto-MixtecMixtec	HERBACEOUS PLANT	hierba	jùkù	jùkù	81				swanton2020observaciones		prom01
+5669	Proto-Mixtec	HERBACEOUS PLANT	hierba	jùkù	jùkù	81				swanton2020observaciones		prom01
 20377	SantoDomingoHuendioMixtec	FURROW	surco	jukún	jukún	94	1794			becerra-roldan2015un-estudio		huen11
 3843	SanSebastianMonteMixtec	LAZY	flojo	júsá	júsá	186	1564			oxnard2020		mont12
-5768	Proto-MixtecMixtec	RIVER	río	jùté	jùté	139	666			swanton2020observaciones		prom01
+5768	Proto-Mixtec	RIVER	río	jùté	jùté	139	666			swanton2020observaciones		prom01
 3010	SanSebastianMonteMixtec	PRIEST	sacerdote	jùtì	jùtì	16	852			oxnard2020		mont12
 4338	SanJuanColoradoMixtec	LAZY	flojo, perezoso	jutsan	jutsan	186	1564			stark1986diccionario		colo11
 4151	SanJuanColoradoMixtec	FATHER	padre	jùtù	jùtù	3	1217			stark1986diccionario		colo11
 4163	SanJuanColoradoMixtec	PRIEST	sacerdote	jùtù	jùtù	16	852			stark1986diccionario		colo11
-5664	Proto-MixtecMixtec	TREE	árbol	jútṹʔ	jútṹʔ	80	906			swanton2020observaciones		prom01
-5621	Proto-MixtecMixtec	TOWN OR VILLAGE	pueblo	júũ̀̀	júũ̀̀	43	3609			swanton2020observaciones		prom01
-5778	Proto-MixtecMixtec	STONE OR ROCK	piedra	jùùʔ	jùùʔ	143	2125			swanton2020observaciones		prom01
-5631	Proto-MixtecMixtec	MAT	petate	júwíʔ	júwíʔ	47	195			swanton2020observaciones		prom01
-5598	Proto-MixtecMixtec	MOUTH	boca, borde	júʔúʔ	júʔúʔ	23	674			swanton2020observaciones		prom01
-5748	Proto-MixtecMixtec	THREAD	hilo	jùʔwè	jùʔwè	127	1161			swanton2020observaciones		prom01
-5738	Proto-MixtecMixtec	SMOKE (EXHAUST)	humo	jùʔwẽ̀	jùʔwẽ̀	121	778			swanton2020observaciones		prom01
+5664	Proto-Mixtec	TREE	árbol	jútṹʔ	jútṹʔ	80	906			swanton2020observaciones		prom01
+5621	Proto-Mixtec	TOWN OR VILLAGE	pueblo	júũ̀̀	júũ̀̀	43	3609			swanton2020observaciones		prom01
+5778	Proto-Mixtec	STONE OR ROCK	piedra	jùùʔ	jùùʔ	143	2125			swanton2020observaciones		prom01
+5631	Proto-Mixtec	MAT	petate	júwíʔ	júwíʔ	47	195			swanton2020observaciones		prom01
+5598	Proto-Mixtec	MOUTH	boca, borde	júʔúʔ	júʔúʔ	23	674			swanton2020observaciones		prom01
+5748	Proto-Mixtec	THREAD	hilo	jùʔwè	jùʔwè	127	1161			swanton2020observaciones		prom01
+5738	Proto-Mixtec	SMOKE (EXHAUST)	humo	jùʔwẽ̀	jùʔwẽ̀	121	778			swanton2020observaciones		prom01
 5673	YucuquimiOcampoMixtec	HERBACEOUS PLANT	hierba	jy¹ky¹	jy¹ky¹	81				swanton2020observaciones		yucu16
 5772	YucuquimiOcampoMixtec	RIVER	río	jy¹ta²	jy¹ta²	139	666			swanton2020observaciones		yucu16
 5782	YucuquimiOcampoMixtec	STONE OR ROCK	piedra	jy¹y¹	jy¹y¹	143	2125			swanton2020observaciones		yucu16
@@ -4208,9 +4208,9 @@ ID	DOCULECT	CONCEPT	SPANISH_GLOSS	VALUE	FORM	IDlist	CONCEPTICON_ID	LOAN	LOAN_SOU
 15443	PinotepaDonLuisMixtec	COTTON	algodón	kati	kati	144	1850			josserand1983mixtec		pino12
 15459	SanAntonioTepetlapaMixtec	COTTON	algodón	kati	kati	144	1850			josserand1983mixtec		tepe12
 2649	SantaMariaJicaltepecMixtec	COTTON	cotton	kátí	kátí	144	1850			durr1987preliminary		jica11
-15446	Proto-MixtecMixtec	COTTON	algodón	katiʔ	katiʔ	144	1850			josserand1983mixtec		prom01
+15446	Proto-Mixtec	COTTON	algodón	katiʔ	katiʔ	144	1850			josserand1983mixtec		prom01
 15482	SantaMariaZacatepecMixtec	COTTON	algodón	katiʔ	katiʔ	144	1850			josserand1983mixtec		zaca11
-5783	Proto-MixtecMixtec	COTTON	algodón	kàtìʔ	kàtìʔ	144	1850			swanton2020observaciones		prom01
+5783	Proto-Mixtec	COTTON	algodón	kàtìʔ	kàtìʔ	144	1850			swanton2020observaciones		prom01
 17555	AlacatlatzalaMixtec	BIG (SINGULAR)	grande (sg.)	katno̧	katno̧	173				josserand1983mixtec		alac11
 1802	SanAndresChicahuaxtla1890Triqui	WIDE	ancho	Katraa	katraa	184	1243			belmar1897ensayo		chic02
 1566	SanJuanCopalaTriqui	SMOKE (EXHAUST)	smoke	katseh³	katseh³	121	778			hollenbach1992syntactic		copa11
@@ -4272,7 +4272,7 @@ ID	DOCULECT	CONCEPT	SPANISH_GLOSS	VALUE	FORM	IDlist	CONCEPTICON_ID	LOAN	LOAN_SOU
 17634	SanBartoloSoyaltepecMixtec	BIG (SINGULAR)	grande (sg.)	kaʔno̧	kaʔno̧	173				josserand1983mixtec		soya11
 17666	ZapotitlanPalmasMixtec	BIG (SINGULAR)	grande (sg.)	kaʔno̧	kaʔno̧	173				josserand1983mixtec		zapo11
 2826	CahuatacheMixtec	BIG (SINGULAR)	big.SG	kāʔnō	kāʔnō	173				durr1987preliminary		cahu11
-17629	Proto-MixtecMixtec	BIG (SINGULAR)	grande (sg.)	kaʔnu	kaʔnu	173				josserand1983mixtec		prom01
+17629	Proto-Mixtec	BIG (SINGULAR)	grande (sg.)	kaʔnu	kaʔnu	173				josserand1983mixtec		prom01
 17644	SanPedroySanPabloTeposcolulaMixtec	BIG (SINGULAR)	grande (sg.)	kaʔnu	kaʔnu	173				josserand1983mixtec		tepo11
 17550	SantaMariaAcatepecMixtec	BIG (SINGULAR)	grande (sg.)	kaʔnu̧	kaʔnu̧	173				josserand1983mixtec		acat11
 17551	SanMiguelAchiutlaMixtec	BIG (SINGULAR)	grande (sg.)	kaʔnu̧	kaʔnu̧	173				josserand1983mixtec		achi11
@@ -4387,7 +4387,7 @@ ID	DOCULECT	CONCEPT	SPANISH_GLOSS	VALUE	FORM	IDlist	CONCEPTICON_ID	LOAN	LOAN_SOU
 2820	SantaMariaPenolesMixtec	BIG (SINGULAR)	big.SG	kâʔnù	kâʔnù	173				durr1987preliminary		peno11
 17654	XayacatlanBravoMixtec	BIG (SINGULAR)	grande (sg.)	kāʔnū̧	kāʔnū̧	173				josserand1983mixtec		xaya12
 17661	SantaMariaYucunicocoMixtec	BIG (SINGULAR)	grande (sg.)	káʔnū̧-đú	káʔnū̧-đú	173				josserand1983mixtec		yucu15
-17628	Proto-MixtecMixtec	BIG (SINGULAR)	grande (sg.)	kaʔnuʔ	kaʔnuʔ	173				josserand1983mixtec		prom01
+17628	Proto-Mixtec	BIG (SINGULAR)	grande (sg.)	kaʔnuʔ	kaʔnuʔ	173				josserand1983mixtec		prom01
 17563	AyutlalosLibresMixtec	BIG (SINGULAR)	grande (sg.)	kaʔnu̧ʔ	kaʔnu̧ʔ	173				josserand1983mixtec		ayut11
 17665	SantaMariaZacatepecMixtec	BIG (SINGULAR)	grande (sg.)	kaʔnu̧ʔ	kaʔnu̧ʔ	173				josserand1983mixtec		zaca11
 2830	AyutlalosLibresMixtec	IMPORTANT	important	káʔnúʔ	káʔnúʔ-	173	1285			durr1987preliminary		ayut11
@@ -4524,7 +4524,7 @@ ID	DOCULECT	CONCEPT	SPANISH_GLOSS	VALUE	FORM	IDlist	CONCEPTICON_ID	LOAN	LOAN_SOU
 4829	XochapaMixtec	UGLY	feo	kini	kini	187	1548			stark2013diccionario		xoch11
 5057	MagdalenaPenascoMixtec	UGLY	feo, malo	kini	kini	187	1548			hollenbach2017diccionario		pena11
 6313	ElJicaralMixtec	UGLY	feo	kini	kini	187	1548			Emily John-Martin		jica13
-18508	Proto-MixtecMixtec	UGLY	feo	kini	kini	187	1548			josserand1983mixtec		prom01
+18508	Proto-Mixtec	UGLY	feo	kini	kini	187	1548			josserand1983mixtec		prom01
 18524	SanAgustinTlacotepecMixtec	UGLY	feo	kini	kini	187	1548			josserand1983mixtec		tlac11
 20290	SanMartinDuraznosMixtec	UGLY	feo	kini	kini	187	1548			hernandez2020san-martin		dura11
 20763	YucunanyMixtec	UGLY	ugly	kini	kini	187	1548			salazar2020yucunani		yucu17
@@ -4803,7 +4803,7 @@ ID	DOCULECT	CONCEPT	SPANISH_GLOSS	VALUE	FORM	IDlist	CONCEPTICON_ID	LOAN	LOAN_SOU
 19524	SanBartolomeYucuaneMixtec	DAY (24 HOURS)	día	kiwi	kiwi	200	1260			josserand1983mixtec		yucu11
 19522	YoloxochitlMixtec	DAY (24 HOURS)	día	kìwí	kìwí	200	1260			josserand1983mixtec		yolo12
 2936	CahuatacheMixtec	DAY (24 HOURS)	day	kìwì	kìwì	200	1260			durr1987preliminary		cahu11
-16480	Proto-MixtecMixtec	FOUR	cuatro	ki̧wi̧ʔ	ki̧wi̧ʔ	160	1500			josserand1983mixtec		prom01
+16480	Proto-Mixtec	FOUR	cuatro	ki̧wi̧ʔ	ki̧wi̧ʔ	160	1500			josserand1983mixtec		prom01
 19483	SantiagoNuyooMixtec	DAY (24 HOURS)	día	kīwɨ̀	kīwɨ̀	200	1260			josserand1983mixtec		nuyo11
 19526	SantaMariaYucuhitiMixtec	DAY (24 HOURS)	día	kīwɨ̀	kīwɨ̀	200	1260			josserand1983mixtec		yucu12
 1578	SanJuanCopalaTriqui	MOUNTAIN OR HILL	mountain	kix³²	kix³²	141	2118			hollenbach1992syntactic		copa11
@@ -4869,11 +4869,11 @@ ID	DOCULECT	CONCEPT	SPANISH_GLOSS	VALUE	FORM	IDlist	CONCEPTICON_ID	LOAN	LOAN_SOU
 13430	SantaCatarinaMechoacanMixtec	COOKING POT	olla	kɨsɨ	kɨsɨ	116	3653			josserand1983mixtec		mech11
 13434	SantaLuciaMonteverdeMixtec	COOKING POT	olla	kɨsɨ	kɨsɨ	116	3653			josserand1983mixtec		mont13
 13444	PinotepaDonLuisMixtec	COOKING POT	olla	kɨsɨ	kɨsɨ	116	3653			josserand1983mixtec		pino12
-13445	Proto-MixtecMixtec	COOKING POT	olla	kɨsɨ	kɨsɨ	116	3653			josserand1983mixtec		prom01
+13445	Proto-Mixtec	COOKING POT	olla	kɨsɨ	kɨsɨ	116	3653			josserand1983mixtec		prom01
 13463	VillaTututepecMelchorOcampoMixtec	COOKING POT	olla	kɨsɨ	kɨsɨ	116	3653			josserand1983mixtec		tutu11
 13465	SantaMariaYolotepecMixtec	COOKING POT	olla	kɨsɨ	kɨsɨ	116	3653			josserand1983mixtec		yolo11
 13467	SantiagoYosonduaMixtec	COOKING POT	olla	kɨsɨ	kɨsɨ	116	3653			josserand1983mixtec		yoso11
-5728	Proto-MixtecMixtec	COOKING POT	olla	kɨ̀sɨ́	kɨ̀sɨ́	116	3653			swanton2020observaciones		prom01
+5728	Proto-Mixtec	COOKING POT	olla	kɨ̀sɨ́	kɨ̀sɨ́	116	3653			swanton2020observaciones		prom01
 2537	SanEstebanAtatlahucaMixtec	COOKING POT	clay pot	kɨ̀sɨ̄	kɨ̀sɨ̄	116	3653			durr1987preliminary		atat11
 2538	SanMiguelElGrandeMixtec	COOKING POT	clay pot	kɨ̀sɨ̄	kɨ̀sɨ̄	116	3653			durr1987preliminary		gran11
 13393	SanEstebanAtatlahucaMixtec	COOKING POT	olla	kɨ̄sɨ	kɨ̄sɨ	116	3653			josserand1983mixtec		atat11
@@ -4924,8 +4924,8 @@ ID	DOCULECT	CONCEPT	SPANISH_GLOSS	VALUE	FORM	IDlist	CONCEPTICON_ID	LOAN	LOAN_SOU
 2347	SanMiguelElGrandeMixtec	ANIMAL	animal	kɨ̄tɨ̄	kɨ̄tɨ̄-	50	619			durr1987preliminary		gran11
 9403	SanMateoSindihuiMixtec	ANIMAL	animal	kɨtɨ-(tata)	kɨtɨ-tata	50	619			josserand1983mixtec		sind11
 9407	SanJuanTamazolaMixtec	ANIMAL	animal	kɨtɨ(xʷi̧ʔna̧)	kɨtɨxʷi̧ʔna̧	50	619			josserand1983mixtec		tama11
-9400	Proto-MixtecMixtec	ANIMAL	animal	kɨtɨʔ	kɨtɨʔ	50	619			josserand1983mixtec		prom01
-5635	Proto-MixtecMixtec	ANIMAL	animal	kɨ́tɨ́ʔ	kɨ́tɨ́ʔ	50	619			swanton2020observaciones		prom01
+9400	Proto-Mixtec	ANIMAL	animal	kɨtɨʔ	kɨtɨʔ	50	619			josserand1983mixtec		prom01
+5635	Proto-Mixtec	ANIMAL	animal	kɨ́tɨ́ʔ	kɨ́tɨ́ʔ	50	619			swanton2020observaciones		prom01
 19427	ChalcatongoHidalgoMixtec	DAY (24 HOURS)	día	kɨu	kɨu	200	1260			josserand1983mixtec		chal11
 19445	SanJuanDiuxiMixtec	DAY (24 HOURS)	día	kɨu	kɨu	200	1260			josserand1983mixtec		diux11
 19510	SantiagoTilantongoMixtec	DAY (24 HOURS)	día	kɨu	kɨu	200	1260			josserand1983mixtec		tila11
@@ -4934,7 +4934,7 @@ ID	DOCULECT	CONCEPT	SPANISH_GLOSS	VALUE	FORM	IDlist	CONCEPTICON_ID	LOAN	LOAN_SOU
 485	SantiagoJamiltepecMixtec	DAY (24 HOURS)	day	kɨvɨ	kɨvɨ	200	1260			johnson1988syntactic		jami11
 19450	SanMiguelElGrandeMixtec	DAY (24 HOURS)	día	kɨvɨ̄	kɨvɨ̄	200	1260			josserand1983mixtec		gran11
 1480	SantiagoYosonduaMixtec	DAY (24 HOURS)	day	kɨ̄vɨ	kɨ̄vɨ	200	1260			farris1992syntactic		yoso11
-16479	Proto-MixtecMixtec	FOUR	cuatro	kɨwi̧ʔ	kɨwi̧ʔ	160	1500			josserand1983mixtec		prom01
+16479	Proto-Mixtec	FOUR	cuatro	kɨwi̧ʔ	kɨwi̧ʔ	160	1500			josserand1983mixtec		prom01
 19411	SantaMariaAcatepecMixtec	DAY (24 HOURS)	día	kɨwɨ	kɨwɨ	200	1260			josserand1983mixtec		acat11
 19428	SanAgustinChayucoMixtec	DAY (24 HOURS)	día	kɨwɨ	kɨwɨ	200	1260			josserand1983mixtec		chay11
 19452	SantaMariaHuazolotitlanMixtec	DAY (24 HOURS)	día	kɨwɨ	kɨwɨ	200	1260			josserand1983mixtec		huaz11
@@ -4946,8 +4946,8 @@ ID	DOCULECT	CONCEPT	SPANISH_GLOSS	VALUE	FORM	IDlist	CONCEPTICON_ID	LOAN	LOAN_SOU
 19496	SanMateoSindihuiMixtec	DAY (24 HOURS)	día	kɨwɨ	kɨwɨ	200	1260			josserand1983mixtec		sind11
 19517	VillaTututepecMelchorOcampoMixtec	DAY (24 HOURS)	día	kɨwɨ	kɨwɨ	200	1260			josserand1983mixtec		tutu11
 19523	SantiagoYosonduaMixtec	DAY (24 HOURS)	día	kɨwɨ	kɨwɨ	200	1260			josserand1983mixtec		yoso11
-19492	Proto-MixtecMixtec	DAY (24 HOURS)	día	kɨwɨʔ	kɨwɨʔ	200	1260			josserand1983mixtec		prom01
-16478	Proto-MixtecMixtec	FOUR	cuatro	kɨwɨ̧ʔ	kɨwɨ̧ʔ	160	1500			josserand1983mixtec		prom01
+19492	Proto-Mixtec	DAY (24 HOURS)	día	kɨwɨʔ	kɨwɨʔ	200	1260			josserand1983mixtec		prom01
+16478	Proto-Mixtec	FOUR	cuatro	kɨwɨ̧ʔ	kɨwɨ̧ʔ	160	1500			josserand1983mixtec		prom01
 13401	SanAgustinChayucoMixtec	COOKING POT	olla	kɨyɨ	kɨyɨ	116	3653			josserand1983mixtec		chay11
 11165	CuilapamGuerreroMixtec	HERBACEOUS PLANT	hierba	kɨʔɨ	kɨʔɨ	81				josserand1983mixtec		cuil11
 8250	SantiagoJuxtlahuacaMixtec	PUS	pus	kjʔna̧	kjʔna̧	37	1808			josserand1983mixtec		juxt11
@@ -5203,13 +5203,13 @@ ID	DOCULECT	CONCEPT	SPANISH_GLOSS	VALUE	FORM	IDlist	CONCEPTICON_ID	LOAN	LOAN_SOU
 1735	SanAndresChicahuaxtla1890Triqui	PLATE	plato	Kooha	kooha	123	480			belmar1897ensayo		chic02
 1787	SanAndresChicahuaxtla1890Triqui	TWENTY	veinte	Kooha	kooha	168	1710			belmar1897ensayo		chic02
 1244	SanJuanDiuxiMixtec	FOUR	four	kóôn	kóôn	160	1500			kuiper1991syntactic		diux11
-9613	Proto-MixtecMixtec	SNAKE	culebra	kooʔ	kooʔ	53	730			josserand1983mixtec		prom01
+9613	Proto-Mixtec	SNAKE	culebra	kooʔ	kooʔ	53	730			josserand1983mixtec		prom01
 9640	SantaMariaZacatepecMixtec	SNAKE	culebra	kooʔ	kooʔ	53	730			josserand1983mixtec		zaca11
 9565	AyutlalosLibresMixtec	SNAKE	culebra	kōoʔ	kōoʔ	53	730			josserand1983mixtec		ayut11
 2387	AyutlalosLibresMixtec	SNAKE	snake	kōòʔ	kōòʔ	53	730			durr1987preliminary		ayut11
 8595	SanMartinEstadoMixtec	BLOUSE (WOVEN)	huipil	koto	koto	42				josserand1983mixtec		esta11
 16423	SanPedroCoxcaltepecCantarosMixtec	FOUR	cuatro	ko̧u̧ⁿ	ko̧u̧ⁿ	160	1500			josserand1983mixtec		coxc11
-13226	Proto-MixtecMixtec	MEAT	carne	koyo̧	koyo̧	114	634			josserand1983mixtec		prom01
+13226	Proto-Mixtec	MEAT	carne	koyo̧	koyo̧	114	634			josserand1983mixtec		prom01
 13154	SantiagoApoalaMixtec	MEAT	carne	ko̧ỹo̧	ko̧ỹo̧	114	634			josserand1983mixtec		apoa11
 13167	SanMiguelChicahuaMixtec	MEAT	carne	ko̧ỹo̧	ko̧ỹo̧	114	634			josserand1983mixtec		chic11
 1310	ConcepcionPapaloCuicatec	SNAKE	snake	kú	kú	53	730			bradley1991preliminary		conc11
@@ -5471,7 +5471,7 @@ ID	DOCULECT	CONCEPT	SPANISH_GLOSS	VALUE	FORM	IDlist	CONCEPTICON_ID	LOAN	LOAN_SOU
 14313	SanMiguelPiedrasMixtec	COMB	peine	kuka	kuka	128	1475			josserand1983mixtec		pied11
 14314	SantiagoPinotepaNacionalMixtec	COMB	peine	kuka	kuka	128	1475			josserand1983mixtec		pino11
 14315	PinotepaDonLuisMixtec	COMB	peine	kuka	kuka	128	1475			josserand1983mixtec		pino12
-14316	Proto-MixtecMixtec	COMB	peine	kuka	kuka	128	1475			josserand1983mixtec		prom01
+14316	Proto-Mixtec	COMB	peine	kuka	kuka	128	1475			josserand1983mixtec		prom01
 14317	SantosReyesTepejilloMixtec	COMB	peine	kuka	kuka	128	1475			josserand1983mixtec		reye11
 14319	SanMateoSindihuiMixtec	COMB	peine	kuka	kuka	128	1475			josserand1983mixtec		sind11
 14321	SanJuanTamazolaMixtec	COMB	peine	kuka	kuka	128	1475			josserand1983mixtec		tama11
@@ -5917,7 +5917,7 @@ ID	DOCULECT	CONCEPT	SPANISH_GLOSS	VALUE	FORM	IDlist	CONCEPTICON_ID	LOAN	LOAN_SOU
 15980	ElRosarioMicaltepecMixtec	RED	rojo	kʷaa	kʷaa	152	156			josserand1983mixtec		mica11
 1276	SanJuanDiuxiMixtec	NIGHT	night, blind	kwaá	kwaá	198	1233			kuiper1991syntactic		diux11
 3679	SanJuanMixtepecMixtec	RED	rojo	kwaá	kwaá	152	156			oxnard2020		mixt11
-16118	Proto-MixtecMixtec	YELLOW	amarillo	kʷaa̧	kʷaa̧	154	1424			josserand1983mixtec		prom01
+16118	Proto-Mixtec	YELLOW	amarillo	kʷaa̧	kʷaa̧	154	1424			josserand1983mixtec		prom01
 16064	CoicoyanlasFloresMixtec	YELLOW	amarillo	kʷá̧a	kʷá̧a	154	1424			josserand1983mixtec		coic11
 2709	SanEstebanAtatlahucaMixtec	YELLOW	yellow	kʷá̧á̧	kʷá̧á̧	154	1424			durr1987preliminary		atat11
 2710	SanMiguelElGrandeMixtec	YELLOW	yellow	kʷá̧á̧	kʷá̧á̧	154	1424			durr1987preliminary		gran11
@@ -6466,14 +6466,14 @@ ID	DOCULECT	CONCEPT	SPANISH_GLOSS	VALUE	FORM	IDlist	CONCEPTICON_ID	LOAN	LOAN_SOU
 10406	SantaMariaPenolesMixtec	SQUIRREL	ardilla	kʷȩ́ñù̧	kʷȩ́ñù̧	62	1628			josserand1983mixtec		peno11
 10406	SantaMariaPenolesMixtec	SQUIRREL	ardilla	kʷȩ́ñù̧	kʷȩ́ñù̧	62	1628			josserand1983mixtec		peno11
 10344	SanEstebanAtatlahucaMixtec	SQUIRREL	ardilla	kʷȩ́ñu̧	kʷȩ́ñu̧	62	1628			josserand1983mixtec		atat11
-19946	Proto-MixtecMixtec	BLAME	culpa	kʷeti	kʷeti	318	134			josserand1983mixtec		prom01
+19946	Proto-Mixtec	BLAME	culpa	kʷeti	kʷeti	318	134			josserand1983mixtec		prom01
 19959	SanPedroTidaaMixtec	BLAME	culpa	kʷeti	kʷeti	318	134			josserand1983mixtec		tida11
-5891	Proto-MixtecMixtec	BLAME	culpa	kʷètí	kʷètí	318	134			swanton2020observaciones		prom01
+5891	Proto-Mixtec	BLAME	culpa	kʷètí	kʷètí	318	134			swanton2020observaciones		prom01
 983	SanJuanCoatzospamMixtec	SMALL (PLURAL)	small.PL	kwetsī	kwetsī	176				small1990syntactic		coat11
 1003	SanJuanCoatzospamMixtec	BLAME	fault, blame, sin	kwétsi	kwétsi	318	134			small1990syntactic		coat11
-18957	Proto-MixtecMixtec	SLOW	despacio	kʷeye	kʷeye	194	701			josserand1983mixtec		prom01
+18957	Proto-Mixtec	SLOW	despacio	kʷeye	kʷeye	194	701			josserand1983mixtec		prom01
 13868	SantaLuciaMonteverdeMixtec	GARBAGE	basura	kʷeyo	kʷeyo	122	909			josserand1983mixtec		mont13
-10412	Proto-MixtecMixtec	SQUIRREL	ardilla	kʷeyu̧ʔ	kʷeyu̧ʔ	62	1628			josserand1983mixtec		prom01
+10412	Proto-Mixtec	SQUIRREL	ardilla	kʷeyu̧ʔ	kʷeyu̧ʔ	62	1628			josserand1983mixtec		prom01
 7408	SantaCatarinaAdequezMixtec	NECK	cuello	kʷežu	kʷežu	26	1333			josserand1983mixtec		adeq11
 7873	SantaMariaAcatepecMixtec	DISEASE	enfermedad	kʷeʔe	kʷeʔe	33	1986			josserand1983mixtec		acat11
 7874	SanMiguelAchiutlaMixtec	DISEASE	enfermedad	kʷeʔe	kʷeʔe	33	1986			josserand1983mixtec		achi11
@@ -6576,7 +6576,7 @@ ID	DOCULECT	CONCEPT	SPANISH_GLOSS	VALUE	FORM	IDlist	CONCEPTICON_ID	LOAN	LOAN_SOU
 15984	SantaLuciaMonteverdeMixtec	RED	rojo	kʷeʔe	kʷeʔe	152	156			josserand1983mixtec		mont13
 15993	SantoDomingoNuxaaMixtec	RED	rojo	kʷeʔe	kʷeʔe	152	156			josserand1983mixtec		nuxa11
 15994	SanAndresNuxinoMixtec	RED	rojo	kʷeʔe	kʷeʔe	152	156			josserand1983mixtec		nuxi11
-16004	Proto-MixtecMixtec	RED	rojo	kʷeʔe	kʷeʔe	152	156			josserand1983mixtec		prom01
+16004	Proto-Mixtec	RED	rojo	kʷeʔe	kʷeʔe	152	156			josserand1983mixtec		prom01
 16007	SanMateoSindihuiMixtec	RED	rojo	kʷeʔe	kʷeʔe	152	156			josserand1983mixtec		sind11
 16012	SantaMariaTataltepecMixtec	RED	rojo	kʷeʔe	kʷeʔe	152	156			josserand1983mixtec		tata11
 16014	SanJuanTeitaMixtec	RED	rojo	kʷeʔe	kʷeʔe	152	156			josserand1983mixtec		teit11
@@ -6605,8 +6605,8 @@ ID	DOCULECT	CONCEPT	SPANISH_GLOSS	VALUE	FORM	IDlist	CONCEPTICON_ID	LOAN	LOAN_SOU
 7942	SantiagoNuyooMixtec	DISEASE	enfermedad	kʷèʔì	kʷèʔì	33	1986			josserand1983mixtec		nuyo11
 7981	SantaMariaYucuhitiMixtec	DISEASE	enfermedad	kʷèʔì	kʷèʔì	33	1986			josserand1983mixtec		yucu12
 7915	SantaCruzItundujiaMixtec	DISEASE	enfermedad	kʷeʔyi	kʷeʔyi	33	1986			josserand1983mixtec		itun11
-7951	Proto-MixtecMixtec	DISEASE	enfermedad	kʷeʔyi	kʷeʔyi	33	1986			josserand1983mixtec		prom01
-7952	Proto-MixtecMixtec	DISEASE	enfermedad	kʷeʔyi	kʷeʔyi	33	1986			josserand1983mixtec		prom01
+7951	Proto-Mixtec	DISEASE	enfermedad	kʷeʔyi	kʷeʔyi	33	1986			josserand1983mixtec		prom01
+7952	Proto-Mixtec	DISEASE	enfermedad	kʷeʔyi	kʷeʔyi	33	1986			josserand1983mixtec		prom01
 7882	SanEstebanAtatlahucaMixtec	DISEASE	enfermedad	kʷeʔyī	kʷeʔyī	33	1986			josserand1983mixtec		atat11
 3680	TlahuapaMixtec	GREEN	verde	kwí'ǐ	kwí'ǐ	153	1425			oxnard2020		tlah11
 5805	SantaMariaZacatepecMixtec	GREEN	verde	kʷi¹i¹ʔ	kʷi¹i¹ʔ	153	1425			swanton2020observaciones		zaca11
@@ -6852,7 +6852,7 @@ ID	DOCULECT	CONCEPT	SPANISH_GLOSS	VALUE	FORM	IDlist	CONCEPTICON_ID	LOAN	LOAN_SOU
 19175	SantaMariaNutioMixtec	YEAR	año	kʷiya	kʷiya	196	1226			josserand1983mixtec		nuti11
 19180	SanMateoPenascoMixtec	YEAR	año	kʷiya	kʷiya	196	1226			josserand1983mixtec		pena12
 19185	PinotepaDonLuisMixtec	YEAR	año	kʷiya	kʷiya	196	1226			josserand1983mixtec		pino12
-19188	Proto-MixtecMixtec	YEAR	año	kʷiya	kʷiya	196	1226			josserand1983mixtec		prom01
+19188	Proto-Mixtec	YEAR	año	kʷiya	kʷiya	196	1226			josserand1983mixtec		prom01
 19191	SanFranciscoSayultepecMixtec	YEAR	año	kʷiya	kʷiya	196	1226			josserand1983mixtec		sayu11
 19194	SanBartoloSoyaltepecMixtec	YEAR	año	kʷiya	kʷiya	196	1226			josserand1983mixtec		soya11
 19200	SanJuanTeitaMixtec	YEAR	año	kʷiya	kʷiya	196	1226			josserand1983mixtec		teit11
@@ -6898,8 +6898,8 @@ ID	DOCULECT	CONCEPT	SPANISH_GLOSS	VALUE	FORM	IDlist	CONCEPTICON_ID	LOAN	LOAN_SOU
 7997	SanEstebanAtatlahucaMixtec	SWELLING	hinchazón	kʷɨ̧ñɨ̧	kʷɨ̧ñɨ̧	35	1903			josserand1983mixtec		atat11
 8076	SantaMariaYolotepecMixtec	SWELLING	hinchazón	kʷɨ̧ñɨ̧	kʷɨ̧ñɨ̧	35	1903			josserand1983mixtec		yolo11
 8078	SantiagoYosonduaMixtec	SWELLING	hinchazón	kʷɨ̧ñɨ̧	kʷɨ̧ñɨ̧	35	1903			josserand1983mixtec		yoso11
-8056	Proto-MixtecMixtec	SWELLING	hinchazón	kʷɨyi̧	kʷɨyi̧	35	1903			josserand1983mixtec		prom01
-8055	Proto-MixtecMixtec	SWELLING	hinchazón	kʷɨyɨ̧	kʷɨyɨ̧	35	1903			josserand1983mixtec		prom01
+8056	Proto-Mixtec	SWELLING	hinchazón	kʷɨyi̧	kʷɨyi̧	35	1903			josserand1983mixtec		prom01
+8055	Proto-Mixtec	SWELLING	hinchazón	kʷɨyɨ̧	kʷɨyɨ̧	35	1903			josserand1983mixtec		prom01
 732	SanJeronimoProgresoMixtec	YEAR	year	kwyaa	kwyaa	196	1226			shields1988syntactic		prog12
 2915	SanJeronimoProgresoMixtec	YEAR	year	kʷyàà	kʷyàà	196	1226			durr1987preliminary		prog12
 19147	GuadalupeVillahermosaElPortesueloMixtec	YEAR	año	kʷʸàà	kʷʸàà	196	1226			josserand1983mixtec		guad11
@@ -6975,7 +6975,7 @@ ID	DOCULECT	CONCEPT	SPANISH_GLOSS	VALUE	FORM	IDlist	CONCEPTICON_ID	LOAN	LOAN_SOU
 8239	SantaCruzItundujiaMixtec	PUS	pus	lakʷa	lakʷa	37	1808			josserand1983mixtec		itun11
 8241	SantiagoIxtayutlaMixtec	PUS	pus	lakʷa	lakʷa	37	1808			josserand1983mixtec		ixta11
 8255	SanPedroMolinosMixtec	PUS	pus	lakʷa	lakʷa	37	1808			josserand1983mixtec		moli11
-8276	Proto-MixtecMixtec	PUS	pus	lakʷa	lakʷa	37	1808			josserand1983mixtec		prom01
+8276	Proto-Mixtec	PUS	pus	lakʷa	lakʷa	37	1808			josserand1983mixtec		prom01
 8300	SantaMariaYolotepecMixtec	PUS	pus	lakʷa	lakʷa	37	1808			josserand1983mixtec		yolo11
 8302	SantiagoYosonduaMixtec	PUS	pus	lakʷa	lakʷa	37	1808			josserand1983mixtec		yoso11
 9956	SanAndresNuxinoMixtec	SCORPION	alacrán	lakʷa	lakʷa	56	1538			josserand1983mixtec		nuxi11
@@ -6983,7 +6983,7 @@ ID	DOCULECT	CONCEPT	SPANISH_GLOSS	VALUE	FORM	IDlist	CONCEPTICON_ID	LOAN	LOAN_SOU
 3107	TlahuapaMixtec	PUS	pus	lakwá	lakwá	37	1808			oxnard2020		tlah11
 8306	SantaMariaYucunicocoMixtec	PUS	pus	lākʷá	lākʷá	37	1808			josserand1983mixtec		yucu15
 8210	SantaCruzBravoMixtec	PUS	pus	lakʷa-ñȩ-na̧ʔa̧	lakʷa-ñȩ-na̧ʔa̧	37	1808			josserand1983mixtec		brav11
-8277	Proto-MixtecMixtec	PUS	pus	lakʷaʔ	lakʷaʔ	37	1808			josserand1983mixtec		prom01
+8277	Proto-Mixtec	PUS	pus	lakʷaʔ	lakʷaʔ	37	1808			josserand1983mixtec		prom01
 8310	SantaMariaZacatepecMixtec	PUS	pus	lakʷaʔ	lakʷaʔ	37	1808			josserand1983mixtec		zaca11
 8330	SanMartinEstadoMixtec	URINE	orina	lala	lala	38	1142			josserand1983mixtec		esta11
 8345	SantiagoJuxtlahuacaMixtec	URINE	orina	lala	lala	38	1142			josserand1983mixtec		juxt11
@@ -7036,7 +7036,7 @@ ID	DOCULECT	CONCEPT	SPANISH_GLOSS	VALUE	FORM	IDlist	CONCEPTICON_ID	LOAN	LOAN_SOU
 9706	SanAntonioNduayacoMixtec	FROG	rana	laʔwa	laʔwa	54	503			josserand1983mixtec		ndua11
 9711	SantoDomingoNuxaaMixtec	FROG	rana	laʔwa	laʔwa	54	503			josserand1983mixtec		nuxa11
 9713	SanAndresNuxinoMixtec	FROG	rana	laʔwa	laʔwa	54	503			josserand1983mixtec		nuxi11
-9725	Proto-MixtecMixtec	FROG	rana	laʔwa	laʔwa	54	503			josserand1983mixtec		prom01
+9725	Proto-Mixtec	FROG	rana	laʔwa	laʔwa	54	503			josserand1983mixtec		prom01
 9729	SanMateoSindihuiMixtec	FROG	rana	laʔwa	laʔwa	54	503			josserand1983mixtec		sind11
 9738	TepejilloMixtec	FROG	rana	laʔwa	laʔwa	54	503			josserand1983mixtec		tepe11
 20962	SanAndresYutatioMixtec	SMALL (SINGULAR)	pequeño.SG, chico.SG	leé	leé	175				williams2017diccionario		yuta13
@@ -7050,7 +7050,7 @@ ID	DOCULECT	CONCEPT	SPANISH_GLOSS	VALUE	FORM	IDlist	CONCEPTICON_ID	LOAN	LOAN_SOU
 9728	SanFranciscoSayultepecMixtec	FROG	rana	lekʷe	lekʷe	54	503			josserand1983mixtec		sayu11
 9763	SantaMariaZacatepecMixtec	FROG	rana	lekʷe	lekʷe	54	503			josserand1983mixtec		zaca11
 8331	SantaCatarinaEstetlaMixtec	URINE	orina	lele	lele	38	1142			josserand1983mixtec		este11
-8357	Proto-MixtecMixtec	URINE	orina	lele	lele	38	1142			josserand1983mixtec		prom01
+8357	Proto-Mixtec	URINE	orina	lele	lele	38	1142			josserand1983mixtec		prom01
 8368	SantiagoTlazoyaltepecMixtec	URINE	orina	lele	lele	38	1142			josserand1983mixtec		tlaz11
 8368	SantiagoTlazoyaltepecMixtec	URINE	orina	lele	lele	38	1142			josserand1983mixtec		tlaz11
 8352	SantaMariaPenolesMixtec	URINE	orina	lȩlȩ	lȩlȩ	38	1142			josserand1983mixtec		peno11
@@ -7117,7 +7117,7 @@ ID	DOCULECT	CONCEPT	SPANISH_GLOSS	VALUE	FORM	IDlist	CONCEPTICON_ID	LOAN	LOAN_SOU
 18871	SantiagoYosonduaMixtec	SMOOTH	lisa, liso	lɨʔu	lɨʔu	193	1234			josserand1983mixtec		yoso11
 18768	SanEstebanAtatlahucaMixtec	SMOOTH	lisa, liso	lɨ́ʔvɨ́	lɨ́ʔvɨ́	193	1234			josserand1983mixtec		atat11
 18801	SanMiguelElGrandeMixtec	SMOOTH	lisa, liso	lɨ́ʔvɨ́	lɨ́ʔvɨ́	193	1234			josserand1983mixtec		gran11
-18840	Proto-MixtecMixtec	SMOOTH	lisa, liso	lɨʔwɨʔ	lɨʔwɨʔ	193	1234			josserand1983mixtec		prom01
+18840	Proto-Mixtec	SMOOTH	lisa, liso	lɨʔwɨʔ	lɨʔwɨʔ	193	1234			josserand1983mixtec		prom01
 3787	TlahuapaMixtec	SMALL (SINGULAR)	pequeño.SG	lo'o	lo'o	175				oxnard2020		tlah11
 3788	PiedraAzulMixtec	SMALL (SINGULAR)	pequeño.SG	lo'o	lo'o	175				oxnard2020		pied12
 3789	SanMarcoslaFlorMixtec	SMALL (SINGULAR)	pequeño.SG	lo'o	lo'o	175				oxnard2020		flor12
@@ -7147,7 +7147,7 @@ ID	DOCULECT	CONCEPT	SPANISH_GLOSS	VALUE	FORM	IDlist	CONCEPTICON_ID	LOAN	LOAN_SOU
 7195	SanJuanCoatzospamMixtec	EAR	oreja	loʔo	loʔo	24	1247			josserand1983mixtec		coat11
 7245	SantaMariaPenolesMixtec	EAR	oreja	loʔo	loʔo	24	1247			josserand1983mixtec		peno11
 7245	SantaMariaPenolesMixtec	EAR	oreja	loʔo	loʔo	24	1247			josserand1983mixtec		peno11
-7251	Proto-MixtecMixtec	EAR	oreja	loʔo	loʔo	24	1247			josserand1983mixtec		prom01
+7251	Proto-Mixtec	EAR	oreja	loʔo	loʔo	24	1247			josserand1983mixtec		prom01
 17671	SanMiguelAhuehuetitlanMixtec	SMALL (SINGULAR)	chico	loʔo	loʔo	175				josserand1983mixtec		ahue11
 17672	AlacatlatzalaMixtec	SMALL (SINGULAR)	chico	loʔo	loʔo	175				josserand1983mixtec		alac11
 17674	AlcozaucaGuerreroMixtec	SMALL (SINGULAR)	chico	loʔo	loʔo	175				josserand1983mixtec		alco11
@@ -7269,11 +7269,11 @@ ID	DOCULECT	CONCEPT	SPANISH_GLOSS	VALUE	FORM	IDlist	CONCEPTICON_ID	LOAN	LOAN_SOU
 17722	SanPedroJicayanMixtec	SMALL (SINGULAR)	chico	luʔu	luʔu	175				josserand1983mixtec		jica12
 17750	SantiagoPinotepaNacionalMixtec	SMALL (SINGULAR)	chico	luʔu	luʔu	175				josserand1983mixtec		pino11
 17751	PinotepaDonLuisMixtec	SMALL (SINGULAR)	chico	luʔu	luʔu	175				josserand1983mixtec		pino12
-17754	Proto-MixtecMixtec	SMALL (SINGULAR)	chico	luʔu	luʔu	175				josserand1983mixtec		prom01
+17754	Proto-Mixtec	SMALL (SINGULAR)	chico	luʔu	luʔu	175				josserand1983mixtec		prom01
 17756	SanFranciscoSayultepecMixtec	SMALL (SINGULAR)	chico	luʔu	luʔu	175				josserand1983mixtec		sayu11
 17769	SanAntonioTepetlapaMixtec	SMALL (SINGULAR)	chico	luʔu	luʔu	175				josserand1983mixtec		tepe12
 2843	SantaMariaJicaltepecMixtec	SMALL (SINGULAR)	little.SG	lùʔù	lùʔù	175				durr1987preliminary		jica11
-10979	Proto-MixtecMixtec	TAIL	cola	luʔwȩʔ	luʔwȩʔ	79	1220			josserand1983mixtec		prom01
+10979	Proto-Mixtec	TAIL	cola	luʔwȩʔ	luʔwȩʔ	79	1220			josserand1983mixtec		prom01
 17737	SanJorgeNuchitaMixtec	SMALL (SINGULAR)	chico	lʸoo	lʸoo	175				josserand1983mixtec		nuch11
 5307	SantaMariaPapaloCuicatec	SWEET POTATO	camote	m'in²⁴	m'in²⁴	107	159			anderson1983diccionario		papa11
 21113	SanAndresChicahuaxtlaTriqui	SWEET POTATO	camote	mːĩ³²	mːĩ³²	107	159			hernandez-mendoza2020vocabulario		chic12
@@ -8125,7 +8125,7 @@ ID	DOCULECT	CONCEPT	SPANISH_GLOSS	VALUE	FORM	IDlist	CONCEPTICON_ID	LOAN	LOAN_SOU
 17277	SantaCatarinaMechoacanMixtec	POOR	pobre	ⁿdaʔwi	ⁿdaʔwi	169	1674			josserand1983mixtec		mech11
 17289	SantoDomingoNuxaaMixtec	POOR	pobre	ⁿdaʔwi	ⁿdaʔwi	169	1674			josserand1983mixtec		nuxa11
 17295	SanMiguelPiedrasMixtec	POOR	pobre	ⁿdaʔwi	ⁿdaʔwi	169	1674			josserand1983mixtec		pied11
-17300	Proto-MixtecMixtec	POOR	pobre	ⁿdaʔwi	ⁿdaʔwi	169	1674			josserand1983mixtec		prom01
+17300	Proto-Mixtec	POOR	pobre	ⁿdaʔwi	ⁿdaʔwi	169	1674			josserand1983mixtec		prom01
 17302	SanFranciscoSayultepecMixtec	POOR	pobre	ⁿdaʔwi	ⁿdaʔwi	169	1674			josserand1983mixtec		sayu11
 17303	SanMateoSindihuiMixtec	POOR	pobre	ⁿdaʔwi	ⁿdaʔwi	169	1674			josserand1983mixtec		sind11
 17305	SanBartoloSoyaltepecMixtec	POOR	pobre	ⁿdaʔwi	ⁿdaʔwi	169	1674			josserand1983mixtec		soya11
@@ -8154,7 +8154,7 @@ ID	DOCULECT	CONCEPT	SPANISH_GLOSS	VALUE	FORM	IDlist	CONCEPTICON_ID	LOAN	LOAN_SOU
 15738	SanPedroJicayanMixtec	MUD	lodo	ⁿdaʔyu	ⁿdaʔyu	149	640			josserand1983mixtec		jica12
 15764	SantiagoPinotepaNacionalMixtec	MUD	lodo	ⁿdaʔyu	ⁿdaʔyu	149	640			josserand1983mixtec		pino11
 15765	PinotepaDonLuisMixtec	MUD	lodo	ⁿdaʔyu	ⁿdaʔyu	149	640			josserand1983mixtec		pino12
-15769	Proto-MixtecMixtec	MUD	lodo	ⁿdaʔyu	ⁿdaʔyu	149	640			josserand1983mixtec		prom01
+15769	Proto-Mixtec	MUD	lodo	ⁿdaʔyu	ⁿdaʔyu	149	640			josserand1983mixtec		prom01
 15771	SanFranciscoSayultepecMixtec	MUD	lodo	ⁿdaʔyu	ⁿdaʔyu	149	640			josserand1983mixtec		sayu11
 15780	SanAntonioTepetlapaMixtec	MUD	lodo	ⁿdaʔyu	ⁿdaʔyu	149	640			josserand1983mixtec		tepe12
 15796	YoloxochitlMixtec	MUD	lodo	ⁿdaʔyu	ⁿdaʔyu	149	640			josserand1983mixtec		yolo12
@@ -8235,7 +8235,7 @@ ID	DOCULECT	CONCEPT	SPANISH_GLOSS	VALUE	FORM	IDlist	CONCEPTICON_ID	LOAN	LOAN_SOU
 15749	SantaLuciaMonteverdeMixtec	MUD	lodo	ⁿdeʔyu	ⁿdeʔyu	149	640			josserand1983mixtec		mont13
 15754	SantaCruzNundacoMixtec	MUD	lodo	ⁿdeʔyu	ⁿdeʔyu	149	640			josserand1983mixtec		nund11
 15758	SanAndresNuxinoMixtec	MUD	lodo	ⁿdeʔyu	ⁿdeʔyu	149	640			josserand1983mixtec		nuxi11
-15768	Proto-MixtecMixtec	MUD	lodo	ⁿdeʔyu	ⁿdeʔyu	149	640			josserand1983mixtec		prom01
+15768	Proto-Mixtec	MUD	lodo	ⁿdeʔyu	ⁿdeʔyu	149	640			josserand1983mixtec		prom01
 15777	SanJuanTeitaMixtec	MUD	lodo	ⁿdeʔyu	ⁿdeʔyu	149	640			josserand1983mixtec		teit11
 15781	SanPedroySanPabloTeposcolulaMixtec	MUD	lodo	ⁿdeʔyu	ⁿdeʔyu	149	640			josserand1983mixtec		tepo11
 15782	SanPedroTidaaMixtec	MUD	lodo	ⁿdeʔyu	ⁿdeʔyu	149	640			josserand1983mixtec		tida11
@@ -8346,7 +8346,7 @@ ID	DOCULECT	CONCEPT	SPANISH_GLOSS	VALUE	FORM	IDlist	CONCEPTICON_ID	LOAN	LOAN_SOU
 20337	SantoDomingoHuendioMixtec	PIMPLE	grano	ndí'yì	ndí'yì	36	1809			becerra-roldan2015un-estudio		huen11
 4886	MagdalenaPenascoMixtec	PIMPLE	grano, roncha	ndì'yi	ndì'yi	36	1809			hollenbach2017diccionario		pena11
 12296	SantaMariaYucunicocoMixtec	GREEN BEAN	ejote	ⁿdī`čī	ⁿdī`čī	97				josserand1983mixtec		yucu15
-5649	Proto-MixtecMixtec	SQUIRREL	ardilla	(ⁿdí)=(ʔ²)-kʷéjṍ	ⁿdí=ʔ²-kʷéjṍ	62	1628			swanton2020observaciones		prom01
+5649	Proto-Mixtec	SQUIRREL	ardilla	(ⁿdí)=(ʔ²)-kʷéjṍ	ⁿdí=ʔ²-kʷéjṍ	62	1628			swanton2020observaciones		prom01
 270	SantaMariaYolotepecMixtec	EGG	huevo	ndi¹bi⁴	ndi¹bi⁴	105	744			amith2020yoloxochitl		yolo11
 5709	AlcozaucaGuerreroMixtec	EGG	huevo	ⁿdi¹bi⁴	ⁿdi¹bi⁴	105	744			swanton2020observaciones		alco11
 5613	AlcozaucaGuerreroMixtec	SANDAL	huarache	ⁿdi¹ʃã⁴	ⁿdi¹ʃã⁴	40				swanton2020observaciones		alco11
@@ -8575,7 +8575,7 @@ ID	DOCULECT	CONCEPT	SPANISH_GLOSS	VALUE	FORM	IDlist	CONCEPTICON_ID	LOAN	LOAN_SOU
 13093	SantaCruzItundujiaMixtec	MAMEY	mamey	ⁿdika-yeʔe	ⁿdika-yeʔe	111				josserand1983mixtec		itun11
 20508	SanPedroYosonamaMixtec	SHEEP	borrego, oveja	ndikachi	ndikachi	74	1331			gittlen2016gramatica		yoso14
 20858	SanAndresYutatioMixtec	SHEEP	borrego	ndikachí	ndikachí	74	1331			williams2017diccionario		yuta13
-13115	Proto-MixtecMixtec	MAMEY	mamey	ⁿdikaʔ	ⁿdikaʔ	111				josserand1983mixtec		prom01
+13115	Proto-Mixtec	MAMEY	mamey	ⁿdikaʔ	ⁿdikaʔ	111				josserand1983mixtec		prom01
 663	SanJeronimoProgresoMixtec	HORN (ANATOMY)	horn (anatomy)	ndiki	ndiki	76	1393			shields1988syntactic		prog12
 1049	AlacatlatzalaMixtec	HORN (ANATOMY)	horn (anatomy)	ndiki	ndiki	76	1393			zylstra1991syntactic		alac11
 4929	MagdalenaPenascoMixtec	HORN (ANATOMY)	cuerno	ndiki	ndiki	76	1393			hollenbach2017diccionario	[A]	pena11
@@ -8735,7 +8735,7 @@ ID	DOCULECT	CONCEPT	SPANISH_GLOSS	VALUE	FORM	IDlist	CONCEPTICON_ID	LOAN	LOAN_SOU
 12251	SantaMariaJicaltepecMixtec	GREEN BEAN	ejote	ⁿditi	ⁿditi	97				josserand1983mixtec		jica11
 12269	SantiagoPinotepaNacionalMixtec	GREEN BEAN	ejote	ⁿditi	ⁿditi	97				josserand1983mixtec		pino11
 12270	PinotepaDonLuisMixtec	GREEN BEAN	ejote	ⁿditi	ⁿditi	97				josserand1983mixtec		pino12
-12271	Proto-MixtecMixtec	GREEN BEAN	ejote	ⁿditi	ⁿditi	97				josserand1983mixtec		prom01
+12271	Proto-Mixtec	GREEN BEAN	ejote	ⁿditi	ⁿditi	97				josserand1983mixtec		prom01
 5540	SanJuanTepeuxila1900Mixtec	FIFTEEN	quince	nditiñu	nditiñu	167	1709			belmar1902el-cuicateco		tepe03
 4188	SanJuanColoradoMixtec	SANDAL	huarache	ndìtsàn	ndìtsàn	40				stark1986diccionario		colo11
 4214	SanJuanColoradoMixtec	VULTURE	zopilote	ndìtsìì	ndìtsìì	67	1185			stark1986diccionario		colo11
@@ -8788,9 +8788,9 @@ ID	DOCULECT	CONCEPT	SPANISH_GLOSS	VALUE	FORM	IDlist	CONCEPTICON_ID	LOAN	LOAN_SOU
 3122	TlahuapaMixtec	SANDAL	huarache	ndìxán	ndìxán	40				oxnard2020		tlah11
 8385	SanEstebanAtatlahucaMixtec	SANDAL	huarache	ⁿdixȩ̄	ⁿdixȩ̄	40				josserand1983mixtec		atat11
 2274	SanEstebanAtatlahucaMixtec	SANDAL	sandal	ⁿdīxȩ̀	ⁿdīxȩ̀	40				durr1987preliminary		atat11
-8455	Proto-MixtecMixtec	SANDAL	huarache	ⁿdixȩʔ	ⁿdixȩʔ	40				josserand1983mixtec		prom01
-8456	Proto-MixtecMixtec	SANDAL	huarache	ⁿdixȩʔ	ⁿdixȩʔ	40				josserand1983mixtec		prom01
-5612	Proto-MixtecMixtec	SANDAL	huarache	ⁿdìxẽ̀ʔ	ⁿdìxẽ̀ʔ	40				swanton2020observaciones		prom01
+8455	Proto-Mixtec	SANDAL	huarache	ⁿdixȩʔ	ⁿdixȩʔ	40				josserand1983mixtec		prom01
+8456	Proto-Mixtec	SANDAL	huarache	ⁿdixȩʔ	ⁿdixȩʔ	40				josserand1983mixtec		prom01
+5612	Proto-Mixtec	SANDAL	huarache	ⁿdìxẽ̀ʔ	ⁿdìxẽ̀ʔ	40				swanton2020observaciones		prom01
 4027	SanAgustinChayucoMixtec	EAR OF CORN (FRESH)	elote	ndixi	ndixi	89				pensinger1974diccionario		chay11
 4412	SantaMariaZacatepecMixtec	EAR OF CORN (FRESH)	elote	ndixi	ndixi	89				towne2011gramatica		zaca11
 10825	ChalcatongoHidalgoMixtec	WING	ala	ⁿdixi	ⁿdixi	78	1257			josserand1983mixtec		chal11
@@ -8801,7 +8801,7 @@ ID	DOCULECT	CONCEPT	SPANISH_GLOSS	VALUE	FORM	IDlist	CONCEPTICON_ID	LOAN	LOAN_SOU
 10811	SanMiguelAchiutlaMixtec	WING	ala	ⁿdixi̧	ⁿdixi̧	78	1257			josserand1983mixtec		achi11
 10856	SanPedroMolinosMixtec	WING	ala	ⁿdixi̧	ⁿdixi̧	78	1257			josserand1983mixtec		moli11
 10857	SantaLuciaMonteverdeMixtec	WING	ala	ⁿdixi̧	ⁿdixi̧	78	1257			josserand1983mixtec		mont13
-10868	Proto-MixtecMixtec	WING	ala	ⁿdixi̧	ⁿdixi̧	78	1257			josserand1983mixtec		prom01
+10868	Proto-Mixtec	WING	ala	ⁿdixi̧	ⁿdixi̧	78	1257			josserand1983mixtec		prom01
 10876	SanJuanTeitaMixtec	WING	ala	ⁿdixi̧	ⁿdixi̧	78	1257			josserand1983mixtec		teit11
 10882	SanAgustinTlacotepecMixtec	WING	ala	ⁿdixi̧	ⁿdixi̧	78	1257			josserand1983mixtec		tlac11
 10890	SantiagoYosonduaMixtec	WING	ala	ⁿdixi̧	ⁿdixi̧	78	1257			josserand1983mixtec		yoso11
@@ -8968,7 +8968,7 @@ ID	DOCULECT	CONCEPT	SPANISH_GLOSS	VALUE	FORM	IDlist	CONCEPTICON_ID	LOAN	LOAN_SOU
 10648	SantaMariaPenolesMixtec	HORN (ANATOMY)	cuerno	ⁿdɨ̀kɨ̀	ⁿdɨ̀kɨ̀	76	1393			josserand1983mixtec		peno11
 10648	SantaMariaPenolesMixtec	HORN (ANATOMY)	cuerno	ⁿdɨ̀kɨ̀	ⁿdɨ̀kɨ̀	76	1393			josserand1983mixtec		peno11
 10607	CuyamecalcoVillaZaragozaMixtec	HORN (ANATOMY)	cuerno	ⁿdɨ̧kɨ̧	ⁿdɨ̧kɨ̧	76	1393			josserand1983mixtec		cuya11
-10655	Proto-MixtecMixtec	HORN (ANATOMY)	cuerno	ⁿdɨkɨʔ	ⁿdɨkɨʔ	76	1393			josserand1983mixtec		prom01
+10655	Proto-Mixtec	HORN (ANATOMY)	cuerno	ⁿdɨkɨʔ	ⁿdɨkɨʔ	76	1393			josserand1983mixtec		prom01
 9741	SantiagoTilantongoMixtec	FROG	rana	ⁿdɨku	ⁿdɨku	54	503			josserand1983mixtec		tila11
 4014	SanAgustinChayucoMixtec	HORN (ANATOMY)	cuerno	ndɨquɨ	ndɨquɨ	76	1393			pensinger1974diccionario		chay11
 4225	SanJuanColoradoMixtec	HORN (ANATOMY)	cuerno	ndɨquɨ	ndɨquɨ	76	1393			stark1986diccionario		colo11
@@ -8991,7 +8991,7 @@ ID	DOCULECT	CONCEPT	SPANISH_GLOSS	VALUE	FORM	IDlist	CONCEPTICON_ID	LOAN	LOAN_SOU
 5134	SanEstebanAtatlahucaMixtec	EGG	huevo	ndɨ̄vɨ	ndɨ̄vɨ	105	744			alexander1980gramatica	[C]	atat11
 4008	SanAgustinChayucoMixtec	ROOSTER	gallo	ndɨvɨ tyahnu	ndɨvɨ-tyahnu	70	1511			pensinger1974diccionario		chay11
 12798	SantaAnaCuauhtemocMixtec	EGG	blanquillo, huevo	ⁿdɨwi	ⁿdɨwi	105	744			josserand1983mixtec		cuau11
-5708	Proto-MixtecMixtec	EGG	huevo	ⁿdɨ̀wìʔ	ⁿdɨ̀wìʔ	105	744			swanton2020observaciones		prom01
+5708	Proto-Mixtec	EGG	huevo	ⁿdɨ̀wìʔ	ⁿdɨ̀wìʔ	105	744			swanton2020observaciones		prom01
 12769	SantaMariaAcatepecMixtec	EGG	blanquillo, huevo	ⁿdɨwɨ	ⁿdɨwɨ	105	744			josserand1983mixtec		acat11
 12786	SanAgustinChayucoMixtec	EGG	blanquillo, huevo	ⁿdɨwɨ	ⁿdɨwɨ	105	744			josserand1983mixtec		chay11
 12796	SanCristobalJamiltepecMixtec	EGG	blanquillo, huevo	ⁿdɨwɨ	ⁿdɨwɨ	105	744			josserand1983mixtec		cris11
@@ -9006,7 +9006,7 @@ ID	DOCULECT	CONCEPT	SPANISH_GLOSS	VALUE	FORM	IDlist	CONCEPTICON_ID	LOAN	LOAN_SOU
 12828	SantaLuciaMonteverdeMixtec	EGG	blanquillo, huevo	ⁿdɨwɨ	ⁿdɨwɨ	105	744			josserand1983mixtec		mont13
 12843	SanMiguelPiedrasMixtec	EGG	blanquillo, huevo	ⁿdɨwɨ	ⁿdɨwɨ	105	744			josserand1983mixtec		pied11
 12845	PinotepaDonLuisMixtec	EGG	blanquillo, huevo	ⁿdɨwɨ	ⁿdɨwɨ	105	744			josserand1983mixtec		pino12
-12849	Proto-MixtecMixtec	EGG	blanquillo, huevo	ⁿdɨwɨ	ⁿdɨwɨ	105	744			josserand1983mixtec		prom01
+12849	Proto-Mixtec	EGG	blanquillo, huevo	ⁿdɨwɨ	ⁿdɨwɨ	105	744			josserand1983mixtec		prom01
 12852	SanMateoSindihuiMixtec	EGG	blanquillo, huevo	ⁿdɨwɨ	ⁿdɨwɨ	105	744			josserand1983mixtec		sind11
 12856	SanJuanTamazolaMixtec	EGG	blanquillo, huevo	ⁿdɨwɨ	ⁿdɨwɨ	105	744			josserand1983mixtec		tama11
 12870	SantiagoTlazoyaltepecMixtec	EGG	blanquillo, huevo	ⁿdɨwɨ	ⁿdɨwɨ	105	744			josserand1983mixtec		tlaz11
@@ -9014,7 +9014,7 @@ ID	DOCULECT	CONCEPT	SPANISH_GLOSS	VALUE	FORM	IDlist	CONCEPTICON_ID	LOAN	LOAN_SOU
 12873	VillaTututepecMelchorOcampoMixtec	EGG	blanquillo, huevo	ⁿdɨwɨ	ⁿdɨwɨ	105	744			josserand1983mixtec		tutu11
 12878	SantiagoYosonduaMixtec	EGG	blanquillo, huevo	ⁿdɨwɨ	ⁿdɨwɨ	105	744			josserand1983mixtec		yoso11
 12884	YutanduchiGuerreroMixtec	EGG	blanquillo, huevo	ⁿdɨwɨ	ⁿdɨwɨ	105	744			josserand1983mixtec		yuta11
-12848	Proto-MixtecMixtec	EGG	blanquillo, huevo	ⁿdɨwɨʔ	ⁿdɨwɨʔ	105	744			josserand1983mixtec		prom01
+12848	Proto-Mixtec	EGG	blanquillo, huevo	ⁿdɨwɨʔ	ⁿdɨwɨʔ	105	744			josserand1983mixtec		prom01
 8141	SantaLuciaMonteverdeMixtec	PIMPLE	grano	ⁿdɨyɨ	ⁿdɨyɨ	36	1809			josserand1983mixtec		mont13
 18787	SanJuanColoradoMixtec	SMOOTH	lisa, liso	ⁿdɨʔƀɨ	ⁿdɨʔƀɨ	193	1234			josserand1983mixtec		colo11
 18806	SantaCruzItundujiaMixtec	SMOOTH	lisa, liso	ⁿdɨʔƀɨ	ⁿdɨʔƀɨ	193	1234			josserand1983mixtec		itun11
@@ -9022,7 +9022,7 @@ ID	DOCULECT	CONCEPT	SPANISH_GLOSS	VALUE	FORM	IDlist	CONCEPTICON_ID	LOAN	LOAN_SOU
 18811	SantiagoJamiltepecMixtec	SMOOTH	lisa, liso	ⁿdɨʔƀɨ	ⁿdɨʔƀɨ	193	1234			josserand1983mixtec		jami11
 18839	PinotepaDonLuisMixtec	SMOOTH	lisa, liso	ⁿdɨʔƀɨ	ⁿdɨʔƀɨ	193	1234			josserand1983mixtec		pino12
 8186	SantaMariaYolotepecMixtec	PIMPLE	grano	ⁿdɨʔɨžɨ	ⁿdɨʔɨžɨ	36	1809			josserand1983mixtec		yolo11
-5608	Proto-MixtecMixtec	PIMPLE	grano	ⁿdɨ̀ʔjɨ́	ⁿdɨ̀ʔjɨ́	36	1809			swanton2020observaciones		prom01
+5608	Proto-Mixtec	PIMPLE	grano	ⁿdɨ̀ʔjɨ́	ⁿdɨ̀ʔjɨ́	36	1809			swanton2020observaciones		prom01
 18834	SantaMariaPenolesMixtec	SMOOTH	lisa, liso	ⁿdɨ̀ʔù	ⁿdɨ̀ʔù	193	1234			josserand1983mixtec		peno11
 18834	SantaMariaPenolesMixtec	SMOOTH	lisa, liso	ⁿdɨ̀ʔù	ⁿdɨ̀ʔù	193	1234			josserand1983mixtec		peno11
 18763	SantaMariaAcatepecMixtec	SMOOTH	lisa, liso	ⁿdɨʔwɨ	ⁿdɨʔwɨ	193	1234			josserand1983mixtec		acat11
@@ -9054,7 +9054,7 @@ ID	DOCULECT	CONCEPT	SPANISH_GLOSS	VALUE	FORM	IDlist	CONCEPTICON_ID	LOAN	LOAN_SOU
 8135	SanLorenzoMixtec	PIMPLE	grano	ⁿdɨʔyɨ	ⁿdɨʔyɨ	36	1809			josserand1983mixtec		lore11
 8136	SantaCatarinaMechoacanMixtec	PIMPLE	grano	ⁿdɨʔyɨ	ⁿdɨʔyɨ	36	1809			josserand1983mixtec		mech11
 8158	PinotepaDonLuisMixtec	PIMPLE	grano	ⁿdɨʔyɨ	ⁿdɨʔyɨ	36	1809			josserand1983mixtec		pino12
-8161	Proto-MixtecMixtec	PIMPLE	grano	ⁿdɨʔyɨ	ⁿdɨʔyɨ	36	1809			josserand1983mixtec		prom01
+8161	Proto-Mixtec	PIMPLE	grano	ⁿdɨʔyɨ	ⁿdɨʔyɨ	36	1809			josserand1983mixtec		prom01
 8169	SantaMariaTataltepecMixtec	PIMPLE	grano	ⁿdɨʔyɨ	ⁿdɨʔyɨ	36	1809			josserand1983mixtec		tata11
 8177	SantiagoTilantongoMixtec	PIMPLE	grano	ⁿdɨʔyɨ	ⁿdɨʔyɨ	36	1809			josserand1983mixtec		tila11
 8183	VillaTututepecMelchorOcampoMixtec	PIMPLE	grano	ⁿdɨʔyɨ	ⁿdɨʔyɨ	36	1809			josserand1983mixtec		tutu11
@@ -9247,7 +9247,7 @@ ID	DOCULECT	CONCEPT	SPANISH_GLOSS	VALUE	FORM	IDlist	CONCEPTICON_ID	LOAN	LOAN_SOU
 12568	SanMiguelElGrandeMixtec	SUGAR CANE	caña	ⁿdoō-stila	ⁿdoō-stila	102	146			josserand1983mixtec		gran11
 3550	SanJuanMixtepecMixtec	TORTILLA BASKET	tenate	ndoò tsítí	ndoò-tsítí		1539			oxnard2020		mixt11
 12543	AyutlalosLibresMixtec	SUGAR CANE	caña	ⁿdooʔ	ⁿdooʔ	102	146			josserand1983mixtec		ayut11
-12608	Proto-MixtecMixtec	SUGAR CANE	caña	ⁿdooʔ	ⁿdooʔ	102	146			josserand1983mixtec		prom01
+12608	Proto-Mixtec	SUGAR CANE	caña	ⁿdooʔ	ⁿdooʔ	102	146			josserand1983mixtec		prom01
 12643	SantaMariaZacatepecMixtec	SUGAR CANE	caña	ⁿdooʔ	ⁿdooʔ	102	146			josserand1983mixtec		zaca11
 1082	AlacatlatzalaMixtec	PLAIN	flat place	ndōsō	ndōsō	142	652			zylstra1991syntactic		alac11
 13106	SanJorgeNuchitaMixtec	MAMEY	mamey	ⁿdoxo-kʷaʔa	ⁿdoxo-kʷaʔa	111				josserand1983mixtec		nuch11
@@ -9509,7 +9509,7 @@ ID	DOCULECT	CONCEPT	SPANISH_GLOSS	VALUE	FORM	IDlist	CONCEPTICON_ID	LOAN	LOAN_SOU
 788	AyutlalosLibresMixtec	HEN	hen	ndushīh	ndushīh	71	1514			hills1990syntactic		ayut11
 1045	AlacatlatzalaMixtec	CHICKEN	chicken	ndūshú	ndūshú	71	1318			zylstra1991syntactic		alac11
 1044	AlacatlatzalaMixtec	ROOSTER	rooster	ndūshú chée	ndūshú-chée	70	1511			zylstra1991syntactic		alac11
-12726	Proto-MixtecMixtec	HONEY	miel	ⁿdusi	ⁿdusi	103	942			josserand1983mixtec		prom01
+12726	Proto-Mixtec	HONEY	miel	ⁿdusi	ⁿdusi	103	942			josserand1983mixtec		prom01
 12646	SanMiguelAchiutlaMixtec	HONEY	miel	ⁿduši	ⁿduši	103	942			josserand1983mixtec		achi11
 12656	SanPedroAtoyacMixtec	HONEY	miel	ⁿduši	ⁿduši	103	942			josserand1983mixtec		atoy11
 12661	SanAgustinChayucoMixtec	SUGAR CANE HONEY	miel de caña	ⁿduši	ⁿduši	103				josserand1983mixtec		chay11
@@ -9589,7 +9589,7 @@ ID	DOCULECT	CONCEPT	SPANISH_GLOSS	VALUE	FORM	IDlist	CONCEPTICON_ID	LOAN	LOAN_SOU
 14603	SantoDomingoNundoMixtec	WATER	agua	ⁿdute	ⁿdute	137	948			josserand1983mixtec		nund13
 14609	SanMateoPenascoMixtec	WATER	agua	ⁿdute	ⁿdute	137	948			josserand1983mixtec		pena12
 14611	SanMiguelPiedrasMixtec	WATER	agua	ⁿdute	ⁿdute	137	948			josserand1983mixtec		pied11
-14616	Proto-MixtecMixtec	WATER	agua	ⁿdute	ⁿdute	137	948			josserand1983mixtec		prom01
+14616	Proto-Mixtec	WATER	agua	ⁿdute	ⁿdute	137	948			josserand1983mixtec		prom01
 14619	SanMateoSindihuiMixtec	WATER	agua	ⁿdute	ⁿdute	137	948			josserand1983mixtec		sind11
 14620	SanJoseSinicahuaMixtec	WATER	agua	ⁿdute	ⁿdute	137	948			josserand1983mixtec		sini11
 14622	SanJuanTamazolaMixtec	WATER	agua	ⁿdute	ⁿdute	137	948			josserand1983mixtec		tama11
@@ -9636,7 +9636,7 @@ ID	DOCULECT	CONCEPT	SPANISH_GLOSS	VALUE	FORM	IDlist	CONCEPTICON_ID	LOAN	LOAN_SOU
 12222	SanPedroAtoyacMixtec	GREEN BEAN	ejote	ⁿduti	ⁿduti	97				josserand1983mixtec		atoy11
 12252	SanPedroJicayanMixtec	GREEN BEAN	ejote	ⁿduti	ⁿduti	97				josserand1983mixtec		jica12
 12281	SanAntonioTepetlapaMixtec	GREEN BEAN	ejote	ⁿduti-yuta	ⁿduti-yuta	97				josserand1983mixtec		tepe12
-12175	Proto-MixtecMixtec	BEAN	frijol(es)	ⁿdutiʔ	ⁿdutiʔ	96	832			josserand1983mixtec		prom01
+12175	Proto-Mixtec	BEAN	frijol(es)	ⁿdutiʔ	ⁿdutiʔ	96	832			josserand1983mixtec		prom01
 12211	SantaMariaZacatepecMixtec	BEAN	frijol(es)	ⁿdutiʔ	ⁿdutiʔ	96	832			josserand1983mixtec		zaca11
 12297	SantaMariaZacatepecMixtec	GREEN BEAN	ejote	ⁿdutiʔ-yuta	ⁿdutiʔ-yuta	97				josserand1983mixtec		zaca11
 935	SanJuanCoatzospamMixtec	BEAN	bean	ndutsi	ndutsi	96	832			small1990syntactic		coat11
@@ -10087,8 +10087,8 @@ ID	DOCULECT	CONCEPT	SPANISH_GLOSS	VALUE	FORM	IDlist	CONCEPTICON_ID	LOAN	LOAN_SOU
 8453	SanMiguelProgresoMixtec	SANDAL	huarache	ni̧xʸa̧	ni̧xʸa̧	40				josserand1983mixtec		prog11
 5995	SanAndresChicahuaxtlaTriqui	NIXTAMAL	nixtamal	niyaj⁴a	niyaj⁴a	90				good1978diccionario		chic12
 6879	SantiagoApoalaMixtec	BLOOD	sangre	ni̧ỹi̧	ni̧ỹi̧	17	946			josserand1983mixtec		apoa11
-19380	Proto-MixtecMixtec	NIGHT TIME	toda la noche	niyu	niyu	199				josserand1983mixtec		prom01
-19381	Proto-MixtecMixtec	NIGHT TIME	toda la noche	niyu̧	niyu̧	199				josserand1983mixtec		prom01
+19380	Proto-Mixtec	NIGHT TIME	toda la noche	niyu	niyu	199				josserand1983mixtec		prom01
+19381	Proto-Mixtec	NIGHT TIME	toda la noche	niyu̧	niyu̧	199				josserand1983mixtec		prom01
 8159	SanMiguelProgresoMixtec	PIMPLE	grano	ni̧ʔi̧	ni̧ʔi̧	36	1809			josserand1983mixtec		prog11
 13707	SanAgustinAtenangoMixtec	SMOKE (EXHAUST)	humo	ni̧ʔma̧	ni̧ʔma̧	121	778			josserand1983mixtec		aten11
 13778	SanJeronimoProgresoMixtec	SMOKE (EXHAUST)	humo	ni̧ʔma̧	ni̧ʔma̧	121	778			josserand1983mixtec		prog12
@@ -10108,7 +10108,7 @@ ID	DOCULECT	CONCEPT	SPANISH_GLOSS	VALUE	FORM	IDlist	CONCEPTICON_ID	LOAN	LOAN_SOU
 19372	SanAndresNuxinoMixtec	NIGHT TIME	toda la noche	nɨ̧-ni̧ʔñu̧	nɨ̧-ni̧ʔñu̧	199				josserand1983mixtec		nuxi11
 5586	ChalcatongoHidalgoMixtec	BLOOD	sangre	nɨ²ɲɨ¹	nɨ²ɲɨ¹	17	946			swanton2020observaciones	+³	chal11
 19350	SantaCatarinaEstetlaMixtec	NIGHT TIME	toda la noche	nɨ̧ɨ̧-ni̧u̧	nɨ̧ɨ̧-ni̧u̧	199				josserand1983mixtec		este11
-5583	Proto-MixtecMixtec	BLOOD	sangre	nɨ̀jɨ̀ʔ	nɨ̀jɨ̀ʔ	17	946			swanton2020observaciones		prom01
+5583	Proto-Mixtec	BLOOD	sangre	nɨ̀jɨ̀ʔ	nɨ̀jɨ̀ʔ	17	946			swanton2020observaciones		prom01
 6888	ChalcatongoHidalgoMixtec	BLOOD	sangre	nɨ̧ñi̧	nɨ̧ñi̧	17	946			josserand1983mixtec		chal11
 11424	SantaMariaNutioMixtec	CORN	maíz	nɨ̧ñi̧	nɨ̧ñi̧	87	506			josserand1983mixtec		nuti11
 6909	SanMiguelElGrandeMixtec	BLOOD	sangre	nɨ̧ñī̧	nɨ̧ñī̧	17	946			josserand1983mixtec		gran11
@@ -10156,11 +10156,11 @@ ID	DOCULECT	CONCEPT	SPANISH_GLOSS	VALUE	FORM	IDlist	CONCEPTICON_ID	LOAN	LOAN_SOU
 6976	VillaTututepecMelchorOcampoMixtec	BLOOD	sangre	nɨ̧̀ñɨ̧̀	nɨ̧̀ñɨ̧̀	17	946			josserand1983mixtec		tutu11
 19355	SantaCruzItundujiaMixtec	NIGHT TIME	toda la noche	nɨ̧ñu̧	nɨ̧ñu̧	199				josserand1983mixtec		itun11
 19367	SantaLuciaMonteverdeMixtec	NIGHT TIME	toda la noche	nɨ̧ñu̧	nɨ̧ñu̧	199				josserand1983mixtec		mont13
-6950	Proto-MixtecMixtec	BLOOD	sangre	nɨyi̧ʔ	nɨyi̧ʔ	17	946			josserand1983mixtec		prom01
-6952	Proto-MixtecMixtec	BLOOD	sangre	nɨyi̧ʔ	nɨyi̧ʔ	17	946			josserand1983mixtec		prom01
-6953	Proto-MixtecMixtec	BLOOD	sangre	nɨyi̧ʔ	nɨyi̧ʔ	17	946			josserand1983mixtec		prom01
+6950	Proto-Mixtec	BLOOD	sangre	nɨyi̧ʔ	nɨyi̧ʔ	17	946			josserand1983mixtec		prom01
+6952	Proto-Mixtec	BLOOD	sangre	nɨyi̧ʔ	nɨyi̧ʔ	17	946			josserand1983mixtec		prom01
+6953	Proto-Mixtec	BLOOD	sangre	nɨyi̧ʔ	nɨyi̧ʔ	17	946			josserand1983mixtec		prom01
 6969	SantiagoTilantongoMixtec	BLOOD	sangre	nɨ̧ỹɨ̧	nɨ̧ỹɨ̧	17	946			josserand1983mixtec		tila11
-6951	Proto-MixtecMixtec	BLOOD	sangre	nɨyɨ̧ʔ	nɨyɨ̧ʔ	17	946			josserand1983mixtec		prom01
+6951	Proto-Mixtec	BLOOD	sangre	nɨyɨ̧ʔ	nɨyɨ̧ʔ	17	946			josserand1983mixtec		prom01
 19354	SanAntonioHuitepecMixtec	NIGHT TIME	toda la noche	ⁿǰa-ni̧ñu̧	ⁿǰa-ni̧ñu̧	199				josserand1983mixtec		huit11
 18601	SanAntonioNduayacoMixtec	NEAR	está cerca	ⁿǰa-xaʔa	ⁿǰa-xaʔa	189	1942			josserand1983mixtec		ndua11
 8397	ChigmecatitlanMixtec	SANDAL	huarache	ⁿǰaa	ⁿǰaa	40				josserand1983mixtec		chig11
@@ -10343,8 +10343,8 @@ ID	DOCULECT	CONCEPT	SPANISH_GLOSS	VALUE	FORM	IDlist	CONCEPTICON_ID	LOAN	LOAN_SOU
 11441	SanBartoloSoyaltepecMixtec	CORN	maíz	no̧ni̧	no̧ni̧	87	506			josserand1983mixtec		soya11
 11474	ZapotitlanPalmasMixtec	CORN	maíz	no̧ni̧	no̧ni̧	87	506			josserand1983mixtec		zapo11
 4565	AlacatlatzalaMixtec	CORN	maíz	no̠ni̠	no̠ni̠	87	506			zylstra2012gramatica		alac11
-11436	Proto-MixtecMixtec	CORN	maíz	noniʔ	noniʔ	87	506			josserand1983mixtec		prom01
-5689	Proto-MixtecMixtec	CORN	maíz	nònìʔ	nònìʔ	87	506			swanton2020observaciones		prom01
+11436	Proto-Mixtec	CORN	maíz	noniʔ	noniʔ	87	506			josserand1983mixtec		prom01
+5689	Proto-Mixtec	CORN	maíz	nònìʔ	nònìʔ	87	506			swanton2020observaciones		prom01
 1020	AlacatlatzalaMixtec	FACE	face	noo	noo	20	1560			zylstra1991syntactic		alac11
 20800	SanAndresYutatioMixtec	FACE	cara	noo̠	noo̠	20	1560			williams2017diccionario		yuta13
 3030	SanSebastianMonteMixtec	FACE	cara	nòò	nòò	20	1560			oxnard2020		mont12
@@ -10353,7 +10353,7 @@ ID	DOCULECT	CONCEPT	SPANISH_GLOSS	VALUE	FORM	IDlist	CONCEPTICON_ID	LOAN	LOAN_SOU
 12637	SantaMariaYucuhitiMixtec	SUGAR CANE	caña	nò̧ò̧	nò̧ò̧	102	146			josserand1983mixtec		yucu12
 4510	AlacatlatzalaMixtec	FACE	cara	no̠o̠	no̠o̠	20	1560			zylstra2012gramatica		alac11
 14614	SanMiguelProgresoMixtec	WATER	agua	no̧te	no̧te	137	948			josserand1983mixtec		prog11
-7051	Proto-MixtecMixtec	TOOTH	diente	noʔo	noʔo	22	1380			josserand1983mixtec		prom01
+7051	Proto-Mixtec	TOOTH	diente	noʔo	noʔo	22	1380			josserand1983mixtec		prom01
 2179	SantiagoCacaloxtepecMixtec	TOOTH	tooth	nò̧ʔō̧	nò̧ʔō̧	22	1380			durr1987preliminary		caca11
 2180	CahuatacheMixtec	TOOTH	tooth	nò̧ʔō̧	nò̧ʔō̧	22	1380			durr1987preliminary		cahu11
 6991	SantaMariaAcatepecMixtec	TOOTH	diente	no̧ʔo̧	no̧ʔo̧	22	1380			josserand1983mixtec		acat11
@@ -12203,8 +12203,8 @@ ID	DOCULECT	CONCEPT	SPANISH_GLOSS	VALUE	FORM	IDlist	CONCEPTICON_ID	LOAN	LOAN_SOU
 16956	SanBartoloSoyaltepecMixtec	EIGHT	ocho	o̧na̧	o̧na̧	164	1705			josserand1983mixtec		soya11
 16987	ZapotitlanPalmasMixtec	EIGHT	ocho	o̧na̧	o̧na̧	164	1705			josserand1983mixtec		zapo11
 4632	AlacatlatzalaMixtec	EIGHT	ocho	o̠na̠	o̠na̠	164	1705			zylstra2012gramatica		alac11
-16952	Proto-MixtecMixtec	EIGHT	ocho	one	one	164	1705			josserand1983mixtec		prom01
-16358	Proto-MixtecMixtec	THREE	tres	oni	oni	159	492			josserand1983mixtec		prom01
+16952	Proto-Mixtec	EIGHT	ocho	one	one	164	1705			josserand1983mixtec		prom01
+16358	Proto-Mixtec	THREE	tres	oni	oni	159	492			josserand1983mixtec		prom01
 20946	SanAndresYutatioMixtec	THREE	tres	oni̠	oni̠	159	492			williams2017diccionario		yuta13
 3714	PiedraAzulMixtec	THREE	tres	ònì	ònì	159	492			oxnard2020		pied12
 3715	SanMarcoslaFlorMixtec	THREE	tres	ònì	ònì	159	492			oxnard2020		flor12
@@ -12228,16 +12228,16 @@ ID	DOCULECT	CONCEPT	SPANISH_GLOSS	VALUE	FORM	IDlist	CONCEPTICON_ID	LOAN	LOAN_SOU
 4626	AlacatlatzalaMixtec	TWO	dos	o̠vi̠	o̠vi̠	158	1498			zylstra2012gramatica		alac11
 18109	SantiagoCacaloxtepecMixtec	BITTER	amargo	owa	owa	182	887			josserand1983mixtec		caca11
 18017	SantiagoCacaloxtepecMixtec	SALTY	salado	owaʔa	owaʔa	181	1091			josserand1983mixtec		caca11
-18154	Proto-MixtecMixtec	BITTER	amargo	owe	owe	182	887			josserand1983mixtec		prom01
+18154	Proto-Mixtec	BITTER	amargo	owe	owe	182	887			josserand1983mixtec		prom01
 16168	SantaCruzBravoMixtec	TWO	dos	owi	owi	158	1498			josserand1983mixtec		brav11
 16170	CahuatacheMixtec	TWO	dos	owi	owi	158	1498			josserand1983mixtec		cahu11
 16184	CuatzoquitengoMixtec	TWO	dos	owi	owi	158	1498			josserand1983mixtec		cuat11
 2757	CahuatacheMixtec	TWO	two	ōwī	ōwī	158	1498			durr1987preliminary		cahu11
 18036	SanMartinEstadoMixtec	SALTY	salado	oʔƀa	oʔƀa	181	1091			josserand1983mixtec		esta11
 18056	SanLuisMoreliaMixtec	SALTY	salado	oʔƀa	oʔƀa	181	1091			josserand1983mixtec		more11
-16601	Proto-MixtecMixtec	FIVE	cinco	oʔo	oʔo	161	493			josserand1983mixtec		prom01
-16602	Proto-MixtecMixtec	FIVE	cinco	oʔo̧	oʔo̧	161	493			josserand1983mixtec		prom01
-5818	Proto-MixtecMixtec	FIVE	cinco	òʔõ̀	òʔõ̀	161	493			swanton2020observaciones		prom01
+16601	Proto-Mixtec	FIVE	cinco	oʔo	oʔo	161	493			josserand1983mixtec		prom01
+16602	Proto-Mixtec	FIVE	cinco	oʔo̧	oʔo̧	161	493			josserand1983mixtec		prom01
+5818	Proto-Mixtec	FIVE	cinco	òʔõ̀	òʔõ̀	161	493			swanton2020observaciones		prom01
 16520	SantaMariaAcatepecMixtec	FIVE	cinco	o̧ʔo̧	o̧ʔo̧	161	493			josserand1983mixtec		acat11
 16524	AlacatlatzalaMixtec	FIVE	cinco	o̧ʔo̧	o̧ʔo̧	161	493			josserand1983mixtec		alac11
 16528	SantaMariaApazcoMixtec	FIVE	cinco	o̧ʔo̧	o̧ʔo̧	161	493			josserand1983mixtec		apas11
@@ -12268,7 +12268,7 @@ ID	DOCULECT	CONCEPT	SPANISH_GLOSS	VALUE	FORM	IDlist	CONCEPTICON_ID	LOAN	LOAN_SOU
 16635	YutanduchiGuerreroMixtec	FIVE	cinco	o̧ʔo̧	o̧ʔo̧	161	493			josserand1983mixtec		yuta11
 16638	ZapotitlanPalmasMixtec	FIVE	cinco	o̧ʔo̧	o̧ʔo̧	161	493			josserand1983mixtec		zapo11
 2781	CahuatacheMixtec	FIVE	five	ō̧ʔō̧	ō̧ʔō̧	161	493			durr1987preliminary		cahu11
-18066	Proto-MixtecMixtec	SALTY	salado	oʔwe	oʔwe	181	1091			josserand1983mixtec		prom01
+18066	Proto-Mixtec	SALTY	salado	oʔwe	oʔwe	181	1091			josserand1983mixtec		prom01
 5240	SantaMariaPapaloCuicatec	TROUSERS	pantalón	pa³nta³lón¹	pa³nta³lón¹	41	809	yes	Spanish	anderson1983diccionario		papa11
 4	AbasoloValleMixtec	FATHER VOCATIVE	papá!	paa	paa	4		yes	Spanish	galindo-sanchez2009vocabulario		abas11
 20587	YucunanyMixtec	FATHER VOCATIVE	father!, dad!	páá	páá	4		yes	Spanish	salazar2020yucunani		yucu17
@@ -12811,14 +12811,14 @@ ID	DOCULECT	CONCEPT	SPANISH_GLOSS	VALUE	FORM	IDlist	CONCEPTICON_ID	LOAN	LOAN_SOU
 19588	SantiagoJuxtlahuacaMixtec	HALF	mitad	sawa	sawa	202	816			josserand1983mixtec		juxt11
 19589	SanLorenzoMixtec	HALF	mitad	sawa	sawa	202	816			josserand1983mixtec		lore11
 19590	SantaCatarinaMechoacanMixtec	HALF	mitad	sawa	sawa	202	816			josserand1983mixtec		mech11
-19615	Proto-MixtecMixtec	HALF	mitad	sawa	sawa	202	816			josserand1983mixtec		prom01
+19615	Proto-Mixtec	HALF	mitad	sawa	sawa	202	816			josserand1983mixtec		prom01
 19617	SanFranciscoSayultepecMixtec	HALF	mitad	sawa	sawa	202	816			josserand1983mixtec		sayu11
 19628	SanAntonioTepetlapaMixtec	HALF	mitad	sawa	sawa	202	816			josserand1983mixtec		tepe12
 19639	VillaTututepecMelchorOcampoMixtec	HALF	mitad	sawa	sawa	202	816			josserand1983mixtec		tutu11
 19643	YoloxochitlMixtec	HALF	mitad	sawa	sawa	202	816			josserand1983mixtec		yolo12
 19645	SanBartolomeYucuaneMixtec	HALF	mitad	sawa	sawa	202	816			josserand1983mixtec		yucu11
 14675	SanPedroAtoyacMixtec	RAIN (PRECIPITATION)	lluvia	sawi	sawi	138	658			josserand1983mixtec		atoy11
-14744	Proto-MixtecMixtec	RAIN (PRECIPITATION)	lluvia	sawi	sawi	138	658			josserand1983mixtec		prom01
+14744	Proto-Mixtec	RAIN (PRECIPITATION)	lluvia	sawi	sawi	138	658			josserand1983mixtec		prom01
 14746	SanFranciscoSayultepecMixtec	RAIN (PRECIPITATION)	lluvia	sawi	sawi	138	658			josserand1983mixtec		sayu11
 14771	YoloxochitlMixtec	RAIN (PRECIPITATION)	lluvia	sawi	sawi	138	658			josserand1983mixtec		yolo12
 14773	SanBartolomeYucuaneMixtec	RAIN (PRECIPITATION)	lluvia	sawi	sawi	138	658			josserand1983mixtec		yucu11
@@ -12826,7 +12826,7 @@ ID	DOCULECT	CONCEPT	SPANISH_GLOSS	VALUE	FORM	IDlist	CONCEPTICON_ID	LOAN	LOAN_SOU
 11328	SanJuanTeitaMixtec	MAGUEY	maguey	ṣ̌awi	ṣ̌awi	84				josserand1983mixtec		teit11
 14395	SanJuanTeitaMixtec	HOLE	agujero	ṣ̌awi	ṣ̌awi	130	1667			josserand1983mixtec		teit11
 14676	AyutlalosLibresMixtec	RAIN (PRECIPITATION)	lluvia	sawiʔ	sawiʔ	138	658			josserand1983mixtec		ayut11
-14743	Proto-MixtecMixtec	RAIN (PRECIPITATION)	lluvia	sawiʔ	sawiʔ	138	658			josserand1983mixtec		prom01
+14743	Proto-Mixtec	RAIN (PRECIPITATION)	lluvia	sawiʔ	sawiʔ	138	658			josserand1983mixtec		prom01
 14705	SantaCruzItundujiaMixtec	RAIN (PRECIPITATION)	lluvia	sawɨ	sawɨ	138	658			josserand1983mixtec		itun11
 14006	SantaMariaTataltepecMixtec	GOURD BOWL	jícara	šaxi̧	šaxi̧	124				josserand1983mixtec		tata11
 14008	SanJuanTeitaMixtec	GOURD BOWL	jícara	ṣ̌axi̧	ṣ̌axi̧	124				josserand1983mixtec		teit11
@@ -12934,7 +12934,7 @@ ID	DOCULECT	CONCEPT	SPANISH_GLOSS	VALUE	FORM	IDlist	CONCEPTICON_ID	LOAN	LOAN_SOU
 2397	SanJuanMixtepecMixtec	FROG	frog	sàʔƀà	sàʔƀà	54	503			durr1987preliminary		mixt11
 2396	SanMiguelElGrandeMixtec	FROG	frog	sāʔƀà	sāʔƀà	54	503			durr1987preliminary		gran11
 2399	SantaMariaJicaltepecMixtec	FROG	frog	sāʔƀā	sāʔƀā	54	503			durr1987preliminary		jica11
-5573	Proto-MixtecMixtec	CHILD (DESCENDANT)	hijo	sàʔjí	sàʔjí	5	1801			swanton2020observaciones		prom01
+5573	Proto-Mixtec	CHILD (DESCENDANT)	hijo	sàʔjí	sàʔjí	5	1801			swanton2020observaciones		prom01
 2272	SantaMariaJicaltepecMixtec	CLOTHES	clothes	sàʔmà	sàʔmà	39	1895			durr1987preliminary		jica11
 2270	SanJuanMixtepecMixtec	CLOTHES	clothes	sàʔmǎ	sàʔmǎ	39	1895			durr1987preliminary		mixt11
 2264	SantoTomasOcotepecMixtec	CLOTHES	clothes	sāʔmā	sāʔmā	39	1895			durr1987preliminary		ocot11
@@ -13042,7 +13042,7 @@ ID	DOCULECT	CONCEPT	SPANISH_GLOSS	VALUE	FORM	IDlist	CONCEPTICON_ID	LOAN	LOAN_SOU
 13856	SantaCruzItundujiaMixtec	GARBAGE	basura	saʔwɨ	saʔwɨ	122	909			josserand1983mixtec		itun11
 6340	AlacatlatzalaMixtec	CHILD (DESCENDANT)	hijo/hija	saʔya	saʔya	5	1801			josserand1983mixtec		alac11
 2059	CahuatacheMixtec	CHILD (DESCENDANT)	child	sāʔyā	sāʔyā	5	1801			durr1987preliminary		cahu11
-6417	Proto-MixtecMixtec	CHILD (DESCENDANT)	hijo/hija	saʔyi	saʔyi	5	1801			josserand1983mixtec		prom01
+6417	Proto-Mixtec	CHILD (DESCENDANT)	hijo/hija	saʔyi	saʔyi	5	1801			josserand1983mixtec		prom01
 20987	SanAndresYutatioMixtec	NIGHT	noche	se̠kuaá	se̠-kuaá	198	1233			williams2017diccionario		yuta13
 6	AbasoloValleMixtec	DAUGHTER	hija	sesi'i	se-si'i	7	1357			galindo-sanchez2009vocabulario		abas11
 6604	SanJuanDiuxiMixtec	MAN	hombre	se-yɨɨ	se-yɨɨ	13	1554			josserand1983mixtec		diux11
@@ -13392,11 +13392,11 @@ ID	DOCULECT	CONCEPT	SPANISH_GLOSS	VALUE	FORM	IDlist	CONCEPTICON_ID	LOAN	LOAN_SOU
 8615	SantiagoNuyooMixtec	BLOUSE (WOVEN)	huipil	šikɨ̧	šikɨ̧	42				josserand1983mixtec		nuyo11
 8639	SantaMariaYucuhitiMixtec	BLOUSE (WOVEN)	huipil	šìkɨ̧̀	šìkɨ̧̀	42				josserand1983mixtec		yucu12
 7465	SanLuisMoreliaMixtec	NECK	cuello	siko	siko	26	1333			josserand1983mixtec		more11
-8619	Proto-MixtecMixtec	BLOUSE (WOVEN)	huipil	siko	siko	42				josserand1983mixtec		prom01
+8619	Proto-Mixtec	BLOUSE (WOVEN)	huipil	siko	siko	42				josserand1983mixtec		prom01
 7410	AlacatlatzalaMixtec	NECK	cuello	siko̧	siko̧	26	1333			josserand1983mixtec		alac11
 8582	CahuatacheMixtec	BLOUSE (WOVEN)	huipil	siko̧	siko̧	42				josserand1983mixtec		cahu11
-8620	Proto-MixtecMixtec	BLOUSE (WOVEN)	huipil	siko̧	siko̧	42				josserand1983mixtec		prom01
-5617	Proto-MixtecMixtec	BLOUSE (WOVEN)	huipil	sìkõ̀	sìkõ̀	42				swanton2020observaciones		prom01
+8620	Proto-Mixtec	BLOUSE (WOVEN)	huipil	siko̧	siko̧	42				josserand1983mixtec		prom01
+5617	Proto-Mixtec	BLOUSE (WOVEN)	huipil	sìkõ̀	sìkõ̀	42				swanton2020observaciones		prom01
 8580	SantaCruzBravoMixtec	BLOUSE (WOVEN)	huipil	šiko̧	šiko̧	42				josserand1983mixtec		brav11
 8592	CuatzoquitengoMixtec	BLOUSE (WOVEN)	huipil	šiko̧	šiko̧	42				josserand1983mixtec		cuat11
 8635	VillaTututepecMelchorOcampoMixtec	BLOUSE (WOVEN)	huipil	šiko̧	šiko̧	42				josserand1983mixtec		tutu11
@@ -13531,7 +13531,7 @@ ID	DOCULECT	CONCEPT	SPANISH_GLOSS	VALUE	FORM	IDlist	CONCEPTICON_ID	LOAN	LOAN_SOU
 11769	MetlatonocMixtec	TORTILLA	tortilla	šītà	šītà	92				josserand1983mixtec		metl11
 11825	SantaMariaYucuhitiMixtec	TORTILLA	tortilla	šītā	šītā	92				josserand1983mixtec		yucu12
 11824	SanBartolomeYucuaneMixtec	TORTILLA	tortilla	ṣ̌ita	ṣ̌ita	92				josserand1983mixtec		yucu11
-11795	Proto-MixtecMixtec	TORTILLA	tortilla	sitaʔ	sitaʔ	92				josserand1983mixtec		prom01
+11795	Proto-Mixtec	TORTILLA	tortilla	sitaʔ	sitaʔ	92				josserand1983mixtec		prom01
 11725	AyutlalosLibresMixtec	TORTILLA	tortilla	šitaʔ	šitaʔ	92				josserand1983mixtec		ayut11
 11832	SantaMariaZacatepecMixtec	TORTILLA	tortilla	šitaʔ	šitaʔ	92				josserand1983mixtec		zaca11
 1857	SanPedroySanPabloTeposcolula1600Mixtec	INTESTINES	tripa, tripas	site	site	31	1991			alvarado1593vocabulario		tepo01
@@ -13600,7 +13600,7 @@ ID	DOCULECT	CONCEPT	SPANISH_GLOSS	VALUE	FORM	IDlist	CONCEPTICON_ID	LOAN	LOAN_SOU
 7699	SanAgustinMonteLobosMixtec	INTESTINES	tripas	šiti-kʷači	šiti-kʷači	31	1991			josserand1983mixtec		mont14
 7722	SanBartoloSoyaltepecMixtec	INTESTINES	tripas	šiti-kʷači	šiti-kʷači	31	1991			josserand1983mixtec		soya11
 7693	MetlatonocMixtec	STOMACH	estómago	sītī-tīšī	sītī-tīšī	31	819			josserand1983mixtec		metl11
-7367	Proto-MixtecMixtec	NOSE	nariz	siti̧ʔ	siti̧ʔ	25	1221			josserand1983mixtec		prom01
+7367	Proto-Mixtec	NOSE	nariz	siti̧ʔ	siti̧ʔ	25	1221			josserand1983mixtec		prom01
 7302	AyutlalosLibresMixtec	NOSE	nariz	šiti̧ʔ	šiti̧ʔ	25	1221			josserand1983mixtec		ayut11
 7404	SantaMariaZacatepecMixtec	NOSE	nariz	šiti̧ʔ	šiti̧ʔ	25	1221			josserand1983mixtec		zaca11
 7294	AlacatlatzalaMixtec	NOSE	nariz	sitni̧	sitni̧	25	1221			josserand1983mixtec		alac11
@@ -13640,7 +13640,7 @@ ID	DOCULECT	CONCEPT	SPANISH_GLOSS	VALUE	FORM	IDlist	CONCEPTICON_ID	LOAN	LOAN_SOU
 9123	GuadalupeVillahermosaElPortesueloMixtec	BED	cama	sito	sito	48	1663			josserand1983mixtec		guad11
 9141	SanSebastianMonteMixtec	BED	cama	sito	sito	48	1663			josserand1983mixtec		mont12
 9151	SantoDomingoNuxaaMixtec	BED	cama	sito	sito	48	1663			josserand1983mixtec		nuxa11
-9162	Proto-MixtecMixtec	BED	cama	sito	sito	48	1663			josserand1983mixtec		prom01
+9162	Proto-Mixtec	BED	cama	sito	sito	48	1663			josserand1983mixtec		prom01
 9176	SanPedroySanPabloTeposcolulaMixtec	BED	cama	sito	sito	48	1663			josserand1983mixtec		tepo11
 13509	GuadalupeVillahermosaElPortesueloMixtec	OVEN	horno	sito	sito	117	1143			josserand1983mixtec		guad11
 3161	SanSebastianMonteMixtec	BED	cama	sìto	sìto	48	1663			oxnard2020		mont12
@@ -13858,10 +13858,10 @@ ID	DOCULECT	CONCEPT	SPANISH_GLOSS	VALUE	FORM	IDlist	CONCEPTICON_ID	LOAN	LOAN_SOU
 7674	SantaCatarinaEstetlaMixtec	INTESTINES	tripas	šɨ̧tɨ̧	šɨ̧tɨ̧	31	1991			josserand1983mixtec		este11
 7712	SantaMariaPenolesMixtec	INTESTINES	tripas	šɨ̧tɨ̧	šɨ̧tɨ̧	31	1991			josserand1983mixtec		peno11
 7712	SantaMariaPenolesMixtec	INTESTINES	tripas	šɨ̧tɨ̧	šɨ̧tɨ̧	31	1991			josserand1983mixtec		peno11
-8931	Proto-MixtecMixtec	POST	horcón	sɨʔi̧	sɨʔi̧	46	281			josserand1983mixtec		prom01
+8931	Proto-Mixtec	POST	horcón	sɨʔi̧	sɨʔi̧	46	281			josserand1983mixtec		prom01
 6355	SanPedroChayucoMixtec	CHILD (DESCENDANT)	hijo/hija	sɨʔɨ	sɨʔɨ	5	1801			josserand1983mixtec		chay12
 8903	SanMiguelElGrandeMixtec	POST	horcón	sɨʔɨ	sɨʔɨ	46	281			josserand1983mixtec		gran11
-8930	Proto-MixtecMixtec	POST	horcón	sɨʔɨ̧	sɨʔɨ̧	46	281			josserand1983mixtec		prom01
+8930	Proto-Mixtec	POST	horcón	sɨʔɨ̧	sɨʔɨ̧	46	281			josserand1983mixtec		prom01
 7862	SantiagoYosonduaMixtec	FOOT	pie	sɨ̧ʔɨ̧	sɨ̧ʔɨ̧	32	1301			josserand1983mixtec		yoso11
 8887	ChalcatongoHidalgoMixtec	LEG	pierna	sɨ̧ʔɨ̧	sɨ̧ʔɨ̧	46	1297			josserand1983mixtec		chal11
 8894	SanJuanColoradoMixtec	POST	horcón	sɨ̧ʔɨ̧	sɨ̧ʔɨ̧	46	281			josserand1983mixtec		colo11
@@ -14166,7 +14166,7 @@ ID	DOCULECT	CONCEPT	SPANISH_GLOSS	VALUE	FORM	IDlist	CONCEPTICON_ID	LOAN	LOAN_SOU
 20123	SanMartinDuraznosMixtec	NECK	cuello, garganta	sùkùn	sùkùn	26	1333			hernandez2020san-martin		dura11
 4697	XochapaMixtec	NECK	cuello, pescuezo	su̠kún	su̠kún	26	1333			stark2013diccionario		xoch11
 6139	ElJicaralMixtec	NECK	cuello	su̠kún	su̠kún	26	1333			Emily John-Martin		jica13
-7482	Proto-MixtecMixtec	NECK	cuello	suku̧ʔ	suku̧ʔ	26	1333			josserand1983mixtec		prom01
+7482	Proto-Mixtec	NECK	cuello	suku̧ʔ	suku̧ʔ	26	1333			josserand1983mixtec		prom01
 7517	SantaMariaZacatepecMixtec	NECK	cuello	suku̧ʔ	suku̧ʔ	26	1333			josserand1983mixtec		zaca11
 11944	SanJuanCoatzospamMixtec	FURROW	surco	šukʷi̧	šukʷi̧	94	1794			josserand1983mixtec		coat11
 10971	SantoTomasOcotepecMixtec	TAIL	cola	sù̧mà̧	sù̧mà̧	79	1220			josserand1983mixtec		ocot11
@@ -14227,7 +14227,7 @@ ID	DOCULECT	CONCEPT	SPANISH_GLOSS	VALUE	FORM	IDlist	CONCEPTICON_ID	LOAN	LOAN_SOU
 6831	SantaLuciaMonteverdeMixtec	PRIEST	sacerdote	sutu	sutu	16	852			josserand1983mixtec		mont13
 6839	SantiagoPinotepaNacionalMixtec	PRIEST	sacerdote	sutu	sutu	16	852			josserand1983mixtec		pino11
 6840	PinotepaDonLuisMixtec	PRIEST	sacerdote	sutu	sutu	16	852			josserand1983mixtec		pino12
-6841	Proto-MixtecMixtec	PRIEST	sacerdote	sutu	sutu	16	852			josserand1983mixtec		prom01
+6841	Proto-Mixtec	PRIEST	sacerdote	sutu	sutu	16	852			josserand1983mixtec		prom01
 6842	SantosReyesTepejilloMixtec	PRIEST	sacerdote	sutu	sutu	16	852			josserand1983mixtec		reye11
 6843	SanFranciscoSayultepecMixtec	PRIEST	sacerdote	sutu	sutu	16	852			josserand1983mixtec		sayu11
 6851	SanAntonioTepetlapaMixtec	PRIEST	sacerdote	sutu	sutu	16	852			josserand1983mixtec		tepe12
@@ -14263,7 +14263,7 @@ ID	DOCULECT	CONCEPT	SPANISH_GLOSS	VALUE	FORM	IDlist	CONCEPTICON_ID	LOAN	LOAN_SOU
 2628	SanJuanCoatzospamMixtec	STONE OR ROCK	stone	šúǔ	šúǔ	143	2125			durr1987preliminary		coat11
 9056	SanJuanTeitaMixtec	MAT	petate	ṣ̌uu	ṣ̌uu	47	195			josserand1983mixtec		teit11
 15340	SanJuanTeitaMixtec	STONE OR ROCK	piedra	ṣ̌uu	ṣ̌uu	143	2125			josserand1983mixtec		teit11
-18389	Proto-MixtecMixtec	LAZY	flojo	suxȩʔ	suxȩʔ	186	1564			josserand1983mixtec		prom01
+18389	Proto-Mixtec	LAZY	flojo	suxȩʔ	suxȩʔ	186	1564			josserand1983mixtec		prom01
 14206	SantoDomingoNundoMixtec	THREAD	hilo	šuʔa	šuʔa	127	1161			josserand1983mixtec		nund13
 14163	SanJuanCoatzospamMixtec	THREAD	hilo	šuʔƀe	šuʔƀe	127	1161			josserand1983mixtec		coat11
 2547	SanJuanCoatzospamMixtec	THREAD	thread	šúʔƀé	šúʔƀé	127	1161			durr1987preliminary		coat11
@@ -14583,7 +14583,7 @@ ID	DOCULECT	CONCEPT	SPANISH_GLOSS	VALUE	FORM	IDlist	CONCEPTICON_ID	LOAN	LOAN_SOU
 9847	SantoTomasOcotepecMixtec	FALCON	halcón	tàsù̧	tàsù̧	55	3258			josserand1983mixtec		ocot11
 4718	XochapaMixtec	GAVILUCHA	gavilán, águila	tasún	tasún	55				stark2013diccionario		xoch11
 9903	SantaMariaZacatepecMixtec	HAWK	gavilán	tasuʔ	tasuʔ	55	307			josserand1983mixtec		zaca11
-9855	Proto-MixtecMixtec	HAWK	gavilán	tasu̧ʔ	tasu̧ʔ	55	307			josserand1983mixtec		prom01
+9855	Proto-Mixtec	HAWK	gavilán	tasu̧ʔ	tasu̧ʔ	55	307			josserand1983mixtec		prom01
 9782	AyutlalosLibresMixtec	HAWK	gavilán	tāsuʔ	tāsuʔ	55	307			josserand1983mixtec		ayut11
 3	AbasoloValleMixtec	FATHER	padre	tata	tata	3	1217			galindo-sanchez2009vocabulario		abas11
 640	SanJeronimoProgresoMixtec	MEDICINE	medicine	tata	tata	34	1372			shields1988syntactic		prog12
@@ -14646,7 +14646,7 @@ ID	DOCULECT	CONCEPT	SPANISH_GLOSS	VALUE	FORM	IDlist	CONCEPTICON_ID	LOAN	LOAN_SOU
 4606	AlacatlatzalaMixtec	LIGHTNING	relámpago	taxa	taxa	136	1654			zylstra2012gramatica		alac11
 6260	ElJicaralMixtec	LIGHTNING	rayo, relámpago	taxa	taxa	136	1654			Emily John-Martin		jica13
 20238	SanMartinDuraznosMixtec	THUNDER	truenos	taxa	taxa	136	1150			hernandez2020san-martin		dura11
-5763	Proto-MixtecMixtec	LIGHTNING	rayo	táxá	táxá	136	1654			swanton2020observaciones		prom01
+5763	Proto-Mixtec	LIGHTNING	rayo	táxá	táxá	136	1654			swanton2020observaciones		prom01
 4785	XochapaMixtec	LIGHTNING	rayo, relámpago	taxan	taxan	136	1654			stark2013diccionario		xoch11
 3591	TlahuapaMixtec	LIGHTNING	relámpago	taxan sàví	taxan-sàví	136	1654			oxnard2020		tlah11
 1839	SanPedroySanPabloTeposcolula1600Mixtec	MAN	hombre	taiyee ~ tay yee	tay-yee	13	1554			alvarado1593vocabulario		tepo01
@@ -14680,7 +14680,7 @@ ID	DOCULECT	CONCEPT	SPANISH_GLOSS	VALUE	FORM	IDlist	CONCEPTICON_ID	LOAN	LOAN_SOU
 18365	SanJuanMixtepecMixtec	LOOSE	floja	taya	taya	186	2506			josserand1983mixtec		mixt11
 18368	SantaLuciaMonteverdeMixtec	LOOSE	floja	taya	taya	186	2506			josserand1983mixtec		mont13
 18388	PinotepaDonLuisMixtec	LOOSE	floja	taya	taya	186	2506			josserand1983mixtec		pino12
-18390	Proto-MixtecMixtec	LOOSE	floja	taya	taya	186	2506			josserand1983mixtec		prom01
+18390	Proto-Mixtec	LOOSE	floja	taya	taya	186	2506			josserand1983mixtec		prom01
 18394	SanFranciscoSayultepecMixtec	LOOSE	floja	taya	taya	186	2506			josserand1983mixtec		sayu11
 18398	SanBartoloSoyaltepecMixtec	LOOSE	floja	taya	taya	186	2506			josserand1983mixtec		soya11
 18411	SanPedroySanPabloTeposcolulaMixtec	LOOSE	floja	taya	taya	186	2506			josserand1983mixtec		tepo11
@@ -14848,7 +14848,7 @@ ID	DOCULECT	CONCEPT	SPANISH_GLOSS	VALUE	FORM	IDlist	CONCEPTICON_ID	LOAN	LOAN_SOU
 8350	SantaLuciaMonteverdeMixtec	URINE	orina	tete	tete	38	1142			josserand1983mixtec		mont13
 9221	SanJuanCoatzospamMixtec	STOOL	banquito	teu	teu	49	2058			josserand1983mixtec		coat11
 1879	SanPedroySanPabloTeposcolula1600Mixtec	FISH	pescado	teyaca	teyaca	52	227			alvarado1593vocabulario		tepo01
-6657	Proto-MixtecMixtec	MAN	hombre	teye	teye	13	1554			josserand1983mixtec		prom01
+6657	Proto-Mixtec	MAN	hombre	teye	teye	13	1554			josserand1983mixtec		prom01
 9218	SantiagoChazumbaMixtec	STOOL	banquito	teyu	teyu	49	2058			josserand1983mixtec		chaz11
 9220	ChigmecatitlanMixtec	STOOL	banquito	teyu	teyu	49	2058			josserand1983mixtec		chig11
 9228	SantaAnaCuauhtemocMixtec	STOOL	banquito	teyu	teyu	49	2058			josserand1983mixtec		cuau11
@@ -14856,7 +14856,7 @@ ID	DOCULECT	CONCEPT	SPANISH_GLOSS	VALUE	FORM	IDlist	CONCEPTICON_ID	LOAN	LOAN_SOU
 9231	SanJuanDiuxiMixtec	STOOL	banquito	teyu	teyu	49	2058			josserand1983mixtec		diux11
 9240	SantaCruzItundujiaMixtec	STOOL	banquito	teyu	teyu	49	2058			josserand1983mixtec		itun11
 9260	SantaLuciaMonteverdeMixtec	STOOL	banquito	teyu	teyu	49	2058			josserand1983mixtec		mont13
-9282	Proto-MixtecMixtec	STOOL	banquito	teyu	teyu	49	2058			josserand1983mixtec		prom01
+9282	Proto-Mixtec	STOOL	banquito	teyu	teyu	49	2058			josserand1983mixtec		prom01
 9291	SantaMariaTataltepecMixtec	STOOL	banquito	teyu	teyu	49	2058			josserand1983mixtec		tata11
 9304	SantaMariaTonahuixtlaMixtec	STOOL	banquito	teyu	teyu	49	2058			josserand1983mixtec		tona11
 9320	ZapotitlanPalmasMixtec	STOOL	banquito	teyu	teyu	49	2058			josserand1983mixtec		zapo11
@@ -15316,7 +15316,7 @@ ID	DOCULECT	CONCEPT	SPANISH_GLOSS	VALUE	FORM	IDlist	CONCEPTICON_ID	LOAN	LOAN_SOU
 10091	AyutlalosLibresMixtec	RAT	rata	ti̧i̧ʔ	ti̧i̧ʔ	60	1490			josserand1983mixtec		ayut11
 10215	SantaMariaZacatepecMixtec	RAT	rata	ti̧i̧ʔ	ti̧i̧ʔ	60	1490			josserand1983mixtec		zaca11
 3152	SanSebastianMonteMixtec	POST	horcón	tìjìn	tìjìn	46	281			oxnard2020		mont12
-5881	Proto-MixtecMixtec	WORKING OR WORK	trabajo	tíjṍ	tíjṍ	204	2281			swanton2020observaciones		prom01
+5881	Proto-Mixtec	WORKING OR WORK	trabajo	tíjṍ	tíjṍ	204	2281			swanton2020observaciones		prom01
 6172	ElJicaralMixtec	GRASSHOPPER	chapulín	tika	tika	58	607			Emily John-Martin		jica13
 651	SanJeronimoProgresoMixtec	GRASSHOPPER	grasshopper	tikā	tikā	58	607			shields1988syntactic		prog12
 3207	TlahuapaMixtec	GRASSHOPPER	chapulín	tìka	tìka	58	607			oxnard2020		tlah11
@@ -15473,9 +15473,9 @@ ID	DOCULECT	CONCEPT	SPANISH_GLOSS	VALUE	FORM	IDlist	CONCEPTICON_ID	LOAN	LOAN_SOU
 20830	SanAndresYutatioMixtec	FISH	pez, pescado	ti̠yaká	ti̠yaká	52	227			williams2017diccionario		yuta13
 10136	SanPedroJocotipacMixtec	RAT	rata	ti̧ỹi̧	ti̧ỹi̧	60	1490			josserand1983mixtec		joco11
 3576	SanSebastianMonteMixtec	NET	red	tiyivá	tiyivá	131	2963			oxnard2020		mont12
-7600	Proto-MixtecMixtec	FINGERNAIL	uña	tiyi̧ʔ	tiyi̧ʔ	28	1258			josserand1983mixtec		prom01
-19732	Proto-MixtecMixtec	WORKING OR WORK	trabajo	tiyo	tiyo	204	2281			josserand1983mixtec		prom01
-19733	Proto-MixtecMixtec	WORKING OR WORK	trabajo	tiyo̧	tiyo̧	204	2281			josserand1983mixtec		prom01
+7600	Proto-Mixtec	FINGERNAIL	uña	tiyi̧ʔ	tiyi̧ʔ	28	1258			josserand1983mixtec		prom01
+19732	Proto-Mixtec	WORKING OR WORK	trabajo	tiyo	tiyo	204	2281			josserand1983mixtec		prom01
+19733	Proto-Mixtec	WORKING OR WORK	trabajo	tiyo̧	tiyo̧	204	2281			josserand1983mixtec		prom01
 1899	SanPedroySanPabloTeposcolula1600Mixtec	ANT	hormiga	tiyoco	tiyoco	75	587			alvarado1593vocabulario		tepo01
 15892	SanJuanTamazolaMixtec	FOAM	espuma	ti̧ỹu̧	ti̧ỹu̧	150	1768			josserand1983mixtec		tama11
 10144	SanSebastianMonteMixtec	RAT	rata	tižoto	tižoto	60	1490			josserand1983mixtec		mont12
@@ -15498,19 +15498,19 @@ ID	DOCULECT	CONCEPT	SPANISH_GLOSS	VALUE	FORM	IDlist	CONCEPTICON_ID	LOAN	LOAN_SOU
 12949	SanMateoSindihuiMixtec	TOMATO	jitomate	tɨ-đa̧na̧	tɨ-đa̧na̧	106	986			josserand1983mixtec		sind11
 10017	SantaCatarinaEstetlaMixtec	COCKROACH	cucaracha	tɨ-đita	tɨ-đita	57	1575			josserand1983mixtec		este11
 10053	SanJuanTamazolaMixtec	COCKROACH	cucaracha	tɨ-đita	tɨ-đita	57	1575			josserand1983mixtec		tama11
-15884	Proto-MixtecMixtec	FOAM	espuma	tɨ-iyu̧	tɨ-iyu̧	150	1768			josserand1983mixtec		prom01
+15884	Proto-Mixtec	FOAM	espuma	tɨ-iyu̧	tɨ-iyu̧	150	1768			josserand1983mixtec		prom01
 11865	SanMiguelElGrandeMixtec	CORN STALK	rastrojo	tɨ-kuʔlu	tɨ-kuʔlu	93				josserand1983mixtec		gran11
 2685	SantaMariaPenolesMixtec	RED	red	tɨ̀-kʷêʔé	tɨ̀-kʷêʔé	152	156			durr1987preliminary		peno11
 2685	SantaMariaPenolesMixtec	RED	red	tɨ̀-kʷêʔé	tɨ̀-kʷêʔé	152	156			durr1987preliminary		peno11
-9518	Proto-MixtecMixtec	BIRD	pájaro	tɨ-laa	tɨ-laa	51	937			josserand1983mixtec		prom01
+9518	Proto-Mixtec	BIRD	pájaro	tɨ-laa	tɨ-laa	51	937			josserand1983mixtec		prom01
 2355	SantaMariaPenolesMixtec	BIRD	bird	tɨ́-làá	tɨ́-làá	51	937			durr1987preliminary		peno11
 2355	SantaMariaPenolesMixtec	BIRD	bird	tɨ́-làá	tɨ́-làá	51	937			durr1987preliminary		peno11
 9512	SantaMariaPenolesMixtec	BIRD	pájaro	tɨ́-la̧a̧	tɨ́-la̧a̧	51	937			josserand1983mixtec		peno11
 9512	SantaMariaPenolesMixtec	BIRD	pájaro	tɨ́-la̧a̧	tɨ́-la̧a̧	51	937			josserand1983mixtec		peno11
-12946	Proto-MixtecMixtec	TOMATO	jitomate	tɨ-lanaʔ	tɨ-lanaʔ	106	986			josserand1983mixtec		prom01
+12946	Proto-Mixtec	TOMATO	jitomate	tɨ-lanaʔ	tɨ-lanaʔ	106	986			josserand1983mixtec		prom01
 9960	SanMiguelPiedrasMixtec	SCORPION	alacrán	tɨ-lu̧ʔmȩ	tɨ-lu̧ʔmȩ	56	1538			josserand1983mixtec		pied11
-9963	Proto-MixtecMixtec	SCORPION	alacrán	tɨ-luʔwȩʔ	tɨ-luʔwȩʔ	56	1538			josserand1983mixtec		prom01
-9964	Proto-MixtecMixtec	SCORPION	alacrán	tɨ-luʔwȩʔ	tɨ-luʔwȩʔ	56	1538			josserand1983mixtec		prom01
+9963	Proto-Mixtec	SCORPION	alacrán	tɨ-luʔwȩʔ	tɨ-luʔwȩʔ	56	1538			josserand1983mixtec		prom01
+9964	Proto-Mixtec	SCORPION	alacrán	tɨ-luʔwȩʔ	tɨ-luʔwȩʔ	56	1538			josserand1983mixtec		prom01
 919	SanJuanCoatzospamMixtec	RACCOON	raccoon	tɨ́-māhá	tɨ́-māhá	65	828			small1990syntactic		coat11
 407	SantiagoJamiltepecMixtec	POSSUM	opossum	tɨ̄-maha	tɨ̄-maha	64	470			johnson1988syntactic		jami11
 5135	SanEstebanAtatlahucaMixtec	TOMATO	jitomate	tɨnana	tɨ-nana	106	986			alexander1980gramatica	[C]	atat11
@@ -15559,14 +15559,14 @@ ID	DOCULECT	CONCEPT	SPANISH_GLOSS	VALUE	FORM	IDlist	CONCEPTICON_ID	LOAN	LOAN_SOU
 9997	SanEstebanAtatlahucaMixtec	COCKROACH	cucaracha	tɨ-tēʔé	tɨ-tēʔé	57	1575			josserand1983mixtec		atat11
 10018	SanMiguelElGrandeMixtec	COCKROACH	cucaracha	tɨ-tēʔé	tɨ-tēʔé	57	1575			josserand1983mixtec		gran11
 10023	SantaCruzItundujiaMixtec	COCKROACH	cucaracha	tɨ-teʔya	tɨ-teʔya	57	1575			josserand1983mixtec		itun11
-10048	Proto-MixtecMixtec	COCKROACH	cucaracha	tɨ-teʔyaʔ	tɨ-teʔyaʔ	57	1575			josserand1983mixtec		prom01
+10048	Proto-Mixtec	COCKROACH	cucaracha	tɨ-teʔyaʔ	tɨ-teʔyaʔ	57	1575			josserand1983mixtec		prom01
 10112	SanJuanDiuxiMixtec	RAT	rata	tɨ-tɨ̧ñɨ̧	tɨ-tɨ̧ñɨ̧	60	1490			josserand1983mixtec		diux11
 1181	SanJuanDiuxiMixtec	MOUSE	mouse	tɨ-tnɨ́ñɨ	tɨ-tnɨ́ñɨ	60	1491			kuiper1991syntactic		diux11
 10189	SantiagoTilantongoMixtec	RAT	rata	tɨ-tnɨ̧ñɨ̧	tɨ-tnɨ̧ñɨ̧	60	1490			josserand1983mixtec		tila11
 412	SantiagoJamiltepecMixtec	ANT	ant	tɨ̄-yoko	tɨ̄-yoko	75	587			johnson1988syntactic		jami11
 2372	SanMiguelElGrandeMixtec	FISH	fish	tɨ̄-žáká	tɨ̄-žáká	52	227			durr1987preliminary		gran11
-5644	Proto-MixtecMixtec	GRASSHOPPER	chapulín	tɨ¹-íkà²	tɨ¹-íkà²	58	607			swanton2020observaciones		prom01
-5654	Proto-MixtecMixtec	DOG	perro	(tɨ¹-)ínà²	tɨ¹-ínà²	68	2009			swanton2020observaciones		prom01
+5644	Proto-Mixtec	GRASSHOPPER	chapulín	tɨ¹-íkà²	tɨ¹-íkà²	58	607			swanton2020observaciones		prom01
+5654	Proto-Mixtec	DOG	perro	(tɨ¹-)ínà²	tɨ¹-ínà²	68	2009			swanton2020observaciones		prom01
 5647	ChalcatongoHidalgoMixtec	GRASSHOPPER	chapulín	tɨ¹ka²	tɨ¹ka²	58	607			swanton2020observaciones		chal11
 21171	SanAndresChicahuaxtlaTriqui	EIGHT	ocho	tɨ̃³ʰ	tɨ̃³ʰ	164	1705			hernandez-mendoza2020vocabulario		chic12
 5110	SanEstebanAtatlahucaMixtec	GRASSHOPPER	chapulín	tɨ́ca	tɨ́ca	58	607			alexander1980gramatica	[C]	atat11
@@ -15614,8 +15614,8 @@ ID	DOCULECT	CONCEPT	SPANISH_GLOSS	VALUE	FORM	IDlist	CONCEPTICON_ID	LOAN	LOAN_SOU
 15832	SanCristobalJamiltepecMixtec	FOAM	espuma	tɨ̧ñu̧	tɨ̧ñu̧	150	1768			josserand1983mixtec		cris11
 5109	SanEstebanAtatlahucaMixtec	SCORPION	alacrán	tɨsuhma	tɨsuhma	56	1538			alexander1980gramatica	[C]	atat11
 940	SanJuanCoatzospamMixtec	AVOCADO	avocado	tɨ̄tsín	tɨ̄tsín	108	3725			small1990syntactic		coat11
-10170	Proto-MixtecMixtec	RAT	rata	tɨyi̧ʔ	tɨyi̧ʔ	60	1490			josserand1983mixtec		prom01
-10169	Proto-MixtecMixtec	RAT	rata	tɨyɨ̧ʔ	tɨyɨ̧ʔ	60	1490			josserand1983mixtec		prom01
+10170	Proto-Mixtec	RAT	rata	tɨyi̧ʔ	tɨyi̧ʔ	60	1490			josserand1983mixtec		prom01
+10169	Proto-Mixtec	RAT	rata	tɨyɨ̧ʔ	tɨyɨ̧ʔ	60	1490			josserand1983mixtec		prom01
 1179	SanJuanDiuxiMixtec	BEE	bee	tndáka	tn-dáka	59	665			kuiper1991syntactic		diux11
 2411	CahuatacheMixtec	DEER	deer	tn-ǖsǖ	tn-ǖsǖ	61	1936			durr1987preliminary		cahu11
 17985	SantaCatarinaTlaltempanMixtec	SWEET	dulce	tna̧-ƀiđi	tna̧-ƀiđi	180	717			josserand1983mixtec		tlal11
@@ -15800,12 +15800,12 @@ ID	DOCULECT	CONCEPT	SPANISH_GLOSS	VALUE	FORM	IDlist	CONCEPTICON_ID	LOAN	LOAN_SOU
 1701	SanAndresChicahuaxtla1890Triqui	FEATHER	pluma	Tooóha	tooóha	77	1201			belmar1897ensayo		chic02
 771	AyutlalosLibresMixtec	CLOTH	cloth	tōto	tōto	39	1616			hills1990syntactic		ayut11
 4705	XochapaMixtec	CLOTHES	ropa	to̠to̠	to̠to̠	39	1895			stark2013diccionario		xoch11
-10771	Proto-MixtecMixtec	FEATHER	pluma	towi̧	towi̧	77	1201			josserand1983mixtec		prom01
+10771	Proto-Mixtec	FEATHER	pluma	towi̧	towi̧	77	1201			josserand1983mixtec		prom01
 6705	SantiagoApoalaMixtec	OWNER	dueño	toʔo	toʔo	15	1036			josserand1983mixtec		apoa11
 6717	SanMiguelChicahuaMixtec	OWNER	dueño	toʔo	toʔo	15	1036			josserand1983mixtec		chic11
 6725	CuyamecalcoVillaZaragozaMixtec	OWNER	dueño	toʔo	toʔo	15	1036			josserand1983mixtec		cuya11
-19854	Proto-MixtecMixtec	WORD	palabra	toʔo̧	toʔo̧	205	1599			josserand1983mixtec		prom01
-5886	Proto-MixtecMixtec	WORD	palabra	tòʔṍ	tòʔṍ	205	1599			swanton2020observaciones		prom01
+19854	Proto-Mixtec	WORD	palabra	toʔo̧	toʔo̧	205	1599			josserand1983mixtec		prom01
+5886	Proto-Mixtec	WORD	palabra	tòʔṍ	tòʔṍ	205	1599			swanton2020observaciones		prom01
 19778	AlacatlatzalaMixtec	WORD	palabra	tò̧ʔo̧	tò̧ʔo̧	205	1599			josserand1983mixtec		alac11
 19783	SantiagoApoalaMixtec	WORD	palabra	to̧ʔo̧	to̧ʔo̧	205	1599			josserand1983mixtec		apoa11
 19786	SanAgustinAtenangoMixtec	WORD	palabra	to̧ʔo̧	to̧ʔo̧	205	1599			josserand1983mixtec		aten11
@@ -16092,7 +16092,7 @@ ID	DOCULECT	CONCEPT	SPANISH_GLOSS	VALUE	FORM	IDlist	CONCEPTICON_ID	LOAN	LOAN_SOU
 1543	SanJuanCopalaTriqui	TAIL	tail	tuneh⁴	tuneh⁴	79	1220			hollenbach1992syntactic		copa11
 1703	SanAndresChicahuaxtla1890Triqui	TAIL	cola	Tuneha	tuneha	79	1220			belmar1897ensayo		chic02
 1651	SanAndresChicahuaxtla1890Triqui	BLOOD	sangre	Tunha	tunha	17	946			belmar1897ensayo		chic02
-15535	Proto-MixtecMixtec	IRON	fierro	tuni	tuni	145	621			josserand1983mixtec		prom01
+15535	Proto-Mixtec	IRON	fierro	tuni	tuni	145	621			josserand1983mixtec		prom01
 15486	SanMiguelAhuehuetitlanMixtec	IRON	fierro	tù̧nì̧	tù̧nì̧	145	621			josserand1983mixtec		ahue11
 15499	CoicoyanlasFloresMixtec	IRON	fierro	tù̧nì̧	tù̧nì̧	145	621			josserand1983mixtec		coic11
 15487	AlcozaucaGuerreroMixtec	IRON	fierro	tu̧ni̧	tu̧ni̧	145	621			josserand1983mixtec		alco11
@@ -16165,7 +16165,7 @@ ID	DOCULECT	CONCEPT	SPANISH_GLOSS	VALUE	FORM	IDlist	CONCEPTICON_ID	LOAN	LOAN_SOU
 20725	YucunanyMixtec	PAPER	paper	tutù	tutù	146	648			salazar2020yucunani		yucu17
 4298	SanJuanColoradoMixtec	PAPER	papel	tútu	tútu	146	648			stark1986diccionario		colo11
 2663	SanJuanDiuxiMixtec	PAPER	paper	tú'tú	tútú	146	648			durr1987preliminary		diux11
-5793	Proto-MixtecMixtec	PAPER	papel	tútù	tútù	146	648			swanton2020observaciones		prom01
+5793	Proto-Mixtec	PAPER	papel	tútù	tútù	146	648			swanton2020observaciones		prom01
 2664	SantaMariaPenolesMixtec	PAPER	paper	tùtú	tùtú	146	648			durr1987preliminary		peno11
 2664	SantaMariaPenolesMixtec	PAPER	paper	tùtú	tùtú	146	648			durr1987preliminary		peno11
 2671	AyutlalosLibresMixtec	PAPER	paper	tùtù	tùtù	146	648			durr1987preliminary		ayut11
@@ -17145,14 +17145,14 @@ ID	DOCULECT	CONCEPT	SPANISH_GLOSS	VALUE	FORM	IDlist	CONCEPTICON_ID	LOAN	LOAN_SOU
 16207	SanPedroJocotipacMixtec	TWO	dos	uwi	uwi	158	1498			josserand1983mixtec		joco11
 16210	SanLorenzoMixtec	TWO	dos	uwi	uwi	158	1498			josserand1983mixtec		lore11
 16213	SantaCatarinaMechoacanMixtec	TWO	dos	uwi	uwi	158	1498			josserand1983mixtec		mech11
-16237	Proto-MixtecMixtec	TWO	dos	uwi	uwi	158	1498			josserand1983mixtec		prom01
+16237	Proto-Mixtec	TWO	dos	uwi	uwi	158	1498			josserand1983mixtec		prom01
 16239	SanFranciscoSayultepecMixtec	TWO	dos	uwi	uwi	158	1498			josserand1983mixtec		sayu11
 16240	SanMateoSindihuiMixtec	TWO	dos	uwi	uwi	158	1498			josserand1983mixtec		sind11
 16250	TepejilloMixtec	TWO	dos	uwi	uwi	158	1498			josserand1983mixtec		tepe11
 16251	SanAntonioTepetlapaMixtec	TWO	dos	uwi	uwi	158	1498			josserand1983mixtec		tepe12
 16261	VillaTututepecMelchorOcampoMixtec	TWO	dos	uwi	uwi	158	1498			josserand1983mixtec		tutu11
 16265	YoloxochitlMixtec	TWO	dos	uwi	uwi	158	1498			josserand1983mixtec		yolo12
-5813	Proto-MixtecMixtec	TWO	dos	ùwì	ùwì	158	1498			swanton2020observaciones		prom01
+5813	Proto-Mixtec	TWO	dos	ùwì	ùwì	158	1498			swanton2020observaciones		prom01
 2756	AyutlalosLibresMixtec	TWO	two	ūwì	ūwì	158	1498			durr1987preliminary		ayut11
 580	SantoTomasOcotepecMixtec	SEVEN	seven	uxa	uxa	163	1704			alexander1988syntactic		ocot11
 16758	SanMiguelAchiutlaMixtec	SEVEN	siete	uxa	uxa	163	1704			josserand1983mixtec		achi11
@@ -17173,10 +17173,10 @@ ID	DOCULECT	CONCEPT	SPANISH_GLOSS	VALUE	FORM	IDlist	CONCEPTICON_ID	LOAN	LOAN_SOU
 4807	XochapaMixtec	SEVEN	siete	u̠xa̠	u̠xa̠	163	1704			stark2013diccionario		xoch11
 6289	ElJicaralMixtec	SEVEN	siete	u̠xa̠	u̠xa̠	163	1704			Emily John-Martin		jica13
 4752	XochapaMixtec	CORN DOUGH	masa	uxán	uxán	91				stark2013diccionario		xoch11
-16835	Proto-MixtecMixtec	SEVEN	siete	uxe	uxe	163	1704			josserand1983mixtec		prom01
+16835	Proto-Mixtec	SEVEN	siete	uxe	uxe	163	1704			josserand1983mixtec		prom01
 17030	SantaCruzItundujiaMixtec	TEN	diez	uxi	uxi	166	1515			josserand1983mixtec		itun11
 17047	SantaLuciaMonteverdeMixtec	TEN	diez	uxi	uxi	166	1515			josserand1983mixtec		mont13
-17067	Proto-MixtecMixtec	TEN	diez	uxi	uxi	166	1515			josserand1983mixtec		prom01
+17067	Proto-Mixtec	TEN	diez	uxi	uxi	166	1515			josserand1983mixtec		prom01
 17096	SanBartolomeYucuaneMixtec	TEN	diez	uxi	uxi	166	1515			josserand1983mixtec		yucu11
 20558	SanPedroYosonamaMixtec	TEN	diez	uxi	uxi	166	1515			gittlen2016gramatica		yoso14
 3748	TlahuapaMixtec	TEN	diez	uxì	uxì	166	1515			oxnard2020		tlah11
@@ -17639,7 +17639,7 @@ ID	DOCULECT	CONCEPT	SPANISH_GLOSS	VALUE	FORM	IDlist	CONCEPTICON_ID	LOAN	LOAN_SOU
 17842	SanLorenzoMixtec	GOOD	bueno	waʔa	waʔa	179	1035			josserand1983mixtec		lore11
 17843	SantaCatarinaMechoacanMixtec	GOOD	bueno	waʔa	waʔa	179	1035			josserand1983mixtec		mech11
 17855	SanMiguelPiedrasMixtec	GOOD	bueno	waʔa	waʔa	179	1035			josserand1983mixtec		pied11
-17858	Proto-MixtecMixtec	GOOD	bueno	waʔa	waʔa	179	1035			josserand1983mixtec		prom01
+17858	Proto-Mixtec	GOOD	bueno	waʔa	waʔa	179	1035			josserand1983mixtec		prom01
 17860	SanFranciscoSayultepecMixtec	GOOD	bueno	waʔa	waʔa	179	1035			josserand1983mixtec		sayu11
 17861	SanMateoSindihuiMixtec	GOOD	bueno	waʔa	waʔa	179	1035			josserand1983mixtec		sind11
 17862	SanBartoloSoyaltepecMixtec	GOOD	bueno	waʔa	waʔa	179	1035			josserand1983mixtec		soya11
@@ -17701,9 +17701,9 @@ ID	DOCULECT	CONCEPT	SPANISH_GLOSS	VALUE	FORM	IDlist	CONCEPTICON_ID	LOAN	LOAN_SOU
 18751	YoloxochitlMixtec	HEAVY	pesado	wee	wee	191	1210			josserand1983mixtec		yolo12
 18753	SanBartolomeYucuaneMixtec	HEAVY	pesado	wee	wee	191	1210			josserand1983mixtec		yucu11
 18761	ZapotitlanPalmasMixtec	HEAVY	pesado	wee	wee	191	1210			josserand1983mixtec		zapo11
-5857	Proto-MixtecMixtec	HEAVY	pesado	wèé	wèé	191	1210			swanton2020observaciones		prom01
+5857	Proto-Mixtec	HEAVY	pesado	wèé	wèé	191	1210			swanton2020observaciones		prom01
 1523	SanJuanCopalaTriqui	HOUSE	house	weh³	weh³	44	1252			hollenbach1992syntactic		copa11
-18725	Proto-MixtecMixtec	HEAVY	pesado	weyi	weyi	191	1210			josserand1983mixtec		prom01
+18725	Proto-Mixtec	HEAVY	pesado	weyi	weyi	191	1210			josserand1983mixtec		prom01
 8759	SantaMariaAcatepecMixtec	HOUSE	casa	weʔe	weʔe	44	1252			josserand1983mixtec		acat11
 8764	AlcozaucaGuerreroMixtec	HOUSE	casa	weʔe	weʔe	44	1252			josserand1983mixtec		alco11
 8766	SantaMariaApazcoMixtec	HOUSE	casa	weʔe	weʔe	44	1252			josserand1983mixtec		apas11
@@ -17746,7 +17746,7 @@ ID	DOCULECT	CONCEPT	SPANISH_GLOSS	VALUE	FORM	IDlist	CONCEPTICON_ID	LOAN	LOAN_SOU
 8865	SanBartolomeYucuaneMixtec	HOUSE	casa	weʔe	weʔe	44	1252			josserand1983mixtec		yucu11
 8873	ZapotitlanPalmasMixtec	HOUSE	casa	weʔe	weʔe	44	1252			josserand1983mixtec		zapo11
 2307	CahuatacheMixtec	HOUSE	house	wēʔē	wēʔē	44	1252			durr1987preliminary		cahu11
-8837	Proto-MixtecMixtec	HOUSE	casa	weʔyi	weʔyi	44	1252			josserand1983mixtec		prom01
+8837	Proto-Mixtec	HOUSE	casa	weʔyi	weʔyi	44	1252			josserand1983mixtec		prom01
 19253	SantaAnaCuauhtemocMixtec	NOW OR TODAY	ahora	wi-yaʔa	wi-yaʔa	197	2097			josserand1983mixtec		cuau11
 19255	CuyamecalcoVillaZaragozaMixtec	NOW OR TODAY	ahora	wi-yaʔa	wi-yaʔa	197	2097			josserand1983mixtec		cuya11
 10506	SanPedroJocotipacMixtec	CAT	gato	wiči	wiči	69	1208			josserand1983mixtec		joco11
@@ -17805,7 +17805,7 @@ ID	DOCULECT	CONCEPT	SPANISH_GLOSS	VALUE	FORM	IDlist	CONCEPTICON_ID	LOAN	LOAN_SOU
 10546	SanJuanTeitaMixtec	CAT	gato	wilu	wilu	69	1208			josserand1983mixtec		teit11
 10553	SanPedroTidaaMixtec	CAT	gato	wilu	wilu	69	1208			josserand1983mixtec		tida11
 10566	SanBartolomeYucuaneMixtec	CAT	gato	wilu	wilu	69	1208			josserand1983mixtec		yucu11
-10535	Proto-MixtecMixtec	CAT	gato	wiluʔ	wiluʔ	69	1208			josserand1983mixtec		prom01
+10535	Proto-Mixtec	CAT	gato	wiluʔ	wiluʔ	69	1208			josserand1983mixtec		prom01
 19296	SanJuanTamazolaMixtec	NOW OR TODAY	ahora	wiNa̧	wiNa̧	197	2097			josserand1983mixtec		tama11
 19288	SanMiguelPiedrasMixtec	NOW OR TODAY	ahora	wi̧na̧	wi̧na̧	197	2097			josserand1983mixtec		pied11
 19294	SanMateoSindihuiMixtec	NOW OR TODAY	ahora	wi̧na̧	wi̧na̧	197	2097			josserand1983mixtec		sind11
@@ -17814,7 +17814,7 @@ ID	DOCULECT	CONCEPT	SPANISH_GLOSS	VALUE	FORM	IDlist	CONCEPTICON_ID	LOAN	LOAN_SOU
 17903	CahuatacheMixtec	SWEET	dulce	wisi	wisi	180	717			josserand1983mixtec		cahu11
 17338	SantaMariaAcatepecMixtec	COLD	frío	wisi̧	wisi̧	171	1287			josserand1983mixtec		acat11
 17433	SanPedroySanPabloTeposcolulaMixtec	COLD	frío	wisi̧	wisi̧	171	1287			josserand1983mixtec		tepo11
-17966	Proto-MixtecMixtec	SWEET	dulce	wisi̧	wisi̧	180	717			josserand1983mixtec		prom01
+17966	Proto-Mixtec	SWEET	dulce	wisi̧	wisi̧	180	717			josserand1983mixtec		prom01
 17996	SanBartolomeYucuaneMixtec	SWEET	dulce	wisi̧	wisi̧	180	717			josserand1983mixtec		yucu11
 17345	SantaMariaApazcoMixtec	COLD	frío	wiši	wiši	171	1287			josserand1983mixtec		apas11
 17358	SantiagoChazumbaMixtec	COLD	frío	wiši	wiši	171	1287			josserand1983mixtec		chaz11
@@ -17862,10 +17862,10 @@ ID	DOCULECT	CONCEPT	SPANISH_GLOSS	VALUE	FORM	IDlist	CONCEPTICON_ID	LOAN	LOAN_SOU
 19232	AlcozaucaGuerreroMixtec	NOW OR TODAY	ahora	witi̧	witi̧	197	2097			josserand1983mixtec		alco11
 19237	SanPedroAtoyacMixtec	NOW OR TODAY	ahora	witi̧	witi̧	197	2097			josserand1983mixtec		atoy11
 19252	CuatzoquitengoMixtec	NOW OR TODAY	ahora	witi̧	witi̧	197	2097			josserand1983mixtec		cuat11
-19291	Proto-MixtecMixtec	NOW OR TODAY	ahora	witi̧	witi̧	197	2097			josserand1983mixtec		prom01
+19291	Proto-Mixtec	NOW OR TODAY	ahora	witi̧	witi̧	197	2097			josserand1983mixtec		prom01
 19301	SanAntonioTepetlapaMixtec	NOW OR TODAY	ahora	witi̧	witi̧	197	2097			josserand1983mixtec		tepe12
 19315	YoloxochitlMixtec	NOW OR TODAY	ahora	witi̧	witi̧	197	2097			josserand1983mixtec		yolo12
-5876	Proto-MixtecMixtec	NOW OR TODAY	ahora	wítĩ́	wítĩ́	197	2097			swanton2020observaciones		prom01
+5876	Proto-Mixtec	NOW OR TODAY	ahora	wítĩ́	wítĩ́	197	2097			swanton2020observaciones		prom01
 2924	AyutlalosLibresMixtec	NOW OR TODAY	now	wìtì̧	wìtì̧	197	2097			durr1987preliminary		ayut11
 19259	SantaCatarinaEstetlaMixtec	NOW OR TODAY	today	witna̧	witna̧	197	2097			josserand1983mixtec		este11
 19302	SanPedroySanPabloTeposcolulaMixtec	NOW OR TODAY	ahora	witna̧	witna̧	197	2097			josserand1983mixtec		tepo11
@@ -17889,10 +17889,10 @@ ID	DOCULECT	CONCEPT	SPANISH_GLOSS	VALUE	FORM	IDlist	CONCEPTICON_ID	LOAN	LOAN_SOU
 1593	SanJuanCopalaTriqui	TWO	two	wix¹	wix¹	158	1498			hollenbach1992syntactic		copa11
 17380	SanAntonioHuitepecMixtec	COLD	frío	wixi	wixi	171	1287			josserand1983mixtec		huit11
 17371	CuyamecalcoVillaZaragozaMixtec	COLD	frío	wixi̧	wixi̧	171	1287			josserand1983mixtec		cuya11
-17418	Proto-MixtecMixtec	COLD	frío	wixi̧	wixi̧	171	1287			josserand1983mixtec		prom01
+17418	Proto-Mixtec	COLD	frío	wixi̧	wixi̧	171	1287			josserand1983mixtec		prom01
 17429	SanJuanTeitaMixtec	COLD	frío	wixi̧	wixi̧	171	1287			josserand1983mixtec		teit11
 17449	SanBartolomeYucuaneMixtec	COLD	frío	wixi̧	wixi̧	171	1287			josserand1983mixtec		yucu11
-5833	Proto-MixtecMixtec	COLD	frio	wìxĩ́	wìxĩ́	171	1287			swanton2020observaciones		prom01
+5833	Proto-Mixtec	COLD	frio	wìxĩ́	wìxĩ́	171	1287			swanton2020observaciones		prom01
 17369	SantaAnaCuauhtemocMixtec	COLD	frío	wi̧xi̧	wi̧xi̧	171	1287			josserand1983mixtec		cuau11
 11562	SanJuanTeitaMixtec	CORN FIELD	milpa	wiyu	wiyu	88	449			josserand1983mixtec		teit11
 11566	SanPedroySanPabloTeposcolulaMixtec	CORN FIELD	milpa	wiyu	wiyu	88	449			josserand1983mixtec		tepo11
@@ -17905,8 +17905,8 @@ ID	DOCULECT	CONCEPT	SPANISH_GLOSS	VALUE	FORM	IDlist	CONCEPTICON_ID	LOAN	LOAN_SOU
 8788	SantaAnaCuauhtemocMixtec	HOUSE	casa	wiʔi	wiʔi	44	1252			josserand1983mixtec		cuau11
 8790	CuyamecalcoVillaZaragozaMixtec	HOUSE	casa	wiʔi	wiʔi	44	1252			josserand1983mixtec		cuya11
 13893	SanPedroTidaaMixtec	GARBAGE	basura	w̃i̧ʔi̧	w̃i̧ʔi̧	122	909			josserand1983mixtec		tida11
-13880	Proto-MixtecMixtec	GARBAGE	basura	wiʔiʔ	wiʔiʔ	122	909			josserand1983mixtec		prom01
-13881	Proto-MixtecMixtec	GARBAGE	basura	wiʔi̧ʔ	wiʔi̧ʔ	122	909			josserand1983mixtec		prom01
+13880	Proto-Mixtec	GARBAGE	basura	wiʔiʔ	wiʔiʔ	122	909			josserand1983mixtec		prom01
+13881	Proto-Mixtec	GARBAGE	basura	wiʔi̧ʔ	wiʔi̧ʔ	122	909			josserand1983mixtec		prom01
 12978	AlcozaucaGuerreroMixtec	PRICKLY PEAR CACTUS	nopal	wi̧ʔⁿda	wi̧ʔⁿda	110				josserand1983mixtec		alco11
 12983	SanPedroAtoyacMixtec	PRICKLY PEAR CACTUS	nopal	wi̧ʔⁿda	wi̧ʔⁿda	110				josserand1983mixtec		atoy11
 12985	SantaCruzBravoMixtec	PRICKLY PEAR CACTUS	nopal	wi̧ʔⁿda	wi̧ʔⁿda	110				josserand1983mixtec		brav11
@@ -17925,7 +17925,7 @@ ID	DOCULECT	CONCEPT	SPANISH_GLOSS	VALUE	FORM	IDlist	CONCEPTICON_ID	LOAN	LOAN_SOU
 13048	SantiagoTlazoyaltepecMixtec	PRICKLY PEAR CACTUS	nopal	wi̧ʔⁿde	wi̧ʔⁿde	110				josserand1983mixtec		tlaz11
 13055	SanBartolomeYucuaneMixtec	PRICKLY PEAR CACTUS	nopal	wi̧ʔⁿde	wi̧ʔⁿde	110				josserand1983mixtec		yucu11
 13060	ZapotitlanPalmasMixtec	PRICKLY PEAR CACTUS	nopal	wi̧ʔⁿde	wi̧ʔⁿde	110				josserand1983mixtec		zapo11
-13032	Proto-MixtecMixtec	PRICKLY PEAR CACTUS	nopal	wiʔⁿdeʔ	wiʔⁿdeʔ	110				josserand1983mixtec		prom01
+13032	Proto-Mixtec	PRICKLY PEAR CACTUS	nopal	wiʔⁿdeʔ	wiʔⁿdeʔ	110				josserand1983mixtec		prom01
 12990	SantiagoChazumbaMixtec	PRICKLY PEAR CACTUS	nopal	wi̧ʔⁿdʸa	wi̧ʔⁿdʸa	110				josserand1983mixtec		chaz11
 12996	CosoltepecMixtec	PRICKLY PEAR CACTUS	nopal	wi̧ʔⁿdʸa	wi̧ʔⁿdʸa	110				josserand1983mixtec		coso11
 13006	SantaMariaHuazolotitlanMixtec	PRICKLY PEAR CACTUS	nopal	wi̧ʔⁿdʸa	wi̧ʔⁿdʸa	110				josserand1983mixtec		huaz11
@@ -18103,19 +18103,19 @@ ID	DOCULECT	CONCEPT	SPANISH_GLOSS	VALUE	FORM	IDlist	CONCEPTICON_ID	LOAN	LOAN_SOU
 15549	SantiagoTlazoyaltepecMixtec	IRON	fierro	xer̃u	xer̃u	145	621			josserand1983mixtec		tlaz11
 15549	SantiagoTlazoyaltepecMixtec	IRON	fierro	xer̃u	xer̃u	145	621			josserand1983mixtec		tlaz11
 14089	SantaLuciaMonteverdeMixtec	BOX OR CHEST	cajón	xetnu̧	xetnu̧	126	3150			josserand1983mixtec		mont13
-8544	Proto-MixtecMixtec	TROUSERS	calzón, pantalón	xetu	xetu	41	809			josserand1983mixtec		prom01
-14107	Proto-MixtecMixtec	BOX OR CHEST	cajón	xetu̧ʔ	xetu̧ʔ	126	3150			josserand1983mixtec		prom01
+8544	Proto-Mixtec	TROUSERS	calzón, pantalón	xetu	xetu	41	809			josserand1983mixtec		prom01
+14107	Proto-Mixtec	BOX OR CHEST	cajón	xetu̧ʔ	xetu̧ʔ	126	3150			josserand1983mixtec		prom01
 7817	SantaLuciaMonteverdeMixtec	FOOT	pie	xeʔe	xeʔe	32	1301			josserand1983mixtec		mont13
-7836	Proto-MixtecMixtec	FOOT	pie	xeʔe	xeʔe	32	1301			josserand1983mixtec		prom01
+7836	Proto-Mixtec	FOOT	pie	xeʔe	xeʔe	32	1301			josserand1983mixtec		prom01
 7766	SanEstebanAtatlahucaMixtec	FOOT	pie	xeʔē	xeʔē	32	1301			josserand1983mixtec		atat11
 2242	SantoTomasOcotepecMixtec	FOOT	foot	xèʔè	xèʔè	32	1301			durr1987preliminary		ocot11
 7828	SantoTomasOcotepecMixtec	FOOT	pie	xèʔè	xèʔè	32	1301			josserand1983mixtec		ocot11
 2243	SanEstebanAtatlahucaMixtec	FOOT	foot	xēʔè	xēʔè	32	1301			durr1987preliminary		atat11
-17185	Proto-MixtecMixtec	FIFTEEN	quince	xeʔu̧	xeʔu̧	167	1709			josserand1983mixtec		prom01
+17185	Proto-Mixtec	FIFTEEN	quince	xeʔu̧	xeʔu̧	167	1709			josserand1983mixtec		prom01
 6128	ElJicaralMixtec	OWNER	dueño	xi̠tǒ'o	xi̠-tǒ'o	15	1036			Emily John-Martin		jica13
 6706	SanEstebanAtatlahucaMixtec	OWNER	dueño	xi-toʔo	xi-toʔo	15	1036			josserand1983mixtec		atat11
 6714	ChalcatongoHidalgoMixtec	OWNER	dueño	xi-toʔo	xi-toʔo	15	1036			josserand1983mixtec		chal11
-6757	Proto-MixtecMixtec	OWNER	dueño	xi-toʔo	xi-toʔo	15	1036			josserand1983mixtec		prom01
+6757	Proto-Mixtec	OWNER	dueño	xi-toʔo	xi-toʔo	15	1036			josserand1983mixtec		prom01
 6764	SanJuanTeitaMixtec	OWNER	dueño	xi-toʔo	xi-toʔo	15	1036			josserand1983mixtec		teit11
 6770	SanAgustinTlacotepecMixtec	OWNER	dueño	xi-toʔo	xi-toʔo	15	1036			josserand1983mixtec		tlac11
 6779	SantiagoYosonduaMixtec	OWNER	dueño	xi-toʔo	xi-toʔo	15	1036			josserand1983mixtec		yoso11
@@ -18159,7 +18159,7 @@ ID	DOCULECT	CONCEPT	SPANISH_GLOSS	VALUE	FORM	IDlist	CONCEPTICON_ID	LOAN	LOAN_SOU
 4189	SanJuanColoradoMixtec	BLOUSE (WOVEN)	huipil	xìcùn	xìcùn	42				stark1986diccionario		colo11
 1322	ConcepcionPapaloCuicatec	SALT	salt	xīima	xīima	99	1274			bradley1991preliminary		conc11
 5094	SanEstebanAtatlahucaMixtec	NOSE	nariz	xijnī	xijnī	25	1221			alexander1980gramatica	[C]	atat11
-5723	Proto-MixtecMixtec	GRIDDLE	comal	xìjòʔ	xìjòʔ	115				swanton2020observaciones		prom01
+5723	Proto-Mixtec	GRIDDLE	comal	xìjòʔ	xìjòʔ	115				swanton2020observaciones		prom01
 3160	SanMarcoslaFlorMixtec	BED	cama	xìjto	xìjto	48	1663			oxnard2020		flor12
 3052	SanMarcoslaFlorMixtec	NOSE	nariz	xijtsǐn	xijtsǐn	25	1221			oxnard2020		flor12
 3501	SanMarcoslaFlorMixtec	GRIDDLE	comal	xìjyǒ	xìjyǒ	115				oxnard2020		flor12
@@ -18240,7 +18240,7 @@ ID	DOCULECT	CONCEPT	SPANISH_GLOSS	VALUE	FORM	IDlist	CONCEPTICON_ID	LOAN	LOAN_SOU
 9102	ChalcatongoHidalgoMixtec	BED	cama	xito	xito	48	1663			josserand1983mixtec		chal11
 9149	SantoDomingoNundoMixtec	BED	cama	xito	xito	48	1663			josserand1983mixtec		nund13
 9155	SanMateoPenascoMixtec	BED	cama	xito	xito	48	1663			josserand1983mixtec		pena12
-9163	Proto-MixtecMixtec	BED	cama	xito	xito	48	1663			josserand1983mixtec		prom01
+9163	Proto-Mixtec	BED	cama	xito	xito	48	1663			josserand1983mixtec		prom01
 9179	SanAgustinTlacotepecMixtec	BED	cama	xito	xito	48	1663			josserand1983mixtec		tlac11
 9189	SantiagoYosonduaMixtec	BED	cama	xito	xito	48	1663			josserand1983mixtec		yoso11
 9190	SanBartolomeYucuaneMixtec	BED	cama	xito	xito	48	1663			josserand1983mixtec		yucu11
@@ -18271,8 +18271,8 @@ ID	DOCULECT	CONCEPT	SPANISH_GLOSS	VALUE	FORM	IDlist	CONCEPTICON_ID	LOAN	LOAN_SOU
 13531	SantoDomingoNundoMixtec	OVEN	horno	xitu	xitu	117	1143			josserand1983mixtec		nund13
 13475	SantaMariaAcatepecMixtec	OVEN	horno	xitu̧	xitu̧	117	1143			josserand1983mixtec		acat11
 13530	SantiagoNundicheMixtec	OVEN	horno	xitu̧	xitu̧	117	1143			josserand1983mixtec		nund12
-13544	Proto-MixtecMixtec	OVEN	horno	xitu̧	xitu̧	117	1143			josserand1983mixtec		prom01
-5733	Proto-MixtecMixtec	OVEN	horno	xìtũ̀̀	xìtũ̀̀	117	1143			swanton2020observaciones		prom01
+13544	Proto-Mixtec	OVEN	horno	xitu̧	xitu̧	117	1143			josserand1983mixtec		prom01
+5733	Proto-Mixtec	OVEN	horno	xìtũ̀̀	xìtũ̀̀	117	1143			swanton2020observaciones		prom01
 13537	SantoTomasOcotepecMixtec	OVEN	horno	xì̧tù̧	xì̧tù̧	117	1143			josserand1983mixtec		ocot11
 3508	TlahuapaMixtec	OVEN	horno	xitùn	xitùn	117	1143			oxnard2020		tlah11
 6236	ElJicaralMixtec	OVEN	horno	xítu̠n	xítu̠n	117	1143			Emily John-Martin		jica13
@@ -18280,7 +18280,7 @@ ID	DOCULECT	CONCEPT	SPANISH_GLOSS	VALUE	FORM	IDlist	CONCEPTICON_ID	LOAN	LOAN_SOU
 20217	SanMartinDuraznosMixtec	OVEN	horno	xìtùn	xìtùn	117	1143			hernandez2020san-martin		dura11
 20128	SanMartinDuraznosMixtec	INTESTINES	tripa, tripas	xitxi	xitxi	31	1991			hernandez2020san-martin		dura11
 20122	SanMartinDuraznosMixtec	NOSE	nariz	xìtxì	xìtxì	25	1221			hernandez2020san-martin		dura11
-13543	Proto-MixtecMixtec	OVEN	horno	xity	xity	117	1143			josserand1983mixtec		prom01
+13543	Proto-Mixtec	OVEN	horno	xity	xity	117	1143			josserand1983mixtec		prom01
 3968	SanAgustinChayucoMixtec	NOSE	nariz	xityi yo	xityi	25	1221			pensinger1974diccionario		chay11
 1328	ConcepcionPapaloCuicatec	HOLE	hole	xīvā	xīvā	130	1667			bradley1991preliminary		conc11
 10	AbasoloValleMixtec	AUNT	tía	xixi	xixi	11	1272			galindo-sanchez2009vocabulario		abas11
@@ -18301,7 +18301,7 @@ ID	DOCULECT	CONCEPT	SPANISH_GLOSS	VALUE	FORM	IDlist	CONCEPTICON_ID	LOAN	LOAN_SOU
 4771	XochapaMixtec	GRIDDLE	comal	xi̠yó	xi̠yó	115				stark2013diccionario		xoch11
 6234	ElJicaralMixtec	GRIDDLE	comal	xi̠yó	xi̠yó	115				Emily John-Martin		jica13
 4590	AlacatlatzalaMixtec	GRIDDLE	comal	xi̠yo̠	xi̠yo̠	115				zylstra2012gramatica		alac11
-13346	Proto-MixtecMixtec	GRIDDLE	comal	xiyoʔ	xiyoʔ	115				josserand1983mixtec		prom01
+13346	Proto-Mixtec	GRIDDLE	comal	xiyoʔ	xiyoʔ	115				josserand1983mixtec		prom01
 13321	SanPedroMolinosMixtec	GRIDDLE	comal	xižo	xižo	115				josserand1983mixtec		moli11
 13338	SanMateoPenascoMixtec	GRIDDLE	comal	xižo	xižo	115				josserand1983mixtec		pena12
 13364	SanAgustinTlacotepecMixtec	GRIDDLE	comal	xižo	xižo	115				josserand1983mixtec		tlac11
@@ -18314,7 +18314,7 @@ ID	DOCULECT	CONCEPT	SPANISH_GLOSS	VALUE	FORM	IDlist	CONCEPTICON_ID	LOAN	LOAN_SOU
 16473	SanMiguelPiedrasMixtec	FOUR	cuatro	xɨ̧mɨ̧	xɨ̧mɨ̧	160	1500			josserand1983mixtec		pied11
 16488	SanJuanTamazolaMixtec	FOUR	cuatro	xɨ̧mɨ̧	xɨ̧mɨ̧	160	1500			josserand1983mixtec		tama11
 7654	ChalcatongoHidalgoMixtec	INTESTINES	tripas	xɨtɨ	xɨtɨ	31	1991			josserand1983mixtec		chal11
-7718	Proto-MixtecMixtec	INTESTINES	tripas	xɨtɨ	xɨtɨ	31	1991			josserand1983mixtec		prom01
+7718	Proto-Mixtec	INTESTINES	tripas	xɨtɨ	xɨtɨ	31	1991			josserand1983mixtec		prom01
 7746	SanBartolomeYucuaneMixtec	INTESTINES	tripas	xɨtɨ	xɨtɨ	31	1991			josserand1983mixtec		yucu11
 7676	SanMiguelElGrandeMixtec	INTESTINES	tripas	xɨtɨ̄	xɨtɨ̄	31	1991			josserand1983mixtec		gran11
 1680	SanAndresChicahuaxtla1890Triqui	HAWK	gavilán	Xnuuhu	xnuuhu	55	307			belmar1897ensayo		chic02
@@ -18860,7 +18860,7 @@ ID	DOCULECT	CONCEPT	SPANISH_GLOSS	VALUE	FORM	IDlist	CONCEPTICON_ID	LOAN	LOAN_SOU
 6254	ElJicaralMixtec	HOLE	agujero, hoyo	ya̠vi̠	ya̠vi̠	130	1667			Emily John-Martin		jica13
 5146	SanEstebanAtatlahucaMixtec	HOLE	hoyo	yavū	yavū	130	1667			alexander1980gramatica	[C]	atat11
 1945	SanPedroySanPabloTeposcolula1600Mixtec	HOLE	agujero, hoyo	yavui	yavui	130	1667			alvarado1593vocabulario		tepo01
-11896	Proto-MixtecMixtec	CORN STALK	rastrojo	yawa̧ʔ	yawa̧ʔ	93				josserand1983mixtec		prom01
+11896	Proto-Mixtec	CORN STALK	rastrojo	yawa̧ʔ	yawa̧ʔ	93				josserand1983mixtec		prom01
 11240	AlacatlatzalaMixtec	MAGUEY	maguey	yawi	yawi	84				josserand1983mixtec		alac11
 11242	AlcozaucaGuerreroMixtec	MAGUEY	maguey	yawi	yawi	84				josserand1983mixtec		alco11
 11249	SanPedroAtoyacMixtec	MAGUEY	maguey	yawi	yawi	84				josserand1983mixtec		atoy11
@@ -18897,7 +18897,7 @@ ID	DOCULECT	CONCEPT	SPANISH_GLOSS	VALUE	FORM	IDlist	CONCEPTICON_ID	LOAN	LOAN_SOU
 14376	SanPedroJocotipacMixtec	HOLE	agujero	yawi	yawi	130	1667			josserand1983mixtec		joco11
 14378	SanLorenzoMixtec	HOLE	agujero	yawi	yawi	130	1667			josserand1983mixtec		lore11
 14379	SantaCatarinaMechoacanMixtec	HOLE	agujero	yawi	yawi	130	1667			josserand1983mixtec		mech11
-14390	Proto-MixtecMixtec	HOLE	agujero	yawi	yawi	130	1667			josserand1983mixtec		prom01
+14390	Proto-Mixtec	HOLE	agujero	yawi	yawi	130	1667			josserand1983mixtec		prom01
 14391	SanFranciscoSayultepecMixtec	HOLE	agujero	yawi	yawi	130	1667			josserand1983mixtec		sayu11
 14396	TepejilloMixtec	HOLE	agujero	yawi	yawi	130	1667			josserand1983mixtec		tepe11
 14397	SanAntonioTepetlapaMixtec	HOLE	agujero	yawi	yawi	130	1667			josserand1983mixtec		tepe12
@@ -18910,7 +18910,7 @@ ID	DOCULECT	CONCEPT	SPANISH_GLOSS	VALUE	FORM	IDlist	CONCEPTICON_ID	LOAN	LOAN_SOU
 2572	CahuatacheMixtec	HOLE	hole	yāwī	yāwī	130	1667			durr1987preliminary		cahu11
 1574	SanJuanCopalaTriqui	MOON	moon	yawii³	yawii³	134	1313			hollenbach1992syntactic		copa11
 11250	AyutlalosLibresMixtec	MAGUEY	maguey	yawiʔ	yawiʔ	84				josserand1983mixtec		ayut11
-11317	Proto-MixtecMixtec	MAGUEY	maguey	yawiʔ	yawiʔ	84				josserand1983mixtec		prom01
+11317	Proto-Mixtec	MAGUEY	maguey	yawiʔ	yawiʔ	84				josserand1983mixtec		prom01
 11279	SantaCruzItundujiaMixtec	MAGUEY	maguey	yawɨ	yawɨ	84				josserand1983mixtec		itun11
 14369	SantaCruzItundujiaMixtec	HOLE	agujero	yawɨ	yawɨ	130	1667			josserand1983mixtec		itun11
 1629	SanJuanCopalaTriqui	NOW OR TODAY	now, today	yax¹³	yax¹³	197	2097			hollenbach1992syntactic		copa11
@@ -18939,18 +18939,18 @@ ID	DOCULECT	CONCEPT	SPANISH_GLOSS	VALUE	FORM	IDlist	CONCEPTICON_ID	LOAN	LOAN_SOU
 2030	SanPedroySanPabloTeposcolula1600Mixtec	RAW	cruda cosa	yehe	yehe	192	1959			alvarado1593vocabulario		tepo01
 6053	SanAndresChicahuaxtlaTriqui	STONE OR ROCK	piedra	yëj³	yëj³	143	2125			good1978diccionario		chic12
 12508	SanPedroySanPabloTeposcolulaMixtec	PUMPKIN	calabaza	yek	yek	100	864			josserand1983mixtec		tepo11
-6534	Proto-MixtecMixtec	BROTHER (OF MAN)	hermano de hombre	yeni	yeni	9	559			josserand1983mixtec		prom01
+6534	Proto-Mixtec	BROTHER (OF MAN)	hermano de hombre	yeni	yeni	9	559			josserand1983mixtec		prom01
 6501	SantaCruzItundujiaMixtec	BROTHER (OF MAN)	hermano de hombre	yȩni̧	yȩni̧	9	559			josserand1983mixtec		itun11
 14044	SanEstebanAtatlahucaMixtec	BOX OR CHEST	cajón	yeNnu̧	yeNnu̧	126	3150			josserand1983mixtec		atat11
 1844	SanPedroySanPabloTeposcolula1600Mixtec	BONE	hueso	yeque	yeque	18	1394			alvarado1593vocabulario		tepo01
 1919	SanPedroySanPabloTeposcolula1600Mixtec	PUMPKIN	calabaza	yeque	yeque	100	864			alvarado1593vocabulario		tepo01
 15504	CuyamecalcoVillaZaragozaMixtec	IRON	fierro	yer̃u	yer̃u	145	621			josserand1983mixtec		cuya11
 18583	SantaCruzItundujiaMixtec	NEAR	está cerca	yeti̧	yeti̧	189	1942			josserand1983mixtec		itun11
-18616	Proto-MixtecMixtec	NEAR	está cerca	yeti̧	yeti̧	189	1942			josserand1983mixtec		prom01
+18616	Proto-Mixtec	NEAR	está cerca	yeti̧	yeti̧	189	1942			josserand1983mixtec		prom01
 14074	SantaCruzItundujiaMixtec	BOX OR CHEST	cajón	yetu̧	yetu̧	126	3150			josserand1983mixtec		itun11
 2021	SanPedroySanPabloTeposcolula1600Mixtec	LAZY	floxo por neglicencia	tay yevua	yevua	186	1564			alvarado1593vocabulario		tepo01
 13955	SantaCruzItundujiaMixtec	GOURD BOWL	jícara	yexi̧	yexi̧	124				josserand1983mixtec		itun11
-13996	Proto-MixtecMixtec	GOURD BOWL	jícara	yexi̧ʔ	yexi̧ʔ	124				josserand1983mixtec		prom01
+13996	Proto-Mixtec	GOURD BOWL	jícara	yexi̧ʔ	yexi̧ʔ	124				josserand1983mixtec		prom01
 14175	SanMartinEstadoMixtec	THREAD	hilo	yeʔƀa	yeʔƀa	127	1161			josserand1983mixtec		esta11
 7799	SantaCruzItundujiaMixtec	FOOT	pie	yeʔe	yeʔe	32	1301			josserand1983mixtec		itun11
 1325	ConcepcionPapaloCuicatec	SMOKE (EXHAUST)	smoke	yhāmhī	yhāmhī	121	778			bradley1991preliminary		conc11
@@ -19060,7 +19060,7 @@ ID	DOCULECT	CONCEPT	SPANISH_GLOSS	VALUE	FORM	IDlist	CONCEPTICON_ID	LOAN	LOAN_SOU
 8990	CuatzoquitengoMixtec	MAT	petate	yiwi	yiwi	47	195			josserand1983mixtec		cuat11
 2330	CahuatacheMixtec	MAT	straw mat	yīwí	yīwí	47	195			durr1987preliminary		cahu11
 8973	AyutlalosLibresMixtec	MAT	petate	yiwiʔ	yiwiʔ	47	195			josserand1983mixtec		ayut11
-9046	Proto-MixtecMixtec	MAT	petate	yiwiʔ	yiwiʔ	47	195			josserand1983mixtec		prom01
+9046	Proto-Mixtec	MAT	petate	yiwiʔ	yiwiʔ	47	195			josserand1983mixtec		prom01
 2328	AyutlalosLibresMixtec	MAT	straw mat	yìwìʔ	yìwìʔ	47	195			durr1987preliminary		ayut11
 20189	SanMartinDuraznosMixtec	CORN DOUGH	masa	yixàn	yixàn	91				hernandez2020san-martin		dura11
 20242	SanMartinDuraznosMixtec	DEW	rocío	yíyí	yíyí	140	1977			hernandez2020san-martin		dura11
@@ -19074,12 +19074,12 @@ ID	DOCULECT	CONCEPT	SPANISH_GLOSS	VALUE	FORM	IDlist	CONCEPTICON_ID	LOAN	LOAN_SOU
 4132	SanAgustinChayucoMixtec	RAW	crudo, inmaduro	yɨhɨ	yɨhɨ	192	1959			pensinger1974diccionario		chay11
 4343	SanJuanColoradoMixtec	RAW	crudo	yɨhɨ	yɨhɨ	192	1959			stark1986diccionario		colo11
 1220	SanJuanDiuxiMixtec	HOLE	hole	yɨ́hɨ	yɨ́hɨ	130	1667			kuiper1991syntactic		diux11
-12380	Proto-MixtecMixtec	SALT	sal	yɨi̧ʔ	yɨi̧ʔ	99	1274			josserand1983mixtec		prom01
-12381	Proto-MixtecMixtec	SALT	sal	yɨi̧ʔ	yɨi̧ʔ	99	1274			josserand1983mixtec		prom01
-12379	Proto-MixtecMixtec	SALT	sal	yɨɨ̧ʔ	yɨɨ̧ʔ	99	1274			josserand1983mixtec		prom01
+12380	Proto-Mixtec	SALT	sal	yɨi̧ʔ	yɨi̧ʔ	99	1274			josserand1983mixtec		prom01
+12381	Proto-Mixtec	SALT	sal	yɨi̧ʔ	yɨi̧ʔ	99	1274			josserand1983mixtec		prom01
+12379	Proto-Mixtec	SALT	sal	yɨɨ̧ʔ	yɨɨ̧ʔ	99	1274			josserand1983mixtec		prom01
 1217	SanJuanDiuxiMixtec	BASKET	basket	yɨ̄ka	yɨ̄ka	125	1539			kuiper1991syntactic		diux11
-12493	Proto-MixtecMixtec	PUMPKIN	calabaza	yɨki̧ʔ	yɨki̧ʔ	100	864			josserand1983mixtec		prom01
-12494	Proto-MixtecMixtec	PUMPKIN	calabaza	yɨki̧ʔ	yɨki̧ʔ	100	864			josserand1983mixtec		prom01
+12493	Proto-Mixtec	PUMPKIN	calabaza	yɨki̧ʔ	yɨki̧ʔ	100	864			josserand1983mixtec		prom01
+12494	Proto-Mixtec	PUMPKIN	calabaza	yɨki̧ʔ	yɨki̧ʔ	100	864			josserand1983mixtec		prom01
 12441	SanJuanColoradoMixtec	PUMPKIN	calabaza	yɨkɨ	yɨkɨ	100	864			josserand1983mixtec		colo11
 12459	SantiagoIxtayutlaMixtec	PUMPKIN	calabaza	yɨkɨ	yɨkɨ	100	864			josserand1983mixtec		ixta11
 12467	SanLorenzoMixtec	PUMPKIN	calabaza	yɨkɨ	yɨkɨ	100	864			josserand1983mixtec		lore11
@@ -19096,7 +19096,7 @@ ID	DOCULECT	CONCEPT	SPANISH_GLOSS	VALUE	FORM	IDlist	CONCEPTICON_ID	LOAN	LOAN_SOU
 12461	SantiagoJamiltepecMixtec	PUMPKIN	calabaza	yɨkɨ-(kʷaʔa)	yɨkɨ-kʷaʔa	100	864			josserand1983mixtec		jami11
 7591	SantiagoNuyooMixtec	FINGERNAIL	uña	yɨ̄kɨ̄-tí̧í̧	yɨ̄kɨ̄-tí̧í̧	28	1258			josserand1983mixtec		nuyo11
 7631	SantaMariaYucuhitiMixtec	FINGERNAIL	uña	yɨ̄kɨ̄-tí̧í̧	yɨ̄kɨ̄-tí̧í̧	28	1258			josserand1983mixtec		yucu12
-12492	Proto-MixtecMixtec	PUMPKIN	calabaza	yɨkɨ̧ʔ	yɨkɨ̧ʔ	100	864			josserand1983mixtec		prom01
+12492	Proto-Mixtec	PUMPKIN	calabaza	yɨkɨ̧ʔ	yɨkɨ̧ʔ	100	864			josserand1983mixtec		prom01
 3961	SanAgustinChayucoMixtec	BONE	hueso	yɨquɨ	yɨquɨ	18	1394			pensinger1974diccionario		chay11
 4038	SanAgustinChayucoMixtec	PUMPKIN	calabaza	yɨquɨ cuaha	yɨquɨ	100	864			pensinger1974diccionario		chay11
 4165	SanJuanColoradoMixtec	BONE	hueso	yɨquɨ	yɨquɨ	18	1394			stark1986diccionario		colo11
@@ -19231,7 +19231,7 @@ ID	DOCULECT	CONCEPT	SPANISH_GLOSS	VALUE	FORM	IDlist	CONCEPTICON_ID	LOAN	LOAN_SOU
 77	AbasoloValleMixtec	TASSEL	espiga	yòko	yòko	95				galindo-sanchez2009vocabulario		abas11
 12029	CoicoyanlasFloresMixtec	TASSEL	espiga	yōkó	yōkó	95				josserand1983mixtec		coic11
 12093	SantaMariaYucuhitiMixtec	TASSEL	espiga	yōkō	yōkō	95				josserand1983mixtec		yucu12
-12069	Proto-MixtecMixtec	TASSEL	espiga	yokoʔ	yokoʔ	95				josserand1983mixtec		prom01
+12069	Proto-Mixtec	TASSEL	espiga	yokoʔ	yokoʔ	95				josserand1983mixtec		prom01
 12096	SantaMariaZacatepecMixtec	TASSEL	espiga	yokoʔ	yokoʔ	95				josserand1983mixtec		zaca11
 14447	SanMartinEstadoMixtec	NET	red	yo̧na̧	yo̧na̧	131	2963			josserand1983mixtec		esta11
 4070	SanAgustinChayucoMixtec	NETBAG	bolsa hecha como una red	yono	yono	131	293			pensinger1974diccionario		chay11
@@ -19246,7 +19246,7 @@ ID	DOCULECT	CONCEPT	SPANISH_GLOSS	VALUE	FORM	IDlist	CONCEPTICON_ID	LOAN	LOAN_SOU
 14479	SantaMariaNutioMixtec	NET	red	yo̧no̧	yo̧no̧	131	2963			josserand1983mixtec		nuti11
 14513	VillaTututepecMelchorOcampoMixtec	NET	red	yo̧no̧	yo̧no̧	131	2963			josserand1983mixtec		tutu11
 14454	SantaCruzItundujiaMixtec	NET	red	ỹo̧no̧	ỹo̧no̧	131	2963			josserand1983mixtec		itun11
-14491	Proto-MixtecMixtec	NET	red	yonoʔ	yonoʔ	131	2963			josserand1983mixtec		prom01
+14491	Proto-Mixtec	NET	red	yonoʔ	yonoʔ	131	2963			josserand1983mixtec		prom01
 438	SantiagoJamiltepecMixtec	MOON	moon	yoo	yoo	134	1313			johnson1988syntactic		jami11
 561	SantoTomasOcotepecMixtec	MOON	moon	yoo	yoo	134	1313			alexander1988syntactic		ocot11
 687	SanJeronimoProgresoMixtec	MOON	moon	yoo	yoo	134	1313			shields1988syntactic		prog12
@@ -19301,7 +19301,7 @@ ID	DOCULECT	CONCEPT	SPANISH_GLOSS	VALUE	FORM	IDlist	CONCEPTICON_ID	LOAN	LOAN_SOU
 3626	PiedraAzulMixtec	PLAIN	llano	yosǒ 	yosǒ 	142	652			oxnard2020		pied12
 3627	SanMarcoslaFlorMixtec	PLAIN	llano	yosǒ 	yosǒ 	142	652			oxnard2020		flor12
 15133	AyutlalosLibresMixtec	PLAIN	llano	yosoʔ	yosoʔ	142	652			josserand1983mixtec		ayut11
-15205	Proto-MixtecMixtec	PLAIN	llano	yosoʔ	yosoʔ	142	652			josserand1983mixtec		prom01
+15205	Proto-Mixtec	PLAIN	llano	yosoʔ	yosoʔ	142	652			josserand1983mixtec		prom01
 14890	SantaMariaTonahuixtlaMixtec	RIVER	río	yote	yote	139	666			josserand1983mixtec		tona11
 4652	AlacatlatzalaMixtec	BITTER	amargo	yo̠va̠	yo̠va̠	182	887			anderson2006vocabulario		alac11
 18110	CahuatacheMixtec	BITTER	amargo	yowa	yowa	182	887			josserand1983mixtec		cahu11
@@ -19495,7 +19495,7 @@ ID	DOCULECT	CONCEPT	SPANISH_GLOSS	VALUE	FORM	IDlist	CONCEPTICON_ID	LOAN	LOAN_SOU
 11186	SanJuanMixtepecMixtec	HERBACEOUS PLANT	hierba	yuku	yuku	81				josserand1983mixtec		mixt11
 11197	SantiagoPinotepaNacionalMixtec	HERBACEOUS PLANT	hierba	yuku	yuku	81				josserand1983mixtec		pino11
 11199	PinotepaDonLuisMixtec	HERBACEOUS PLANT	hierba	yuku	yuku	81				josserand1983mixtec		pino12
-11200	Proto-MixtecMixtec	HERBACEOUS PLANT	hierba	yuku	yuku	81				josserand1983mixtec		prom01
+11200	Proto-Mixtec	HERBACEOUS PLANT	hierba	yuku	yuku	81				josserand1983mixtec		prom01
 11209	TepejilloMixtec	HERBACEOUS PLANT	hierba	yuku	yuku	81				josserand1983mixtec		tepe11
 11212	SanPedroySanPabloTeposcolulaMixtec	HERBACEOUS PLANT	hierba	yuku	yuku	81				josserand1983mixtec		tepo11
 11222	SantaMariaTonahuixtlaMixtec	HERBACEOUS PLANT	hierba	yuku	yuku	81				josserand1983mixtec		tona11
@@ -19569,7 +19569,7 @@ ID	DOCULECT	CONCEPT	SPANISH_GLOSS	VALUE	FORM	IDlist	CONCEPTICON_ID	LOAN	LOAN_SOU
 11966	SantaCatarinaMechoacanMixtec	FURROW	surco	yuku̧	yuku̧	94	1794			josserand1983mixtec		mech11
 11969	SantaLuciaMonteverdeMixtec	FURROW	surco	yuku̧	yuku̧	94	1794			josserand1983mixtec		mont13
 11980	PinotepaDonLuisMixtec	FURROW	surco	yuku̧	yuku̧	94	1794			josserand1983mixtec		pino12
-11981	Proto-MixtecMixtec	FURROW	surco	yuku̧	yuku̧	94	1794			josserand1983mixtec		prom01
+11981	Proto-Mixtec	FURROW	surco	yuku̧	yuku̧	94	1794			josserand1983mixtec		prom01
 11983	SanFranciscoSayultepecMixtec	FURROW	surco	yuku̧	yuku̧	94	1794			josserand1983mixtec		sayu11
 11990	SanAntonioTepetlapaMixtec	FURROW	surco	yuku̧	yuku̧	94	1794			josserand1983mixtec		tepe12
 11998	SantaMariaTonahuixtlaMixtec	FURROW	surco	yuku̧	yuku̧	94	1794			josserand1983mixtec		tona11
@@ -19613,7 +19613,7 @@ ID	DOCULECT	CONCEPT	SPANISH_GLOSS	VALUE	FORM	IDlist	CONCEPTICON_ID	LOAN	LOAN_SOU
 4949	MagdalenaPenascoMixtec	FURROW	surco	yukùn	yukùn	94	1794			hollenbach2017diccionario	{BA}	pena11
 803	AyutlalosLibresMixtec	FURROW	furrow, planting row	yūkun	yūkun	94	1794			hills1990syntactic		ayut11
 11188	SantaLuciaMonteverdeMixtec	HERBACEOUS PLANT	hierba	yukuʔ	yukuʔ	81				josserand1983mixtec		mont13
-15080	Proto-MixtecMixtec	MOUNTAIN OR HILL	cerro	yukuʔ	yukuʔ	141	2118			josserand1983mixtec		prom01
+15080	Proto-Mixtec	MOUNTAIN OR HILL	cerro	yukuʔ	yukuʔ	141	2118			josserand1983mixtec		prom01
 15118	SantaMariaZacatepecMixtec	MOUNTAIN OR HILL	cerro	yukuʔ	yukuʔ	141	2118			josserand1983mixtec		zaca11
 3654	TlahuapaMixtec	BEESWAX	cera	yùmá	yùmá	148	1931			oxnard2020		tlah11
 4300	SanJuanColoradoMixtec	BEESWAX	cera	yùmà	yùmà	148	1931			stark1986diccionario		colo11
@@ -19722,7 +19722,7 @@ ID	DOCULECT	CONCEPT	SPANISH_GLOSS	VALUE	FORM	IDlist	CONCEPTICON_ID	LOAN	LOAN_SOU
 14842	ElRosarioMicaltepecMixtec	RIVER	río	yute	yute	139	666			josserand1983mixtec		mica11
 14846	SantaLuciaMonteverdeMixtec	RIVER	río	yute	yute	139	666			josserand1983mixtec		mont13
 14853	SantaCruzNundacoMixtec	RIVER	río	yute	yute	139	666			josserand1983mixtec		nund11
-14869	Proto-MixtecMixtec	RIVER	río	yute	yute	139	666			josserand1983mixtec		prom01
+14869	Proto-Mixtec	RIVER	río	yute	yute	139	666			josserand1983mixtec		prom01
 14881	TepejilloMixtec	RIVER	río	yute	yute	139	666			josserand1983mixtec		tepe11
 14888	SantaCatarinaTlaltempanMixtec	RIVER	río	yute	yute	139	666			josserand1983mixtec		tlal11
 14891	TotoltepecGuerreroMixtec	RIVER	río	yute	yute	139	666			josserand1983mixtec		toto12
@@ -19795,7 +19795,7 @@ ID	DOCULECT	CONCEPT	SPANISH_GLOSS	VALUE	FORM	IDlist	CONCEPTICON_ID	LOAN	LOAN_SOU
 4406	SantaMariaZacatepecMixtec	TREE	árbol, palo	yutun	yutun	80	906			towne2011gramatica		zaca11
 11043	CosoltepecMixtec	TREE	árbol	yutu̧ⁿ	yutu̧ⁿ	80	906			josserand1983mixtec		coso11
 416	SantiagoJamiltepecMixtec	TREE	tree	yūtūn	yūtūn	80	906			johnson1988syntactic		jami11
-11100	Proto-MixtecMixtec	TREE	árbol	yutu̧ʔ	yutu̧ʔ	80	906			josserand1983mixtec		prom01
+11100	Proto-Mixtec	TREE	árbol	yutu̧ʔ	yutu̧ʔ	80	906			josserand1983mixtec		prom01
 11134	SantaMariaZacatepecMixtec	TREE	árbol	yutu̧ʔ	yutu̧ʔ	80	906			josserand1983mixtec		zaca11
 4291	SanJuanColoradoMixtec	RIVER	río	yutya	yutya	139	666			stark1986diccionario		colo11
 14783	SantaMariaAcatepecMixtec	RIVER	río	yutʸa	yutʸa	139	666			josserand1983mixtec		acat11
@@ -19874,7 +19874,7 @@ ID	DOCULECT	CONCEPT	SPANISH_GLOSS	VALUE	FORM	IDlist	CONCEPTICON_ID	LOAN	LOAN_SOU
 20540	SanPedroYosonamaMixtec	STONE OR ROCK	piedra	yuu	yuu	143	2125			gittlen2016gramatica		yoso14
 20418	SantoDomingoHuendioMixtec	STONE OR ROCK	piedra	yuú	yuú	143	2125			becerra-roldan2015un-estudio		huen11
 5001	MagdalenaPenascoMixtec	STONE OR ROCK	piedra	yuù	yuù	143	2125			hollenbach2017diccionario	[BA]	pena11
-8723	Proto-MixtecMixtec	TOWN OR VILLAGE	pueblo	yuu̧	yuu̧	43	3609			josserand1983mixtec		prom01
+8723	Proto-Mixtec	TOWN OR VILLAGE	pueblo	yuu̧	yuu̧	43	3609			josserand1983mixtec		prom01
 5151	SanEstebanAtatlahucaMixtec	STONE OR ROCK	piedra	yuū	yuū	143	2125			alexander1980gramatica	[C]	atat11
 15258	SanEstebanAtatlahucaMixtec	STONE OR ROCK	piedra	yuū	yuū	143	2125			josserand1983mixtec		atat11
 20930	SanAndresYutatioMixtec	STONE OR ROCK	piedra	yuu̠	yuu̠	143	2125			williams2017diccionario		yuta13
@@ -19914,7 +19914,7 @@ ID	DOCULECT	CONCEPT	SPANISH_GLOSS	VALUE	FORM	IDlist	CONCEPTICON_ID	LOAN	LOAN_SOU
 9068	TotoltepecGuerreroMixtec	MAT	petate	yuui	yuui	47	195			josserand1983mixtec		toto12
 1321	ConcepcionPapaloCuicatec	TORTILLA	tortilla	yūuntu	yūuntu	92				bradley1991preliminary		conc11
 14915	SanEstebanAtatlahucaMixtec	DEW	rocío	yuuyu	yuuyu	140	1977			josserand1983mixtec		atat11
-15329	Proto-MixtecMixtec	STONE OR ROCK	piedra	yuuʔ	yuuʔ	143	2125			josserand1983mixtec		prom01
+15329	Proto-Mixtec	STONE OR ROCK	piedra	yuuʔ	yuuʔ	143	2125			josserand1983mixtec		prom01
 15261	AyutlalosLibresMixtec	STONE OR ROCK	piedra	yūuʔ	yūuʔ	143	2125			josserand1983mixtec		ayut11
 2634	AyutlalosLibresMixtec	STONE OR ROCK	stone	yūùʔ	yūùʔ	143	2125			durr1987preliminary		ayut11
 4850	MagdalenaPenascoMixtec	FATHER	padre	yuva	yuva	3	1217			hollenbach2017diccionario	[A]	pena11
@@ -19931,7 +19931,7 @@ ID	DOCULECT	CONCEPT	SPANISH_GLOSS	VALUE	FORM	IDlist	CONCEPTICON_ID	LOAN	LOAN_SOU
 11211	SanAntonioTepetlapaMixtec	HERBACEOUS PLANT	hierba	yuwa	yuwa	81				josserand1983mixtec		tepe12
 15633	SantoDomingoNuxaaMixtec	BEESWAX	cera	ỹu̧wa̧	ỹu̧wa̧	148	1931			josserand1983mixtec		nuxa11
 1580	SanJuanCopalaTriqui	STONE OR ROCK	rock, cliff	yuwex³²	yuwex³²	143	2125			hollenbach1992syntactic		copa11
-15644	Proto-MixtecMixtec	BEESWAX	cera	yuwȩʔ	yuwȩʔ	148	1931			josserand1983mixtec		prom01
+15644	Proto-Mixtec	BEESWAX	cera	yuwȩʔ	yuwȩʔ	148	1931			josserand1983mixtec		prom01
 8960	SantaMariaAcatepecMixtec	MAT	petate	yuwi	yuwi	47	195			josserand1983mixtec		acat11
 8972	SanPedroAtoyacMixtec	MAT	petate	yuwi	yuwi	47	195			josserand1983mixtec		atoy11
 8979	SanAgustinChayucoMixtec	MAT	petate	yuwi	yuwi	47	195			josserand1983mixtec		chay11
@@ -19948,15 +19948,15 @@ ID	DOCULECT	CONCEPT	SPANISH_GLOSS	VALUE	FORM	IDlist	CONCEPTICON_ID	LOAN	LOAN_SOU
 9060	SanPedroySanPabloTeposcolulaMixtec	MAT	petate	yuwi	yuwi	47	195			josserand1983mixtec		tepo11
 9069	VillaTututepecMelchorOcampoMixtec	MAT	petate	yuwi	yuwi	47	195			josserand1983mixtec		tutu11
 9073	YoloxochitlMixtec	MAT	petate	yuwi	yuwi	47	195			josserand1983mixtec		yolo12
-9045	Proto-MixtecMixtec	MAT	petate	yuwiʔ	yuwiʔ	47	195			josserand1983mixtec		prom01
+9045	Proto-Mixtec	MAT	petate	yuwiʔ	yuwiʔ	47	195			josserand1983mixtec		prom01
 11630	SanMiguelElGrandeMixtec	CORN DOUGH	masa	yuxa̧	yuxa̧	91				josserand1983mixtec		gran11
 6209	ElJicaralMixtec	CORN DOUGH	masa	yuxán	yuxán	91				Emily John-Martin		jica13
 4569	AlacatlatzalaMixtec	CORN DOUGH	masa	yuxa̠n	yuxa̠n	91				zylstra2012gramatica		alac11
 20374	SantoDomingoHuendioMixtec	CORN DOUGH	masa	yúxàn	yúxàn	91				becerra-roldan2015un-estudio		huen11
 3374	TlahuapaMixtec	CORN DOUGH	masa	yùxán	yùxán	91				oxnard2020		tlah11
 11651	SantaLuciaMonteverdeMixtec	CORN DOUGH	masa	yuxȩ	yuxȩ	91				josserand1983mixtec		mont13
-11673	Proto-MixtecMixtec	CORN DOUGH	masa	yuxȩʔ	yuxȩʔ	91				josserand1983mixtec		prom01
-11674	Proto-MixtecMixtec	CORN DOUGH	masa	yuxȩʔ	yuxȩʔ	91				josserand1983mixtec		prom01
+11673	Proto-Mixtec	CORN DOUGH	masa	yuxȩʔ	yuxȩʔ	91				josserand1983mixtec		prom01
+11674	Proto-Mixtec	CORN DOUGH	masa	yuxȩʔ	yuxȩʔ	91				josserand1983mixtec		prom01
 12527	YutanduchiGuerreroMixtec	PUMPKIN	calabaza	yuxɨ̧	yuxɨ̧	100	864			josserand1983mixtec		yuta11
 20927	SanAndresYutatioMixtec	DEW	rocío	yúyó	yúyó	140	1977			williams2017diccionario		yuta13
 4079	SanAgustinChayucoMixtec	DEW	rocío	yuyu	yuyu	140	1977			pensinger1974diccionario		chay11
@@ -19976,7 +19976,7 @@ ID	DOCULECT	CONCEPT	SPANISH_GLOSS	VALUE	FORM	IDlist	CONCEPTICON_ID	LOAN	LOAN_SOU
 14951	SantaCatarinaMechoacanMixtec	DEW	rocío	yuyu	yuyu	140	1977			josserand1983mixtec		mech11
 14952	SanJuanMixtepecMixtec	DEW	rocío	yuyu	yuyu	140	1977			josserand1983mixtec		mixt11
 14954	SantaLuciaMonteverdeMixtec	DEW	rocío	yuyu	yuyu	140	1977			josserand1983mixtec		mont13
-14965	Proto-MixtecMixtec	DEW	rocío	yuyu	yuyu	140	1977			josserand1983mixtec		prom01
+14965	Proto-Mixtec	DEW	rocío	yuyu	yuyu	140	1977			josserand1983mixtec		prom01
 14975	TepejilloMixtec	DEW	rocío	yuyu	yuyu	140	1977			josserand1983mixtec		tepe11
 14977	SanPedroySanPabloTeposcolulaMixtec	DEW	rocío	yuyu	yuyu	140	1977			josserand1983mixtec		tepo11
 14983	SantaMariaTonahuixtlaMixtec	DEW	rocío	yuyu	yuyu	140	1977			josserand1983mixtec		tona11
@@ -19997,7 +19997,7 @@ ID	DOCULECT	CONCEPT	SPANISH_GLOSS	VALUE	FORM	IDlist	CONCEPTICON_ID	LOAN	LOAN_SOU
 14955	SanLuisMoreliaMixtec	DEW	rocío	yüyü	yüyü	140	1977			josserand1983mixtec		more11
 14985	XayacatlanBravoMixtec	DEW	rocío	yūyū	yūyū	140	1977			josserand1983mixtec		xaya12
 15914	YoloxochitlMixtec	FOAM	espuma	ỹu̧ỹu̧	ỹu̧ỹu̧	150	1768			josserand1983mixtec		yolo12
-14966	Proto-MixtecMixtec	DEW	rocío	yuyuʔ	yuyuʔ	140	1977			josserand1983mixtec		prom01
+14966	Proto-Mixtec	DEW	rocío	yuyuʔ	yuyuʔ	140	1977			josserand1983mixtec		prom01
 14994	SantaMariaZacatepecMixtec	DEW	rocío	yuyuʔ	yuyuʔ	140	1977			josserand1983mixtec		zaca11
 14917	AyutlalosLibresMixtec	DEW	rocío	yūyūʔ	yūyūʔ	140	1977			josserand1983mixtec		ayut11
 14160	SantiagoChazumbaMixtec	THREAD	hilo	yuʔa	yuʔa	127	1161			josserand1983mixtec		chaz11
@@ -20077,7 +20077,7 @@ ID	DOCULECT	CONCEPT	SPANISH_GLOSS	VALUE	FORM	IDlist	CONCEPTICON_ID	LOAN	LOAN_SOU
 7171	SantaMariaZacatepecMixtec	MOUTH	boca	yuʔu	yuʔu	23	674			josserand1983mixtec		zaca11
 7172	ZapotitlanPalmasMixtec	MOUTH	boca	yuʔu	yuʔu	23	674			josserand1983mixtec		zapo11
 15358	YoloxochitlMixtec	STONE OR ROCK	piedra	yuʔu	yuʔu	143	2125			josserand1983mixtec		yolo12
-13658	Proto-MixtecMixtec	FIRE	lumbre	yuʔu̧	yuʔu̧	118	221			josserand1983mixtec		prom01
+13658	Proto-Mixtec	FIRE	lumbre	yuʔu̧	yuʔu̧	118	221			josserand1983mixtec		prom01
 2190	MetlatonocMixtec	MOUTH	mouth	yùʔū	yùʔū	23	674			durr1987preliminary		metl11
 7125	MetlatonocMixtec	MOUTH	boca	yùʔū	yùʔū	23	674			josserand1983mixtec		metl11
 7111	GuadalupeVillahermosaElPortesueloMixtec	MOUTH	boca	yüʔü	yüʔü	23	674			josserand1983mixtec		guad11
@@ -20089,7 +20089,7 @@ ID	DOCULECT	CONCEPT	SPANISH_GLOSS	VALUE	FORM	IDlist	CONCEPTICON_ID	LOAN	LOAN_SOU
 2189	AlacatlatzalaMixtec	MOUTH	mouth	yūʔù	yūʔù	23	674			durr1987preliminary		alac11
 7162	XayacatlanBravoMixtec	MOUTH	boca	yūʔù	yūʔù	23	674			josserand1983mixtec		xaya12
 2194	SanAgustinChayucoMixtec	MOUTH	mouth	yūʔū	yūʔū	23	674			durr1987preliminary		chay11
-7141	Proto-MixtecMixtec	MOUTH	boca	yuʔuʔ	yuʔuʔ	23	674			josserand1983mixtec		prom01
+7141	Proto-Mixtec	MOUTH	boca	yuʔuʔ	yuʔuʔ	23	674			josserand1983mixtec		prom01
 2188	AyutlalosLibresMixtec	MOUTH	mouth	yùʔúʔ	yùʔúʔ	23	674			durr1987preliminary		ayut11
 14140	SantaMariaAcatepecMixtec	THREAD	hilo	yuʔwa	yuʔwa	127	1161			josserand1983mixtec		acat11
 14152	SanPedroAtoyacMixtec	THREAD	hilo	yuʔwa	yuʔwa	127	1161			josserand1983mixtec		atoy11
@@ -20111,10 +20111,10 @@ ID	DOCULECT	CONCEPT	SPANISH_GLOSS	VALUE	FORM	IDlist	CONCEPTICON_ID	LOAN	LOAN_SOU
 14256	SantaMariaZacatepecMixtec	THREAD	hilo	yuʔwa	yuʔwa	127	1161			josserand1983mixtec		zaca11
 14170	SantaAnaCuauhtemocMixtec	THREAD	hilo	yuʔwe	yuʔwe	127	1161			josserand1983mixtec		cuau11
 14172	CuyamecalcoVillaZaragozaMixtec	THREAD	hilo	yuʔwe	yuʔwe	127	1161			josserand1983mixtec		cuya11
-14219	Proto-MixtecMixtec	THREAD	hilo	yuʔwe	yuʔwe	127	1161			josserand1983mixtec		prom01
-13779	Proto-MixtecMixtec	SMOKE (EXHAUST)	humo	yuʔwȩ	yuʔwȩ	121	778			josserand1983mixtec		prom01
-13780	Proto-MixtecMixtec	SMOKE (EXHAUST)	humo	yuʔwȩ	yuʔwȩ	121	778			josserand1983mixtec		prom01
-7142	Proto-MixtecMixtec	MOUTH	boca	yuʔyuʔ	yuʔyuʔ	23	674			josserand1983mixtec		prom01
+14219	Proto-Mixtec	THREAD	hilo	yuʔwe	yuʔwe	127	1161			josserand1983mixtec		prom01
+13779	Proto-Mixtec	SMOKE (EXHAUST)	humo	yuʔwȩ	yuʔwȩ	121	778			josserand1983mixtec		prom01
+13780	Proto-Mixtec	SMOKE (EXHAUST)	humo	yuʔwȩ	yuʔwȩ	121	778			josserand1983mixtec		prom01
+7142	Proto-Mixtec	MOUTH	boca	yuʔyuʔ	yuʔyuʔ	23	674			josserand1983mixtec		prom01
 5328	SantaMariaPapaloCuicatec	BOX OR CHEST	caja, baúl	yya²va²	yya²va²	126	3150			anderson1983diccionario		papa11
 6104	SanAndresChicahuaxtlaTriqui	NOW OR TODAY	ahora, hoy	yyaj⁵⁴	yyaj⁵⁴	197	2097			good1978diccionario		chic12
 1759	SanAndresChicahuaxtla1890Triqui	FOAM	espuma	Yyatan	yyatan	150	1768			belmar1897ensayo		chic02
@@ -21215,19 +21215,19 @@ ID	DOCULECT	CONCEPT	SPANISH_GLOSS	VALUE	FORM	IDlist	CONCEPTICON_ID	LOAN	LOAN_SOU
 21029	SanAndresChicahuaxtlaTriqui	NECK	cuello	ʒa⁴	ʒa⁴	26	1333			hernandez-mendoza2020vocabulario		chic12
 21009	SanAndresChicahuaxtlaTriqui	CROSS-SEX SIBLING	hermana/hermano de otro genero	ʒu³we³ʰ	ʒu³we³ʰ	8				hernandez-mendoza2020vocabulario		chic12
 21011	SanAndresChicahuaxtlaTriqui	SISTER (OF WOMAN)	hermana de mujer	ʒu³wi³ʰ	ʒu³wi³ʰ	10				hernandez-mendoza2020vocabulario		chic12
-5593	Proto-MixtecMixtec	TONGUE	lengua	ʔ-jààʔ	ʔ-jààʔ	21	1205			swanton2020observaciones		prom01
-5773	Proto-MixtecMixtec	DEW	rocío	(ʔ)-jújóʔ	ʔ-jújóʔ	140	1977			swanton2020observaciones		prom01
-5808	Proto-MixtecMixtec	YELLOW	amarillo	ʔ-kʷáã̀	ʔ-kʷáã̀	154	1424			swanton2020observaciones		prom01
-5866	Proto-MixtecMixtec	SLOW	despacio	ʔ-kʷéè	ʔ-kʷéè	194	701			swanton2020observaciones		prom01
-5798	Proto-MixtecMixtec	RED	rojo, colorado	ʔ-kʷéʔè	ʔ-kʷéʔè	152	156			swanton2020observaciones		prom01
-5803	Proto-MixtecMixtec	GREEN	verde	ʔ-kʷììʔ	ʔ-kʷììʔ	153	1425			swanton2020observaciones		prom01
-5847	Proto-MixtecMixtec	JEALOUS	celoso	ʔ-kʷíjõ̀	ʔ-kʷíjõ̀	188	2821			swanton2020observaciones		prom01
-5828	Proto-MixtecMixtec	POOR	pobre	ʔ-ⁿdáʔwì	ʔ-ⁿdáʔwì	169	1674			swanton2020observaciones		prom01
-5603	Proto-MixtecMixtec	FINGERNAIL	uña	ʔ-tìjĩ̀ʔ	ʔ-tìjĩ̀ʔ	28	1258			swanton2020observaciones		prom01
-5694	Proto-MixtecMixtec	NIXTAMAL	nixtamal	ʔ-xáʔà	ʔ-xáʔà	90				swanton2020observaciones		prom01
-5861	Proto-MixtecMixtec	RAW	crudo	(ʔ¹)-jɨ́ʔɨ́	ʔ¹-jɨ́ʔɨ́	192	1959			swanton2020observaciones		prom01
-5843	Proto-MixtecMixtec	LAZY	flojo	(ʔ¹)-súxẽ́	ʔ¹-súxẽ́	186	1564			swanton2020observaciones		prom01
-5838	Proto-MixtecMixtec	BIG (SINGULAR)	grande	(ʔ²)-káʔnó	ʔ²-káʔnó	173				swanton2020observaciones		prom01
+5593	Proto-Mixtec	TONGUE	lengua	ʔ-jààʔ	ʔ-jààʔ	21	1205			swanton2020observaciones		prom01
+5773	Proto-Mixtec	DEW	rocío	(ʔ)-jújóʔ	ʔ-jújóʔ	140	1977			swanton2020observaciones		prom01
+5808	Proto-Mixtec	YELLOW	amarillo	ʔ-kʷáã̀	ʔ-kʷáã̀	154	1424			swanton2020observaciones		prom01
+5866	Proto-Mixtec	SLOW	despacio	ʔ-kʷéè	ʔ-kʷéè	194	701			swanton2020observaciones		prom01
+5798	Proto-Mixtec	RED	rojo, colorado	ʔ-kʷéʔè	ʔ-kʷéʔè	152	156			swanton2020observaciones		prom01
+5803	Proto-Mixtec	GREEN	verde	ʔ-kʷììʔ	ʔ-kʷììʔ	153	1425			swanton2020observaciones		prom01
+5847	Proto-Mixtec	JEALOUS	celoso	ʔ-kʷíjõ̀	ʔ-kʷíjõ̀	188	2821			swanton2020observaciones		prom01
+5828	Proto-Mixtec	POOR	pobre	ʔ-ⁿdáʔwì	ʔ-ⁿdáʔwì	169	1674			swanton2020observaciones		prom01
+5603	Proto-Mixtec	FINGERNAIL	uña	ʔ-tìjĩ̀ʔ	ʔ-tìjĩ̀ʔ	28	1258			swanton2020observaciones		prom01
+5694	Proto-Mixtec	NIXTAMAL	nixtamal	ʔ-xáʔà	ʔ-xáʔà	90				swanton2020observaciones		prom01
+5861	Proto-Mixtec	RAW	crudo	(ʔ¹)-jɨ́ʔɨ́	ʔ¹-jɨ́ʔɨ́	192	1959			swanton2020observaciones		prom01
+5843	Proto-Mixtec	LAZY	flojo	(ʔ¹)-súxẽ́	ʔ¹-súxẽ́	186	1564			swanton2020observaciones		prom01
+5838	Proto-Mixtec	BIG (SINGULAR)	grande	(ʔ²)-káʔnó	ʔ²-káʔnó	173				swanton2020observaciones		prom01
 18212	GuadalupeVillahermosaElPortesueloMixtec	TASTY	sabroso	ʔađi	ʔađi	183	1813			josserand1983mixtec		guad11
 18230	SanJorgeNuchitaMixtec	TASTY	sabroso	ʔahi	ʔahi	183	1813			josserand1983mixtec		nuch11
 18266	YucunutiBenitoJuarezMixtec	TASTY	sabroso	ʔahi	ʔahi	183	1813			josserand1983mixtec		yucu13
