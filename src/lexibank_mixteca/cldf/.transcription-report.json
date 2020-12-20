@@ -1315,7 +1315,6 @@
                 "*\u012b\u0327/\u0129": 1,
                 "+": 21,
                 "a": 112,
-                "d": 28,
                 "e": 15,
                 "i": 86,
                 "j\u0303": 2,
@@ -1323,7 +1322,7 @@
                 "k\u02b7": 23,
                 "l": 13,
                 "m": 28,
-                "n": 101,
+                "n": 73,
                 "o": 55,
                 "s": 72,
                 "t": 110,
@@ -1343,7 +1342,7 @@
                 "\u0294": 84,
                 "\u03b2": 65,
                 "\u2075": 135,
-                "\u207fd": 14,
+                "\u207fd": 42,
                 "\u207fd\u02b2": 1
             }
         },
@@ -2661,7 +2660,6 @@
                 "*\u025b/e": 6,
                 "+": 19,
                 "a": 78,
-                "d": 12,
                 "e": 8,
                 "i": 74,
                 "i\u0325": 10,
@@ -2669,7 +2667,7 @@
                 "k\u02b7": 25,
                 "l": 8,
                 "m": 22,
-                "n": 58,
+                "n": 46,
                 "n\u02b2": 2,
                 "o": 12,
                 "o\u0325": 1,
@@ -2693,7 +2691,7 @@
                 "\u03b2\u02b2": 1,
                 "\u1e01": 3,
                 "\u2075": 25,
-                "\u207fd": 21,
+                "\u207fd": 33,
                 "\u207fd\u02b2": 1
             }
         },
@@ -3368,8 +3366,28 @@
             }
         },
         "ChalcatongoHidalgoMixtec": {
-            "bipa_errors": [],
-            "general_errors": 0,
+            "bipa_errors": [
+                "<<\u0101>>",
+                "<<\u00f2>>",
+                "<<\u00ec>>",
+                "<<\u1e79>>",
+                "<<d>>",
+                "<<\u1e4d>>",
+                "<<\u0301>>",
+                "<<b>>",
+                "<<\u0303>>",
+                "<<\u00e1>>",
+                "<<\u00f9>>",
+                "<<\u00ed>>",
+                "<<\u00e9>>",
+                "<<\u00fa>>",
+                "<<\u00e8>>",
+                "<<r>>",
+                "<<\u0300>>",
+                "<<\u00e0>>",
+                "<<\u00f3>>"
+            ],
+            "general_errors": 279,
             "replacements": {
                 "*'t/\u0294": [
                     "\u0294"
@@ -3990,47 +4008,86 @@
                     "\u207f\u0292"
                 ]
             },
-            "sclass_errors": [],
+            "sclass_errors": [
+                "<<\u0101>>",
+                "<<\u00f2>>",
+                "<<\u00ec>>",
+                "<<\u1e79>>",
+                "<<d>>",
+                "<<\u1e4d>>",
+                "<<\u0301>>",
+                "<<b>>",
+                "<<\u0303>>",
+                "<<\u00e1>>",
+                "<<\u00f9>>",
+                "<<\u00ed>>",
+                "<<\u00e9>>",
+                "<<\u00fa>>",
+                "<<\u00e8>>",
+                "<<r>>",
+                "<<\u0300>>",
+                "<<\u00e0>>",
+                "<<\u00f3>>"
+            ],
             "segments": {
-                "*a/a": 83,
+                "*a/a": 138,
                 "*a\u0327/\u00e3": 22,
-                "*b/\u03b2": 3,
-                "*e/e": 25,
-                "*i/i": 66,
+                "*b/\u03b2": 14,
+                "*e/e": 36,
+                "*i/i": 105,
                 "*i\u0327/\u0129": 25,
                 "*j/h": 17,
-                "*o/o": 22,
+                "*o/o": 42,
                 "*o\u0327/\u00f5": 1,
-                "*u/u": 89,
+                "*u/u": 124,
                 "*u\u0327/\u0169": 37,
-                "*x/\u0283": 16,
+                "*x/\u0283": 35,
                 "*y/j": 1,
                 "*y/\u0292": 2,
                 "*\u00b2/\u00b3": 75,
                 "*\u00b3/\u2074": 23,
                 "*\u00b9/\u00b9": 39,
-                "*\u00e3/\u00e3": 2,
-                "*\u0129/\u0129": 2,
-                "*\u0169/\u0169": 4,
-                "*\u0268/\u0268": 26,
+                "*\u00e3/\u00e3": 18,
+                "*\u0129/\u0129": 25,
+                "*\u0169/\u0169": 36,
+                "*\u0268/\u0268": 80,
                 "*\u0268\u0327/\u0268\u0303": 5,
-                "+": 10,
+                "+": 23,
+                "<<b>>": 2,
+                "<<d>>": 20,
+                "<<r>>": 1,
+                "<<\u00e0>>": 34,
+                "<<\u00e1>>": 32,
+                "<<\u00e8>>": 4,
+                "<<\u00e9>>": 8,
+                "<<\u00ec>>": 11,
+                "<<\u00ed>>": 33,
+                "<<\u00f2>>": 14,
+                "<<\u00f3>>": 4,
+                "<<\u00f9>>": 16,
+                "<<\u00fa>>": 17,
+                "<<\u0101>>": 1,
+                "<<\u0300>>": 21,
+                "<<\u0301>>": 41,
+                "<<\u0303>>": 10,
+                "<<\u1e4d>>": 1,
+                "<<\u1e79>>": 9,
                 "f": 1,
-                "k": 34,
-                "k\u02b7": 16,
-                "l": 7,
-                "m": 11,
-                "n": 30,
+                "k": 88,
+                "k\u02b7": 32,
+                "l": 14,
+                "m": 22,
+                "n": 82,
                 "r\u02d0": 1,
-                "s": 21,
-                "t": 33,
-                "t\u0283": 13,
-                "\u00e3": 1,
-                "\u0272": 29,
+                "s": 43,
+                "t": 80,
+                "t\u0283": 35,
+                "\u00e3": 4,
+                "\u0272": 54,
                 "\u0282": 7,
-                "\u0283": 9,
-                "\u0292": 22,
-                "\u0294": 52,
+                "\u0283": 28,
+                "\u0292": 63,
+                "\u0294": 110,
                 "\u03b2": 10,
                 "\u03b8": 2,
                 "\u207fd": 19
@@ -91327,13 +91384,734 @@
         }
     },
     "stats": {
-        "bad_words": [],
-        "bad_words_count": 0,
-        "bipa_errors": [],
-        "general_errors": 0,
+        "bad_words": [
+            [
+                "ChalcatongoHidalgoMixtec-102_tomato-2",
+                "ChalcatongoHidalgoMixtec",
+                "102_tomato",
+                "t\u00e8-nana",
+                "t <s> <<\u00e8>> </s> + n \u00e3 *a/a"
+            ],
+            [
+                "ChalcatongoHidalgoMixtec-102_tomato-3",
+                "ChalcatongoHidalgoMixtec",
+                "102_tomato",
+                "t\u0268\u0300-nana",
+                "t *\u0268/\u0268 <s> <<\u0300>> </s> + n \u00e3 *a/a"
+            ],
+            [
+                "ChalcatongoHidalgoMixtec-103_tortilla-2",
+                "ChalcatongoHidalgoMixtec",
+                "103_tortilla",
+                "sta\u00e0",
+                "s t *a/a <s> <<\u00e0>> </s>"
+            ],
+            [
+                "ChalcatongoHidalgoMixtec-104_townorvillage-3",
+                "ChalcatongoHidalgoMixtec",
+                "104_townorvillage",
+                "\u00f1\u0169\u0169\u0300",
+                "\u0272 *\u0169/\u0169 *\u0169/\u0169 <s> <<\u0300>> </s>"
+            ],
+            [
+                "ChalcatongoHidalgoMixtec-105_tree-3",
+                "ChalcatongoHidalgoMixtec",
+                "105_tree",
+                "\u017e\u1e79n\u1e79",
+                "\u0292 <s> <<\u1e79>> </s> n <s> <<\u1e79>> </s>"
+            ],
+            [
+                "ChalcatongoHidalgoMixtec-112_wing-2",
+                "ChalcatongoHidalgoMixtec",
+                "112_wing",
+                "nd\u00edx\u00ec",
+                "n <s> <<d>> </s> <s> <<\u00ed>> </s> *x/\u0283 <s> <<\u00ec>> </s>"
+            ],
+            [
+                "ChalcatongoHidalgoMixtec-119_aunt-1",
+                "ChalcatongoHidalgoMixtec",
+                "119_aunt",
+                "\u0161i\u00ec",
+                "\u0283 *i/i <s> <<\u00ec>> </s>"
+            ],
+            [
+                "ChalcatongoHidalgoMixtec-121_bean-2",
+                "ChalcatongoHidalgoMixtec",
+                "121_bean",
+                "ndu\u010di",
+                "n <s> <<d>> </s> *u/u t\u0283 *i/i"
+            ],
+            [
+                "ChalcatongoHidalgoMixtec-128_custardapple-1",
+                "ChalcatongoHidalgoMixtec",
+                "128_custardapple",
+                "\u0129\u0301\u00f1\u1e79",
+                "*\u0129/\u0129 <s> <<\u0301>> </s> \u0272 <s> <<\u1e79>> </s>"
+            ],
+            [
+                "ChalcatongoHidalgoMixtec-129_daughter-1",
+                "ChalcatongoHidalgoMixtec",
+                "129_daughter",
+                "se-s\u0268\u0301\u0294\u0268\u0301",
+                "s *e/e + s *\u0268/\u0268 <s> <<\u0301>> </s> \u0294 *\u0268/\u0268 <s> <<\u0301>> </s>"
+            ],
+            [
+                "ChalcatongoHidalgoMixtec-12_brotherofman-3",
+                "ChalcatongoHidalgoMixtec",
+                "12_brotherofman",
+                "\u00f1\u00e1ni",
+                "\u0272 <s> <<\u00e1>> </s> n *i/i"
+            ],
+            [
+                "ChalcatongoHidalgoMixtec-132_earofcornfresh-1",
+                "ChalcatongoHidalgoMixtec",
+                "132_earofcornfresh",
+                "n\u0268\u0301\u00f1\u0268\u0301",
+                "n *\u0268/\u0268 <s> <<\u0301>> </s> \u0272 *\u0268/\u0268 <s> <<\u0301>> </s>"
+            ],
+            [
+                "ChalcatongoHidalgoMixtec-134_fire-2",
+                "ChalcatongoHidalgoMixtec",
+                "134_fire",
+                "\u00f1\u1e79\u0294\u0169\u0300",
+                "\u0272 <s> <<\u1e79>> </s> \u0294 *\u0169/\u0169 <s> <<\u0300>> </s>"
+            ],
+            [
+                "ChalcatongoHidalgoMixtec-138_horse-1",
+                "ChalcatongoHidalgoMixtec",
+                "138_horse",
+                "k\u02b7a\u017e\u00fa",
+                "k\u02b7 *a/a \u0292 <s> <<\u00fa>> </s>"
+            ],
+            [
+                "ChalcatongoHidalgoMixtec-13_cat-2",
+                "ChalcatongoHidalgoMixtec",
+                "13_cat",
+                "b\u00edlu",
+                "*b/\u03b2 <s> <<\u00ed>> </s> l *u/u"
+            ],
+            [
+                "ChalcatongoHidalgoMixtec-141_neck-2",
+                "ChalcatongoHidalgoMixtec",
+                "141_neck",
+                "s\u0169k\u0169\u0300",
+                "s *\u0169/\u0169 k *\u0169/\u0169 <s> <<\u0300>> </s>"
+            ],
+            [
+                "ChalcatongoHidalgoMixtec-147_sandal-3",
+                "ChalcatongoHidalgoMixtec",
+                "147_sandal",
+                "nd\u0129x\u00e3\u0300",
+                "n <s> <<d>> </s> *\u0129/\u0129 *x/\u0283 *\u00e3/\u00e3 <s> <<\u0300>> </s>"
+            ],
+            [
+                "ChalcatongoHidalgoMixtec-148_sisterofwoman-1",
+                "ChalcatongoHidalgoMixtec",
+                "148_sisterofwoman",
+                "k\u00fa\u0294u",
+                "k <s> <<\u00fa>> </s> \u0294 *u/u"
+            ],
+            [
+                "ChalcatongoHidalgoMixtec-14_chayote-1",
+                "ChalcatongoHidalgoMixtec",
+                "14_chayote",
+                "n\u00e3\u0301\u00f1\u00e3\u0301",
+                "n *\u00e3/\u00e3 <s> <<\u0301>> </s> \u0272 *\u00e3/\u00e3 <s> <<\u0301>> </s>"
+            ],
+            [
+                "ChalcatongoHidalgoMixtec-150_tail-2",
+                "ChalcatongoHidalgoMixtec",
+                "150_tail",
+                "s\u00fa\u0294ma",
+                "s <s> <<\u00fa>> </s> \u0294 m *a/a"
+            ],
+            [
+                "ChalcatongoHidalgoMixtec-151_uncle-1",
+                "ChalcatongoHidalgoMixtec",
+                "151_uncle",
+                "sto\u00f2",
+                "s t *o/o <s> <<\u00f2>> </s>"
+            ],
+            [
+                "ChalcatongoHidalgoMixtec-152_ant-1",
+                "ChalcatongoHidalgoMixtec",
+                "152_ant",
+                "\u010d\u00f3k\u00f3",
+                "t\u0283 <s> <<\u00f3>> </s> k <s> <<\u00f3>> </s>"
+            ],
+            [
+                "ChalcatongoHidalgoMixtec-155_bee-1",
+                "ChalcatongoHidalgoMixtec",
+                "155_bee",
+                "tim\u00ed",
+                "t *i/i m <s> <<\u00ed>> </s>"
+            ],
+            [
+                "ChalcatongoHidalgoMixtec-155_bee-2",
+                "ChalcatongoHidalgoMixtec",
+                "155_bee",
+                "tim\u00ed\u00ed",
+                "t *i/i m <s> <<\u00ed>> </s> <s> <<\u00ed>> </s>"
+            ],
+            [
+                "ChalcatongoHidalgoMixtec-158_blood-3",
+                "ChalcatongoHidalgoMixtec",
+                "158_blood",
+                "n\u0268\u0301\u00f1\u0268\u0300",
+                "n *\u0268/\u0268 <s> <<\u0301>> </s> \u0272 *\u0268/\u0268 <s> <<\u0300>> </s>"
+            ],
+            [
+                "ChalcatongoHidalgoMixtec-164_feather-3",
+                "ChalcatongoHidalgoMixtec",
+                "164_feather",
+                "t\u0169\u0300\u0169\u0300",
+                "t *\u0169/\u0169 <s> <<\u0300>> </s> *\u0169/\u0169 <s> <<\u0300>> </s>"
+            ],
+            [
+                "ChalcatongoHidalgoMixtec-166_frog-2",
+                "ChalcatongoHidalgoMixtec",
+                "166_frog",
+                "s\u00e1\u0294ba",
+                "s <s> <<\u00e1>> </s> \u0294 <s> <<b>> </s> *a/a"
+            ],
+            [
+                "ChalcatongoHidalgoMixtec-170_griddle-3",
+                "ChalcatongoHidalgoMixtec",
+                "170_griddle",
+                "\u0161i\u00f2",
+                "\u0283 *i/i <s> <<\u00f2>> </s>"
+            ],
+            [
+                "ChalcatongoHidalgoMixtec-170_griddle-4",
+                "ChalcatongoHidalgoMixtec",
+                "170_griddle",
+                "\u0161o\u00f2",
+                "\u0283 *o/o <s> <<\u00f2>> </s>"
+            ],
+            [
+                "ChalcatongoHidalgoMixtec-171_honey-2",
+                "ChalcatongoHidalgoMixtec",
+                "171_honey",
+                "ndu\u0161i",
+                "n <s> <<d>> </s> *u/u \u0283 *i/i"
+            ],
+            [
+                "ChalcatongoHidalgoMixtec-172_intestines-2",
+                "ChalcatongoHidalgoMixtec",
+                "172_intestines",
+                "x\u0268\u0301t\u0268\u0300",
+                "*x/\u0283 *\u0268/\u0268 <s> <<\u0301>> </s> t *\u0268/\u0268 <s> <<\u0300>> </s>"
+            ],
+            [
+                "ChalcatongoHidalgoMixtec-181_oven-3",
+                "ChalcatongoHidalgoMixtec",
+                "181_oven",
+                "\u0161in\u00f9",
+                "\u0283 *i/i n <s> <<\u00f9>> </s>"
+            ],
+            [
+                "ChalcatongoHidalgoMixtec-181_oven-4",
+                "ChalcatongoHidalgoMixtec",
+                "181_oven",
+                "xin\u00f9",
+                "*x/\u0283 *i/i n <s> <<\u00f9>> </s>"
+            ],
+            [
+                "ChalcatongoHidalgoMixtec-182_pimple-3",
+                "ChalcatongoHidalgoMixtec",
+                "182_pimple",
+                "nd\u0268\u0294\u017e\u0268\u0301",
+                "n <s> <<d>> </s> *\u0268/\u0268 \u0294 \u0292 *\u0268/\u0268 <s> <<\u0301>> </s>"
+            ],
+            [
+                "ChalcatongoHidalgoMixtec-184_pus-3",
+                "ChalcatongoHidalgoMixtec",
+                "184_pus",
+                "l\u00e1k\u02b7\u00e1",
+                "l <s> <<\u00e1>> </s> k\u02b7 <s> <<\u00e1>> </s>"
+            ],
+            [
+                "ChalcatongoHidalgoMixtec-187_skunk-1",
+                "ChalcatongoHidalgoMixtec",
+                "187_skunk",
+                "\u010d\u0268\u0303\u0301\u0294\u0268\u0303\u0301",
+                "t\u0283 *\u0268/\u0268 <s> <<\u0303>> </s> <s> <<\u0301>> </s> \u0294 *\u0268/\u0268 <s> <<\u0303>> </s> <s> <<\u0301>> </s>"
+            ],
+            [
+                "ChalcatongoHidalgoMixtec-187_skunk-2",
+                "ChalcatongoHidalgoMixtec",
+                "187_skunk",
+                "\u010d\u0268\u0303\u0294\u0268\u0303\u0301",
+                "t\u0283 *\u0268/\u0268 <s> <<\u0303>> </s> \u0294 *\u0268/\u0268 <s> <<\u0303>> </s> <s> <<\u0301>> </s>"
+            ],
+            [
+                "ChalcatongoHidalgoMixtec-18_corn-3",
+                "ChalcatongoHidalgoMixtec",
+                "18_corn",
+                "nun\u00ec",
+                "n *u/u n <s> <<\u00ec>> </s>"
+            ],
+            [
+                "ChalcatongoHidalgoMixtec-191_son-1",
+                "ChalcatongoHidalgoMixtec",
+                "191_son",
+                "se-\u017e\u00ed\u00ed",
+                "s *e/e + \u0292 <s> <<\u00ed>> </s> <s> <<\u00ed>> </s>"
+            ],
+            [
+                "ChalcatongoHidalgoMixtec-192_stool-3",
+                "ChalcatongoHidalgoMixtec",
+                "192_stool",
+                "t\u00e9\u017eu",
+                "t <s> <<\u00e9>> </s> \u0292 *u/u"
+            ],
+            [
+                "ChalcatongoHidalgoMixtec-194_tassel-2",
+                "ChalcatongoHidalgoMixtec",
+                "194_tassel",
+                "\u017e\u00f3ko",
+                "\u0292 <s> <<\u00f3>> </s> k *o/o"
+            ],
+            [
+                "ChalcatongoHidalgoMixtec-194_tassel-3",
+                "ChalcatongoHidalgoMixtec",
+                "194_tassel",
+                "t\u0268k\u00e0-\u017e\u00f3ko",
+                "t *\u0268/\u0268 k <s> <<\u00e0>> </s> + \u0292 <s> <<\u00f3>> </s> k *o/o"
+            ],
+            [
+                "ChalcatongoHidalgoMixtec-195_thorn-2",
+                "ChalcatongoHidalgoMixtec",
+                "195_thorn",
+                "\u0129\u0301\u00f1\u1e79",
+                "*\u0129/\u0129 <s> <<\u0301>> </s> \u0272 <s> <<\u1e79>> </s>"
+            ],
+            [
+                "ChalcatongoHidalgoMixtec-198_urine-2",
+                "ChalcatongoHidalgoMixtec",
+                "198_urine",
+                "t\u00ed-\u0161e\u0161\u00e9",
+                "t <s> <<\u00ed>> </s> + \u0283 *e/e \u0283 <s> <<\u00e9>> </s>"
+            ],
+            [
+                "ChalcatongoHidalgoMixtec-19_cornfield-2",
+                "ChalcatongoHidalgoMixtec",
+                "19_cornfield",
+                "it\u00f9",
+                "*i/i t <s> <<\u00f9>> </s>"
+            ],
+            [
+                "ChalcatongoHidalgoMixtec-202_cockroach-2",
+                "ChalcatongoHidalgoMixtec",
+                "202_cockroach",
+                "ti-te\u0294\u00e9",
+                "t *i/i + t *e/e \u0294 <s> <<\u00e9>> </s>"
+            ],
+            [
+                "ChalcatongoHidalgoMixtec-205_fingernail-3",
+                "ChalcatongoHidalgoMixtec",
+                "205_fingernail",
+                "t\u0129\u0301\u017e\u1e4d",
+                "t *\u0129/\u0129 <s> <<\u0301>> </s> \u0292 <s> <<\u1e4d>> </s>"
+            ],
+            [
+                "ChalcatongoHidalgoMixtec-205_fingernail-4",
+                "ChalcatongoHidalgoMixtec",
+                "205_fingernail",
+                "t\u0129\u0301\u017e\u1e79",
+                "t *\u0129/\u0129 <s> <<\u0301>> </s> \u0292 <s> <<\u1e79>> </s>"
+            ],
+            [
+                "ChalcatongoHidalgoMixtec-205_fingernail-5",
+                "ChalcatongoHidalgoMixtec",
+                "205_fingernail",
+                "t\u0129\u0301\u0129",
+                "t *\u0129/\u0129 <s> <<\u0301>> </s> *\u0129/\u0129"
+            ],
+            [
+                "ChalcatongoHidalgoMixtec-205_fingernail-6",
+                "ChalcatongoHidalgoMixtec",
+                "205_fingernail",
+                "t\u0129\u0301\u0129\u0301",
+                "t *\u0129/\u0129 <s> <<\u0301>> </s> *\u0129/\u0129 <s> <<\u0301>> </s>"
+            ],
+            [
+                "ChalcatongoHidalgoMixtec-206_greenbean-2",
+                "ChalcatongoHidalgoMixtec",
+                "206_greenbean",
+                "nd\u00ec\u010di",
+                "n <s> <<d>> </s> <s> <<\u00ec>> </s> t\u0283 *i/i"
+            ],
+            [
+                "ChalcatongoHidalgoMixtec-207_hawk-3",
+                "ChalcatongoHidalgoMixtec",
+                "207_hawk",
+                "\u0161\u0129\u0301\u0294\u00e3",
+                "\u0283 *\u0129/\u0129 <s> <<\u0301>> </s> \u0294 *\u00e3/\u00e3"
+            ],
+            [
+                "ChalcatongoHidalgoMixtec-208_muroidmouseorrat-1",
+                "ChalcatongoHidalgoMixtec",
+                "208_muroidmouseorrat",
+                "ti\u00f1\u00ed",
+                "t *i/i \u0272 <s> <<\u00ed>> </s>"
+            ],
+            [
+                "ChalcatongoHidalgoMixtec-208_muroidmouseorrat-2",
+                "ChalcatongoHidalgoMixtec",
+                "208_muroidmouseorrat",
+                "t\u0268\u0303\u00f1\u0268\u0303\u0301\u0268\u0303\u0301",
+                "t *\u0268/\u0268 <s> <<\u0303>> </s> \u0272 *\u0268/\u0268 <s> <<\u0303>> </s> <s> <<\u0301>> </s> *\u0268/\u0268 <s> <<\u0303>> </s> <s> <<\u0301>> </s>"
+            ],
+            [
+                "ChalcatongoHidalgoMixtec-20_crosssexsibling-1",
+                "ChalcatongoHidalgoMixtec",
+                "20_crosssexsibling",
+                "k\u02b7\u00e0\u0294a",
+                "k\u02b7 <s> <<\u00e0>> </s> \u0294 *a/a"
+            ],
+            [
+                "ChalcatongoHidalgoMixtec-214_sweetpotato-2",
+                "ChalcatongoHidalgoMixtec",
+                "214_sweetpotato",
+                "\u00f1\u00e3\u0301\u0294m\u0129",
+                "\u0272 *\u00e3/\u00e3 <s> <<\u0301>> </s> \u0294 m *\u0129/\u0129"
+            ],
+            [
+                "ChalcatongoHidalgoMixtec-217_herbaceousplant-3",
+                "ChalcatongoHidalgoMixtec",
+                "217_herbaceousplant",
+                "\u017euk\u00f9",
+                "\u0292 *u/u k <s> <<\u00f9>> </s>"
+            ],
+            [
+                "ChalcatongoHidalgoMixtec-218_maguey-2",
+                "ChalcatongoHidalgoMixtec",
+                "218_maguey",
+                "\u017e\u00e1\u00fa",
+                "\u0292 <s> <<\u00e1>> </s> <s> <<\u00fa>> </s>"
+            ],
+            [
+                "ChalcatongoHidalgoMixtec-220_zapote-1",
+                "ChalcatongoHidalgoMixtec",
+                "220_zapote",
+                "ndoko",
+                "n <s> <<d>> </s> *o/o k *o/o"
+            ],
+            [
+                "ChalcatongoHidalgoMixtec-23_deer-2",
+                "ChalcatongoHidalgoMixtec",
+                "23_deer",
+                "is\u00f9",
+                "*i/i s <s> <<\u00f9>> </s>"
+            ],
+            [
+                "ChalcatongoHidalgoMixtec-25_disease-3",
+                "ChalcatongoHidalgoMixtec",
+                "25_disease",
+                "k\u02b7e\u0294\u00e8",
+                "k\u02b7 *e/e \u0294 <s> <<\u00e8>> </s>"
+            ],
+            [
+                "ChalcatongoHidalgoMixtec-26_dog-2",
+                "ChalcatongoHidalgoMixtec",
+                "26_dog",
+                "in\u00e0",
+                "*i/i n <s> <<\u00e0>> </s>"
+            ],
+            [
+                "ChalcatongoHidalgoMixtec-27_egg-3",
+                "ChalcatongoHidalgoMixtec",
+                "27_egg",
+                "nd\u0268\u00f9",
+                "n <s> <<d>> </s> *\u0268/\u0268 <s> <<\u00f9>> </s>"
+            ],
+            [
+                "ChalcatongoHidalgoMixtec-29_face-1",
+                "ChalcatongoHidalgoMixtec",
+                "29_face",
+                "nu\u00f9",
+                "n *u/u <s> <<\u00f9>> </s>"
+            ],
+            [
+                "ChalcatongoHidalgoMixtec-2_avocado-1",
+                "ChalcatongoHidalgoMixtec",
+                "2_avocado",
+                "t\u0268\u010d\u0268\u0301",
+                "t *\u0268/\u0268 t\u0283 *\u0268/\u0268 <s> <<\u0301>> </s>"
+            ],
+            [
+                "ChalcatongoHidalgoMixtec-32_father-1",
+                "ChalcatongoHidalgoMixtec",
+                "32_father",
+                "t\u00e1a",
+                "t <s> <<\u00e1>> </s> *a/a"
+            ],
+            [
+                "ChalcatongoHidalgoMixtec-34_fish-1",
+                "ChalcatongoHidalgoMixtec",
+                "34_fish",
+                "\u010d\u00e1k\u00e1",
+                "t\u0283 <s> <<\u00e1>> </s> k <s> <<\u00e1>> </s>"
+            ],
+            [
+                "ChalcatongoHidalgoMixtec-36_flower-2",
+                "ChalcatongoHidalgoMixtec",
+                "36_flower",
+                "it\u00e0",
+                "*i/i t <s> <<\u00e0>> </s>"
+            ],
+            [
+                "ChalcatongoHidalgoMixtec-37_foot-2",
+                "ChalcatongoHidalgoMixtec",
+                "37_foot",
+                "xa\u0294\u00e0",
+                "*x/\u0283 *a/a \u0294 <s> <<\u00e0>> </s>"
+            ],
+            [
+                "ChalcatongoHidalgoMixtec-40_grass-2",
+                "ChalcatongoHidalgoMixtec",
+                "40_grass",
+                "i\u010d\u00e1",
+                "*i/i t\u0283 <s> <<\u00e1>> </s>"
+            ],
+            [
+                "ChalcatongoHidalgoMixtec-40_grass-3",
+                "ChalcatongoHidalgoMixtec",
+                "40_grass",
+                "\u00ed\u010d\u00e0",
+                "<s> <<\u00ed>> </s> t\u0283 <s> <<\u00e0>> </s>"
+            ],
+            [
+                "ChalcatongoHidalgoMixtec-41_grasshopper-2",
+                "ChalcatongoHidalgoMixtec",
+                "41_grasshopper",
+                "t\u0268k\u00e0",
+                "t *\u0268/\u0268 k <s> <<\u00e0>> </s>"
+            ],
+            [
+                "ChalcatongoHidalgoMixtec-41_grasshopper-3",
+                "ChalcatongoHidalgoMixtec",
+                "41_grasshopper",
+                "t\u0268-k\u00e0\u00e0",
+                "t *\u0268/\u0268 + k <s> <<\u00e0>> </s> <s> <<\u00e0>> </s>"
+            ],
+            [
+                "ChalcatongoHidalgoMixtec-41_grasshopper-4",
+                "ChalcatongoHidalgoMixtec",
+                "41_grasshopper",
+                "t\u0268k\u00e1",
+                "t *\u0268/\u0268 k <s> <<\u00e1>> </s>"
+            ],
+            [
+                "ChalcatongoHidalgoMixtec-43_hand-1",
+                "ChalcatongoHidalgoMixtec",
+                "43_hand",
+                "nda\u0294a",
+                "n <s> <<d>> </s> *a/a \u0294 *a/a"
+            ],
+            [
+                "ChalcatongoHidalgoMixtec-45_hen-1",
+                "ChalcatongoHidalgoMixtec",
+                "45_hen",
+                "\u010d\u0169\u0300\u0169\u0300",
+                "t\u0283 *\u0169/\u0169 <s> <<\u0300>> </s> *\u0169/\u0169 <s> <<\u0300>> </s>"
+            ],
+            [
+                "ChalcatongoHidalgoMixtec-47_hornanatomy-2",
+                "ChalcatongoHidalgoMixtec",
+                "47_hornanatomy",
+                "nd\u0268k\u0268",
+                "n <s> <<d>> </s> *\u0268/\u0268 k *\u0268/\u0268"
+            ],
+            [
+                "ChalcatongoHidalgoMixtec-4_banana-1",
+                "ChalcatongoHidalgoMixtec",
+                "4_banana",
+                "nd\u00edk\u00e1",
+                "n <s> <<d>> </s> <s> <<\u00ed>> </s> k <s> <<\u00e1>> </s>"
+            ],
+            [
+                "ChalcatongoHidalgoMixtec-53_man-2",
+                "ChalcatongoHidalgoMixtec",
+                "53_man",
+                "\u010d\u00e0\u00e0",
+                "t\u0283 <s> <<\u00e0>> </s> <s> <<\u00e0>> </s>"
+            ],
+            [
+                "ChalcatongoHidalgoMixtec-54_meat-3",
+                "ChalcatongoHidalgoMixtec",
+                "54_meat",
+                "k\u0169\u0300\u00f1\u0169\u0300",
+                "k *\u0169/\u0169 <s> <<\u0300>> </s> \u0272 *\u0169/\u0169 <s> <<\u0300>> </s>"
+            ],
+            [
+                "ChalcatongoHidalgoMixtec-55_medicine-1",
+                "ChalcatongoHidalgoMixtec",
+                "55_medicine",
+                "t\u00e1n\u00e1",
+                "t <s> <<\u00e1>> </s> n <s> <<\u00e1>> </s>"
+            ],
+            [
+                "ChalcatongoHidalgoMixtec-58_mother-1",
+                "ChalcatongoHidalgoMixtec",
+                "58_mother",
+                "n\u00e1a",
+                "n <s> <<\u00e1>> </s> *a/a"
+            ],
+            [
+                "ChalcatongoHidalgoMixtec-6_bellyorstomach-1",
+                "ChalcatongoHidalgoMixtec",
+                "6_bellyorstomach",
+                "\u010d\u00ec\u00ec",
+                "t\u0283 <s> <<\u00ec>> </s> <s> <<\u00ec>> </s>"
+            ],
+            [
+                "ChalcatongoHidalgoMixtec-74_pig-1",
+                "ChalcatongoHidalgoMixtec",
+                "74_pig",
+                "k\u0268n\u0268\u0300",
+                "k *\u0268/\u0268 n *\u0268/\u0268 <s> <<\u0300>> </s>"
+            ],
+            [
+                "ChalcatongoHidalgoMixtec-77_possum-1",
+                "ChalcatongoHidalgoMixtec",
+                "77_possum",
+                "x\u00e0k\u00f2",
+                "*x/\u0283 <s> <<\u00e0>> </s> k <s> <<\u00f2>> </s>"
+            ],
+            [
+                "ChalcatongoHidalgoMixtec-77_possum-2",
+                "ChalcatongoHidalgoMixtec",
+                "77_possum",
+                "x\u00e0ko",
+                "*x/\u0283 <s> <<\u00e0>> </s> k *o/o"
+            ],
+            [
+                "ChalcatongoHidalgoMixtec-78_pricklypearcactus-2",
+                "ChalcatongoHidalgoMixtec",
+                "78_pricklypearcactus",
+                "b\u00ed\u0294\u017ea",
+                "*b/\u03b2 <s> <<\u00ed>> </s> \u0294 \u0292 *a/a"
+            ],
+            [
+                "ChalcatongoHidalgoMixtec-78_pricklypearcactus-3",
+                "ChalcatongoHidalgoMixtec",
+                "78_pricklypearcactus",
+                "b\u00ed\u0294n\u017ea",
+                "*b/\u03b2 <s> <<\u00ed>> </s> \u0294 n \u0292 *a/a"
+            ],
+            [
+                "ChalcatongoHidalgoMixtec-79_priest-2",
+                "ChalcatongoHidalgoMixtec",
+                "79_priest",
+                "sut\u00f9",
+                "s *u/u t <s> <<\u00f9>> </s>"
+            ],
+            [
+                "ChalcatongoHidalgoMixtec-80_pumpkin-2",
+                "ChalcatongoHidalgoMixtec",
+                "80_pumpkin",
+                "\u017e\u0268\u0301k\u0268",
+                "\u0292 *\u0268/\u0268 <s> <<\u0301>> </s> k *\u0268/\u0268"
+            ],
+            [
+                "ChalcatongoHidalgoMixtec-81_rabbit-1",
+                "ChalcatongoHidalgoMixtec",
+                "81_rabbit",
+                "is\u00f2",
+                "*i/i s <s> <<\u00f2>> </s>"
+            ],
+            [
+                "ChalcatongoHidalgoMixtec-81_rabbit-2",
+                "ChalcatongoHidalgoMixtec",
+                "81_rabbit",
+                "is\u00f9",
+                "*i/i s <s> <<\u00f9>> </s>"
+            ],
+            [
+                "ChalcatongoHidalgoMixtec-85_rooster-1",
+                "ChalcatongoHidalgoMixtec",
+                "85_rooster",
+                "l\u00ed\u0294i",
+                "l <s> <<\u00ed>> </s> \u0294 *i/i"
+            ],
+            [
+                "ChalcatongoHidalgoMixtec-87_salt-2",
+                "ChalcatongoHidalgoMixtec",
+                "87_salt",
+                "sa\u00f9",
+                "s *a/a <s> <<\u00f9>> </s>"
+            ],
+            [
+                "ChalcatongoHidalgoMixtec-89_scorpion-2",
+                "ChalcatongoHidalgoMixtec",
+                "89_scorpion",
+                "t\u0268-s\u00fa\u0294m\u00e1",
+                "t *\u0268/\u0268 + s <s> <<\u00fa>> </s> \u0294 m <s> <<\u00e1>> </s>"
+            ],
+            [
+                "ChalcatongoHidalgoMixtec-91_sheep-1",
+                "ChalcatongoHidalgoMixtec",
+                "91_sheep",
+                "r\u0268\u0268\u0300",
+                "<s> <<r>> </s> *\u0268/\u0268 *\u0268/\u0268 <s> <<\u0300>> </s>"
+            ],
+            [
+                "ChalcatongoHidalgoMixtec-95_snake-2",
+                "ChalcatongoHidalgoMixtec",
+                "95_snake",
+                "k\u00f2\u00f2",
+                "k <s> <<\u00f2>> </s> <s> <<\u00f2>> </s>"
+            ],
+            [
+                "ChalcatongoHidalgoMixtec-95_snake-3",
+                "ChalcatongoHidalgoMixtec",
+                "95_snake",
+                "ko\u00f2",
+                "k *o/o <s> <<\u00f2>> </s>"
+            ],
+            [
+                "ChalcatongoHidalgoMixtec-97_sugarcane-2",
+                "ChalcatongoHidalgoMixtec",
+                "97_sugarcane",
+                "ndo\u00f2",
+                "n <s> <<d>> </s> *o/o <s> <<\u00f2>> </s>"
+            ],
+            [
+                "ChalcatongoHidalgoMixtec-9_bird-2",
+                "ChalcatongoHidalgoMixtec",
+                "9_bird",
+                "sa\u00e0",
+                "s *a/a <s> <<\u00e0>> </s>"
+            ]
+        ],
+        "bad_words_count": 192,
+        "bipa_errors": [
+            "<<\u0101>>",
+            "<<\u00e1>>",
+            "<<\u00f9>>",
+            "<<\u00ed>>",
+            "<<\u00e9>>",
+            "<<\u00f2>>",
+            "<<\u00fa>>",
+            "<<\u00e8>>",
+            "<<\u00ec>>",
+            "<<\u1e79>>",
+            "<<d>>",
+            "<<r>>",
+            "<<\u0300>>",
+            "<<\u1e4d>>",
+            "<<\u00e0>>",
+            "<<\u00f3>>",
+            "<<\u0301>>",
+            "<<b>>",
+            "<<\u0303>>"
+        ],
+        "general_errors": 279,
         "invalid_words": [],
         "invalid_words_count": 0,
-        "inventory_size": 39.605839416058394,
+        "inventory_size": 39.729927007299274,
         "replacements": {
             "*'t/\u0294": [
                 "\u0294"
@@ -91954,22 +92732,42 @@
                 "\u207f\u0292"
             ]
         },
-        "sclass_errors": [],
+        "sclass_errors": [
+            "<<\u0101>>",
+            "<<\u00e1>>",
+            "<<\u00f9>>",
+            "<<\u00ed>>",
+            "<<\u00e9>>",
+            "<<\u00f2>>",
+            "<<\u00fa>>",
+            "<<\u00e8>>",
+            "<<\u00ec>>",
+            "<<\u1e79>>",
+            "<<d>>",
+            "<<r>>",
+            "<<\u0300>>",
+            "<<\u1e4d>>",
+            "<<\u00e0>>",
+            "<<\u00f3>>",
+            "<<\u0301>>",
+            "<<b>>",
+            "<<\u0303>>"
+        ],
         "segments": {
             "*'t/\u0294": 3,
             "*'\u00b9/\u0294": 27,
             "*'\u2074/\u0294": 5,
             "*^i\u0320/i": 10,
-            "*a/a": 6866,
+            "*a/a": 6921,
             "*an/\u00e3": 72,
             "*a\u0320/a": 158,
             "*a\u0327/\u00e3": 1759,
-            "*b/\u03b2": 90,
+            "*b/\u03b2": 101,
             "*d/\u00f0": 123,
-            "*e/e": 2326,
+            "*e/e": 2337,
             "*e\u0320/e": 6,
             "*h/\u0294": 856,
-            "*i/i": 7667,
+            "*i/i": 7706,
             "*i\u0320/i": 168,
             "*i\u0320n/\u0129": 11,
             "*i\u0327/\u0129": 2573,
@@ -91977,7 +92775,7 @@
             "*j/h": 351,
             "*kua/k\u02b7": 21,
             "*kui/k\u02b7": 3,
-            "*o/o": 2300,
+            "*o/o": 2320,
             "*on/\u00f5": 13,
             "*oon/\u00f5": 6,
             "*o\u0320/o": 55,
@@ -91985,7 +92783,7 @@
             "*r/\u027e": 184,
             "*tya/t\u02b2": 14,
             "*tyi/t\u02b2": 17,
-            "*u/u": 5291,
+            "*u/u": 5326,
             "*un/\u0169": 78,
             "*uun/\u0169": 14,
             "*u\u0320/u": 89,
@@ -91993,7 +92791,7 @@
             "*u\u0327u\u0327n/\u0169": 1,
             "*u\u0327u\u0327\u207f/\u0169": 1,
             "*w/\u03b2": 982,
-            "*x/\u0283": 919,
+            "*x/\u0283": 938,
             "*x\u02b7/\u0283\u02b7": 12,
             "*x\u02b8/x\u02b2": 21,
             "*y/j": 1718,
@@ -92012,15 +92810,15 @@
             "*\u00b9/\u00b9": 299,
             "*\u00b9\u00b3/\u2075\u00b3": 10,
             "*\u00b9\u2074/\u00b9\u2075": 16,
-            "*\u00e3/\u00e3": 53,
+            "*\u00e3/\u00e3": 69,
             "*\u00fc/\u0289": 67,
-            "*\u0129/\u0129": 34,
+            "*\u0129/\u0129": 57,
             "*\u012b/i": 198,
             "*\u012b\u0327/\u0129": 65,
-            "*\u0169/\u0169": 25,
+            "*\u0169/\u0169": 57,
             "*\u0229/\u1ebd": 168,
             "*\u025b/e": 6,
-            "*\u0268/\u0268": 853,
+            "*\u0268/\u0268": 907,
             "*\u0268\u0327/\u0268\u0303": 336,
             "*\u2074/\u00b2": 219,
             "*\u2074/\u2074": 132,
@@ -92032,9 +92830,28 @@
             "*\u2075\u00b3/\u00b9\u00b3": 12,
             "*\u2075\u2074/\u00b9\u00b2": 1,
             "*\u207fj/\u207f\u0292": 3,
-            "+": 1663,
+            "+": 1676,
+            "<<b>>": 2,
+            "<<d>>": 20,
+            "<<r>>": 1,
+            "<<\u00e0>>": 34,
+            "<<\u00e1>>": 32,
+            "<<\u00e8>>": 4,
+            "<<\u00e9>>": 8,
+            "<<\u00ec>>": 11,
+            "<<\u00ed>>": 33,
+            "<<\u00f2>>": 14,
+            "<<\u00f3>>": 4,
+            "<<\u00f9>>": 16,
+            "<<\u00fa>>": 17,
+            "<<\u0101>>": 1,
+            "<<\u0300>>": 21,
+            "<<\u0301>>": 41,
+            "<<\u0303>>": 10,
+            "<<\u1e4d>>": 1,
+            "<<\u1e79>>": 9,
             "a": 2338,
-            "d": 483,
+            "d": 443,
             "dz": 46,
             "d\u0292": 3,
             "e": 514,
@@ -92052,16 +92869,16 @@
             "j": 2,
             "j\u02d0": 6,
             "j\u0303": 43,
-            "k": 3992,
+            "k": 4046,
             "k\u02b2": 3,
-            "k\u02b7": 1359,
+            "k\u02b7": 1375,
             "k\u02b7\u02b2": 1,
             "k\u207f": 4,
-            "l": 628,
+            "l": 635,
             "l\u02b2": 3,
-            "m": 1250,
+            "m": 1261,
             "m\u02d0": 6,
-            "n": 3786,
+            "n": 3798,
             "n\u02b2": 3,
             "n\u02d0": 32,
             "n\u0325": 134,
@@ -92070,13 +92887,13 @@
             "p": 23,
             "r": 6,
             "r\u02d0": 31,
-            "s": 2010,
+            "s": 2032,
             "s\u02b2": 17,
-            "t": 4186,
+            "t": 4233,
             "ts": 323,
             "ts\u02b2": 18,
             "t\u0255": 19,
-            "t\u0283": 1801,
+            "t\u0283": 1823,
             "t\u0283\u02b2": 3,
             "t\u02b2": 259,
             "t\u207f": 108,
@@ -92098,7 +92915,7 @@
             "\u00b9\u02b0/h": 6,
             "\u00b9\u02c0/\u0294": 13,
             "\u00b9\u2075": 329,
-            "\u00e3": 503,
+            "\u00e3": 506,
             "\u00e3\u02c0": 11,
             "\u00f0": 943,
             "\u00f5": 108,
@@ -92117,20 +92934,20 @@
             "\u0268\u0325": 1,
             "\u026f": 28,
             "\u026f\u0303\u02c0": 2,
-            "\u0272": 2441,
+            "\u0272": 2466,
             "\u0272\u0325": 8,
             "\u0282": 100,
             "\u0282\u02b2": 1,
             "\u0282\u02b3": 1,
-            "\u0283": 1291,
+            "\u0283": 1310,
             "\u0283\u02b2": 6,
             "\u0288\u0282": 34,
             "\u0288\u0282\u02b2": 1,
             "\u0289": 83,
             "\u0290": 9,
             "\u0291": 1,
-            "\u0292": 1260,
-            "\u0294": 5269,
+            "\u0292": 1301,
+            "\u0294": 5327,
             "\u0294\u02b2": 1,
             "\u02c0e/e": 1,
             "\u02c0n": 3,
@@ -92150,7 +92967,7 @@
             "\u2075": 2767,
             "\u2075\u00b3": 1,
             "\u2075\u00b9": 130,
-            "\u207fd": 1698,
+            "\u207fd": 1738,
             "\u207fd\u0292": 102,
             "\u207fd\u02b2": 85,
             "\u207fg": 13,

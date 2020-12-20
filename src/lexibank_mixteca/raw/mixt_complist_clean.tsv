@@ -31,7 +31,7 @@ ID	DOCULECT	CONCEPT	SPANISH_GLOSS	VALUE	FORM	IDlist	CONCEPTICON_ID	LOAN	LOAN_SOU
 20782	SanAndresYutatioMixtec	MOTHER	madre	naná	naná	1	1216			williams2017diccionario		yuta13
 1005	AlacatlatzalaMixtec	MOTHER	mother	sīhí	sīhí	1	1216			zylstra1991syntactic		alac11
 4494	AlacatlatzalaMixtec	MOTHER	madre	si'í	si'í	1	1216			zylstra2012gramatica		alac11
-21211	ChalcatongoHidalgoMixtec	MOTHER	mother	náa	náa	1	1216	NA	NA	macaulay1996grammar		chal11
+21211	ChalcatongoHidalgoMixtec	MOTHER	mother	náa	náa	1	1216			macaulay1996grammar		chal11
 5083	SanEstebanAtatlahucaMixtec	MOTHER VOCATIVE	mamá!	nánā	nánā	2				alexander1980gramatica	[C]	atat11
 496	SantoTomasOcotepecMixtec	MOTHER VOCATIVE	mother!, mom!	nāná	nāná	2				alexander1988syntactic		ocot11
 5201	SantaMariaPapaloCuicatec	MOTHER VOCATIVE	mamá!	na⁴na¹	na⁴na¹	2				anderson1983diccionario		papa11
@@ -92,7 +92,7 @@ ID	DOCULECT	CONCEPT	SPANISH_GLOSS	VALUE	FORM	IDlist	CONCEPTICON_ID	LOAN	LOAN_SOU
 20784	SanAndresYutatioMixtec	FATHER	padre	tatá	tatá	3	1217			williams2017diccionario		yuta13
 1007	AlacatlatzalaMixtec	FATHER	father	yīvā	yīvā	3	1217			zylstra1991syntactic		alac11
 4496	AlacatlatzalaMixtec	FATHER	padre	yivá	yivá	3	1217			zylstra2012gramatica		alac11
-21212	ChalcatongoHidalgoMixtec	FATHER	father	táa	táa	3	1217	NA	NA	macaulay1996grammar		chal11
+21212	ChalcatongoHidalgoMixtec	FATHER	father	táa	táa	3	1217			macaulay1996grammar		chal11
 1290	ConcepcionPapaloCuicatec	FATHER VOCATIVE	father!, dad!	táta	táta	4				bradley1991preliminary		conc11
 6119	ElJicaralMixtec	FATHER VOCATIVE	papá!	tá	tá	4				Emily John-Martin		jica13
 1364	SantiagoYosonduaMixtec	FATHER VOCATIVE	father!, dad!	papá	papá	4		yes	Spanish	farris1992syntactic		yoso11
@@ -289,7 +289,7 @@ ID	DOCULECT	CONCEPT	SPANISH_GLOSS	VALUE	FORM	IDlist	CONCEPTICON_ID	LOAN	LOAN_SOU
 20786	SanAndresYutatioMixtec	CHILD (DESCENDANT)	hijo/hija	de̠'e	de̠'e	5	1801			williams2017diccionario		yuta13
 1008	AlacatlatzalaMixtec	CHILD (DESCENDANT)	son/daughter, child	sāhya	sāhya	5	1801			zylstra1991syntactic		alac11
 4498	AlacatlatzalaMixtec	CHILD (DESCENDANT)	hijo/hija	sa̠'ya	sa̠'ya	5	1801			zylstra2012gramatica		alac11
-21213	ChalcatongoHidalgoMixtec	CHILD (DESCENDANT)	son/daughter, child	seʔe	seʔe	5	1801	NA	NA	macaulay1996grammar		chal11
+21213	ChalcatongoHidalgoMixtec	CHILD (DESCENDANT)	son/daughter, child	seʔe	seʔe	5	1801			macaulay1996grammar		chal11
 1832	SanPedroySanPabloTeposcolula1600Mixtec	SON	hijo	deqtata	deqtata	6	1620			alvarado1593vocabulario		tepo01
 1831	SanPedroySanPabloTeposcolula1600Mixtec	SON	hijo	dzaya	dzaya	6	1620			alvarado1593vocabulario		tepo01
 5205	SantaMariaPapaloCuicatec	SON	hijo	sa²'an⁴ da³ya³	sa²'an⁴-da³ya³	6	1620			anderson1983diccionario		papa11
@@ -300,7 +300,7 @@ ID	DOCULECT	CONCEPT	SPANISH_GLOSS	VALUE	FORM	IDlist	CONCEPTICON_ID	LOAN	LOAN_SOU
 21007	SanAndresChicahuaxtlaTriqui	SON	hijo	da³ˀnĩ³² # ta³ˀu³²	da³ˀnĩ³²-ta³ˀu³²	6	1620			hernandez-mendoza2020vocabulario		chic12
 4853	MagdalenaPenascoMixtec	SON	hijo	sàyìi	sà-yìi	6	1620			hollenbach2017diccionario	[A]	pena11
 619	SanJeronimoProgresoMixtec	SON	son	xahyī taā	xahyī-taā	6	1620			shields1988syntactic		prog12
-21214	ChalcatongoHidalgoMixtec	SON	son	sežíí	se-žíí	6	1620	NA	NA	macaulay1996grammar		chal11
+21214	ChalcatongoHidalgoMixtec	SON	son	sežíí	se-žíí	6	1620			macaulay1996grammar		chal11
 499	SantoTomasOcotepecMixtec	DAUGHTER	daughter	sehē síhi	sehē-síhi	7	1357			alexander1988syntactic		ocot11
 1833	SanPedroySanPabloTeposcolula1600Mixtec	DAUGHTER	hija	dzayadzehe	dzaya-dzehe	7	1357			alvarado1593vocabulario		tepo01
 5206	SantaMariaPapaloCuicatec	DAUGHTER	hija	ta¹'an⁴ da³ya³	ta¹'an⁴-da³ya³	7	1357			anderson1983diccionario		papa11
@@ -310,7 +310,7 @@ ID	DOCULECT	CONCEPT	SPANISH_GLOSS	VALUE	FORM	IDlist	CONCEPTICON_ID	LOAN	LOAN_SOU
 21008	SanAndresChicahuaxtlaTriqui	DAUGHTER	hija	da³ˀnĩ³² # ʃa³na¹	da³ˀnĩ³²-ʃa³na¹	7	1357			hernandez-mendoza2020vocabulario		chic12
 4854	MagdalenaPenascoMixtec	DAUGHTER	hija	sàsí'í	sà-sí'í	7	1357			hollenbach2017diccionario		pena11
 886	SanJuanCoatzospamMixtec	DAUGHTER	daughter	dyōkó	dyōkó	7	1357			small1990syntactic		coat11
-21215	ChalcatongoHidalgoMixtec	DAUGHTER	daughter	sesɨ́ʔɨ́	se-sɨ́ʔɨ́	7	1357	NA	NA	macaulay1996grammar		chal11
+21215	ChalcatongoHidalgoMixtec	DAUGHTER	daughter	sesɨ́ʔɨ́	se-sɨ́ʔɨ́	7	1357			macaulay1996grammar		chal11
 5086	SanEstebanAtatlahucaMixtec	CROSS-SEX SIBLING	hermana/hermano de otro genero	cuāha	cuāha	8				alexander1980gramatica	[A]	atat11
 500	SantoTomasOcotepecMixtec	CROSS-SEX SIBLING	cross-sex sibling	kwahā	kwahā	8				alexander1988syntactic		ocot11
 1834	SanPedroySanPabloTeposcolula1600Mixtec	CROSS-SEX SIBLING	hermana/hermano de otro genero	cuhua	cuhua	8				alvarado1593vocabulario		tepo01
@@ -350,7 +350,7 @@ ID	DOCULECT	CONCEPT	SPANISH_GLOSS	VALUE	FORM	IDlist	CONCEPTICON_ID	LOAN	LOAN_SOU
 20787	SanAndresYutatioMixtec	CROSS-SEX SIBLING	hermana/hermano de otro genero	ki̠'o	ki̠'o	8				williams2017diccionario		yuta13
 1009	AlacatlatzalaMixtec	CROSS-SEX SIBLING	cross-sex sibling	kīhvā	kīhvā	8				zylstra1991syntactic		alac11
 4499	AlacatlatzalaMixtec	CROSS-SEX SIBLING	hermana/hermano de otro genero	ki̠'va̠	ki̠'va̠	8				zylstra2012gramatica		alac11
-21216	ChalcatongoHidalgoMixtec	CROSS-SEX SIBLING	cross-sex sibling	kʷàʔa	kʷàʔa	8	NA	NA	NA	macaulay1996grammar		chal11
+21216	ChalcatongoHidalgoMixtec	CROSS-SEX SIBLING	cross-sex sibling	kʷàʔa	kʷàʔa	8				macaulay1996grammar		chal11
 5208	SantaMariaPapaloCuicatec	BROTHER	hermano, hermanastro	d'i³nu⁴	d'i³nu⁴	9	1262			anderson1983diccionario		papa11
 1643	SanAndresChicahuaxtla1890Triqui	BROTHER	hermano	Tînêha	tînêha	9	1262			belmar1897ensayo		chic02
 5416	SanJuanTepeuxila1900Mixtec	BROTHER	hermano	ndinu	ndinu	9	1262			belmar1902el-cuicateco		tepe03
@@ -521,7 +521,7 @@ ID	DOCULECT	CONCEPT	SPANISH_GLOSS	VALUE	FORM	IDlist	CONCEPTICON_ID	LOAN	LOAN_SOU
 20788	SanAndresYutatioMixtec	BROTHER (OF MAN)	hermano de hombre	ñani	ñani	9	559			williams2017diccionario		yuta13
 1010	AlacatlatzalaMixtec	BROTHER (OF MAN)	brother of man	ñānī	ñānī	9	559			zylstra1991syntactic		alac11
 4500	AlacatlatzalaMixtec	BROTHER (OF MAN)	hermano de hombre	ñani	ñani	9	559			zylstra2012gramatica		alac11
-21217	ChalcatongoHidalgoMixtec	BROTHER (OF MAN)	brother of man	ñáni	ñáni	9	559	NA	NA	macaulay1996grammar		chal11
+21217	ChalcatongoHidalgoMixtec	BROTHER (OF MAN)	brother of man	ñáni	ñáni	9	559			macaulay1996grammar		chal11
 5209	SantaMariaPapaloCuicatec	SISTER	hermana, hermanastra	ta¹'an⁴ vi²'i⁴	ta¹'an⁴-vi²'i⁴	10	1263			anderson1983diccionario		papa11
 1644	SanAndresChicahuaxtla1890Triqui	SISTER	hermana	Chughueha	chughueha	10	1263			belmar1897ensayo		chic02
 5417	SanJuanTepeuxila1900Mixtec	SISTER	hermana	kaba	kaba	10	1263			belmar1902el-cuicateco		tepe03
@@ -564,7 +564,7 @@ ID	DOCULECT	CONCEPT	SPANISH_GLOSS	VALUE	FORM	IDlist	CONCEPTICON_ID	LOAN	LOAN_SOU
 20789	SanAndresYutatioMixtec	SISTER (OF WOMAN)	hermana de mujer	ku'u̠	ku'u̠	10				williams2017diccionario		yuta13
 1011	AlacatlatzalaMixtec	SISTER (OF WOMAN)	sister of woman	kihvi	kihvi	10				zylstra1991syntactic		alac11
 4501	AlacatlatzalaMixtec	SISTER (OF WOMAN)	hermana de mujer	ki̠'vi̠	ki̠'vi̠	10				zylstra2012gramatica		alac11
-21218	ChalcatongoHidalgoMixtec	SISTER (OF WOMAN)	sister of woman	kúʔu	kúʔu	10	NA	NA	NA	macaulay1996grammar		chal11
+21218	ChalcatongoHidalgoMixtec	SISTER (OF WOMAN)	sister of woman	kúʔu	kúʔu	10				macaulay1996grammar		chal11
 503	SantoTomasOcotepecMixtec	AUNT	aunt	shīshi	shīshi	11	1272			alexander1988syntactic		ocot11
 1837	SanPedroySanPabloTeposcolula1600Mixtec	AUNT	tía	dzidzindi	dzidzi	11	1272			alvarado1593vocabulario		tepo01
 179	SantaMariaYolotepecMixtec	AUNT	tía	xi³xi²	xi³xi²	11	1272			amith2020yoloxochitl		yolo11
@@ -612,7 +612,7 @@ ID	DOCULECT	CONCEPT	SPANISH_GLOSS	VALUE	FORM	IDlist	CONCEPTICON_ID	LOAN	LOAN_SOU
 20790	SanAndresYutatioMixtec	AUNT	tía	didi	didi	11	1272			williams2017diccionario		yuta13
 1012	AlacatlatzalaMixtec	AUNT	aunt	sīsī	sīsī	11	1272			zylstra1991syntactic		alac11
 4502	AlacatlatzalaMixtec	AUNT	tía	sisi	sisi	11	1272			zylstra2012gramatica		alac11
-21219	ChalcatongoHidalgoMixtec	AUNT	aunt	šiì	šiì	11	1272	NA	NA	macaulay1996grammar		chal11
+21219	ChalcatongoHidalgoMixtec	AUNT	aunt	šiì	šiì	11	1272			macaulay1996grammar		chal11
 504	SantoTomasOcotepecMixtec	UNCLE	uncle	shīto	shīto	12	1327			alexander1988syntactic		ocot11
 1838	SanPedroySanPabloTeposcolula1600Mixtec	UNCLE	tío	dzito	dzito	12	1327			alvarado1593vocabulario		tepo01
 180	SantaMariaYolotepecMixtec	UNCLE	tío	xi³to²	xi³to²	12	1327			amith2020yoloxochitl		yolo11
@@ -662,7 +662,7 @@ ID	DOCULECT	CONCEPT	SPANISH_GLOSS	VALUE	FORM	IDlist	CONCEPTICON_ID	LOAN	LOAN_SOU
 20791	SanAndresYutatioMixtec	UNCLE	tío	dito	dito	12	1327			williams2017diccionario		yuta13
 1013	AlacatlatzalaMixtec	UNCLE	uncle	sītō	sītō	12	1327			zylstra1991syntactic		alac11
 4503	AlacatlatzalaMixtec	UNCLE	tío	sito	sito	12	1327			zylstra2012gramatica		alac11
-21220	ChalcatongoHidalgoMixtec	UNCLE	uncle	stoò	stoò	12	1327	NA	NA	macaulay1996grammar		chal11
+21220	ChalcatongoHidalgoMixtec	UNCLE	uncle	stoò	stoò	12	1327			macaulay1996grammar		chal11
 5088	SanEstebanAtatlahucaMixtec	MAN	hombre	tēe	tēe	13	1554			alexander1980gramatica	[A]	atat11
 505	SantoTomasOcotepecMixtec	MAN	man	tēe	tēe	13	1554			alexander1988syntactic		ocot11
 1839	SanPedroySanPabloTeposcolula1600Mixtec	MAN	hombre	taiyee ~ tay yee	tay-yee	13	1554			alvarado1593vocabulario		tepo01
@@ -840,7 +840,7 @@ ID	DOCULECT	CONCEPT	SPANISH_GLOSS	VALUE	FORM	IDlist	CONCEPTICON_ID	LOAN	LOAN_SOU
 20792	SanAndresYutatioMixtec	MAN	hombre	ta̠a	ta̠a	13	1554			williams2017diccionario		yuta13
 1014	AlacatlatzalaMixtec	MAN	man	taā	taā	13	1554			zylstra1991syntactic		alac11
 4504	AlacatlatzalaMixtec	MAN	hombre	ta̠a	ta̠a	13	1554			zylstra2012gramatica		alac11
-21221	ChalcatongoHidalgoMixtec	MAN	man	čàà	čàà	13	1554	NA	NA	macaulay1996grammar		chal11
+21221	ChalcatongoHidalgoMixtec	MAN	man	čàà	čàà	13	1554			macaulay1996grammar		chal11
 5089	SanEstebanAtatlahucaMixtec	WOMAN	mujer	ñahan	ñahan	14	962			alexander1980gramatica	[A]	atat11
 506	SantoTomasOcotepecMixtec	WOMAN	woman	ñāhān	ñāhān	14	962			alexander1988syntactic		ocot11
 1840	SanPedroySanPabloTeposcolula1600Mixtec	WOMAN	mujer	ñahadzehe	ñaha-dzehe	14	962			alvarado1593vocabulario		tepo01
@@ -884,7 +884,7 @@ ID	DOCULECT	CONCEPT	SPANISH_GLOSS	VALUE	FORM	IDlist	CONCEPTICON_ID	LOAN	LOAN_SOU
 20793	SanAndresYutatioMixtec	WOMAN	mujer	ñá'a̠	ñá'a̠	14	962			williams2017diccionario		yuta13
 1015	AlacatlatzalaMixtec	WOMAN	woman	ñáha	ñáha	14	962			zylstra1991syntactic		alac11
 4505	AlacatlatzalaMixtec	WOMAN	mujer	ña'a̠n	ña'a̠n	14	962			zylstra2012gramatica		alac11
-21222	ChalcatongoHidalgoMixtec	WOMAN	woman	ñãʔã	ñãʔã	14	962	NA	NA	macaulay1996grammar		chal11
+21222	ChalcatongoHidalgoMixtec	WOMAN	woman	ñãʔã	ñãʔã	14	962			macaulay1996grammar		chal11
 507	SantoTomasOcotepecMixtec	OWNER	owner	xe-tōho	xe-tōho	15	1036			alexander1988syntactic		ocot11
 1841	SanPedroySanPabloTeposcolula1600Mixtec	OWNER	dueño	tay dzi ~ si yahui	si-yahui	15	1036			alvarado1593vocabulario		tepo01
 183	SantaMariaYolotepecMixtec	OWNER	dueño	is¹to'³o²	is¹to'³o²	15	1036			amith2020yoloxochitl		yolo11
@@ -1125,7 +1125,7 @@ ID	DOCULECT	CONCEPT	SPANISH_GLOSS	VALUE	FORM	IDlist	CONCEPTICON_ID	LOAN	LOAN_SOU
 20795	SanAndresYutatioMixtec	PRIEST	sacerdote	duti̠	duti̠	16	852			williams2017diccionario		yuta13
 1017	AlacatlatzalaMixtec	PRIEST	priest	sutu	sutu	16	852			zylstra1991syntactic		alac11
 4506	AlacatlatzalaMixtec	PRIEST	sacerdote	su̠tu̠	su̠tu̠	16	852			zylstra2012gramatica		alac11
-21223	ChalcatongoHidalgoMixtec	PRIEST	priest	sutù	sutù	16	852	NA	NA	macaulay1996grammar		chal11
+21223	ChalcatongoHidalgoMixtec	PRIEST	priest	sutù	sutù	16	852			macaulay1996grammar		chal11
 1843	SanPedroySanPabloTeposcolula1600Mixtec	BLOOD	sangre	neñe	neñe	17	946			alvarado1593vocabulario		tepo01
 185	SantaMariaYolotepecMixtec	BLOOD	sangre	ni¹i⁴	ni¹i⁴	17	946			amith2020yoloxochitl		yolo11
 5217	SantaMariaPapaloCuicatec	BLOOD	sangre	yun³	yun³	17	946			anderson1983diccionario		papa11
@@ -1279,7 +1279,7 @@ ID	DOCULECT	CONCEPT	SPANISH_GLOSS	VALUE	FORM	IDlist	CONCEPTICON_ID	LOAN	LOAN_SOU
 5587	YucuquimiOcampoMixtec	BLOOD	sangre	ɲi¹i¹	ɲi¹i¹	17	946			swanton2020observaciones		yucu16
 4374	SantaMariaZacatepecMixtec	BLOOD	sangre	nií	nií	17	946			towne2011gramatica		zaca11
 20796	SanAndresYutatioMixtec	BLOOD	sangre	nii̠	nii̠	17	946			williams2017diccionario		yuta13
-21224	ChalcatongoHidalgoMixtec	BLOOD	blood	nɨ́ñɨ̀	nɨ́ñɨ̀	17	946	NA	NA	macaulay1996grammar		chal11
+21224	ChalcatongoHidalgoMixtec	BLOOD	blood	nɨ́ñɨ̀	nɨ́ñɨ̀	17	946			macaulay1996grammar		chal11
 5091	SanEstebanAtatlahucaMixtec	BONE	hueso	yɨquɨ	yɨquɨ	18	1394			alexander1980gramatica	[A]	atat11
 1844	SanPedroySanPabloTeposcolula1600Mixtec	BONE	hueso	yeque	yeque	18	1394			alvarado1593vocabulario		tepo01
 186	SantaMariaYolotepecMixtec	BONE	hueso	i³ki⁴	i³ki⁴	18	1394			amith2020yoloxochitl		yolo11
@@ -1320,7 +1320,7 @@ ID	DOCULECT	CONCEPT	SPANISH_GLOSS	VALUE	FORM	IDlist	CONCEPTICON_ID	LOAN	LOAN_SOU
 20798	SanAndresYutatioMixtec	BONE	hueso	yikí lásá	yikí-lásá	18	1394			williams2017diccionario		yuta13
 1018	AlacatlatzalaMixtec	BONE	bone	yīki	yīki	18	1394			zylstra1991syntactic		alac11
 4508	AlacatlatzalaMixtec	BONE	hueso	leke	leke	18	1394			zylstra2012gramatica		alac11
-21225	ChalcatongoHidalgoMixtec	BONE	bone	žɨkɨ	žɨkɨ	18	1394	NA	NA	macaulay1996grammar		chal11
+21225	ChalcatongoHidalgoMixtec	BONE	bone	žɨkɨ	žɨkɨ	18	1394			macaulay1996grammar		chal11
 509	SantoTomasOcotepecMixtec	HAIR	hair	īshī	īshī	19	1040			alexander1988syntactic		ocot11
 1845	SanPedroySanPabloTeposcolula1600Mixtec	HAIR	pelo	idzi	idzi	19	1040			alvarado1593vocabulario		tepo01
 187	SantaMariaYolotepecMixtec	HAIR	cabello	i³xi⁴	i³xi⁴	19	1040			amith2020yoloxochitl		yolo11
@@ -1359,7 +1359,7 @@ ID	DOCULECT	CONCEPT	SPANISH_GLOSS	VALUE	FORM	IDlist	CONCEPTICON_ID	LOAN	LOAN_SOU
 20799	SanAndresYutatioMixtec	HAIR	pelo	ídi̠	ídi̠	19	1040			williams2017diccionario		yuta13
 1019	AlacatlatzalaMixtec	HAIR	hair	īsí	īsí	19	1040			zylstra1991syntactic		alac11
 4509	AlacatlatzalaMixtec	HAIR	pelo	yisi̠	yisi̠	19	1040			zylstra2012gramatica		alac11
-21226	ChalcatongoHidalgoMixtec	HAIR	hair	iši	iši	19	1040	NA	NA	macaulay1996grammar		chal11
+21226	ChalcatongoHidalgoMixtec	HAIR	hair	iši	iši	19	1040			macaulay1996grammar		chal11
 5092	SanEstebanAtatlahucaMixtec	FACE	cara	nuū	nuū	20	1560			alexander1980gramatica	[C]	atat11
 510	SantoTomasOcotepecMixtec	FACE	face	nuu	nuu	20	1560			alexander1988syntactic		ocot11
 1846	SanPedroySanPabloTeposcolula1600Mixtec	FACE	cara	nuu	nuu	20	1560			alvarado1593vocabulario		tepo01
@@ -1409,7 +1409,7 @@ ID	DOCULECT	CONCEPT	SPANISH_GLOSS	VALUE	FORM	IDlist	CONCEPTICON_ID	LOAN	LOAN_SOU
 20800	SanAndresYutatioMixtec	FACE	cara	noo̠	noo̠	20	1560			williams2017diccionario		yuta13
 1020	AlacatlatzalaMixtec	FACE	face	noo	noo	20	1560			zylstra1991syntactic		alac11
 4510	AlacatlatzalaMixtec	FACE	cara	no̠o̠	no̠o̠	20	1560			zylstra2012gramatica		alac11
-21227	ChalcatongoHidalgoMixtec	FACE	face	nuù	nuù	20	1560	NA	NA	macaulay1996grammar		chal11
+21227	ChalcatongoHidalgoMixtec	FACE	face	nuù	nuù	20	1560			macaulay1996grammar		chal11
 1847	SanPedroySanPabloTeposcolula1600Mixtec	TONGUE	lengua	yaa	yaa	21	1205			alvarado1593vocabulario		tepo01
 189	SantaMariaYolotepecMixtec	TONGUE	lengua	ya⁴a²⁴	ya⁴a²⁴	21	1205			amith2020yoloxochitl		yolo11
 5221	SantaMariaPapaloCuicatec	TONGUE	lengua	ch'i³ya³	ch'i³ya³	21	1205			anderson1983diccionario		papa11
@@ -1447,7 +1447,7 @@ ID	DOCULECT	CONCEPT	SPANISH_GLOSS	VALUE	FORM	IDlist	CONCEPTICON_ID	LOAN	LOAN_SOU
 5595	SantaMariaZacatepecMixtec	TONGUE	lengua	ja¹a¹ʔ	ja¹a¹ʔ	21	1205			swanton2020observaciones		zaca11
 5597	YucuquimiOcampoMixtec	TONGUE	lengua	ja³a¹	ja³a¹	21	1205			swanton2020observaciones		yucu16
 20801	SanAndresYutatioMixtec	TONGUE	lengua	yáa̠	yáa̠	21	1205			williams2017diccionario		yuta13
-21228	ChalcatongoHidalgoMixtec	TONGUE	tongue	žaa	žaa	21	1205	NA	NA	macaulay1996grammar		chal11
+21228	ChalcatongoHidalgoMixtec	TONGUE	tongue	žaa	žaa	21	1205			macaulay1996grammar		chal11
 1848	SanPedroySanPabloTeposcolula1600Mixtec	TOOTH	diente	noho	noho	22	1380			alvarado1593vocabulario		tepo01
 190	SantaMariaYolotepecMixtec	TOOTH	diente	nu'¹u³	nu'¹u³	22	1380			amith2020yoloxochitl		yolo11
 5222	SantaMariaPapaloCuicatec	TOOTH	diente	d'i²yun²	d'i²yun²	22	1380			anderson1983diccionario		papa11
@@ -1573,7 +1573,7 @@ ID	DOCULECT	CONCEPT	SPANISH_GLOSS	VALUE	FORM	IDlist	CONCEPTICON_ID	LOAN	LOAN_SOU
 4693	XochapaMixtec	TOOTH	diente	nu̠'u	nu̠'u	22	1380			stark2013diccionario		xoch11
 20802	SanAndresYutatioMixtec	TOOTH	diente	no̠'o	no̠'o	22	1380			williams2017diccionario		yuta13
 4511	AlacatlatzalaMixtec	TOOTH	diente	no'o̠n	no'o̠n	22	1380			zylstra2012gramatica		alac11
-21229	ChalcatongoHidalgoMixtec	TOOTH	tooth	nũʔũ	nũʔũ	22	1380	NA	NA	macaulay1996grammar		chal11
+21229	ChalcatongoHidalgoMixtec	TOOTH	tooth	nũʔũ	nũʔũ	22	1380			macaulay1996grammar		chal11
 5093	SanEstebanAtatlahucaMixtec	MOUTH	boca	yuhu	yuhu	23	674			alexander1980gramatica	[A]	atat11
 511	SantoTomasOcotepecMixtec	MOUTH	mouth	yūhú	yūhú	23	674			alexander1988syntactic		ocot11
 1849	SanPedroySanPabloTeposcolula1600Mixtec	MOUTH	boca	yuhu	yuhu	23	674			alvarado1593vocabulario		tepo01
@@ -1724,7 +1724,7 @@ ID	DOCULECT	CONCEPT	SPANISH_GLOSS	VALUE	FORM	IDlist	CONCEPTICON_ID	LOAN	LOAN_SOU
 20803	SanAndresYutatioMixtec	MOUTH	boca	yú'u̠	yú'u̠	23	674			williams2017diccionario		yuta13
 1021	AlacatlatzalaMixtec	MOUTH	mouth	yūhu	yūhu	23	674			zylstra1991syntactic		alac11
 4512	AlacatlatzalaMixtec	MOUTH	boca	yu'u̠	yu'u̠	23	674			zylstra2012gramatica		alac11
-21230	ChalcatongoHidalgoMixtec	MOUTH	mouth	žuʔu	žuʔu	23	674	NA	NA	macaulay1996grammar		chal11
+21230	ChalcatongoHidalgoMixtec	MOUTH	mouth	žuʔu	žuʔu	23	674			macaulay1996grammar		chal11
 512	SantoTomasOcotepecMixtec	EAR	ear	shitin	shitin	24	1247			alexander1988syntactic		ocot11
 1851	SanPedroySanPabloTeposcolula1600Mixtec	EAR	oreja	dzoho	dzoho	24	1247			alvarado1593vocabulario		tepo01
 1850	SanPedroySanPabloTeposcolula1600Mixtec	EAR	oreja	tutnu	tutnu	24	1247			alvarado1593vocabulario		tepo01
@@ -1888,7 +1888,7 @@ ID	DOCULECT	CONCEPT	SPANISH_GLOSS	VALUE	FORM	IDlist	CONCEPTICON_ID	LOAN	LOAN_SOU
 20804	SanAndresYutatioMixtec	EAR	oreja, oído	do̠'o	do̠'o	24	1247			williams2017diccionario		yuta13
 1022	AlacatlatzalaMixtec	EAR	ear	sohō	sohō	24	1247			zylstra1991syntactic		alac11
 4513	AlacatlatzalaMixtec	EAR	oreja	so̠'o	so̠'o	24	1247			zylstra2012gramatica		alac11
-21231	ChalcatongoHidalgoMixtec	EAR	ear	soʔo	soʔo	24	1247	NA	NA	macaulay1996grammar		chal11
+21231	ChalcatongoHidalgoMixtec	EAR	ear	soʔo	soʔo	24	1247			macaulay1996grammar		chal11
 7466	SanAntonioNduayacoMixtec	NECK	cuello	θuku	θuku	25	1333			josserand1983mixtec		ndua11
 5094	SanEstebanAtatlahucaMixtec	NOSE	nariz	xijnī	xijnī	25	1221			alexander1980gramatica	[C]	atat11
 1852	SanPedroySanPabloTeposcolula1600Mixtec	NOSE	naris	dzitni	dzitni	25	1221			alvarado1593vocabulario		tepo01
@@ -2038,7 +2038,7 @@ ID	DOCULECT	CONCEPT	SPANISH_GLOSS	VALUE	FORM	IDlist	CONCEPTICON_ID	LOAN	LOAN_SOU
 4172	SanJuanColoradoMixtec	NOSE	nariz	ìxtyìn yò	ìxtyìn	25	1221			stark1986diccionario		colo11
 4696	XochapaMixtec	NOSE	nariz	xi̠tín	xi̠tín	25	1221			stark2013diccionario		xoch11
 20805	SanAndresYutatioMixtec	NOSE	nariz	diti̠	diti̠	25	1221			williams2017diccionario		yuta13
-21232	ChalcatongoHidalgoMixtec	NOSE	nose	kutu	kutu	25	1221	NA	NA	macaulay1996grammar		chal11
+21232	ChalcatongoHidalgoMixtec	NOSE	nose	kutu	kutu	25	1221			macaulay1996grammar		chal11
 513	SantoTomasOcotepecMixtec	NECK	neck	sukun	sukun	26	1333			alexander1988syntactic		ocot11
 1853	SanPedroySanPabloTeposcolula1600Mixtec	NECK	cuello	dzuq	dzuq	26	1333			alvarado1593vocabulario		tepo01
 194	SantaMariaYolotepecMixtec	NECK	cuello	su¹kun⁴	su¹kun⁴	26	1333			amith2020yoloxochitl		yolo11
@@ -2182,7 +2182,7 @@ ID	DOCULECT	CONCEPT	SPANISH_GLOSS	VALUE	FORM	IDlist	CONCEPTICON_ID	LOAN	LOAN_SOU
 4697	XochapaMixtec	NECK	cuello, pescuezo	su̠kún	su̠kún	26	1333			stark2013diccionario		xoch11
 4379	SantaMariaZacatepecMixtec	NECK	cuello	sukun	sukun	26	1333			towne2011gramatica		zaca11
 20806	SanAndresYutatioMixtec	NECK	cuello	diko̠	diko̠	26	1333			williams2017diccionario		yuta13
-21233	ChalcatongoHidalgoMixtec	NECK	neck	sũkũ̀	sũkũ̀	26	1333	NA	NA	macaulay1996grammar		chal11
+21233	ChalcatongoHidalgoMixtec	NECK	neck	sũkũ̀	sũkũ̀	26	1333			macaulay1996grammar		chal11
 5095	SanEstebanAtatlahucaMixtec	HAND	mano	ndaha	ndaha	27	1277			alexander1980gramatica	[A]	atat11
 514	SantoTomasOcotepecMixtec	HAND	hand	ndāha	ndāha	27	1277			alexander1988syntactic		ocot11
 1854	SanPedroySanPabloTeposcolula1600Mixtec	HAND	mano	daha	daha	27	1277			alvarado1593vocabulario		tepo01
@@ -2234,7 +2234,7 @@ ID	DOCULECT	CONCEPT	SPANISH_GLOSS	VALUE	FORM	IDlist	CONCEPTICON_ID	LOAN	LOAN_SOU
 20807	SanAndresYutatioMixtec	HAND	mano	ndá'a̠	ndá'a̠	27	1277			williams2017diccionario		yuta13
 1023	AlacatlatzalaMixtec	HAND	hand	ndāha	ndāha	27	1277			zylstra1991syntactic		alac11
 4514	AlacatlatzalaMixtec	HAND	mano	nda'a̠	nda'a̠	27	1277			zylstra2012gramatica		alac11
-21234	ChalcatongoHidalgoMixtec	HAND	hand	ndaʔa	ndaʔa	27	1277	NA	NA	macaulay1996grammar		chal11
+21234	ChalcatongoHidalgoMixtec	HAND	hand	ndaʔa	ndaʔa	27	1277			macaulay1996grammar		chal11
 196	SantaMariaYolotepecMixtec	FINGERNAIL	uña	chi⁴in²⁴	chi⁴in²⁴	28	1258			amith2020yoloxochitl		yolo11
 20331	SantoDomingoHuendioMixtec	FINGERNAIL	uña	tníín	tníín	28	1258			becerra-roldan2015un-estudio		huen11
 1662	SanAndresChicahuaxtla1890Triqui	FINGERNAIL	uña	Kusitenha	kusitenha	28	1258			belmar1897ensayo		chic02
@@ -2396,10 +2396,10 @@ ID	DOCULECT	CONCEPT	SPANISH_GLOSS	VALUE	FORM	IDlist	CONCEPTICON_ID	LOAN	LOAN_SOU
 5607	YucuquimiOcampoMixtec	FINGERNAIL	uña	ʧi³ĩ¹	ʧi³ĩ¹	28	1258			swanton2020observaciones		yucu16
 20808	SanAndresYutatioMixtec	FINGERNAIL	uña	chíi̠n	chíi̠n	28	1258			williams2017diccionario		yuta13
 4515	AlacatlatzalaMixtec	FINGERNAIL	uña	chíi̠n	chíi̠n	28	1258			zylstra2012gramatica		alac11
-21235	ChalcatongoHidalgoMixtec	FINGERNAIL	fingernail	tĩ́žṍ	tĩ́žṍ	28	1258	NA	NA	macaulay1996grammar		chal11
-21236	ChalcatongoHidalgoMixtec	FINGERNAIL	fingernail	tĩ́žṹ	tĩ́žṹ	28	1258	NA	NA	macaulay1996grammar		chal11
-21237	ChalcatongoHidalgoMixtec	FINGERNAIL	fingernail	tĩ́ĩ	tĩ́ĩ	28	1258	NA	NA	macaulay1996grammar		chal11
-21238	ChalcatongoHidalgoMixtec	FINGERNAIL	fingernail	tĩ́ĩ́	tĩ́ĩ́	28	1258	NA	NA	macaulay1996grammar		chal11
+21235	ChalcatongoHidalgoMixtec	FINGERNAIL	fingernail	tĩ́žṍ	tĩ́žṍ	28	1258			macaulay1996grammar		chal11
+21236	ChalcatongoHidalgoMixtec	FINGERNAIL	fingernail	tĩ́žṹ	tĩ́žṹ	28	1258			macaulay1996grammar		chal11
+21237	ChalcatongoHidalgoMixtec	FINGERNAIL	fingernail	tĩ́ĩ	tĩ́ĩ	28	1258			macaulay1996grammar		chal11
+21238	ChalcatongoHidalgoMixtec	FINGERNAIL	fingernail	tĩ́ĩ́	tĩ́ĩ́	28	1258			macaulay1996grammar		chal11
 5096	SanEstebanAtatlahucaMixtec	BACK	espalda	yatā	yatā	29	1291			alexander1980gramatica	[C]	atat11
 515	SantoTomasOcotepecMixtec	BACK	back	yata	yata	29	1291			alexander1988syntactic		ocot11
 1855	SanPedroySanPabloTeposcolula1600Mixtec	BACK	espalda	sata	sata	29	1291			alvarado1593vocabulario		tepo01
@@ -2434,7 +2434,7 @@ ID	DOCULECT	CONCEPT	SPANISH_GLOSS	VALUE	FORM	IDlist	CONCEPTICON_ID	LOAN	LOAN_SOU
 20809	SanAndresYutatioMixtec	BACK	espalda	sata̠	sata̠	29	1291			williams2017diccionario		yuta13
 1024	AlacatlatzalaMixtec	BACK	back	sata	sata	29	1291			zylstra1991syntactic		alac11
 4516	AlacatlatzalaMixtec	BACK	espalda	sa̠ta̠	sa̠ta̠	29	1291			zylstra2012gramatica		alac11
-21239	ChalcatongoHidalgoMixtec	BACK	back	žata	žata	29	1291	NA	NA	macaulay1996grammar		chal11
+21239	ChalcatongoHidalgoMixtec	BACK	back	žata	žata	29	1291			macaulay1996grammar		chal11
 5097	SanEstebanAtatlahucaMixtec	BELLY OR STOMACH	estómago	chīji	chīji	30	2114			alexander1980gramatica	[A]	atat11
 516	SantoTomasOcotepecMixtec	BELLY OR STOMACH	stomach	chixīn	chixīn	30	2114			alexander1988syntactic		ocot11
 1856	SanPedroySanPabloTeposcolula1600Mixtec	BELLY OR STOMACH	barriga	chisi	chisi	30	2114			alvarado1593vocabulario		tepo01
@@ -2479,7 +2479,7 @@ ID	DOCULECT	CONCEPT	SPANISH_GLOSS	VALUE	FORM	IDlist	CONCEPTICON_ID	LOAN	LOAN_SOU
 20810	SanAndresYutatioMixtec	BELLY OR STOMACH	barriga, estómago	ti̠xi	ti̠xi	30	2114			williams2017diccionario		yuta13
 1025	AlacatlatzalaMixtec	BELLY OR STOMACH	stomach	tishīn	tishīn	30	2114			zylstra1991syntactic		alac11
 4517	AlacatlatzalaMixtec	BELLY OR STOMACH	panza, barriga	ti̠xin	ti̠xin	30	2114			zylstra2012gramatica		alac11
-21240	ChalcatongoHidalgoMixtec	BELLY OR STOMACH	stomach, belly	čìì	čìì	30	2114	NA	NA	macaulay1996grammar		chal11
+21240	ChalcatongoHidalgoMixtec	BELLY OR STOMACH	stomach, belly	čìì	čìì	30	2114			macaulay1996grammar		chal11
 7705	SantoDomingoNundoMixtec	INSIDE (PERSON)	dentro	ini	ini	31				josserand1983mixtec		nund13
 7739	TotoltepecGuerreroMixtec	INSIDE (PERSON)	dentro	i̧ni̧	i̧ni̧	31				josserand1983mixtec		toto12
 1857	SanPedroySanPabloTeposcolula1600Mixtec	INTESTINES	tripa, tripas	site	site	31	1991			alvarado1593vocabulario		tepo01
@@ -2621,7 +2621,7 @@ ID	DOCULECT	CONCEPT	SPANISH_GLOSS	VALUE	FORM	IDlist	CONCEPTICON_ID	LOAN	LOAN_SOU
 7644	SanMiguelAmatitlanMixtec	STOMACH	estómago	(tiši)	tiši	31	819			josserand1983mixtec		amat11
 7684	SanMiguelIxtapamMixtec	STOMACH	estómago	(tiši)	tiši	31	819			josserand1983mixtec		ixta13
 7738	TotoltepecGuerreroMixtec	STOMACH	estómago	a̧ni̧ma̧	a̧ni̧ma̧	31	819			josserand1983mixtec		toto12
-21241	ChalcatongoHidalgoMixtec	INTESTINES	intestine, guts	xɨ́tɨ̀	xɨ́tɨ̀	31	1991	NA	NA	macaulay1996grammar		chal11
+21241	ChalcatongoHidalgoMixtec	INTESTINES	intestine, guts	xɨ́tɨ̀	xɨ́tɨ̀	31	1991			macaulay1996grammar		chal11
 5098	SanEstebanAtatlahucaMixtec	FOOT	pie	jehē	jehē	32	1301			alexander1980gramatica	[C]	atat11
 517	SantoTomasOcotepecMixtec	FOOT	foot	xehe	xehe	32	1301			alexander1988syntactic		ocot11
 1858	SanPedroySanPabloTeposcolula1600Mixtec	FOOT	pie	saha	saha	32	1301			alvarado1593vocabulario		tepo01
@@ -2790,7 +2790,7 @@ ID	DOCULECT	CONCEPT	SPANISH_GLOSS	VALUE	FORM	IDlist	CONCEPTICON_ID	LOAN	LOAN_SOU
 20812	SanAndresYutatioMixtec	FOOT	pie, pierna	sa'a̠	sa'a̠	32	1301			williams2017diccionario		yuta13
 1026	AlacatlatzalaMixtec	FOOT	foot	shaha	shaha	32	1301			zylstra1991syntactic		alac11
 4518	AlacatlatzalaMixtec	FOOT	pie	xa̠'a̠	xa̠'a̠	32	1301			zylstra2012gramatica		alac11
-21242	ChalcatongoHidalgoMixtec	FOOT	foot	xaʔà	xaʔà	32	1301	NA	NA	macaulay1996grammar		chal11
+21242	ChalcatongoHidalgoMixtec	FOOT	foot	xaʔà	xaʔà	32	1301			macaulay1996grammar		chal11
 5099	SanEstebanAtatlahucaMixtec	DISEASE	enfermedad	cuehyɨ	cuehyɨ	33	1986			alexander1980gramatica	[A]	atat11
 518	SantoTomasOcotepecMixtec	DISEASE	sickness	kwehe	kwehe	33	1986			alexander1988syntactic		ocot11
 1859	SanPedroySanPabloTeposcolula1600Mixtec	DISEASE	enfermedad	quahi	quahi	33	1986			alvarado1593vocabulario		tepo01
@@ -2943,7 +2943,7 @@ ID	DOCULECT	CONCEPT	SPANISH_GLOSS	VALUE	FORM	IDlist	CONCEPTICON_ID	LOAN	LOAN_SOU
 20813	SanAndresYutatioMixtec	DISEASE	enfermedad	kue'e̠	kue'e̠	33	1986			williams2017diccionario		yuta13
 1027	AlacatlatzalaMixtec	DISEASE	sickness	kwehe	kwehe	33	1986			zylstra1991syntactic		alac11
 4519	AlacatlatzalaMixtec	DISEASE	enfermedad	kue̠'e̠	kue̠'e̠	33	1986			zylstra2012gramatica		alac11
-21243	ChalcatongoHidalgoMixtec	DISEASE	illness, sickness	kʷeʔè	kʷeʔè	33	1986	NA	NA	macaulay1996grammar		chal11
+21243	ChalcatongoHidalgoMixtec	DISEASE	illness, sickness	kʷeʔè	kʷeʔè	33	1986			macaulay1996grammar		chal11
 903	SanJuanCoatzospamMixtec	HERB	herb, medicine	chóhō	chóhō	34	2542			small1990syntactic		coat11
 5100	SanEstebanAtatlahucaMixtec	MEDICINE	medicina	tajnā	tajnā	34	1372			alexander1980gramatica	[C]	atat11
 519	SantoTomasOcotepecMixtec	MEDICINE	medicine	tatan	tatan	34	1372			alexander1988syntactic		ocot11
@@ -2987,7 +2987,7 @@ ID	DOCULECT	CONCEPT	SPANISH_GLOSS	VALUE	FORM	IDlist	CONCEPTICON_ID	LOAN	LOAN_SOU
 20814	SanAndresYutatioMixtec	MEDICINE	medicina	tata̠	tata̠	34	1372			williams2017diccionario		yuta13
 1028	AlacatlatzalaMixtec	MEDICINE	medicine	tatan	tatan	34	1372			zylstra1991syntactic		alac11
 4520	AlacatlatzalaMixtec	MEDICINE	medicina	ta̠ta̠n	ta̠ta̠n	34	1372			zylstra2012gramatica		alac11
-21244	ChalcatongoHidalgoMixtec	MEDICINE	medicine, remedy	táná	táná	34	1372	NA	NA	macaulay1996grammar		chal11
+21244	ChalcatongoHidalgoMixtec	MEDICINE	medicine, remedy	táná	táná	34	1372			macaulay1996grammar		chal11
 1861	SanPedroySanPabloTeposcolula1600Mixtec	SWELLING	hinchazón	sasicuiño ~ sacoo cuiño	cuiño	35	1903			alvarado1593vocabulario		tepo01
 1862	SanPedroySanPabloTeposcolula1600Mixtec	SWELLING	hinchazón	sasisiño	siño	35	1903			alvarado1593vocabulario		tepo01
 203	SantaMariaYolotepecMixtec	SWELLING	hinchazón	kwi³ñu³	kwi³ñu³	35	1903			amith2020yoloxochitl		yolo11
@@ -3245,7 +3245,7 @@ ID	DOCULECT	CONCEPT	SPANISH_GLOSS	VALUE	FORM	IDlist	CONCEPTICON_ID	LOAN	LOAN_SOU
 5610	SantaMariaZacatepecMixtec	PIMPLE	grano	ⁿdi²ʔi²¹	ⁿdi²ʔi²¹	36	1809			swanton2020observaciones		zaca11
 20815	SanAndresYutatioMixtec	PIMPLE	grano	ndíki̠	ndíki̠	36	1809			williams2017diccionario		yuta13
 8092	SantiagoApoalaMixtec	SMALLPOX	viruela	ⁿdiʔi	ⁿdiʔi	36	1054			josserand1983mixtec		apoa11
-21245	ChalcatongoHidalgoMixtec	PIMPLE	pimple	ndɨʔžɨ́	ndɨʔžɨ́	36	1809	NA	NA	macaulay1996grammar		chal11
+21245	ChalcatongoHidalgoMixtec	PIMPLE	pimple	ndɨʔžɨ́	ndɨʔžɨ́	36	1809			macaulay1996grammar		chal11
 1865	SanPedroySanPabloTeposcolula1600Mixtec	PUS	materia, podre	dacua	dacua	37	1808			alvarado1593vocabulario		tepo01
 206	SantaMariaYolotepecMixtec	PUS	pus, materia	nda³kwa⁴	nda³kwa⁴	37	1808			amith2020yoloxochitl		yolo11
 5236	SantaMariaPapaloCuicatec	PUS	pus	ya³cua³	ya³cua³	37	1808	maybe	Mixtec	anderson1983diccionario		papa11
@@ -3380,8 +3380,8 @@ ID	DOCULECT	CONCEPT	SPANISH_GLOSS	VALUE	FORM	IDlist	CONCEPTICON_ID	LOAN	LOAN_SOU
 20618	YucunanyMixtec	PUS	pus	ntakuǎ	ntakuǎ	37	1808			salazar2020yucunani		yucu17
 4185	SanJuanColoradoMixtec	PUS	pus	ndacua	ndacua	37	1808			stark1986diccionario		colo11
 20816	SanAndresYutatioMixtec	PUS	pus, materia	ndáko̠	ndáko̠	37	1808			williams2017diccionario		yuta13
-21246	ChalcatongoHidalgoMixtec	PUS	pus	lakʷa	lakʷa	37	1808	NA	NA	macaulay1996grammar		chal11
-21247	ChalcatongoHidalgoMixtec	PUS	pus	lákʷá	lákʷá	37	1808	NA	NA	macaulay1996grammar		chal11
+21246	ChalcatongoHidalgoMixtec	PUS	pus	lakʷa	lakʷa	37	1808			macaulay1996grammar		chal11
+21247	ChalcatongoHidalgoMixtec	PUS	pus	lákʷá	lákʷá	37	1808			macaulay1996grammar		chal11
 1866	SanPedroySanPabloTeposcolula1600Mixtec	URINE	orina	dzadza ~ dutadzadza ~ tadzadza	dzadza	38	1142			alvarado1593vocabulario		tepo01
 5237	SantaMariaPapaloCuicatec	URINE	orina	nu⁴nv'e⁴de³	nu⁴nv'e⁴de³	38	1142			anderson1983diccionario		papa11
 20339	SantoDomingoHuendioMixtec	URINE	orina	ndùtè xéxe	ndùtè-xéxe	38	1142			becerra-roldan2015un-estudio		huen11
@@ -3465,7 +3465,7 @@ ID	DOCULECT	CONCEPT	SPANISH_GLOSS	VALUE	FORM	IDlist	CONCEPTICON_ID	LOAN	LOAN_SOU
 3980	SanAgustinChayucoMixtec	URINE	orina	tyaxa	tyaxa	38	1142			pensinger1974diccionario		chay11
 20619	YucunanyMixtec	URINE	urine	lálá	lálá	38	1142			salazar2020yucunani		yucu17
 4186	SanJuanColoradoMixtec	URINE	orina	làxà	làxà	38	1142			stark1986diccionario		colo11
-21248	ChalcatongoHidalgoMixtec	URINE	urine	tíšešé	tí-šešé	38	1142	NA	NA	macaulay1996grammar		chal11
+21248	ChalcatongoHidalgoMixtec	URINE	urine	tíšešé	tí-šešé	38	1142			macaulay1996grammar		chal11
 520	SantoTomasOcotepecMixtec	CLOTH	cloth	sāhmā	sāhmā	39	1616			alexander1988syntactic		ocot11
 1869	SanPedroySanPabloTeposcolula1600Mixtec	CLOTH	tela	ydza	ydza	39	1616			alvarado1593vocabulario		tepo01
 5238	SantaMariaPapaloCuicatec	CLOTH	tela	ti⁴nu⁴	ti⁴nu⁴	39	1616			anderson1983diccionario		papa11
@@ -3518,7 +3518,7 @@ ID	DOCULECT	CONCEPT	SPANISH_GLOSS	VALUE	FORM	IDlist	CONCEPTICON_ID	LOAN	LOAN_SOU
 4521	AlacatlatzalaMixtec	CLOTHES	ropa	tiko̠to̠	tiko̠to̠	39	1895			zylstra2012gramatica		alac11
 207	SantaMariaYolotepecMixtec	TORTILLA CLOTH	servilleta	sa'³ma⁴	sa'³ma⁴	39				amith2020yoloxochitl		yolo11
 770	AyutlalosLibresMixtec	TORTILLA CLOTH	tortilla cloth	sahmāh	sahmāh	39				hills1990syntactic		ayut11
-21249	ChalcatongoHidalgoMixtec	CLOTH OR CLOTHES	dress, cloth, clothing	saʔma	saʔma	39	NA	NA	NA	macaulay1996grammar		chal11
+21249	ChalcatongoHidalgoMixtec	CLOTH OR CLOTHES	dress, cloth, clothing	saʔma	saʔma	39				macaulay1996grammar		chal11
 8449	SantaMariaPenolesMixtec	HORSE SHOE	herradura	čàu̧	čàu̧	40				josserand1983mixtec		peno11
 8449	SantaMariaPenolesMixtec	HORSE SHOE	herradura	čàu̧	čàu̧	40				josserand1983mixtec		peno11
 521	SantoTomasOcotepecMixtec	SANDAL	sandal, sandals	nixan	nixan	40				alexander1988syntactic		ocot11
@@ -3681,7 +3681,7 @@ ID	DOCULECT	CONCEPT	SPANISH_GLOSS	VALUE	FORM	IDlist	CONCEPTICON_ID	LOAN	LOAN_SOU
 4387	SantaMariaZacatepecMixtec	SANDAL	huarache	ndichan	ndichan	40				towne2011gramatica		zaca11
 20818	SanAndresYutatioMixtec	SANDAL	huarache	ndisa̠	ndisa̠	40				williams2017diccionario		yuta13
 4522	AlacatlatzalaMixtec	SANDAL	huarache	ndu̠xa̠n	ndu̠xa̠n	40				zylstra2012gramatica		alac11
-21250	ChalcatongoHidalgoMixtec	SANDAL	sandal, sandals	ndĩxã̀	ndĩxã̀	40	NA	NA	NA	macaulay1996grammar		chal11
+21250	ChalcatongoHidalgoMixtec	SANDAL	sandal, sandals	ndĩxã̀	ndĩxã̀	40				macaulay1996grammar		chal11
 5240	SantaMariaPapaloCuicatec	TROUSERS	pantalón	pa³nta³lón¹	pa³nta³lón¹	41	809	yes	Spanish	anderson1983diccionario		papa11
 6154	ElJicaralMixtec	TROUSERS	pantalón	xatu	xatu	41	809			Emily John-Martin		jica13
 32	AbasoloValleMixtec	TROUSERS	pantalón	tsatu	tsatu	41	809			galindo-sanchez2009vocabulario		abas11
@@ -4045,7 +4045,7 @@ ID	DOCULECT	CONCEPT	SPANISH_GLOSS	VALUE	FORM	IDlist	CONCEPTICON_ID	LOAN	LOAN_SOU
 20820	SanAndresYutatioMixtec	TOWN OR VILLAGE	pueblo	ñoo	ñoo	43	3609			williams2017diccionario		yuta13
 1030	AlacatlatzalaMixtec	TOWN OR VILLAGE	town	ñōō	ñōō	43	3609			zylstra1991syntactic		alac11
 4524	AlacatlatzalaMixtec	TOWN OR VILLAGE	pueblo	ñoo	ñoo	43	3609			zylstra2012gramatica		alac11
-21251	ChalcatongoHidalgoMixtec	TOWN OR VILLAGE	village, town	ñũũ̀	ñũũ̀	43	3609	NA	NA	macaulay1996grammar		chal11
+21251	ChalcatongoHidalgoMixtec	TOWN OR VILLAGE	village, town	ñũũ̀	ñũũ̀	43	3609			macaulay1996grammar		chal11
 5103	SanEstebanAtatlahucaMixtec	HOUSE	casa	vehe	vehe	44	1252			alexander1980gramatica	[A]	atat11
 523	SantoTomasOcotepecMixtec	HOUSE	house	vēhē	vēhē	44	1252			alexander1988syntactic		ocot11
 1872	SanPedroySanPabloTeposcolula1600Mixtec	HOUSE	casa	huahi	huahi	44	1252			alvarado1593vocabulario		tepo01
@@ -4217,7 +4217,7 @@ ID	DOCULECT	CONCEPT	SPANISH_GLOSS	VALUE	FORM	IDlist	CONCEPTICON_ID	LOAN	LOAN_SOU
 20821	SanAndresYutatioMixtec	HOUSE	casa	ve'e	ve'e	44	1252			williams2017diccionario		yuta13
 1031	AlacatlatzalaMixtec	HOUSE	house	vēhē	vēhē	44	1252			zylstra1991syntactic		alac11
 4525	AlacatlatzalaMixtec	HOUSE	casa	ve'e	ve'e	44	1252			zylstra2012gramatica		alac11
-21252	ChalcatongoHidalgoMixtec	HOUSE	house	beʔe	beʔe	44	1252	NA	NA	macaulay1996grammar		chal11
+21252	ChalcatongoHidalgoMixtec	HOUSE	house	beʔe	beʔe	44	1252			macaulay1996grammar		chal11
 5104	SanEstebanAtatlahucaMixtec	PATH	camino	ichi	ichi	45	2252			alexander1980gramatica	[A]	atat11
 524	SantoTomasOcotepecMixtec	PATH	path	īchī	īchī	45	2252			alexander1988syntactic		ocot11
 1873	SanPedroySanPabloTeposcolula1600Mixtec	PATH	camino	ichi	ichi	45	2252			alvarado1593vocabulario		tepo01
@@ -4269,7 +4269,7 @@ ID	DOCULECT	CONCEPT	SPANISH_GLOSS	VALUE	FORM	IDlist	CONCEPTICON_ID	LOAN	LOAN_SOU
 20822	SanAndresYutatioMixtec	PATH	camino	íchi̠	íchi̠	45	2252			williams2017diccionario		yuta13
 1032	AlacatlatzalaMixtec	PATH	road	yīchi	yīchi	45	2252			zylstra1991syntactic		alac11
 4526	AlacatlatzalaMixtec	PATH	camino	yichi̠	yichi̠	45	2252			zylstra2012gramatica		alac11
-21253	ChalcatongoHidalgoMixtec	PATH	path, road, trail	iči	iči	45	2252	NA	NA	macaulay1996grammar		chal11
+21253	ChalcatongoHidalgoMixtec	PATH	path, road, trail	iči	iči	45	2252			macaulay1996grammar		chal11
 8887	ChalcatongoHidalgoMixtec	LEG	pierna	sɨ̧ʔɨ̧	sɨ̧ʔɨ̧	46	1297			josserand1983mixtec		chal11
 8880	SanEstebanAtatlahucaMixtec	LEG	pierna	sɨ̄ʔɨ̧	sɨ̄ʔɨ̧	46	1297			josserand1983mixtec		atat11
 8942	SanPedroySanPabloTeposcolulaMixtec	LEG	pierna	đeʔe	đeʔe	46	1297			josserand1983mixtec		tepo11
@@ -4543,7 +4543,7 @@ ID	DOCULECT	CONCEPT	SPANISH_GLOSS	VALUE	FORM	IDlist	CONCEPTICON_ID	LOAN	LOAN_SOU
 5631	Proto-Mixtec	MAT	petate	júwíʔ	júwíʔ	47	195			swanton2020observaciones		prom01
 5633	SantaMariaZacatepecMixtec	MAT	petate	ju²bi²ʔ	ju²bi²ʔ	47	195			swanton2020observaciones		zaca11
 20824	SanAndresYutatioMixtec	MAT	petate	yúu̠	yúu̠	47	195			williams2017diccionario		yuta13
-21254	ChalcatongoHidalgoMixtec	MAT	mat, sleeping mat, straw mat	žuu	žuu	47	195	NA	NA	macaulay1996grammar		chal11
+21254	ChalcatongoHidalgoMixtec	MAT	mat, sleeping mat, straw mat	žuu	žuu	47	195			macaulay1996grammar		chal11
 1875	SanPedroySanPabloTeposcolula1600Mixtec	BED	cama, lecho	sito	sito	48	1663			alvarado1593vocabulario		tepo01
 215	SantaMariaYolotepecMixtec	BED	cama	is¹to³	is¹to³	48	1663			amith2020yoloxochitl		yolo11
 5247	SantaMariaPapaloCuicatec	BED	cama	ca²ma⁴	ca²ma⁴	48	1663	yes	Spanish	anderson1983diccionario		papa11
@@ -4684,7 +4684,7 @@ ID	DOCULECT	CONCEPT	SPANISH_GLOSS	VALUE	FORM	IDlist	CONCEPTICON_ID	LOAN	LOAN_SOU
 9156	SantaMariaPenolesMixtec	MEZZANINE	tapanco	šítò	šítò	48				josserand1983mixtec		peno11
 9156	SantaMariaPenolesMixtec	MEZZANINE	tapanco	šítò	šítò	48				josserand1983mixtec		peno11
 9186	XayacatlanBravoMixtec	MEZZANINE	altillo	šītó	šītó	48				josserand1983mixtec		xaya12
-21255	ChalcatongoHidalgoMixtec	BED	bed	xito	xito	48	1663	NA	NA	macaulay1996grammar		chal11
+21255	ChalcatongoHidalgoMixtec	BED	bed	xito	xito	48	1663			macaulay1996grammar		chal11
 9297	SanPedroySanPabloTeposcolulaMixtec	ALTAR	altar	tayu	tayu	49	853			josserand1983mixtec		tepo11
 9308	XayacatlanBravoMixtec	SADDLE	montura	tēí	tēí	49	3065			josserand1983mixtec		xaya12
 1876	SanPedroySanPabloTeposcolula1600Mixtec	STOOL	silla	tayu	tayu	49	2058			alvarado1593vocabulario		tepo01
@@ -4846,7 +4846,7 @@ ID	DOCULECT	CONCEPT	SPANISH_GLOSS	VALUE	FORM	IDlist	CONCEPTICON_ID	LOAN	LOAN_SOU
 20827	SanAndresYutatioMixtec	STOOL	banquito	téi̠	téi̠	49	2058			williams2017diccionario		yuta13
 1033	AlacatlatzalaMixtec	STOOL	chair	tāyi	tāyi	49	2058			zylstra1991syntactic		alac11
 4528	AlacatlatzalaMixtec	STOOL	silla	táyi̠	táyi̠	49	2058			zylstra2012gramatica		alac11
-21256	ChalcatongoHidalgoMixtec	STOOL	stool, bench	téžu	téžu	49	2058	NA	NA	macaulay1996grammar		chal11
+21256	ChalcatongoHidalgoMixtec	STOOL	stool, bench	téžu	téžu	49	2058			macaulay1996grammar		chal11
 5105	SanEstebanAtatlahucaMixtec	ANIMAL	animal	quɨtɨ	quɨtɨ	50	619			alexander1980gramatica	[A]	atat11
 525	SantoTomasOcotepecMixtec	ANIMAL	animal	kītī	kītī	50	619			alexander1988syntactic		ocot11
 1877	SanPedroySanPabloTeposcolula1600Mixtec	ANIMAL	animal	quete	quete	50	619			alvarado1593vocabulario		tepo01
@@ -5022,7 +5022,7 @@ ID	DOCULECT	CONCEPT	SPANISH_GLOSS	VALUE	FORM	IDlist	CONCEPTICON_ID	LOAN	LOAN_SOU
 20828	SanAndresYutatioMixtec	ANIMAL	animal	kíti̠	kíti̠	50	619			williams2017diccionario		yuta13
 1034	AlacatlatzalaMixtec	ANIMAL	animal	kīti	kīti	50	619			zylstra1991syntactic		alac11
 4529	AlacatlatzalaMixtec	ANIMAL	animal	kiti̠	kiti̠	50	619			zylstra2012gramatica		alac11
-21257	ChalcatongoHidalgoMixtec	ANIMAL	animal	kɨtɨ	kɨtɨ	50	619	NA	NA	macaulay1996grammar		chal11
+21257	ChalcatongoHidalgoMixtec	ANIMAL	animal	kɨtɨ	kɨtɨ	50	619			macaulay1996grammar		chal11
 5106	SanEstebanAtatlahucaMixtec	BIRD	pájaro	saa	saa	51	937			alexander1980gramatica	[C]	atat11
 526	SantoTomasOcotepecMixtec	BIRD	bird	sāa	sāa	51	937			alexander1988syntactic		ocot11
 1878	SanPedroySanPabloTeposcolula1600Mixtec	BIRD	paxaro	dzaa	dzaa	51	937			alvarado1593vocabulario		tepo01
@@ -5186,7 +5186,7 @@ ID	DOCULECT	CONCEPT	SPANISH_GLOSS	VALUE	FORM	IDlist	CONCEPTICON_ID	LOAN	LOAN_SOU
 20829	SanAndresYutatioMixtec	BIRD	pájaro	laa	laa	51	937			williams2017diccionario		yuta13
 1035	AlacatlatzalaMixtec	BIRD	bird	sāā	sāā	51	937			zylstra1991syntactic		alac11
 4530	AlacatlatzalaMixtec	BIRD	pájaro	saa	saa	51	937			zylstra2012gramatica		alac11
-21258	ChalcatongoHidalgoMixtec	BIRD	bird	saà	saà	51	937	NA	NA	macaulay1996grammar		chal11
+21258	ChalcatongoHidalgoMixtec	BIRD	bird	saà	saà	51	937			macaulay1996grammar		chal11
 5107	SanEstebanAtatlahucaMixtec	FISH	pez	chācá	chācá	52	227			alexander1980gramatica	[B]	atat11
 527	SantoTomasOcotepecMixtec	FISH	fish	t-yaká	t-yaká	52	227			alexander1988syntactic		ocot11
 1879	SanPedroySanPabloTeposcolula1600Mixtec	FISH	pescado	teyaca	teyaca	52	227			alvarado1593vocabulario		tepo01
@@ -5233,7 +5233,7 @@ ID	DOCULECT	CONCEPT	SPANISH_GLOSS	VALUE	FORM	IDlist	CONCEPTICON_ID	LOAN	LOAN_SOU
 4715	XochapaMixtec	FISH	pez, pescado	tiàká	tiàká	52	227			stark2013diccionario		xoch11
 20830	SanAndresYutatioMixtec	FISH	pez, pescado	ti̠yaká	ti̠yaká	52	227			williams2017diccionario		yuta13
 1036	AlacatlatzalaMixtec	FISH	fish	ti-yaká	ti-yaká	52	227			zylstra1991syntactic		alac11
-21259	ChalcatongoHidalgoMixtec	FISH	fish	čáká	čáká	52	227	NA	NA	macaulay1996grammar		chal11
+21259	ChalcatongoHidalgoMixtec	FISH	fish	čáká	čáká	52	227			macaulay1996grammar		chal11
 5108	SanEstebanAtatlahucaMixtec	SNAKE	culebra	coō	coō	53	730			alexander1980gramatica	[C]	atat11
 1880	SanPedroySanPabloTeposcolula1600Mixtec	SNAKE	culebra	coo	coo	53	730			alvarado1593vocabulario		tepo01
 220	SantaMariaYolotepecMixtec	SNAKE	serpiente	ko¹o⁴	ko¹o⁴	53	730			amith2020yoloxochitl		yolo11
@@ -5371,8 +5371,8 @@ ID	DOCULECT	CONCEPT	SPANISH_GLOSS	VALUE	FORM	IDlist	CONCEPTICON_ID	LOAN	LOAN_SOU
 4396	SantaMariaZacatepecMixtec	SNAKE	culebra, serpiente	koo	koo	53	730			towne2011gramatica		zaca11
 20831	SanAndresYutatioMixtec	SNAKE	culebra, serpiente	koo̠	koo̠	53	730			williams2017diccionario		yuta13
 4532	AlacatlatzalaMixtec	SNAKE	culebra, serpiente	ko̠o̠	ko̠o̠	53	730			zylstra2012gramatica		alac11
-21260	ChalcatongoHidalgoMixtec	SNAKE	snake	kòò	kòò	53	730	NA	NA	macaulay1996grammar		chal11
-21261	ChalcatongoHidalgoMixtec	SNAKE	snake	koò	koò	53	730	NA	NA	macaulay1996grammar		chal11
+21260	ChalcatongoHidalgoMixtec	SNAKE	snake	kòò	kòò	53	730			macaulay1996grammar		chal11
+21261	ChalcatongoHidalgoMixtec	SNAKE	snake	koò	koò	53	730			macaulay1996grammar		chal11
 1882	SanPedroySanPabloTeposcolula1600Mixtec	FROG	rana	dzahua	dzahua	54	503			alvarado1593vocabulario		tepo01
 1881	SanPedroySanPabloTeposcolula1600Mixtec	FROG	rana	tiyahua	tiyahua	54	503			alvarado1593vocabulario		tepo01
 221	SantaMariaYolotepecMixtec	FROG	rana	sa'³ba²	sa'³ba²	54	503			amith2020yoloxochitl		yolo11
@@ -5531,7 +5531,7 @@ ID	DOCULECT	CONCEPT	SPANISH_GLOSS	VALUE	FORM	IDlist	CONCEPTICON_ID	LOAN	LOAN_SOU
 4533	AlacatlatzalaMixtec	FROG	rana	sa'va̠	sa'va̠	54	503			zylstra2012gramatica		alac11
 9701	SanPedroMolinosMixtec	TADPOLE	renacuajo	saʔva	saʔva	54				josserand1983mixtec		moli11
 9720	SanMiguelPiedrasMixtec	TOAD	sapo	đaʔwa	đaʔwa	54	894			josserand1983mixtec		pied11
-21262	ChalcatongoHidalgoMixtec	FROG	frog	sáʔba	sáʔba	54	503	NA	NA	macaulay1996grammar		chal11
+21262	ChalcatongoHidalgoMixtec	FROG	frog	sáʔba	sáʔba	54	503			macaulay1996grammar		chal11
 9817	SanAntonioHuitepecMixtec	EAGLE	á́guila	tađu	tađu	55	1905			josserand1983mixtec		huit11
 9852	SanMiguelPiedrasMixtec	EAGLE	á́guila	tađu	tađu	55	1905			josserand1983mixtec		pied11
 9828	SanPedroJocotipacMixtec	EAGLE	á́guila	tađu̧	tađu̧	55	1905			josserand1983mixtec		joco11
@@ -5702,7 +5702,7 @@ ID	DOCULECT	CONCEPT	SPANISH_GLOSS	VALUE	FORM	IDlist	CONCEPTICON_ID	LOAN	LOAN_SOU
 4202	SanJuanColoradoMixtec	HAWK	gavilán	tàsù	tàsù	55	307			stark1986diccionario		colo11
 20833	SanAndresYutatioMixtec	HAWK	gavilán	dí'án	dí'án	55	307			williams2017diccionario		yuta13
 9899	SantaMariaYucuhitiMixtec	VULTURE	zopilote grande	čìī-žāʔā	čìī-žāʔā	55	1185			josserand1983mixtec		yucu12
-21263	ChalcatongoHidalgoMixtec	HAWK	sparrow hawk, eagle	šĩ́ʔã	šĩ́ʔã	55	307	NA	NA	macaulay1996grammar		chal11
+21263	ChalcatongoHidalgoMixtec	HAWK	sparrow hawk, eagle	šĩ́ʔã	šĩ́ʔã	55	307			macaulay1996grammar		chal11
 5109	SanEstebanAtatlahucaMixtec	SCORPION	alacrán	tɨsuhma	tɨsuhma	56	1538			alexander1980gramatica	[C]	atat11
 528	SantoTomasOcotepecMixtec	SCORPION	scorpion	ti-sūhma	ti-sūhma	56	1538			alexander1988syntactic		ocot11
 1883	SanPedroySanPabloTeposcolula1600Mixtec	SCORPION	alacrán	tedzuma	tedzuma	56	1538			alvarado1593vocabulario		tepo01
@@ -5819,7 +5819,7 @@ ID	DOCULECT	CONCEPT	SPANISH_GLOSS	VALUE	FORM	IDlist	CONCEPTICON_ID	LOAN	LOAN_SOU
 4397	SantaMariaZacatepecMixtec	SCORPION	alacrán	tisu'ma	ti-su'ma	56	1538			towne2011gramatica		zaca11
 20834	SanAndresYutatioMixtec	SCORPION	alacrán	ti̠dó'o̠ma̠	ti̠-dó'o̠ma̠	56	1538			williams2017diccionario		yuta13
 4535	AlacatlatzalaMixtec	SCORPION	alacrán	tísi̠'ma	tí-si̠'ma	56	1538			zylstra2012gramatica		alac11
-21264	ChalcatongoHidalgoMixtec	SCORPION	scorpion	tɨsúʔmá	tɨ-súʔmá	56	1538	NA	NA	macaulay1996grammar		chal11
+21264	ChalcatongoHidalgoMixtec	SCORPION	scorpion	tɨsúʔmá	tɨ-súʔmá	56	1538			macaulay1996grammar		chal11
 224	SantaMariaYolotepecMixtec	COCKROACH	cucaracha	ti¹te'¹e⁴	ti¹-te'¹e⁴	57	1575			amith2020yoloxochitl		yolo11
 5256	SantaMariaPapaloCuicatec	COCKROACH	cucaracha	stu²vi¹⁴	stu²vi¹⁴	57	1575			anderson1983diccionario		papa11
 4536	AlacatlatzalaMixtec	COCKROACH	cucaracha	ti̠un	ti̠un	57	1575			anderson2006vocabulario		alac11
@@ -5927,7 +5927,7 @@ ID	DOCULECT	CONCEPT	SPANISH_GLOSS	VALUE	FORM	IDlist	CONCEPTICON_ID	LOAN	LOAN_SOU
 4721	XochapaMixtec	COCKROACH	cucaracha	tite'é	ti-te'é	57	1575			stark2013diccionario		xoch11
 20836	SanAndresYutatioMixtec	COCKROACH	cucaracha	tá'áyá	tá'áyá	57	1575			williams2017diccionario		yuta13
 20835	SanAndresYutatioMixtec	COCKROACH	cucaracha	tá'í	tá'í	57	1575			williams2017diccionario		yuta13
-21265	ChalcatongoHidalgoMixtec	COCKROACH	cockroach	titeʔé	ti-teʔé	57	1575	NA	NA	macaulay1996grammar		chal11
+21265	ChalcatongoHidalgoMixtec	COCKROACH	cockroach	titeʔé	ti-teʔé	57	1575			macaulay1996grammar		chal11
 5110	SanEstebanAtatlahucaMixtec	GRASSHOPPER	chapulín	tɨ́ca	tɨ́ca	58	607			alexander1980gramatica	[C]	atat11
 225	SantaMariaYolotepecMixtec	GRASSHOPPER	chapulín	ti¹ka³²	ti¹ka³²	58	607			amith2020yoloxochitl		yolo11
 5257	SantaMariaPapaloCuicatec	GRASSHOPPER	chapulín	ti²cua¹⁴	ti²cua¹⁴	58	607			anderson1983diccionario		papa11
@@ -5956,9 +5956,9 @@ ID	DOCULECT	CONCEPT	SPANISH_GLOSS	VALUE	FORM	IDlist	CONCEPTICON_ID	LOAN	LOAN_SOU
 20839	SanAndresYutatioMixtec	GRASSHOPPER	chapulín (grande)	ndichichi	ndi-chichi	58	607			williams2017diccionario		yuta13
 20837	SanAndresYutatioMixtec	GRASSHOPPER	chapulín	tí'i̠	tí'i̠	58	607			williams2017diccionario		yuta13
 20838	SanAndresYutatioMixtec	GRASSHOPPER	chapulín (chico)	ti̠ka	ti̠ka	58	607			williams2017diccionario		yuta13
-21266	ChalcatongoHidalgoMixtec	GRASSHOPPER	grasshopper	tɨkà	tɨkà	58	607	NA	NA	macaulay1996grammar		chal11
-21267	ChalcatongoHidalgoMixtec	GRASSHOPPER	grasshopper	tɨkàà	tɨ-kàà	58	607	NA	NA	macaulay1996grammar		chal11
-21268	ChalcatongoHidalgoMixtec	GRASSHOPPER	grasshopper	tɨká	tɨká	58	607	NA	NA	macaulay1996grammar		chal11
+21266	ChalcatongoHidalgoMixtec	GRASSHOPPER	grasshopper	tɨkà	tɨkà	58	607			macaulay1996grammar		chal11
+21267	ChalcatongoHidalgoMixtec	GRASSHOPPER	grasshopper	tɨkàà	tɨ-kàà	58	607			macaulay1996grammar		chal11
+21268	ChalcatongoHidalgoMixtec	GRASSHOPPER	grasshopper	tɨká	tɨká	58	607			macaulay1996grammar		chal11
 1884	SanPedroySanPabloTeposcolula1600Mixtec	BEE	abeja	ñuñu	ñuñu	59	665			alvarado1593vocabulario		tepo01
 226	SantaMariaYolotepecMixtec	BEE	abeja	ñu¹ñu⁴	ñu¹ñu⁴	59	665			amith2020yoloxochitl		yolo11
 5258	SantaMariaPapaloCuicatec	BEE	abeja	y'en²⁴	y'en²⁴	59	665			anderson1983diccionario		papa11
@@ -5989,8 +5989,8 @@ ID	DOCULECT	CONCEPT	SPANISH_GLOSS	VALUE	FORM	IDlist	CONCEPTICON_ID	LOAN	LOAN_SOU
 20841	SanAndresYutatioMixtec	BEE	abeja	ñoño̠	ñoño̠	59	665			williams2017diccionario		yuta13
 1037	AlacatlatzalaMixtec	BEE	bee	tí-ñoño	tí-ñoño	59	665			zylstra1991syntactic		alac11
 4538	AlacatlatzalaMixtec	BEE	abeja	tí-ñóño̠	tí-ñóño̠	59	665			zylstra2012gramatica		alac11
-21269	ChalcatongoHidalgoMixtec	BEE	bee	timí	timí	59	665	NA	NA	macaulay1996grammar		chal11
-21270	ChalcatongoHidalgoMixtec	BEE	bee	timíí	timíí	59	665	NA	NA	macaulay1996grammar		chal11
+21269	ChalcatongoHidalgoMixtec	BEE	bee	timí	timí	59	665			macaulay1996grammar		chal11
+21270	ChalcatongoHidalgoMixtec	BEE	bee	timíí	timíí	59	665			macaulay1996grammar		chal11
 5111	SanEstebanAtatlahucaMixtec	MOUSE	ratón	jnɨ́nɨ́	jnɨ́nɨ́	60	1491			alexander1980gramatica	[C]	atat11
 529	SantoTomasOcotepecMixtec	MOUSE	mouse	tí:ñí	tí:ñí	60	1491			alexander1988syntactic		ocot11
 1885	SanPedroySanPabloTeposcolula1600Mixtec	MOUSE	ratón	tneñe	tneñe	60	1491			alvarado1593vocabulario		tepo01
@@ -6178,8 +6178,8 @@ ID	DOCULECT	CONCEPT	SPANISH_GLOSS	VALUE	FORM	IDlist	CONCEPTICON_ID	LOAN	LOAN_SOU
 10213	YutanduchiGuerreroMixtec	RAT	rata	čoto	čoto	60	1490			josserand1983mixtec		yuta11
 10216	ZapotitlanPalmasMixtec	RAT	rata	ȼi-ti̧i̧	ȼi-ti̧i̧	60	1490			josserand1983mixtec		zapo11
 20843	SanAndresYutatioMixtec	RAT	rata	ti̠yóto̠	ti̠-yóto̠	60	1490			williams2017diccionario		yuta13
-21271	ChalcatongoHidalgoMixtec	MUROID (MOUSE OR RAT)	mouse, rat	tiñí	tiñí	60	2139	NA	NA	macaulay1996grammar		chal11
-21272	ChalcatongoHidalgoMixtec	MUROID (MOUSE OR RAT)	mouse, rat	tɨ̃ñɨ̃́ɨ̃́	tɨ̃ñɨ̃́ɨ̃́	60	2139	NA	NA	macaulay1996grammar		chal11
+21271	ChalcatongoHidalgoMixtec	MUROID (MOUSE OR RAT)	mouse, rat	tiñí	tiñí	60	2139			macaulay1996grammar		chal11
+21272	ChalcatongoHidalgoMixtec	MUROID (MOUSE OR RAT)	mouse, rat	tɨ̃ñɨ̃́ɨ̃́	tɨ̃ñɨ̃́ɨ̃́	60	2139			macaulay1996grammar		chal11
 5112	SanEstebanAtatlahucaMixtec	DEER	venado	isu	isu	61	1936			alexander1980gramatica	[C]	atat11
 228	SantaMariaYolotepecMixtec	DEER	venado	i³su²	i³su²	61	1936			amith2020yoloxochitl		yolo11
 5260	SantaMariaPapaloCuicatec	DEER	venado	i³che¹⁴nu³	i³che¹⁴nu³	61	1936			anderson1983diccionario		papa11
@@ -6343,7 +6343,7 @@ ID	DOCULECT	CONCEPT	SPANISH_GLOSS	VALUE	FORM	IDlist	CONCEPTICON_ID	LOAN	LOAN_SOU
 20845	SanAndresYutatioMixtec	DEER	venado	se̠kuaa	se̠kuaa	61	1936			williams2017diccionario		yuta13
 1039	AlacatlatzalaMixtec	DEER	deer	yūsū	yūsū	61	1936			zylstra1991syntactic		alac11
 4540	AlacatlatzalaMixtec	DEER	venado	yusu	yusu	61	1936			zylstra2012gramatica		alac11
-21273	ChalcatongoHidalgoMixtec	DEER	deer	isù	isù	61	1936	NA	NA	macaulay1996grammar		chal11
+21273	ChalcatongoHidalgoMixtec	DEER	deer	isù	isù	61	1936			macaulay1996grammar		chal11
 229	SantaMariaYolotepecMixtec	SQUIRREL	ardilla	ndi³kwa⁴ñu³	ndi³-kwa⁴ñu³	62	1628			amith2020yoloxochitl		yolo11
 5261	SantaMariaPapaloCuicatec	SQUIRREL	ardilla	i²yu¹⁴	i²yu¹⁴	62	1628			anderson1983diccionario		papa11
 4541	AlacatlatzalaMixtec	SQUIRREL	ardilla	ndikuáño	ndi-kuáño	62	1628			anderson2006vocabulario		alac11
@@ -6507,8 +6507,8 @@ ID	DOCULECT	CONCEPT	SPANISH_GLOSS	VALUE	FORM	IDlist	CONCEPTICON_ID	LOAN	LOAN_SOU
 20847	SanAndresYutatioMixtec	SKUNK	zorrillo	ti̠ñi̠'í	ti̠-ñi̠'í	63				williams2017diccionario		yuta13
 4542	AlacatlatzalaMixtec	SKUNK	zorrillo	ti̠'ín	ti̠'ín	63				zylstra2012gramatica		alac11
 5650	AlcozaucaGuerreroMixtec	SQUIRREL	ardilla	ⁿdi³=kʷa⁴ɲu³	ⁿdi³-kʷa⁴ɲu³	62	1628			swanton2020observaciones		alco11
-21274	ChalcatongoHidalgoMixtec	SKUNK	skunk	čɨ̃́ʔɨ̃́	čɨ̃́ʔɨ̃́	63	NA	NA	NA	macaulay1996grammar		chal11
-21275	ChalcatongoHidalgoMixtec	SKUNK	skunk	čɨ̃ʔɨ̃́	čɨ̃ʔɨ̃́	63	NA	NA	NA	macaulay1996grammar		chal11
+21274	ChalcatongoHidalgoMixtec	SKUNK	skunk	čɨ̃́ʔɨ̃́	čɨ̃́ʔɨ̃́	63				macaulay1996grammar		chal11
+21275	ChalcatongoHidalgoMixtec	SKUNK	skunk	čɨ̃ʔɨ̃́	čɨ̃ʔɨ̃́	63				macaulay1996grammar		chal11
 5113	SanEstebanAtatlahucaMixtec	POSSUM	tlacuache	chéngo	chéngo	64	470			alexander1980gramatica	[A]	atat11
 231	SantaMariaYolotepecMixtec	POSSUM	tlacuache	xa¹ko³²	xa¹ko³²	64	470			amith2020yoloxochitl		yolo11
 5263	SantaMariaPapaloCuicatec	POSSUM	tlacuache	y'a²ta¹⁴	y'a²ta¹⁴	64	470			anderson1983diccionario		papa11
@@ -6596,8 +6596,8 @@ ID	DOCULECT	CONCEPT	SPANISH_GLOSS	VALUE	FORM	IDlist	CONCEPTICON_ID	LOAN	LOAN_SOU
 1040	AlacatlatzalaMixtec	RABBIT	rabbit	yīsōn	yīsōn	66	1136	yes	Spanish	zylstra1991syntactic		alac11
 4545	AlacatlatzalaMixtec	RABBIT	conejo	tí-leson	tí-leson	66	1136			zylstra2012gramatica		alac11
 5653	YucuquimiOcampoMixtec	SQUIRREL	ardilla	ⁿdi²=kʷi³ĩ³	ⁿdi²-kʷi³ĩ³	62	1628			swanton2020observaciones		yucu16
-21278	ChalcatongoHidalgoMixtec	RABBIT	rabbit	isò	isò	66	1136	NA	NA	macaulay1996grammar		chal11
-21279	ChalcatongoHidalgoMixtec	RABBIT	rabbit	isù	isù	66	1136	NA	NA	macaulay1996grammar		chal11
+21278	ChalcatongoHidalgoMixtec	RABBIT	rabbit	isò	isò	66	1136			macaulay1996grammar		chal11
+21279	ChalcatongoHidalgoMixtec	RABBIT	rabbit	isù	isù	66	1136			macaulay1996grammar		chal11
 234	SantaMariaYolotepecMixtec	VULTURE	zopilote	pi³lo⁴	pi³lo⁴	67	1185	yes	Nahuatl	amith2020yoloxochitl		yolo11
 5266	SantaMariaPapaloCuicatec	VULTURE	zopilote	s'i³cu³	s'i³cu³	67	1185			anderson1983diccionario		papa11
 1691	SanAndresChicahuaxtla1890Triqui	VULTURE	zopilote	Chaatru	chaatru	67	1185			belmar1897ensayo		chic02
@@ -6672,7 +6672,7 @@ ID	DOCULECT	CONCEPT	SPANISH_GLOSS	VALUE	FORM	IDlist	CONCEPTICON_ID	LOAN	LOAN_SOU
 20852	SanAndresYutatioMixtec	DOG	perro	ti̠na	ti̠na	68	2009			williams2017diccionario		yuta13
 1042	AlacatlatzalaMixtec	DOG	dog	īnā	īnā	68	2009			zylstra1991syntactic		alac11
 4548	AlacatlatzalaMixtec	DOG	perro	ina	ina	68	2009			zylstra2012gramatica		alac11
-21280	ChalcatongoHidalgoMixtec	DOG	dog	inà	inà	68	2009	NA	NA	macaulay1996grammar		chal11
+21280	ChalcatongoHidalgoMixtec	DOG	dog	inà	inà	68	2009			macaulay1996grammar		chal11
 5116	SanEstebanAtatlahucaMixtec	CAT	gato	vílu	vílu	69	1208			alexander1980gramatica	[A]	atat11
 532	SantoTomasOcotepecMixtec	CAT	cat	chílū	chílū	69	1208			alexander1988syntactic		ocot11
 1892	SanPedroySanPabloTeposcolula1600Mixtec	CAT	gato	misto	misto	69	1208			alvarado1593vocabulario		tepo01
@@ -6840,7 +6840,7 @@ ID	DOCULECT	CONCEPT	SPANISH_GLOSS	VALUE	FORM	IDlist	CONCEPTICON_ID	LOAN	LOAN_SOU
 20853	SanAndresYutatioMixtec	CAT	gato	chitó	chitó	69	1208			williams2017diccionario		yuta13
 1043	AlacatlatzalaMixtec	CAT	cat	míshtón	míshtón	69	1208			zylstra1991syntactic		alac11
 4549	AlacatlatzalaMixtec	CAT	gato	míxtón	míxtón	69	1208	yes	Colonial Spanish?	zylstra2012gramatica		alac11
-21281	ChalcatongoHidalgoMixtec	CAT	cat	bílu	bílu	69	1208	NA	NA	macaulay1996grammar		chal11
+21281	ChalcatongoHidalgoMixtec	CAT	cat	bílu	bílu	69	1208			macaulay1996grammar		chal11
 5117	SanEstebanAtatlahucaMixtec	ROOSTER	gallo	líhli	líhli	70	1511			alexander1980gramatica	[C]	atat11
 1894	SanPedroySanPabloTeposcolula1600Mixtec	ROOSTER	gallo	queteyee	quete-yee	70	1511			alvarado1593vocabulario		tepo01
 1893	SanPedroySanPabloTeposcolula1600Mixtec	ROOSTER	gallo	tiñoo	tiñoo	70	1511			alvarado1593vocabulario		tepo01
@@ -6872,7 +6872,7 @@ ID	DOCULECT	CONCEPT	SPANISH_GLOSS	VALUE	FORM	IDlist	CONCEPTICON_ID	LOAN	LOAN_SOU
 20854	SanAndresYutatioMixtec	ROOSTER	gallo	chéli	chéli	70	1511			williams2017diccionario		yuta13
 1044	AlacatlatzalaMixtec	ROOSTER	rooster	ndūshú chée	ndūshú-chée	70	1511			zylstra1991syntactic		alac11
 4550	AlacatlatzalaMixtec	ROOSTER	gallo	nduxú chée	nduxú-chée	70	1511			zylstra2012gramatica		alac11
-21282	ChalcatongoHidalgoMixtec	ROOSTER	rooster	líʔi	líʔi	70	1511	NA	NA	macaulay1996grammar		chal11
+21282	ChalcatongoHidalgoMixtec	ROOSTER	rooster	líʔi	líʔi	70	1511			macaulay1996grammar		chal11
 20361	SantoDomingoHuendioMixtec	CHICKEN	pollo	chili	chili	71	1318			becerra-roldan2015un-estudio		huen11
 1315	ConcepcionPapaloCuicatec	CHICKEN	chicken	tūhū	tūhū	71	1318			bradley1991preliminary		conc11
 1404	SantiagoYosonduaMixtec	CHICKEN	chicken	chuun	chuun	71	1318			farris1992syntactic		yoso11
@@ -6905,7 +6905,7 @@ ID	DOCULECT	CONCEPT	SPANISH_GLOSS	VALUE	FORM	IDlist	CONCEPTICON_ID	LOAN	LOAN_SOU
 4009	SanAgustinChayucoMixtec	HEN	gallina	ndɨvɨ	ndɨvɨ	71	1514			pensinger1974diccionario		chay11
 20855	SanAndresYutatioMixtec	HEN	gallina	ti̠ño̠ó	ti̠-ño̠ó	71	1514			williams2017diccionario		yuta13
 4551	AlacatlatzalaMixtec	HEN	gallina	nduxú	nduxú	71	1514			zylstra2012gramatica		alac11
-21283	ChalcatongoHidalgoMixtec	HEN	hen, chicken	čũ̀ũ̀	čũ̀ũ̀	71	1514	NA	NA	macaulay1996grammar		chal11
+21283	ChalcatongoHidalgoMixtec	HEN	hen, chicken	čũ̀ũ̀	čũ̀ũ̀	71	1514			macaulay1996grammar		chal11
 5119	SanEstebanAtatlahucaMixtec	PIG	marrano	quɨnɨ̄	quɨnɨ̄	72	1337			alexander1980gramatica	[C]	atat11
 1896	SanPedroySanPabloTeposcolula1600Mixtec	PIG	puerco	quene	quene	72	1337			alvarado1593vocabulario		tepo01
 239	SantaMariaYolotepecMixtec	PIG	marrano	ki³ni²	ki³ni²	72	1337			amith2020yoloxochitl		yolo11
@@ -6938,7 +6938,7 @@ ID	DOCULECT	CONCEPT	SPANISH_GLOSS	VALUE	FORM	IDlist	CONCEPTICON_ID	LOAN	LOAN_SOU
 20856	SanAndresYutatioMixtec	PIG	marrano, puerco, cerdo	kochí	kochí	72	1337	yes	Spanish	williams2017diccionario		yuta13
 1046	AlacatlatzalaMixtec	PIG	pig	kīni	kīni	72	1337			zylstra1991syntactic		alac11
 4552	AlacatlatzalaMixtec	PIG	marrano	kini̠	kini̠	72	1337			zylstra2012gramatica		alac11
-21284	ChalcatongoHidalgoMixtec	PIG	pig	kɨnɨ̀	kɨnɨ̀	72	1337	NA	NA	macaulay1996grammar		chal11
+21284	ChalcatongoHidalgoMixtec	PIG	pig	kɨnɨ̀	kɨnɨ̀	72	1337			macaulay1996grammar		chal11
 534	SantoTomasOcotepecMixtec	HORSE	horse	kwáyu	kwáyu	73	615	yes	Colonial Spanish	alexander1988syntactic		ocot11
 240	SantaMariaYolotepecMixtec	HORSE	caballo	kwa⁴yu²	kwa⁴yu²	73	615	yes	Colonial Spanish	amith2020yoloxochitl		yolo11
 5272	SantaMariaPapaloCuicatec	HORSE	caballo, bestia	y'u²du⁴	y'u²du⁴	73	615			anderson1983diccionario		papa11
@@ -7038,7 +7038,7 @@ ID	DOCULECT	CONCEPT	SPANISH_GLOSS	VALUE	FORM	IDlist	CONCEPTICON_ID	LOAN	LOAN_SOU
 4739	XochapaMixtec	ANT	hormiga	tio̠kó	tio̠kó	75	587			stark2013diccionario		xoch11
 20860	SanAndresYutatioMixtec	ANT	hormiga (pequeña y negra)	ti̠'i̠'á	ti̠-'i̠'á	75	587			williams2017diccionario		yuta13
 20859	SanAndresYutatioMixtec	ANT	hormiga (grande y negra)	ti̠yi̠tó	ti̠-yi̠tó	75	587			williams2017diccionario		yuta13
-21287	ChalcatongoHidalgoMixtec	ANT	ant	čókó	čókó	75	587	NA	NA	macaulay1996grammar		chal11
+21287	ChalcatongoHidalgoMixtec	ANT	ant	čókó	čókó	75	587			macaulay1996grammar		chal11
 5121	SanEstebanAtatlahucaMixtec	HORN (ANATOMY)	cuerno	ndɨquɨ	ndɨquɨ	76	1393			alexander1980gramatica	[A]	atat11
 1901	SanPedroySanPabloTeposcolula1600Mixtec	HORN (ANATOMY)	cuerno	deque	deque	76	1393			alvarado1593vocabulario		tepo01
 243	SantaMariaYolotepecMixtec	HORN (ANATOMY)	cuerno	ndi³ki⁴	ndi³ki⁴	76	1393			amith2020yoloxochitl		yolo11
@@ -7186,7 +7186,7 @@ ID	DOCULECT	CONCEPT	SPANISH_GLOSS	VALUE	FORM	IDlist	CONCEPTICON_ID	LOAN	LOAN_SOU
 4740	XochapaMixtec	HORN (ANATOMY)	cuerno	ndikín	ndikín	76	1393			stark2013diccionario		xoch11
 20861	SanAndresYutatioMixtec	HORN (ANATOMY)	cuerno	ndíki̠	ndíki̠	76	1393			williams2017diccionario		yuta13
 1049	AlacatlatzalaMixtec	HORN (ANATOMY)	horn (anatomy)	ndiki	ndiki	76	1393			zylstra1991syntactic		alac11
-21288	ChalcatongoHidalgoMixtec	HORN (ANATOMY)	horn (anatomy)	ndɨkɨ	ndɨkɨ	76	1393	NA	NA	macaulay1996grammar		chal11
+21288	ChalcatongoHidalgoMixtec	HORN (ANATOMY)	horn (anatomy)	ndɨkɨ	ndɨkɨ	76	1393			macaulay1996grammar		chal11
 1902	SanPedroySanPabloTeposcolula1600Mixtec	FEATHER	pluma de aue pequeña	tnumi	tnumi	77	1201			alvarado1593vocabulario		tepo01
 244	SantaMariaYolotepecMixtec	FEATHER	pluma	tu¹mi³²	tu¹mi³²	77	1201			amith2020yoloxochitl		yolo11
 5276	SantaMariaPapaloCuicatec	FEATHER	pluma	plu²ma¹	plu²ma¹	77	1201	yes	Spanish	anderson1983diccionario		papa11
@@ -7336,7 +7336,7 @@ ID	DOCULECT	CONCEPT	SPANISH_GLOSS	VALUE	FORM	IDlist	CONCEPTICON_ID	LOAN	LOAN_SOU
 5661	SantaMariaZacatepecMixtec	FEATHER	pluma	tu²mi¹	tu²mi¹	77	1201			swanton2020observaciones		zaca11
 5663	YucuquimiOcampoMixtec	FEATHER	pluma	tu¹mi²	tu¹mi²	77	1201			swanton2020observaciones		yucu16
 20862	SanAndresYutatioMixtec	FEATHER	pluma	to̠mi	to̠mi	77	1201			williams2017diccionario		yuta13
-21289	ChalcatongoHidalgoMixtec	FEATHER	feather	tũ̀ũ̀	tũ̀ũ̀	77	1201	NA	NA	macaulay1996grammar		chal11
+21289	ChalcatongoHidalgoMixtec	FEATHER	feather	tũ̀ũ̀	tũ̀ũ̀	77	1201			macaulay1996grammar		chal11
 5122	SanEstebanAtatlahucaMixtec	WING	ala	ndijēn	ndijēn	78	1257			alexander1980gramatica	[C]	atat11
 1903	SanPedroySanPabloTeposcolula1600Mixtec	WING	ala	disi	disi	78	1257			alvarado1593vocabulario		tepo01
 245	SantaMariaYolotepecMixtec	WING	ala	ndi¹xin⁴	ndi¹xin⁴	78	1257			amith2020yoloxochitl		yolo11
@@ -7451,7 +7451,7 @@ ID	DOCULECT	CONCEPT	SPANISH_GLOSS	VALUE	FORM	IDlist	CONCEPTICON_ID	LOAN	LOAN_SOU
 4227	SanJuanColoradoMixtec	WING	ala	ndìtsìn	ndìtsìn	78	1257			stark1986diccionario		colo11
 4741	XochapaMixtec	WING	ala	ndi̠xín	ndi̠xín	78	1257			stark2013diccionario		xoch11
 20863	SanAndresYutatioMixtec	WING	ala	ndixi̠	ndixi̠	78	1257			williams2017diccionario		yuta13
-21290	ChalcatongoHidalgoMixtec	WING	wing	ndíxì	ndíxì	78	1257	NA	NA	macaulay1996grammar		chal11
+21290	ChalcatongoHidalgoMixtec	WING	wing	ndíxì	ndíxì	78	1257			macaulay1996grammar		chal11
 536	SantoTomasOcotepecMixtec	TAIL	tail	suhma	suhma	79	1220			alexander1988syntactic		ocot11
 1904	SanPedroySanPabloTeposcolula1600Mixtec	TAIL	cola	dzuma	dzuma	79	1220			alvarado1593vocabulario		tepo01
 246	SantaMariaYolotepecMixtec	TAIL	cola	su'¹ma⁴	su'¹ma⁴	79	1220			amith2020yoloxochitl		yolo11
@@ -7605,7 +7605,7 @@ ID	DOCULECT	CONCEPT	SPANISH_GLOSS	VALUE	FORM	IDlist	CONCEPTICON_ID	LOAN	LOAN_SOU
 4405	SantaMariaZacatepecMixtec	TAIL	cola	su'ma	su'ma	79	1220			towne2011gramatica		zaca11
 20864	SanAndresYutatioMixtec	TAIL	cola	ndó'o̠	ndó'o̠	79	1220			williams2017diccionario		yuta13
 4557	AlacatlatzalaMixtec	TAIL	cola	si̠'ma̠	si̠'ma̠	79	1220			zylstra2012gramatica		alac11
-21291	ChalcatongoHidalgoMixtec	TAIL	tail	súʔma	súʔma	79	1220	NA	NA	macaulay1996grammar		chal11
+21291	ChalcatongoHidalgoMixtec	TAIL	tail	súʔma	súʔma	79	1220			macaulay1996grammar		chal11
 5123	SanEstebanAtatlahucaMixtec	TREE	árbol, palo	yujnu	yujnu	80	906			alexander1980gramatica	[A]	atat11
 537	SantoTomasOcotepecMixtec	TREE	tree	ñūtūn	ñūtūn	80	906			alexander1988syntactic		ocot11
 1905	SanPedroySanPabloTeposcolula1600Mixtec	TREE	árbol	yutnu	yutnu	80	906			alvarado1593vocabulario		tepo01
@@ -7780,7 +7780,7 @@ ID	DOCULECT	CONCEPT	SPANISH_GLOSS	VALUE	FORM	IDlist	CONCEPTICON_ID	LOAN	LOAN_SOU
 20865	SanAndresYutatioMixtec	TREE	árbol, palo	yíto̠	yíto̠	80	906			williams2017diccionario		yuta13
 1050	AlacatlatzalaMixtec	TREE	tree	yīton	yīton	80	906			zylstra1991syntactic		alac11
 4558	AlacatlatzalaMixtec	TREE	árbol, palo	yito̠n	yito̠n	80	906			zylstra2012gramatica		alac11
-21292	ChalcatongoHidalgoMixtec	TREE	tree	žṹnṹ	žṹnṹ	80	906	NA	NA	macaulay1996grammar		chal11
+21292	ChalcatongoHidalgoMixtec	TREE	tree	žṹnṹ	žṹnṹ	80	906			macaulay1996grammar		chal11
 11214	SanPedroTidaaMixtec	FIELD	campo	kuʔu	kuʔu	81	212			josserand1983mixtec		tida11
 5280	SantaMariaPapaloCuicatec	HERBACEOUS PLANT	hierba, hoja	ya⁴ta⁴	ya⁴ta⁴	81				anderson1983diccionario		papa11
 20368	SantoDomingoHuendioMixtec	HERBACEOUS PLANT	hierba	yí'í	yí'í	81				becerra-roldan2015un-estudio		huen11
@@ -7922,7 +7922,7 @@ ID	DOCULECT	CONCEPT	SPANISH_GLOSS	VALUE	FORM	IDlist	CONCEPTICON_ID	LOAN	LOAN_SOU
 11233	SantaMariaZacatepecMixtec	HILL WITH GRASS	monte	yuku	yuku	81				josserand1983mixtec		zaca11
 2446	AyutlalosLibresMixtec	LEAF	leaf	yūkù	yūkù-	81	628			durr1987preliminary		ayut11
 2447	SanJeronimoProgresoMixtec	WEED	weeds	žǜkǜ	žǜkǜ	81	3288			durr1987preliminary		prog12
-21293	ChalcatongoHidalgoMixtec	HERBACEOUS PLANT	herb	žukù	žukù	81	NA	NA	NA	macaulay1996grammar		chal11
+21293	ChalcatongoHidalgoMixtec	HERBACEOUS PLANT	herb	žukù	žukù	81				macaulay1996grammar		chal11
 5124	SanEstebanAtatlahucaMixtec	GRASS	zacate	ndayóhō	nda-yóhō	82	606			alexander1980gramatica	[C]	atat11
 538	SantoTomasOcotepecMixtec	GRASS	grass	īte	īte	82	606			alexander1988syntactic		ocot11
 248	SantaMariaYolotepecMixtec	GRASS	sacate, pasto	i³ta²	i³ta²	82	606			amith2020yoloxochitl		yolo11
@@ -7959,8 +7959,8 @@ ID	DOCULECT	CONCEPT	SPANISH_GLOSS	VALUE	FORM	IDlist	CONCEPTICON_ID	LOAN	LOAN_SOU
 5678	YucuquimiOcampoMixtec	GRASS	pasto	i²ta²	i²ta²	82	606			swanton2020observaciones		yucu16
 20868	SanAndresYutatioMixtec	GRASS	pasto	ita	ita	82	606			williams2017diccionario		yuta13
 20867	SanAndresYutatioMixtec	GRASS	zacate	ndáyo̠'o	ndá-yo̠'o	82	606			williams2017diccionario		yuta13
-21294	ChalcatongoHidalgoMixtec	GRASS	grass	ičá	ičá	82	606	NA	NA	macaulay1996grammar		chal11
-21295	ChalcatongoHidalgoMixtec	GRASS	grass	íčà	íčà	82	606	NA	NA	macaulay1996grammar		chal11
+21294	ChalcatongoHidalgoMixtec	GRASS	grass	ičá	ičá	82	606			macaulay1996grammar		chal11
+21295	ChalcatongoHidalgoMixtec	GRASS	grass	íčà	íčà	82	606			macaulay1996grammar		chal11
 5125	SanEstebanAtatlahucaMixtec	FLOWER	flor	ita	ita	83	239			alexander1980gramatica	[C]	atat11
 539	SantoTomasOcotepecMixtec	FLOWER	flower	īta	īta	83	239			alexander1988syntactic		ocot11
 1906	SanPedroySanPabloTeposcolula1600Mixtec	FLOWER	flor	ita	ita	83	239			alvarado1593vocabulario		tepo01
@@ -8012,7 +8012,7 @@ ID	DOCULECT	CONCEPT	SPANISH_GLOSS	VALUE	FORM	IDlist	CONCEPTICON_ID	LOAN	LOAN_SOU
 20869	SanAndresYutatioMixtec	FLOWER	flor	ita	ita	83	239			williams2017diccionario		yuta13
 1051	AlacatlatzalaMixtec	FLOWER	flower	yītā	yītā	83	239			zylstra1991syntactic		alac11
 4562	AlacatlatzalaMixtec	FLOWER	flor	yita	yita	83	239			zylstra2012gramatica		alac11
-21296	ChalcatongoHidalgoMixtec	FLOWER	flower	ità	ità	83	239	NA	NA	macaulay1996grammar		chal11
+21296	ChalcatongoHidalgoMixtec	FLOWER	flower	ità	ità	83	239			macaulay1996grammar		chal11
 5284	SantaMariaPapaloCuicatec	MAGUEY	maguey, verdura	yi⁴va⁴	yi⁴va⁴	84				anderson1983diccionario		papa11
 4563	AlacatlatzalaMixtec	MAGUEY	maguey	yavi̠	yavi̠	84				anderson2006vocabulario		alac11
 20370	SantoDomingoHuendioMixtec	MAGUEY	maguey	yavi	yavi	84				becerra-roldan2015un-estudio		huen11
@@ -8161,7 +8161,7 @@ ID	DOCULECT	CONCEPT	SPANISH_GLOSS	VALUE	FORM	IDlist	CONCEPTICON_ID	LOAN	LOAN_SOU
 4234	SanJuanColoradoMixtec	MAGUEY	maguey	yavi	yavi	84				stark1986diccionario		colo11
 4747	XochapaMixtec	MAGUEY	maguey	yaví	yaví	84				stark2013diccionario		xoch11
 20870	SanAndresYutatioMixtec	MAGUEY	maguey	yái̠	yái̠	84				williams2017diccionario		yuta13
-21297	ChalcatongoHidalgoMixtec	MAGUEY	maguey, century plant	žáú	žáú	84	NA	NA	NA	macaulay1996grammar		chal11
+21297	ChalcatongoHidalgoMixtec	MAGUEY	maguey, century plant	žáú	žáú	84				macaulay1996grammar		chal11
 1907	SanPedroySanPabloTeposcolula1600Mixtec	ROOT	raíz	yoho	yoho	85	670			alvarado1593vocabulario		tepo01
 250	SantaMariaYolotepecMixtec	ROOT	raíz	tio'¹o³	tio'¹o³	85	670			amith2020yoloxochitl		yolo11
 5285	SantaMariaPapaloCuicatec	ROOT	raíz	d'i²yu²	d'i²yu²	85	670			anderson1983diccionario		papa11
@@ -8186,7 +8186,7 @@ ID	DOCULECT	CONCEPT	SPANISH_GLOSS	VALUE	FORM	IDlist	CONCEPTICON_ID	LOAN	LOAN_SOU
 20666	YucunanyMixtec	ROOT	root	yo'ó	yo'ó	85	670			salazar2020yucunani		yucu17
 4235	SanJuanColoradoMixtec	ROOT	raíz	yoho	yoho	85	670			stark1986diccionario		colo11
 20871	SanAndresYutatioMixtec	ROOT	raíz	yo̠'o	yo̠'o	85	670			williams2017diccionario		yuta13
-21298	ChalcatongoHidalgoMixtec	ROOT	root	žoʔo	žoʔo	85	670	NA	NA	macaulay1996grammar		chal11
+21298	ChalcatongoHidalgoMixtec	ROOT	root	žoʔo	žoʔo	85	670			macaulay1996grammar		chal11
 1908	SanPedroySanPabloTeposcolula1600Mixtec	THORN	espina	iño	iño	86	124			alvarado1593vocabulario		tepo01
 251	SantaMariaYolotepecMixtec	THORN	espina	i³ñu⁴	i³ñu⁴	86	124			amith2020yoloxochitl		yolo11
 5286	SantaMariaPapaloCuicatec	THORN	espina	yan²	yan²	86	124			anderson1983diccionario		papa11
@@ -8219,7 +8219,7 @@ ID	DOCULECT	CONCEPT	SPANISH_GLOSS	VALUE	FORM	IDlist	CONCEPTICON_ID	LOAN	LOAN_SOU
 5686	SantaMariaZacatepecMixtec	THORN	espina	i²ɲu²ʔ	i²ɲu²ʔ	86	124			swanton2020observaciones		zaca11
 5688	YucuquimiOcampoMixtec	THORN	espina	i³õ¹	i³õ¹	86	124			swanton2020observaciones		yucu16
 20872	SanAndresYutatioMixtec	THORN	espina	ío̠n	ío̠n	86	124			williams2017diccionario		yuta13
-21299	ChalcatongoHidalgoMixtec	THORN	thorn	ĩ́ñṹ	ĩ́ñṹ	86	124	NA	NA	macaulay1996grammar		chal11
+21299	ChalcatongoHidalgoMixtec	THORN	thorn	ĩ́ñṹ	ĩ́ñṹ	86	124			macaulay1996grammar		chal11
 5126	SanEstebanAtatlahucaMixtec	CORN	maíz	nunī	nunī	87	506			alexander1980gramatica	[C]	atat11
 540	SantoTomasOcotepecMixtec	CORN	grain of corn	nuni	nuni	87	506			alexander1988syntactic		ocot11
 1909	SanPedroySanPabloTeposcolula1600Mixtec	CORN	maíz en grano	nuni	nuni	87	506			alvarado1593vocabulario		tepo01
@@ -8392,7 +8392,7 @@ ID	DOCULECT	CONCEPT	SPANISH_GLOSS	VALUE	FORM	IDlist	CONCEPTICON_ID	LOAN	LOAN_SOU
 20873	SanAndresYutatioMixtec	CORN	maíz en grano	noni̠	noni̠	87	506			williams2017diccionario		yuta13
 1052	AlacatlatzalaMixtec	CORN	corn	noni	noni	87	506			zylstra1991syntactic		alac11
 4565	AlacatlatzalaMixtec	CORN	maíz	no̠ni̠	no̠ni̠	87	506			zylstra2012gramatica		alac11
-21300	ChalcatongoHidalgoMixtec	CORN	grain of corn	nunì	nunì	87	506	NA	NA	macaulay1996grammar		chal11
+21300	ChalcatongoHidalgoMixtec	CORN	grain of corn	nunì	nunì	87	506			macaulay1996grammar		chal11
 5127	SanEstebanAtatlahucaMixtec	CORN FIELD	milpa	itu	itu	88	449			alexander1980gramatica	[C]	atat11
 541	SantoTomasOcotepecMixtec	CORN FIELD	cornfield	ītu	ītu	88	449			alexander1988syntactic		ocot11
 1910	SanPedroySanPabloTeposcolula1600Mixtec	CORN FIELD	milpa	itu	itu	88	449			alvarado1593vocabulario		tepo01
@@ -8545,7 +8545,7 @@ ID	DOCULECT	CONCEPT	SPANISH_GLOSS	VALUE	FORM	IDlist	CONCEPTICON_ID	LOAN	LOAN_SOU
 1053	AlacatlatzalaMixtec	CORN FIELD	cornfield	yūtū	yūtū	88	449			zylstra1991syntactic		alac11
 4566	AlacatlatzalaMixtec	CORN FIELD	milpa	yutu	yutu	88	449			zylstra2012gramatica		alac11
 11484	SantaMariaApazcoMixtec	PLANTED FIELD	planted field	wižu	wižu	88				josserand1983mixtec		apas11
-21301	ChalcatongoHidalgoMixtec	CORN FIELD	cornfield	itù	itù	88	449	NA	NA	macaulay1996grammar		chal11
+21301	ChalcatongoHidalgoMixtec	CORN FIELD	cornfield	itù	itù	88	449			macaulay1996grammar		chal11
 542	SantoTomasOcotepecMixtec	EAR OF CORN (FRESH)	fresh ear of corn	ndīshī	ndīshī	89				alexander1988syntactic		ocot11
 254	SantaMariaYolotepecMixtec	EAR OF CORN (FRESH)	elote	ndi³xi⁴	ndi³xi⁴	89				amith2020yoloxochitl		yolo11
 5289	SantaMariaPapaloCuicatec	EAR OF CORN (FRESH)	elote	yu²di²	yu²di²	89				anderson1983diccionario		papa11
@@ -8572,7 +8572,7 @@ ID	DOCULECT	CONCEPT	SPANISH_GLOSS	VALUE	FORM	IDlist	CONCEPTICON_ID	LOAN	LOAN_SOU
 4412	SantaMariaZacatepecMixtec	EAR OF CORN (FRESH)	elote	ndixi	ndixi	89				towne2011gramatica		zaca11
 20875	SanAndresYutatioMixtec	EAR OF CORN (FRESH)	elote tierno	ída̠	ída̠	89				williams2017diccionario		yuta13
 20876	SanAndresYutatioMixtec	EAR OF CORN (FRESH)	elote	ndídi̠	ndídi̠	89				williams2017diccionario		yuta13
-21302	ChalcatongoHidalgoMixtec	EAR OF CORN (FRESH)	ear of corn	nɨ́ñɨ́	nɨ́ñɨ́	89	NA	NA	NA	macaulay1996grammar		chal11
+21302	ChalcatongoHidalgoMixtec	EAR OF CORN (FRESH)	ear of corn	nɨ́ñɨ́	nɨ́ñɨ́	89				macaulay1996grammar		chal11
 255	SantaMariaYolotepecMixtec	NIXTAMAL	nixtamal	xa'⁴a²	xa'⁴a²	90				amith2020yoloxochitl		yolo11
 5290	SantaMariaPapaloCuicatec	NIXTAMAL	nixtamal	ve⁴ye⁴	ve⁴ye⁴	90				anderson1983diccionario		papa11
 6208	ElJicaralMixtec	NIXTAMAL	nixtamal	xá'a	xá'a	90				Emily John-Martin		jica13
@@ -8745,7 +8745,7 @@ ID	DOCULECT	CONCEPT	SPANISH_GLOSS	VALUE	FORM	IDlist	CONCEPTICON_ID	LOAN	LOAN_SOU
 20878	SanAndresYutatioMixtec	CORN DOUGH	masa, atole	yúsa̠	yúsa̠	91				williams2017diccionario		yuta13
 1054	AlacatlatzalaMixtec	CORN DOUGH	corn dough	yūshan	yūshan	91				zylstra1991syntactic		alac11
 4569	AlacatlatzalaMixtec	CORN DOUGH	masa	yuxa̠n	yuxa̠n	91				zylstra2012gramatica		alac11
-21303	ChalcatongoHidalgoMixtec	CORN DOUGH	corn dough	žuša	žuša	91	NA	NA	NA	macaulay1996grammar		chal11
+21303	ChalcatongoHidalgoMixtec	CORN DOUGH	corn dough	žuša	žuša	91				macaulay1996grammar		chal11
 5128	SanEstebanAtatlahucaMixtec	TORTILLA	tortilla	staā	staā	92				alexander1980gramatica	[C]	atat11
 543	SantoTomasOcotepecMixtec	TORTILLA	tortilla	staa	staa	92				alexander1988syntactic		ocot11
 1911	SanPedroySanPabloTeposcolula1600Mixtec	TORTILLA	tortilla	dzita	dzita	92				alvarado1593vocabulario		tepo01
@@ -8924,7 +8924,7 @@ ID	DOCULECT	CONCEPT	SPANISH_GLOSS	VALUE	FORM	IDlist	CONCEPTICON_ID	LOAN	LOAN_SOU
 20879	SanAndresYutatioMixtec	TORTILLA	tortilla	dita̠	dita̠	92				williams2017diccionario		yuta13
 1055	AlacatlatzalaMixtec	TORTILLA	tortilla	sita	sita	92				zylstra1991syntactic		alac11
 4570	AlacatlatzalaMixtec	TORTILLA	tortilla	si̠ta̠	si̠ta̠	92				zylstra2012gramatica		alac11
-21304	ChalcatongoHidalgoMixtec	TORTILLA	tortilla	staà	staà	92	NA	NA	NA	macaulay1996grammar		chal11
+21304	ChalcatongoHidalgoMixtec	TORTILLA	tortilla	staà	staà	92				macaulay1996grammar		chal11
 11848	SantiagoCacaloxtepecMixtec	CORN COB	mazorca	ni̧-ña̧ma̧	ni̧-ña̧ma̧	93				josserand1983mixtec		caca11
 11921	SanBartolomeYucuaneMixtec	CORN HUSK	totomoxtle	ña̧ma̧	ña̧ma̧	93				josserand1983mixtec		yucu11
 11920	SanBartolomeYucuaneMixtec	CORN HUSK	chala	žaka	žaka	93				josserand1983mixtec		yucu11
@@ -9262,8 +9262,8 @@ ID	DOCULECT	CONCEPT	SPANISH_GLOSS	VALUE	FORM	IDlist	CONCEPTICON_ID	LOAN	LOAN_SOU
 20675	YucunanyMixtec	TASSEL	tassel, maize spike	nùmǎ yutǔ	nùmǎ-yutǔ	95				salazar2020yucunani		yucu17
 4246	SanJuanColoradoMixtec	TASSEL	espiga	yoco	yoco	95				stark1986diccionario		colo11
 20881	SanAndresYutatioMixtec	TASSEL	espiga (de la milpa)	yoko	yoko	95				williams2017diccionario		yuta13
-21305	ChalcatongoHidalgoMixtec	TASSEL	tassel, maize spike	žóko	žóko	95	NA	NA	NA	macaulay1996grammar		chal11
-21306	ChalcatongoHidalgoMixtec	TASSEL	tassel, maize spike	tɨkàžóko	tɨkà-žóko	95	NA	NA	NA	macaulay1996grammar		chal11
+21305	ChalcatongoHidalgoMixtec	TASSEL	tassel, maize spike	žóko	žóko	95				macaulay1996grammar		chal11
+21306	ChalcatongoHidalgoMixtec	TASSEL	tassel, maize spike	tɨkàžóko	tɨkà-žóko	95				macaulay1996grammar		chal11
 544	SantoTomasOcotepecMixtec	BEAN	bean	ndūchī	ndūchī	96	832			alexander1988syntactic		ocot11
 1916	SanPedroySanPabloTeposcolula1600Mixtec	BEAN	frisol(es)	duchi	duchi	96	832			alvarado1593vocabulario		tepo01
 261	SantaMariaYolotepecMixtec	BEAN	frijol(es)	ndu³chi⁴	ndu³chi⁴	96	832			amith2020yoloxochitl		yolo11
@@ -9426,7 +9426,7 @@ ID	DOCULECT	CONCEPT	SPANISH_GLOSS	VALUE	FORM	IDlist	CONCEPTICON_ID	LOAN	LOAN_SOU
 20882	SanAndresYutatioMixtec	BEAN	frijol(es)	ndúchi̠	ndúchi̠	96	832			williams2017diccionario		yuta13
 1056	AlacatlatzalaMixtec	BEAN	bean	ndūchu	ndūchu	96	832			zylstra1991syntactic		alac11
 4573	AlacatlatzalaMixtec	BEAN	frijol(es)	nduchu̠	nduchu̠	96	832			zylstra2012gramatica		alac11
-21307	ChalcatongoHidalgoMixtec	BEAN	bean	nduči	nduči	96	832	NA	NA	macaulay1996grammar		chal11
+21307	ChalcatongoHidalgoMixtec	BEAN	bean	nduči	nduči	96	832			macaulay1996grammar		chal11
 262	SantaMariaYolotepecMixtec	GREEN BEAN	ejote, vaina	ndi³chi²	ndi³chi²	97				amith2020yoloxochitl		yolo11
 5297	SantaMariaPapaloCuicatec	GREEN BEAN	ejote	nde³te³	nde³te³	97				anderson1983diccionario		papa11
 4574	AlacatlatzalaMixtec	GREEN BEAN	ejote	ndi̠chi	ndi̠chi	97				anderson2006vocabulario		alac11
@@ -9536,7 +9536,7 @@ ID	DOCULECT	CONCEPT	SPANISH_GLOSS	VALUE	FORM	IDlist	CONCEPTICON_ID	LOAN	LOAN_SOU
 4248	SanJuanColoradoMixtec	GREEN BEAN	ejote	nyítyì	nyítyì	97				stark1986diccionario		colo11
 4755	XochapaMixtec	GREEN BEAN	ejote	ndìchì	ndìchì	97				stark2013diccionario		xoch11
 20883	SanAndresYutatioMixtec	GREEN BEAN	ejote	ndi̠chi	ndi̠chi	97				williams2017diccionario		yuta13
-21308	ChalcatongoHidalgoMixtec	GREEN BEAN	green bean	ndìči	ndìči	97	NA	NA	NA	macaulay1996grammar		chal11
+21308	ChalcatongoHidalgoMixtec	GREEN BEAN	green bean	ndìči	ndìči	97				macaulay1996grammar		chal11
 545	SantoTomasOcotepecMixtec	CHILI PEPPER	chili pepper	yāhā	yāhā	98	919			alexander1988syntactic		ocot11
 1917	SanPedroySanPabloTeposcolula1600Mixtec	CHILI PEPPER	chile	yaha	yaha	98	919			alvarado1593vocabulario		tepo01
 263	SantaMariaYolotepecMixtec	CHILI PEPPER	chile	ya'³a⁴	ya'³a⁴	98	919			amith2020yoloxochitl		yolo11
@@ -9585,7 +9585,7 @@ ID	DOCULECT	CONCEPT	SPANISH_GLOSS	VALUE	FORM	IDlist	CONCEPTICON_ID	LOAN	LOAN_SOU
 20884	SanAndresYutatioMixtec	CHILI PEPPER	chile	yá'a̠	yá'a̠	98	919			williams2017diccionario		yuta13
 1058	AlacatlatzalaMixtec	CHILI PEPPER	chili pepper	yāha	yāha	98	919			zylstra1991syntactic		alac11
 4575	AlacatlatzalaMixtec	CHILI PEPPER	chile	ya'a̠	ya'a̠	98	919			zylstra2012gramatica		alac11
-21309	ChalcatongoHidalgoMixtec	CHILI PEPPER	chili pepper	žaʔa	žaʔa	98	919	NA	NA	macaulay1996grammar		chal11
+21309	ChalcatongoHidalgoMixtec	CHILI PEPPER	chili pepper	žaʔa	žaʔa	98	919			macaulay1996grammar		chal11
 5129	SanEstebanAtatlahucaMixtec	SALT	sal	ñɨɨ̄	ñɨɨ̄	99	1274			alexander1980gramatica	[C]	atat11
 546	SantoTomasOcotepecMixtec	SALT	salt	ñii	ñii	99	1274			alexander1988syntactic		ocot11
 1918	SanPedroySanPabloTeposcolula1600Mixtec	SALT	sal	ñee	ñee	99	1274			alvarado1593vocabulario		tepo01
@@ -9748,7 +9748,7 @@ ID	DOCULECT	CONCEPT	SPANISH_GLOSS	VALUE	FORM	IDlist	CONCEPTICON_ID	LOAN	LOAN_SOU
 20885	SanAndresYutatioMixtec	SALT	sal	ñii̠	ñii̠	99	1274			williams2017diccionario		yuta13
 1059	AlacatlatzalaMixtec	SALT	salt	ñii	ñii	99	1274			zylstra1991syntactic		alac11
 4576	AlacatlatzalaMixtec	SALT	sal	ñi̠i̠	ñi̠i̠	99	1274			zylstra2012gramatica		alac11
-21310	ChalcatongoHidalgoMixtec	SALT	salt	saù	saù	99	1274	NA	NA	macaulay1996grammar		chal11
+21310	ChalcatongoHidalgoMixtec	SALT	salt	saù	saù	99	1274			macaulay1996grammar		chal11
 5130	SanEstebanAtatlahucaMixtec	PUMPKIN	calabaza	yɨquɨn	yɨquɨn	100	864			alexander1980gramatica	[A]	atat11
 1919	SanPedroySanPabloTeposcolula1600Mixtec	PUMPKIN	calabaza	yeque	yeque	100	864			alvarado1593vocabulario		tepo01
 265	SantaMariaYolotepecMixtec	PUMPKIN	calabaza	i³kin⁴	i³kin⁴	100	864			amith2020yoloxochitl		yolo11
@@ -9894,7 +9894,7 @@ ID	DOCULECT	CONCEPT	SPANISH_GLOSS	VALUE	FORM	IDlist	CONCEPTICON_ID	LOAN	LOAN_SOU
 4419	SantaMariaZacatepecMixtec	PUMPKIN	calabaza	ikin	ikin	100	864			towne2011gramatica		zaca11
 20886	SanAndresYutatioMixtec	PUMPKIN	calabaza	yíki̠	yíki̠	100	864			williams2017diccionario		yuta13
 1060	AlacatlatzalaMixtec	PUMPKIN	squash	yīkin	yīkin	100	864			zylstra1991syntactic		alac11
-21311	ChalcatongoHidalgoMixtec	PUMPKIN	squash, pumpkin	žɨ́kɨ	žɨ́kɨ	100	864	NA	NA	macaulay1996grammar		chal11
+21311	ChalcatongoHidalgoMixtec	PUMPKIN	squash, pumpkin	žɨ́kɨ	žɨ́kɨ	100	864			macaulay1996grammar		chal11
 5131	SanEstebanAtatlahucaMixtec	CHAYOTE	chayote	naña	naña	101				alexander1980gramatica	[A]	atat11
 1920	SanPedroySanPabloTeposcolula1600Mixtec	CHAYOTE	chayote	naña	naña	101				alvarado1593vocabulario		tepo01
 5301	SantaMariaPapaloCuicatec	CHAYOTE	chayote	n'in²	n'in²	101				anderson1983diccionario		papa11
@@ -9914,7 +9914,7 @@ ID	DOCULECT	CONCEPT	SPANISH_GLOSS	VALUE	FORM	IDlist	CONCEPTICON_ID	LOAN	LOAN_SOU
 20681	YucunanyMixtec	CHAYOTE	chayote squash	nañǎ	nañǎ	101				salazar2020yucunani		yucu17
 4760	XochapaMixtec	CHAYOTE	chayote	nañá	nañá	101				stark2013diccionario		xoch11
 20887	SanAndresYutatioMixtec	CHAYOTE	chayote	ti̠nei̠n	ti̠-nei̠n	101				williams2017diccionario		yuta13
-21312	ChalcatongoHidalgoMixtec	CHAYOTE	chayote squash	nã́ñã́	nã́ñã́	101	NA	NA	NA	macaulay1996grammar		chal11
+21312	ChalcatongoHidalgoMixtec	CHAYOTE	chayote squash	nã́ñã́	nã́ñã́	101				macaulay1996grammar		chal11
 5132	SanEstebanAtatlahucaMixtec	SUGAR CANE	caña	ndoō	ndoō	102	146			alexander1980gramatica	[C]	atat11
 1921	SanPedroySanPabloTeposcolula1600Mixtec	SUGAR CANE	caña de comer	doo	doo	102	146			alvarado1593vocabulario		tepo01
 267	SantaMariaYolotepecMixtec	SUGAR CANE	caña dulce	ndo¹o⁴	ndo¹o⁴	102	146			amith2020yoloxochitl		yolo11
@@ -10065,7 +10065,7 @@ ID	DOCULECT	CONCEPT	SPANISH_GLOSS	VALUE	FORM	IDlist	CONCEPTICON_ID	LOAN	LOAN_SOU
 4252	SanJuanColoradoMixtec	SUGAR CANE	caña	ndòò	ndòò	102	146			stark1986diccionario		colo11
 4761	XochapaMixtec	SUGAR CANE	caña	ndo̠ó	ndo̠ó	102	146			stark2013diccionario		xoch11
 20888	SanAndresYutatioMixtec	SUGAR CANE	caña	ndoo̠	ndoo̠	102	146			williams2017diccionario		yuta13
-21313	ChalcatongoHidalgoMixtec	SUGAR CANE	cane, cornstalk	ndoò	ndoò	102	146	NA	NA	macaulay1996grammar		chal11
+21313	ChalcatongoHidalgoMixtec	SUGAR CANE	cane, cornstalk	ndoò	ndoò	102	146			macaulay1996grammar		chal11
 1922	SanPedroySanPabloTeposcolula1600Mixtec	HONEY	miel	dudzi	dudzi	103	942			alvarado1593vocabulario		tepo01
 268	SantaMariaYolotepecMixtec	HONEY	miel	ñu¹ñu⁴	ñu¹ñu⁴	103	942			amith2020yoloxochitl		yolo11
 5303	SantaMariaPapaloCuicatec	HONEY	miel, chahuistle	dan⁴³	dan⁴³	103	942			anderson1983diccionario		papa11
@@ -10217,7 +10217,7 @@ ID	DOCULECT	CONCEPT	SPANISH_GLOSS	VALUE	FORM	IDlist	CONCEPTICON_ID	LOAN	LOAN_SOU
 1061	AlacatlatzalaMixtec	HONEY	honey	ñoño	ñoño	103	942			zylstra1991syntactic		alac11
 4580	AlacatlatzalaMixtec	HONEY	miel	ño̠ño̠	ño̠ño̠	103	942			zylstra2012gramatica		alac11
 12661	SanAgustinChayucoMixtec	SUGAR CANE HONEY	miel de caña	ⁿduši	ⁿduši	103				josserand1983mixtec		chay11
-21314	ChalcatongoHidalgoMixtec	HONEY	honey	nduši	nduši	103	NA	NA	NA	macaulay1996grammar		chal11
+21314	ChalcatongoHidalgoMixtec	HONEY	honey	nduši	nduši	103				macaulay1996grammar		chal11
 5133	SanEstebanAtatlahucaMixtec	FAT (FROM ANIMALS)	manteca	xēhen	xēhen	104	1282			alexander1980gramatica	[C]	atat11
 547	SantoTomasOcotepecMixtec	FAT (FROM ANIMALS)	lard	shehēn	shehēn	104	1282			alexander1988syntactic		ocot11
 1923	SanPedroySanPabloTeposcolula1600Mixtec	FAT (FROM ANIMALS)	grasa, manteca	dzaha	dzaha	104	1282			alvarado1593vocabulario		tepo01
@@ -10256,7 +10256,7 @@ ID	DOCULECT	CONCEPT	SPANISH_GLOSS	VALUE	FORM	IDlist	CONCEPTICON_ID	LOAN	LOAN_SOU
 20890	SanAndresYutatioMixtec	FAT (FROM ANIMALS)	grasa, manteca	da̠'an	da̠'an	104	1282			williams2017diccionario		yuta13
 1062	AlacatlatzalaMixtec	FAT (FROM ANIMALS)	grease	sahān	sahān	104	1282			zylstra1991syntactic		alac11
 4581	AlacatlatzalaMixtec	FAT (FROM ANIMALS)	grasa	sa̠'an	sa̠'an	104	1282			zylstra2012gramatica		alac11
-21315	ChalcatongoHidalgoMixtec	FAT (FROM ANIMALS)	fat, lard, grease	šãʔã	šãʔã	104	1282	NA	NA	macaulay1996grammar		chal11
+21315	ChalcatongoHidalgoMixtec	FAT (FROM ANIMALS)	fat, lard, grease	šãʔã	šãʔã	104	1282			macaulay1996grammar		chal11
 5134	SanEstebanAtatlahucaMixtec	EGG	huevo	ndɨ̄vɨ	ndɨ̄vɨ	105	744			alexander1980gramatica	[C]	atat11
 548	SantoTomasOcotepecMixtec	EGG	egg	ndivi	ndivi	105	744			alexander1988syntactic		ocot11
 1924	SanPedroySanPabloTeposcolula1600Mixtec	EGG	blanquillo, huevo	devui	devui	105	744			alvarado1593vocabulario		tepo01
@@ -10416,7 +10416,7 @@ ID	DOCULECT	CONCEPT	SPANISH_GLOSS	VALUE	FORM	IDlist	CONCEPTICON_ID	LOAN	LOAN_SOU
 20891	SanAndresYutatioMixtec	EGG	blanquillo, huevo	nduu̠	nduu̠	105	744			williams2017diccionario		yuta13
 1063	AlacatlatzalaMixtec	EGG	egg	ndivi	ndivi	105	744			zylstra1991syntactic		alac11
 4582	AlacatlatzalaMixtec	EGG	huevo	ndi̠vi̠	ndi̠vi̠	105	744			zylstra2012gramatica		alac11
-21316	ChalcatongoHidalgoMixtec	EGG	egg	ndɨù	ndɨù	105	744	NA	NA	macaulay1996grammar		chal11
+21316	ChalcatongoHidalgoMixtec	EGG	egg	ndɨù	ndɨù	105	744			macaulay1996grammar		chal11
 5135	SanEstebanAtatlahucaMixtec	TOMATO	jitomate	tɨnana	tɨ-nana	106	986			alexander1980gramatica	[C]	atat11
 549	SantoTomasOcotepecMixtec	TOMATO	tomato	ti-nāna	ti-nāna	106	986			alexander1988syntactic		ocot11
 271	SantaMariaYolotepecMixtec	TOMATO	tomate	ti¹na³na⁴	ti¹na³na⁴	106	986			amith2020yoloxochitl		yolo11
@@ -10538,8 +10538,8 @@ ID	DOCULECT	CONCEPT	SPANISH_GLOSS	VALUE	FORM	IDlist	CONCEPTICON_ID	LOAN	LOAN_SOU
 20892	SanAndresYutatioMixtec	TOMATO	tomate	ti̠nana	ti̠-nana	106	986			williams2017diccionario		yuta13
 1064	AlacatlatzalaMixtec	TOMATO	tomato	nāñā	nāñā	106	986			zylstra1991syntactic		alac11
 1065	AlacatlatzalaMixtec	TOMATO	tomato	ti-nānā	ti-nānā	106	986			zylstra1991syntactic		alac11
-21317	ChalcatongoHidalgoMixtec	TOMATO	tomato	tènana	tè-nana	106	986	NA	NA	macaulay1996grammar		chal11
-21318	ChalcatongoHidalgoMixtec	TOMATO	tomato	tɨ̀nana	tɨ̀-nana	106	986	NA	NA	macaulay1996grammar		chal11
+21317	ChalcatongoHidalgoMixtec	TOMATO	tomato	tènana	tè-nana	106	986			macaulay1996grammar		chal11
+21318	ChalcatongoHidalgoMixtec	TOMATO	tomato	tɨ̀nana	tɨ̀-nana	106	986			macaulay1996grammar		chal11
 272	SantaMariaYolotepecMixtec	SWEET POTATO	camote	ya'³mi²	ya'³mi²	107	159			amith2020yoloxochitl		yolo11
 5307	SantaMariaPapaloCuicatec	SWEET POTATO	camote	m'in²⁴	m'in²⁴	107	159			anderson1983diccionario		papa11
 4584	AlacatlatzalaMixtec	SWEET POTATO	camote	ñá'mi	ñá'mi	107	159			anderson2006vocabulario		alac11
@@ -10568,7 +10568,7 @@ ID	DOCULECT	CONCEPT	SPANISH_GLOSS	VALUE	FORM	IDlist	CONCEPTICON_ID	LOAN	LOAN_SOU
 5715	SantaMariaZacatepecMixtec	SWEET POTATO	camote	ɲa²ʔmi²	ɲa²ʔmi²	107	159			swanton2020observaciones		zaca11
 5717	YucuquimiOcampoMixtec	SWEET POTATO	camote	ɲa²ʔmi²	ɲa²ʔmi²	107	159			swanton2020observaciones		yucu16
 20893	SanAndresYutatioMixtec	SWEET POTATO	camote	ña'ami	ña'ami	107	159			williams2017diccionario		yuta13
-21319	ChalcatongoHidalgoMixtec	SWEET POTATO	sweet potato	ñã́ʔmĩ	ñã́ʔmĩ	107	159	NA	NA	macaulay1996grammar		chal11
+21319	ChalcatongoHidalgoMixtec	SWEET POTATO	sweet potato	ñã́ʔmĩ	ñã́ʔmĩ	107	159			macaulay1996grammar		chal11
 5136	SanEstebanAtatlahucaMixtec	AVOCADO	aguacate	tīchí	tīchí	108	3725			alexander1980gramatica	[B]	atat11
 550	SantoTomasOcotepecMixtec	AVOCADO	avocado	tichí	tichí	108	3725			alexander1988syntactic		ocot11
 273	SantaMariaYolotepecMixtec	AVOCADO	aguacate	ti¹⁴chi³	ti¹⁴chi³	108	3725			amith2020yoloxochitl		yolo11
@@ -10597,7 +10597,7 @@ ID	DOCULECT	CONCEPT	SPANISH_GLOSS	VALUE	FORM	IDlist	CONCEPTICON_ID	LOAN	LOAN_SOU
 20894	SanAndresYutatioMixtec	AVOCADO	aguacate	ti̠chí	ti̠chí	108	3725			williams2017diccionario		yuta13
 1066	AlacatlatzalaMixtec	AVOCADO	avocado	tichí	tichí	108	3725			zylstra1991syntactic		alac11
 4585	AlacatlatzalaMixtec	AVOCADO	aguacate	ti̠chí	ti̠chí	108	3725			zylstra2012gramatica		alac11
-21320	ChalcatongoHidalgoMixtec	AVOCADO	avocado	tɨčɨ́	tɨčɨ́	108	3725	NA	NA	macaulay1996grammar		chal11
+21320	ChalcatongoHidalgoMixtec	AVOCADO	avocado	tɨčɨ́	tɨčɨ́	108	3725			macaulay1996grammar		chal11
 5137	SanEstebanAtatlahucaMixtec	BANANA	plátano	ndica	ndica	109	868			alexander1980gramatica	[A]	atat11
 551	SantoTomasOcotepecMixtec	BANANA	banana	ndīkā	ndīkā	109	868			alexander1988syntactic		ocot11
 1925	SanPedroySanPabloTeposcolula1600Mixtec	BANANA	plátano	chita	chita	109	868			alvarado1593vocabulario		tepo01
@@ -10632,7 +10632,7 @@ ID	DOCULECT	CONCEPT	SPANISH_GLOSS	VALUE	FORM	IDlist	CONCEPTICON_ID	LOAN	LOAN_SOU
 4422	SantaMariaZacatepecMixtec	BANANA	plátano	ndika	ndika	109	868			towne2011gramatica		zaca11
 20895	SanAndresYutatioMixtec	BANANA	plátano	ndíka̠	ndíka̠	109	868			williams2017diccionario		yuta13
 4586	AlacatlatzalaMixtec	BANANA	plátano	chita̠	chita̠	109	868			zylstra2012gramatica		alac11
-21321	ChalcatongoHidalgoMixtec	BANANA	banana	ndíká	ndíká	109	868	NA	NA	macaulay1996grammar		chal11
+21321	ChalcatongoHidalgoMixtec	BANANA	banana	ndíká	ndíká	109	868			macaulay1996grammar		chal11
 5138	SanEstebanAtatlahucaMixtec	PRICKLY PEAR CACTUS	nopal	vihndē	vihndē	110				alexander1980gramatica	[C]	atat11
 275	SantaMariaYolotepecMixtec	PRICKLY PEAR CACTUS	nopal	mi'¹nda⁴	mi'¹nda⁴	110				amith2020yoloxochitl		yolo11
 5310	SantaMariaPapaloCuicatec	PRICKLY PEAR CACTUS	nopal	yi²nd'i³tu³	yi²nd'i³tu³	110				anderson1983diccionario		papa11
@@ -10744,8 +10744,8 @@ ID	DOCULECT	CONCEPT	SPANISH_GLOSS	VALUE	FORM	IDlist	CONCEPTICON_ID	LOAN	LOAN_SOU
 4769	XochapaMixtec	PRICKLY PEAR CACTUS	nopal	vi̠'ndá	vi̠'ndá	110				stark2013diccionario		xoch11
 20896	SanAndresYutatioMixtec	PRICKLY PEAR CACTUS	nopal	ta̠vi̠'índá	ta̠-vi̠'índá	110				williams2017diccionario		yuta13
 1067	AlacatlatzalaMixtec	PRICKLY PEAR CACTUS	prickly pear cactus	ton-vihndá	ton-vihndá	110				zylstra1991syntactic		alac11
-21322	ChalcatongoHidalgoMixtec	PRICKLY PEAR CACTUS	prickly pear cactus	bíʔža	bíʔža	110	NA	NA	NA	macaulay1996grammar		chal11
-21323	ChalcatongoHidalgoMixtec	PRICKLY PEAR CACTUS	prickly pear cactus	bíʔnža	bíʔnža	110	NA	NA	NA	macaulay1996grammar		chal11
+21322	ChalcatongoHidalgoMixtec	PRICKLY PEAR CACTUS	prickly pear cactus	bíʔža	bíʔža	110				macaulay1996grammar		chal11
+21323	ChalcatongoHidalgoMixtec	PRICKLY PEAR CACTUS	prickly pear cactus	bíʔnža	bíʔnža	110				macaulay1996grammar		chal11
 5311	SantaMariaPapaloCuicatec	MAMEY	mamey	tia²ccua̠³'a̠³	tia²c-cua̠³'a̠³	111				anderson1983diccionario		papa11
 4588	AlacatlatzalaMixtec	MAMEY	mamey	ndika̠	ndika̠	111				anderson2006vocabulario		alac11
 1725	SanAndresChicahuaxtla1890Triqui	MAMEY	mamey	Natorrooho	natorrooho	111				belmar1897ensayo		chic02
@@ -10859,7 +10859,7 @@ ID	DOCULECT	CONCEPT	SPANISH_GLOSS	VALUE	FORM	IDlist	CONCEPTICON_ID	LOAN	LOAN_SOU
 4049	SanAgustinChayucoMixtec	ZAPOTE (BLACK)	zapote negro	ndyicoho	ndyi-coho	111				pensinger1974diccionario		chay11
 4263	SanJuanColoradoMixtec	ZAPOTE (BLACK)	zapote negro	tyitya	tyitya	111				stark1986diccionario		colo11
 20897	SanAndresYutatioMixtec	ZAPOTE (BLACK)	zapote negro	ndokó to̠ón	ndokó-to̠ón	111				williams2017diccionario		yuta13
-21324	ChalcatongoHidalgoMixtec	ZAPOTE	zapote	ndoko	ndoko	111	NA	NA	NA	macaulay1996grammar		chal11
+21324	ChalcatongoHidalgoMixtec	ZAPOTE	zapote	ndoko	ndoko	111				macaulay1996grammar		chal11
 552	SantoTomasOcotepecMixtec	CUSTARD APPLE	custard apple	ndōkō	ndōkō	112				alexander1988syntactic		ocot11
 5313	SantaMariaPapaloCuicatec	CUSTARD APPLE	chirimoya, anona	ndu⁴cu⁴	ndu⁴cu⁴	112				anderson1983diccionario		papa11
 6230	ElJicaralMixtec	CUSTARD APPLE	chirimoya	ntokó iñú	ntokó-iñú	112				Emily John-Martin		jica13
@@ -10874,7 +10874,7 @@ ID	DOCULECT	CONCEPT	SPANISH_GLOSS	VALUE	FORM	IDlist	CONCEPTICON_ID	LOAN	LOAN_SOU
 4050	SanAgustinChayucoMixtec	CUSTARD APPLE	chirimoya	ndoco	ndoco	112				pensinger1974diccionario		chay11
 4264	SanJuanColoradoMixtec	CUSTARD APPLE	chirimoya	ndoco tinúú	ndoco-tinúú	112				stark1986diccionario		colo11
 20898	SanAndresYutatioMixtec	CUSTARD APPLE	chirimoya	ndóko̠	ndóko̠	112				williams2017diccionario		yuta13
-21325	ChalcatongoHidalgoMixtec	CUSTARD APPLE	chirimoya	ĩ́ñṹ	ĩ́ñṹ	112	NA	NA	NA	macaulay1996grammar		chal11
+21325	ChalcatongoHidalgoMixtec	CUSTARD APPLE	chirimoya	ĩ́ñṹ	ĩ́ñṹ	112				macaulay1996grammar		chal11
 5139	SanEstebanAtatlahucaMixtec	MUSHROOM	hongo	jihī	jihī	113	641			alexander1980gramatica	[C]	atat11
 1928	SanPedroySanPabloTeposcolula1600Mixtec	MUSHROOM	hongo	siye	siye	113	641			alvarado1593vocabulario		tepo01
 277	SantaMariaYolotepecMixtec	MUSHROOM	hongo	xi'¹i⁴	xi'¹i⁴	113	641			amith2020yoloxochitl		yolo11
@@ -10896,7 +10896,7 @@ ID	DOCULECT	CONCEPT	SPANISH_GLOSS	VALUE	FORM	IDlist	CONCEPTICON_ID	LOAN	LOAN_SOU
 4051	SanAgustinChayucoMixtec	MUSHROOM	hongo	sehye tutyehe	sehye-tu-tyehe	113	641			pensinger1974diccionario		chay11
 20692	YucunanyMixtec	MUSHROOM	mushroom	tsì'ǐ	tsì'ǐ	113	641			salazar2020yucunani		yucu17
 20899	SanAndresYutatioMixtec	MUSHROOM	hongo	xi'i̠	xi'i̠	113	641			williams2017diccionario		yuta13
-21326	ChalcatongoHidalgoMixtec	MUSHROOM	mushroom	xiʔi	xiʔi	113	641	NA	NA	macaulay1996grammar		chal11
+21326	ChalcatongoHidalgoMixtec	MUSHROOM	mushroom	xiʔi	xiʔi	113	641			macaulay1996grammar		chal11
 5140	SanEstebanAtatlahucaMixtec	MEAT	carne	cūñu	cūñu	114	634			alexander1980gramatica	[C]	atat11
 553	SantoTomasOcotepecMixtec	MEAT	meat	kuñū	kuñū	114	634			alexander1988syntactic		ocot11
 1929	SanPedroySanPabloTeposcolula1600Mixtec	MEAT	carne	coño	coño	114	634			alvarado1593vocabulario		tepo01
@@ -11072,7 +11072,7 @@ ID	DOCULECT	CONCEPT	SPANISH_GLOSS	VALUE	FORM	IDlist	CONCEPTICON_ID	LOAN	LOAN_SOU
 20900	SanAndresYutatioMixtec	MEAT	carne	ko̠ño	ko̠ño	114	634			williams2017diccionario		yuta13
 1068	AlacatlatzalaMixtec	MEAT	meat	kuñō	kuñō	114	634			zylstra1991syntactic		alac11
 4589	AlacatlatzalaMixtec	MEAT	carne	ko̠ñu	ko̠ñu	114	634			zylstra2012gramatica		alac11
-21327	ChalcatongoHidalgoMixtec	MEAT	meat	kũ̀ñũ̀	kũ̀ñũ̀	114	634	NA	NA	macaulay1996grammar		chal11
+21327	ChalcatongoHidalgoMixtec	MEAT	meat	kũ̀ñũ̀	kũ̀ñũ̀	114	634			macaulay1996grammar		chal11
 1930	SanPedroySanPabloTeposcolula1600Mixtec	GRIDDLE	comal	siyo	siyo	115				alvarado1593vocabulario		tepo01
 279	SantaMariaYolotepecMixtec	GRIDDLE	comal	xi¹yo⁴	xi¹yo⁴	115				amith2020yoloxochitl		yolo11
 5316	SantaMariaPapaloCuicatec	GRIDDLE	comal	cha²	cha²	115				anderson1983diccionario		papa11
@@ -11231,8 +11231,8 @@ ID	DOCULECT	CONCEPT	SPANISH_GLOSS	VALUE	FORM	IDlist	CONCEPTICON_ID	LOAN	LOAN_SOU
 5727	YucuquimiOcampoMixtec	GRIDDLE	comal	ʃo¹o¹	ʃo¹o¹	115				swanton2020observaciones		yucu16
 20901	SanAndresYutatioMixtec	GRIDDLE	comal	xoo̠	xoo̠	115				williams2017diccionario		yuta13
 4590	AlacatlatzalaMixtec	GRIDDLE	comal	xi̠yo̠	xi̠yo̠	115				zylstra2012gramatica		alac11
-21328	ChalcatongoHidalgoMixtec	GRIDDLE	griddle	šiò	šiò	115	NA	NA	NA	macaulay1996grammar		chal11
-21329	ChalcatongoHidalgoMixtec	GRIDDLE	griddle	šoò	šoò	115	NA	NA	NA	macaulay1996grammar		chal11
+21328	ChalcatongoHidalgoMixtec	GRIDDLE	griddle	šiò	šiò	115				macaulay1996grammar		chal11
+21329	ChalcatongoHidalgoMixtec	GRIDDLE	griddle	šoò	šoò	115				macaulay1996grammar		chal11
 5141	SanEstebanAtatlahucaMixtec	COOKING POT	olla	quɨ̄sɨ	quɨ̄sɨ	116	3653			alexander1980gramatica	[A]	atat11
 554	SantoTomasOcotepecMixtec	COOKING POT	cooking pot	kisī	kisī	116	3653			alexander1988syntactic		ocot11
 1931	SanPedroySanPabloTeposcolula1600Mixtec	COOKING POT	olla	quedze	quedze	116	3653			alvarado1593vocabulario		tepo01
@@ -11373,7 +11373,7 @@ ID	DOCULECT	CONCEPT	SPANISH_GLOSS	VALUE	FORM	IDlist	CONCEPTICON_ID	LOAN	LOAN_SOU
 1069	AlacatlatzalaMixtec	COOKING POT	pot	kisī	kisī	116	3653			zylstra1991syntactic		alac11
 4591	AlacatlatzalaMixtec	COOKING POT	olla	ki̠si	ki̠si	116	3653			zylstra2012gramatica		alac11
 13402	SanAgustinChayucoMixtec	HOUSE (SMALL)	casita	kɨsɨ	kɨsɨ	116				josserand1983mixtec		chay11
-21330	ChalcatongoHidalgoMixtec	COOKING POT	pot, cooking pot	kɨsɨ	kɨsɨ	116	3653	NA	NA	macaulay1996grammar		chal11
+21330	ChalcatongoHidalgoMixtec	COOKING POT	pot, cooking pot	kɨsɨ	kɨsɨ	116	3653			macaulay1996grammar		chal11
 13505	SanMartinEstadoMixtec	BARBECUE	barbacoa	šito	šito	117				josserand1983mixtec		esta11
 13547	SanMateoSindihuiMixtec	BARBECUE	barbacoa	i̧nu̧	i̧nu̧	117				josserand1983mixtec		sind11
 13519	SantiagoJuxtlahuacaMixtec	BARBECUE	barbacoa	šitu	šitu	117				josserand1983mixtec		juxt11
@@ -11505,8 +11505,8 @@ ID	DOCULECT	CONCEPT	SPANISH_GLOSS	VALUE	FORM	IDlist	CONCEPTICON_ID	LOAN	LOAN_SOU
 5735	SantaMariaZacatepecMixtec	OVEN	horno	ʧi²tũ²¹	ʧi²tũ²¹	117	1143			swanton2020observaciones		zaca11
 5737	YucuquimiOcampoMixtec	OVEN	horno	ʃi¹to¹	ʃi¹to¹	117	1143			swanton2020observaciones		yucu16
 20903	SanAndresYutatioMixtec	OVEN	horno	xito̠	xito̠	117	1143			williams2017diccionario		yuta13
-21331	ChalcatongoHidalgoMixtec	OVEN	oven	šinù	šinù	117	1143	NA	NA	macaulay1996grammar		chal11
-21332	ChalcatongoHidalgoMixtec	OVEN	oven	xinù	xinù	117	1143	NA	NA	macaulay1996grammar		chal11
+21331	ChalcatongoHidalgoMixtec	OVEN	oven	šinù	šinù	117	1143			macaulay1996grammar		chal11
+21332	ChalcatongoHidalgoMixtec	OVEN	oven	xinù	xinù	117	1143			macaulay1996grammar		chal11
 555	SantoTomasOcotepecMixtec	FIRE	fire	ñúhun	ñúhun	118	221			alexander1988syntactic		ocot11
 1933	SanPedroySanPabloTeposcolula1600Mixtec	FIRE	lumbre, fuego	ñuhu	ñuhu	118	221			alvarado1593vocabulario		tepo01
 281	SantaMariaYolotepecMixtec	FIRE	lumbre, fuego	ñu'³u²	ñu'³u²	118	221			amith2020yoloxochitl		yolo11
@@ -11658,7 +11658,7 @@ ID	DOCULECT	CONCEPT	SPANISH_GLOSS	VALUE	FORM	IDlist	CONCEPTICON_ID	LOAN	LOAN_SOU
 20904	SanAndresYutatioMixtec	FIRE	lumbre, fuego	ñó'o̠	ñó'o̠	118	221			williams2017diccionario		yuta13
 1070	AlacatlatzalaMixtec	FIRE	fire	ñōho	ñōho	118	221			zylstra1991syntactic		alac11
 4592	AlacatlatzalaMixtec	FIRE	lumbre, fuego	ño'o̠n	ño'o̠n	118	221			zylstra2012gramatica		alac11
-21333	ChalcatongoHidalgoMixtec	FIRE	fire	ñṹʔũ̀	ñṹʔũ̀	118	221	NA	NA	macaulay1996grammar		chal11
+21333	ChalcatongoHidalgoMixtec	FIRE	fire	ñṹʔũ̀	ñṹʔũ̀	118	221			macaulay1996grammar		chal11
 1934	SanPedroySanPabloTeposcolula1600Mixtec	ASH	ceniza	yaa	yaa	119	646			alvarado1593vocabulario		tepo01
 282	SantaMariaYolotepecMixtec	ASH	ceniza	ya¹a⁴	ya¹a⁴	119	646			amith2020yoloxochitl		yolo11
 5320	SantaMariaPapaloCuicatec	ASH	ceniza	yi⁴ya⁴	yi⁴ya⁴	119	646			anderson1983diccionario		papa11
@@ -11682,7 +11682,7 @@ ID	DOCULECT	CONCEPT	SPANISH_GLOSS	VALUE	FORM	IDlist	CONCEPTICON_ID	LOAN	LOAN_SOU
 4270	SanJuanColoradoMixtec	ASH	ceniza	nyaà	nyaà	119	646			stark1986diccionario		colo11
 4774	XochapaMixtec	ASH	ceniza	ya̠á	ya̠á	119	646			stark2013diccionario		xoch11
 20905	SanAndresYutatioMixtec	ASH	ceniza	yaa̠	yaa̠	119	646			williams2017diccionario		yuta13
-21334	ChalcatongoHidalgoMixtec	ASH	ash	žàà	žàà	119	646	NA	NA	macaulay1996grammar		chal11
+21334	ChalcatongoHidalgoMixtec	ASH	ash	žàà	žàà	119	646			macaulay1996grammar		chal11
 556	SantoTomasOcotepecMixtec	CHARCOAL	charcoal	ti-kayī	ti-kayī	120	1188			alexander1988syntactic		ocot11
 1935	SanPedroySanPabloTeposcolula1600Mixtec	CHARCOAL	carbón	ñuñuhu	ñuñuhu	120	1188			alvarado1593vocabulario		tepo01
 283	SantaMariaYolotepecMixtec	CHARCOAL	carbón	tu¹un⁴	tu¹un⁴	120	1188			amith2020yoloxochitl		yolo11
@@ -11711,9 +11711,9 @@ ID	DOCULECT	CONCEPT	SPANISH_GLOSS	VALUE	FORM	IDlist	CONCEPTICON_ID	LOAN	LOAN_SOU
 945	SanJuanCoatzospamMixtec	CHARCOAL	charcoal	túūn	túūn	120	1188			small1990syntactic		coat11
 4426	SantaMariaZacatepecMixtec	CHARCOAL	carbón	tuun	tuun	120	1188			towne2011gramatica		zaca11
 20906	SanAndresYutatioMixtec	CHARCOAL	carbón	too̠n	too̠n	120	1188			williams2017diccionario		yuta13
-21335	ChalcatongoHidalgoMixtec	CHARCOAL	charcoal	tɨkàži	tɨ-kàži	120	1188	NA	NA	macaulay1996grammar		chal11
-21336	ChalcatongoHidalgoMixtec	CHARCOAL	charcoal	tikàží	ti-kàží	120	1188	NA	NA	macaulay1996grammar		chal11
-21337	ChalcatongoHidalgoMixtec	CHARCOAL	charcoal	tekàži	te-kàži	120	1188	NA	NA	macaulay1996grammar		chal11
+21335	ChalcatongoHidalgoMixtec	CHARCOAL	charcoal	tɨkàži	tɨ-kàži	120	1188			macaulay1996grammar		chal11
+21336	ChalcatongoHidalgoMixtec	CHARCOAL	charcoal	tikàží	ti-kàží	120	1188			macaulay1996grammar		chal11
+21337	ChalcatongoHidalgoMixtec	CHARCOAL	charcoal	tekàži	te-kàži	120	1188			macaulay1996grammar		chal11
 1936	SanPedroySanPabloTeposcolula1600Mixtec	SMOKE (EXHAUST)	humo	ñuma	ñuma	121	778			alvarado1593vocabulario		tepo01
 284	SantaMariaYolotepecMixtec	SMOKE (EXHAUST)	humo	yu'¹ma¹	yu'¹ma¹	121	778			amith2020yoloxochitl		yolo11
 5322	SantaMariaPapaloCuicatec	SMOKE (EXHAUST)	humo	y'a³m'i³	y'a³m'i³	121	778			anderson1983diccionario		papa11
@@ -11875,7 +11875,7 @@ ID	DOCULECT	CONCEPT	SPANISH_GLOSS	VALUE	FORM	IDlist	CONCEPTICON_ID	LOAN	LOAN_SOU
 20907	SanAndresYutatioMixtec	SMOKE (EXHAUST)	humo	ño'o̠ma̠	ño'o̠ma̠	121	778			williams2017diccionario		yuta13
 1071	AlacatlatzalaMixtec	SMOKE (EXHAUST)	smoke	ñihma	ñihma	121	778			zylstra1991syntactic		alac11
 4594	AlacatlatzalaMixtec	SMOKE (EXHAUST)	humo	ñi̠'ma̠	ñi̠'ma̠	121	778			zylstra2012gramatica		alac11
-21338	ChalcatongoHidalgoMixtec	SMOKE (EXHAUST)	smoke	ñṹʔmā	ñṹʔmā	121	778	NA	NA	macaulay1996grammar		chal11
+21338	ChalcatongoHidalgoMixtec	SMOKE (EXHAUST)	smoke	ñṹʔmā	ñṹʔmā	121	778			macaulay1996grammar		chal11
 13909	SantaMariaYucunicocoMixtec	DUST	polvo	čēʔè	čēʔè	122	2			josserand1983mixtec		yucu15
 1937	SanPedroySanPabloTeposcolula1600Mixtec	GARBAGE	basura	mihi	mihi	122	909			alvarado1593vocabulario		tepo01
 285	SantaMariaYolotepecMixtec	GARBAGE	basura	mi'¹⁴i⁴	mi'¹⁴i⁴	122	909			amith2020yoloxochitl		yolo11
@@ -12000,7 +12000,7 @@ ID	DOCULECT	CONCEPT	SPANISH_GLOSS	VALUE	FORM	IDlist	CONCEPTICON_ID	LOAN	LOAN_SOU
 1072	AlacatlatzalaMixtec	GARBAGE	trash	mihí	mihí	122	909			zylstra1991syntactic		alac11
 4595	AlacatlatzalaMixtec	GARBAGE	basura	mi̠'ín	mi̠'ín	122	909			zylstra2012gramatica		alac11
 13910	SantaMariaZacatepecMixtec	POULTRY MANURE	cuita	(ča̧ʔa̧)-ƀiʔƀiʔ	ča̧ʔa̧-ƀiʔƀiʔ	122				josserand1983mixtec		zaca11
-21339	ChalcatongoHidalgoMixtec	GARBAGE	garbage, trash	miʔí	miʔí	122	909	NA	NA	macaulay1996grammar		chal11
+21339	ChalcatongoHidalgoMixtec	GARBAGE	garbage, trash	miʔí	miʔí	122	909			macaulay1996grammar		chal11
 5142	SanEstebanAtatlahucaMixtec	PLATE	plato	cohō	cohō	123	480			alexander1980gramatica	[C]	atat11
 1938	SanPedroySanPabloTeposcolula1600Mixtec	PLATE	plato	coho	coho	123	480			alvarado1593vocabulario		tepo01
 286	SantaMariaYolotepecMixtec	PLATE	plato	ko'¹o⁴	ko'¹o⁴	123	480			amith2020yoloxochitl		yolo11
@@ -12023,7 +12023,7 @@ ID	DOCULECT	CONCEPT	SPANISH_GLOSS	VALUE	FORM	IDlist	CONCEPTICON_ID	LOAN	LOAN_SOU
 4776	XochapaMixtec	PLATE	plato	ko̠'ó	ko̠'ó	123	480			stark2013diccionario		xoch11
 20909	SanAndresYutatioMixtec	PLATE	plato	ko'o̠	ko'o̠	123	480			williams2017diccionario		yuta13
 4596	AlacatlatzalaMixtec	PLATE	plato	ko̠'o̠	ko̠'o̠	123	480			zylstra2012gramatica		alac11
-21340	ChalcatongoHidalgoMixtec	PLATE	plate	koʔò	koʔò	123	480	NA	NA	macaulay1996grammar		chal11
+21340	ChalcatongoHidalgoMixtec	PLATE	plate	koʔò	koʔò	123	480			macaulay1996grammar		chal11
 557	SantoTomasOcotepecMixtec	GOURD BOWL	gourd bowl	ñāxīn	ñāxīn	124				alexander1988syntactic		ocot11
 1939	SanPedroySanPabloTeposcolula1600Mixtec	GOURD BOWL	xicara	yasi	yasi	124				alvarado1593vocabulario		tepo01
 287	SantaMariaYolotepecMixtec	GOURD BOWL	jícara redonda	ya³xin⁴	ya³xin⁴	124				amith2020yoloxochitl		yolo11
@@ -12185,7 +12185,7 @@ ID	DOCULECT	CONCEPT	SPANISH_GLOSS	VALUE	FORM	IDlist	CONCEPTICON_ID	LOAN	LOAN_SOU
 4428	SantaMariaZacatepecMixtec	GOURD BOWL	jícara	yachin	yachin	124				towne2011gramatica		zaca11
 20910	SanAndresYutatioMixtec	GOURD BOWL	jícara	yáxi̠	yáxi̠	124				williams2017diccionario		yuta13
 4597	AlacatlatzalaMixtec	GOURD BOWL	jícara	yaxi̠n	yaxi̠n	124				zylstra2012gramatica		alac11
-21341	ChalcatongoHidalgoMixtec	GOURD BOWL	gourd bowl	žáʔu	žáʔu	124	NA	NA	NA	macaulay1996grammar		chal11
+21341	ChalcatongoHidalgoMixtec	GOURD BOWL	gourd bowl	žáʔu	žáʔu	124				macaulay1996grammar		chal11
 558	SantoTomasOcotepecMixtec	BASKET	basket	ndoho	ndoho	125	1539			alexander1988syntactic		ocot11
 1940	SanPedroySanPabloTeposcolula1600Mixtec	BASKET	canasta	tesite	tesite	125	1539			alvarado1593vocabulario		tepo01
 1941	SanPedroySanPabloTeposcolula1600Mixtec	BASKET	canasta	tesiyo	tesiyo	125	1539			alvarado1593vocabulario		tepo01
@@ -12210,8 +12210,8 @@ ID	DOCULECT	CONCEPT	SPANISH_GLOSS	VALUE	FORM	IDlist	CONCEPTICON_ID	LOAN	LOAN_SOU
 4276	SanJuanColoradoMixtec	BASKET	canasta	tyìcà	tyìcà	125	1539			stark1986diccionario		colo11
 20911	SanAndresYutatioMixtec	BASKET	canasta	ti̠yika̠	ti̠-yika̠	125	1539			williams2017diccionario		yuta13
 4598	AlacatlatzalaMixtec	BASKET	canasta	chikiva̠	chikiva̠	125	1539			zylstra2012gramatica		alac11
-21342	ChalcatongoHidalgoMixtec	BASKET	basket	xìka	xìka	125	1539	NA	NA	macaulay1996grammar		chal11
-21343	ChalcatongoHidalgoMixtec	BASKET	basket with carrying strap	ndoʔò	ndoʔò	125	1539	NA	NA	macaulay1996grammar		chal11
+21342	ChalcatongoHidalgoMixtec	BASKET	basket	xìka	xìka	125	1539			macaulay1996grammar		chal11
+21343	ChalcatongoHidalgoMixtec	BASKET	basket with carrying strap	ndoʔò	ndoʔò	125	1539			macaulay1996grammar		chal11
 289	SantaMariaYolotepecMixtec	BOX OR CHEST	cajón	xa¹tun⁴	xa¹tun⁴	126	3150			amith2020yoloxochitl		yolo11
 5328	SantaMariaPapaloCuicatec	BOX OR CHEST	caja, baúl	yya²va²	yya²va²	126	3150			anderson1983diccionario		papa11
 20403	SantoDomingoHuendioMixtec	BOX OR CHEST	cajón	xatùn	xatùn	126	3150			becerra-roldan2015un-estudio		huen11
@@ -12500,7 +12500,7 @@ ID	DOCULECT	CONCEPT	SPANISH_GLOSS	VALUE	FORM	IDlist	CONCEPTICON_ID	LOAN	LOAN_SOU
 5750	SantaMariaZacatepecMixtec	THREAD	hilo	ju²ʔba²¹	ju²ʔba²¹	127	1161			swanton2020observaciones		zaca11
 5752	YucuquimiOcampoMixtec	THREAD	hilo	jo¹ʔo¹	jo¹ʔo¹	127	1161			swanton2020observaciones		yucu16
 20914	SanAndresYutatioMixtec	THREAD	hilo	yi'o̠	yi'o̠	127	1161	yes	Spanish	williams2017diccionario		yuta13
-21345	ChalcatongoHidalgoMixtec	THREAD	thread	žuʔà	žuʔà	127	1161	NA	NA	macaulay1996grammar		chal11
+21345	ChalcatongoHidalgoMixtec	THREAD	thread	žuʔà	žuʔà	127	1161			macaulay1996grammar		chal11
 1943	SanPedroySanPabloTeposcolula1600Mixtec	COMB	peine	cucua	cucua	128	1475			alvarado1593vocabulario		tepo01
 291	SantaMariaYolotepecMixtec	COMB	peine	bi¹ka¹	bi¹ka¹	128	1475			amith2020yoloxochitl		yolo11
 5330	SantaMariaPapaloCuicatec	COMB	peine	ca²ca⁴	ca²ca⁴	128	1475			anderson1983diccionario		papa11
@@ -12613,7 +12613,7 @@ ID	DOCULECT	CONCEPT	SPANISH_GLOSS	VALUE	FORM	IDlist	CONCEPTICON_ID	LOAN	LOAN_SOU
 20708	YucunanyMixtec	COMB	comb	kuìkà	kuìkà	128	1475			salazar2020yucunani		yucu17
 4280	SanJuanColoradoMixtec	COMB	peine	cùcà	cùcà	128	1475			stark1986diccionario		colo11
 20915	SanAndresYutatioMixtec	COMB	peine	kuika̠	kuika̠	128	1475			williams2017diccionario		yuta13
-21346	ChalcatongoHidalgoMixtec	COMB	comb	kúkà	kúkà	128	1475	NA	NA	macaulay1996grammar		chal11
+21346	ChalcatongoHidalgoMixtec	COMB	comb	kúkà	kúkà	128	1475			macaulay1996grammar		chal11
 5145	SanEstebanAtatlahucaMixtec	ROPE	mecate	yoho	yoho	129	1218			alexander1980gramatica	[A]	atat11
 559	SantoTomasOcotepecMixtec	ROPE	rope	yōhō	yōhō	129	1218			alexander1988syntactic		ocot11
 1944	SanPedroySanPabloTeposcolula1600Mixtec	ROPE	cuerda	yoho	yoho	129	1218			alvarado1593vocabulario		tepo01
@@ -12664,7 +12664,7 @@ ID	DOCULECT	CONCEPT	SPANISH_GLOSS	VALUE	FORM	IDlist	CONCEPTICON_ID	LOAN	LOAN_SOU
 20916	SanAndresYutatioMixtec	ROPE	mecate, cuerda	yó'o̠	yó'o̠	129	1218			williams2017diccionario		yuta13
 1074	AlacatlatzalaMixtec	ROPE	rope	yóho	yóho	129	1218			zylstra1991syntactic		alac11
 4600	AlacatlatzalaMixtec	ROPE	mecate	yo'o̠	yo'o̠	129	1218			zylstra2012gramatica		alac11
-21347	ChalcatongoHidalgoMixtec	ROPE	rope	žoʔo	žoʔo	129	1218	NA	NA	macaulay1996grammar		chal11
+21347	ChalcatongoHidalgoMixtec	ROPE	rope	žoʔo	žoʔo	129	1218			macaulay1996grammar		chal11
 5146	SanEstebanAtatlahucaMixtec	HOLE	hoyo	yavū	yavū	130	1667			alexander1980gramatica	[C]	atat11
 1945	SanPedroySanPabloTeposcolula1600Mixtec	HOLE	agujero, hoyo	yavui	yavui	130	1667			alvarado1593vocabulario		tepo01
 293	SantaMariaYolotepecMixtec	HOLE	hoyo	ya³bi²	ya³bi²	130	1667			amith2020yoloxochitl		yolo11
@@ -12773,7 +12773,7 @@ ID	DOCULECT	CONCEPT	SPANISH_GLOSS	VALUE	FORM	IDlist	CONCEPTICON_ID	LOAN	LOAN_SOU
 4282	SanJuanColoradoMixtec	HOLE	agujero, hoyo	yávi	yávi	130	1667			stark1986diccionario		colo11
 4780	XochapaMixtec	HOLE	agujero	ya̠vi̠	ya̠vi̠	130	1667			stark2013diccionario		xoch11
 20917	SanAndresYutatioMixtec	HOLE	hoyo	yái̠	yái̠	130	1667			williams2017diccionario		yuta13
-21348	ChalcatongoHidalgoMixtec	HOLE	hole	žaù	žaù	130	1667	NA	NA	macaulay1996grammar		chal11
+21348	ChalcatongoHidalgoMixtec	HOLE	hole	žaù	žaù	130	1667			macaulay1996grammar		chal11
 14458	SanMiguelIxtapamMixtec	HAMMOCK	hamaca	ñu̧nu̧	ñu̧nu̧	131	2019			josserand1983mixtec		ixta13
 1946	SanPedroySanPabloTeposcolula1600Mixtec	NET	red	ñono	ñono	131	2963			alvarado1593vocabulario		tepo01
 294	SantaMariaYolotepecMixtec	NET	red	yu³nu⁴	yu³nu⁴	131	2963			amith2020yoloxochitl		yolo11
@@ -12919,7 +12919,7 @@ ID	DOCULECT	CONCEPT	SPANISH_GLOSS	VALUE	FORM	IDlist	CONCEPTICON_ID	LOAN	LOAN_SOU
 1221	SanJuanDiuxiMixtec	NETBAG	net, net bag	ñúnú	ñúnú	131	293			kuiper1991syntactic		diux11
 4070	SanAgustinChayucoMixtec	NETBAG	bolsa hecha como una red	yono	yono	131	293			pensinger1974diccionario		chay11
 4284	SanJuanColoradoMixtec	NETBAG	bolsa hecha como una red	yunu	yunu	131	293			stark1986diccionario		colo11
-21349	ChalcatongoHidalgoMixtec	NET	net	ñũnũ	ñũnũ	131	293	NA	NA	macaulay1996grammar		chal11
+21349	ChalcatongoHidalgoMixtec	NET	net	ñũnũ	ñũnũ	131	293			macaulay1996grammar		chal11
 1947	SanPedroySanPabloTeposcolula1600Mixtec	SOAP	jabón	nama	nama	132	788			alvarado1593vocabulario		tepo01
 295	SantaMariaYolotepecMixtec	SOAP	jabón	na¹ma⁴	na¹ma⁴	132	788			amith2020yoloxochitl		yolo11
 5334	SantaMariaPapaloCuicatec	SOAP	jabón	na²ma²	na²ma²	132	788			anderson1983diccionario		papa11
@@ -12957,7 +12957,7 @@ ID	DOCULECT	CONCEPT	SPANISH_GLOSS	VALUE	FORM	IDlist	CONCEPTICON_ID	LOAN	LOAN_SOU
 4781	XochapaMixtec	SOAP	jabón	na̠má	na̠má	132	788			stark2013diccionario		xoch11
 20919	SanAndresYutatioMixtec	SOAP	jabón	nama̠	nama̠	132	788			williams2017diccionario		yuta13
 4602	AlacatlatzalaMixtec	SOAP	jabón	nama̠	nama̠	132	788			zylstra2012gramatica		alac11
-21350	ChalcatongoHidalgoMixtec	SOAP	soap	namà	namà	132	788	NA	NA	macaulay1996grammar		chal11
+21350	ChalcatongoHidalgoMixtec	SOAP	soap	namà	namà	132	788			macaulay1996grammar		chal11
 1948	SanPedroySanPabloTeposcolula1600Mixtec	RING	anillo	dzahi	dzahi	133	1374			alvarado1593vocabulario		tepo01
 296	SantaMariaYolotepecMixtec	RING	anillo	xe'³e⁴	xe'³e⁴	133	1374			amith2020yoloxochitl		yolo11
 5335	SantaMariaPapaloCuicatec	RING	anillo	cu⁴³ yi³nun³ ta̠³'a̠⁴	cu⁴³-yi³nun³-ta̠³'a̠⁴	133	1374			anderson1983diccionario		papa11
@@ -12977,7 +12977,7 @@ ID	DOCULECT	CONCEPT	SPANISH_GLOSS	VALUE	FORM	IDlist	CONCEPTICON_ID	LOAN	LOAN_SOU
 4432	SantaMariaZacatepecMixtec	RING	anillo	xe'e	xe'e	133	1374			towne2011gramatica		zaca11
 20920	SanAndresYutatioMixtec	RING	anillo	dé'e̠	dé'e̠	133	1374			williams2017diccionario		yuta13
 4603	AlacatlatzalaMixtec	RING	anillo	se'e	se'e	133	1374			zylstra2012gramatica		alac11
-21351	ChalcatongoHidalgoMixtec	RING	ring	šéʔé	šéʔé	133	1374	NA	NA	macaulay1996grammar		chal11
+21351	ChalcatongoHidalgoMixtec	RING	ring	šéʔé	šéʔé	133	1374			macaulay1996grammar		chal11
 561	SantoTomasOcotepecMixtec	MOON	moon	yoo	yoo	134	1313			alexander1988syntactic		ocot11
 1949	SanPedroySanPabloTeposcolula1600Mixtec	MOON	luna	yoo	yoo	134	1313			alvarado1593vocabulario		tepo01
 297	SantaMariaYolotepecMixtec	MOON	luna	yo¹o⁴	yo¹o⁴	134	1313			amith2020yoloxochitl		yolo11
@@ -13026,7 +13026,7 @@ ID	DOCULECT	CONCEPT	SPANISH_GLOSS	VALUE	FORM	IDlist	CONCEPTICON_ID	LOAN	LOAN_SOU
 20921	SanAndresYutatioMixtec	MOON	luna	yoo̠	yoo̠	134	1313			williams2017diccionario		yuta13
 1075	AlacatlatzalaMixtec	MOON	moon	yoo	yoo	134	1313			zylstra1991syntactic		alac11
 4604	AlacatlatzalaMixtec	MOON	luna	yo̠o̠	yo̠o̠	134	1313			zylstra2012gramatica		alac11
-21352	ChalcatongoHidalgoMixtec	MOON	moon	žoò	žoò	134	1313	NA	NA	macaulay1996grammar		chal11
+21352	ChalcatongoHidalgoMixtec	MOON	moon	žoò	žoò	134	1313			macaulay1996grammar		chal11
 562	SantoTomasOcotepecMixtec	CLOUD	cloud	viko	viko	135	1489			alexander1988syntactic		ocot11
 1950	SanPedroySanPabloTeposcolula1600Mixtec	CLOUD	nube	huico	huico	135	1489			alvarado1593vocabulario		tepo01
 298	SantaMariaYolotepecMixtec	CLOUD	nube	bi¹ko⁴	bi¹ko⁴	135	1489			amith2020yoloxochitl		yolo11
@@ -13057,7 +13057,7 @@ ID	DOCULECT	CONCEPT	SPANISH_GLOSS	VALUE	FORM	IDlist	CONCEPTICON_ID	LOAN	LOAN_SOU
 4433	SantaMariaZacatepecMixtec	CLOUD	nube	vi̠kō'	vi̠kō'	135	1489			towne2011gramatica		zaca11
 20922	SanAndresYutatioMixtec	CLOUD	nube	viko̠	viko̠	135	1489			williams2017diccionario		yuta13
 1076	AlacatlatzalaMixtec	CLOUD	cloud	viko	viko	135	1489			zylstra1991syntactic		alac11
-21353	ChalcatongoHidalgoMixtec	CLOUD	cloud	bíkò	bíkò	135	1489	NA	NA	macaulay1996grammar		chal11
+21353	ChalcatongoHidalgoMixtec	CLOUD	cloud	bíkò	bíkò	135	1489			macaulay1996grammar		chal11
 20715	YucunanyMixtec	FLASH	flash	kanchii	kanchii	136				salazar2020yucunani		yucu17
 1951	SanPedroySanPabloTeposcolula1600Mixtec	LIGHTNING	rayo del cielo	tasa	tasa	136	1654			alvarado1593vocabulario		tepo01
 299	SantaMariaYolotepecMixtec	LIGHTNING	rayo, relámpago	ñu'³u² sa¹bi⁴	ñu'³u²-sa¹bi⁴	136	1654			amith2020yoloxochitl		yolo11
@@ -13096,8 +13096,8 @@ ID	DOCULECT	CONCEPT	SPANISH_GLOSS	VALUE	FORM	IDlist	CONCEPTICON_ID	LOAN	LOAN_SOU
 4606	AlacatlatzalaMixtec	LIGHTNING	relámpago	taxa	taxa	136	1654			zylstra2012gramatica		alac11
 20411	SantoDomingoHuendioMixtec	THUNDER	truena	ka'ndi	ka'ndi	136	1150			becerra-roldan2015un-estudio		huen11
 20238	SanMartinDuraznosMixtec	THUNDER	truenos	taxa	taxa	136	1150			hernandez2020san-martin		dura11
-21354	ChalcatongoHidalgoMixtec	LIGHTNING	lightning	ndežú	ndežú	136	1654	NA	NA	macaulay1996grammar		chal11
-21355	ChalcatongoHidalgoMixtec	LIGHTNING	lightning	taxa	taxa	136	1654	NA	NA	macaulay1996grammar		chal11
+21354	ChalcatongoHidalgoMixtec	LIGHTNING	lightning	ndežú	ndežú	136	1654			macaulay1996grammar		chal11
+21355	ChalcatongoHidalgoMixtec	LIGHTNING	lightning	taxa	taxa	136	1654			macaulay1996grammar		chal11
 14558	CosoltepecMixtec	LIQUID	liquid	ⁿdute	ⁿdute	137	58			josserand1983mixtec		coso11
 14582	SanMiguelIxtapamMixtec	LIQUID	liquid	ⁿdute	ⁿdute	137	58			josserand1983mixtec		ixta13
 14636	SantaCatarinaTlaltempanMixtec	LIQUID	liquid	ⁿdute	ⁿdute	137	58			josserand1983mixtec		tlal11
@@ -13279,7 +13279,7 @@ ID	DOCULECT	CONCEPT	SPANISH_GLOSS	VALUE	FORM	IDlist	CONCEPTICON_ID	LOAN	LOAN_SOU
 20924	SanAndresYutatioMixtec	WATER	agua	ta̠kui̠í	ta̠kui̠í	137	948			williams2017diccionario		yuta13
 1077	AlacatlatzalaMixtec	WATER	water	tākwiī	tākwiī	137	948			zylstra1991syntactic		alac11
 4607	AlacatlatzalaMixtec	WATER	agua	takui̠i	takui̠i	137	948			zylstra2012gramatica		alac11
-21356	ChalcatongoHidalgoMixtec	WATER	water	nduča	nduča	137	948	NA	NA	macaulay1996grammar		chal11
+21356	ChalcatongoHidalgoMixtec	WATER	water	nduča	nduča	137	948			macaulay1996grammar		chal11
 5148	SanEstebanAtatlahucaMixtec	RAIN (PRECIPITATION)	lluvia	savū	savū	138	658			alexander1980gramatica	[C]	atat11
 564	SantoTomasOcotepecMixtec	RAIN (PRECIPITATION)	rain (precipitation)	sávi	sávi	138	658			alexander1988syntactic		ocot11
 1953	SanPedroySanPabloTeposcolula1600Mixtec	RAIN (PRECIPITATION)	lluvia	dzavui	dzavui	138	658			alvarado1593vocabulario		tepo01
@@ -13434,7 +13434,7 @@ ID	DOCULECT	CONCEPT	SPANISH_GLOSS	VALUE	FORM	IDlist	CONCEPTICON_ID	LOAN	LOAN_SOU
 20925	SanAndresYutatioMixtec	RAIN (PRECIPITATION)	lluvia	dai̠	dai̠	138	658			williams2017diccionario		yuta13
 1078	AlacatlatzalaMixtec	RAIN (PRECIPITATION)	rain, rain god	savi	savi	138	658			zylstra1991syntactic		alac11
 4608	AlacatlatzalaMixtec	RAIN (PRECIPITATION)	lluvia	sa̠vi̠	sa̠vi̠	138	658			zylstra2012gramatica		alac11
-21357	ChalcatongoHidalgoMixtec	RAIN (PRECIPITATION)	rain (precipitation)	saù	saù	138	658	NA	NA	macaulay1996grammar		chal11
+21357	ChalcatongoHidalgoMixtec	RAIN (PRECIPITATION)	rain (precipitation)	saù	saù	138	658			macaulay1996grammar		chal11
 565	SantoTomasOcotepecMixtec	RIVER	river	yutē	yutē	139	666			alexander1988syntactic		ocot11
 1954	SanPedroySanPabloTeposcolula1600Mixtec	RIVER	río	yuta	yuta	139	666			alvarado1593vocabulario		tepo01
 302	SantaMariaYolotepecMixtec	RIVER	río	i¹ta³	i¹ta³	139	666			amith2020yoloxochitl		yolo11
@@ -13614,7 +13614,7 @@ ID	DOCULECT	CONCEPT	SPANISH_GLOSS	VALUE	FORM	IDlist	CONCEPTICON_ID	LOAN	LOAN_SOU
 20926	SanAndresYutatioMixtec	RIVER	río	yu̠ta	yu̠ta	139	666			williams2017diccionario		yuta13
 1079	AlacatlatzalaMixtec	RIVER	river	yutā	yutā	139	666			zylstra1991syntactic		alac11
 4609	AlacatlatzalaMixtec	RIVER	río	yu̠ta	yu̠ta	139	666			zylstra2012gramatica		alac11
-21358	ChalcatongoHidalgoMixtec	RIVER	river	žuča	žuča	139	666	NA	NA	macaulay1996grammar		chal11
+21358	ChalcatongoHidalgoMixtec	RIVER	river	žuča	žuča	139	666			macaulay1996grammar		chal11
 5149	SanEstebanAtatlahucaMixtec	DEW	rocío	yúyú	yúyú	140	1977			alexander1980gramatica	[B]	atat11
 303	SantaMariaYolotepecMixtec	DEW	rocío	yu⁴yu⁴	yu⁴yu⁴	140	1977			amith2020yoloxochitl		yolo11
 5343	SantaMariaPapaloCuicatec	DEW	rocío	nu⁴ni⁴ d'i²v'i³yu³	nu⁴ni⁴-d'i²v'i³yu³	140	1977			anderson1983diccionario		papa11
@@ -13900,7 +13900,7 @@ ID	DOCULECT	CONCEPT	SPANISH_GLOSS	VALUE	FORM	IDlist	CONCEPTICON_ID	LOAN	LOAN_SOU
 20928	SanAndresYutatioMixtec	MOUNTAIN OR HILL	cerro, monte, montaña	yúku̠	yúku̠	141	2118			williams2017diccionario		yuta13
 1081	AlacatlatzalaMixtec	MOUNTAIN OR HILL	hill	shiki	shiki	141	2118			zylstra1991syntactic		alac11
 1080	AlacatlatzalaMixtec	MOUNTAIN OR HILL	mountain, mountain country	yūku	yūku	141	2118			zylstra1991syntactic		alac11
-21359	ChalcatongoHidalgoMixtec	MOUNTAIN OR HILL	mountain, hill, forrest	žúkú	žúkú	141	2118	NA	NA	macaulay1996grammar		chal11
+21359	ChalcatongoHidalgoMixtec	MOUNTAIN OR HILL	mountain, hill, forrest	žúkú	žúkú	141	2118			macaulay1996grammar		chal11
 1956	SanPedroySanPabloTeposcolula1600Mixtec	PLAIN	llanura de campo	yodzo	yodzo	142	652			alvarado1593vocabulario		tepo01
 305	SantaMariaYolotepecMixtec	PLAIN	llanura	i¹⁴ni³	i¹⁴ni³	142	652			amith2020yoloxochitl		yolo11
 306	SantaMariaYolotepecMixtec	PLAIN	llano	yo³so⁴	yo³so⁴	142	652			amith2020yoloxochitl		yolo11
@@ -14061,7 +14061,7 @@ ID	DOCULECT	CONCEPT	SPANISH_GLOSS	VALUE	FORM	IDlist	CONCEPTICON_ID	LOAN	LOAN_SOU
 4790	XochapaMixtec	PLAIN	llano	yosó	yosó	142	652			stark2013diccionario		xoch11
 20929	SanAndresYutatioMixtec	PLAIN	llano	yódo̠	yódo̠	142	652			williams2017diccionario		yuta13
 1082	AlacatlatzalaMixtec	PLAIN	flat place	ndōsō	ndōsō	142	652			zylstra1991syntactic		alac11
-21360	ChalcatongoHidalgoMixtec	PLAIN	plain, countryside	nduʔà	nduʔà	142	652	NA	NA	macaulay1996grammar		chal11
+21360	ChalcatongoHidalgoMixtec	PLAIN	plain, countryside	nduʔà	nduʔà	142	652			macaulay1996grammar		chal11
 5151	SanEstebanAtatlahucaMixtec	STONE OR ROCK	piedra	yuū	yuū	143	2125			alexander1980gramatica	[C]	atat11
 1957	SanPedroySanPabloTeposcolula1600Mixtec	STONE OR ROCK	piedra	yuu	yuu	143	2125			alvarado1593vocabulario		tepo01
 307	SantaMariaYolotepecMixtec	STONE OR ROCK	piedra	yu¹u⁴	yu¹u⁴	143	2125			amith2020yoloxochitl		yolo11
@@ -14241,7 +14241,7 @@ ID	DOCULECT	CONCEPT	SPANISH_GLOSS	VALUE	FORM	IDlist	CONCEPTICON_ID	LOAN	LOAN_SOU
 20930	SanAndresYutatioMixtec	STONE OR ROCK	piedra	yuu̠	yuu̠	143	2125			williams2017diccionario		yuta13
 1083	AlacatlatzalaMixtec	STONE OR ROCK	rock	yuu	yuu	143	2125			zylstra1991syntactic		alac11
 4613	AlacatlatzalaMixtec	STONE OR ROCK	piedra	yu̠u̠	yu̠u̠	143	2125			zylstra2012gramatica		alac11
-21361	ChalcatongoHidalgoMixtec	STONE OR ROCK	stone, rock	žuù	žuù	143	2125	NA	NA	macaulay1996grammar		chal11
+21361	ChalcatongoHidalgoMixtec	STONE OR ROCK	stone, rock	žuù	žuù	143	2125			macaulay1996grammar		chal11
 567	SantoTomasOcotepecMixtec	COTTON	cotton	kachi	kachi	144	1850			alexander1988syntactic		ocot11
 1958	SanPedroySanPabloTeposcolula1600Mixtec	COTTON	algodón	cachi	cachi	144	1850			alvarado1593vocabulario		tepo01
 308	SantaMariaYolotepecMixtec	COTTON	algodón	ka¹chi⁴	ka¹chi⁴	144	1850			amith2020yoloxochitl		yolo11
@@ -14400,7 +14400,7 @@ ID	DOCULECT	CONCEPT	SPANISH_GLOSS	VALUE	FORM	IDlist	CONCEPTICON_ID	LOAN	LOAN_SOU
 5787	YucuquimiOcampoMixtec	COTTON	algodón	ka¹ʧi¹	ka¹ʧi¹	144	1850			swanton2020observaciones		yucu16
 20931	SanAndresYutatioMixtec	COTTON	algodón	kachi̠	kachi̠	144	1850			williams2017diccionario		yuta13
 1084	AlacatlatzalaMixtec	COTTON	cotton	kāchī	kāchī	144	1850			zylstra1991syntactic		alac11
-21362	ChalcatongoHidalgoMixtec	COTTON	cotton	kačì	kačì	144	1850	NA	NA	macaulay1996grammar		chal11
+21362	ChalcatongoHidalgoMixtec	COTTON	cotton	kačì	kačì	144	1850			macaulay1996grammar		chal11
 4793	XochapaMixtec	BELL	campana	kàà	kàà	145	2246			stark2013diccionario		xoch11
 15544	SanPedroySanPabloTeposcolulaMixtec	BRAND	insignia, marca	tnuni	tnuni	145				josserand1983mixtec		tepo11
 1959	SanPedroySanPabloTeposcolula1600Mixtec	IRON	hierro metal	caa	caa	145	621			alvarado1593vocabulario		tepo01
@@ -14534,7 +14534,7 @@ ID	DOCULECT	CONCEPT	SPANISH_GLOSS	VALUE	FORM	IDlist	CONCEPTICON_ID	LOAN	LOAN_SOU
 5790	SantaMariaZacatepecMixtec	METAL	metal	ka²a¹	ka²a¹	145	2244			swanton2020observaciones		zaca11
 5792	YucuquimiOcampoMixtec	METAL	metal	ka¹a²	ka¹a²	145	2244			swanton2020observaciones		yucu16
 1085	AlacatlatzalaMixtec	METAL	metal	kaā	kaā	145	2244			zylstra1991syntactic		alac11
-21363	ChalcatongoHidalgoMixtec	METAL	iron, bell	kaa	kaa	145	2244	NA	NA	macaulay1996grammar		chal11
+21363	ChalcatongoHidalgoMixtec	METAL	iron, bell	kaa	kaa	145	2244			macaulay1996grammar		chal11
 5153	SanEstebanAtatlahucaMixtec	PAPER	papel, libro	tutu	tutu	146	648			alexander1980gramatica	[C]	atat11
 569	SantoTomasOcotepecMixtec	PAPER	paper	tūtu	tūtu	146	648			alexander1988syntactic		ocot11
 1961	SanPedroySanPabloTeposcolula1600Mixtec	PAPER	papel blanco	tutu	tutu	146	648			alvarado1593vocabulario		tepo01
@@ -14590,7 +14590,7 @@ ID	DOCULECT	CONCEPT	SPANISH_GLOSS	VALUE	FORM	IDlist	CONCEPTICON_ID	LOAN	LOAN_SOU
 20933	SanAndresYutatioMixtec	PAPER	papel	tuti	tuti	146	648			williams2017diccionario		yuta13
 1086	AlacatlatzalaMixtec	PAPER	paper	tūtū	tūtū	146	648			zylstra1991syntactic		alac11
 4615	AlacatlatzalaMixtec	PAPER	papel	tutu	tutu	146	648			zylstra2012gramatica		alac11
-21364	ChalcatongoHidalgoMixtec	PAPER	paper	tutù	tutù	146	648	NA	NA	macaulay1996grammar		chal11
+21364	ChalcatongoHidalgoMixtec	PAPER	paper	tutù	tutù	146	648			macaulay1996grammar		chal11
 5154	SanEstebanAtatlahucaMixtec	LIME (MATERIAL)	cal	caca	caca	147	2540			alexander1980gramatica	[C]	atat11
 1962	SanPedroySanPabloTeposcolula1600Mixtec	LIME (MATERIAL)	cal	caca	caca	147	2540			alvarado1593vocabulario		tepo01
 311	SantaMariaYolotepecMixtec	LIME (MATERIAL)	cal	ka³ka²	ka³ka²	147	2540			amith2020yoloxochitl		yolo11
@@ -14628,7 +14628,7 @@ ID	DOCULECT	CONCEPT	SPANISH_GLOSS	VALUE	FORM	IDlist	CONCEPTICON_ID	LOAN	LOAN_SOU
 4443	SantaMariaZacatepecMixtec	LIME (MATERIAL)	cal	kaka	kaka	147	2540			towne2011gramatica		zaca11
 20934	SanAndresYutatioMixtec	LIME (MATERIAL)	cal	kaka	kaka	147	2540			williams2017diccionario		yuta13
 1087	AlacatlatzalaMixtec	LIME (MATERIAL)	lime (material)	kākā	kākā	147	2540			zylstra1991syntactic		alac11
-21365	ChalcatongoHidalgoMixtec	LIME (MATERIAL)	lime (material)	kakà	kakà	147	2540	NA	NA	macaulay1996grammar		chal11
+21365	ChalcatongoHidalgoMixtec	LIME (MATERIAL)	lime (material)	kakà	kakà	147	2540			macaulay1996grammar		chal11
 570	SantoTomasOcotepecMixtec	BEESWAX	wax	ñuma	ñuma	148	1931			alexander1988syntactic		ocot11
 1963	SanPedroySanPabloTeposcolula1600Mixtec	BEESWAX	cera	ñuma	ñuma	148	1931			alvarado1593vocabulario		tepo01
 312	SantaMariaYolotepecMixtec	BEESWAX	cera	yu¹ma⁴	yu¹ma⁴	148	1931			amith2020yoloxochitl		yolo11
@@ -14782,7 +14782,7 @@ ID	DOCULECT	CONCEPT	SPANISH_GLOSS	VALUE	FORM	IDlist	CONCEPTICON_ID	LOAN	LOAN_SOU
 20935	SanAndresYutatioMixtec	BEESWAX	cera	ñoma̠	ñoma̠	148	1931			williams2017diccionario		yuta13
 1088	AlacatlatzalaMixtec	BEESWAX	wax	ñima	ñima	148	1931			zylstra1991syntactic		alac11
 4617	AlacatlatzalaMixtec	BEESWAX	cera	ñima	ñima	148	1931			zylstra2012gramatica		alac11
-21366	ChalcatongoHidalgoMixtec	BEESWAX	beeswax, wax	ñuʔmà	ñuʔmà	148	1931	NA	NA	macaulay1996grammar		chal11
+21366	ChalcatongoHidalgoMixtec	BEESWAX	beeswax, wax	ñuʔmà	ñuʔmà	148	1931			macaulay1996grammar		chal11
 20252	SanMartinDuraznosMixtec	CLAY	barro	ntxè'ì	ntxè'ì-	149	1399			hernandez2020san-martin		dura11
 5155	SanEstebanAtatlahucaMixtec	MUD	lodo	ndehyū	ndehyū	149	640			alexander1980gramatica	[C]	atat11
 571	SantoTomasOcotepecMixtec	MUD	mud	ndehyu	ndehyu	149	640			alexander1988syntactic		ocot11
@@ -14943,7 +14943,7 @@ ID	DOCULECT	CONCEPT	SPANISH_GLOSS	VALUE	FORM	IDlist	CONCEPTICON_ID	LOAN	LOAN_SOU
 20936	SanAndresYutatioMixtec	MUD	lodo	ndei'i̠	ndei'i̠	149	640			williams2017diccionario		yuta13
 1089	AlacatlatzalaMixtec	MUD	mud	ndahyi	ndahyi	149	640			zylstra1991syntactic		alac11
 4618	AlacatlatzalaMixtec	MUD	lodo	nda̠'yi̠	nda̠'yi̠	149	640			zylstra2012gramatica		alac11
-21367	ChalcatongoHidalgoMixtec	MUD	mud	ndéʔžu	ndéʔžu	149	640	NA	NA	macaulay1996grammar		chal11
+21367	ChalcatongoHidalgoMixtec	MUD	mud	ndéʔžu	ndéʔžu	149	640			macaulay1996grammar		chal11
 1966	SanPedroySanPabloTeposcolula1600Mixtec	FOAM	espuma	itanduta	ita-nduta	150	1768			alvarado1593vocabulario		tepo01
 1965	SanPedroySanPabloTeposcolula1600Mixtec	FOAM	espuma	teiño	te-iño	150	1768			alvarado1593vocabulario		tepo01
 314	SantaMariaYolotepecMixtec	FOAM	espuma	ñu¹ñu¹	ñu¹ñu¹	150	1768			amith2020yoloxochitl		yolo11
@@ -15087,7 +15087,7 @@ ID	DOCULECT	CONCEPT	SPANISH_GLOSS	VALUE	FORM	IDlist	CONCEPTICON_ID	LOAN	LOAN_SOU
 20729	YucunanyMixtec	FOAM	foam	tìñù	tìñù	150	1768			salazar2020yucunani		yucu17
 4302	SanJuanColoradoMixtec	FOAM	espuma	tiñùù	tiñùù	150	1768			stark1986diccionario		colo11
 20937	SanAndresYutatioMixtec	FOAM	espuma	chi'i̠o̠n	chi'i̠o̠n	150	1768			williams2017diccionario		yuta13
-21368	ChalcatongoHidalgoMixtec	FOAM	foam	tiʔíñu	tiʔíñu	150	1768	NA	NA	macaulay1996grammar		chal11
+21368	ChalcatongoHidalgoMixtec	FOAM	foam	tiʔíñu	tiʔíñu	150	1768			macaulay1996grammar		chal11
 1967	SanPedroySanPabloTeposcolula1600Mixtec	DUST	polvo	ñuyaca mihi	mihi	151	2			alvarado1593vocabulario		tepo01
 1968	SanPedroySanPabloTeposcolula1600Mixtec	DUST	polvo	ñuyaca teyachi	te-yachi	151	2			alvarado1593vocabulario		tepo01
 316	SantaMariaYolotepecMixtec	DUST	polvo	yu³chi⁴	yu³chi⁴	151	2			amith2020yoloxochitl		yolo11
@@ -15113,8 +15113,8 @@ ID	DOCULECT	CONCEPT	SPANISH_GLOSS	VALUE	FORM	IDlist	CONCEPTICON_ID	LOAN	LOAN_SOU
 4444	SantaMariaZacatepecMixtec	DUST	polvo	yuyaka	yu-yaka	151	2			towne2011gramatica		zaca11
 20938	SanAndresYutatioMixtec	DUST	polvo	ño̠ya̠ká	ño̠ya̠ká	151	2			williams2017diccionario		yuta13
 1090	AlacatlatzalaMixtec	DUST	dust	yāā	yāā	151	2			zylstra1991syntactic		alac11
-21369	ChalcatongoHidalgoMixtec	DUST	dust	tɨkačá	tɨkačá	151	2	NA	NA	macaulay1996grammar		chal11
-21370	ChalcatongoHidalgoMixtec	DUST	dust	tɨkačaà	tɨkačaà	151	2	NA	NA	macaulay1996grammar		chal11
+21369	ChalcatongoHidalgoMixtec	DUST	dust	tɨkačá	tɨkačá	151	2			macaulay1996grammar		chal11
+21370	ChalcatongoHidalgoMixtec	DUST	dust	tɨkačaà	tɨkačaà	151	2			macaulay1996grammar		chal11
 5156	SanEstebanAtatlahucaMixtec	RED	rojo	cuéhé	cuéhé	152	156			alexander1980gramatica	[B]	atat11
 572	SantoTomasOcotepecMixtec	RED	red	kwáhá	kwáhá	152	156			alexander1988syntactic		ocot11
 1969	SanPedroySanPabloTeposcolula1600Mixtec	RED	roxo	tay ydzi yaha	yaha	152	156			alvarado1593vocabulario		tepo01
@@ -15286,7 +15286,7 @@ ID	DOCULECT	CONCEPT	SPANISH_GLOSS	VALUE	FORM	IDlist	CONCEPTICON_ID	LOAN	LOAN_SOU
 20939	SanAndresYutatioMixtec	RED	rojo	kua'á	kua'á	152	156			williams2017diccionario		yuta13
 1091	AlacatlatzalaMixtec	RED	red	kwáhá	kwáhá	152	156			zylstra1991syntactic		alac11
 4620	AlacatlatzalaMixtec	RED	rojo	kuá'á	kuá'á	152	156			zylstra2012gramatica		alac11
-21371	ChalcatongoHidalgoMixtec	RED	red	ñũñũ	ñũñũ	152	156	NA	NA	macaulay1996grammar		chal11
+21371	ChalcatongoHidalgoMixtec	RED	red	ñũñũ	ñũñũ	152	156			macaulay1996grammar		chal11
 1971	SanPedroySanPabloTeposcolula1600Mixtec	GREEN	color verde	sacuii ~ yadza cuii yadzavuisi	cuii	153	1425			alvarado1593vocabulario		tepo01
 1970	SanPedroySanPabloTeposcolula1600Mixtec	GREEN	color verde	sayadza	yadza	153	1425			alvarado1593vocabulario		tepo01
 318	SantaMariaYolotepecMixtec	GREEN	verde	kwi⁴i²⁴	kwi⁴i²⁴	153	1425			amith2020yoloxochitl		yolo11
@@ -15333,7 +15333,7 @@ ID	DOCULECT	CONCEPT	SPANISH_GLOSS	VALUE	FORM	IDlist	CONCEPTICON_ID	LOAN	LOAN_SOU
 4446	SantaMariaZacatepecMixtec	GREEN	verde	kuii	kuii	153	1425			towne2011gramatica		zaca11
 20940	SanAndresYutatioMixtec	GREEN	verde	kuíi̠	kuíi̠	153	1425			williams2017diccionario		yuta13
 1092	AlacatlatzalaMixtec	GREEN	green	kwíī	kwíī	153	1425			zylstra1991syntactic		alac11
-21372	ChalcatongoHidalgoMixtec	GREEN	green, blue	kʷíi	kʷíi	153	1425	NA	NA	macaulay1996grammar		chal11
+21372	ChalcatongoHidalgoMixtec	GREEN	green, blue	kʷíi	kʷíi	153	1425			macaulay1996grammar		chal11
 5157	SanEstebanAtatlahucaMixtec	YELLOW	amarillo	cuáán	cuáán	154	1424			alexander1980gramatica	[B]	atat11
 1973	SanPedroySanPabloTeposcolula1600Mixtec	YELLOW	color amarillo	saquaa	quaa	154	1424			alvarado1593vocabulario		tepo01
 319	SantaMariaYolotepecMixtec	YELLOW	amarillo	kwa⁴an²	kwa⁴an²	154	1424			amith2020yoloxochitl		yolo11
@@ -15502,7 +15502,7 @@ ID	DOCULECT	CONCEPT	SPANISH_GLOSS	VALUE	FORM	IDlist	CONCEPTICON_ID	LOAN	LOAN_SOU
 20941	SanAndresYutatioMixtec	YELLOW	amarillo	kuaán	kuaán	154	1424			williams2017diccionario		yuta13
 1093	AlacatlatzalaMixtec	YELLOW	yellow	kwáán	kwáán	154	1424			zylstra1991syntactic		alac11
 4622	AlacatlatzalaMixtec	YELLOW	amarillo	kuáán	kuáán	154	1424			zylstra2012gramatica		alac11
-21373	ChalcatongoHidalgoMixtec	YELLOW	yellow	kʷãã́	kʷãã́	154	1424	NA	NA	macaulay1996grammar		chal11
+21373	ChalcatongoHidalgoMixtec	YELLOW	yellow	kʷãã́	kʷãã́	154	1424			macaulay1996grammar		chal11
 5158	SanEstebanAtatlahucaMixtec	BLACK	negro	jnúú	jnúú	155	163			alexander1980gramatica	[B]	atat11
 573	SantoTomasOcotepecMixtec	BLACK	black	kū-tūún	tūún	155	163			alexander1988syntactic		ocot11
 1974	SanPedroySanPabloTeposcolula1600Mixtec	BLACK	color negro	sandayu satnoo ~ tnoo naa	tnoo	155	163			alvarado1593vocabulario		tepo01
@@ -15551,7 +15551,7 @@ ID	DOCULECT	CONCEPT	SPANISH_GLOSS	VALUE	FORM	IDlist	CONCEPTICON_ID	LOAN	LOAN_SOU
 20942	SanAndresYutatioMixtec	BLACK	negro	ndei'í	ndei'í	155	163			williams2017diccionario		yuta13
 1094	AlacatlatzalaMixtec	BLACK	black, dark	toōn	toōn	155	163			zylstra1991syntactic		alac11
 4623	AlacatlatzalaMixtec	BLACK	negro	to̠ón	to̠ón	155	163			zylstra2012gramatica		alac11
-21374	ChalcatongoHidalgoMixtec	BLACK	black	tũ̀ũ̀	tũ̀ũ̀	155	163	NA	NA	macaulay1996grammar		chal11
+21374	ChalcatongoHidalgoMixtec	BLACK	black	tũ̀ũ̀	tũ̀ũ̀	155	163			macaulay1996grammar		chal11
 5159	SanEstebanAtatlahucaMixtec	WHITE	blanco	cuíjín	cuíjín	156	1335			alexander1980gramatica	[B]	atat11
 1976	SanPedroySanPabloTeposcolula1600Mixtec	WHITE	color blanco	sacuisi	cuisi	156	1335			alvarado1593vocabulario		tepo01
 321	SantaMariaYolotepecMixtec	WHITE	blanco	ya³a³	ya³a³	156	1335			amith2020yoloxochitl		yolo11
@@ -15596,7 +15596,7 @@ ID	DOCULECT	CONCEPT	SPANISH_GLOSS	VALUE	FORM	IDlist	CONCEPTICON_ID	LOAN	LOAN_SOU
 20943	SanAndresYutatioMixtec	WHITE	blanco	kuxí	kuxí	156	1335			williams2017diccionario		yuta13
 1095	AlacatlatzalaMixtec	WHITE	white	yāā	yāā	156	1335			zylstra1991syntactic		alac11
 4624	AlacatlatzalaMixtec	WHITE	blanco	yaa	yaa	156	1335			zylstra2012gramatica		alac11
-21375	ChalcatongoHidalgoMixtec	WHITE	white	kʷĩxĩ́	kʷĩxĩ́	156	1335	NA	NA	macaulay1996grammar		chal11
+21375	ChalcatongoHidalgoMixtec	WHITE	white	kʷĩxĩ́	kʷĩxĩ́	156	1335			macaulay1996grammar		chal11
 5160	SanEstebanAtatlahucaMixtec	ONE	uno	ɨɨn	ɨɨn	157	1493			alexander1980gramatica	[A]	atat11
 574	SantoTomasOcotepecMixtec	ONE	one	īīn	īīn	157	1493			alexander1988syntactic		ocot11
 1977	SanPedroySanPabloTeposcolula1600Mixtec	ONE	uno	ee	ee	157	1493			alvarado1593vocabulario		tepo01
@@ -15650,7 +15650,7 @@ ID	DOCULECT	CONCEPT	SPANISH_GLOSS	VALUE	FORM	IDlist	CONCEPTICON_ID	LOAN	LOAN_SOU
 20944	SanAndresYutatioMixtec	ONE	uno	iin	iin	157	1493			williams2017diccionario		yuta13
 1096	AlacatlatzalaMixtec	ONE	one	ñīī	ñīī	157	1493			zylstra1991syntactic		alac11
 4625	AlacatlatzalaMixtec	ONE	uno	ñii	ñii	157	1493			zylstra2012gramatica		alac11
-21376	ChalcatongoHidalgoMixtec	ONE	one	ɨ́ɨ́	ɨ́ɨ́	157	1493	NA	NA	macaulay1996grammar		chal11
+21376	ChalcatongoHidalgoMixtec	ONE	one	ɨ́ɨ́	ɨ́ɨ́	157	1493			macaulay1996grammar		chal11
 5161	SanEstebanAtatlahucaMixtec	TWO	dos	uū	uū	158	1498			alexander1980gramatica	[C]	atat11
 575	SantoTomasOcotepecMixtec	TWO	two	uu	uu	158	1498			alexander1988syntactic		ocot11
 1978	SanPedroySanPabloTeposcolula1600Mixtec	TWO	dos	vvui	vvui	158	1498			alvarado1593vocabulario		tepo01
@@ -15829,7 +15829,7 @@ ID	DOCULECT	CONCEPT	SPANISH_GLOSS	VALUE	FORM	IDlist	CONCEPTICON_ID	LOAN	LOAN_SOU
 20945	SanAndresYutatioMixtec	TWO	dos	uu̠	uu̠	158	1498			williams2017diccionario		yuta13
 1097	AlacatlatzalaMixtec	TWO	two	ovi	ovi	158	1498			zylstra1991syntactic		alac11
 4626	AlacatlatzalaMixtec	TWO	dos	o̠vi̠	o̠vi̠	158	1498			zylstra2012gramatica		alac11
-21377	ChalcatongoHidalgoMixtec	TWO	two	uù	uù	158	1498	NA	NA	macaulay1996grammar		chal11
+21377	ChalcatongoHidalgoMixtec	TWO	two	uù	uù	158	1498			macaulay1996grammar		chal11
 5162	SanEstebanAtatlahucaMixtec	THREE	tres	unī	unī	159	492			alexander1980gramatica	[C]	atat11
 576	SantoTomasOcotepecMixtec	THREE	three	uni	uni	159	492			alexander1988syntactic		ocot11
 1979	SanPedroySanPabloTeposcolula1600Mixtec	THREE	tres	vni	vni	159	492			alvarado1593vocabulario		tepo01
@@ -15989,7 +15989,7 @@ ID	DOCULECT	CONCEPT	SPANISH_GLOSS	VALUE	FORM	IDlist	CONCEPTICON_ID	LOAN	LOAN_SOU
 20946	SanAndresYutatioMixtec	THREE	tres	oni̠	oni̠	159	492			williams2017diccionario		yuta13
 1098	AlacatlatzalaMixtec	THREE	three	uni	uni	159	492			zylstra1991syntactic		alac11
 4627	AlacatlatzalaMixtec	THREE	tres	u̠ni̠	u̠ni̠	159	492			zylstra2012gramatica		alac11
-21378	ChalcatongoHidalgoMixtec	THREE	three	unì	unì	159	492	NA	NA	macaulay1996grammar		chal11
+21378	ChalcatongoHidalgoMixtec	THREE	three	unì	unì	159	492			macaulay1996grammar		chal11
 5163	SanEstebanAtatlahucaMixtec	FOUR	cuatro	cuūn	cuūn	160	1500			alexander1980gramatica	[C]	atat11
 577	SantoTomasOcotepecMixtec	FOUR	four	kumi	kumi	160	1500			alexander1988syntactic		ocot11
 1980	SanPedroySanPabloTeposcolula1600Mixtec	FOUR	cuatro	qmi	qmi	160	1500			alvarado1593vocabulario		tepo01
@@ -16169,7 +16169,7 @@ ID	DOCULECT	CONCEPT	SPANISH_GLOSS	VALUE	FORM	IDlist	CONCEPTICON_ID	LOAN	LOAN_SOU
 20947	SanAndresYutatioMixtec	FOUR	cuatro	komi̠	komi̠	160	1500			williams2017diccionario		yuta13
 1099	AlacatlatzalaMixtec	FOUR	four	komi	komi	160	1500			zylstra1991syntactic		alac11
 4628	AlacatlatzalaMixtec	FOUR	cuatro	ko̠mi̠	ko̠mi̠	160	1500			zylstra2012gramatica		alac11
-21379	ChalcatongoHidalgoMixtec	FOUR	four	kũũ̀	kũũ̀	160	1500	NA	NA	macaulay1996grammar		chal11
+21379	ChalcatongoHidalgoMixtec	FOUR	four	kũũ̀	kũũ̀	160	1500			macaulay1996grammar		chal11
 5164	SanEstebanAtatlahucaMixtec	FIVE	cinco	uhūn	uhūn	161	493			alexander1980gramatica	[C]	atat11
 578	SantoTomasOcotepecMixtec	FIVE	five	uhun	uhun	161	493			alexander1988syntactic		ocot11
 1981	SanPedroySanPabloTeposcolula1600Mixtec	FIVE	cinco	hoho	hoho	161	493			alvarado1593vocabulario		tepo01
@@ -16345,7 +16345,7 @@ ID	DOCULECT	CONCEPT	SPANISH_GLOSS	VALUE	FORM	IDlist	CONCEPTICON_ID	LOAN	LOAN_SOU
 20948	SanAndresYutatioMixtec	FIVE	cinco	o'o̠n	o'o̠n	161	493			williams2017diccionario		yuta13
 1100	AlacatlatzalaMixtec	FIVE	five	ohon	ohon	161	493			zylstra1991syntactic		alac11
 4629	AlacatlatzalaMixtec	FIVE	cinco	o̠'o̠n	o̠'o̠n	161	493			zylstra2012gramatica		alac11
-21380	ChalcatongoHidalgoMixtec	FIVE	five	ṹʔũ	ṹʔũ	161	493	NA	NA	macaulay1996grammar		chal11
+21380	ChalcatongoHidalgoMixtec	FIVE	five	ṹʔũ	ṹʔũ	161	493			macaulay1996grammar		chal11
 5165	SanEstebanAtatlahucaMixtec	SIX	seis	iñū	iñū	162	1703			alexander1980gramatica	[C]	atat11
 579	SantoTomasOcotepecMixtec	SIX	six	iñu	iñu	162	1703			alexander1988syntactic		ocot11
 1982	SanPedroySanPabloTeposcolula1600Mixtec	SIX	seis	iño	iño	162	1703			alvarado1593vocabulario		tepo01
@@ -16507,7 +16507,7 @@ ID	DOCULECT	CONCEPT	SPANISH_GLOSS	VALUE	FORM	IDlist	CONCEPTICON_ID	LOAN	LOAN_SOU
 20949	SanAndresYutatioMixtec	SIX	seis	iño̠	iño̠	162	1703			williams2017diccionario		yuta13
 1101	AlacatlatzalaMixtec	SIX	six	iño	iño	162	1703			zylstra1991syntactic		alac11
 4630	AlacatlatzalaMixtec	SIX	seis	i̠ño̠	i̠ño̠	162	1703			zylstra2012gramatica		alac11
-21381	ChalcatongoHidalgoMixtec	SIX	six	ĩ́ñũ	ĩ́ñũ	162	1703	NA	NA	macaulay1996grammar		chal11
+21381	ChalcatongoHidalgoMixtec	SIX	six	ĩ́ñũ	ĩ́ñũ	162	1703			macaulay1996grammar		chal11
 5166	SanEstebanAtatlahucaMixtec	SEVEN	siete	uxā	uxā	163	1704			alexander1980gramatica	[C]	atat11
 580	SantoTomasOcotepecMixtec	SEVEN	seven	uxa	uxa	163	1704			alexander1988syntactic		ocot11
 1983	SanPedroySanPabloTeposcolula1600Mixtec	SEVEN	siete	vsa	vsa	163	1704			alvarado1593vocabulario		tepo01
@@ -16664,8 +16664,8 @@ ID	DOCULECT	CONCEPT	SPANISH_GLOSS	VALUE	FORM	IDlist	CONCEPTICON_ID	LOAN	LOAN_SOU
 20950	SanAndresYutatioMixtec	SEVEN	siete	usa̠	usa̠	163	1704			williams2017diccionario		yuta13
 1102	AlacatlatzalaMixtec	SEVEN	seven	usha	usha	163	1704			zylstra1991syntactic		alac11
 4631	AlacatlatzalaMixtec	SEVEN	siete	u̠xa̠	u̠xa̠	163	1704			zylstra2012gramatica		alac11
-21382	ChalcatongoHidalgoMixtec	SEVEN	seven	úšia	úšia	163	1704	NA	NA	macaulay1996grammar		chal11
-21383	ChalcatongoHidalgoMixtec	SEVEN	seven	úša	úša	163	1704	NA	NA	macaulay1996grammar		chal11
+21382	ChalcatongoHidalgoMixtec	SEVEN	seven	úšia	úšia	163	1704			macaulay1996grammar		chal11
+21383	ChalcatongoHidalgoMixtec	SEVEN	seven	úša	úša	163	1704			macaulay1996grammar		chal11
 5167	SanEstebanAtatlahucaMixtec	EIGHT	ocho	unā	unā	164	1705			alexander1980gramatica	[C]	atat11
 581	SantoTomasOcotepecMixtec	EIGHT	eight	una	una	164	1705			alexander1988syntactic		ocot11
 1984	SanPedroySanPabloTeposcolula1600Mixtec	EIGHT	ocho	vna	vna	164	1705			alvarado1593vocabulario		tepo01
@@ -16820,7 +16820,7 @@ ID	DOCULECT	CONCEPT	SPANISH_GLOSS	VALUE	FORM	IDlist	CONCEPTICON_ID	LOAN	LOAN_SOU
 20951	SanAndresYutatioMixtec	EIGHT	ocho	ona̠	ona̠	164	1705			williams2017diccionario		yuta13
 1103	AlacatlatzalaMixtec	EIGHT	eight	ona	ona	164	1705			zylstra1991syntactic		alac11
 4632	AlacatlatzalaMixtec	EIGHT	ocho	o̠na̠	o̠na̠	164	1705			zylstra2012gramatica		alac11
-21384	ChalcatongoHidalgoMixtec	EIGHT	eight	unà	unà	164	1705	NA	NA	macaulay1996grammar		chal11
+21384	ChalcatongoHidalgoMixtec	EIGHT	eight	unà	unà	164	1705			macaulay1996grammar		chal11
 5168	SanEstebanAtatlahucaMixtec	NINE	nueve	ɨɨn	ɨɨn	165	1483			alexander1980gramatica	[C]	atat11
 582	SantoTomasOcotepecMixtec	NINE	nine	iin	iin	165	1483			alexander1988syntactic		ocot11
 1985	SanPedroySanPabloTeposcolula1600Mixtec	NINE	nueve	ee	ee	165	1483			alvarado1593vocabulario		tepo01
@@ -16870,7 +16870,7 @@ ID	DOCULECT	CONCEPT	SPANISH_GLOSS	VALUE	FORM	IDlist	CONCEPTICON_ID	LOAN	LOAN_SOU
 20952	SanAndresYutatioMixtec	NINE	nueve	ii̠n	ii̠n	165	1483			williams2017diccionario		yuta13
 1104	AlacatlatzalaMixtec	NINE	nine	ñii	ñii	165	1483			zylstra1991syntactic		alac11
 4633	AlacatlatzalaMixtec	NINE	nueve	i̠i̠n	i̠i̠n	165	1483			zylstra2012gramatica		alac11
-21385	ChalcatongoHidalgoMixtec	NINE	nine	ɨ̃́ɨ̃	ɨ̃́ɨ̃	165	1483	NA	NA	macaulay1996grammar		chal11
+21385	ChalcatongoHidalgoMixtec	NINE	nine	ɨ̃́ɨ̃	ɨ̃́ɨ̃	165	1483			macaulay1996grammar		chal11
 5169	SanEstebanAtatlahucaMixtec	TEN	diez	uxī	uxī	166	1515			alexander1980gramatica	[C]	atat11
 583	SantoTomasOcotepecMixtec	TEN	ten	ushi	ushi	166	1515			alexander1988syntactic		ocot11
 1986	SanPedroySanPabloTeposcolula1600Mixtec	TEN	diez	visi	visi	166	1515			alvarado1593vocabulario		tepo01
@@ -17028,7 +17028,7 @@ ID	DOCULECT	CONCEPT	SPANISH_GLOSS	VALUE	FORM	IDlist	CONCEPTICON_ID	LOAN	LOAN_SOU
 20953	SanAndresYutatioMixtec	TEN	diez	uxi̠	uxi̠	166	1515			williams2017diccionario		yuta13
 1105	AlacatlatzalaMixtec	TEN	ten	ushu	ushu	166	1515			zylstra1991syntactic		alac11
 4634	AlacatlatzalaMixtec	TEN	diez	u̠xu̠	u̠xu̠	166	1515			zylstra2012gramatica		alac11
-21386	ChalcatongoHidalgoMixtec	TEN	ten	ušì	ušì	166	1515	NA	NA	macaulay1996grammar		chal11
+21386	ChalcatongoHidalgoMixtec	TEN	ten	ušì	ušì	166	1515			macaulay1996grammar		chal11
 5170	SanEstebanAtatlahucaMixtec	FIFTEEN	quince	xahūn	xahūn	167	1709			alexander1980gramatica	[C]	atat11
 584	SantoTomasOcotepecMixtec	FIFTEEN	fifteen	shahun	shahun	167	1709			alexander1988syntactic		ocot11
 1987	SanPedroySanPabloTeposcolula1600Mixtec	FIFTEEN	quince	saho	saho	167	1709			alvarado1593vocabulario		tepo01
@@ -17186,7 +17186,7 @@ ID	DOCULECT	CONCEPT	SPANISH_GLOSS	VALUE	FORM	IDlist	CONCEPTICON_ID	LOAN	LOAN_SOU
 20954	SanAndresYutatioMixtec	FIFTEEN	quince	sa'o̠n	sa'o̠n	167	1709			williams2017diccionario		yuta13
 1106	AlacatlatzalaMixtec	FIFTEEN	fifteen	shāhun	shāhun	167	1709			zylstra1991syntactic		alac11
 4635	AlacatlatzalaMixtec	FIFTEEN	quince	xa̠'u̠n	xa̠'u̠n	167	1709			zylstra2012gramatica		alac11
-21387	ChalcatongoHidalgoMixtec	FIFTEEN	fifteen	šĩã́ʔũ	šĩã́ʔũ	167	1709	NA	NA	macaulay1996grammar		chal11
+21387	ChalcatongoHidalgoMixtec	FIFTEEN	fifteen	šĩã́ʔũ	šĩã́ʔũ	167	1709			macaulay1996grammar		chal11
 5171	SanEstebanAtatlahucaMixtec	TWENTY	veinte	ocō	ocō	168	1710			alexander1980gramatica	[C]	atat11
 585	SantoTomasOcotepecMixtec	TWENTY	twenty	oko	oko	168	1710			alexander1988syntactic		ocot11
 1988	SanPedroySanPabloTeposcolula1600Mixtec	TWENTY	veinte	oco	oco	168	1710			alvarado1593vocabulario		tepo01
@@ -17223,7 +17223,7 @@ ID	DOCULECT	CONCEPT	SPANISH_GLOSS	VALUE	FORM	IDlist	CONCEPTICON_ID	LOAN	LOAN_SOU
 20955	SanAndresYutatioMixtec	TWENTY	veinte	oko̠	oko̠	168	1710			williams2017diccionario		yuta13
 1107	AlacatlatzalaMixtec	TWENTY	twenty	oko	oko	168	1710			zylstra1991syntactic		alac11
 4636	AlacatlatzalaMixtec	TWENTY	veinte	o̠ko̠	o̠ko̠	168	1710			zylstra2012gramatica		alac11
-21388	ChalcatongoHidalgoMixtec	TWENTY	twenty	okò	okò	168	1710	NA	NA	macaulay1996grammar		chal11
+21388	ChalcatongoHidalgoMixtec	TWENTY	twenty	okò	okò	168	1710			macaulay1996grammar		chal11
 5172	SanEstebanAtatlahucaMixtec	POOR	pobre	ndáhú	ndáhú	169	1674			alexander1980gramatica	[B]	atat11
 586	SantoTomasOcotepecMixtec	POOR	poor	ndahví	ndahví	169	1674			alexander1988syntactic		ocot11
 1990	SanPedroySanPabloTeposcolula1600Mixtec	POOR	pobre	taicai	cai	169	1674			alvarado1593vocabulario		tepo01
@@ -17391,7 +17391,7 @@ ID	DOCULECT	CONCEPT	SPANISH_GLOSS	VALUE	FORM	IDlist	CONCEPTICON_ID	LOAN	LOAN_SOU
 20956	SanAndresYutatioMixtec	POOR	pobre	nda'í	nda'í	169	1674			williams2017diccionario		yuta13
 1108	AlacatlatzalaMixtec	POOR	poor	ndáhví	ndáhví	169	1674			zylstra1991syntactic		alac11
 4637	AlacatlatzalaMixtec	POOR	pobre	ndá'ví	ndá'ví	169	1674			zylstra2012gramatica		alac11
-21389	ChalcatongoHidalgoMixtec	POOR	poor	ndáʔu	ndáʔu	169	1674	NA	NA	macaulay1996grammar		chal11
+21389	ChalcatongoHidalgoMixtec	POOR	poor	ndáʔu	ndáʔu	169	1674			macaulay1996grammar		chal11
 5173	SanEstebanAtatlahucaMixtec	RICH	rico	cúcá	cúcá	170	712			alexander1980gramatica	[B]	atat11
 587	SantoTomasOcotepecMixtec	RICH	rich	kwiká	kwiká	170	712			alexander1988syntactic		ocot11
 1991	SanPedroySanPabloTeposcolula1600Mixtec	RICH	rico	tay ñacutu ~ tay yyocutu ini	cutu	170	712			alvarado1593vocabulario		tepo01
@@ -17425,7 +17425,7 @@ ID	DOCULECT	CONCEPT	SPANISH_GLOSS	VALUE	FORM	IDlist	CONCEPTICON_ID	LOAN	LOAN_SOU
 20957	SanAndresYutatioMixtec	RICH	rico	kuíká	kuíká	170	712			williams2017diccionario		yuta13
 1109	AlacatlatzalaMixtec	RICH	rich	kwíká	kwíká	170	712			zylstra1991syntactic		alac11
 4638	AlacatlatzalaMixtec	RICH	rico	kuíká	kuíká	170	712			zylstra2012gramatica		alac11
-21390	ChalcatongoHidalgoMixtec	RICH	rich	kúká	kúká	170	712	NA	NA	macaulay1996grammar		chal11
+21390	ChalcatongoHidalgoMixtec	RICH	rich	kúká	kúká	170	712			macaulay1996grammar		chal11
 1994	SanPedroySanPabloTeposcolula1600Mixtec	COLD	frío	huisi casi ~ huisi ñeñe coyo	huisi	171	1287			alvarado1593vocabulario		tepo01
 336	SantaMariaYolotepecMixtec	COLD	frío	bi¹xin³	bi¹xin³	171	1287			amith2020yoloxochitl		yolo11
 5374	SantaMariaPapaloCuicatec	COLD	frío	i³cha²	i³cha²	171	1287			anderson1983diccionario		papa11
@@ -17598,7 +17598,7 @@ ID	DOCULECT	CONCEPT	SPANISH_GLOSS	VALUE	FORM	IDlist	CONCEPTICON_ID	LOAN	LOAN_SOU
 20958	SanAndresYutatioMixtec	COLD	frío	vi̠xi	vi̠xi	171	1287			williams2017diccionario		yuta13
 1110	AlacatlatzalaMixtec	COLD	cold	vīshin	vīshin	171	1287			zylstra1991syntactic		alac11
 4639	AlacatlatzalaMixtec	COLD	frío	vi̠xin	vi̠xin	171	1287			zylstra2012gramatica		alac11
-21391	ChalcatongoHidalgoMixtec	COLD	cold	bĩ̀xĩ	bĩ̀xĩ	171	1287	NA	NA	macaulay1996grammar		chal11
+21391	ChalcatongoHidalgoMixtec	COLD	cold	bĩ̀xĩ	bĩ̀xĩ	171	1287			macaulay1996grammar		chal11
 5174	SanEstebanAtatlahucaMixtec	HOT	caliente	jihní	jihní	172	1286			alexander1980gramatica	[B]	atat11
 588	SantoTomasOcotepecMixtec	HOT	hot	īhní	īhní	172	1286			alexander1988syntactic		ocot11
 1997	SanPedroySanPabloTeposcolula1600Mixtec	HOT	caliente	saidzaa	idzaa	172	1286			alvarado1593vocabulario		tepo01
@@ -17726,7 +17726,7 @@ ID	DOCULECT	CONCEPT	SPANISH_GLOSS	VALUE	FORM	IDlist	CONCEPTICON_ID	LOAN	LOAN_SOU
 4465	SantaMariaZacatepecMixtec	HOT	caliente	ni'ni	ni'ni	172	1286			towne2011gramatica		zaca11
 20959	SanAndresYutatioMixtec	HOT	caliente	i'íní	i'íní	172	1286			williams2017diccionario		yuta13
 4640	AlacatlatzalaMixtec	HOT	está caliente, caliente	ñi'ní	ñi'ní	172	1286			zylstra2012gramatica		alac11
-21392	ChalcatongoHidalgoMixtec	HOT	hot	ñíʔní	ñíʔní	172	1286	NA	NA	macaulay1996grammar		chal11
+21392	ChalcatongoHidalgoMixtec	HOT	hot	ñíʔní	ñíʔní	172	1286			macaulay1996grammar		chal11
 1998	SanPedroySanPabloTeposcolula1600Mixtec	BIG	grande cosa	sacanu	canu	173	1202			alvarado1593vocabulario		tepo01
 2000	SanPedroySanPabloTeposcolula1600Mixtec	BIG	grande cosa	sananu	nanu	173	1202			alvarado1593vocabulario		tepo01
 1999	SanPedroySanPabloTeposcolula1600Mixtec	BIG	grande cosa	saquaha	quaha	173	1202			alvarado1593vocabulario		tepo01
@@ -17904,7 +17904,7 @@ ID	DOCULECT	CONCEPT	SPANISH_GLOSS	VALUE	FORM	IDlist	CONCEPTICON_ID	LOAN	LOAN_SOU
 4642	AlacatlatzalaMixtec	BIG (SINGULAR)	grande.SG	chée	chée	173				zylstra2012gramatica		alac11
 4641	AlacatlatzalaMixtec	BIG (SINGULAR)	grande.SG	ká'no	ká'no	173				zylstra2012gramatica		alac11
 2830	AyutlalosLibresMixtec	IMPORTANT	important	káʔnúʔ	káʔnúʔ-	173	1285			durr1987preliminary		ayut11
-21393	ChalcatongoHidalgoMixtec	BIG (SINGULAR)	big.SG	kã́ʔnũ	kã́ʔnũ	173	NA	NA	NA	macaulay1996grammar		chal11
+21393	ChalcatongoHidalgoMixtec	BIG (SINGULAR)	big.SG	kã́ʔnũ	kã́ʔnũ	173				macaulay1996grammar		chal11
 5176	SanEstebanAtatlahucaMixtec	BIG (PLURAL)	grande.PL	náhnu	náhnu	174				alexander1980gramatica	[A]	atat11
 590	SantoTomasOcotepecMixtec	BIG (PLURAL)	big.PL	náhnú	náhnú	174				alexander1988syntactic		ocot11
 339	SantaMariaYolotepecMixtec	BIG (PLURAL)	grande.PL	na'⁴nu³	na'⁴nu³	174				amith2020yoloxochitl		yolo11
@@ -17927,7 +17927,7 @@ ID	DOCULECT	CONCEPT	SPANISH_GLOSS	VALUE	FORM	IDlist	CONCEPTICON_ID	LOAN	LOAN_SOU
 20961	SanAndresYutatioMixtec	BIG (PLURAL)	grande.PL	ná'ano	ná'ano	174				williams2017diccionario		yuta13
 1112	AlacatlatzalaMixtec	BIG (PLURAL)	big.PL	náhnō	náhnō	174				zylstra1991syntactic		alac11
 4643	AlacatlatzalaMixtec	BIG (PLURAL)	grande.PL	ná'no	ná'no	174				zylstra2012gramatica		alac11
-21394	ChalcatongoHidalgoMixtec	BIG (PLURAL)	big.PL	nã́ʔnũ	nã́ʔnũ	174	NA	NA	NA	macaulay1996grammar		chal11
+21394	ChalcatongoHidalgoMixtec	BIG (PLURAL)	big.PL	nã́ʔnũ	nã́ʔnũ	174				macaulay1996grammar		chal11
 5177	SanEstebanAtatlahucaMixtec	SMALL (SINGULAR)	chico.SG	lulí	lulí	175				alexander1980gramatica	[B]	atat11
 591	SantoTomasOcotepecMixtec	SMALL (SINGULAR)	little	lūlí	lūlí	175				alexander1988syntactic		ocot11
 2002	SanPedroySanPabloTeposcolula1600Mixtec	SMALL (SINGULAR)	pequeña cosa	sadzuchi	dzuchi	175				alvarado1593vocabulario		tepo01
@@ -18121,8 +18121,8 @@ ID	DOCULECT	CONCEPT	SPANISH_GLOSS	VALUE	FORM	IDlist	CONCEPTICON_ID	LOAN	LOAN_SOU
 20963	SanAndresYutatioMixtec	SMALL (SINGULAR)	pequeño.SG, chico.SG	ló'o̠	ló'o̠	175				williams2017diccionario		yuta13
 1113	AlacatlatzalaMixtec	SMALL (SINGULAR)	little.SG	lōhō	lōhō	175				zylstra1991syntactic		alac11
 4644	AlacatlatzalaMixtec	SMALL (SINGULAR)	pequeño.SG	lo'o	lo'o	175				zylstra2012gramatica		alac11
-21395	ChalcatongoHidalgoMixtec	SMALL (SINGULAR)	small	lúlí	lúlí	175	NA	NA	NA	macaulay1996grammar		chal11
-21396	ChalcatongoHidalgoMixtec	SMALL (SINGULAR)	small	tíʔlu	tíʔlu	175	NA	NA	NA	macaulay1996grammar		chal11
+21395	ChalcatongoHidalgoMixtec	SMALL (SINGULAR)	small	lúlí	lúlí	175				macaulay1996grammar		chal11
+21396	ChalcatongoHidalgoMixtec	SMALL (SINGULAR)	small	tíʔlu	tíʔlu	175				macaulay1996grammar		chal11
 341	SantaMariaYolotepecMixtec	SMALL (PLURAL)	pequeño.PL	ba⁴li⁴	ba⁴li⁴	176				amith2020yoloxochitl		yolo11
 5379	SantaMariaPapaloCuicatec	SMALL (PLURAL)	pequeño.PL, chico.PL	'a²ya¹⁴	'a²ya¹⁴	176				anderson1983diccionario		papa11
 1350	ConcepcionPapaloCuicatec	SMALL (PLURAL)	small.PL	hāyáa	hāyáa	176				bradley1991preliminary		conc11
@@ -18162,7 +18162,7 @@ ID	DOCULECT	CONCEPT	SPANISH_GLOSS	VALUE	FORM	IDlist	CONCEPTICON_ID	LOAN	LOAN_SOU
 1114	AlacatlatzalaMixtec	SMALL (PLURAL)	little.PL (few)	válí	válí	176				zylstra1991syntactic		alac11
 4646	AlacatlatzalaMixtec	SMALL (PLURAL)	pequeño.PL	kuálí	kuálí	176				zylstra2012gramatica		alac11
 4645	AlacatlatzalaMixtec	SMALL (PLURAL)	pequeño.PL	válí	válí	176				zylstra2012gramatica		alac11
-21397	ChalcatongoHidalgoMixtec	SMALL (PLURAL)	small, thin	kʷáčí	kʷáčí	176	NA	NA	NA	macaulay1996grammar		chal11
+21397	ChalcatongoHidalgoMixtec	SMALL (PLURAL)	small, thin	kʷáčí	kʷáčí	176				macaulay1996grammar		chal11
 2004	SanPedroySanPabloTeposcolula1600Mixtec	LONG	largo como cordel o palo	cani	cani	177	1203			alvarado1593vocabulario		tepo01
 1796	SanAndresChicahuaxtla1890Triqui	LONG	largo	Chehea	chehea	177	1203			belmar1897ensayo		chic02
 1795	SanAndresChicahuaxtla1890Triqui	LONG	largo	Chihiha	chihiha	177	1203			belmar1897ensayo		chic02
@@ -18210,7 +18210,7 @@ ID	DOCULECT	CONCEPT	SPANISH_GLOSS	VALUE	FORM	IDlist	CONCEPTICON_ID	LOAN	LOAN_SOU
 20965	SanAndresYutatioMixtec	LONG (SINGULAR)	largo.SG	káni̠	káni̠	177				williams2017diccionario		yuta13
 1116	AlacatlatzalaMixtec	LONG (SINGULAR)	long.SG	kánī	kánī	177				zylstra1991syntactic		alac11
 4647	AlacatlatzalaMixtec	LONG (SINGULAR)	largo.SG	káni̠	káni̠	177				zylstra2012gramatica		alac11
-21398	ChalcatongoHidalgoMixtec	LONG (SINGULAR)	long.SG	káni	káni	177	NA	NA	NA	macaulay1996grammar		chal11
+21398	ChalcatongoHidalgoMixtec	LONG (SINGULAR)	long.SG	káni	káni	177				macaulay1996grammar		chal11
 5179	SanEstebanAtatlahucaMixtec	LONG (PLURAL)	largo.PL	náni	náni	178				alexander1980gramatica	[A]	atat11
 593	SantoTomasOcotepecMixtec	LONG (PLURAL)	long.PL	nání	nání	178				alexander1988syntactic		ocot11
 343	SantaMariaYolotepecMixtec	LONG (PLURAL)	largo.PL	na⁴ni²⁴	na⁴ni²⁴	178				amith2020yoloxochitl		yolo11
@@ -18233,7 +18233,7 @@ ID	DOCULECT	CONCEPT	SPANISH_GLOSS	VALUE	FORM	IDlist	CONCEPTICON_ID	LOAN	LOAN_SOU
 20966	SanAndresYutatioMixtec	LONG (PLURAL)	largo.PL	náni̠	náni̠	178				williams2017diccionario		yuta13
 1117	AlacatlatzalaMixtec	LONG (PLURAL)	long.PL	nánī	nánī	178				zylstra1991syntactic		alac11
 4648	AlacatlatzalaMixtec	LONG (PLURAL)	largo.PL	náni̠	náni̠	178				zylstra2012gramatica		alac11
-21399	ChalcatongoHidalgoMixtec	LONG (PLURAL)	long.PL	náni	náni	178	NA	NA	NA	macaulay1996grammar		chal11
+21399	ChalcatongoHidalgoMixtec	LONG (PLURAL)	long.PL	náni	náni	178				macaulay1996grammar		chal11
 5180	SanEstebanAtatlahucaMixtec	GOOD	bueno	vāha	vāha	179	1035			alexander1980gramatica	[A]	atat11
 594	SantoTomasOcotepecMixtec	GOOD	good	vahā	vahā	179	1035			alexander1988syntactic		ocot11
 2006	SanPedroySanPabloTeposcolula1600Mixtec	GOOD	buena cosa	sadzico	dzico	179	1035			alvarado1593vocabulario		tepo01
@@ -18383,7 +18383,7 @@ ID	DOCULECT	CONCEPT	SPANISH_GLOSS	VALUE	FORM	IDlist	CONCEPTICON_ID	LOAN	LOAN_SOU
 20967	SanAndresYutatioMixtec	GOOD	bueno	va̠'a	va̠'a	179	1035			williams2017diccionario		yuta13
 1118	AlacatlatzalaMixtec	GOOD	good	vahā	vahā	179	1035			zylstra1991syntactic		alac11
 4649	AlacatlatzalaMixtec	GOOD	bueno	va̠'a	va̠'a	179	1035			zylstra2012gramatica		alac11
-21400	ChalcatongoHidalgoMixtec	GOOD	good	bàʔà	bàʔà	179	1035	NA	NA	macaulay1996grammar		chal11
+21400	ChalcatongoHidalgoMixtec	GOOD	good	bàʔà	bàʔà	179	1035			macaulay1996grammar		chal11
 17973	SantiagoTamazolaMixtec	BROWN SUGAR LOAF	panela	ƀiθi	ƀiθi	180	717			josserand1983mixtec		tama12
 595	SantoTomasOcotepecMixtec	SWEET	sweet	vishi	vishi	180	717			alexander1988syntactic		ocot11
 2007	SanPedroySanPabloTeposcolula1600Mixtec	SWEET	dulce cosa	huidzi ~ sahuidzi ~ saadzi	huidzi	180	717			alvarado1593vocabulario		tepo01
@@ -18546,7 +18546,7 @@ ID	DOCULECT	CONCEPT	SPANISH_GLOSS	VALUE	FORM	IDlist	CONCEPTICON_ID	LOAN	LOAN_SOU
 20968	SanAndresYutatioMixtec	SWEET	dulce	vidi̠	vidi̠	180	717			williams2017diccionario		yuta13
 1119	AlacatlatzalaMixtec	SWEET	sweet	visi	visi	180	717			zylstra1991syntactic		alac11
 4650	AlacatlatzalaMixtec	SWEET	dulce	visi	visi	180	717			zylstra2012gramatica		alac11
-21401	ChalcatongoHidalgoMixtec	SWEET	sweet	bĩšĩ̀	bĩšĩ̀	180	717	NA	NA	macaulay1996grammar		chal11
+21401	ChalcatongoHidalgoMixtec	SWEET	sweet	bĩšĩ̀	bĩšĩ̀	180	717			macaulay1996grammar		chal11
 18024	ChigmecatitlanMixtec	NEUTRAL (TASTE)	neutral	ađa	ađa	181				josserand1983mixtec		chig11
 5181	SanEstebanAtatlahucaMixtec	SALTY	salado	ñɨ́ɨ́	ñɨ́ɨ́	181	1091			alexander1980gramatica	[C]	atat11
 2010	SanPedroySanPabloTeposcolula1600Mixtec	SALTY	salada cosa como potaje	vhua	vhua	181	1091			alvarado1593vocabulario		tepo01
@@ -18662,7 +18662,7 @@ ID	DOCULECT	CONCEPT	SPANISH_GLOSS	VALUE	FORM	IDlist	CONCEPTICON_ID	LOAN	LOAN_SOU
 20969	SanAndresYutatioMixtec	SALTY	salado	o'o̠va̠	o'o̠va̠	181	1091			williams2017diccionario		yuta13
 4651	AlacatlatzalaMixtec	SALTY	salado	yo̠'va̠	yo̠'va̠	181	1091			zylstra2012gramatica		alac11
 18031	SantaAnaCuauhtemocMixtec	THICK	espeso	uʔwe	uʔwe	181	1244			josserand1983mixtec		cuau11
-21402	ChalcatongoHidalgoMixtec	SALTY	salty	uʔà	uʔà	181	1091	NA	NA	macaulay1996grammar		chal11
+21402	ChalcatongoHidalgoMixtec	SALTY	salty	uʔà	uʔà	181	1091			macaulay1996grammar		chal11
 2011	SanPedroySanPabloTeposcolula1600Mixtec	BITTER	amarga cosa	atu	atu	182	887			alvarado1593vocabulario		tepo01
 2013	SanPedroySanPabloTeposcolula1600Mixtec	BITTER	amarga cosa	aya	aya	182	887			alvarado1593vocabulario		tepo01
 2012	SanPedroySanPabloTeposcolula1600Mixtec	BITTER	amarga cosa	huvua	huvua	182	887			alvarado1593vocabulario		tepo01
@@ -18781,7 +18781,7 @@ ID	DOCULECT	CONCEPT	SPANISH_GLOSS	VALUE	FORM	IDlist	CONCEPTICON_ID	LOAN	LOAN_SOU
 4334	SanJuanColoradoMixtec	BITTER	amargo	ùvà	ùvà	182	887			stark1986diccionario		colo11
 4474	SantaMariaZacatepecMixtec	BITTER	amargo	uva	uva	182	887			towne2011gramatica		zaca11
 20970	SanAndresYutatioMixtec	BITTER	amargo	ova̠	ova̠	182	887			williams2017diccionario		yuta13
-21403	ChalcatongoHidalgoMixtec	BITTER	bitter	uà	uà	182	887	NA	NA	macaulay1996grammar		chal11
+21403	ChalcatongoHidalgoMixtec	BITTER	bitter	uà	uà	182	887			macaulay1996grammar		chal11
 18247	SanJuanTamazolaMixtec	LUSH	frondoso	ađi	ađi	183				josserand1983mixtec		tama11
 5182	SanEstebanAtatlahucaMixtec	TASTY	sabroso	asɨ̄n	asɨ̄n	183	1813			alexander1980gramatica	[C]	atat11
 596	SantoTomasOcotepecMixtec	TASTY	delicious	āsin	āsin	183	1813			alexander1988syntactic		ocot11
@@ -18900,7 +18900,7 @@ ID	DOCULECT	CONCEPT	SPANISH_GLOSS	VALUE	FORM	IDlist	CONCEPTICON_ID	LOAN	LOAN_SOU
 4335	SanJuanColoradoMixtec	TASTY	sabroso	àsɨ̀n	àsɨ̀n	183	1813			stark1986diccionario		colo11
 4825	XochapaMixtec	TASTY	sabroso	ya̠sín	ya̠sín	183	1813			stark2013diccionario		xoch11
 20971	SanAndresYutatioMixtec	TASTY	sabroso	adi̠	adi̠	183	1813			williams2017diccionario		yuta13
-21404	ChalcatongoHidalgoMixtec	TASTY	tasty, delicious	ãsũ̀	ãsũ̀	183	1813	NA	NA	macaulay1996grammar		chal11
+21404	ChalcatongoHidalgoMixtec	TASTY	tasty, delicious	ãsũ̀	ãsũ̀	183	1813			macaulay1996grammar		chal11
 2015	SanPedroySanPabloTeposcolula1600Mixtec	WIDE	ancha cosa como estera	cahi	cahi	184	1243			alvarado1593vocabulario		tepo01
 2016	SanPedroySanPabloTeposcolula1600Mixtec	WIDE	ancha cosa como estera	cono	cono	184	1243			alvarado1593vocabulario		tepo01
 349	SantaMariaYolotepecMixtec	WIDE	ancho	ndi⁴ka¹	ndi⁴ka¹	184	1243			amith2020yoloxochitl		yolo11
@@ -18925,8 +18925,8 @@ ID	DOCULECT	CONCEPT	SPANISH_GLOSS	VALUE	FORM	IDlist	CONCEPTICON_ID	LOAN	LOAN_SOU
 20760	YucunanyMixtec	WIDE	wide	ntíkà	ntíkà	184	1243			salazar2020yucunani		yucu17
 4336	SanJuanColoradoMixtec	WIDE	ancho	quiihín	quiihín	184	1243			stark1986diccionario		colo11
 20972	SanAndresYutatioMixtec	WIDE	ancho	ndíka̠	ndíka̠	184	1243			williams2017diccionario		yuta13
-21405	ChalcatongoHidalgoMixtec	WIDE	wide	xičá	xičá	184	1243	NA	NA	macaulay1996grammar		chal11
-21406	ChalcatongoHidalgoMixtec	WIDE	wide	xíčá	xíčá	184	1243	NA	NA	macaulay1996grammar		chal11
+21405	ChalcatongoHidalgoMixtec	WIDE	wide	xičá	xičá	184	1243			macaulay1996grammar		chal11
+21406	ChalcatongoHidalgoMixtec	WIDE	wide	xíčá	xíčá	184	1243			macaulay1996grammar		chal11
 2017	SanPedroySanPabloTeposcolula1600Mixtec	NEW	nuevo	sasaa	saa	185	1231			alvarado1593vocabulario		tepo01
 350	SantaMariaYolotepecMixtec	NEW	nuevo	xa¹⁴a³	xa¹⁴a³	185	1231			amith2020yoloxochitl		yolo11
 5388	SantaMariaPapaloCuicatec	NEW	nuevo	ga⁴³	ga⁴³	185	1231			anderson1983diccionario		papa11
@@ -18967,7 +18967,7 @@ ID	DOCULECT	CONCEPT	SPANISH_GLOSS	VALUE	FORM	IDlist	CONCEPTICON_ID	LOAN	LOAN_SOU
 20973	SanAndresYutatioMixtec	NEW	nuevo	sa̠á	sa̠á	185	1231			williams2017diccionario		yuta13
 1121	AlacatlatzalaMixtec	NEW	new	shaá	shaá	185	1231			zylstra1991syntactic		alac11
 4654	AlacatlatzalaMixtec	NEW	nuevo	xa̠á	xa̠á	185	1231			zylstra2012gramatica		alac11
-21407	ChalcatongoHidalgoMixtec	NEW	new	xáá	xáá	185	1231	NA	NA	macaulay1996grammar		chal11
+21407	ChalcatongoHidalgoMixtec	NEW	new	xáá	xáá	185	1231			macaulay1996grammar		chal11
 597	SantoTomasOcotepecMixtec	LAZY	lazy	kū-kúshí	kúshí	186	1564			alexander1988syntactic		ocot11
 2020	SanPedroySanPabloTeposcolula1600Mixtec	LAZY	floxo por neglicencia	tay cudzy	cudzy	186	1564			alvarado1593vocabulario		tepo01
 2019	SanPedroySanPabloTeposcolula1600Mixtec	LAZY	floxo por neglicencia	tay cundu	cundu	186	1564			alvarado1593vocabulario		tepo01
@@ -19189,7 +19189,7 @@ ID	DOCULECT	CONCEPT	SPANISH_GLOSS	VALUE	FORM	IDlist	CONCEPTICON_ID	LOAN	LOAN_SOU
 18445	ZapotitlanPalmasMixtec	LOOSE	floja	đaya	đaya	186	2506			josserand1983mixtec		zapo11
 4126	SanAgustinChayucoMixtec	LOOSE	flojo (de cosas)	taya	taya	186	2506			pensinger1974diccionario		chay11
 4828	XochapaMixtec	LOOSE	flojo de cosa	taya	taya	186	2506			stark2013diccionario		xoch11
-21408	ChalcatongoHidalgoMixtec	LAZY	lazy	kúší	kúší	186	1564	NA	NA	macaulay1996grammar		chal11
+21408	ChalcatongoHidalgoMixtec	LAZY	lazy	kúší	kúší	186	1564			macaulay1996grammar		chal11
 5183	SanEstebanAtatlahucaMixtec	UGLY	feo, bravo	xeēn	xeēn	187	1548			alexander1980gramatica	[C]	atat11
 2024	SanPedroySanPabloTeposcolula1600Mixtec	UGLY	fea cosa	sandii sacuiya	cuiya	187	1548			alvarado1593vocabulario		tepo01
 2023	SanPedroySanPabloTeposcolula1600Mixtec	UGLY	fea cosa	sa ña huii	huii	187	1548			alvarado1593vocabulario		tepo01
@@ -19317,7 +19317,7 @@ ID	DOCULECT	CONCEPT	SPANISH_GLOSS	VALUE	FORM	IDlist	CONCEPTICON_ID	LOAN	LOAN_SOU
 20975	SanAndresYutatioMixtec	UGLY	feo, malo	kini	kini	187	1548			williams2017diccionario		yuta13
 1122	AlacatlatzalaMixtec	UGLY	ugly	kīnī	kīnī	187	1548			zylstra1991syntactic		alac11
 4656	AlacatlatzalaMixtec	UGLY	feo	kini	kini	187	1548			zylstra2012gramatica		alac11
-21409	ChalcatongoHidalgoMixtec	UGLY	ugly	ñáka	ñáka	187	1548	NA	NA	macaulay1996grammar		chal11
+21409	ChalcatongoHidalgoMixtec	UGLY	ugly	ñáka	ñáka	187	1548			macaulay1996grammar		chal11
 2026	SanPedroySanPabloTeposcolula1600Mixtec	JEALOUS	celoso	tai cuiñoini	cuiño-ini	188	2821			alvarado1593vocabulario		tepo01
 353	SantaMariaYolotepecMixtec	JEALOUS	celoso	kwi⁴ñu²	kwi⁴ñu²	188	2821			amith2020yoloxochitl		yolo11
 5391	SantaMariaPapaloCuicatec	JEALOUS	celoso	nd'²ta³	nd'²ta³	188	2821			anderson1983diccionario		papa11
@@ -19341,8 +19341,8 @@ ID	DOCULECT	CONCEPT	SPANISH_GLOSS	VALUE	FORM	IDlist	CONCEPTICON_ID	LOAN	LOAN_SOU
 5851	YucuquimiOcampoMixtec	JEALOUS	celoso	kɥi³õ³	kɥi³õ³	188	2821			swanton2020observaciones		yucu16
 4478	SantaMariaZacatepecMixtec	JEALOUS	celoso	kuiñu	kuiñu	188	2821			towne2011gramatica		zaca11
 20976	SanAndresYutatioMixtec	JEALOUS	celoso	kuión	kuión	188	2821			williams2017diccionario		yuta13
-21410	ChalcatongoHidalgoMixtec	JEALOUS	jealous	kʷĩ́ñĩ́	kʷĩ́ñĩ́	188	2821	NA	NA	macaulay1996grammar		chal11
-21411	ChalcatongoHidalgoMixtec	JEALOUS	jealous	kʷĩ́ñɨ̃́	kʷĩ́ñɨ̃́	188	2821	NA	NA	macaulay1996grammar		chal11
+21410	ChalcatongoHidalgoMixtec	JEALOUS	jealous	kʷĩ́ñĩ́	kʷĩ́ñĩ́	188	2821			macaulay1996grammar		chal11
+21411	ChalcatongoHidalgoMixtec	JEALOUS	jealous	kʷĩ́ñɨ̃́	kʷĩ́ñɨ̃́	188	2821			macaulay1996grammar		chal11
 5184	SanEstebanAtatlahucaMixtec	NEAR	cerca de, está cerca	yajni	yajni	189	1942			alexander1980gramatica	[A]	atat11
 598	SantoTomasOcotepecMixtec	NEAR	near	ñātīn	ñātīn	189	1942			alexander1988syntactic		ocot11
 2027	SanPedroySanPabloTeposcolula1600Mixtec	NEAR	cerca	yatni	yatni	189	1942			alvarado1593vocabulario		tepo01
@@ -19496,7 +19496,7 @@ ID	DOCULECT	CONCEPT	SPANISH_GLOSS	VALUE	FORM	IDlist	CONCEPTICON_ID	LOAN	LOAN_SOU
 20977	SanAndresYutatioMixtec	NEAR	cerca	yati	yati	189	1942			williams2017diccionario		yuta13
 1123	AlacatlatzalaMixtec	NEAR	near	yātin	yātin	189	1942			zylstra1991syntactic		alac11
 4657	AlacatlatzalaMixtec	NEAR	cerca	yatin	yatin	189	1942			zylstra2012gramatica		alac11
-21412	ChalcatongoHidalgoMixtec	NEAR	near	žani	žani	189	1942	NA	NA	macaulay1996grammar		chal11
+21412	ChalcatongoHidalgoMixtec	NEAR	near	žani	žani	189	1942			macaulay1996grammar		chal11
 5185	SanEstebanAtatlahucaMixtec	FAR	lejos	jícá	jícá	190	1406			alexander1980gramatica	[B]	atat11
 599	SantoTomasOcotepecMixtec	FAR	far	xíká	xíká	190	1406			alexander1988syntactic		ocot11
 2028	SanPedroySanPabloTeposcolula1600Mixtec	FAR	lexos	sica	sica	190	1406			alvarado1593vocabulario		tepo01
@@ -19525,7 +19525,7 @@ ID	DOCULECT	CONCEPT	SPANISH_GLOSS	VALUE	FORM	IDlist	CONCEPTICON_ID	LOAN	LOAN_SOU
 20978	SanAndresYutatioMixtec	FAR	está lejos, lejos	xíká	xíká	190	1406			williams2017diccionario		yuta13
 1124	AlacatlatzalaMixtec	FAR	far	shíká	shíká	190	1406			zylstra1991syntactic		alac11
 4658	AlacatlatzalaMixtec	FAR	lejos	xíká	xíká	190	1406			zylstra2012gramatica		alac11
-21413	ChalcatongoHidalgoMixtec	FAR	far	xíká	xíká	190	1406	NA	NA	macaulay1996grammar		chal11
+21413	ChalcatongoHidalgoMixtec	FAR	far	xíká	xíká	190	1406			macaulay1996grammar		chal11
 5186	SanEstebanAtatlahucaMixtec	HEAVY	pesado	vēyɨ	vēyɨ	191	1210			alexander1980gramatica	[A]	atat11
 2029	SanPedroySanPabloTeposcolula1600Mixtec	HEAVY	pesada cosa	huay	huay	191	1210			alvarado1593vocabulario		tepo01
 356	SantaMariaYolotepecMixtec	HEAVY	pesado	be¹e³	be¹e³	191	1210			amith2020yoloxochitl		yolo11
@@ -19670,7 +19670,7 @@ ID	DOCULECT	CONCEPT	SPANISH_GLOSS	VALUE	FORM	IDlist	CONCEPTICON_ID	LOAN	LOAN_SOU
 20979	SanAndresYutatioMixtec	HEAVY	pesado	ve̠e	ve̠e	191	1210			williams2017diccionario		yuta13
 1125	AlacatlatzalaMixtec	HEAVY	heavy	veē	veē	191	1210			zylstra1991syntactic		alac11
 4659	AlacatlatzalaMixtec	HEAVY	pesado	veé	veé	191	1210			zylstra2012gramatica		alac11
-21414	ChalcatongoHidalgoMixtec	HEAVY	heavy	bèè	bèè	191	1210	NA	NA	macaulay1996grammar		chal11
+21414	ChalcatongoHidalgoMixtec	HEAVY	heavy	bèè	bèè	191	1210			macaulay1996grammar		chal11
 600	SantoTomasOcotepecMixtec	RAW	raw	yíhí	yíhí	192	1959			alexander1988syntactic		ocot11
 2030	SanPedroySanPabloTeposcolula1600Mixtec	RAW	cruda cosa	yehe	yehe	192	1959			alvarado1593vocabulario		tepo01
 357	SantaMariaYolotepecMixtec	RAW	crudo	i'⁴i³	i'⁴i³	192	1959			amith2020yoloxochitl		yolo11
@@ -19697,8 +19697,8 @@ ID	DOCULECT	CONCEPT	SPANISH_GLOSS	VALUE	FORM	IDlist	CONCEPTICON_ID	LOAN	LOAN_SOU
 5863	SantaMariaZacatepecMixtec	RAW	crudo	i²ʔi²	i²ʔi²	192	1959			swanton2020observaciones		zaca11
 5865	YucuquimiOcampoMixtec	RAW	crudo	ji³ʔi³	ji³ʔi³	192	1959			swanton2020observaciones		yucu16
 20980	SanAndresYutatioMixtec	RAW	crudo	yí'í	yí'í	192	1959			williams2017diccionario		yuta13
-21415	ChalcatongoHidalgoMixtec	RAW	raw	žíʔí	žíʔí	192	1959	NA	NA	macaulay1996grammar		chal11
-21416	ChalcatongoHidalgoMixtec	RAW	raw	žɨʔɨ́	žɨʔɨ́	192	1959	NA	NA	macaulay1996grammar		chal11
+21415	ChalcatongoHidalgoMixtec	RAW	raw	žíʔí	žíʔí	192	1959			macaulay1996grammar		chal11
+21416	ChalcatongoHidalgoMixtec	RAW	raw	žɨʔɨ́	žɨʔɨ́	192	1959			macaulay1996grammar		chal11
 18769	SanEstebanAtatlahucaMixtec	SLIPPERY	resbaloso	lɨɨ	lɨɨ	193	3702			josserand1983mixtec		atat11
 18823	SanJuanMixtepecMixtec	SLIPPERY	resbala	ⁿdiʔƀi	ⁿdiʔƀi	193	3702			josserand1983mixtec		mixt11
 18844	SanMateoSindihuiMixtec	SLIPPERY	resbalarse	ⁿdɨʔwɨ	ⁿdɨʔwɨ	193	3702			josserand1983mixtec		sind11
@@ -19848,7 +19848,7 @@ ID	DOCULECT	CONCEPT	SPANISH_GLOSS	VALUE	FORM	IDlist	CONCEPTICON_ID	LOAN	LOAN_SOU
 992	SanJuanCoatzospamMixtec	SMOOTH	smooth	ndɨɨ́	ndɨɨ́	193	1234			small1990syntactic		coat11
 4480	SantaMariaZacatepecMixtec	SMOOTH	liso	ndi'vi	ndi'vi	193	1234			towne2011gramatica		zaca11
 20981	SanAndresYutatioMixtec	SMOOTH	liso	vilá	vilá	193	1234			williams2017diccionario		yuta13
-21417	ChalcatongoHidalgoMixtec	SMOOTH	smooth, soft	bitá	bitá	193	1234	NA	NA	macaulay1996grammar		chal11
+21417	ChalcatongoHidalgoMixtec	SMOOTH	smooth, soft	bitá	bitá	193	1234			macaulay1996grammar		chal11
 5187	SanEstebanAtatlahucaMixtec	SLOW	despacio	cuéé	cuéé	194	701			alexander1980gramatica	[B]	atat11
 359	SantaMariaYolotepecMixtec	SLOW	despacio	kwe⁴e²	kwe⁴e²	194	701			amith2020yoloxochitl		yolo11
 5397	SantaMariaPapaloCuicatec	SLOW	despacio, lento	yi²nu⁴	yi²nu⁴	194	701			anderson1983diccionario		papa11
@@ -20004,7 +20004,7 @@ ID	DOCULECT	CONCEPT	SPANISH_GLOSS	VALUE	FORM	IDlist	CONCEPTICON_ID	LOAN	LOAN_SOU
 20982	SanAndresYutatioMixtec	SLOW	despacio	kueé	kueé	194	701			williams2017diccionario		yuta13
 1126	AlacatlatzalaMixtec	SLOW	slow	kwēē	kwēē	194	701			zylstra1991syntactic		alac11
 4661	AlacatlatzalaMixtec	SLOW	despacio	kueé	kueé	194	701			zylstra2012gramatica		alac11
-21418	ChalcatongoHidalgoMixtec	SLOW	slow	kʷéé	kʷéé	194	701	NA	NA	macaulay1996grammar		chal11
+21418	ChalcatongoHidalgoMixtec	SLOW	slow	kʷéé	kʷéé	194	701			macaulay1996grammar		chal11
 5188	SanEstebanAtatlahucaMixtec	YESTERDAY	ayer	icu	icu	195	1174			alexander1980gramatica	[A]	atat11
 601	SantoTomasOcotepecMixtec	YESTERDAY	yesterday	īkū	īkū	195	1174			alexander1988syntactic		ocot11
 2034	SanPedroySanPabloTeposcolula1600Mixtec	YESTERDAY	ayer	ycuy	ycuy	195	1174			alvarado1593vocabulario		tepo01
@@ -20170,7 +20170,7 @@ ID	DOCULECT	CONCEPT	SPANISH_GLOSS	VALUE	FORM	IDlist	CONCEPTICON_ID	LOAN	LOAN_SOU
 20983	SanAndresYutatioMixtec	YESTERDAY	ayer	koni	koni	195	1174			williams2017diccionario		yuta13
 1127	AlacatlatzalaMixtec	YESTERDAY	yesterday	kōnī	kōnī	195	1174			zylstra1991syntactic		alac11
 4662	AlacatlatzalaMixtec	YESTERDAY	ayer	koni	koni	195	1174			zylstra2012gramatica		alac11
-21419	ChalcatongoHidalgoMixtec	YESTERDAY	yesterday	íkú	íkú	195	1174	NA	NA	macaulay1996grammar		chal11
+21419	ChalcatongoHidalgoMixtec	YESTERDAY	yesterday	íkú	íkú	195	1174			macaulay1996grammar		chal11
 5189	SanEstebanAtatlahucaMixtec	YEAR	año	cuiyā	cuiyā	196	1226			alexander1980gramatica	[C]	atat11
 602	SantoTomasOcotepecMixtec	YEAR	year	kwíya	kwíya	196	1226			alexander1988syntactic		ocot11
 2035	SanPedroySanPabloTeposcolula1600Mixtec	YEAR	año	cuiya	cuiya	196	1226			alvarado1593vocabulario		tepo01
@@ -20338,9 +20338,9 @@ ID	DOCULECT	CONCEPT	SPANISH_GLOSS	VALUE	FORM	IDlist	CONCEPTICON_ID	LOAN	LOAN_SOU
 20984	SanAndresYutatioMixtec	YEAR	año	kuia̠	kuia̠	196	1226			williams2017diccionario		yuta13
 1128	AlacatlatzalaMixtec	YEAR	year	kwiya	kwiya	196	1226			zylstra1991syntactic		alac11
 4663	AlacatlatzalaMixtec	YEAR	año	kui̠ya̠	kui̠ya̠	196	1226			zylstra2012gramatica		alac11
-21420	ChalcatongoHidalgoMixtec	YEAR	year	ndɨkɨ	ndɨkɨ	196	1226	NA	NA	macaulay1996grammar		chal11
-21421	ChalcatongoHidalgoMixtec	YEAR	year, age	kʷíža	kʷíža	196	1226	NA	NA	macaulay1996grammar		chal11
-21422	ChalcatongoHidalgoMixtec	YEAR	year, age	kʷía	kʷía	196	1226	NA	NA	macaulay1996grammar		chal11
+21420	ChalcatongoHidalgoMixtec	YEAR	year	ndɨkɨ	ndɨkɨ	196	1226			macaulay1996grammar		chal11
+21421	ChalcatongoHidalgoMixtec	YEAR	year, age	kʷíža	kʷíža	196	1226			macaulay1996grammar		chal11
+21422	ChalcatongoHidalgoMixtec	YEAR	year, age	kʷía	kʷía	196	1226			macaulay1996grammar		chal11
 5190	SanEstebanAtatlahucaMixtec	NOW OR TODAY	ahora, hoy	vijna	vijna	197	2097			alexander1980gramatica	[A]	atat11
 603	SantoTomasOcotepecMixtec	NOW OR TODAY	now, today	mītān	mītān	197	2097			alexander1988syntactic		ocot11
 362	SantaMariaYolotepecMixtec	NOW OR TODAY	ahora	bi³tin³	bi³tin³	197	2097			amith2020yoloxochitl		yolo11
@@ -20495,7 +20495,7 @@ ID	DOCULECT	CONCEPT	SPANISH_GLOSS	VALUE	FORM	IDlist	CONCEPTICON_ID	LOAN	LOAN_SOU
 20985	SanAndresYutatioMixtec	NOW OR TODAY	ahora, hoy	viti	viti	197	2097			williams2017diccionario		yuta13
 1129	AlacatlatzalaMixtec	NOW OR TODAY	now, today	vītīn	vītīn	197	2097			zylstra1991syntactic		alac11
 4664	AlacatlatzalaMixtec	NOW OR TODAY	ahora, hoy	vitin	vitin	197	2097			zylstra2012gramatica		alac11
-21423	ChalcatongoHidalgoMixtec	NOW OR TODAY	now, today	bína	bína	197	2097	NA	NA	macaulay1996grammar		chal11
+21423	ChalcatongoHidalgoMixtec	NOW OR TODAY	now, today	bína	bína	197	2097			macaulay1996grammar		chal11
 604	SantoTomasOcotepecMixtec	NIGHT	night	xā-kwáa	xā-kwáa	198	1233			alexander1988syntactic		ocot11
 2037	SanPedroySanPabloTeposcolula1600Mixtec	NIGHT	noche	niñu	niñu	198	1233			alvarado1593vocabulario		tepo01
 2036	SanPedroySanPabloTeposcolula1600Mixtec	NIGHT	noche	ñuu	ñuu	198	1233			alvarado1593vocabulario		tepo01
@@ -20531,7 +20531,7 @@ ID	DOCULECT	CONCEPT	SPANISH_GLOSS	VALUE	FORM	IDlist	CONCEPTICON_ID	LOAN	LOAN_SOU
 20986	SanAndresYutatioMixtec	NIGHT	noche	sa̠kuaá	sa̠-kuaá	198	1233			williams2017diccionario		yuta13
 20987	SanAndresYutatioMixtec	NIGHT	noche	se̠kuaá	se̠-kuaá	198	1233			williams2017diccionario		yuta13
 4665	AlacatlatzalaMixtec	NIGHT	noche	ñoó	ñoó	198	1233			zylstra2012gramatica		alac11
-21424	ChalcatongoHidalgoMixtec	NIGHT	night	kɨ́ʔu	kɨ́ʔu	198	1233	NA	NA	macaulay1996grammar		chal11
+21424	ChalcatongoHidalgoMixtec	NIGHT	night	kɨ́ʔu	kɨ́ʔu	198	1233			macaulay1996grammar		chal11
 5191	SanEstebanAtatlahucaMixtec	NIGHT TIME	de noche	ñuú	ñuú	199				alexander1980gramatica	[B]	atat11
 605	SantoTomasOcotepecMixtec	NIGHT TIME	night time	ñūú	ñūú	199				alexander1988syntactic		ocot11
 364	SantaMariaYolotepecMixtec	NIGHT TIME	de noche, toda la noche	ni³ñu²u²	ni³ñu²u²	199				amith2020yoloxochitl		yolo11
@@ -20641,7 +20641,7 @@ ID	DOCULECT	CONCEPT	SPANISH_GLOSS	VALUE	FORM	IDlist	CONCEPTICON_ID	LOAN	LOAN_SOU
 4352	SanJuanColoradoMixtec	NIGHT TIME	toda la noche	ñiñu	ñiñu	199				stark1986diccionario		colo11
 20988	SanAndresYutatioMixtec	NIGHT TIME	de noche	ñoo	ñoo	199				williams2017diccionario		yuta13
 1130	AlacatlatzalaMixtec	NIGHT TIME	night time	ñōó	ñōó	199				zylstra1991syntactic		alac11
-21425	ChalcatongoHidalgoMixtec	NIGHT TIME	night time	xa-kʷáá	xa-kʷáá	199	NA	NA	NA	macaulay1996grammar		chal11
+21425	ChalcatongoHidalgoMixtec	NIGHT TIME	night time	xa-kʷáá	xa-kʷáá	199				macaulay1996grammar		chal11
 5192	SanEstebanAtatlahucaMixtec	DAY (24 HOURS)	día	quɨvɨ̄	quɨvɨ̄	200	1260			alexander1980gramatica	[C]	atat11
 606	SantoTomasOcotepecMixtec	DAY (24 HOURS)	day	kivi	kivi	200	1260			alexander1988syntactic		ocot11
 365	SantaMariaYolotepecMixtec	DAY (24 HOURS)	día	ki¹bi⁴	ki¹bi⁴	200	1260			amith2020yoloxochitl		yolo11
@@ -20813,7 +20813,7 @@ ID	DOCULECT	CONCEPT	SPANISH_GLOSS	VALUE	FORM	IDlist	CONCEPTICON_ID	LOAN	LOAN_SOU
 20989	SanAndresYutatioMixtec	DAY (24 HOURS)	día	kuu̠	kuu̠	200	1260			williams2017diccionario		yuta13
 1131	AlacatlatzalaMixtec	DAY (24 HOURS)	day	kivi	kivi	200	1260			zylstra1991syntactic		alac11
 4666	AlacatlatzalaMixtec	DAY (24 HOURS)	día	ki̠vi̠	ki̠vi̠	200	1260			zylstra2012gramatica		alac11
-21426	ChalcatongoHidalgoMixtec	DAY (24 HOURS)	day	kɨù	kɨù	200	1260	NA	NA	macaulay1996grammar		chal11
+21426	ChalcatongoHidalgoMixtec	DAY (24 HOURS)	day	kɨù	kɨù	200	1260			macaulay1996grammar		chal11
 5193	SanEstebanAtatlahucaMixtec	ALL DAY	todo el día	ndiáca	ndiáca	201				alexander1980gramatica	[A]	atat11
 2039	SanPedroySanPabloTeposcolula1600Mixtec	ALL DAY	todo el día	duvui	duvui	201				alvarado1593vocabulario		tepo01
 487	SantiagoJamiltepecMixtec	ALL DAY	all day	ndī-yāká	ndī-yāká	201				johnson1988syntactic		jami11
@@ -20841,7 +20841,7 @@ ID	DOCULECT	CONCEPT	SPANISH_GLOSS	VALUE	FORM	IDlist	CONCEPTICON_ID	LOAN	LOAN_SOU
 20990	SanAndresYutatioMixtec	DAY (NOT NIGHT)	de día	nduú	nduú	201	1225			williams2017diccionario		yuta13
 1132	AlacatlatzalaMixtec	DAY (NOT NIGHT)	day time	ndīví	ndīví	201	1225			zylstra1991syntactic		alac11
 4667	AlacatlatzalaMixtec	DAY (NOT NIGHT)	de día	ndiví	ndiví	201	1225			zylstra2012gramatica		alac11
-21427	ChalcatongoHidalgoMixtec	DAY (NOT NIGHT)	day time	ndúú	ndúú	201	1225	NA	NA	macaulay1996grammar		chal11
+21427	ChalcatongoHidalgoMixtec	DAY (NOT NIGHT)	day time	ndúú	ndúú	201	1225			macaulay1996grammar		chal11
 608	SantoTomasOcotepecMixtec	HALF	half, middle	savá	savá	202	816			alexander1988syntactic		ocot11
 2040	SanPedroySanPabloTeposcolula1600Mixtec	HALF	mitad	dzavua	dzavua	202	816			alvarado1593vocabulario		tepo01
 367	SantaMariaYolotepecMixtec	HALF	mitad	sa³ba³	sa³ba³	202	816			amith2020yoloxochitl		yolo11
@@ -20996,7 +20996,7 @@ ID	DOCULECT	CONCEPT	SPANISH_GLOSS	VALUE	FORM	IDlist	CONCEPTICON_ID	LOAN	LOAN_SOU
 4668	AlacatlatzalaMixtec	HALF	mitad	sava	sava	202	816			zylstra2012gramatica		alac11
 5194	SanEstebanAtatlahucaMixtec	MIDDLE	medio, algunos	sava	sava	202	1093			alexander1980gramatica	[A]	atat11
 20992	SanAndresYutatioMixtec	MIDDLE	a la mitad, medio	dao	dao	202	1093			williams2017diccionario		yuta13
-21428	ChalcatongoHidalgoMixtec	HALF	half, middle	saʔba	saʔba	202	816	NA	NA	macaulay1996grammar		chal11
+21428	ChalcatongoHidalgoMixtec	HALF	half, middle	saʔba	saʔba	202	816			macaulay1996grammar		chal11
 5195	SanEstebanAtatlahucaMixtec	MONEY	dinero	xūhún	xūhún	203	1559			alexander1980gramatica	[B]	atat11
 609	SantoTomasOcotepecMixtec	MONEY	money	shuhún	shuhún	203	1559			alexander1988syntactic		ocot11
 2041	SanPedroySanPabloTeposcolula1600Mixtec	MONEY	dinero	dziñuhu dusa	dziñuhu-dusa	203	1559			alvarado1593vocabulario		tepo01
@@ -21031,7 +21031,7 @@ ID	DOCULECT	CONCEPT	SPANISH_GLOSS	VALUE	FORM	IDlist	CONCEPTICON_ID	LOAN	LOAN_SOU
 20993	SanAndresYutatioMixtec	MONEY	dinero	di̠'ón	di̠'ón	203	1559			williams2017diccionario		yuta13
 1134	AlacatlatzalaMixtec	MONEY	money	sihún	sihún	203	1559			zylstra1991syntactic		alac11
 4669	AlacatlatzalaMixtec	MONEY	dinero	si̠'ún	si̠'ún	203	1559			zylstra2012gramatica		alac11
-21429	ChalcatongoHidalgoMixtec	MONEY	money	šũʔũ	šũʔũ	203	1559	NA	NA	macaulay1996grammar		chal11
+21429	ChalcatongoHidalgoMixtec	MONEY	money	šũʔũ	šũʔũ	203	1559			macaulay1996grammar		chal11
 5196	SanEstebanAtatlahucaMixtec	WORKING OR WORK	trabajo	jniñu	jniñu	204	2281			alexander1980gramatica	[A]	atat11
 610	SantoTomasOcotepecMixtec	WORKING OR WORK	CAUS-work	sā-tíñú	tíñú	204	2281			alexander1988syntactic		ocot11
 2042	SanPedroySanPabloTeposcolula1600Mixtec	WORKING OR WORK	trabajo	tniño	tniño	204	2281			alvarado1593vocabulario		tepo01
@@ -21212,7 +21212,7 @@ ID	DOCULECT	CONCEPT	SPANISH_GLOSS	VALUE	FORM	IDlist	CONCEPTICON_ID	LOAN	LOAN_SOU
 20994	SanAndresYutatioMixtec	WORKING OR WORK	trabajo	choon	choon	204	2281			williams2017diccionario		yuta13
 1135	AlacatlatzalaMixtec	WORKING OR WORK	work	chíñō	chíñō	204	2281			zylstra1991syntactic		alac11
 4670	AlacatlatzalaMixtec	WORKING OR WORK	trabajo	chiño	chiño	204	2281			zylstra2012gramatica		alac11
-21430	ChalcatongoHidalgoMixtec	WORKING OR WORK	work	tĩũ	tĩũ	204	2281	NA	NA	macaulay1996grammar		chal11
+21430	ChalcatongoHidalgoMixtec	WORKING OR WORK	work	tĩũ	tĩũ	204	2281			macaulay1996grammar		chal11
 5197	SanEstebanAtatlahucaMixtec	WORD	palabra	jnūhun	jnūhun	205	1599			alexander1980gramatica	[A]	atat11
 611	SantoTomasOcotepecMixtec	WORD	word	tuhūn	tuhūn	205	1599			alexander1988syntactic		ocot11
 2043	SanPedroySanPabloTeposcolula1600Mixtec	WORD	palabra	dudzu	dudzu	205	1599			alvarado1593vocabulario		tepo01
@@ -21380,8 +21380,8 @@ ID	DOCULECT	CONCEPT	SPANISH_GLOSS	VALUE	FORM	IDlist	CONCEPTICON_ID	LOAN	LOAN_SOU
 20995	SanAndresYutatioMixtec	WORD	palabra	to̠'on	to̠'on	205	1599			williams2017diccionario		yuta13
 1136	AlacatlatzalaMixtec	WORD	word	tohōn	tohōn	205	1599			zylstra1991syntactic		alac11
 4671	AlacatlatzalaMixtec	WORD	palabra	to̠'on	to̠'on	205	1599			zylstra2012gramatica		alac11
-21431	ChalcatongoHidalgoMixtec	WORD	word	tũʔṹ	tũʔṹ	205	1599	NA	NA	macaulay1996grammar		chal11
-21432	ChalcatongoHidalgoMixtec		fault, cause	kʷàčì	kʷàčì	206	NA	NA	NA	macaulay1996grammar		chal11
+21431	ChalcatongoHidalgoMixtec	WORD	word	tũʔṹ	tũʔṹ	205	1599			macaulay1996grammar		chal11
+21432	ChalcatongoHidalgoMixtec	BLAME	fault, cause	kʷàčì	kʷàčì	206	134			macaulay1996grammar		chal11
 2045	SanPedroySanPabloTeposcolula1600Mixtec	DREAM	sueño	sani	sani	207	2374			alvarado1593vocabulario		tepo01
 372	SantaMariaYolotepecMixtec	DREAM	sueño	xa¹³ni²	xa¹³ni²	207	2374			amith2020yoloxochitl		yolo11
 5411	SantaMariaPapaloCuicatec	DREAM	sueño, noche	yan³	yan³	207	2374			anderson1983diccionario		papa11
@@ -21408,7 +21408,7 @@ ID	DOCULECT	CONCEPT	SPANISH_GLOSS	VALUE	FORM	IDlist	CONCEPTICON_ID	LOAN	LOAN_SOU
 20997	SanAndresYutatioMixtec	DREAM	sueño	sa̠ni	sa̠ni	207	2374			williams2017diccionario		yuta13
 20310	SanMartinDuraznosMixtec	SLEEPY	sueño	mà'ná	mà'ná	207	3620			hernandez2020san-martin		dura11
 20780	YucunanyMixtec	SLEEPY	nap, sleepiness	mǎnà	mǎnà	207	3620			salazar2020yucunani		yucu17
-21433	ChalcatongoHidalgoMixtec	DREAM	dream	ñũʔnã́	ñũʔnã́	207	2374	NA	NA	macaulay1996grammar		chal11
+21433	ChalcatongoHidalgoMixtec	DREAM	dream	ñũʔnã́	ñũʔnã́	207	2374			macaulay1996grammar		chal11
 5198	SanEstebanAtatlahucaMixtec	WHEN	cuándo	na	na	208	1238			alexander1980gramatica	[A]	atat11
 613	SantoTomasOcotepecMixtec	WHEN	when	nāmā	nāmā	208	1238			alexander1988syntactic		ocot11
 2046	SanPedroySanPabloTeposcolula1600Mixtec	WHEN	cuándo	amana	amana	208	1238			alvarado1593vocabulario		tepo01
@@ -21568,7 +21568,7 @@ ID	DOCULECT	CONCEPT	SPANISH_GLOSS	VALUE	FORM	IDlist	CONCEPTICON_ID	LOAN	LOAN_SOU
 20999	SanAndresYutatioMixtec	WHEN	cuándo	ndeí oon	ndeí-oon	208	1238			williams2017diccionario		yuta13
 1138	AlacatlatzalaMixtec	WHEN	when	āmā	āmā	208	1238			zylstra1991syntactic		alac11
 4673	AlacatlatzalaMixtec	WHEN	cuándo	ama	ama	208	1238			zylstra2012gramatica		alac11
-21434	ChalcatongoHidalgoMixtec	WHEN	when	nama	nama	208	1238	NA	NA	macaulay1996grammar		chal11
+21434	ChalcatongoHidalgoMixtec	WHEN	when	nama	nama	208	1238			macaulay1996grammar		chal11
 5412	SantaMariaPapaloCuicatec	MUSIC	música	ca³ta³	ca³ta³	209	642			anderson1983diccionario		papa11
 1823	SanAndresChicahuaxtla1890Triqui	MUSIC	música	Tsiañiaha	tsiañiaha	209	642			belmar1897ensayo		chic02
 6335	ElJicaralMixtec	MUSIC	canción, música	yaa	yaa	209	642			Emily John-Martin		jica13
@@ -21596,7 +21596,7 @@ ID	DOCULECT	CONCEPT	SPANISH_GLOSS	VALUE	FORM	IDlist	CONCEPTICON_ID	LOAN	LOAN_SOU
 3943	TlahuapaMixtec	SONG	canción	yaa	yaa	209	1096			oxnard2020		tlah11
 4148	SanAgustinChayucoMixtec	SONG	canción, baile	yaa	yaa	209	1096			pensinger1974diccionario		chay11
 21000	SanAndresYutatioMixtec	SONG	canción, canto	yaa	yaa	209	1096			williams2017diccionario		yuta13
-21435	ChalcatongoHidalgoMixtec	SONG	song, music	žaà	žaà	209	1096	NA	NA	macaulay1996grammar		chal11
+21435	ChalcatongoHidalgoMixtec	SONG	song, music	žaà	žaà	209	1096			macaulay1996grammar		chal11
 612	SantoTomasOcotepecMixtec	BLAME	sin	kwachī	kwachī	206	134			alexander1988syntactic		ocot11
 2044	SanPedroySanPabloTeposcolula1600Mixtec	BLAME	culpa	quachi	quachi	206	134			alvarado1593vocabulario		tepo01
 371	SantaMariaYolotepecMixtec	BLAME	culpa	kwa¹chi³	kwa¹chi³	206	134			amith2020yoloxochitl		yolo11
@@ -21720,23 +21720,23 @@ ID	DOCULECT	CONCEPT	SPANISH_GLOSS	VALUE	FORM	IDlist	CONCEPTICON_ID	LOAN	LOAN_SOU
 20996	SanAndresYutatioMixtec	BLAME	culpa	kua̠chi	kua̠chi	206	134			williams2017diccionario		yuta13
 1137	AlacatlatzalaMixtec	BLAME	blame	kwachī	kwachī	206	134			zylstra1991syntactic		alac11
 4672	AlacatlatzalaMixtec	BLAME	culpa	kua̠chi	kua̠chi	206	134			zylstra2012gramatica		alac11
-5143	SanEstebanAtatlahucaMixtec	TORTILLA BASKET	tenate	ndohō	ndohō	125	1539			alexander1980gramatica	[C]	atat11
-288	SantaMariaYolotepecMixtec	TORTILLA BASKET	tenate	ndo'¹o⁴	ndo'¹o⁴	125	1539			amith2020yoloxochitl		yolo11
-5327	SantaMariaPapaloCuicatec	TORTILLA BASKET	tenate	y'u⁴cu³	y'u⁴cu³	125	1539			anderson1983diccionario		papa11
-20402	SantoDomingoHuendioMixtec	TORTILLA BASKET	tenate	ndo'o	ndo'o	125	1539			becerra-roldan2015un-estudio		huen11
-6248	ElJicaralMixtec	TORTILLA BASKET	tenate	to̠ká	to̠ká	125	1539			Emily John-Martin		jica13
-103	AbasoloValleMixtec	TORTILLA BASKET	tenate	nto'ó	nto'ó	125	1539			galindo-sanchez2009vocabulario		abas11
-20529	SanPedroYosonamaMixtec	TORTILLA BASKET	tenate	ndo'o	ndo'o	125	1539			gittlen2016gramatica		yoso14
-6033	SanAndresChicahuaxtlaTriqui	TORTILLA BASKET	tenate	yo²	yo²	125	1539			good1978diccionario		chic12
-20226	SanMartinDuraznosMixtec	TORTILLA BASKET	tenate	ntò'ò	ntò'ò	125	1539			hernandez2020san-martin		dura11
-4983	MagdalenaPenascoMixtec	TORTILLA BASKET	tenate	ndo'ò	ndo'ò	125	1539			hollenbach2017diccionario	[A]	pena11
-3547	PiedraAzulMixtec	TORTILLA BASKET	tenate	ntò'ǒ	ntò'ǒ	125	1539			oxnard2020		pied12
-3550	SanJuanMixtepecMixtec	TORTILLA BASKET	tenate	ndoò tsítí	ndoò-tsítí	125	1539			oxnard2020		mixt11
-3548	SanMarcoslaFlorMixtec	TORTILLA BASKET	tenate	ntò'ǒ	ntò'ǒ	125	1539			oxnard2020		flor12
-3549	SanSebastianMonteMixtec	TORTILLA BASKET	tenate	ndò'ò	ndò'ò	125	1539			oxnard2020		mont12
-3546	TlahuapaMixtec	TORTILLA BASKET	tenate	ndò'ó	ndò'ó	125	1539			oxnard2020		tlah11
-4063	SanAgustinChayucoMixtec	TORTILLA BASKET	tenate	ndòhò	ndòhò	125	1539			pensinger1974diccionario		chay11
-4277	SanJuanColoradoMixtec	TORTILLA BASKET	tenate	ndòhò	ndòhò	125	1539			stark1986diccionario		colo11
-4777	XochapaMixtec	TORTILLA BASKET	tenate	ndo̠'ó	ndo̠'ó	125	1539			stark2013diccionario		xoch11
-4429	SantaMariaZacatepecMixtec	TORTILLA BASKET	tenate	ndo'o	ndo'o	125	1539			towne2011gramatica		zaca11
-20912	SanAndresYutatioMixtec	TORTILLA BASKET	tenate	ndo'o̠	ndo'o̠	125	1539			williams2017diccionario		yuta13
+5143	SanEstebanAtatlahucaMixtec	TORTILLA BASKET	tenate	ndohō	ndohō		1539			alexander1980gramatica	[C]	atat11
+288	SantaMariaYolotepecMixtec	TORTILLA BASKET	tenate	ndo'¹o⁴	ndo'¹o⁴		1539			amith2020yoloxochitl		yolo11
+5327	SantaMariaPapaloCuicatec	TORTILLA BASKET	tenate	y'u⁴cu³	y'u⁴cu³		1539			anderson1983diccionario		papa11
+20402	SantoDomingoHuendioMixtec	TORTILLA BASKET	tenate	ndo'o	ndo'o		1539			becerra-roldan2015un-estudio		huen11
+6248	ElJicaralMixtec	TORTILLA BASKET	tenate	to̠ká	to̠ká		1539			Emily John-Martin		jica13
+103	AbasoloValleMixtec	TORTILLA BASKET	tenate	nto'ó	nto'ó		1539			galindo-sanchez2009vocabulario		abas11
+20529	SanPedroYosonamaMixtec	TORTILLA BASKET	tenate	ndo'o	ndo'o		1539			gittlen2016gramatica		yoso14
+6033	SanAndresChicahuaxtlaTriqui	TORTILLA BASKET	tenate	yo²	yo²		1539			good1978diccionario		chic12
+20226	SanMartinDuraznosMixtec	TORTILLA BASKET	tenate	ntò'ò	ntò'ò		1539			hernandez2020san-martin		dura11
+4983	MagdalenaPenascoMixtec	TORTILLA BASKET	tenate	ndo'ò	ndo'ò		1539			hollenbach2017diccionario	[A]	pena11
+3547	PiedraAzulMixtec	TORTILLA BASKET	tenate	ntò'ǒ	ntò'ǒ		1539			oxnard2020		pied12
+3550	SanJuanMixtepecMixtec	TORTILLA BASKET	tenate	ndoò tsítí	ndoò-tsítí		1539			oxnard2020		mixt11
+3548	SanMarcoslaFlorMixtec	TORTILLA BASKET	tenate	ntò'ǒ	ntò'ǒ		1539			oxnard2020		flor12
+3549	SanSebastianMonteMixtec	TORTILLA BASKET	tenate	ndò'ò	ndò'ò		1539			oxnard2020		mont12
+3546	TlahuapaMixtec	TORTILLA BASKET	tenate	ndò'ó	ndò'ó		1539			oxnard2020		tlah11
+4063	SanAgustinChayucoMixtec	TORTILLA BASKET	tenate	ndòhò	ndòhò		1539			pensinger1974diccionario		chay11
+4277	SanJuanColoradoMixtec	TORTILLA BASKET	tenate	ndòhò	ndòhò		1539			stark1986diccionario		colo11
+4777	XochapaMixtec	TORTILLA BASKET	tenate	ndo̠'ó	ndo̠'ó		1539			stark2013diccionario		xoch11
+4429	SantaMariaZacatepecMixtec	TORTILLA BASKET	tenate	ndo'o	ndo'o		1539			towne2011gramatica		zaca11
+20912	SanAndresYutatioMixtec	TORTILLA BASKET	tenate	ndo'o̠	ndo'o̠		1539			williams2017diccionario		yuta13
