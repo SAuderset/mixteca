@@ -1,0 +1,80 @@
+Grapheme	IPA	Frequency
+^a	*a/a	2
+m	m	10
+a$	*a/a	23
+s	s	9
+ì$	i ¹	25
+^ch	tʃ	6
+í	i ⁵	18
+-	+	17
+k	k	34
+i	*i/i	43
+n	n	22
+'	ʔ	63
+ìn$	ĩ ¹	5
+l	l	5
+ì	i ¹	20
+i$	*i/i	30
+á$	a ⁵	11
+^i	*i/i	15
+ch	tʃ	10
+u$	*u/u	16
+n$	n	5
+ñ	ɲ	15
+ù$	u ¹	17
+ò$	o ¹	13
+t	t	28
+à$	a ¹	33
+è$	e ¹	4
+o	*o/o	13
+x	*x/ʃ	9
+^j	*j/h	15
+à	a ¹	12
+a	*a/a	38
+ù	u ¹	14
+á	a ⁵	16
+ó$	o ⁵	2
+kua	*kua/kʷ a	3
+é$	e ⁵	3
+o$	*o/o	8
+y	*y/ʒ	14
+^k	k	36
+ú$	u ⁵	8
+í$	i ⁵	8
+v	β	13
+u	*u/u	46
+án$	ã ⁵	1
+e	*e/e	6
+é	e ⁵	5
+è	e ¹	7
+j	*j/h	8
+ín$	ĩ ⁵	2
+ú	u ⁵	4
+uùn$	ũ ³ ũ ¹	1
+ùun$	ũ ³ ũ ¹	1
+^l	l	10
+ó	o ⁵	2
+e$	*e/e	7
+^m	m	2
+^n	n	33
+d	d	23
+$	NULL	1
+ǒ$	o ¹⁵	1
+àn$	ã ¹	2
+in$	ĩ	4
+^ñ	ɲ	15
+an	ã 	2
+an$	*an/ã	2
+^o	*o/o	1
+^s	s	15
+ò	o ¹	1
+^t	t	21
+nd	ⁿd	2
+^tn	tⁿ	6
+^u	*u/u	9
+w	*w/β	2
+^v	β	9
+^x	*x/ʃ	10
+en$	ẽ	1
+un$	*un/ũ	1
+^y	*y/j	30
