@@ -1,61 +1,61 @@
 Grapheme	IPA	Frequency
-^	NULL	1
-'	ʔ	1
-a	*a/a	78
-³	*³/⁴	8
-t	t	7
-x	*x/ʃ	41
-¹$	*¹/¹	21
-^'n	ˀn	1
-n	n	22
+^n	n	16
 i	*i/i	55
 ³$	*³/⁴	42
-^a	*a/a	1
-g	g	3
-h	*h/ʔ	55
-^ch	tʃ	10
-²$	*²/³	11
-r	*r/ɾ	15
-⁵$	*⁵/¹	15
-e	*e/e	37
-³²$	*³²/⁴³	29
-uun³$	ũ ³ ũ ³	1
-uun⁵$	ũ ⁵ ũ ⁵	3
-u	*u/u	44
-^e	*e/e ³	1
-^g	g	1
-an	ã 	19
-^gw	gʷ	1
-^h	*h/ʔ	4
-o	*o/o	26
-^i	*i/i	4
-ch	tʃ	4
-k	k	12
-^k	k	16
-aan¹$	ã ¹ ã ¹	1
-¹³$	*¹³/⁵³	7
-sh	ʃ	1
-ts	ts	6
-⁴$	*⁴/²	9
-w	*w/β	12
-^kw	kʷ	1
-y	*y/ʒ	2
-^m	m	6
-³¹$	*³¹/³⁵	8
-^n	n	16
-chr	ʈʂ	2
+^'n	ˀn	1
+a	*a/a	78
+³	*³/⁴	8
+n	n	22
 ^r	*r/ɾ	12
-m	m	4
-^s	s	3
-^sh	ʃ	23
--	+	7
-kw	kʷ	3
-ng	ⁿg	1
+e	*e/e	37
+x	*x/ʃ	41
+^	NULL	1
+'	ʔ	1
+t	t	7
+¹$	*¹/¹	21
 ^t	t	15
-l	l	1
-^ts	ts	1
-^u	*u/u	2
-un²$	ũ ²	1
-^w	*w/β	4
+h	*h/ʔ	55
+⁵$	*⁵/¹	15
+w	*w/β	12
+³²$	*³²/⁴³	29
+u	*u/u	44
+^sh	ʃ	23
+^ch	tʃ	10
+r	*r/ɾ	15
+o	*o/o	26
+^k	k	16
+an	ã 	19
 ^y	*y/j	23
+k	k	12
+uun⁵$	ũ ⁵ ũ ⁵	3
+⁴$	*⁴/²	9
+³¹$	*³¹/³⁵	8
+^s	s	3
+g	g	3
+ts	ts	6
+m	m	4
+^w	*w/β	4
+kw	kʷ	3
+-	+	7
+¹³$	*¹³/⁵³	7
+ng	ⁿg	1
+y	*y/ʒ	2
+l	l	1
+ch	tʃ	4
+^kw	kʷ	1
+^m	m	6
+uun³$	ũ ³ ũ ³	1
+^h	*h/ʔ	4
+chr	ʈʂ	2
+^a	*a/a	1
+²$	*²/³	11
+^u	*u/u	2
+^i	*i/i	4
+un²$	ũ ²	1
+aan¹$	ã ¹ ã ¹	1
 ^z	*z/s	2
+^ts	ts	1
+^e	*e/e ³	1
+sh	ʃ	1
+^g	g	1
+^gw	gʷ	1

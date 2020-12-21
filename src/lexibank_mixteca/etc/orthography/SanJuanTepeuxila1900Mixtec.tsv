@@ -1,56 +1,56 @@
 Grapheme	IPA	Frequency
-^a	*a/a	1
-m	m	7
-a$	*a/a	44
-^b	*b/β	5
-a	*a/a	55
-d	d	41
-'	ʔ	1
-i	*i/i	56
-an	ã 	9
-y	*y/ʒ	11
-u	*u/u	55
-n	n	17
-i$	*i/i	42
-en$	ẽ	2
-ch	tʃ	12
 ^ch	tʃ	13
+a	*a/a	55
 k	k	15
 u$	*u/u	36
+i	*i/i	56
+d	d	41
+a$	*a/a	44
+^d	*d/ð	10
+y	*y/ʒ	11
+^n	n	39
+n	n	17
+^k	k	19
+b	*b/β	14
+u	*u/u	55
+i$	*i/i	42
+^ts	ts	1
+an$	*an/ã	11
+t	t	23
+^i	*i/i	21
+^y	*y/j	28
+un$	*un/ũ	4
+in$	ĩ	7
+ñ	ɲ	4
 e	*e/e	6
 nd	ⁿd	7
 e$	*e/e	5
-t	t	23
 é$	e ⁵	2
-nt	ⁿd	1
-^d	*d/ð	10
-b	*b/β	14
-ú$	u ⁵	2
--	+	8
+^b	*b/β	5
+en$	ẽ	2
 ^g	g	1
-^h	*h/ʔ	3
-an$	*an/ã	11
-un$	*un/ũ	4
-^i	*i/i	21
+an	ã 	9
+^t	t	10
+^sh	ʃ	1
+g	g	8
+ch	tʃ	12
+-	+	8
+ts	ts	1
 ng	ⁿg	2
 ún$	ũ ⁵	1
-ñ	ɲ	4
-in$	ĩ	7
-^k	k	19
-á$	a ⁵	1
-^l	l	1
-^m	m	3
-^n	n	39
+^ñ	ɲ	3
+ú$	u ⁵	2
+m	m	7
+ó$	o ⁵	1
 kua	*kua/kʷ a	2
 $	NULL	1
-g	g	8
-^ñ	ɲ	3
 í	i ⁵	1
-^sh	ʃ	1
-^t	t	10
-n$	n	1
-^ts	ts	1
-ts	ts	1
+nt	ⁿd	1
+^m	m	3
+á$	a ⁵	1
+^a	*a/a	1
 ^u	*u/u	1
-^y	*y/j	28
-ó$	o ⁵	1
+^h	*h/ʔ	3
+^l	l	1
+'	ʔ	1
+n$	n	1

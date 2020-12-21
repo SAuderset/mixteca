@@ -1,55 +1,55 @@
 Grapheme	IPA	Frequency
-^a	*a/a	4
-dz	dz	21
-i$	*i/i	52
-m	m	8
-an	ã 	10
-a$	*a/a	63
+^dz	dz	25
+e	*e/e	39
+h	*h/ʔ	38
+e$	*e/e	24
+u	*u/u	83
 t	t	33
 u$	*u/u	30
-y	*y/ʒ	20
-^c	k	23
-a	*a/a	72
-c	k	19
-ch	tʃ	13
-h	*h/ʔ	38
-^ch	tʃ	2
-i	*i/i	57
-s	s	20
-o	*o/o	22
-o$	*o/o	34
-n	n	18
-ñ	ɲ	21
-u	*u/u	83
-cua	kʷ a	2
-$	NULL	4
-y$	*y/j	3
--	+	24
-nd	ⁿd	4
-v	β	10
-^d	*d/ð	16
-e	*e/e	39
-q	k	2
-qu	k	4
-e$	*e/e	24
-^dz	dz	25
-d	d	4
-q$	ʔ	1
-^e	*e/e ³	2
-^h	*h/ʔ	10
-^i	*i/i	10
-^m	m	3
-^n	n	13
-hui	w i	2
-^ñ	ɲ	12
-^o	*o/o	1
-^	NULL	1
-^qu	k	10
-^s	s	18
 ^t	t	23
-^tn	tⁿ	5
-^vh	u h	1
-^v	β	3
-^vs	u s	1
-^vv	β	1
+a	*a/a	72
+a$	*a/a	63
+^d	*d/ð	16
+q	k	2
+y	*y/ʒ	20
+-	+	24
+dz	dz	21
+^c	k	23
+^ñ	ɲ	12
+an	ã 	10
+i$	*i/i	52
+v	β	10
+i	*i/i	57
+o$	*o/o	34
+^s	s	18
+hui	w i	2
+$	NULL	4
+^n	n	13
+ñ	ɲ	21
 ^y	*y/j	27
+qu	k	4
+^i	*i/i	10
+o	*o/o	22
+n	n	18
+q$	ʔ	1
+^ch	tʃ	2
+s	s	20
+^qu	k	10
+cua	kʷ a	2
+c	k	19
+^h	*h/ʔ	10
+ch	tʃ	13
+m	m	8
+^tn	tⁿ	5
+nd	ⁿd	4
+^m	m	3
+^e	*e/e ³	2
+^vv	β	1
+^v	β	3
+^	NULL	1
+^vs	u s	1
+^o	*o/o	1
+d	d	4
+^vh	u h	1
+^a	*a/a	4
+y$	*y/j	3

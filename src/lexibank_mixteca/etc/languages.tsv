@@ -4,7 +4,9 @@ Number	Name	Location	SubGroup	Latitude	Longitude	Glottocode	ISO639P3code
 3	SanMiguelAchiutlaMixtec	San Miguel Achiutla	Mixtec	17.3065	-97.48886	sanm1292	xtm
 4	SantaCatarinaAdequezMixtec	Santa Catarina Adequez	Mixtec	17.43688	-97.14695		
 5	SanMiguelAhuehuetitlanMixtec	San Miguel Ahuehuetitlán	Mixtec	17.67151	-98.32045	sila1250	mks
-6	AlacatlatzalaMixtec	Alacatlatzala	Mixtec	17.25	-98.58	alac1244	mim
+6	AlacatlatzalaMixtec_A	Alacatlatzala	Mixtec	17.25	-98.58	alac1244	mim
+6	AlacatlatzalaMixtec_B	Alacatlatzala	Mixtec	17.25	-98.58	alac1244	mim
+6	AlacatlatzalaMixtec_C	Alacatlatzala	Mixtec	17.25	-98.58	alac1244	mim
 7	AlcozaucaGuerreroMixtec	Alcozáuca de Guerrero	Mixtec	17.3687	-98.3969	alco1235	xta
 8	SanMiguelAmatitlanMixtec	San Miguel Amatitlán	Mixtec	17.89179	-98.02529		
 9	SantiagoAmoltepecMixtec	Santiago Amoltepec	Mixtec	16.6521	-97.4518	amol1236	mbz

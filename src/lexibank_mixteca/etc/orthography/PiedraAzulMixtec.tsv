@@ -1,105 +1,105 @@
 Grapheme	IPA	Frequency
-^a	*a/a	1
+^t	t	9
+á	a ⁵	10
 j	*j/h	42
 t	t	28
-u$	*u/u	8
-^à	a ¹	1
-s	s	8
-ǐn$	ĩ ¹⁵	7
-^ch	tʃ	7
-é	e ⁵	4
-l	l	2
-e$	*e/e	5
-ì	i ¹	32
-ch	tʃ	13
-í$	i ⁵	5
-í	i ⁵	4
-k	k	27
-ñ	ɲ	14
-ù$	u ¹	7
-i	*i/i	31
-ú	u ⁵	3
-uun$	*uun/ũ ũ	1
-^í	i ⁵	2
+ě$	e ¹⁵	1
+^s	s	9
+è	e ¹	5
 '	ʔ	51
+e$	*e/e	5
+^k	k	31
+ò	o ¹	8
+v	β	13
+a$	*a/a	16
+^ñ	ɲ	6
+a	*a/a	24
+ñ	ɲ	14
+î$	i ⁵¹	3
+u	*u/u	22
+ù$	u ¹	7
+^x	*x/ʃ	24
+i	*i/i	31
+x	*x/ʃ	20
 i$	*i/i	12
-^i	*i/i	11
-m	m	7
-àn$	ã ¹	1
-n	n	13
-'t	*'t/ʔ t	1
-in$	ĩ	7
+o$	*o/o	8
+^tsià	tsʲ a ¹	2
+ì	i ¹	32
+o	*o/o	12
+ô$	o ⁵¹	1
+^n	n	30
 ǐ$	i ¹⁵	20
 ^ì	i ¹	7
-ìn$	ĩ ¹	3
+k	k	27
+in$	ĩ	7
+^i	*i/i	11
+ù	u ¹	12
 ǔ$	u ¹⁵	7
-â$	a ⁵¹	5
-ts	ts	17
+^y	*y/j	22
 ǎ$	a ¹⁵	13
-a$	*a/a	16
-v	β	13
-ì$	i ¹	11
-x	*x/ʃ	20
-ǎn$	ã ¹⁵	3
-^k	k	31
-á	a ⁵	10
-ǎ	a ¹⁵	3
-à$	a ¹	15
+u$	*u/u	8
+ts	ts	17
+ǐn$	ĩ ¹⁵	7
+ǔn$	ũ ¹⁵	2
+^ch	tʃ	7
+í	i ⁵	4
 à	a ¹	14
-a	*a/a	24
-an	ã 	4
-^kiá	kʲ a ⁵	1
-o	*o/o	12
-nt	ⁿd	1
-o$	*o/o	8
-ò	o ¹	8
-ǒ$	o ¹⁵	12
-û$	u ⁵¹	5
-u	*u/u	22
-an$	*an/ã	2
-y	*y/ʒ	8
-è	e ¹	5
+ch	tʃ	13
+ìn$	ĩ ¹	3
+î	i ⁵¹	1
+n$	n	4
 è$	e ¹	3
-un$	*un/ũ	2
-^l	l	5
-ó$	o ⁵	2
-e	*e/e	3
-^m	m	2
-ú$	u ⁵	2
-^n	n	30
-î$	i ⁵¹	3
+ǎn$	ã ¹⁵	3
 kuà	kʷ a ¹	1
 $	NULL	1
--	+	9
-kuá	kʷ a ⁵	2
-ǔ	u ¹⁵	3
-ù	u ¹	12
-^ñ	ɲ	6
-^ò	o ¹	5
-ò$	o ¹	1
-^s	s	9
-ǔn$	ũ ¹⁵	2
-^t	t	9
-ě$	e ¹⁵	1
-ǒ	o ¹⁵	2
-^ts	ts	11
-ǐ	i ¹⁵	2
-é$	e ⁵	2
+^l	l	5
+ǎ	a ¹⁵	3
 ^tsiǎ	tsʲ a ¹⁵	1
-^tsià	tsʲ a ¹	2
-á$	a ⁵	2
-^tsiá	tsʲ a ⁵	1
-ìín$	ĩ ¹ ĩ ⁵	1
-^tsiò	tsʲ o ¹	2
-ùún$	ũ ¹ ũ ⁵	1
-^ù	u ¹	3
-n$	n	4
-^u	*u/u	2
+à$	a ¹	15
+û$	u ⁵¹	5
 ^v	β	8
-nts	ⁿts	1
-^x	*x/ʃ	24
+e	*e/e	3
+^tsiá	tsʲ a ⁵	1
+y	*y/ʒ	8
+á$	a ⁵	2
+ǒ$	o ¹⁵	12
+^ts	ts	11
+-	+	9
+s	s	8
+m	m	7
+é$	e ⁵	2
+â$	a ⁵¹	5
+ìín$	ĩ ¹ ĩ ⁵	1
+^u	*u/u	2
+kuá	kʷ a ⁵	2
+é	e ⁵	4
+l	l	2
+ó$	o ⁵	2
+^m	m	2
+ǒ	o ¹⁵	2
+n	n	13
+ú	u ⁵	3
+í$	i ⁵	5
+ì$	i ¹	11
+an	ã 	4
+^tsiò	tsʲ o ¹	2
+ǔ	u ¹⁵	3
+^í	i ⁵	2
+'t	*'t/ʔ t	1
+^kiá	kʲ a ⁵	1
 ân$	ã ⁵¹	1
-ô$	o ⁵¹	1
-î	i ⁵¹	1
+nts	ⁿts	1
+ùún$	ũ ¹ ũ ⁵	1
+àn$	ã ¹	1
+ǐ	i ¹⁵	2
+ú$	u ⁵	2
+nt	ⁿd	1
+an$	*an/ã	2
+^ò	o ¹	5
+^ù	u ¹	3
+ò$	o ¹	1
+^a	*a/a	1
+^à	a ¹	1
+un$	*un/ũ	2
 ún$	ũ ⁵	1
-^y	*y/j	22
+uun$	*uun/ũ ũ	1
