@@ -1628,8 +1628,6 @@ ID	DOCULECT	CONCEPT	SPANISH_GLOSS	VALUE	FORM	IDlist	CONCEPTICON_ID	LOAN	LOAN_SOU
 6926	MetlatonocMixtec	BLOOD	sangre	n(ī̧)ì̧ī̧	nī̧ì̧ī̧	17	946			josserand1983mixtec		metl11
 6947	PinotepaDonLuisMixtec	BLOOD	sangre	nɨ̧ñɨ̧̀	nɨ̧ñɨ̧̀	17	946			josserand1983mixtec		pino12
 6950	Proto-Mixtec	BLOOD	sangre	nɨyi̧ʔ	nɨyi̧ʔ	17	946			josserand1983mixtec		prom01
-6952	Proto-Mixtec	BLOOD	sangre	nɨyi̧ʔ	nɨyi̧ʔ	17	946			josserand1983mixtec		prom01
-6953	Proto-Mixtec	BLOOD	sangre	nɨyi̧ʔ	nɨyi̧ʔ	17	946			josserand1983mixtec		prom01
 6951	Proto-Mixtec	BLOOD	sangre	nɨyɨ̧ʔ	nɨyɨ̧ʔ	17	946			josserand1983mixtec		prom01
 6882	SanAgustinAtenangoMixtec	BLOOD	sangre	nì̧ì̧	nì̧ì̧	17	946			josserand1983mixtec		aten11
 6889	SanAgustinChayucoMixtec	BLOOD	sangre	nɨ̧̀ñɨ̧̀	nɨ̧̀ñɨ̧̀	17	946			josserand1983mixtec		chay11
@@ -3465,7 +3463,6 @@ ID	DOCULECT	CONCEPT	SPANISH_GLOSS	VALUE	FORM	IDlist	CONCEPTICON_ID	LOAN	LOAN_SOU
 11685	LosTejocotesMixtec	CORN DOUGH	masa	yuȼa	yuȼa	91				josserand1983mixtec		tejo11
 11670	PinotepaDonLuisMixtec	CORN DOUGH	masa	yuča	yuča	91				josserand1983mixtec		pino12
 11673	Proto-Mixtec	CORN DOUGH	masa	yuxȩʔ	yuxȩʔ	91				josserand1983mixtec		prom01
-11674	Proto-Mixtec	CORN DOUGH	masa	yuxȩʔ	yuxȩʔ	91				josserand1983mixtec		prom01
 11602	SanAgustinAtenangoMixtec	CORN DOUGH	masa	žusa	žusa	91				josserand1983mixtec		aten11
 11609	SanAgustinChayucoMixtec	CORN DOUGH	masa	yuča	yuča	91				josserand1983mixtec		chay11
 11652	SanAgustinMonteLobosMixtec	CORN DOUGH	masa	žuȼa̧	žuȼa̧	91				josserand1983mixtec		mont14
@@ -4577,7 +4574,6 @@ ID	DOCULECT	CONCEPT	SPANISH_GLOSS	VALUE	FORM	IDlist	CONCEPTICON_ID	LOAN	LOAN_SOU
 7963	LosTejocotesMixtec	DISEASE	enfermedad	kʷeʔe	kʷeʔe	33	1986			josserand1983mixtec		tejo11
 7948	PinotepaDonLuisMixtec	DISEASE	enfermedad	kʷeʔe	kʷeʔe	33	1986			josserand1983mixtec		pino12
 7951	Proto-Mixtec	DISEASE	enfermedad	kʷeʔyi	kʷeʔyi	33	1986			josserand1983mixtec		prom01
-7952	Proto-Mixtec	DISEASE	enfermedad	kʷeʔyi	kʷeʔyi	33	1986			josserand1983mixtec		prom01
 7883	SanAgustinAtenangoMixtec	DISEASE	enfermedad	kʷeʔe	kʷeʔe	33	1986			josserand1983mixtec		aten11
 7891	SanAgustinChayucoMixtec	DISEASE	enfermedad	kʷeʔe	kʷeʔe	33	1986			josserand1983mixtec		chay11
 7969	SanAgustinTlacotepecMixtec	DISEASE	enfermedad	kʷeʔe	kʷeʔe	33	1986			josserand1983mixtec		tlac11
