@@ -81,10 +81,6 @@ which(is.na(wl3$DOCULECT))
 which(is.na(wl3$IDlist))
 wl3[19869, ]
 
-# check for entries that are identical expect in the ID column (for some reasons the proto-Mixtec forms in Josserand get duplicated)
-
-
-
 
 # sort by list item, then variety
 wl3 <- wl3 %>% arrange(IDlist, DOCULECT)
@@ -123,7 +119,7 @@ write_tsv(orthography_list, "orthography_checklist.tsv")
 
 # to know where to continue IDs
 max(wl3$ID, na.rm = TRUE)
-# 21435
+# 21548
 
 
 ### export single sheets for orthography profiles

@@ -229,6 +229,7 @@ ID	DOCULECT	GLOSS	VALUE	FORM	IDlist	LOAN	LOAN_SOURCE	SOURCE	FLOATTONE
 618	prog12	son/daughter, child	xahyī	xahyī	5	NA	NA	shields1988syntactic	NA
 2061	prog12	child	hàʔžī	hàʔžī	5	NA	NA	durr1987preliminary	NA
 6416	prog12	hijo/hija	haʔži	haʔži	5	NA	NA	josserand1983mixtec	NA
+21475	prom01	child	sàʔyí	sàʔyí	5	NA	NA	durr1987preliminary	NA
 6417	prom01	hijo/hija	saʔyi	saʔyi	5	NA	NA	josserand1983mixtec	NA
 5573	prom01	hijo	sàʔjí	sàʔjí	5	NA	NA	swanton2020observaciones	NA
 6418	reye11	hijo/hija	seʔe	seʔe	5	NA	NA	josserand1983mixtec	NA
@@ -332,6 +333,7 @@ ID	DOCULECT	GLOSS	VALUE	FORM	IDlist	LOAN	LOAN_SOURCE	SOURCE	FLOATTONE
 2975	pied12	hermana/hermano de otro genero	kò'va	kò'va	8	NA	NA	oxnard2020	NA
 620	prog12	cross-sex sibling	kyahvā	kyahvā	8	NA	NA	shields1988syntactic	NA
 2072	prog12	cross-sex sibling	kʸàʔƀà	kʸàʔƀà	8	NA	NA	durr1987preliminary	NA
+21474	prom01	cross-sex sibling	kʷàʔá	kʷàʔá	8	NA	NA	durr1987preliminary	NA
 1834	tepo01	hermana/hermano de otro genero	cuhua	cuhua	8	NA	NA	alvarado1593vocabulario	NA
 2974	tlah11	hermana/hermano de otro genero	kuva	kuva	8	NA	NA	oxnard2020	NA
 2070	xaya11	cross-sex sibling	kùʔā	kùʔā	8	NA	NA	durr1987preliminary	NA
@@ -457,6 +459,7 @@ ID	DOCULECT	GLOSS	VALUE	FORM	IDlist	LOAN	LOAN_SOURCE	SOURCE	FLOATTONE
 621	prog12	brother of man	ñānī	ñānī	9	NA	NA	shields1988syntactic	NA
 2085	prog12	brother of man	ñànì	ñànì	9	NA	NA	durr1987preliminary	NA
 6533	prog12	hermano de hombre	ña̧ni̧	ña̧ni̧	9	NA	NA	josserand1983mixtec	NA
+21463	prom01	brother of man	yénì	yénì	9	NA	NA	durr1987preliminary	NA
 6534	prom01	hermano de hombre	yeni	yeni	9	NA	NA	josserand1983mixtec	NA
 5578	prom01	hermano de hombre	jénì	jénì	9	NA	NA	swanton2020observaciones	NA
 6535	reye11	hermano de hombre	ña̧ni̧	ña̧ni̧	9	NA	NA	josserand1983mixtec	NA
@@ -539,6 +542,7 @@ ID	DOCULECT	GLOSS	VALUE	FORM	IDlist	LOAN	LOAN_SOURCE	SOURCE	FLOATTONE
 2984	pied12	hermana de mujer	ku'ù	ku'ù	10	NA	NA	oxnard2020	NA
 622	prog12	sister of woman	kihvi	kihvi	10	NA	NA	shields1988syntactic	NA
 2096	prog12	sister of woman	kìʔƀì	kìʔƀì	10	NA	NA	durr1987preliminary	NA
+21497	prom01	sister of woman	kùʔwì	kùʔwì	10	NA	NA	durr1987preliminary	NA
 5417	tepe03	hermana	kaba	kaba	10	NA	NA	belmar1902el-cuicateco	NA
 1836	tepo01	hermana de mujer	cuvui	cuvui	10	NA	NA	alvarado1593vocabulario	NA
 2983	tlah11	hermana de mujer	ku'vì	ku'vì	10	NA	NA	oxnard2020	NA
@@ -585,6 +589,7 @@ ID	DOCULECT	GLOSS	VALUE	FORM	IDlist	LOAN	LOAN_SOURCE	SOURCE	FLOATTONE
 2988	pied12	tía	xixi	xixi	11	NA	NA	oxnard2020	NA
 623	prog12	aunt	xixi	xixi	11	NA	NA	shields1988syntactic	NA
 2109	prog12	aunt	hìhì	hìhì	11	NA	NA	durr1987preliminary	NA
+21459	prom01	aunt	sísì	sísì	11	NA	NA	durr1987preliminary	NA
 5418	tepe03	tía	dudi	dudi	11	NA	NA	belmar1902el-cuicateco	NA
 1837	tepo01	tía	dzidzindi	dzidzi	11	NA	NA	alvarado1593vocabulario	NA
 2987	tlah11	tía	xixi	xixi	11	NA	NA	oxnard2020	NA
@@ -632,6 +637,7 @@ ID	DOCULECT	GLOSS	VALUE	FORM	IDlist	LOAN	LOAN_SOURCE	SOURCE	FLOATTONE
 2991	pied12	tío	xito	xito	12	NA	NA	oxnard2020	NA
 624	prog12	uncle	xito	xito	12	NA	NA	shields1988syntactic	NA
 2124	prog12	uncle	hìtò	hìtò	12	NA	NA	durr1987preliminary	NA
+21458	prom01	uncle	sítò	sítò	12	NA	NA	durr1987preliminary	NA
 5419	tepe03	tío	dunu	dunu	12	NA	NA	belmar1902el-cuicateco	NA
 1838	tepo01	tío	dzito	dzito	12	NA	NA	alvarado1593vocabulario	NA
 2990	tlah11	tío	xito	xito	12	NA	NA	oxnard2020	NA
@@ -764,6 +770,7 @@ ID	DOCULECT	GLOSS	VALUE	FORM	IDlist	LOAN	LOAN_SOURCE	SOURCE	FLOATTONE
 625	prog12	man	taā	taā	13	NA	NA	shields1988syntactic	NA
 2135	prog12	man	tàà	tàà	13	NA	NA	durr1987preliminary	NA
 6656	prog12	hombre	(ta)taa	tataa	13	NA	NA	josserand1983mixtec	NA
+21469	prom01	man	tèyé	tèyé	13	NA	NA	durr1987preliminary	NA
 6657	prom01	hombre	teye	teye	13	NA	NA	josserand1983mixtec	NA
 6658	reye11	hombre	čàá	čàá	13	NA	NA	josserand1983mixtec	NA
 6659	sayu11	hombre	raa	raa	13	NA	NA	josserand1983mixtec	NA
@@ -848,6 +855,7 @@ ID	DOCULECT	GLOSS	VALUE	FORM	IDlist	LOAN	LOAN_SOURCE	SOURCE	FLOATTONE
 4862	pena11	mujer	ña'a	ña'a	14	NA	NA	hollenbach2017diccionario	
 626	prog12	woman	ñáha	ñáha	14	NA	NA	shields1988syntactic	NA
 2142	prog12	woman	ñá̧ʔà̧	ñá̧ʔà̧	14	NA	NA	durr1987preliminary	NA
+21447	prom01	woman	yáʔá̧ʔ	yáʔá̧ʔ	14	NA	NA	durr1987preliminary	NA
 5421	tepe03	mujer	ndata	ndata	14	NA	NA	belmar1902el-cuicateco	NA
 1840	tepo01	mujer	ñahadzehe	ñaha-dzehe	14	NA	NA	alvarado1593vocabulario	NA
 2999	tlah11	mujer	sí'i	sí'i	14	NA	NA	oxnard2020	NA
@@ -1276,6 +1284,7 @@ ID	DOCULECT	GLOSS	VALUE	FORM	IDlist	LOAN	LOAN_SOURCE	SOURCE	FLOATTONE
 2145	peno11	bone	žɨ̀kɨ̀	žɨ̀kɨ̀	18	NA	NA	durr1987preliminary	NA
 3018	pied12	hueso	ìkin	ìkin	18	NA	NA	oxnard2020	NA
 628	prog12	bone	yīkí	yīkí	18	NA	NA	shields1988syntactic	NA
+21445	prom01	bone	yɨ́kɨ́ʔ	yɨ́kɨ́ʔ	18	NA	NA	durr1987preliminary	NA
 5424	tepe03	hueso	ini	ini	18	NA	NA	belmar1902el-cuicateco	NA
 1844	tepo01	hueso	yeque	yeque	18	NA	NA	alvarado1593vocabulario	NA
 3017	tlah11	hueso	leké	leké	18	NA	NA	oxnard2020	NA
@@ -1362,6 +1371,7 @@ ID	DOCULECT	GLOSS	VALUE	FORM	IDlist	LOAN	LOAN_SOURCE	SOURCE	FLOATTONE
 3028	pied12	cara	nùjǔ	nùjǔ	20	NA	NA	oxnard2020	NA
 630	prog12	face	nuu	nuu	20	NA	NA	shields1988syntactic	NA
 2160	prog12	face	nùù	nùù	20	NA	NA	durr1987preliminary	NA
+21492	prom01	face	nùùʔ	nùùʔ	20	NA	NA	durr1987preliminary	NA
 5427	tepe03	cara	na	na	20	NA	NA	belmar1902el-cuicateco	NA
 1846	tepo01	cara	nuu	nuu	20	NA	NA	alvarado1593vocabulario	NA
 3027	tlah11	cara	nùú	nùú	20	NA	NA	oxnard2020	NA
@@ -1399,6 +1409,7 @@ ID	DOCULECT	GLOSS	VALUE	FORM	IDlist	LOAN	LOAN_SOURCE	SOURCE	FLOATTONE
 2163	peno11	tongue	žâá	žâá	21	NA	NA	durr1987preliminary	NA
 3033	pied12	lengua	yajǎ	yajǎ	21	NA	NA	oxnard2020	NA
 2173	prog12	tongue	žáà	žáà	21	NA	NA	durr1987preliminary	NA
+21522	prom01	tongue	yaa	yaa	21	NA	NA	durr1987preliminary	NA
 5593	prom01	lengua	ʔ-jààʔ	ʔ-jààʔ	21	NA	NA	swanton2020observaciones	NA
 5428	tepe03	lengua	chiiya	chiiya	21	NA	NA	belmar1902el-cuicateco	NA
 1847	tepo01	lengua	yaa	yaa	21	NA	NA	alvarado1593vocabulario	NA
@@ -1495,6 +1506,7 @@ ID	DOCULECT	GLOSS	VALUE	FORM	IDlist	LOAN	LOAN_SOURCE	SOURCE	FLOATTONE
 3036	pied12	diente	nù'u	nù'u	22	NA	NA	oxnard2020	NA
 7049	pino11	diente	nu̧ʔu̧	nu̧ʔu̧	22	NA	NA	josserand1983mixtec	NA
 7050	pino12	diente	nu̧ʔu̧	nu̧ʔu̧	22	NA	NA	josserand1983mixtec	NA
+21477	prom01	tooth	nòʔó	nòʔó	22	NA	NA	durr1987preliminary	NA
 7051	prom01	diente	noʔo	noʔo	22	NA	NA	josserand1983mixtec	NA
 7052	reye11	diente	nu̧ʔu̧	nu̧ʔu̧	22	NA	NA	josserand1983mixtec	NA
 7053	sayu11	diente	nu̧ʔu̧	nu̧ʔu̧	22	NA	NA	josserand1983mixtec	NA
@@ -1633,6 +1645,7 @@ ID	DOCULECT	GLOSS	VALUE	FORM	IDlist	LOAN	LOAN_SOURCE	SOURCE	FLOATTONE
 7140	pino12	boca	yuʔu	yuʔu	23	NA	NA	josserand1983mixtec	NA
 631	prog12	mouth	yúhu	yúhu	23	NA	NA	shields1988syntactic	NA
 2193	prog12	mouth	žǘʔǜ	žǘʔǜ	23	NA	NA	durr1987preliminary	NA
+21444	prom01	mouth	yúʔúʔ	yúʔúʔ	23	NA	NA	durr1987preliminary	NA
 7141	prom01	boca	yuʔuʔ	yuʔuʔ	23	NA	NA	josserand1983mixtec	NA
 7142	prom01	boca	yuʔyuʔ	yuʔyuʔ	23	NA	NA	josserand1983mixtec	NA
 5598	prom01	boca, borde	júʔúʔ	júʔúʔ	23	NA	NA	swanton2020observaciones	NA
@@ -1789,6 +1802,7 @@ ID	DOCULECT	GLOSS	VALUE	FORM	IDlist	LOAN	LOAN_SOURCE	SOURCE	FLOATTONE
 7249	prog11	oreja	soʔo	soʔo	24	NA	NA	josserand1983mixtec	NA
 632	prog12	ear	xohō	xohō	24	NA	NA	shields1988syntactic	NA
 7250	prog12	oreja	hoʔo	hoʔo	24	NA	NA	josserand1983mixtec	NA
+21476	prom01	ear	lòʔó	lòʔó	24	NA	NA	durr1987preliminary	NA
 7251	prom01	oreja	loʔo	loʔo	24	NA	NA	josserand1983mixtec	NA
 7252	reye11	oreja	sòʔō	sòʔō	24	NA	NA	josserand1983mixtec	NA
 7253	sayu11	oreja	soʔo	soʔo	24	NA	NA	josserand1983mixtec	NA
@@ -2168,6 +2182,7 @@ ID	DOCULECT	GLOSS	VALUE	FORM	IDlist	LOAN	LOAN_SOURCE	SOURCE	FLOATTONE
 3061	pied12	mano	nta'ǎ	nta'ǎ	27	NA	NA	oxnard2020	NA
 634	prog12	hand	ndāha	ndāha	27	NA	NA	shields1988syntactic	NA
 2216	prog12	hand	ⁿdáʔà	ⁿdáʔà	27	NA	NA	durr1987preliminary	NA
+21439	prom01	hand	ⁿdáʔáʔ	ⁿdáʔáʔ	27	NA	NA	durr1987preliminary	NA
 5436	tepe03	mano	taa	taa	27	NA	NA	belmar1902el-cuicateco	NA
 1854	tepo01	mano	daha	daha	27	NA	NA	alvarado1593vocabulario	NA
 3060	tlah11	mano	nda'á	nda'á	27	NA	NA	oxnard2020	NA
@@ -2292,6 +2307,7 @@ ID	DOCULECT	GLOSS	VALUE	FORM	IDlist	LOAN	LOAN_SOURCE	SOURCE	FLOATTONE
 635	prog12	fingernail	chíin	chíin	28	NA	NA	shields1988syntactic	NA
 2227	prog12	fingernail	čí̧ì̧	čí̧ì̧	28	NA	NA	durr1987preliminary	NA
 7599	prog12	uña	či̧i̧	či̧i̧	28	NA	NA	josserand1983mixtec	NA
+21506	prom01	fingernail	tiyi̧ʔ	tiyi̧ʔ	28	NA	NA	durr1987preliminary	NA
 7600	prom01	uña	tiyi̧ʔ	tiyi̧ʔ	28	NA	NA	josserand1983mixtec	NA
 5603	prom01	uña	ʔ-tìjĩ̀ʔ	ʔ-tìjĩ̀ʔ	28	NA	NA	swanton2020observaciones	NA
 7601	reye11	uña	či̧i̧	či̧i̧	28	NA	NA	josserand1983mixtec	NA
@@ -2408,6 +2424,7 @@ ID	DOCULECT	GLOSS	VALUE	FORM	IDlist	LOAN	LOAN_SOURCE	SOURCE	FLOATTONE
 3076	pied12	estómago	nchìxìn	nchìxìn	30	NA	NA	oxnard2020	NA
 637	prog12	stomach	tishī	tishī	30	NA	NA	shields1988syntactic	NA
 2238	prog12	stomach	tìšī	tìšī	30	NA	NA	durr1987preliminary	NA
+21468	prom01	stomach	tìxí	tìxí	30	NA	NA	durr1987preliminary	NA
 5439	tepe03	panza	chiati	chiati	30	NA	NA	belmar1902el-cuicateco	NA
 1856	tepo01	barriga	chisi	chisi	30	NA	NA	alvarado1593vocabulario	NA
 3075	tlah11	estómago	tìxin	tìxin	30	NA	NA	oxnard2020	NA
@@ -2676,6 +2693,7 @@ ID	DOCULECT	GLOSS	VALUE	FORM	IDlist	LOAN	LOAN_SOURCE	SOURCE	FLOATTONE
 638	prog12	foot	saha	saha	32	NA	NA	shields1988syntactic	NA
 2249	prog12	foot	šàʔà	šàʔà	32	NA	NA	durr1987preliminary	NA
 7835	prog12	pie	saʔa	saʔa	32	NA	NA	josserand1983mixtec	NA
+21499	prom01	foot	xèʔè	xèʔè	32	NA	NA	durr1987preliminary	NA
 7836	prom01	pie	xeʔe	xeʔe	32	NA	NA	josserand1983mixtec	NA
 7837	reye11	pie	šaʔa	šaʔa	32	NA	NA	josserand1983mixtec	NA
 7838	sayu11	pie	čaʔa	čaʔa	32	NA	NA	josserand1983mixtec	NA
@@ -2907,6 +2925,7 @@ ID	DOCULECT	GLOSS	VALUE	FORM	IDlist	LOAN	LOAN_SOURCE	SOURCE	FLOATTONE
 3095	pied12	medicina	tàjtǎn	tàjtǎn	34	NA	NA	oxnard2020	NA
 640	prog12	medicine	tata	tata	34	NA	NA	shields1988syntactic	NA
 2259	prog12	medicine	tàtà	tàtà	34	NA	NA	durr1987preliminary	NA
+21481	prom01	medicine	tàtà̧ʔ	tàtà̧ʔ	34	NA	NA	durr1987preliminary	NA
 1860	tepo01	medicina	yucu tatna	tatna	34	NA	NA	alvarado1593vocabulario	NA
 3094	tlah11	medicina	tàtán	tàtán	34	NA	NA	oxnard2020	NA
 4703	xoch11	medicina	ta̠ta̠n	̠	34	NA	NA	stark2013diccionario	NA
@@ -3424,6 +3443,7 @@ ID	DOCULECT	GLOSS	VALUE	FORM	IDlist	LOAN	LOAN_SOURCE	SOURCE	FLOATTONE
 3118	pied12	ropa	tsiǎà	tsiǎà	39	NA	NA	oxnard2020	NA
 641	prog12	cloth	xáhma	xáhma	39	NA	NA	shields1988syntactic	NA
 2271	prog12	clothes	háʔmà	háʔmà	39	NA	NA	durr1987preliminary	NA
+21440	prom01	clothes	sáʔwá̧ʔ	sáʔwá̧ʔ	39	NA	NA	durr1987preliminary	NA
 5444	tepe03	ropa	tiinu	tiinu	39	NA	NA	belmar1902el-cuicateco	NA
 1869	tepo01	tela	ydza	ydza	39	NA	NA	alvarado1593vocabulario	NA
 3117	tlah11	ropa	samá	samá	39	NA	NA	oxnard2020	NA
@@ -3545,6 +3565,7 @@ ID	DOCULECT	GLOSS	VALUE	FORM	IDlist	LOAN	LOAN_SOURCE	SOURCE	FLOATTONE
 642	prog12	sandal, sandals	ndusa	ndusa	40	NA	NA	shields1988syntactic	NA
 2281	prog12	sandal	ⁿdǜsà	ⁿdǜsà	40	NA	NA	durr1987preliminary	NA
 8454	prog12	huarache	ⁿdusa	ⁿdusa	40	NA	NA	josserand1983mixtec	NA
+21486	prom01	sandal	ⁿdìxȩ̀ʔ	ⁿdìxȩ̀ʔ	40	NA	NA	durr1987preliminary	NA
 8456	prom01	huarache	ⁿdixȩʔ	ⁿdixȩʔ	40	NA	NA	josserand1983mixtec	NA
 8455	prom01	huarache	ⁿdixȩʔ	ⁿdixȩʔ	40	NA	NA	josserand1983mixtec	NA
 5612	prom01	huarache	ⁿdìxẽ̀ʔ	ⁿdìxẽ̀ʔ	40	NA	NA	swanton2020observaciones	NA
@@ -3903,6 +3924,7 @@ ID	DOCULECT	GLOSS	VALUE	FORM	IDlist	LOAN	LOAN_SOURCE	SOURCE	FLOATTONE
 644	prog12	village, town	ñūū	ñūū	43	NA	NA	shields1988syntactic	NA
 2293	prog12	town	ñūū	ñūū	43	NA	NA	durr1987preliminary	NA
 8722	prog12	pueblo	ñu̧u̧	ñu̧u̧	43	NA	NA	josserand1983mixtec	NA
+21462	prom01	town	yúù̧	yúù̧	43	NA	NA	durr1987preliminary	NA
 8723	prom01	pueblo	yuu̧	yuu̧	43	NA	NA	josserand1983mixtec	NA
 5621	prom01	pueblo	júũ̀̀	júũ̀̀	43	NA	NA	swanton2020observaciones	NA
 8724	reye11	pueblo	ñu̧u̧	ñu̧u̧	43	NA	NA	josserand1983mixtec	NA
@@ -4072,6 +4094,7 @@ ID	DOCULECT	GLOSS	VALUE	FORM	IDlist	LOAN	LOAN_SOURCE	SOURCE	FLOATTONE
 645	prog12	house	vēhē	vēhē	44	NA	NA	shields1988syntactic	NA
 2309	prog12	house	ƀēʔē	ƀēʔē	44	NA	NA	durr1987preliminary	NA
 8836	prog12	casa	ƀeʔe	ƀeʔe	44	NA	NA	josserand1983mixtec	NA
+21452	prom01	house	wéʔyí	wéʔyí	44	NA	NA	durr1987preliminary	NA
 8837	prom01	casa	weʔyi	weʔyi	44	NA	NA	josserand1983mixtec	NA
 8838	sayu11	casa	weʔe	weʔe	44	NA	NA	josserand1983mixtec	NA
 8839	sind11	casa	weʔe	weʔe	44	NA	NA	josserand1983mixtec	NA
@@ -4157,6 +4180,7 @@ ID	DOCULECT	GLOSS	VALUE	FORM	IDlist	LOAN	LOAN_SOURCE	SOURCE	FLOATTONE
 3145	pied12	camino	ichǐ	ichǐ	45	NA	NA	oxnard2020	NA
 646	prog12	road, trail	íchi	íchi	45	NA	NA	shields1988syntactic	NA
 2319	prog12	road	íčì	íčì	45	NA	NA	durr1987preliminary	NA
+21449	prom01	road	ítíʔ	ítíʔ	45	NA	NA	durr1987preliminary	NA
 5626	prom01	camino	ítíʔ	ítíʔ	45	NA	NA	swanton2020observaciones	NA
 5447	tepe03	camino	yuni	yuni	45	NA	NA	belmar1902el-cuicateco	NA
 1873	tepo01	camino	ichi	ichi	45	NA	NA	alvarado1593vocabulario	NA
@@ -4389,6 +4413,7 @@ ID	DOCULECT	GLOSS	VALUE	FORM	IDlist	LOAN	LOAN_SOURCE	SOURCE	FLOATTONE
 9042	pino12	petate	yuƀi	yuƀi	47	NA	NA	josserand1983mixtec	NA
 9043	prog11	petate	žuƀi	žuƀi	47	NA	NA	josserand1983mixtec	NA
 9044	prog12	petate	žiƀi	žiƀi	47	NA	NA	josserand1983mixtec	NA
+21443	prom01	straw mat	yúwíʔ	yúwíʔ	47	NA	NA	durr1987preliminary	NA
 9046	prom01	petate	yiwiʔ	yiwiʔ	47	NA	NA	josserand1983mixtec	NA
 9045	prom01	petate	yuwiʔ	yuwiʔ	47	NA	NA	josserand1983mixtec	NA
 5631	prom01	petate	júwíʔ	júwíʔ	47	NA	NA	swanton2020observaciones	NA
@@ -4687,6 +4712,7 @@ ID	DOCULECT	GLOSS	VALUE	FORM	IDlist	LOAN	LOAN_SOURCE	SOURCE	FLOATTONE
 9279	pino12	banquito	tayu	tayu	49	NA	NA	josserand1983mixtec	NA
 9280	prog11	banquito	banka	banka	49	yes	Spanish	josserand1983mixtec	NA
 9281	prog12	banquito	taži	taži	49	NA	NA	josserand1983mixtec	NA
+21456	prom01	stool	téyù	téyù	49	NA	NA	durr1987preliminary	NA
 9282	prom01	banquito	teyu	teyu	49	NA	NA	josserand1983mixtec	NA
 9283	reye11	banquito	čʸei	čʸei	49	NA	NA	josserand1983mixtec	NA
 9284	sayu11	banquito	tayu	tayu	49	NA	NA	josserand1983mixtec	NA
@@ -4853,6 +4879,7 @@ ID	DOCULECT	GLOSS	VALUE	FORM	IDlist	LOAN	LOAN_SOURCE	SOURCE	FLOATTONE
 647	prog12	animal	kíti	kíti	50	NA	NA	shields1988syntactic	NA
 2352	prog12	animal	kítì	kítì	50	NA	NA	durr1987preliminary	NA
 9399	prog12	animal	kiti	kiti	50	NA	NA	josserand1983mixtec	NA
+21436	prom01	animal	kɨ́tɨ́ʔ	kɨ́tɨ́ʔ	50	NA	NA	durr1987preliminary	NA
 9400	prom01	animal	kɨtɨʔ	kɨtɨʔ	50	NA	NA	josserand1983mixtec	NA
 5635	prom01	animal	kɨ́tɨ́ʔ	kɨ́tɨ́ʔ	50	NA	NA	swanton2020observaciones	NA
 9401	reye11	animal	kīči	kīči	50	NA	NA	josserand1983mixtec	NA
@@ -5020,6 +5047,7 @@ ID	DOCULECT	GLOSS	VALUE	FORM	IDlist	LOAN	LOAN_SOURCE	SOURCE	FLOATTONE
 648	prog12	bird	lāā	lāā	51	NA	NA	shields1988syntactic	NA
 2364	prog12	bird	lāā	lāā	51	NA	NA	durr1987preliminary	NA
 9517	prog12	pájaro	laa	laa	51	NA	NA	josserand1983mixtec	NA
+21461	prom01	bird	láà	láà	51	NA	NA	durr1987preliminary	NA
 9518	prom01	pájaro	tɨ-laa	tɨ-laa	51	NA	NA	josserand1983mixtec	NA
 9519	reye11	pájaro	laa	laa	51	NA	NA	josserand1983mixtec	NA
 9520	sayu11	pájaro	saa	saa	51	NA	NA	josserand1983mixtec	NA
@@ -5102,6 +5130,7 @@ ID	DOCULECT	GLOSS	VALUE	FORM	IDlist	LOAN	LOAN_SOURCE	SOURCE	FLOATTONE
 3179	pied12	pescado	tsiàká	tsiàká	52	NA	NA	oxnard2020	NA
 649	prog12	fish	ti-yāká	ti-yāká	52	NA	NA	shields1988syntactic	NA
 2379	prog12	fish	tī-žàká	tī-žàká	52	NA	NA	durr1987preliminary	NA
+21509	prom01	fish	tɨ-yakaʔ	tɨ-yakaʔ	52	NA	NA	durr1987preliminary	NA
 5452	tepe03	pez	dacha	dacha	52	NA	NA	belmar1902el-cuicateco	NA
 1879	tepo01	pescado	teyaca	teyaca	52	NA	NA	alvarado1593vocabulario	NA
 3178	tlah11	pescado	tyàká	tyàká	52	NA	NA	oxnard2020	NA
@@ -5206,6 +5235,7 @@ ID	DOCULECT	GLOSS	VALUE	FORM	IDlist	LOAN	LOAN_SOURCE	SOURCE	FLOATTONE
 9612	pino12	culebra	koo	koo	53	NA	NA	josserand1983mixtec	NA
 650	prog12	snake	koō	koō	53	NA	NA	shields1988syntactic	NA
 2391	prog12	snake	kòò	kòò	53	NA	NA	durr1987preliminary	NA
+21485	prom01	snake	kòòʔ	kòòʔ	53	NA	NA	durr1987preliminary	NA
 9613	prom01	culebra	kooʔ	kooʔ	53	NA	NA	josserand1983mixtec	NA
 9614	reye11	culebra	kòò	kòò	53	NA	NA	josserand1983mixtec	NA
 9615	sayu11	culebra	koo	koo	53	NA	NA	josserand1983mixtec	NA
@@ -5354,6 +5384,7 @@ ID	DOCULECT	GLOSS	VALUE	FORM	IDlist	LOAN	LOAN_SOURCE	SOURCE	FLOATTONE
 9723	prog11	rana	saʔwa	saʔwa	54	NA	NA	josserand1983mixtec	NA
 2398	prog12	frog	láʔƀà	láʔƀà	54	NA	NA	durr1987preliminary	NA
 9724	prog12	rana	laʔƀa	laʔƀa	54	NA	NA	josserand1983mixtec	NA
+21460	prom01	frog	láʔwà	láʔwà	54	NA	NA	durr1987preliminary	NA
 9725	prom01	rana	laʔwa	laʔwa	54	NA	NA	josserand1983mixtec	NA
 9727	reye11	rana	(ʔisu ki̧ni̧)	ʔisu-ki̧ni̧	54	NA	NA	josserand1983mixtec	NA
 9726	reye11	rana	lava	lava	54	NA	NA	josserand1983mixtec	NA
@@ -5971,6 +6002,7 @@ ID	DOCULECT	GLOSS	VALUE	FORM	IDlist	LOAN	LOAN_SOURCE	SOURCE	FLOATTONE
 652	prog12	mouse	tiín	tiín	60	NA	NA	shields1988syntactic	NA
 2404	prog12	rat	tì̧í̧	tì̧í̧	60	NA	NA	durr1987preliminary	NA
 10168	prog12	rata	ti̧i̧	ti̧i̧	60	NA	NA	josserand1983mixtec	NA
+21507	prom01	rat	tɨyɨ̧ʔ	tɨyɨ̧ʔ	60	NA	NA	durr1987preliminary	NA
 10170	prom01	rata	tɨyi̧ʔ	tɨyi̧ʔ	60	NA	NA	josserand1983mixtec	NA
 10169	prom01	rata	tɨyɨ̧ʔ	tɨyɨ̧ʔ	60	NA	NA	josserand1983mixtec	NA
 10171	reye11	rata	či̧i̧	či̧i̧	60	NA	NA	josserand1983mixtec	NA
@@ -6142,6 +6174,7 @@ ID	DOCULECT	GLOSS	VALUE	FORM	IDlist	LOAN	LOAN_SOURCE	SOURCE	FLOATTONE
 653	prog12	deer	uxu	uxu	61	NA	NA	shields1988syntactic	NA
 2412	prog12	deer	ǖhǖ	ǖhǖ	61	NA	NA	durr1987preliminary	NA
 10295	prog12	venado	ühü	ühü	61	NA	NA	josserand1983mixtec	NA
+21466	prom01	deer	ísù	ísù	61	NA	NA	durr1987preliminary	NA
 10296	prom01	venado	isu	isu	61	NA	NA	josserand1983mixtec	NA
 10297	reye11	venado	ʔusu	ʔusu	61	NA	NA	josserand1983mixtec	NA
 10298	sayu11	venado	isu	isu	61	NA	NA	josserand1983mixtec	NA
@@ -6495,6 +6528,7 @@ ID	DOCULECT	GLOSS	VALUE	FORM	IDlist	LOAN	LOAN_SOURCE	SOURCE	FLOATTONE
 3259	pied12	perro	tsìnâ	tsìnâ	68	NA	NA	oxnard2020	NA
 657	prog12	dog	tinā	t-inā	68	NA	NA	shields1988syntactic	NA
 2424	prog12	dog	t-ìnā	t-ìnā	68	NA	NA	durr1987preliminary	NA
+21467	prom01	dog	ínà	ínà	68	NA	NA	durr1987preliminary	NA
 5654	prom01	perro	(tɨ¹-)ínà²	tɨ¹-ínà²	68	NA	NA	swanton2020observaciones	NA
 5461	tepe03	perro	yana	yana	68	NA	NA	belmar1902el-cuicateco	NA
 1889	tepo01	perro	teina	teina	68	NA	NA	alvarado1593vocabulario	NA
@@ -6707,26 +6741,37 @@ ID	DOCULECT	GLOSS	VALUE	FORM	IDlist	LOAN	LOAN_SOURCE	SOURCE	FLOATTONE
 20854	yuta13	gallo	chéli	chéli	70	NA	NA	williams2017diccionario	NA
 55	abas11	gallina	chata	chata	71	NA	NA	galindo-sanchez2009vocabulario	NA
 1045	alac11	chicken	ndūshú	ndūshú	71	NA	NA	zylstra1991syntactic	NA
+21530	alac11	(turkey) hen	tì̧ú̧	tì̧ú̧	71	NA	NA	durr1987preliminary	NA
+21525	atat11	(turkey) hen	čù̧ú̧	čù̧ú̧	71	NA	NA	durr1987preliminary	NA
 5118	atat11	gallina	ndují	ndují	71	NA	NA	alexander1980gramatica	[B]
 788	ayut11	hen	ndushīh	ndushīh	71	NA	NA	hills1990syntactic	NA
+21529	ayut11	(turkey) hen	tʸù̧ù̧ʔ	tʸù̧ù̧ʔ	71	NA	NA	durr1987preliminary	NA
+21528	caca11	(turkey) hen	čò̧ò̧	čò̧ò̧	71	NA	NA	durr1987preliminary	NA
+21531	cahu11	(turkey) hen	tʸó̧ó̧	tʸó̧ó̧	71	NA	NA	durr1987preliminary	NA
 21283	chal11	hen, chicken	čũ̀ũ̀	čũ̀ũ̀	71	NA	NA	macaulay1996grammar	NA
 4009	chay11	gallina	ndɨvɨ	ndɨvɨ	71	NA	NA	pensinger1974diccionario	NA
 1695	chic02	gallina	Yuchehe	yuchehe	71	NA	NA	belmar1897ensayo	NA
 5975	chic12	gallina	xuche⁴	xuche⁴	71	NA	NA	good1978diccionario	NA
 21076	chic12	gallina	ʃu³tʃe³²	ʃu³tʃe³²	71	NA	NA	hernandez-mendoza2020vocabulario	NA
+21523	coat11	(turkey) hen	ȼú̧ǔ̧	ȼú̧ǔ̧	71	NA	NA	durr1987preliminary	NA
 4219	colo11	gallina, pollo	ndɨvɨ́	ndɨvɨ́	71	NA	NA	stark1986diccionario	NA
 1315	conc11	chicken	tūhū	tūhū	71	NA	NA	bradley1991preliminary	NA
 1539	copa11	hen, chicken	shuchee³²	shu-chee³²	71	NA	NA	hollenbach1992syntactic	NA
 1189	diux11	chicken	chūún	chūún	71	NA	NA	kuiper1991syntactic	NA
 20168	dura11	gallina, pollo	ntuxí	ntuxí	71	NA	NA	hernandez2020san-martin	NA
 3277	flor12	gallina	nchuxi	nchuxi	71	NA	NA	oxnard2020	NA
+21526	gran11	(turkey) hen	čù̧ú̧	čù̧ú̧	71	NA	NA	durr1987preliminary	NA
+21527	gran11	(turkey) hen	tī-ñùú	tī-ñùú	71	NA	NA	durr1987preliminary	NA
 20361	huen11	pollo	chili	chili	71	NA	NA	becerra-roldan2015un-estudio	NA
 6186	jica13	gallina	ntiuxí	ntiuxí	71	NA	NA	Emily John-Martin	NA
+21532	mixt11	(turkey) hen	čù̧ū̧	čù̧ū̧	71	NA	NA	durr1987preliminary	NA
 3278	mixt11	gallina	chùún	chùún	71	NA	NA	oxnard2020	NA
 533	ocot11	hen	n̄īhín	n̄īhín	71	NA	NA	alexander1988syntactic	NA
+21524	ocot11	(turkey) hen	čù̧ú̧	čù̧ú̧	71	NA	NA	durr1987preliminary	NA
 5270	papa11	gallina	tu¹ta¹'an⁴	tu-¹ta¹'an⁴	71	NA	NA	anderson1983diccionario	NA
 4922	pena11	gallina	tíla	tíla	71	NA	NA	hollenbach2017diccionario	
 3276	pied12	gallina	nchuxí	nchuxí	71	NA	NA	oxnard2020	NA
+21508	prom01	(turkey) hen	tɨ-yuu̧ʔ	tɨ-yuu̧ʔ	71	NA	NA	durr1987preliminary	NA
 5464	tepe03	gallina	tuu	tuu	71	NA	NA	belmar1902el-cuicateco	NA
 1895	tepo01	gallina	teñoo	teñoo	71	NA	NA	alvarado1593vocabulario	NA
 3275	tlah11	gallina	ndyuxí	ndyuxí	71	NA	NA	oxnard2020	NA
@@ -7544,6 +7589,7 @@ ID	DOCULECT	GLOSS	VALUE	FORM	IDlist	LOAN	LOAN_SOURCE	SOURCE	FLOATTONE
 665	prog12	tree	yíto	yíto	80	NA	NA	shields1988syntactic	NA
 2437	prog12	tree	žítò	žítò	80	NA	NA	durr1987preliminary	NA
 11099	prog12	árbol	žito	žito	80	NA	NA	josserand1983mixtec	NA
+21441	prom01	tree	yútú̧ʔ	yútú̧ʔ	80	NA	NA	durr1987preliminary	NA
 11100	prom01	árbol	yutu̧ʔ	yutu̧ʔ	80	NA	NA	josserand1983mixtec	NA
 5664	prom01	árbol	jútṹʔ	jútṹʔ	80	NA	NA	swanton2020observaciones	NA
 11101	reye11	árbol	ʔītò̧	ʔītò̧	80	NA	NA	josserand1983mixtec	NA
@@ -7688,6 +7734,7 @@ ID	DOCULECT	GLOSS	VALUE	FORM	IDlist	LOAN	LOAN_SOURCE	SOURCE	FLOATTONE
 11198	pino12	hierba	kuʔu	kuʔu	81	NA	NA	josserand1983mixtec	NA
 11199	pino12	hierba	yuku	yuku	81	NA	NA	josserand1983mixtec	NA
 2447	prog12	weeds	žǜkǜ	žǜkǜ	81	NA	NA	durr1987preliminary	NA
+21500	prom01	herb, bush	yùkù	yùkù	81	NA	NA	durr1987preliminary	NA
 11200	prom01	hierba	yuku	yuku	81	NA	NA	josserand1983mixtec	NA
 5669	prom01	hierba	jùkù	jùkù	81	NA	NA	swanton2020observaciones	NA
 11201	reye11	hierba	žùkù	žùkù	81	NA	NA	josserand1983mixtec	NA
@@ -7805,6 +7852,7 @@ ID	DOCULECT	GLOSS	VALUE	FORM	IDlist	LOAN	LOAN_SOURCE	SOURCE	FLOATTONE
 2448	peno11	flower	ìtá	ìtá	83	NA	NA	durr1987preliminary	NA
 3333	pied12	flor	ijtâ	ijtâ	83	NA	NA	oxnard2020	NA
 667	prog12	flower	ītā	ītā	83	NA	NA	shields1988syntactic	NA
+21465	prom01	flower	ítà	ítà	83	NA	NA	durr1987preliminary	NA
 5679	prom01	flor	ítà	ítà	83	NA	NA	swanton2020observaciones	NA
 5479	tepe03	flor	nanda	nanda	83	NA	NA	belmar1902el-cuicateco	NA
 1906	tepo01	flor	ita	ita	83	NA	NA	alvarado1593vocabulario	NA
@@ -8138,6 +8186,7 @@ ID	DOCULECT	GLOSS	VALUE	FORM	IDlist	LOAN	LOAN_SOURCE	SOURCE	FLOATTONE
 668	prog12	grain of corn	nuni	nuni	87	NA	NA	shields1988syntactic	NA
 2469	prog12	corn	nù̧nì̧	nù̧nì̧	87	NA	NA	durr1987preliminary	NA
 11435	prog12	maíz	nu̧ni̧	nu̧ni̧	87	NA	NA	josserand1983mixtec	NA
+21493	prom01	corn	nònìʔ	nònìʔ	87	NA	NA	durr1987preliminary	NA
 11436	prom01	maíz	noniʔ	noniʔ	87	NA	NA	josserand1983mixtec	NA
 5689	prom01	maíz	nònìʔ	nònìʔ	87	NA	NA	swanton2020observaciones	NA
 11437	reye11	maíz	no̧ni̧	no̧ni̧	87	NA	NA	josserand1983mixtec	NA
@@ -8660,6 +8709,7 @@ ID	DOCULECT	GLOSS	VALUE	FORM	IDlist	LOAN	LOAN_SOURCE	SOURCE	FLOATTONE
 671	prog12	tortilla	xita	xita	92	NA	NA	shields1988syntactic	NA
 2484	prog12	tortilla	hìtà	hìtà	92	NA	NA	durr1987preliminary	NA
 11794	prog12	tortilla	hita	hita	92	NA	NA	josserand1983mixtec	NA
+21488	prom01	tortilla	sìtàʔ	sìtàʔ	92	NA	NA	durr1987preliminary	NA
 11795	prom01	tortilla	sitaʔ	sitaʔ	92	NA	NA	josserand1983mixtec	NA
 11796	reye11	tortilla	šìtà	šìtà	92	NA	NA	josserand1983mixtec	NA
 11797	sayu11	tortilla	šita	šita	92	NA	NA	josserand1983mixtec	NA
@@ -9151,6 +9201,7 @@ ID	DOCULECT	GLOSS	VALUE	FORM	IDlist	LOAN	LOAN_SOURCE	SOURCE	FLOATTONE
 672	prog12	bean	ndúchu	ndúchu	96	NA	NA	shields1988syntactic	NA
 2496	prog12	beans	ⁿdǘčǜ	ⁿdǘčǜ	96	NA	NA	durr1987preliminary	NA
 12174	prog12	frijol(es)	ⁿdüči	ⁿdüči	96	NA	NA	josserand1983mixtec	NA
+21437	prom01	beans	ⁿdútíʔ	ⁿdútíʔ	96	NA	NA	durr1987preliminary	NA
 12175	prom01	frijol(es)	ⁿdutiʔ	ⁿdutiʔ	96	NA	NA	josserand1983mixtec	NA
 12176	reye11	frijol(es)	ⁿdūčì	ⁿdūčì	96	NA	NA	josserand1983mixtec	NA
 12177	sayu11	frijol(es)	ⁿdutʸi	ⁿdutʸi	96	NA	NA	josserand1983mixtec	NA
@@ -9340,6 +9391,7 @@ ID	DOCULECT	GLOSS	VALUE	FORM	IDlist	LOAN	LOAN_SOURCE	SOURCE	FLOATTONE
 3409	pied12	chile	ya'ǎ	ya'ǎ	98	NA	NA	oxnard2020	NA
 673	prog12	chili pepper	yáha	yáha	98	NA	NA	shields1988syntactic	NA
 2506	prog12	chile	žáʔà	žáʔà	98	NA	NA	durr1987preliminary	NA
+21446	prom01	chile	yáʔáʔ	yáʔáʔ	98	NA	NA	durr1987preliminary	NA
 5698	prom01	chile	jáʔáʔ	jáʔáʔ	98	NA	NA	swanton2020observaciones	NA
 1917	tepo01	chile	yaha	yaha	98	NA	NA	alvarado1593vocabulario	NA
 3408	tlah11	chile	ya'á	ya'á	98	NA	NA	oxnard2020	NA
@@ -9777,6 +9829,7 @@ ID	DOCULECT	GLOSS	VALUE	FORM	IDlist	LOAN	LOAN_SOURCE	SOURCE	FLOATTONE
 12606	prog11	caña	ⁿdoo	ⁿdoo	102	NA	NA	josserand1983mixtec	NA
 2514	prog12	cane	ⁿdòò	ⁿdòò	102	NA	NA	durr1987preliminary	NA
 12607	prog12	caña	ⁿdoo	ⁿdoo	102	NA	NA	josserand1983mixtec	NA
+21487	prom01	cane	ⁿdòòʔ	ⁿdòòʔ	102	NA	NA	durr1987preliminary	NA
 12608	prom01	caña	ⁿdooʔ	ⁿdooʔ	102	NA	NA	josserand1983mixtec	NA
 12609	reye11	caña	ⁿdòò	ⁿdòò	102	NA	NA	josserand1983mixtec	NA
 12610	sayu11	caña	ⁿdoo	ⁿdoo	102	NA	NA	josserand1983mixtec	NA
@@ -10753,6 +10806,7 @@ ID	DOCULECT	GLOSS	VALUE	FORM	IDlist	LOAN	LOAN_SOURCE	SOURCE	FLOATTONE
 13223	pino12	carne	ku̧ñu̧	ku̧ñu̧	114	NA	NA	josserand1983mixtec	NA
 13224	prog11	carne	ku̧ñu̧	ku̧ñu̧	114	NA	NA	josserand1983mixtec	NA
 13225	prog12	carne	ku̧ñu̧	ku̧ñu̧	114	NA	NA	josserand1983mixtec	NA
+21473	prom01	meat	kòyó̧	kòyó̧	114	NA	NA	durr1987preliminary	NA
 13226	prom01	carne	koyo̧	koyo̧	114	NA	NA	josserand1983mixtec	NA
 5718	prom01	carne	(ᴮ)-kójõ̀	ᴮ-kójõ̀	114	NA	NA	swanton2020observaciones	NA
 13227	reye11	carne	ku̧ñu̧	ku̧ñu̧	114	NA	NA	josserand1983mixtec	NA
@@ -10912,6 +10966,7 @@ ID	DOCULECT	GLOSS	VALUE	FORM	IDlist	LOAN	LOAN_SOURCE	SOURCE	FLOATTONE
 13344	prog11	comal	ʔiyo	ʔiyo	115	NA	NA	josserand1983mixtec	NA
 2532	prog12	comal	šòò	šòò	115	NA	NA	durr1987preliminary	NA
 13345	prog12	comal	šoo	šoo	115	NA	NA	josserand1983mixtec	NA
+21490	prom01	comal	xìyòʔ	xìyòʔ	115	NA	NA	durr1987preliminary	NA
 13346	prom01	comal	xiyoʔ	xiyoʔ	115	NA	NA	josserand1983mixtec	NA
 5723	prom01	comal	xìjòʔ	xìjòʔ	115	NA	NA	swanton2020observaciones	NA
 13347	reye11	comal	šižo	šižo	115	NA	NA	josserand1983mixtec	NA
@@ -11056,6 +11111,7 @@ ID	DOCULECT	GLOSS	VALUE	FORM	IDlist	LOAN	LOAN_SOURCE	SOURCE	FLOATTONE
 13443	pino11	olla	kisi	kisi	116	NA	NA	josserand1983mixtec	NA
 13444	pino12	olla	kɨsɨ	kɨsɨ	116	NA	NA	josserand1983mixtec	NA
 680	prog12	cooking pot	kixī	kixī	116	NA	NA	shields1988syntactic	NA
+21471	prom01	clay pot	kɨ̀sɨ́	kɨ̀sɨ́	116	NA	NA	durr1987preliminary	NA
 13445	prom01	olla	kɨsɨ	kɨsɨ	116	NA	NA	josserand1983mixtec	NA
 5728	prom01	olla	kɨ̀sɨ́	kɨ̀sɨ́	116	NA	NA	swanton2020observaciones	NA
 13446	reye11	olla	kìsī	kìsī	116	NA	NA	josserand1983mixtec	NA
@@ -12173,6 +12229,7 @@ ID	DOCULECT	GLOSS	VALUE	FORM	IDlist	LOAN	LOAN_SOURCE	SOURCE	FLOATTONE
 14216	pino12	hilo	yuʔwa	yuʔwa	127	NA	NA	josserand1983mixtec	NA
 14217	prog11	hilo	žoʔƀe	žoʔƀe	127	NA	NA	josserand1983mixtec	NA
 14218	prog12	hilo	žaʔƀa	žaʔƀa	127	NA	NA	josserand1983mixtec	NA
+21501	prom01	thread	yùʔwè	yùʔwè	127	NA	NA	durr1987preliminary	NA
 14219	prom01	hilo	yuʔwe	yuʔwe	127	NA	NA	josserand1983mixtec	NA
 5748	prom01	hilo	jùʔwè	jùʔwè	127	NA	NA	swanton2020observaciones	NA
 14220	reye11	hilo	žuʔƀa	žuʔƀa	127	NA	NA	josserand1983mixtec	NA
@@ -12226,15 +12283,18 @@ ID	DOCULECT	GLOSS	VALUE	FORM	IDlist	LOAN	LOAN_SOURCE	SOURCE	FLOATTONE
 14258	acat11	peine	kuka	kuka	128	NA	NA	josserand1983mixtec	NA
 14259	achi11	peine	kukʷa	kukʷa	128	NA	NA	josserand1983mixtec	NA
 14260	ahue11	peine	kʷìkà	kʷìkà	128	NA	NA	josserand1983mixtec	NA
+21537	alac11	comb	kʷìkà	kʷìkà	128	NA	NA	durr1987preliminary	NA
 14261	alac11	peine	kʷìkà	kʷìkà	128	NA	NA	josserand1983mixtec	NA
 14262	alco11	peine	wika	wika	128	NA	NA	josserand1983mixtec	NA
 14263	apas11	peine	kuka	kuka	128	NA	NA	josserand1983mixtec	NA
 14264	apoa11	peine	kukʷa	kukʷa	128	NA	NA	josserand1983mixtec	NA
+21534	atat11	comb	kūkà	kūkà	128	NA	NA	durr1987preliminary	NA
 14265	atat11	peine	kukā	kukā	128	NA	NA	josserand1983mixtec	NA
 14266	aten11	peine	kʷīkà	kʷīkà	128	NA	NA	josserand1983mixtec	NA
 14267	atoy11	peine	kuka	kuka	128	NA	NA	josserand1983mixtec	NA
 14268	ayut11	peine	vīʰka	vīʰka	128	NA	NA	josserand1983mixtec	NA
 14269	brav11	peine	kʷika	kʷika	128	NA	NA	josserand1983mixtec	NA
+21536	caca11	comb	kùkà	kùkà	128	NA	NA	durr1987preliminary	NA
 14270	caca11	peine	kuka	kuka	128	NA	NA	josserand1983mixtec	NA
 14271	cahu11	peine	kʷika	kʷika	128	NA	NA	josserand1983mixtec	NA
 21346	chal11	comb	kúkà	kúkà	128	NA	NA	macaulay1996grammar	NA
@@ -12261,6 +12321,7 @@ ID	DOCULECT	GLOSS	VALUE	FORM	IDlist	LOAN	LOAN_SOURCE	SOURCE	FLOATTONE
 14286	esta11	peine	kʷika	kʷika	128	NA	NA	josserand1983mixtec	NA
 14287	este11	peine	kuka	kuka	128	NA	NA	josserand1983mixtec	NA
 3561	flor12	peine	kuikà	kuikà	128	NA	NA	oxnard2020	NA
+21535	gran11	comb	kūkà	kūkà	128	NA	NA	durr1987preliminary	NA
 14288	gran11	peine	kukā	kukā	128	NA	NA	josserand1983mixtec	NA
 14289	guad11	peine	kʷìkà	kʷìkà	128	NA	NA	josserand1983mixtec	NA
 14290	huaz11	peine	kuka	kuka	128	NA	NA	josserand1983mixtec	NA
@@ -12279,6 +12340,7 @@ ID	DOCULECT	GLOSS	VALUE	FORM	IDlist	LOAN	LOAN_SOURCE	SOURCE	FLOATTONE
 14300	juxt11	peine	kʷìkà	kʷìkà	128	NA	NA	josserand1983mixtec	NA
 14301	lore11	peine	kuka	kuka	128	NA	NA	josserand1983mixtec	NA
 14302	mech11	peine	kuka	kuka	128	NA	NA	josserand1983mixtec	NA
+21538	mixt11	comb	kʷìkà	kʷìkà	128	NA	NA	durr1987preliminary	NA
 14303	mixt11	peine	kuika	kuika	128	NA	NA	josserand1983mixtec	NA
 3563	mixt11	peine	kwìkà	kwìkà	128	NA	NA	oxnard2020	NA
 14304	moli11	peine	kuka	kuka	128	NA	NA	josserand1983mixtec	NA
@@ -12292,11 +12354,13 @@ ID	DOCULECT	GLOSS	VALUE	FORM	IDlist	LOAN	LOAN_SOURCE	SOURCE	FLOATTONE
 14311	ocot11	peine	kʷìkà	kʷìkà	128	NA	NA	josserand1983mixtec	NA
 5330	papa11	peine	ca²ca⁴	ca²ca⁴	128	NA	NA	anderson1983diccionario	NA
 4986	pena11	peine	kukà	kukà	128	NA	NA	hollenbach2017diccionario	{BA}
+21533	peno11	comb	kúká	kúká	128	NA	NA	durr1987preliminary	NA
 14312	peno11	peine	kúká	kúká	128	NA	NA	josserand1983mixtec	NA
 14313	pied11	peine	kuka	kuka	128	NA	NA	josserand1983mixtec	NA
 3560	pied12	peine	kuijkà	kuijkà	128	NA	NA	oxnard2020	NA
 14314	pino11	peine	kuka	kuka	128	NA	NA	josserand1983mixtec	NA
 14315	pino12	peine	kuka	kuka	128	NA	NA	josserand1983mixtec	NA
+21496	prom01	comb	kùkà	kùkà	128	NA	NA	durr1987preliminary	NA
 14316	prom01	peine	kuka	kuka	128	NA	NA	josserand1983mixtec	NA
 14317	reye11	peine	kuka	kuka	128	NA	NA	josserand1983mixtec	NA
 14318	sayu11	peine	wika	wika	128	NA	NA	josserand1983mixtec	NA
@@ -12370,6 +12434,7 @@ ID	DOCULECT	GLOSS	VALUE	FORM	IDlist	LOAN	LOAN_SOURCE	SOURCE	FLOATTONE
 3565	pied12	mecate	yo'ǒ	yo'ǒ	129	NA	NA	oxnard2020	NA
 685	prog12	rope	yóho	yóho	129	NA	NA	shields1988syntactic	NA
 2563	prog12	rope	žóʔò	žóʔò	129	NA	NA	durr1987preliminary	NA
+21448	prom01	rope	yóʔóʔ	yóʔóʔ	129	NA	NA	durr1987preliminary	NA
 5753	prom01	mecate	jóʔóʔ	jóʔóʔ	129	NA	NA	swanton2020observaciones	NA
 1944	tepo01	cuerda	yoho	yoho	129	NA	NA	alvarado1593vocabulario	NA
 3564	tlah11	mecate	yo'ó	yo'ó	129	NA	NA	oxnard2020	NA
@@ -12456,6 +12521,7 @@ ID	DOCULECT	GLOSS	VALUE	FORM	IDlist	LOAN	LOAN_SOURCE	SOURCE	FLOATTONE
 14389	pino12	agujero	yaƀi	yaƀi	130	NA	NA	josserand1983mixtec	NA
 686	prog12	hole	yáve	yáve	130	NA	NA	shields1988syntactic	NA
 2574	prog12	hole	žáƀì	žáƀì	130	NA	NA	durr1987preliminary	NA
+21464	prom01	hole	yáwì	yáwì	130	NA	NA	durr1987preliminary	NA
 14390	prom01	agujero	yawi	yawi	130	NA	NA	josserand1983mixtec	NA
 14391	sayu11	agujero	yawi	yawi	130	NA	NA	josserand1983mixtec	NA
 14392	sind11	agujero	žau	žau	130	NA	NA	josserand1983mixtec	NA
@@ -12659,6 +12725,7 @@ ID	DOCULECT	GLOSS	VALUE	FORM	IDlist	LOAN	LOAN_SOURCE	SOURCE	FLOATTONE
 4990	pena11	jabón	namà	namà	132	NA	NA	hollenbach2017diccionario	{BA}
 2577	peno11	soap	námá	námá	132	NA	NA	durr1987preliminary	NA
 2585	prog12	soap	nà̧mà̧	nà̧mà̧	132	NA	NA	durr1987preliminary	NA
+21491	prom01	soap	nàwà̧ʔ	nàwà̧ʔ	132	NA	NA	durr1987preliminary	NA
 5508	tepe03	jabón	nama	nama	132	NA	NA	belmar1902el-cuicateco	NA
 1947	tepo01	jabón	nama	nama	132	NA	NA	alvarado1593vocabulario	NA
 3578	tlah11	jabón	nàma	nàma	132	NA	NA	oxnard2020	NA
@@ -12723,6 +12790,7 @@ ID	DOCULECT	GLOSS	VALUE	FORM	IDlist	LOAN	LOAN_SOURCE	SOURCE	FLOATTONE
 3582	pied12	luna	yòjǒ	yòjǒ	134	NA	NA	oxnard2020	NA
 687	prog12	moon	yoo	yoo	134	NA	NA	shields1988syntactic	NA
 2596	prog12	moon	žòò	žòò	134	NA	NA	durr1987preliminary	NA
+21495	prom01	moon	yòòʔ	yòòʔ	134	NA	NA	durr1987preliminary	NA
 5758	prom01	luna	jòòʔ	jòòʔ	134	NA	NA	swanton2020observaciones	NA
 1949	tepo01	luna	yoo	yoo	134	NA	NA	alvarado1593vocabulario	NA
 3581	tlah11	luna	yóǒ	yóǒ	134	NA	NA	oxnard2020	NA
@@ -12925,6 +12993,7 @@ ID	DOCULECT	GLOSS	VALUE	FORM	IDlist	LOAN	LOAN_SOURCE	SOURCE	FLOATTONE
 14614	prog11	agua	no̧te	no̧te	137	NA	NA	josserand1983mixtec	NA
 688	prog12	water	tikwií	tikwií	137	NA	NA	shields1988syntactic	NA
 14615	prog12	agua	ti-kʷii	ti-kʷii	137	NA	NA	josserand1983mixtec	NA
+21438	prom01	water	ⁿdútéʔ	ⁿdútéʔ	137	NA	NA	durr1987preliminary	NA
 14616	prom01	agua	ⁿdute	ⁿdute	137	NA	NA	josserand1983mixtec	NA
 14617	reye11	agua	či-kʷii	či-kʷii	137	NA	NA	josserand1983mixtec	NA
 14618	sayu11	agua	ta-kʷii	ta-kʷii	137	NA	NA	josserand1983mixtec	NA
@@ -13255,6 +13324,7 @@ ID	DOCULECT	GLOSS	VALUE	FORM	IDlist	LOAN	LOAN_SOURCE	SOURCE	FLOATTONE
 690	prog12	river	yutā	yutā	139	NA	NA	shields1988syntactic	NA
 2616	prog12	river	žǜtā	žǜtā	139	NA	NA	durr1987preliminary	NA
 14868	prog12	río	žuta	žuta	139	NA	NA	josserand1983mixtec	NA
+21478	prom01	river	yùté	yùté	139	NA	NA	durr1987preliminary	NA
 14869	prom01	río	yute	yute	139	NA	NA	josserand1983mixtec	NA
 5768	prom01	río	jùté	jùté	139	NA	NA	swanton2020observaciones	NA
 14870	reye11	río	žiča	žiča	139	NA	NA	josserand1983mixtec	NA
@@ -13538,6 +13608,7 @@ ID	DOCULECT	GLOSS	VALUE	FORM	IDlist	LOAN	LOAN_SOURCE	SOURCE	FLOATTONE
 691	prog12	mountain	yúku	yúku	141	NA	NA	shields1988syntactic	NA
 2624	prog12	mountain	žǘkǜ	žǘkǜ	141	NA	NA	durr1987preliminary	NA
 15079	prog12	cerro	žükü	žükü	141	NA	NA	josserand1983mixtec	NA
+21442	prom01	mountain	yúkúʔ	yúkúʔ	141	NA	NA	durr1987preliminary	NA
 15080	prom01	cerro	yukuʔ	yukuʔ	141	NA	NA	josserand1983mixtec	NA
 15081	reye11	cerro	žuku	žuku	141	NA	NA	josserand1983mixtec	NA
 15082	sayu11	cerro	yuku	yuku	141	NA	NA	josserand1983mixtec	NA
@@ -13864,6 +13935,7 @@ ID	DOCULECT	GLOSS	VALUE	FORM	IDlist	LOAN	LOAN_SOURCE	SOURCE	FLOATTONE
 15327	prog11	piedra	yuu	yuu	143	NA	NA	josserand1983mixtec	NA
 692	prog12	stone	yuu	yuu	143	NA	NA	shields1988syntactic	NA
 15328	prog12	piedra	žuu	žuu	143	NA	NA	josserand1983mixtec	NA
+21494	prom01	stone	yùùʔ	yùùʔ	143	NA	NA	durr1987preliminary	NA
 15329	prom01	piedra	yuuʔ	yuuʔ	143	NA	NA	josserand1983mixtec	NA
 5778	prom01	piedra	jùùʔ	jùùʔ	143	NA	NA	swanton2020observaciones	NA
 15330	reye11	piedra	žùù	žùù	143	NA	NA	josserand1983mixtec	NA
@@ -14027,6 +14099,7 @@ ID	DOCULECT	GLOSS	VALUE	FORM	IDlist	LOAN	LOAN_SOURCE	SOURCE	FLOATTONE
 693	prog12	cotton	kāchī	kāchī	144	NA	NA	shields1988syntactic	NA
 2648	prog12	cotton	kàčì	kàčì	144	NA	NA	durr1987preliminary	NA
 15445	prog12	algodón	kači	kači	144	NA	NA	josserand1983mixtec	NA
+21484	prom01	cotton	kàtìʔ	kàtìʔ	144	NA	NA	durr1987preliminary	NA
 15446	prom01	algodón	katiʔ	katiʔ	144	NA	NA	josserand1983mixtec	NA
 5783	prom01	algodón	kàtìʔ	kàtìʔ	144	NA	NA	swanton2020observaciones	NA
 15447	reye11	algodón	kači	kači	144	NA	NA	josserand1983mixtec	NA
@@ -14165,6 +14238,7 @@ ID	DOCULECT	GLOSS	VALUE	FORM	IDlist	LOAN	LOAN_SOURCE	SOURCE	FLOATTONE
 15534	pino12	fierro	tu̧ni̧	tu̧ni̧	145	NA	NA	josserand1983mixtec	NA
 694	prog12	metal	kaā	kaā	145	NA	NA	shields1988syntactic	NA
 2661	prog12	metal	kàà	kàà	145	NA	NA	durr1987preliminary	NA
+21472	prom01	metal	kàá	kàá	145	NA	NA	durr1987preliminary	NA
 15535	prom01	fierro	tuni	tuni	145	NA	NA	josserand1983mixtec	NA
 5788	prom01	metal	ᴮ-káà	ᴮ-káà	145	NA	NA	swanton2020observaciones	NA
 15536	reye11	fierro	to̧ñi̧	to̧ñi̧	145	NA	NA	josserand1983mixtec	NA
@@ -14247,6 +14321,7 @@ ID	DOCULECT	GLOSS	VALUE	FORM	IDlist	LOAN	LOAN_SOURCE	SOURCE	FLOATTONE
 3646	pied12	papel	tujtû	tujtû	146	NA	NA	oxnard2020	NA
 695	prog12	paper	tūtū	tūtū	146	NA	NA	shields1988syntactic	NA
 2674	prog12	paper	tǖtǖ	tǖtǖ	146	NA	NA	durr1987preliminary	NA
+21455	prom01	paper	tútù	tútù	146	NA	NA	durr1987preliminary	NA
 5793	prom01	papel	tútù	tútù	146	NA	NA	swanton2020observaciones	NA
 5519	tepe03	papel	kaka	kaka	146	NA	NA	belmar1902el-cuicateco	NA
 1961	tepo01	papel blanco	tutu	tutu	146	NA	NA	alvarado1593vocabulario	NA
@@ -14289,6 +14364,7 @@ ID	DOCULECT	GLOSS	VALUE	FORM	IDlist	LOAN	LOAN_SOURCE	SOURCE	FLOATTONE
 5005	pena11	cal	kakà	kakà	147	NA	NA	hollenbach2017diccionario	{BA}
 2677	peno11	lime	kàkà	kàkà	147	NA	NA	durr1987preliminary	NA
 3650	pied12	cal	kajkâ	kajkâ	147	NA	NA	oxnard2020	NA
+21457	prom01	lime	kákà	kákà	147	NA	NA	durr1987preliminary	NA
 5520	tepe03	cal	kaka	kaka	147	NA	NA	belmar1902el-cuicateco	NA
 1962	tepo01	cal	caca	caca	147	NA	NA	alvarado1593vocabulario	NA
 3649	tlah11	cal	kaka	kaka	147	NA	NA	oxnard2020	NA
@@ -14891,6 +14967,7 @@ ID	DOCULECT	GLOSS	VALUE	FORM	IDlist	LOAN	LOAN_SOURCE	SOURCE	FLOATTONE
 698	prog12	red	ndī-kwáhá	kwáhá	152	NA	NA	shields1988syntactic	NA
 2695	prog12	red	kʷáʔá	kʷáʔá	152	NA	NA	durr1987preliminary	NA
 16003	prog12	rojo	kuʔa	kuʔa	152	NA	NA	josserand1983mixtec	NA
+21516	prom01	red	kʷeʔe	kʷeʔe	152	NA	NA	durr1987preliminary	NA
 16004	prom01	rojo	kʷeʔe	kʷeʔe	152	NA	NA	josserand1983mixtec	NA
 5798	prom01	rojo, colorado	ʔ-kʷéʔè	ʔ-kʷéʔè	152	NA	NA	swanton2020observaciones	NA
 16005	reye11	rojo	kʷáʔá	kʷáʔá	152	NA	NA	josserand1983mixtec	NA
@@ -14975,6 +15052,7 @@ ID	DOCULECT	GLOSS	VALUE	FORM	IDlist	LOAN	LOAN_SOURCE	SOURCE	FLOATTONE
 3681	pied12	verde	kuijǐ	kuijǐ	153	NA	NA	oxnard2020	NA
 699	prog12	green	kwíi	kwíi	153	NA	NA	shields1988syntactic	NA
 2703	prog12	green	kʷíī	kʷíī	153	NA	NA	durr1987preliminary	NA
+21514	prom01	green	kʷiiʔ	kʷiiʔ	153	NA	NA	durr1987preliminary	NA
 5803	prom01	verde	ʔ-kʷììʔ	ʔ-kʷììʔ	153	NA	NA	swanton2020observaciones	NA
 5526	tepe03	verde	kuee	kuee	153	NA	NA	belmar1902el-cuicateco	NA
 1970	tepo01	color verde	sayadza	yadza	153	NA	NA	alvarado1593vocabulario	NA
@@ -15101,6 +15179,7 @@ ID	DOCULECT	GLOSS	VALUE	FORM	IDlist	LOAN	LOAN_SOURCE	SOURCE	FLOATTONE
 16117	prog11	amarillo	kʷa̧a̧	kʷa̧a̧	154	NA	NA	josserand1983mixtec	NA
 700	prog12	yellow	kwáán	kwáán	154	NA	NA	shields1988syntactic	NA
 2718	prog12	yellow	kʷá̧á̧	kʷá̧á̧	154	NA	NA	durr1987preliminary	NA
+21517	prom01	yellow	kʷaa̧	kʷaa̧	154	NA	NA	durr1987preliminary	NA
 16118	prom01	amarillo	kʷaa̧	kʷaa̧	154	NA	NA	josserand1983mixtec	NA
 5808	prom01	amarillo	ʔ-kʷáã̀	ʔ-kʷáã̀	154	NA	NA	swanton2020observaciones	NA
 16119	reye11	amarillo	kʷa̧a̧	kʷa̧a̧	154	NA	NA	josserand1983mixtec	NA
@@ -15188,6 +15267,7 @@ ID	DOCULECT	GLOSS	VALUE	FORM	IDlist	LOAN	LOAN_SOURCE	SOURCE	FLOATTONE
 3691	pied12	negro	tùjǔn	tùjǔn	155	NA	NA	oxnard2020	NA
 3696	pied12	negro	ntsiayì	ntsiayì	155	NA	NA	oxnard2020	NA
 2726	prog12	black	tù̧ú̧	tù̧ú̧	155	NA	NA	durr1987preliminary	NA
+21510	prom01	black	tuu̧ʔ	tuu̧ʔ	155	NA	NA	durr1987preliminary	NA
 5528	tepe03	negro	kuain	kuain	155	NA	NA	belmar1902el-cuicateco	NA
 1974	tepo01	color negro	sandayu satnoo ~ tnoo naa	tnoo	155	NA	NA	alvarado1593vocabulario	NA
 3690	tlah11	negro	tùú	tùú	155	NA	NA	oxnard2020	NA
@@ -15231,6 +15311,7 @@ ID	DOCULECT	GLOSS	VALUE	FORM	IDlist	LOAN	LOAN_SOURCE	SOURCE	FLOATTONE
 2728	peno11	white	kʷîší̧	kʷîší̧	156	NA	NA	durr1987preliminary	NA
 3699	pied12	blanco	yaa	yaa	156	NA	NA	oxnard2020	NA
 701	prog12	white	yāā	yāā	156	NA	NA	shields1988syntactic	NA
+21513	prom01	white	kʷixi̧	kʷixi̧	156	NA	NA	durr1987preliminary	NA
 5529	tepe03	blanco	kuá	kuá	156	NA	NA	belmar1902el-cuicateco	NA
 1976	tepo01	color blanco	sacuisi	cuisi	156	NA	NA	alvarado1593vocabulario	NA
 3698	tlah11	blanco	yaa	yaa	156	NA	NA	oxnard2020	NA
@@ -15283,6 +15364,7 @@ ID	DOCULECT	GLOSS	VALUE	FORM	IDlist	LOAN	LOAN_SOURCE	SOURCE	FLOATTONE
 3704	pied12	uno	iin	iin	157	NA	NA	oxnard2020	NA
 702	prog12	one	īn	īn	157	NA	NA	shields1988syntactic	NA
 2746	prog12	one	ī̧ī̧	ī̧ī̧	157	NA	NA	durr1987preliminary	NA
+21454	prom01	one	ɨ́ɨ̧́	ɨ́ɨ̧́	157	NA	NA	durr1987preliminary	NA
 5530	tepe03	uno	ama	ama	157	NA	NA	belmar1902el-cuicateco	NA
 1977	tepo01	uno	ee	ee	157	NA	NA	alvarado1593vocabulario	NA
 3703	tlah11	uno	iin	iin	157	NA	NA	oxnard2020	NA
@@ -15415,6 +15497,7 @@ ID	DOCULECT	GLOSS	VALUE	FORM	IDlist	LOAN	LOAN_SOURCE	SOURCE	FLOATTONE
 703	prog12	two	ivi	ivi	158	NA	NA	shields1988syntactic	NA
 2758	prog12	two	ìƀì	ìƀì	158	NA	NA	durr1987preliminary	NA
 16236	prog12	dos	ʔiƀi	ʔiƀi	158	NA	NA	josserand1983mixtec	NA
+21504	prom01	two	ùwì	ùwì	158	NA	NA	durr1987preliminary	NA
 16237	prom01	dos	uwi	uwi	158	NA	NA	josserand1983mixtec	NA
 5813	prom01	dos	ùwì	ùwì	158	NA	NA	swanton2020observaciones	NA
 16238	reye11	dos	ʔuvi	ʔuvi	158	NA	NA	josserand1983mixtec	NA
@@ -15749,6 +15832,7 @@ ID	DOCULECT	GLOSS	VALUE	FORM	IDlist	LOAN	LOAN_SOURCE	SOURCE	FLOATTONE
 705	prog12	four	komi	komi	160	NA	NA	shields1988syntactic	NA
 2773	prog12	four	kòmì	kòmì	160	NA	NA	durr1987preliminary	NA
 16477	prog12	cuatro	ku̧mi̧	ku̧mi̧	160	NA	NA	josserand1983mixtec	NA
+21482	prom01	four	kɨ̀wì̧ʔ	kɨ̀wì̧ʔ	160	NA	NA	durr1987preliminary	NA
 16480	prom01	cuatro	ki̧wi̧ʔ	ki̧wi̧ʔ	160	NA	NA	josserand1983mixtec	NA
 16479	prom01	cuatro	kɨwi̧ʔ	kɨwi̧ʔ	160	NA	NA	josserand1983mixtec	NA
 16478	prom01	cuatro	kɨwɨ̧ʔ	kɨwɨ̧ʔ	160	NA	NA	josserand1983mixtec	NA
@@ -15923,6 +16007,7 @@ ID	DOCULECT	GLOSS	VALUE	FORM	IDlist	LOAN	LOAN_SOURCE	SOURCE	FLOATTONE
 706	prog12	five	uhun	uhun	161	NA	NA	shields1988syntactic	NA
 2783	prog12	five	ù̧ʔù̧	ù̧ʔù̧	161	NA	NA	durr1987preliminary	NA
 16600	prog12	cinco	u̧ʔu̧	u̧ʔu̧	161	NA	NA	josserand1983mixtec	NA
+21505	prom01	five	òʔò̧	òʔò̧	161	NA	NA	durr1987preliminary	NA
 16601	prom01	cinco	oʔo	oʔo	161	NA	NA	josserand1983mixtec	NA
 16602	prom01	cinco	oʔo̧	oʔo̧	161	NA	NA	josserand1983mixtec	NA
 5818	prom01	cinco	òʔõ̀	òʔõ̀	161	NA	NA	swanton2020observaciones	NA
@@ -16477,6 +16562,7 @@ ID	DOCULECT	GLOSS	VALUE	FORM	IDlist	LOAN	LOAN_SOURCE	SOURCE	FLOATTONE
 3744	pied12	nueve	ììn	ììn	165	NA	NA	oxnard2020	NA
 710	prog12	nine	in	in	165	NA	NA	shields1988syntactic	NA
 2794	prog12	nine	ì̧ì̧	ì̧ì̧	165	NA	NA	durr1987preliminary	NA
+21503	prom01	nine	ɨ̀ɨ̧̀	ɨ̀ɨ̧̀	165	NA	NA	durr1987preliminary	NA
 5538	tepe03	nueve	nuu	nuu	165	NA	NA	belmar1902el-cuicateco	NA
 1985	tepo01	nueve	ee	ee	165	NA	NA	alvarado1593vocabulario	NA
 3743	tlah11	nueve	iìn	iìn	165	NA	NA	oxnard2020	NA
@@ -16945,6 +17031,7 @@ ID	DOCULECT	GLOSS	VALUE	FORM	IDlist	LOAN	LOAN_SOURCE	SOURCE	FLOATTONE
 17298	prog11	pobre	na̧ʔƀi	na̧ʔƀi	169	NA	NA	josserand1983mixtec	NA
 714	prog12	poor	ndahví	ndahví	169	NA	NA	shields1988syntactic	NA
 17299	prog12	pobre	ⁿdaʔƀi	ⁿdaʔƀi	169	NA	NA	josserand1983mixtec	NA
+21518	prom01	poor	ⁿdaʔwi	ⁿdaʔwi	169	NA	NA	durr1987preliminary	NA
 17300	prom01	pobre	ⁿdaʔwi	ⁿdaʔwi	169	NA	NA	josserand1983mixtec	NA
 5828	prom01	pobre	ʔ-ⁿdáʔwì	ʔ-ⁿdáʔwì	169	NA	NA	swanton2020observaciones	NA
 17301	reye11	pobre	ku-ⁿdaʔvi	ku-ⁿdaʔvi	169	NA	NA	josserand1983mixtec	NA
@@ -17144,6 +17231,7 @@ ID	DOCULECT	GLOSS	VALUE	FORM	IDlist	LOAN	LOAN_SOURCE	SOURCE	FLOATTONE
 17416	prog11	frío	mi̧xi̧	mi̧xi̧	171	NA	NA	josserand1983mixtec	NA
 2818	prog12	cold	ƀīšī	ƀīšī	171	NA	NA	durr1987preliminary	NA
 17417	prog12	frío	ƀiši	ƀiši	171	NA	NA	josserand1983mixtec	NA
+21479	prom01	cold	wìxí̧	wìxí̧	171	NA	NA	durr1987preliminary	NA
 17418	prom01	frío	wixi̧	wixi̧	171	NA	NA	josserand1983mixtec	NA
 5833	prom01	frio	wìxĩ́	wìxĩ́	171	NA	NA	swanton2020observaciones	NA
 17419	reye11	frío	ƀìši̧	ƀìši̧	171	NA	NA	josserand1983mixtec	NA
@@ -17443,6 +17531,7 @@ ID	DOCULECT	GLOSS	VALUE	FORM	IDlist	LOAN	LOAN_SOURCE	SOURCE	FLOATTONE
 717	prog12	big.SG	káhnū	káhnū	173	NA	NA	shields1988syntactic	NA
 2828	prog12	big.SG	káʔnū	káʔnū	173	NA	NA	durr1987preliminary	NA
 17627	prog12	grande (sg.)	kaʔnu̧	kaʔnu̧	173	NA	NA	josserand1983mixtec	NA
+21512	prom01	big.SG	kaʔnú	kaʔnú	173	NA	NA	durr1987preliminary	NA
 17629	prom01	grande (sg.)	kaʔnu	kaʔnu	173	NA	NA	josserand1983mixtec	NA
 17628	prom01	grande (sg.)	kaʔnuʔ	kaʔnuʔ	173	NA	NA	josserand1983mixtec	NA
 5838	prom01	grande	(ʔ²)-káʔnó	ʔ²-káʔnó	173	NA	NA	swanton2020observaciones	NA
@@ -17652,6 +17741,7 @@ ID	DOCULECT	GLOSS	VALUE	FORM	IDlist	LOAN	LOAN_SOURCE	SOURCE	FLOATTONE
 719	prog12	small.SG	lōhō	lōhō	175	NA	NA	shields1988syntactic	NA
 2842	prog12	little.SG	lōʔō	lōʔō	175	NA	NA	durr1987preliminary	NA
 17753	prog12	chico	loʔo	loʔo	175	NA	NA	josserand1983mixtec	NA
+21521	prom01	little.SG	luʔu	luʔu	175	NA	NA	durr1987preliminary	NA
 17754	prom01	chico	luʔu	luʔu	175	NA	NA	josserand1983mixtec	NA
 17755	reye11	chico	luu	luu	175	NA	NA	josserand1983mixtec	NA
 17756	sayu11	chico	luʔu	luʔu	175	NA	NA	josserand1983mixtec	NA
@@ -17739,6 +17829,7 @@ ID	DOCULECT	GLOSS	VALUE	FORM	IDlist	LOAN	LOAN_SOURCE	SOURCE	FLOATTONE
 5042	pena11	pequeño.PL, chico.PL	líkín	líkín	176	NA	NA	hollenbach2017diccionario	[A/B]
 5043	pena11	pequeño.PL, chico.PL	kuéchí	kuéchí	176	NA	NA	hollenbach2017diccionario	[A]
 720	prog12	small.PL	válí	válí	176	NA	NA	shields1988syntactic	NA
+21515	prom01	small (in pieces)	kʷeti	kʷeti	176	NA	NA	durr1987preliminary	NA
 3792	tlah11	pequeño.PL	válí	válí	176	NA	NA	oxnard2020	NA
 3796	tlah11	pequeño (en pedazos?)	sava vali	sava-vali	176	NA	NA	oxnard2020	NA
 2848	xaya11	small (in pieces)	kʷātī	kʷātī	176	NA	NA	durr1987preliminary	NA
@@ -17784,6 +17875,7 @@ ID	DOCULECT	GLOSS	VALUE	FORM	IDlist	LOAN	LOAN_SOURCE	SOURCE	FLOATTONE
 2853	peno11	long.SG	kâní	kâní	177	NA	NA	durr1987preliminary	NA
 3800	pied12	largo.SG	kajnǐ	kajnǐ	177	NA	NA	oxnard2020	NA
 721	prog12	long.SG	kānī	kānī	177	NA	NA	shields1988syntactic	NA
+21511	prom01	long.SG	kaniʔ	kaniʔ	177	NA	NA	durr1987preliminary	NA
 5548	tepe03	largo	chianu	chianu	177	NA	NA	belmar1902el-cuicateco	NA
 2004	tepo01	largo como cordel o palo	cani	cani	177	NA	NA	alvarado1593vocabulario	NA
 3799	tlah11	largo.SG	kâni	kâni	177	NA	NA	oxnard2020	NA
@@ -17920,6 +18012,7 @@ ID	DOCULECT	GLOSS	VALUE	FORM	IDlist	LOAN	LOAN_SOURCE	SOURCE	FLOATTONE
 17857	pino12	bueno	ƀaʔa	ƀaʔa	179	NA	NA	josserand1983mixtec	NA
 723	prog12	good	vahā	vahā	179	NA	NA	shields1988syntactic	NA
 2877	prog12	good	ƀàʔā	ƀàʔā	179	NA	NA	durr1987preliminary	NA
+21480	prom01	good	wàʔá	wàʔá	179	NA	NA	durr1987preliminary	NA
 17858	prom01	bueno	waʔa	waʔa	179	NA	NA	josserand1983mixtec	NA
 17859	reye11	bueno	ƀaʔa	ƀaʔa	179	NA	NA	josserand1983mixtec	NA
 17860	sayu11	bueno	waʔa	waʔa	179	NA	NA	josserand1983mixtec	NA
@@ -18072,6 +18165,7 @@ ID	DOCULECT	GLOSS	VALUE	FORM	IDlist	LOAN	LOAN_SOURCE	SOURCE	FLOATTONE
 724	prog12	sweet	tó-vixi	vixi	180	NA	NA	shields1988syntactic	NA
 2889	prog12	sweet	ƀìhì	ƀìhì	180	NA	NA	durr1987preliminary	NA
 17965	prog12	dulce	kʷiʔi	kʷiʔi	180	NA	NA	josserand1983mixtec	NA
+21502	prom01	sweet	wìsì̧	wìsì̧	180	NA	NA	durr1987preliminary	NA
 17966	prom01	dulce	wisi̧	wisi̧	180	NA	NA	josserand1983mixtec	NA
 17967	reye11	dulce	ƀušu	ƀušu	180	NA	NA	josserand1983mixtec	NA
 17968	sayu11	dulce	wiši	wiši	180	NA	NA	josserand1983mixtec	NA
@@ -18524,6 +18618,7 @@ ID	DOCULECT	GLOSS	VALUE	FORM	IDlist	LOAN	LOAN_SOURCE	SOURCE	FLOATTONE
 2890	peno11	new	sàà	sàà	185	NA	NA	durr1987preliminary	NA
 3836	pied12	nuevo	xàá	xàá	185	NA	NA	oxnard2020	NA
 2898	prog12	new	sàá	sàá	185	NA	NA	durr1987preliminary	NA
+21520	prom01	new	xee	xee	185	NA	NA	durr1987preliminary	NA
 5553	tepe03	nuevo	ngai	ngai	185	NA	NA	belmar1902el-cuicateco	NA
 2017	tepo01	nuevo	sasaa	saa	185	NA	NA	alvarado1593vocabulario	NA
 3835	tlah11	nuevo	xàá	xàá	185	NA	NA	oxnard2020	NA
@@ -19660,6 +19755,7 @@ ID	DOCULECT	GLOSS	VALUE	FORM	IDlist	LOAN	LOAN_SOURCE	SOURCE	FLOATTONE
 19069	prog11	ayer	iku	iku	195	NA	NA	josserand1983mixtec	NA
 731	prog12	yesterday	kūnī	kūnī	195	NA	NA	shields1988syntactic	NA
 19070	prog12	ayer	kuni	kuni	195	NA	NA	josserand1983mixtec	NA
+21453	prom01	yesterday	íkú	íkú	195	NA	NA	durr1987preliminary	NA
 19071	prom01	ayer	iku	iku	195	NA	NA	josserand1983mixtec	NA
 5871	prom01	ayer	íkú-(ní)	íkú-ní	195	NA	NA	swanton2020observaciones	NA
 19072	reye11	ayer	koni	koni	195	NA	NA	josserand1983mixtec	NA
@@ -19828,6 +19924,7 @@ ID	DOCULECT	GLOSS	VALUE	FORM	IDlist	LOAN	LOAN_SOURCE	SOURCE	FLOATTONE
 732	prog12	year	kwyaa	kwyaa	196	NA	NA	shields1988syntactic	NA
 2915	prog12	year	kʷyàà	kʷyàà	196	NA	NA	durr1987preliminary	NA
 19187	prog12	año	kʷia	kʷia	196	NA	NA	josserand1983mixtec	NA
+21498	prom01	year	kʷìyà	kʷìyà	196	NA	NA	durr1987preliminary	NA
 19188	prom01	año	kʷiya	kʷiya	196	NA	NA	josserand1983mixtec	NA
 19189	reye11	año	koia	koia	196	NA	NA	josserand1983mixtec	NA
 19190	reye11	año	kuia	kuia	196	NA	NA	josserand1983mixtec	NA
@@ -19981,6 +20078,7 @@ ID	DOCULECT	GLOSS	VALUE	FORM	IDlist	LOAN	LOAN_SOURCE	SOURCE	FLOATTONE
 19290	pino12	ahora	ƀiti̧	ƀiti̧	197	NA	NA	josserand1983mixtec	NA
 733	prog12	now, today	vītī	vītī	197	NA	NA	shields1988syntactic	NA
 2927	prog12	now	ƀītī	ƀītī	197	NA	NA	durr1987preliminary	NA
+21451	prom01	now	wítí̧	wítí̧	197	NA	NA	durr1987preliminary	NA
 19291	prom01	ahora	witi̧	witi̧	197	NA	NA	josserand1983mixtec	NA
 5876	prom01	ahora	wítĩ́	wítĩ́	197	NA	NA	swanton2020observaciones	NA
 19292	reye11	ahora	ƀiči	ƀiči	197	NA	NA	josserand1983mixtec	NA
@@ -20287,6 +20385,7 @@ ID	DOCULECT	GLOSS	VALUE	FORM	IDlist	LOAN	LOAN_SOURCE	SOURCE	FLOATTONE
 736	prog12	day	ndīví	ndīví	200	NA	NA	shields1988syntactic	NA
 2937	prog12	day	kìƀì	kìƀì	200	NA	NA	durr1987preliminary	NA
 19491	prog12	día	kiƀi	kiƀi	200	NA	NA	josserand1983mixtec	NA
+21483	prom01	day	kɨ̀wɨ̀ʔ	kɨ̀wɨ̀ʔ	200	NA	NA	durr1987preliminary	NA
 19492	prom01	día	kɨwɨʔ	kɨwɨʔ	200	NA	NA	josserand1983mixtec	NA
 19493	reye11	día	kìvì	kìvì	200	NA	NA	josserand1983mixtec	NA
 19494	sayu11	día	kiwi	kiwi	200	NA	NA	josserand1983mixtec	NA
@@ -20519,28 +20618,39 @@ ID	DOCULECT	GLOSS	VALUE	FORM	IDlist	LOAN	LOAN_SOURCE	SOURCE	FLOATTONE
 19652	zapo11	mitad	đawa	đawa	202	NA	NA	josserand1983mixtec	NA
 167	abas11	dinero	xu'un	xu'un	203	NA	NA	galindo-sanchez2009vocabulario	NA
 1134	alac11	money	sihún	sihún	203	NA	NA	zylstra1991syntactic	NA
+21543	atat11	precious metal	šù̧ʔú̧	šù̧ʔú̧	203	NA	NA	durr1987preliminary	NA
 5195	atat11	dinero	xūhún	xūhún	203	NA	NA	alexander1980gramatica	[B]
 877	ayut11	money	shuhūnh	shuhūnh	203	NA	NA	hills1990syntactic	NA
+21545	ayut11	precious metal	šù̧ʔú̧ʔ	šù̧ʔú̧ʔ	203	NA	NA	durr1987preliminary	NA
 21429	chal11	money	šũʔũ	šũʔũ	203	NA	NA	macaulay1996grammar	NA
 4142	chay11	dinero	xuhun	xuhun	203	NA	NA	pensinger1974diccionario	NA
 1817	chic02	dinero	Tsaàha	tsaàha	203	NA	NA	belmar1897ensayo	NA
 6109	chic12	dinero	san'anj⁴an	san'anj⁴an	203	NA	NA	good1978diccionario	NA
 21204	chic12	dinero	sa³ˀã³²ʰ	sa³ˀã³²ʰ	203	NA	NA	hernandez-mendoza2020vocabulario	NA
 1000	coat11	money	dyuhun	dyuhun	203	NA	NA	small1990syntactic	NA
+21540	coat11	precious metal	đyúʔǔ	đyúʔǔ	203	NA	NA	durr1987preliminary	NA
 4356	colo11	dinero	xùhùn	xùhùn	203	NA	NA	stark1986diccionario	NA
 1633	copa11	money	sahanx³²	sahanx³²	203	NA	NA	hollenbach1992syntactic	NA
 1281	diux11	money	tviní	tviní	203	yes	Old Spanish	kuiper1991syntactic	NA
 20306	dura11	dinero	shù'ún	shù'ún	203	NA	NA	hernandez2020san-martin	NA
 3920	flor12	dinero	xù'ún	xù'ún	203	NA	NA	oxnard2020	NA
+21544	gran11	precious metal	šù̧ʔú̧	šù̧ʔú̧	203	NA	NA	durr1987preliminary	NA
 489	jami11	money	shuhun	shuhun	203	NA	NA	johnson1988syntactic	NA
+21548	jica11	precious metal	šú̧ʔú̧	šú̧ʔú̧	203	NA	NA	durr1987preliminary	NA
 6329	jica13	dinero	xǔ'un	xǔ'un	203	NA	NA	Emily John-Martin	NA
+21546	mixt11	precious metal	šǔ̧ʔū̧	šǔ̧ʔū̧	203	NA	NA	durr1987preliminary	NA
 3922	mixt11	dinero	xǔ'un	xǔ'un	203	NA	NA	oxnard2020	NA
+21541	moli11	precious metal	šù̧ʔū̧	šù̧ʔū̧	203	NA	NA	durr1987preliminary	NA
 3921	mont12	dinero	xò'ón	xò'ón	203	NA	NA	oxnard2020	NA
 609	ocot11	money	shuhún	shuhún	203	NA	NA	alexander1988syntactic	NA
+21542	ocot11	precious metal	šù̧ʔú̧	šù̧ʔú̧	203	NA	NA	durr1987preliminary	NA
 5408	papa11	dinero	tu²mi⁴	tu²mi⁴	203	NA	NA	anderson1983diccionario	NA
 5074	pena11	dinero	xù'un	xù'un	203	NA	NA	hollenbach2017diccionario	[A]
+21539	peno11	precious metal	đí̧ʔú̧	đí̧ʔú̧	203	NA	NA	durr1987preliminary	NA
 3919	pied12	dinero	xù'ún	xù'ún	203	NA	NA	oxnard2020	NA
 739	prog12	money	xyuhún	xyuhún	203	NA	NA	shields1988syntactic	NA
+21547	prog12	precious metal	hyù̧ʔú̧	hyù̧ʔú̧	203	NA	NA	durr1987preliminary	NA
+21519	prom01	precious metal	si-yuʔu̧ʔ	si-yuʔu̧ʔ	203	NA	NA	durr1987preliminary	NA
 5566	tepe03	dinero	tumi	tumi	203	NA	NA	belmar1902el-cuicateco	NA
 2041	tepo01	dinero	dziñuhu dusa	dziñuhu-dusa	203	NA	NA	alvarado1593vocabulario	NA
 3918	tlah11	dinero	xù'ún	xù'ún	203	NA	NA	oxnard2020	NA
@@ -20672,6 +20782,7 @@ ID	DOCULECT	GLOSS	VALUE	FORM	IDlist	LOAN	LOAN_SOURCE	SOURCE	FLOATTONE
 740	prog12	work	chūūn	chūūn	204	NA	NA	shields1988syntactic	NA
 2952	prog12	work	čū̧ū̧	čū̧ū̧	204	NA	NA	durr1987preliminary	NA
 19731	prog12	trabajo	ču̧u̧	ču̧u̧	204	NA	NA	josserand1983mixtec	NA
+21450	prom01	work	tíyó̧	tíyó̧	204	NA	NA	durr1987preliminary	NA
 19732	prom01	trabajo	tiyo	tiyo	204	NA	NA	josserand1983mixtec	NA
 19733	prom01	trabajo	tiyo̧	tiyo̧	204	NA	NA	josserand1983mixtec	NA
 5881	prom01	trabajo	tíjṍ	tíjṍ	204	NA	NA	swanton2020observaciones	NA
@@ -20845,6 +20956,7 @@ ID	DOCULECT	GLOSS	VALUE	FORM	IDlist	LOAN	LOAN_SOURCE	SOURCE	FLOATTONE
 741	prog12	word	tuhūn	tuhūn	205	NA	NA	shields1988syntactic	NA
 2961	prog12	word	tù̧ʔū̧	tù̧ʔū̧	205	NA	NA	durr1987preliminary	NA
 19853	prog12	palabra	tu̧ʔu̧	tu̧ʔu̧	205	NA	NA	josserand1983mixtec	NA
+21470	prom01	word	tòʔó̧	tòʔó̧	205	NA	NA	durr1987preliminary	NA
 19854	prom01	palabra	toʔo̧	toʔo̧	205	NA	NA	josserand1983mixtec	NA
 5886	prom01	palabra	tòʔṍ	tòʔṍ	205	NA	NA	swanton2020observaciones	NA
 19855	reye11	palabra	tù̧ʔū̧	tù̧ʔū̧	205	NA	NA	josserand1983mixtec	NA
