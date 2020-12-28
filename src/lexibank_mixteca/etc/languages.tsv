@@ -14,7 +14,8 @@ Number	Name	Location	SubGroup	Latitude	Longitude	Glottocode	ISO639P3code
 11	SantaMariaApazcoMixtec	Santa María Apazco	Mixtec	17.6143	-97.0657	apas1235	mip
 12	SantiagoApoalaMixtec	Santiago Apoala	Mixtec	17.6143	-97.0657	apas1235	mip
 13	SantaMariaAsuncionMixtec	Santa María Asunción	Mixtec	17.2435	-98.0001		
-14	SanEstebanAtatlahucaMixtec	San Esteban Atatlahuca	Mixtec	17.07133	-97.67753	atat1238	mib
+14	SanEstebanAtatlahucaMixtec_A	San Esteban Atatlahuca	Mixtec	17.07133	-97.67753	atat1238	mib
+14	SanEstebanAtatlahucaMixtec_B	San Esteban Atatlahuca	Mixtec	17.07133	-97.67753	atat1238	mib
 15	SanAgustinAtenangoMixtec	San Agustín Atenango	Mixtec	17.61188	-98.01527		
 16	AtlamajalcingoMonteMixtec	Atlamajalcingo del Monte	Mixtec	17.31173	-98.60758	atla1271	mim
 17	SanPedroAtoyacMixtec	San Pedro Atoyac	Mixtec	16.48865	-97.9864		
