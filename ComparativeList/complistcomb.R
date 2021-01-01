@@ -45,7 +45,7 @@ glimpse(sm)
 wl1.sub <- wl1 %>% filter(SOURCE!="swanton2020observaciones") %>% filter(SOURCE!="hollenbach2017diccionario") %>% filter(SOURCE!="alexander1980gramatica") %>% mutate(FLOATTONE=NA)
 glimpse(wl1.sub)
 wl2 <- bind_rows(wl1.sub, hb, sm)
-wl2 <- filter(distinct(wl2))
+
 
 # add Concepticon IDs and concepts
 #cpt <- read_tsv("/Users/auderset/Documents/GitHub/mixteca/ComparativeList/concepticon-mapping.tsv")
@@ -67,7 +67,7 @@ wl3 <- wl2 %>% mutate(VALUE = stri_trans_nfc(VALUE)) %>%
 wl3 <- wl3 %>% mutate(FORM = stri_trans_nfc(wl3$FORM)) %>%
   mutate(FORM = if_else(stri_detect_regex(FORM, "^[[:upper:]]"), stri_trans_tolower(FORM), stri_trans_nfc(FORM))) %>% mutate(FORM = str_replace_all(FORM, fixed(" "), "-"))
 # rearrange columns
-wl3 <- select(wl3, ID, DOCULECT, GLOSS:IDlist, LOAN:FLOATTONE)
+wl3 <- select(wl3, ID, DOCULECT, GLOSS:IDlist, LOAN:FLOATTONE) %>% distinct()
 glimpse(wl3)
 head(wl3)
 
@@ -119,7 +119,7 @@ write_tsv(orthography_list, "orthography_checklist.tsv")
 
 # to know where to continue IDs
 max(wl3$ID, na.rm = TRUE)
-# 21548
+# 21764
 
 
 ### export single sheets for orthography profiles

@@ -32,9 +32,11 @@ Number	Name	Location	SubGroup	Latitude	Longitude	Glottocode	ISO639P3code
 28	SanMiguelChicahuaMixtec	San Miguel Chicahua	Mixtec	17.63719	-97.19479		
 29	SanAndresChicahuaxtlaTriqui	San Andrés Chicahuaxtla	Triqui	17.15612	-97.84007	chic1273	trs
 30	ChigmecatitlanMixtec	Chigmecatitlán	Mixtec	18.6303	-98.1046	chig1239	mii
-31	SanJuanCoatzospamMixtec	San Juan Coatzóspam	Mixtec	18.04875	-96.76363	coat1241	miz
+31	SanJuanCoatzospamMixtec_A	San Juan Coatzóspam	Mixtec	18.04875	-96.76363	coat1241	miz
+31	SanJuanCoatzospamMixtec_B	San Juan Coatzóspam	Mixtec	18.04875	-96.76363	coat1241	miz
 32	CoicoyanlasFloresMixtec	Coicoyán de las Flores	Mixtec	17.27301	-98.27588	coic1238	jmx
-33	SanJuanColoradoMixtec	San Juan Colorado	Mixtec	16.46073	-97.95446	sanj1281	mjc
+33	SanJuanColoradoMixtec_A	San Juan Colorado	Mixtec	16.46073	-97.95446	sanj1281	mjc
+33	SanJuanColoradoMixtec_B	San Juan Colorado	Mixtec	16.46073	-97.95446	sanj1281	mjc
 34	ConcepcionPapaloCuicatec	Concepción Pápalo	Cuicatec	17.84172	-96.8813	tepe1280	cux
 35	SanJuanCopalaTriqui	San Juan Copala	Triqui	17.187222	-97.962778	copa1237	trc
 36	CosoltepecMixtec	Cosoltepec	Mixtec	18.14291	-97.79059	chaz1235	xtb
@@ -44,13 +46,16 @@ Number	Name	Location	SubGroup	Latitude	Longitude	Glottocode	ISO639P3code
 40	SantaAnaCuauhtemocMixtec	Santa Ana Cuauhtémoc	Mixtec	17.98379	-96.79439	cuya1240	xtu
 41	CuilapamGuerreroMixtec	Cuilapam de Guerrero	Mixtec	17.04496	-97.75798		
 42	CuyamecalcoVillaZaragozaMixtec	Cuyamecalco Villa de Zaragoza	Mixtec	18.0821	-96.7314	cuya1240	xtu
-43	SanJuanDiuxiMixtec	San Juan Diuxi	Mixtec	17.3596	-97.3861	diux1236	xtd
-44	SanMartinDuraznosMixtec	San Martín Duraznos	Mixtec	17.30502	-98.10188	juxt1235	vmc
+43	SanJuanDiuxiMixtec_A	San Juan Diuxi	Mixtec	17.3596	-97.3861	diux1236	xtd
+43	SanJuanDiuxiMixtec_B	San Juan Diuxi	Mixtec	17.3596	-97.3861	diux1236	xtd
+44	SanMartinDuraznosMixtec_A	San Martín Duraznos	Mixtec	17.30502	-98.10188	juxt1235	vmc
+44	SanMartinDuraznosMixtec_B	San Martín Duraznos	Mixtec	17.30502	-98.10188	juxt1235	vmc
 45	SanMartinEstadoMixtec	San Martín del Estado	Mixtec	17.56721	-98.17607		
 46	SantaCatarinaEstetlaMixtec	Santa Catarina Estetla	Mixtec	17.02627	-97.0974	peno1244	mil
 47	SanFranciscolasFloresMixtec	San Francisco de las Flores	Mixtec	17.777	-98.031		
 48	SanMarcoslaFlorMixtec	San Marcos de la Flor	Mixtec	17.418889	-98.268611	sanm1291	jmx
-49	SanMiguelElGrandeMixtec	San Miguel El Grande	Mixtec	17.04688	-97.62248	sanm1295	mig
+49	SanMiguelElGrandeMixtec_A	San Miguel El Grande	Mixtec	17.04688	-97.62248	sanm1295	mig
+49	SanMiguelElGrandeMixtec_B	San Miguel El Grande	Mixtec	17.04688	-97.62248	sanm1295	mig
 50	SanMiguelElGrandeAlcozaucaMixtec	San Miguel El Grande (Alcozáuca)	Mixtec	17.24389	-98.23722	alco1235	xta
 51	GuadalupeVillahermosaElPortesueloMixtec	Guadalupe Villahermosa (El Portesuelo)	Mixtec	17.75898	-98.01539		
 52	SantoDomingoHuendioMixtec	Santo Domingo Huendio	Mixtec	17.25296	-97.5054	sant1440	xtm
@@ -78,7 +83,8 @@ Number	Name	Location	SubGroup	Latitude	Longitude	Glottocode	ISO639P3code
 74	SanJuanMixtepecMixtec	San Juan Mixtepec	Mixtec	17.3317	-97.8791	mixt1425	mix
 75	SanPedroMolinosMixtec	San Pedro Molinos	Mixtec	17.10495	-97.54152	sanp1259	mig
 76	SanAntoninoMonteVerdeMixtec	San Antonino Monte Verde	Mixtec	17.53375	-97.72149	mont1271	xtn
-77	SanSebastianMonteMixtec	San Sebastián del Monte	Mixtec	17.6793	-98.02259	sila1250	mks
+77	SanSebastianMonteMixtec_A	San Sebastián del Monte	Mixtec	17.6793	-98.02259	sila1250	mks
+77	SanSebastianMonteMixtec_B	San Sebastián del Monte	Mixtec	17.6793	-98.02259	sila1250	mks
 78	SantaLuciaMonteverdeMixtec	Santa Lucía Monteverde	Mixtec	16.9969	-97.6277	sant1439	mdv
 79	SanAgustinMonteLobosMixtec	San Agustín Monte Lobos	Mixtec	17.63031	-97.28821		
 80	SanLuisMoreliaMixtec	San Luis Morelia	Mixtec	17.70342	-98.21456	tama1339	vmx
@@ -109,7 +115,8 @@ Number	Name	Location	SubGroup	Latitude	Longitude	Glottocode	ISO639P3code
 105	PlanGuadalupeMixtec	Plan de Guadalupe	Mixtec	17.21731	-97.7826	plan1238	mim
 106	PotoichanMixtec	Potoichan	Mixtec	17.42233	-98.72009	poto1253	mim
 107	SanMiguelProgresoMixtec	San Miguel Progreso	Mixtec	17.1743	-97.79838		
-108	SanJeronimoProgresoMixtec	San Jerónimo Progreso	Mixtec	17.44616	-98.15466	sila1250	mks
+108	SanJeronimoProgresoMixtec_A	San Jerónimo Progreso	Mixtec	17.44616	-98.15466	sila1250	mks
+108	SanJeronimoProgresoMixtec_B	San Jerónimo Progreso	Mixtec	17.44616	-98.15466	sila1250	mks
 109	Proto-Mixtec	Proto-Mixtec	Mixtec			mixt1427	
 110	Proto-Triqui	Proto-Triqui	Triqui			triq1251	
 111	SantosReyesTepejilloMixtec	Santos Reyes Tepejillo	Mixtec	17.43262	-97.93997		
@@ -156,7 +163,8 @@ Number	Name	Location	SubGroup	Latitude	Longitude	Glottocode	ISO639P3code
 152	XochapaMixtec	Xochapa	Mixtec	17.38134	-98.44988	xoch1238	xta
 153	SantaMariaYolotepecMixtec	Santa María Yolotepec	Mixtec	16.9648	-97.4537	taca1257	xtt
 154	YoloxochitlMixtec	Yoloxochitl	Mixtec	16.8059	-98.6293	yolo1241	xty
-155	SantiagoYosonduaMixtec	Santiago Yosondúa	Mixtec	16.9042	-97.5018	yoso1239	mpm
+155	SantiagoYosonduaMixtec_A	Santiago Yosondúa	Mixtec	16.9042	-97.5018	yoso1239	mpm
+155	SantiagoYosonduaMixtec_B	Santiago Yosondúa	Mixtec	16.9042	-97.5018	yoso1239	mpm
 156	SantaMariaYosoyuaMixtec	Santa María Yosoyúa	Mixtec	17.11985	-97.51553	sant1442	
 157	SantaCatarinaYosonotuMixtec	Santa Catarina Yosonotú	Mixtec	17.02073	-97.66201	sant1438	
 158	SanPedroYosonamaMixtec	San Pedro Yosoñama	Mixtec	17.4272	-97.77267	yoso1238	xtn
