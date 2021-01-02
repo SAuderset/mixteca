@@ -46,3 +46,18 @@ glimpse(wl_new6)
 
 # export
 write_tsv(wl_new6, "mixt_complist_addons.tsv")
+
+
+# unicode normalization of finished list
+clean_list <- read_tsv("/Users/auderset/Documents/GitHub/mixteca/src/lexibank_mixteca/raw/mixt_complist_clean.tsv")
+glimpse(clean_list)
+# normalize all character columns
+clean_list <- clean_list %>% mutate_if(is.character, stri_trans_nfc)
+glimpse(clean_list)
+# write back to file, make sure to set NA to empty!
+write_tsv(clean_list, "/Users/auderset/Documents/GitHub/mixteca/src/lexibank_mixteca/raw/mixt_complist_clean.tsv", na = "")
+
+
+
+
+
