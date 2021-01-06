@@ -1,55 +1,55 @@
 Grapheme	IPA	Frequency
-^dz	dz	25
-e	*e/e	39
-h	*h/ʔ	38
-e$	*e/e	24
+^d	*d/ð	16
 u	*u/u	83
+v	β	10
+i$	*i/i	52
+^qu	k	10
+e	*e/e	39
 t	t	33
-u$	*u/u	30
+e$	*e/e	24
 ^t	t	23
+i	*i/i	57
+y	*y/ʒ	20
+o	*o/o	22
+c	k	19
+o$	*o/o	34
+dz	dz	21
+h	*h/ʔ	38
+u$	*u/u	30
+^y	*y/j	27
 a	*a/a	72
 a$	*a/a	63
-^d	*d/ð	16
-q	k	2
-y	*y/ʒ	20
--	+	24
-dz	dz	21
-^c	k	23
-^ñ	ɲ	12
-an	ã 	10
-i$	*i/i	52
-v	β	10
-i	*i/i	57
-o$	*o/o	34
+^dz	dz	25
 ^s	s	18
-hui	w i	2
-$	NULL	4
-^n	n	13
-ñ	ɲ	21
-^y	*y/j	27
-qu	k	4
-^i	*i/i	10
-o	*o/o	22
-n	n	18
-q$	ʔ	1
 ^ch	tʃ	2
 s	s	20
-^qu	k	10
-cua	kʷ a	2
-c	k	19
-^h	*h/ʔ	10
 ch	tʃ	13
+^ñ	ɲ	12
+ñ	ɲ	21
 m	m	8
+^c	k	23
+an	ã	10
+^n	n	13
+^a	*a/a	4
+^h	*h/ʔ	10
 ^tn	tⁿ	5
-nd	ⁿd	4
+qu	k	4
+-	+	24
 ^m	m	3
-^e	*e/e ³	2
-^vv	β	1
+cua	kʷ a	2
+$	NULL	4
+n	n	18
+^i	*i/i	10
 ^v	β	3
+nd	ⁿd	4
 ^	NULL	1
+q	k	2
+y$	*y/j	3
+d	*d/ð	4
+q$	ʔ	1
+^e	*e/e ³	2
+hui	w i	2
+^vh	u h	1
 ^vs	u s	1
 ^o	*o/o	1
-d	d	4
-^vh	u h	1
-^a	*a/a	4
-y$	*y/j	3
+^vv	β	1

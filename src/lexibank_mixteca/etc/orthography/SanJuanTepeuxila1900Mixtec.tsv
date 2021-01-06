@@ -1,56 +1,56 @@
 Grapheme	IPA	Frequency
-^ch	tʃ	13
-a	*a/a	55
+^i	*i/i	21
+t	t	23
+i$	*i/i	42
 k	k	15
 u$	*u/u	36
-i	*i/i	56
-d	d	41
-a$	*a/a	44
 ^d	*d/ð	10
-y	*y/ʒ	11
-^n	n	39
-n	n	17
-^k	k	19
-b	*b/β	14
 u	*u/u	55
-i$	*i/i	42
-^ts	ts	1
-an$	*an/ã	11
-t	t	23
-^i	*i/i	21
-^y	*y/j	28
-un$	*un/ũ	4
-in$	ĩ	7
-ñ	ɲ	4
-e	*e/e	6
-nd	ⁿd	7
-e$	*e/e	5
-é$	e ⁵	2
-^b	*b/β	5
-en$	ẽ	2
-^g	g	1
-an	ã 	9
+d	*d/ð	41
 ^t	t	10
-^sh	ʃ	1
-g	g	8
-ch	tʃ	12
+i	*i/i	56
+a	*a/a	55
+a$	*a/a	44
+^y	*y/j	28
+nd	ⁿd	7
 -	+	8
-ts	ts	1
-ng	ⁿg	2
-ún$	ũ ⁵	1
-^ñ	ɲ	3
-ú$	u ⁵	2
-m	m	7
+y	*y/ʒ	11
+in$	ĩ	7
+^ch	tʃ	13
+^k	k	19
+^n	n	39
+un$	*un/ũ	4
+n	n	17
+^b	*b/β	5
+ch	tʃ	12
+^m	m	3
+e$	*e/e	5
+b	*b/β	14
 ó$	o ⁵	1
+m	m	7
+g	g	8
+an	ã	9
+'	ʔ	1
+^g	g	1
+en$	ẽ	2
+^ñ	ɲ	3
+ng	ⁿg	2
+é$	e ⁵	2
+ún$	ũ ⁵	1
+ñ	ɲ	4
+^sh	ʃ	1
+í	i ⁵	1
+^h	*h/ʔ	3
+e	*e/e	6
+^ts	ts	1
+an$	*an/ã	11
+^a	*a/a	1
+ú$	u ⁵	2
+nt	ⁿd	1
+ts	ts	1
+^l	l	1
 kua	*kua/kʷ a	2
 $	NULL	1
-í	i ⁵	1
-nt	ⁿd	1
-^m	m	3
-á$	a ⁵	1
-^a	*a/a	1
 ^u	*u/u	1
-^h	*h/ʔ	3
-^l	l	1
-'	ʔ	1
 n$	n	1
+á$	a ⁵	1

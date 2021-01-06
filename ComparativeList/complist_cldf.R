@@ -57,7 +57,7 @@ glimpse(clean_list)
 # write back to file, make sure to set NA to empty!
 write_tsv(clean_list, "/Users/auderset/Documents/GitHub/mixteca/src/lexibank_mixteca/raw/mixt_complist_clean.tsv", na = "")
 
-
-
-
+ortho <- read_tsv("/Users/auderset/Documents/GitHub/mixteca/src/lexibank_mixteca/etc/orthography.tsv")
+ortho_clean <- ortho %>% mutate_if(is.character, stri_trans_nfc)
+write_tsv(ortho_clean, "/Users/auderset/Documents/GitHub/mixteca/src/lexibank_mixteca/etc/orthography.tsv", na = "")
 
