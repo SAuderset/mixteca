@@ -65,7 +65,8 @@ IxpantepecNievesMixtec,IxpantepecNievesMixtec,sila1250,,mks,,17.50717,-98.04556,
 SantiagoIxtayutlaMixtec,SantiagoIxtayutlaMixtec,ixta1235,,vmj,,16.5774,-97.5759,,Santiago Ixtayutla,Mixtec,70
 SantiagoIxtaltepecMixtec,SantiagoIxtaltepecMixtec,,,,,17.54171,-97.11437,,Santiago Ixtaltepec,Mixtec,71
 SanMiguelIxtapamMixtec,SanMiguelIxtapamMixtec,,,,,18.80685,-100.15039,,San Miguel Ixtapam,Mixtec,72
-SantiagoJamiltepecMixtec,SantiagoJamiltepecMixtec,jami1235,,mxt,,16.2279,-97.8417,,Santiago Jamiltepec,Mixtec,73
+SantiagoJamiltepecMixtec_A,SantiagoJamiltepecMixtec_A,jami1235,,mxt,,16.2279,-97.8417,,Santiago Jamiltepec,Mixtec,73
+SantiagoJamiltepecMixtec_B,SantiagoJamiltepecMixtec_B,jami1235,,mxt,,16.2279,-97.8417,,Santiago Jamiltepec,Mixtec,73
 SanFranciscoJaltepetongoMixtec,SanFranciscoJaltepetongoMixtec,,,,,17.38592,-97.26345,,San Francisco Jaltepetongo,Mixtec,74
 SantaMariaJicaltepecMixtec,SantaMariaJicaltepecMixtec,pino1237,,mio,,16.38086,-98.04128,,Santa María Jicaltepec,Mixtec,75
 SanPedroJicayanMixtec,SanPedroJicayanMixtec,,,,,16.45235,-98.0151,,San Pedro Jicayán,Mixtec,76
@@ -92,7 +93,8 @@ SantaMariaNutioMixtec,SantaMariaNutioMixtec,,,,,16.48542,-97.90405,,Santa María
 SantoDomingoNuxaaMixtec,SantoDomingoNuxaaMixtec,,,,,17.21663,-97.12285,,Santo Domingo Nuxaá,Mixtec,101
 SanAndresNuxinoMixtec,SanAndresNuxinoMixtec,,,,,17.23883,-97.10497,,San Andrés Nuxiño,Mixtec,102
 SantiagoNuyooMixtec,SantiagoNuyooMixtec,nuyo1238,,meh,,17.0147,-97.76674,,Santiago Nuyoó,Mixtec,103
-SantoTomasOcotepecMixtec,SantoTomasOcotepecMixtec,ocot1243,,mie,,17.14419,-97.76322,,Santo Tomás Ocotepec,Mixtec,104
+SantoTomasOcotepecMixtec_A,SantoTomasOcotepecMixtec_A,ocot1243,,mie,,17.14419,-97.76322,,Santo Tomás Ocotepec,Mixtec,104
+SantoTomasOcotepecMixtec_B,SantoTomasOcotepecMixtec_B,ocot1243,,mie,,17.14419,-97.76322,,Santo Tomás Ocotepec,Mixtec,104
 SantaMariaPapaloCuicatec,SantaMariaPapaloCuicatec,sant1437,,cux,,17.26813,-96.56338,,Santa María Pápalo,Cuicatec,105
 MagdalenaPenascoMixtec,MagdalenaPenascoMixtec,magd1235,,xtm,,17.2837,-97.5413,,Magdalena Peñasco,Mixtec,106
 SanMateoPenascoMixtec,SanMateoPenascoMixtec,sanm1293,,xtm,,17.15127,-97.53321,,San Mateo Peñasco,Mixtec,107

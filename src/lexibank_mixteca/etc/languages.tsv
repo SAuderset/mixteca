@@ -71,7 +71,8 @@ Number	Name	Location	SubGroup	Latitude	Longitude	Glottocode	ISO639P3code
 70	SantiagoIxtayutlaMixtec	Santiago Ixtayutla	Mixtec	16.5774	-97.5759	ixta1235	vmj
 71	SantiagoIxtaltepecMixtec	Santiago Ixtaltepec	Mixtec	17.54171	-97.11437		
 72	SanMiguelIxtapamMixtec	San Miguel Ixtapam	Mixtec	18.80685	-100.15039		
-73	SantiagoJamiltepecMixtec	Santiago Jamiltepec	Mixtec	16.2279	-97.8417	jami1235	mxt
+73	SantiagoJamiltepecMixtec_A	Santiago Jamiltepec	Mixtec	16.2279	-97.8417	jami1235	mxt
+73	SantiagoJamiltepecMixtec_B	Santiago Jamiltepec	Mixtec	16.2279	-97.8417	jami1235	mxt
 74	SanFranciscoJaltepetongoMixtec	San Francisco Jaltepetongo	Mixtec	17.38592	-97.26345		
 75	SantaMariaJicaltepecMixtec	Santa María Jicaltepec	Mixtec	16.38086	-98.04128	pino1237	mio
 76	SanPedroJicayanMixtec	San Pedro Jicayán	Mixtec	16.45235	-98.0151		
@@ -102,7 +103,8 @@ Number	Name	Location	SubGroup	Latitude	Longitude	Glottocode	ISO639P3code
 101	SantoDomingoNuxaaMixtec	Santo Domingo Nuxaá	Mixtec	17.21663	-97.12285		
 102	SanAndresNuxinoMixtec	San Andrés Nuxiño	Mixtec	17.23883	-97.10497		
 103	SantiagoNuyooMixtec	Santiago Nuyoó	Mixtec	17.0147	-97.76674	nuyo1238	meh
-104	SantoTomasOcotepecMixtec	Santo Tomás Ocotepec	Mixtec	17.14419	-97.76322	ocot1243	mie
+104	SantoTomasOcotepecMixtec_A	Santo Tomás Ocotepec	Mixtec	17.14419	-97.76322	ocot1243	mie
+104	SantoTomasOcotepecMixtec_B	Santo Tomás Ocotepec	Mixtec	17.14419	-97.76322	ocot1243	mie
 105	SantaMariaPapaloCuicatec	Santa María Pápalo	Cuicatec	17.26813	-96.56338	sant1437	cux
 106	MagdalenaPenascoMixtec	Magdalena Peñasco	Mixtec	17.2837	-97.5413	magd1235	xtm
 107	SanMateoPenascoMixtec	San Mateo Peñasco	Mixtec	17.15127	-97.53321	sanm1293	xtm
