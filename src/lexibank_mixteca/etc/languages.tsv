@@ -72,117 +72,117 @@ Number	Name	Location	SubGroup	Latitude	Longitude	Glottocode	ISO639P3code
 71	SantiagoIxtaltepecMixtec	Santiago Ixtaltepec	Mixtec	17.54171	-97.11437		
 72	SanMiguelIxtapamMixtec	San Miguel Ixtapam	Mixtec	18.80685	-100.15039		
 73	SantiagoJamiltepecMixtec_A	Santiago Jamiltepec	Mixtec	16.2279	-97.8417	jami1235	mxt
-73	SantiagoJamiltepecMixtec_B	Santiago Jamiltepec	Mixtec	16.2279	-97.8417	jami1235	mxt
-74	SanFranciscoJaltepetongoMixtec	San Francisco Jaltepetongo	Mixtec	17.38592	-97.26345		
-75	SantaMariaJicaltepecMixtec	Santa María Jicaltepec	Mixtec	16.38086	-98.04128	pino1237	mio
-76	SanPedroJicayanMixtec	San Pedro Jicayán	Mixtec	16.45235	-98.0151		
-77	ElJicaralMixtec	El Jicaral	Mixtec	17.12602	-98.196842	coic1238	jmx
-78	SanPedroJocotipacMixtec	San Pedro Jocotipac	Mixtec	17.7687	-97.07983		
-79	SantiagoJuxtlahuacaMixtec	Santiago Juxtlahuaca	Mixtec	17.3518	-98.0146	juxt1235	vmc
-80	SanLorenzoMixtec	San Lorenzo	Mixtec	17.66757	-98.11901		
-81	SantaCatarinaMechoacanMixtec	Santa Catarina Mechoacán	Mixtec	16.33471	-97.83626	chay1249	mih
-82	MetlatonocMixtec	Metlatónoc	Mixtec	17.1947	-98.3514	metl1238	mxv
-83	ElRosarioMicaltepecMixtec	El Rosario Micaltepec	Mixtec	18.04537	-97.85057		
-84	SantiagoMitlatongoMixtec	Santiago Mitlatongo	Mixtec	17.16	-97.1757	mitl1235	vmm
-85	SanJuanMixtepecMixtec	San Juan Mixtepec	Mixtec	17.3317	-97.8791	mixt1425	mix
-86	SanPedroMolinosMixtec	San Pedro Molinos	Mixtec	17.10495	-97.54152	sanp1259	mig
-87	SanAntoninoMonteVerdeMixtec	San Antonino Monte Verde	Mixtec	17.53375	-97.72149	mont1271	xtn
-88	SanSebastianMonteMixtec_A	San Sebastián del Monte	Mixtec	17.6793	-98.02259	sila1250	mks
-89	SanSebastianMonteMixtec_B	San Sebastián del Monte	Mixtec	17.6793	-98.02259	sila1250	mks
-90	SantaLuciaMonteverdeMixtec	Santa Lucía Monteverde	Mixtec	16.9969	-97.6277	sant1439	mdv
-91	SanAgustinMonteLobosMixtec	San Agustín Monte Lobos	Mixtec	17.63031	-97.28821		
-92	SanLuisMoreliaMixtec	San Luis Morelia	Mixtec	17.70342	-98.21456	tama1339	vmx
-93	SanAntonioNduayacoMixtec	San Antonio Nduayaco	Mixtec	17.68547	-97.14745	apas1235	mip
-94	SanSebastianNicanandutaMixtec	San Sebastián Nicananduta	Mixtec	17.51737	-97.68345	nort2985	xtn
-95	SanJorgeNuchitaMixtec	San Jorge Nuchita	Mixtec	17.65569	-98.10499	sila1250	mks
-96	SanJuanNumiMixtec	San Juan Ñumi	Mixtec	17.39759	-97.70603	nort2985	xtn
-97	SantaCruzNundacoMixtec	Santa Cruz Nundaco	Mixtec	17.17339	-97.72325		
-98	SantiagoNundicheMixtec	Santiago Nundiche	Mixtec	17.3312	-97.67444	nort2985	xtn
-99	SantoDomingoNundoMixtec	Santo Domingo Nundo	Mixtec	17.60855	-97.68566		
-100	SantaMariaNutioMixtec	Santa María Nutio	Mixtec	16.48542	-97.90405		
-101	SantoDomingoNuxaaMixtec	Santo Domingo Nuxaá	Mixtec	17.21663	-97.12285		
-102	SanAndresNuxinoMixtec	San Andrés Nuxiño	Mixtec	17.23883	-97.10497		
-103	SantiagoNuyooMixtec	Santiago Nuyoó	Mixtec	17.0147	-97.76674	nuyo1238	meh
-104	SantoTomasOcotepecMixtec_A	Santo Tomás Ocotepec	Mixtec	17.14419	-97.76322	ocot1243	mie
-104	SantoTomasOcotepecMixtec_B	Santo Tomás Ocotepec	Mixtec	17.14419	-97.76322	ocot1243	mie
-105	SantaMariaPapaloCuicatec	Santa María Pápalo	Cuicatec	17.26813	-96.56338	sant1437	cux
-106	MagdalenaPenascoMixtec	Magdalena Peñasco	Mixtec	17.2837	-97.5413	magd1235	xtm
-107	SanMateoPenascoMixtec	San Mateo Peñasco	Mixtec	17.15127	-97.53321	sanm1293	xtm
-108	SantaMariaPenolesMixtec	Santa María Peñoles	Mixtec	17.07959	-97.00272	sant1445	mil
-109	SantaMariaPenolesMixtec	Santa María Peñoles	Mixtec	17.0671	-97.0101	peno1244	mil
-110	SanMartinPerasMixtec	San Martín Peras	Mixtec	17.35912	-98.23725	sanm1291	jmx
-111	PetlacalancingoMixtec	Petlacalancingo	Mixtec	17.37597	-98.49096	petl1238	xta
-112	SanMiguelPiedrasMixtec	San Miguel Piedras	Mixtec	16.9944	-97.2056	sanm1294	xtp
-113	PiedraAzulMixtec	Piedra Azul	Mixtec	17.380833	-98.185833		
-114	SanJuanPinasMixtec	San Juan Piñas	Mixtec	17.22264	-98.14487	sanj1280	jmx
-115	SantiagoPinotepaNacionalMixtec	Santiago Pinotepa Nacional	Mixtec	16.3043	-97.9966	pino1237	mio
-116	PinotepaDonLuisMixtec	Pinotepa de Don Luis	Mixtec	16.42666	-97.97647	pino1237	mio
-117	PlanGuadalupeMixtec	Plan de Guadalupe	Mixtec	17.21731	-97.7826	plan1238	mim
-118	PotoichanMixtec	Potoichan	Mixtec	17.42233	-98.72009	poto1253	mim
-119	SanMiguelProgresoMixtec	San Miguel Progreso	Mixtec	17.1743	-97.79838		
-120	SanJeronimoProgresoMixtec_A	San Jerónimo Progreso	Mixtec	17.44616	-98.15466	sila1250	mks
-121	SanJeronimoProgresoMixtec_B	San Jerónimo Progreso	Mixtec	17.44616	-98.15466	sila1250	mks
-122	Proto-Mixtec	Proto-Mixtec	Mixtec			mixt1427	
-123	Proto-Triqui	Proto-Triqui	Triqui			triq1251	
-124	SantosReyesTepejilloMixtec	Santos Reyes Tepejillo	Mixtec	17.43262	-97.93997		
-125	SanFranciscoSayultepecMixtec	San Francisco Sayultepec	Mixtec	16.59537	-98.12933	pino1237	mio
-126	SilacayoapamMixtec	Silacayoapam	Mixtec	17.5541	-98.1163	sila1250	mks
-127	SanMateoSindihuiMixtec	San Mateo Sindihui	Mixtec	17.02	-97.3036	sind1277	xts
-128	SanJoseSinicahuaMixtec	San José Sinicahua	Mixtec	17.2218	-97.5904	sini1243	xti
-129	SanJeronimoSosolaMixtec	San Jerónimo Sosola	Mixtec	17.36657	-97.03295		
-130	SanBartoloSoyaltepecMixtec	San Bartolo Soyaltepec	Mixtec	17.5892	-97.1921	soya1236	vmq
-131	SanJuanTamazolaMixtec	San Juan Tamazola	Mixtec	17.1258	-97.0998	tama1339	vmx
-132	SantiagoTamazolaMixtec	Santiago Tamazola	Mixtec	17.67041	-98.2216		
-133	SantaMariaTataltepecMixtec	Santa María Tataltepec	Mixtec	17.14222	-97.39407	sant1444	
-134	SanSebastianTecomaxtlahuacaMixtec	San Sebastián Tecomaxtlahuaca	Mixtec	17.34568	-98.0312		
-135	SanJuanTeitaMixtec	San Juan Teita	Mixtec	17.1542	-97.3899	sanj1282	xtj
-136	LosTejocotesMixtec	Los Tejocotes	Mixtec	17.31342	-97.89609		
-137	TepangoMixtec	Tepango	Mixtec	20.00242	-97.79622	ayut1236	miy
-138	SanMateoTepantepecMixtec	San Mateo Tepantepec	Mixtec	17.00277	-97.03289	sanm1297	mil
-139	SanJuanTepeuxila1900Mixtec	San Juan Tepeuxila 1900	Mixtec	18.72299	-95.84118	tepe1280	cux
-140	TepejilloMixtec	Tepejillo	Mixtec	18.05265	-97.83906		
-141	SanAntonioTepetlapaMixtec	San Antonio Tepetlapa	Mixtec	16.54182	-98.06578		
-142	SanJuanTepeuxilaCuicatec	San Juan Tepeuxila	Cuicatec	17.72299	-96.84118	tepe1280	cux
-143	SanPedroySanPabloTeposcolula1600Mixtec	San Pedro y San Pablo Teposcolula 1600	Mixtec	17.51167	-97.48883		
-144	SanPedroySanPabloTeposcolulaMixtec	San Pedro y San Pablo Teposcolula	Mixtec	17.51167	-97.48883		
-145	SanPedroTeutilaCuicatec	San Pedro Teutila	Cuicatec	17.97703	-96.705581	teut1235	cut
-146	TezoatlanSegurayLunaMixtec	Tezoatlán de Segura y Luna	Mixtec	17.65084	-97.80972	tezo1239	mxb
-147	SantaCatarinaTicuaMixtec	Santa Catarina Ticuá	Mixtec	17.07332	-97.53638	sant1443	mig
-148	SanPedroTidaaMixtec	San Pedro Tidaá	Mixtec	17.4142	-97.3333	tida1235	mtx
-149	SanPabloTijaltepecMixtec	San Pablo Tijaltepec	Mixtec	17.1539	-97.4578	tija1235	xtl
-150	SantiagoTilantongoMixtec	Santiago Tilantongo	Mixtec	17.3596	-97.3861	diux1236	xtd
-151	SantaMariaTinduMixtec	Santa María Tindú	Mixtec	17.48954	-97.93558		
-152	SanAgustinTlacotepecMixtec	San Agustín Tlacotepec	Mixtec	17.20365	-97.51853	sana1284	xtm
-153	SanMiguelTlacotepecMixtec	San Miguel Tlacotepec	Mixtec	17.45511	-98.00552		
-154	TlahuapaMixtec	Tlahuapa	Mixtec	17.37553	-98.33826	alco1235	xta
-155	SantaCatarinaTlaltempanMixtec	Santa Catarina Tlaltempan	Mixtec	18.61485	-98.08867		
-156	SantiagoTlazoyaltepecMixtec	Santiago Tlazoyaltepec	Mixtec	17.0274	-96.99583	sant1446	mqh
-157	SantiagoTlazoyaltepecMixtec	Santiago Tlazoyaltepec	Mixtec	17.02704	-96.9783	tlaz1235	mqh
-158	SantaMariaTonahuixtlaMixtec	Santa María Tonahuixtla	Mixtec	18.20057	-97.89437		
-159	TototepecMixtec	Tototepec	Mixtec	17.43238	-98.58289	toto1307	mim
-160	TotoltepecGuerreroMixtec	Totoltepec de Guerrero	Mixtec	18.22581	-97.85526	chaz1235	xtb
-161	VillaTututepecMelchorOcampoMixtec	Villa de Tututepec de Melchor Ocampo	Mixtec	16.12968	-97.60452	tutu1243	mtu
-162	SanPedroTututepecMixtec	San Pedro Tututepec	Mixtec	16.12987	-97.6085	tutu1243	mtu
-163	SanJeronimoXayacatlanMixtec	San Jerónimo Xayacatlán	Mixtec	18.22159	-97.91563	south3001	mit
-164	XayacatlanBravoMixtec	Xayacatlán de Bravo	Mixtec	18.2353	-97.97435	south3001	mit
-165	XochapaMixtec	Xochapa	Mixtec	17.38134	-98.44988	xoch1238	xta
-166	SantaMariaYolotepecMixtec	Santa María Yolotepec	Mixtec	16.9648	-97.4537	taca1257	xtt
-167	YoloxochitlMixtec	Yoloxochitl	Mixtec	16.8059	-98.6293	yolo1241	xty
-168	SantiagoYosonduaMixtec_A	Santiago Yosondúa	Mixtec	16.9042	-97.5018	yoso1239	mpm
-169	SantiagoYosonduaMixtec_B	Santiago Yosondúa	Mixtec	16.9042	-97.5018	yoso1239	mpm
-170	SantaMariaYosoyuaMixtec	Santa María Yosoyúa	Mixtec	17.11985	-97.51553	sant1442	
-171	SantaCatarinaYosonotuMixtec	Santa Catarina Yosonotú	Mixtec	17.02073	-97.66201	sant1438	
-172	SanPedroYosonamaMixtec	San Pedro Yosoñama	Mixtec	17.4272	-97.77267	yoso1238	xtn
-173	SanBartolomeYucuaneMixtec	San Bartolomé Yucuañe	Mixtec	17.2832	-97.4285	yucu1250	mvg
-174	SantaMariaYucuhitiMixtec	Santa María Yucuhiti	Mixtec	17.03036	-97.78237	yucu1249	meh
-175	YucunutiBenitoJuarezMixtec	Yucuñuti de Benito Juárez	Mixtec	17.63409	-97.89151	yucu1251	mxb
-176	SanPedroYucunamaMixtec	San Pedro Yucunama	Mixtec	17.56221	-97.48291		
-177	SantaMariaYucunicocoMixtec	Santa María Yucunicoco	Mixtec	17.2372	-97.91806		
-178	YucuquimiOcampoMixtec	Yucuquimi de Ocampo	Mixtec	17.57853	-97.89014		
-179	YucunanyMixtec	Yucunany	Mixtec	17.300827	-97.893888	mixt1425	mix
-180	YutanduchiGuerreroMixtec	Yutanduchi de Guerrero	Mixtec	17.0311	-97.2293	yuta1240	mab
-181	SanJuanYutaMixtec	San Juan Yuta	Mixtec	17.02228	-97.17054		
-182	SanAndresYutatioMixtec	San Andrés Yutatío	Mixtec	17.60626	-97.89428		
-183	SantaMariaZacatepecMixtec	Santa María Zacatepec	Mixtec	16.7003	-97.9484	sant1436	mza
-184	SanSimonZahuatlanMixtec	San Simón Zahuatlán	Mixtec	17.8291	-98.00505	sans1274	
-185	ZapotitlanPalmasMixtec	Zapotitlán Palmas	Mixtec	17.88959	-97.82406		
+74	SantiagoJamiltepecMixtec_B	Santiago Jamiltepec	Mixtec	16.2279	-97.8417	jami1235	mxt
+75	SanFranciscoJaltepetongoMixtec	San Francisco Jaltepetongo	Mixtec	17.38592	-97.26345		
+76	SantaMariaJicaltepecMixtec	Santa María Jicaltepec	Mixtec	16.38086	-98.04128	pino1237	mio
+77	SanPedroJicayanMixtec	San Pedro Jicayán	Mixtec	16.45235	-98.0151		
+78	ElJicaralMixtec	El Jicaral	Mixtec	17.12602	-98.196842	coic1238	jmx
+79	SanPedroJocotipacMixtec	San Pedro Jocotipac	Mixtec	17.7687	-97.07983		
+80	SantiagoJuxtlahuacaMixtec	Santiago Juxtlahuaca	Mixtec	17.3518	-98.0146	juxt1235	vmc
+81	SanLorenzoMixtec	San Lorenzo	Mixtec	17.66757	-98.11901		
+82	SantaCatarinaMechoacanMixtec	Santa Catarina Mechoacán	Mixtec	16.33471	-97.83626	chay1249	mih
+83	MetlatonocMixtec	Metlatónoc	Mixtec	17.1947	-98.3514	metl1238	mxv
+84	ElRosarioMicaltepecMixtec	El Rosario Micaltepec	Mixtec	18.04537	-97.85057		
+85	SantiagoMitlatongoMixtec	Santiago Mitlatongo	Mixtec	17.16	-97.1757	mitl1235	vmm
+86	SanJuanMixtepecMixtec	San Juan Mixtepec	Mixtec	17.3317	-97.8791	mixt1425	mix
+87	SanPedroMolinosMixtec	San Pedro Molinos	Mixtec	17.10495	-97.54152	sanp1259	mig
+88	SanAntoninoMonteVerdeMixtec	San Antonino Monte Verde	Mixtec	17.53375	-97.72149	mont1271	xtn
+89	SanSebastianMonteMixtec_A	San Sebastián del Monte	Mixtec	17.6793	-98.02259	sila1250	mks
+90	SanSebastianMonteMixtec_B	San Sebastián del Monte	Mixtec	17.6793	-98.02259	sila1250	mks
+91	SantaLuciaMonteverdeMixtec	Santa Lucía Monteverde	Mixtec	16.9969	-97.6277	sant1439	mdv
+92	SanAgustinMonteLobosMixtec	San Agustín Monte Lobos	Mixtec	17.63031	-97.28821		
+93	SanLuisMoreliaMixtec	San Luis Morelia	Mixtec	17.70342	-98.21456	tama1339	vmx
+94	SanAntonioNduayacoMixtec	San Antonio Nduayaco	Mixtec	17.68547	-97.14745	apas1235	mip
+95	SanSebastianNicanandutaMixtec	San Sebastián Nicananduta	Mixtec	17.51737	-97.68345	nort2985	xtn
+96	SanJorgeNuchitaMixtec	San Jorge Nuchita	Mixtec	17.65569	-98.10499	sila1250	mks
+97	SanJuanNumiMixtec	San Juan Ñumi	Mixtec	17.39759	-97.70603	nort2985	xtn
+98	SantaCruzNundacoMixtec	Santa Cruz Nundaco	Mixtec	17.17339	-97.72325		
+99	SantiagoNundicheMixtec	Santiago Nundiche	Mixtec	17.3312	-97.67444	nort2985	xtn
+100	SantoDomingoNundoMixtec	Santo Domingo Nundo	Mixtec	17.60855	-97.68566		
+101	SantaMariaNutioMixtec	Santa María Nutio	Mixtec	16.48542	-97.90405		
+102	SantoDomingoNuxaaMixtec	Santo Domingo Nuxaá	Mixtec	17.21663	-97.12285		
+103	SanAndresNuxinoMixtec	San Andrés Nuxiño	Mixtec	17.23883	-97.10497		
+104	SantiagoNuyooMixtec	Santiago Nuyoó	Mixtec	17.0147	-97.76674	nuyo1238	meh
+105	SantoTomasOcotepecMixtec_A	Santo Tomás Ocotepec	Mixtec	17.14419	-97.76322	ocot1243	mie
+106	SantoTomasOcotepecMixtec_B	Santo Tomás Ocotepec	Mixtec	17.14419	-97.76322	ocot1243	mie
+107	SantaMariaPapaloCuicatec	Santa María Pápalo	Cuicatec	17.26813	-96.56338	sant1437	cux
+108	MagdalenaPenascoMixtec	Magdalena Peñasco	Mixtec	17.2837	-97.5413	magd1235	xtm
+109	SanMateoPenascoMixtec	San Mateo Peñasco	Mixtec	17.15127	-97.53321	sanm1293	xtm
+110	SantaMariaPenolesMixtec	Santa María Peñoles	Mixtec	17.07959	-97.00272	sant1445	mil
+111	SantaMariaPenolesMixtec	Santa María Peñoles	Mixtec	17.0671	-97.0101	peno1244	mil
+112	SanMartinPerasMixtec	San Martín Peras	Mixtec	17.35912	-98.23725	sanm1291	jmx
+113	PetlacalancingoMixtec	Petlacalancingo	Mixtec	17.37597	-98.49096	petl1238	xta
+114	SanMiguelPiedrasMixtec	San Miguel Piedras	Mixtec	16.9944	-97.2056	sanm1294	xtp
+115	PiedraAzulMixtec	Piedra Azul	Mixtec	17.380833	-98.185833		
+116	SanJuanPinasMixtec	San Juan Piñas	Mixtec	17.22264	-98.14487	sanj1280	jmx
+117	SantiagoPinotepaNacionalMixtec	Santiago Pinotepa Nacional	Mixtec	16.3043	-97.9966	pino1237	mio
+118	PinotepaDonLuisMixtec	Pinotepa de Don Luis	Mixtec	16.42666	-97.97647	pino1237	mio
+119	PlanGuadalupeMixtec	Plan de Guadalupe	Mixtec	17.21731	-97.7826	plan1238	mim
+120	PotoichanMixtec	Potoichan	Mixtec	17.42233	-98.72009	poto1253	mim
+121	SanMiguelProgresoMixtec	San Miguel Progreso	Mixtec	17.1743	-97.79838		
+122	SanJeronimoProgresoMixtec_A	San Jerónimo Progreso	Mixtec	17.44616	-98.15466	sila1250	mks
+123	SanJeronimoProgresoMixtec_B	San Jerónimo Progreso	Mixtec	17.44616	-98.15466	sila1250	mks
+124	Proto-Mixtec	Proto-Mixtec	Mixtec			mixt1427	
+125	Proto-Triqui	Proto-Triqui	Triqui			triq1251	
+126	SantosReyesTepejilloMixtec	Santos Reyes Tepejillo	Mixtec	17.43262	-97.93997		
+127	SanFranciscoSayultepecMixtec	San Francisco Sayultepec	Mixtec	16.59537	-98.12933	pino1237	mio
+128	SilacayoapamMixtec	Silacayoapam	Mixtec	17.5541	-98.1163	sila1250	mks
+129	SanMateoSindihuiMixtec	San Mateo Sindihui	Mixtec	17.02	-97.3036	sind1277	xts
+130	SanJoseSinicahuaMixtec	San José Sinicahua	Mixtec	17.2218	-97.5904	sini1243	xti
+131	SanJeronimoSosolaMixtec	San Jerónimo Sosola	Mixtec	17.36657	-97.03295		
+132	SanBartoloSoyaltepecMixtec	San Bartolo Soyaltepec	Mixtec	17.5892	-97.1921	soya1236	vmq
+133	SanJuanTamazolaMixtec	San Juan Tamazola	Mixtec	17.1258	-97.0998	tama1339	vmx
+134	SantiagoTamazolaMixtec	Santiago Tamazola	Mixtec	17.67041	-98.2216		
+135	SantaMariaTataltepecMixtec	Santa María Tataltepec	Mixtec	17.14222	-97.39407	sant1444	
+136	SanSebastianTecomaxtlahuacaMixtec	San Sebastián Tecomaxtlahuaca	Mixtec	17.34568	-98.0312		
+137	SanJuanTeitaMixtec	San Juan Teita	Mixtec	17.1542	-97.3899	sanj1282	xtj
+138	LosTejocotesMixtec	Los Tejocotes	Mixtec	17.31342	-97.89609		
+139	TepangoMixtec	Tepango	Mixtec	20.00242	-97.79622	ayut1236	miy
+140	SanMateoTepantepecMixtec	San Mateo Tepantepec	Mixtec	17.00277	-97.03289	sanm1297	mil
+141	SanJuanTepeuxila1900Mixtec	San Juan Tepeuxila 1900	Mixtec	18.72299	-95.84118	tepe1280	cux
+142	TepejilloMixtec	Tepejillo	Mixtec	18.05265	-97.83906		
+143	SanAntonioTepetlapaMixtec	San Antonio Tepetlapa	Mixtec	16.54182	-98.06578		
+144	SanJuanTepeuxilaCuicatec	San Juan Tepeuxila	Cuicatec	17.72299	-96.84118	tepe1280	cux
+145	SanPedroySanPabloTeposcolula1600Mixtec	San Pedro y San Pablo Teposcolula 1600	Mixtec	17.51167	-97.48883		
+146	SanPedroySanPabloTeposcolulaMixtec	San Pedro y San Pablo Teposcolula	Mixtec	17.51167	-97.48883		
+147	SanPedroTeutilaCuicatec	San Pedro Teutila	Cuicatec	17.97703	-96.705581	teut1235	cut
+148	TezoatlanSegurayLunaMixtec	Tezoatlán de Segura y Luna	Mixtec	17.65084	-97.80972	tezo1239	mxb
+149	SantaCatarinaTicuaMixtec	Santa Catarina Ticuá	Mixtec	17.07332	-97.53638	sant1443	mig
+150	SanPedroTidaaMixtec	San Pedro Tidaá	Mixtec	17.4142	-97.3333	tida1235	mtx
+151	SanPabloTijaltepecMixtec	San Pablo Tijaltepec	Mixtec	17.1539	-97.4578	tija1235	xtl
+152	SantiagoTilantongoMixtec	Santiago Tilantongo	Mixtec	17.3596	-97.3861	diux1236	xtd
+153	SantaMariaTinduMixtec	Santa María Tindú	Mixtec	17.48954	-97.93558		
+154	SanAgustinTlacotepecMixtec	San Agustín Tlacotepec	Mixtec	17.20365	-97.51853	sana1284	xtm
+155	SanMiguelTlacotepecMixtec	San Miguel Tlacotepec	Mixtec	17.45511	-98.00552		
+156	TlahuapaMixtec	Tlahuapa	Mixtec	17.37553	-98.33826	alco1235	xta
+157	SantaCatarinaTlaltempanMixtec	Santa Catarina Tlaltempan	Mixtec	18.61485	-98.08867		
+158	SantiagoTlazoyaltepecMixtec	Santiago Tlazoyaltepec	Mixtec	17.0274	-96.99583	sant1446	mqh
+159	SantiagoTlazoyaltepecMixtec	Santiago Tlazoyaltepec	Mixtec	17.02704	-96.9783	tlaz1235	mqh
+160	SantaMariaTonahuixtlaMixtec	Santa María Tonahuixtla	Mixtec	18.20057	-97.89437		
+161	TototepecMixtec	Tototepec	Mixtec	17.43238	-98.58289	toto1307	mim
+162	TotoltepecGuerreroMixtec	Totoltepec de Guerrero	Mixtec	18.22581	-97.85526	chaz1235	xtb
+163	VillaTututepecMelchorOcampoMixtec	Villa de Tututepec de Melchor Ocampo	Mixtec	16.12968	-97.60452	tutu1243	mtu
+164	SanPedroTututepecMixtec	San Pedro Tututepec	Mixtec	16.12987	-97.6085	tutu1243	mtu
+165	SanJeronimoXayacatlanMixtec	San Jerónimo Xayacatlán	Mixtec	18.22159	-97.91563	south3001	mit
+166	XayacatlanBravoMixtec	Xayacatlán de Bravo	Mixtec	18.2353	-97.97435	south3001	mit
+167	XochapaMixtec	Xochapa	Mixtec	17.38134	-98.44988	xoch1238	xta
+168	SantaMariaYolotepecMixtec	Santa María Yolotepec	Mixtec	16.9648	-97.4537	taca1257	xtt
+169	YoloxochitlMixtec	Yoloxochitl	Mixtec	16.8059	-98.6293	yolo1241	xty
+170	SantiagoYosonduaMixtec_A	Santiago Yosondúa	Mixtec	16.9042	-97.5018	yoso1239	mpm
+171	SantiagoYosonduaMixtec_B	Santiago Yosondúa	Mixtec	16.9042	-97.5018	yoso1239	mpm
+172	SantaMariaYosoyuaMixtec	Santa María Yosoyúa	Mixtec	17.11985	-97.51553	sant1442	
+173	SantaCatarinaYosonotuMixtec	Santa Catarina Yosonotú	Mixtec	17.02073	-97.66201	sant1438	
+174	SanPedroYosonamaMixtec	San Pedro Yosoñama	Mixtec	17.4272	-97.77267	yoso1238	xtn
+175	SanBartolomeYucuaneMixtec	San Bartolomé Yucuañe	Mixtec	17.2832	-97.4285	yucu1250	mvg
+176	SantaMariaYucuhitiMixtec	Santa María Yucuhiti	Mixtec	17.03036	-97.78237	yucu1249	meh
+177	YucunutiBenitoJuarezMixtec	Yucuñuti de Benito Juárez	Mixtec	17.63409	-97.89151	yucu1251	mxb
+178	SanPedroYucunamaMixtec	San Pedro Yucunama	Mixtec	17.56221	-97.48291		
+179	SantaMariaYucunicocoMixtec	Santa María Yucunicoco	Mixtec	17.2372	-97.91806		
+180	YucuquimiOcampoMixtec	Yucuquimi de Ocampo	Mixtec	17.57853	-97.89014		
+181	YucunanyMixtec	Yucunany	Mixtec	17.300827	-97.893888	mixt1425	mix
+182	YutanduchiGuerreroMixtec	Yutanduchi de Guerrero	Mixtec	17.0311	-97.2293	yuta1240	mab
+183	SanJuanYutaMixtec	San Juan Yuta	Mixtec	17.02228	-97.17054		
+184	SanAndresYutatioMixtec	San Andrés Yutatío	Mixtec	17.60626	-97.89428		
+185	SantaMariaZacatepecMixtec	Santa María Zacatepec	Mixtec	16.7003	-97.9484	sant1436	mza
+186	SanSimonZahuatlanMixtec	San Simón Zahuatlán	Mixtec	17.8291	-98.00505	sans1274	
+187	ZapotitlanPalmasMixtec	Zapotitlán Palmas	Mixtec	17.88959	-97.82406		
