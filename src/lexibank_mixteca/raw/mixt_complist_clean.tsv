@@ -47,7 +47,7 @@ ID	DOCULECT	CONCEPT	SPANISH_GLOSS	VALUE	FORM	IDlist	CONCEPTICON_ID	LOAN	LOAN_SOU
 4900	MagdalenaPenascoMixtec	ANIMAL	animal	kiti	kiti	50	619			hollenbach2017diccionario	[A]	pena11
 5105	SanEstebanAtatlahucaMixtec_A	ANIMAL	animal	quɨtɨ	quɨtɨ	50	619			alexander1980gramatica	[A]	atat11
 5249	SantaMariaPapaloCuicatec	ANIMAL	animal	i³ti³	i³ti³	50	619			anderson1983diccionario		papa11
-5450	SanJuanTepeuxila1900Mixtec	ANIMAL	animal	iti	iti	50	619			belmar1902el-cuicateco		tepe03
+5450	SanJuanTepeuxila1900Cuicatec	ANIMAL	animal	iti	iti	50	619			belmar1902el-cuicateco		tepe03
 5635	Proto-Mixtec	ANIMAL	animal	kɨ́tɨ́ʔ	kɨ́tɨ́ʔ	50	619			swanton2020observaciones		prom01
 5636	AlcozaucaGuerreroMixtec	ANIMAL	animal	ki³ti⁴	ki³ti⁴	50	619			swanton2020observaciones		alco11
 5637	SantaMariaZacatepecMixtec	ANIMAL	animal	ki²ti²ʔ	ki²ti²ʔ	50	619			swanton2020observaciones		zaca11
@@ -205,7 +205,7 @@ ID	DOCULECT	CONCEPT	SPANISH_GLOSS	VALUE	FORM	IDlist	CONCEPTICON_ID	LOAN	LOAN_SOU
 4739	XochapaMixtec	ANT	hormiga	tio̠kó	tio̠kó	75	587			stark2013diccionario		xoch11
 4928	MagdalenaPenascoMixtec	ANT	hormiga	tioko	tioko	75	587			hollenbach2017diccionario	[A]	pena11
 5274	SantaMariaPapaloCuicatec	ANT	hormiga	i³cu⁴	i³cu⁴	75	587			anderson1983diccionario		papa11
-5468	SanJuanTepeuxila1900Mixtec	ANT	hormiga	iku	iku	75	587			belmar1902el-cuicateco		tepe03
+5468	SanJuanTepeuxila1900Cuicatec	ANT	hormiga	iku	iku	75	587			belmar1902el-cuicateco		tepe03
 5979	SanAndresChicahuaxtlaTriqui_A	ANT	hormiga	xucua³	xucua³	75	587			good1978diccionario		chic12
 6192	ElJicaralMixtec	ANT	hormiga	tiokó	tiokó	75	587			Emily John-Martin		jica13
 20172	SanMartinDuraznosMixtec_A	ANT	hormiga	txokó	txokó	75	587			hernandez2020san-martin		dura11
@@ -278,7 +278,7 @@ ID	DOCULECT	CONCEPT	SPANISH_GLOSS	VALUE	FORM	IDlist	CONCEPTICON_ID	LOAN	LOAN_SOU
 4683	XochapaMixtec	AUNT	tía	xìxì	xìxì	11	1272			stark2013diccionario		xoch11
 4859	MagdalenaPenascoMixtec	AUNT	tía	xixì	xixì	11	1272			hollenbach2017diccionario		pena11
 5210	SantaMariaPapaloCuicatec	AUNT	tía	du³di³	du³di³	11	1272			anderson1983diccionario		papa11
-5418	SanJuanTepeuxila1900Mixtec	AUNT	tía	dudi	dudi	11	1272			belmar1902el-cuicateco		tepe03
+5418	SanJuanTepeuxila1900Cuicatec	AUNT	tía	dudi	dudi	11	1272			belmar1902el-cuicateco		tepe03
 5914	SanAndresChicahuaxtlaTriqui_A	AUNT	tía	du'ui'²	du'ui'²	11	1272			good1978diccionario		chic12
 6124	ElJicaralMixtec	AUNT	tía	xixi	xixi	11	1272			Emily John-Martin		jica13
 20108	SanMartinDuraznosMixtec_A	AUNT	tía	shishi	shishi	11	1272			hernandez2020san-martin		dura11
@@ -383,7 +383,7 @@ ID	DOCULECT	CONCEPT	SPANISH_GLOSS	VALUE	FORM	IDlist	CONCEPTICON_ID	LOAN	LOAN_SOU
 4964	MagdalenaPenascoMixtec	BANANA	plátano	ndika	ndika	109	868			hollenbach2017diccionario	[A]	pena11
 5137	SanEstebanAtatlahucaMixtec_A	BANANA	plátano	ndica	ndica	109	868			alexander1980gramatica	[A]	atat11
 5309	SantaMariaPapaloCuicatec	BANANA	plátano	tia²ca²	tia²ca²	109	868			anderson1983diccionario		papa11
-5495	SanJuanTepeuxila1900Mixtec	BANANA	plátano	tiaka	tiaka	109	868			belmar1902el-cuicateco		tepe03
+5495	SanJuanTepeuxila1900Cuicatec	BANANA	plátano	tiaka	tiaka	109	868			belmar1902el-cuicateco		tepe03
 6014	SanAndresChicahuaxtlaTriqui_A	BANANA	plátano	nato⁴	nato⁴	109	868			good1978diccionario		chic12
 6227	ElJicaralMixtec	BANANA	plátano	ntiká	ntiká	109	868			Emily John-Martin		jica13
 20208	SanMartinDuraznosMixtec_A	BANANA	plátano	ntxikà	ntxikà	109	868			hernandez2020san-martin		dura11
@@ -602,7 +602,7 @@ ID	DOCULECT	CONCEPT	SPANISH_GLOSS	VALUE	FORM	IDlist	CONCEPTICON_ID	LOAN	LOAN_SOU
 4711	XochapaMixtec	BED	cama	xi̠to	xi̠to	48	1663			stark2013diccionario		xoch11
 4898	MagdalenaPenascoMixtec	BED	cama, lecho	jìto	jìto	48	1663			hollenbach2017diccionario		pena11
 5247	SantaMariaPapaloCuicatec	BED	cama	ca²ma⁴	ca²ma⁴	48	1663	yes	Spanish	anderson1983diccionario		papa11
-5449	SanJuanTepeuxila1900Mixtec	BED	cama, lecho	yundu	yundu	48	1663			belmar1902el-cuicateco		tepe03
+5449	SanJuanTepeuxila1900Cuicatec	BED	cama, lecho	yundu	yundu	48	1663			belmar1902el-cuicateco		tepe03
 5951	SanAndresChicahuaxtlaTriqui_A	BED	cama, lecho	nna³	nna³	48	1663			good1978diccionario		chic12
 6161	ElJicaralMixtec	BED	cama, lecho	xi̠to	xi̠to	48	1663			Emily John-Martin		jica13
 9084	SantaMariaAcatepecMixtec	BED	cama	sito	sito	48	1663			josserand1983mixtec		acat11
@@ -743,7 +743,7 @@ ID	DOCULECT	CONCEPT	SPANISH_GLOSS	VALUE	FORM	IDlist	CONCEPTICON_ID	LOAN	LOAN_SOU
 4724	XochapaMixtec	BEE	abeja	ñuñú	ñuñú	59	665			stark2013diccionario		xoch11
 4909	MagdalenaPenascoMixtec	BEE	abeja	ñuñù	ñuñù	59	665			hollenbach2017diccionario	[BA]	pena11
 5258	SantaMariaPapaloCuicatec	BEE	abeja	y'en²⁴	y'en²⁴	59	665			anderson1983diccionario		papa11
-5456	SanJuanTepeuxila1900Mixtec	BEE	abeja	itiyain	iti-yain	59	665			belmar1902el-cuicateco		tepe03
+5456	SanJuanTepeuxila1900Cuicatec	BEE	abeja	itiyain	iti-yain	59	665			belmar1902el-cuicateco		tepe03
 5962	SanAndresChicahuaxtlaTriqui_A	BEE	abeja	xutan³	xutan³	59	665			good1978diccionario		chic12
 6173	ElJicaralMixtec	BEE	abeja	tíñu̠ñú	tí-ñu̠ñú	59	665			Emily John-Martin		jica13
 20156	SanMartinDuraznosMixtec_A	BEE	abeja	ñùñù	ñùñù	59	665			hernandez2020san-martin		dura11
@@ -778,7 +778,7 @@ ID	DOCULECT	CONCEPT	SPANISH_GLOSS	VALUE	FORM	IDlist	CONCEPTICON_ID	LOAN	LOAN_SOU
 4617	AlacatlatzalaMixtec_A	BEESWAX	cera	ñima	ñima	148	1931			zylstra2012gramatica		alac11
 5006	MagdalenaPenascoMixtec	BEESWAX	cera	ñumà	ñumà	148	1931			hollenbach2017diccionario	[BA]	pena11
 5351	SantaMariaPapaloCuicatec	BEESWAX	cera, abeja	y'en²⁴	y'en²⁴	148	1931			anderson1983diccionario		papa11
-5521	SanJuanTepeuxila1900Mixtec	BEESWAX	cera	yain	yain	148	1931			belmar1902el-cuicateco		tepe03
+5521	SanJuanTepeuxila1900Cuicatec	BEESWAX	cera	yain	yain	148	1931			belmar1902el-cuicateco		tepe03
 6058	SanAndresChicahuaxtlaTriqui_A	BEESWAX	cera	yanj³an	yanj³an	148	1931			good1978diccionario		chic12
 6273	ElJicaralMixtec	BEESWAX	cera	ñu̠má	ñu̠má	148	1931			Emily John-Martin		jica13
 15564	SantaMariaAcatepecMixtec	BEESWAX	cera	ñu̧ma̧	ñu̧ma̧	148	1931			josserand1983mixtec		acat11
@@ -947,7 +947,7 @@ ID	DOCULECT	CONCEPT	SPANISH_GLOSS	VALUE	FORM	IDlist	CONCEPTICON_ID	LOAN	LOAN_SOU
 4879	MagdalenaPenascoMixtec	BELLY OR STOMACH	panza, estómago	chìi	chìi	30	2114			hollenbach2017diccionario		pena11
 5097	SanEstebanAtatlahucaMixtec_A	BELLY OR STOMACH	estómago	chīji	chīji	30	2114			alexander1980gramatica	[A]	atat11
 5229	SantaMariaPapaloCuicatec	BELLY OR STOMACH	panza, barriga	che⁴te⁴	che⁴te⁴	30	2114			anderson1983diccionario		papa11
-5439	SanJuanTepeuxila1900Mixtec	BELLY OR STOMACH	panza	chiati	chiati	30	2114			belmar1902el-cuicateco		tepe03
+5439	SanJuanTepeuxila1900Cuicatec	BELLY OR STOMACH	panza	chiati	chiati	30	2114			belmar1902el-cuicateco		tepe03
 5933	SanAndresChicahuaxtlaTriqui_A	BELLY OR STOMACH	panza, estómago	si-co'⁴³	si-co'⁴³	30	2114			good1978diccionario		chic12
 6143	ElJicaralMixtec	BELLY OR STOMACH	panza, barriga	ti̠xin	ti̠xin	30	2114			Emily John-Martin		jica13
 20127	SanMartinDuraznosMixtec_A	BELLY OR STOMACH	estómago	txìxin	txìxin	30	2114			hernandez2020san-martin		dura11
@@ -964,7 +964,7 @@ ID	DOCULECT	CONCEPT	SPANISH_GLOSS	VALUE	FORM	IDlist	CONCEPTICON_ID	LOAN	LOAN_SOU
 1998	SanPedroySanPabloTeposcolula1600Mixtec	BIG	grande cosa	sacanu	canu	173	1202			alvarado1593vocabulario		tepo01
 1999	SanPedroySanPabloTeposcolula1600Mixtec	BIG	grande cosa	saquaha	quaha	173	1202			alvarado1593vocabulario		tepo01
 2000	SanPedroySanPabloTeposcolula1600Mixtec	BIG	grande cosa	sananu	nanu	173	1202			alvarado1593vocabulario		tepo01
-5545	SanJuanTepeuxila1900Mixtec	BIG	grande	chiata	chiata	173	1202			belmar1902el-cuicateco		tepe03
+5545	SanJuanTepeuxila1900Cuicatec	BIG	grande	chiata	chiata	173	1202			belmar1902el-cuicateco		tepe03
 6084	SanAndresChicahuaxtlaTriqui_A	BIG	grande (de tamaño)	xa⁴chi³	xa⁴chi³	173	1202			good1978diccionario		chic12
 21729	SanMartinItunyosoTriqui	BIG	grande	xi³	xi³	173	1202			ChristianDiCanio		itun12
 339	YoloxochitlMixtec	BIG (PLURAL)	grande.PL	na'⁴nu³	na'⁴nu³	174				amith2020yoloxochitl		yolo12
@@ -1196,7 +1196,7 @@ ID	DOCULECT	CONCEPT	SPANISH_GLOSS	VALUE	FORM	IDlist	CONCEPTICON_ID	LOAN	LOAN_SOU
 4901	MagdalenaPenascoMixtec	BIRD	pájaro	lásaà	lá-saà	51	937			hollenbach2017diccionario		pena11
 5106	SanEstebanAtatlahucaMixtec_A	BIRD	pájaro	saa	saa	51	937			alexander1980gramatica	[C]	atat11
 5250	SantaMariaPapaloCuicatec	BIRD	pájaro	y'a²da²	y'a²da²	51	937			anderson1983diccionario		papa11
-5451	SanJuanTepeuxila1900Mixtec	BIRD	pájaro	yada	yada	51	937			belmar1902el-cuicateco		tepe03
+5451	SanJuanTepeuxila1900Cuicatec	BIRD	pájaro	yada	yada	51	937			belmar1902el-cuicateco		tepe03
 5954	SanAndresChicahuaxtlaTriqui_A	BIRD	pájaro	xataj⁴a	xataj⁴a	51	937			good1978diccionario		chic12
 6164	ElJicaralMixtec	BIRD	pájaro	saa	saa	51	937			Emily John-Martin		jica13
 9439	SantaMariaAcatepecMixtec	BIRD	pájaro	saa	saa	51	937			josserand1983mixtec		acat11
@@ -1347,7 +1347,7 @@ ID	DOCULECT	CONCEPT	SPANISH_GLOSS	VALUE	FORM	IDlist	CONCEPTICON_ID	LOAN	LOAN_SOU
 5050	MagdalenaPenascoMixtec	BITTER	amargo	uwà	uwà	182	887			hollenbach2017diccionario		pena11
 5051	MagdalenaPenascoMixtec	BITTER	amargo	uvà	uvà	182	887			hollenbach2017diccionario		pena11
 5385	SantaMariaPapaloCuicatec	BITTER	amargo	ya̠³	ya̠³	182	887			anderson1983diccionario		papa11
-5551	SanJuanTepeuxila1900Mixtec	BITTER	amargo	ya	ya	182	887			belmar1902el-cuicateco		tepe03
+5551	SanJuanTepeuxila1900Cuicatec	BITTER	amargo	ya	ya	182	887			belmar1902el-cuicateco		tepe03
 6090	SanAndresChicahuaxtlaTriqui_A	BITTER	amargo	ai'⁴⁵	ai'⁴⁵	182	887			good1978diccionario		chic12
 6308	ElJicaralMixtec	BITTER	amargo	u̠va̠	u̠va̠	182	887			Emily John-Martin		jica13
 18096	SantaMariaAcatepecMixtec	BITTER	amargo	uwa	uwa	182	887			josserand1983mixtec		acat11
@@ -1484,7 +1484,7 @@ ID	DOCULECT	CONCEPT	SPANISH_GLOSS	VALUE	FORM	IDlist	CONCEPTICON_ID	LOAN	LOAN_SOU
 5015	MagdalenaPenascoMixtec	BLACK	negro, oscuro	tnúú	tnúú	155	163			hollenbach2017diccionario	[A]	pena11
 5158	SanEstebanAtatlahucaMixtec_A	BLACK	negro	jnúú	jnúú	155	163			alexander1980gramatica	[B]	atat11
 5358	SantaMariaPapaloCuicatec	BLACK	negro	cuen¹	cuen¹	155	163			anderson1983diccionario		papa11
-5528	SanJuanTepeuxila1900Mixtec	BLACK	negro	kuain	kuain	155	163			belmar1902el-cuicateco		tepe03
+5528	SanJuanTepeuxila1900Cuicatec	BLACK	negro	kuain	kuain	155	163			belmar1902el-cuicateco		tepe03
 6065	SanAndresChicahuaxtlaTriqui_A	BLACK	negro	sa³⁴ maru⁵³	maru⁵³	155	163			good1978diccionario		chic12
 6281	ElJicaralMixtec	BLACK	negro	ntiáá	ntiáá	155	163			Emily John-Martin		jica13
 20258	SanMartinDuraznosMixtec_A	BLACK	negro	tùún	tùún	155	163			hernandez2020san-martin		dura11
@@ -1516,7 +1516,7 @@ ID	DOCULECT	CONCEPT	SPANISH_GLOSS	VALUE	FORM	IDlist	CONCEPTICON_ID	LOAN	LOAN_SOU
 4359	SanJuanColoradoMixtec_A	BLAME	culpa, pecado	cuatyí	cuatyí	206	134			stark1986diccionario		colo11
 4672	AlacatlatzalaMixtec_A	BLAME	culpa	kua̠chi	kua̠chi	206	134			zylstra2012gramatica		alac11
 5077	MagdalenaPenascoMixtec	BLAME	culpa, pecado	kuèchi	kuèchi	206	134			hollenbach2017diccionario		pena11
-5569	SanJuanTepeuxila1900Mixtec	BLAME	culpa	nundi	nundi	206	134			belmar1902el-cuicateco		tepe03
+5569	SanJuanTepeuxila1900Cuicatec	BLAME	culpa	nundi	nundi	206	134			belmar1902el-cuicateco		tepe03
 5891	Proto-Mixtec	BLAME	culpa	kʷètí	kʷètí	206	134			swanton2020observaciones		prom01
 5892	AlcozaucaGuerreroMixtec	BLAME	culpa	kʷa¹ʧi³	kʷa¹ʧi³	206	134			swanton2020observaciones		alco11
 5893	SantaMariaZacatepecMixtec	BLAME	culpa	kʷa²ti²¹	kʷa²ti²¹	206	134			swanton2020observaciones		zaca11
@@ -1639,7 +1639,7 @@ ID	DOCULECT	CONCEPT	SPANISH_GLOSS	VALUE	FORM	IDlist	CONCEPTICON_ID	LOAN	LOAN_SOU
 4688	XochapaMixtec	BLOOD	sangre	ni̠í	ni̠í	17	946			stark2013diccionario		xoch11
 4866	MagdalenaPenascoMixtec	BLOOD	sangre	niñì	niñì	17	946			hollenbach2017diccionario	[BA]	pena11
 5217	SantaMariaPapaloCuicatec	BLOOD	sangre	yun³	yun³	17	946			anderson1983diccionario		papa11
-5423	SanJuanTepeuxila1900Mixtec	BLOOD	sangre	yun	yun	17	946			belmar1902el-cuicateco		tepe03
+5423	SanJuanTepeuxila1900Cuicatec	BLOOD	sangre	yun	yun	17	946			belmar1902el-cuicateco		tepe03
 5583	Proto-Mixtec	BLOOD	sangre	nɨ̀jɨ̀ʔ	nɨ̀jɨ̀ʔ	17	946			swanton2020observaciones		prom01
 5584	AlcozaucaGuerreroMixtec	BLOOD	sangre	ni¹i⁴	ni¹i⁴	17	946			swanton2020observaciones		alco11
 5585	SantaMariaZacatepecMixtec	BLOOD	sangre	ni²i²¹ʔ	ni²i²¹ʔ	17	946			swanton2020observaciones		zaca11
@@ -1896,7 +1896,7 @@ ID	DOCULECT	CONCEPT	SPANISH_GLOSS	VALUE	FORM	IDlist	CONCEPTICON_ID	LOAN	LOAN_SOU
 4867	MagdalenaPenascoMixtec	BONE	hueso	yiki	yiki	18	1394			hollenbach2017diccionario	[A]	pena11
 5091	SanEstebanAtatlahucaMixtec_A	BONE	hueso	yɨquɨ	yɨquɨ	18	1394			alexander1980gramatica	[A]	atat11
 5218	SantaMariaPapaloCuicatec	BONE	hueso	i³ni³	i³ni³	18	1394			anderson1983diccionario		papa11
-5424	SanJuanTepeuxila1900Mixtec	BONE	hueso	ini	ini	18	1394			belmar1902el-cuicateco		tepe03
+5424	SanJuanTepeuxila1900Cuicatec	BONE	hueso	ini	ini	18	1394			belmar1902el-cuicateco		tepe03
 5921	SanAndresChicahuaxtlaTriqui_A	BONE	hueso	cu¹	cu¹	18	1394			good1978diccionario		chic12
 6131	ElJicaralMixtec	BONE	hueso	lakí	lakí	18	1394			Emily John-Martin		jica13
 20115	SanMartinDuraznosMixtec_A	BONE	hueso	ko'nto	ko'nto	18	1394			hernandez2020san-martin		dura11
@@ -2039,7 +2039,7 @@ ID	DOCULECT	CONCEPT	SPANISH_GLOSS	VALUE	FORM	IDlist	CONCEPTICON_ID	LOAN	LOAN_SOU
 15544	SanPedroySanPabloTeposcolulaMixtec	BRAND	insignia, marca	tnuni	tnuni	145				josserand1983mixtec		tepo11
 1643	SanAndresChicahuaxtla1890Triqui	BROTHER	hermano	Tînêha	tînêha	9	1262			belmar1897ensayo		chic02
 5208	SantaMariaPapaloCuicatec	BROTHER	hermano, hermanastro	d'i³nu⁴	d'i³nu⁴	9	1262			anderson1983diccionario		papa11
-5416	SanJuanTepeuxila1900Mixtec	BROTHER	hermano	ndinu	ndinu	9	1262			belmar1902el-cuicateco		tepe03
+5416	SanJuanTepeuxila1900Cuicatec	BROTHER	hermano	ndinu	ndinu	9	1262			belmar1902el-cuicateco		tepe03
 8	AbasoloValleMixtec	BROTHER (OF MAN)	hermano de hombre	ñani	ñani	9	559			galindo-sanchez2009vocabulario		abas11
 177	YoloxochitlMixtec	BROTHER (OF MAN)	hermano de hombre	ya³ni²	ya³ni²	9	559			amith2020yoloxochitl		yolo12
 378	SantiagoJamiltepecMixtec_A	BROTHER (OF MAN)	brother of man	yañi	yañi	9	559			johnson1988syntactic		jami11
@@ -2239,7 +2239,7 @@ ID	DOCULECT	CONCEPT	SPANISH_GLOSS	VALUE	FORM	IDlist	CONCEPTICON_ID	LOAN	LOAN_SOU
 4919	MagdalenaPenascoMixtec	CAT	gato	vílú	vílú	69	1208			hollenbach2017diccionario	[A]	pena11
 5116	SanEstebanAtatlahucaMixtec_A	CAT	gato	vílu	vílu	69	1208			alexander1980gramatica	[A]	atat11
 5268	SantaMariaPapaloCuicatec	CAT	gato	vi²chi¹	vi²chi¹	69	1208			anderson1983diccionario		papa11
-5462	SanJuanTepeuxila1900Mixtec	CAT	gato	bichi	bichi	69	1208			belmar1902el-cuicateco		tepe03
+5462	SanJuanTepeuxila1900Cuicatec	CAT	gato	bichi	bichi	69	1208			belmar1902el-cuicateco		tepe03
 5973	SanAndresChicahuaxtlaTriqui_A	CAT	gato	xilu³	xilu³	69	1208			good1978diccionario		chic12
 6183	ElJicaralMixtec	CAT	gato	chítu	chítu	69	1208			Emily John-Martin		jica13
 10447	SantaMariaAcatepecMixtec	CAT	gato	(sumi̧)	sumi̧	69	1208			josserand1983mixtec		acat11
@@ -2400,7 +2400,7 @@ ID	DOCULECT	CONCEPT	SPANISH_GLOSS	VALUE	FORM	IDlist	CONCEPTICON_ID	LOAN	LOAN_SOU
 4426	SantaMariaZacatepecMixtec	CHARCOAL	carbón	tuun	tuun	120	1188			towne2011gramatica		zaca11
 4975	MagdalenaPenascoMixtec	CHARCOAL	carbón	tìkàyi	tì-kàyi	120	1188			hollenbach2017diccionario	[A]	pena11
 5321	SantaMariaPapaloCuicatec	CHARCOAL	carbón	yi²yu⁴	yi²yu⁴	120	1188			anderson1983diccionario		papa11
-5501	SanJuanTepeuxila1900Mixtec	CHARCOAL	carbón	iyu	iyu	120	1188			belmar1902el-cuicateco		tepe03
+5501	SanJuanTepeuxila1900Cuicatec	CHARCOAL	carbón	iyu	iyu	120	1188			belmar1902el-cuicateco		tepe03
 6026	SanAndresChicahuaxtlaTriqui_A	CHARCOAL	carbón (de humo; tizne)	yo'o⁵³	yo'o⁵³	120	1188			good1978diccionario		chic12
 6027	SanAndresChicahuaxtlaTriqui_A	CHARCOAL	carbón (de leña)	ru'ui'³i	ru'ui'³i	120	1188			good1978diccionario		chic12
 6240	ElJicaralMixtec	CHARCOAL	carbón	tu̠ún	tu̠ún	120	1188			Emily John-Martin		jica13
@@ -2489,7 +2489,7 @@ ID	DOCULECT	CONCEPT	SPANISH_GLOSS	VALUE	FORM	IDlist	CONCEPTICON_ID	LOAN	LOAN_SOU
 4852	MagdalenaPenascoMixtec	CHILD (DESCENDANT)	hijo/hija	sà'ya	sà'ya	5	1801			hollenbach2017diccionario		pena11
 5085	SanEstebanAtatlahucaMixtec_A	CHILD (DESCENDANT)	hijo/hija	sēhe	sēhe	5	1801			alexander1980gramatica	[A]	atat11
 5204	SantaMariaPapaloCuicatec	CHILD (DESCENDANT)	hijo/hija	da³ya³	da³ya³	5	1801			anderson1983diccionario		papa11
-5415	SanJuanTepeuxila1900Mixtec	CHILD (DESCENDANT)	hijo/hija	daya	daya	5	1801			belmar1902el-cuicateco		tepe03
+5415	SanJuanTepeuxila1900Cuicatec	CHILD (DESCENDANT)	hijo/hija	daya	daya	5	1801			belmar1902el-cuicateco		tepe03
 5573	Proto-Mixtec	CHILD (DESCENDANT)	hijo	sàʔjí	sàʔjí	5	1801			swanton2020observaciones		prom01
 5574	AlcozaucaGuerreroMixtec	CHILD (DESCENDANT)	hijo	se¹ʔe³	se¹ʔe³	5	1801			swanton2020observaciones		alco11
 5575	SantaMariaZacatepecMixtec	CHILD (DESCENDANT)	hijo	se²ʔe²¹	se²ʔe²¹	5	1801			swanton2020observaciones		zaca11
@@ -2731,7 +2731,7 @@ ID	DOCULECT	CONCEPT	SPANISH_GLOSS	VALUE	FORM	IDlist	CONCEPTICON_ID	LOAN	LOAN_SOU
 4521	AlacatlatzalaMixtec_A	CLOTHES	ropa	tiko̠to̠	tiko̠to̠	39	1895			zylstra2012gramatica		alac11
 4704	XochapaMixtec	CLOTHES	ropa	ti̠ko̠to̠	ti̠ko̠to̠	39	1895			stark2013diccionario		xoch11
 4705	XochapaMixtec	CLOTHES	ropa	to̠to̠	to̠to̠	39	1895			stark2013diccionario		xoch11
-5444	SanJuanTepeuxila1900Mixtec	CLOTHES	ropa	tiinu	tiinu	39	1895			belmar1902el-cuicateco		tepe03
+5444	SanJuanTepeuxila1900Cuicatec	CLOTHES	ropa	tiinu	tiinu	39	1895			belmar1902el-cuicateco		tepe03
 20136	SanMartinDuraznosMixtec_A	CLOTHES	ropa	txikòtò	txi-kòtò	39	1895			hernandez2020san-martin		dura11
 20494	SanPedroYosonamaMixtec	CLOTHES	ropa	sa'un	sa'un	39	1895			gittlen2016gramatica		yoso14
 20621	YucunanyMixtec	CLOTHES	clothes	sa'mǎ	sa'mǎ	39	1895			salazar2020yucunani		yucu17
@@ -2756,7 +2756,7 @@ ID	DOCULECT	CONCEPT	SPANISH_GLOSS	VALUE	FORM	IDlist	CONCEPTICON_ID	LOAN	LOAN_SOU
 4784	XochapaMixtec	CLOUD	nube	vi̠kó	vi̠kó	135	1489			stark2013diccionario		xoch11
 4993	MagdalenaPenascoMixtec	CLOUD	nube	vikò	vikò	135	1489			hollenbach2017diccionario	[BA]	pena11
 5337	SantaMariaPapaloCuicatec	CLOUD	nube	men²⁴	men²⁴	135	1489			anderson1983diccionario		papa11
-5510	SanJuanTepeuxila1900Mixtec	CLOUD	nube	me	me	135	1489			belmar1902el-cuicateco		tepe03
+5510	SanJuanTepeuxila1900Cuicatec	CLOUD	nube	me	me	135	1489			belmar1902el-cuicateco		tepe03
 6044	SanAndresChicahuaxtlaTriqui_A	CLOUD	nube	nga³	nga³	135	1489			good1978diccionario		chic12
 6259	ElJicaralMixtec	CLOUD	nube	vi̠kó	vi̠kó	135	1489			Emily John-Martin		jica13
 20236	SanMartinDuraznosMixtec_A	CLOUD	nube	vìkò	vìkò	135	1489			hernandez2020san-martin		dura11
@@ -2912,7 +2912,7 @@ ID	DOCULECT	CONCEPT	SPANISH_GLOSS	VALUE	FORM	IDlist	CONCEPTICON_ID	LOAN	LOAN_SOU
 4815	XochapaMixtec	COLD	frío	vi̠xin	vi̠xin	171	1287			stark2013diccionario		xoch11
 5034	MagdalenaPenascoMixtec	COLD	frío	vìjin	vìjin	171	1287			hollenbach2017diccionario		pena11
 5374	SantaMariaPapaloCuicatec	COLD	frío	i³cha²	i³cha²	171	1287			anderson1983diccionario		papa11
-5544	SanJuanTepeuxila1900Mixtec	COLD	frío	ichia	ichia	171	1287			belmar1902el-cuicateco		tepe03
+5544	SanJuanTepeuxila1900Cuicatec	COLD	frío	ichia	ichia	171	1287			belmar1902el-cuicateco		tepe03
 5833	Proto-Mixtec	COLD	frio	wìxĩ́	wìxĩ́	171	1287			swanton2020observaciones		prom01
 5834	AlcozaucaGuerreroMixtec	COLD	frio	bi¹ʃĩ³	bi¹ʃĩ³	171	1287			swanton2020observaciones		alco11
 5835	SantaMariaZacatepecMixtec	COLD	frio	bi²ʧĩ²¹	bi²ʧĩ²¹	171	1287			swanton2020observaciones		zaca11
@@ -3066,7 +3066,7 @@ ID	DOCULECT	CONCEPT	SPANISH_GLOSS	VALUE	FORM	IDlist	CONCEPTICON_ID	LOAN	LOAN_SOU
 4280	SanJuanColoradoMixtec_A	COMB	peine	cùcà	cùcà	128	1475			stark1986diccionario		colo11
 4986	MagdalenaPenascoMixtec	COMB	peine	kukà	kukà	128	1475			hollenbach2017diccionario	{BA}	pena11
 5330	SantaMariaPapaloCuicatec	COMB	peine	ca²ca⁴	ca²ca⁴	128	1475			anderson1983diccionario		papa11
-5505	SanJuanTepeuxila1900Mixtec	COMB	peine	kaka	kaka	128	1475			belmar1902el-cuicateco		tepe03
+5505	SanJuanTepeuxila1900Cuicatec	COMB	peine	kaka	kaka	128	1475			belmar1902el-cuicateco		tepe03
 6036	SanAndresChicahuaxtlaTriqui_A	COMB	peine	gutsï'⁴ïj	gutsï'⁴ïj	128	1475			good1978diccionario		chic12
 6251	ElJicaralMixtec	COMB	peine	vi̠ka̠	vi̠ka̠	128	1475			Emily John-Martin		jica13
 6252	ElJicaralMixtec	COMB	peine	kui̠ka̠	kui̠ka̠	128	1475			Emily John-Martin		jica13
@@ -3209,7 +3209,7 @@ ID	DOCULECT	CONCEPT	SPANISH_GLOSS	VALUE	FORM	IDlist	CONCEPTICON_ID	LOAN	LOAN_SOU
 4971	MagdalenaPenascoMixtec	COOKING POT	olla	kìsi	kìsi	116	3653			hollenbach2017diccionario		pena11
 5141	SanEstebanAtatlahucaMixtec_A	COOKING POT	olla	quɨ̄sɨ	quɨ̄sɨ	116	3653			alexander1980gramatica	[A]	atat11
 5317	SantaMariaPapaloCuicatec	COOKING POT	olla	chi³ta³	chi³ta³	116	3653			anderson1983diccionario		papa11
-5498	SanJuanTepeuxila1900Mixtec	COOKING POT	olla	chita	chita	116	3653			belmar1902el-cuicateco		tepe03
+5498	SanJuanTepeuxila1900Cuicatec	COOKING POT	olla	chita	chita	116	3653			belmar1902el-cuicateco		tepe03
 5728	Proto-Mixtec	COOKING POT	olla	kɨ̀sɨ́	kɨ̀sɨ́	116	3653			swanton2020observaciones		prom01
 5729	AlcozaucaGuerreroMixtec	COOKING POT	olla	ki¹si³	ki¹si³	116	3653			swanton2020observaciones		alco11
 5730	SantaMariaZacatepecMixtec	COOKING POT	olla	ki²si²¹	ki²si²¹	116	3653			swanton2020observaciones		zaca11
@@ -3353,7 +3353,7 @@ ID	DOCULECT	CONCEPT	SPANISH_GLOSS	VALUE	FORM	IDlist	CONCEPTICON_ID	LOAN	LOAN_SOU
 4941	MagdalenaPenascoMixtec	CORN	maíz en grano	nunì	nunì	87	506			hollenbach2017diccionario	[BA]	pena11
 5126	SanEstebanAtatlahucaMixtec_A	CORN	maíz	nunī	nunī	87	506			alexander1980gramatica	[C]	atat11
 5287	SantaMariaPapaloCuicatec	CORN	maíz en grano	ni²nu²	ni²nu²	87	506			anderson1983diccionario		papa11
-5483	SanJuanTepeuxila1900Mixtec	CORN	maíz	ninu	ninu	87	506			belmar1902el-cuicateco		tepe03
+5483	SanJuanTepeuxila1900Cuicatec	CORN	maíz	ninu	ninu	87	506			belmar1902el-cuicateco		tepe03
 5689	Proto-Mixtec	CORN	maíz	nònìʔ	nònìʔ	87	506			swanton2020observaciones		prom01
 5690	AlcozaucaGuerreroMixtec	CORN	maíz	nu¹ni⁴	nu¹ni⁴	87	506			swanton2020observaciones		alco11
 5691	SantaMariaZacatepecMixtec	CORN	maíz	nu²ni²¹ʔ	nu²ni²¹ʔ	87	506			swanton2020observaciones		zaca11
@@ -3511,7 +3511,7 @@ ID	DOCULECT	CONCEPT	SPANISH_GLOSS	VALUE	FORM	IDlist	CONCEPTICON_ID	LOAN	LOAN_SOU
 4752	XochapaMixtec	CORN DOUGH	masa	uxán	uxán	91				stark2013diccionario		xoch11
 4945	MagdalenaPenascoMixtec	CORN DOUGH	masa	ñujan	ñujan	91				hollenbach2017diccionario	[A]	pena11
 5291	SantaMariaPapaloCuicatec	CORN DOUGH	masa	ya⁴chi⁴	ya⁴chi⁴	91				anderson1983diccionario		papa11
-5484	SanJuanTepeuxila1900Mixtec	CORN DOUGH	masa	yachi	yachi	91				belmar1902el-cuicateco		tepe03
+5484	SanJuanTepeuxila1900Cuicatec	CORN DOUGH	masa	yachi	yachi	91				belmar1902el-cuicateco		tepe03
 5996	SanAndresChicahuaxtlaTriqui_A	CORN DOUGH	masa	quïnj³ïn	quïnj³ïn	91				good1978diccionario		chic12
 6209	ElJicaralMixtec	CORN DOUGH	masa	yuxán	yuxán	91				Emily John-Martin		jica13
 11592	SantaMariaAcatepecMixtec	CORN DOUGH	masa	yusa̧	yusa̧	91				josserand1983mixtec		acat11
@@ -3809,8 +3809,8 @@ ID	DOCULECT	CONCEPT	SPANISH_GLOSS	VALUE	FORM	IDlist	CONCEPTICON_ID	LOAN	LOAN_SOU
 4244	SanJuanColoradoMixtec_A	CORN STALK	rastrojo, totomostle	yàmà	yàmà	93				stark1986diccionario		colo11
 4948	MagdalenaPenascoMixtec	CORN STALK	rastrojo (el tallo entero)	itè nìi	itè	93				hollenbach2017diccionario	[A]	pena11
 5293	SantaMariaPapaloCuicatec	CORN STALK	rastrojo	yi²v'o²⁴	yi²v'o²⁴	93				anderson1983diccionario		papa11
-5486	SanJuanTepeuxila1900Mixtec	CORN STALK	rastrojo	yabó	yabó	93				belmar1902el-cuicateco		tepe03
-5487	SanJuanTepeuxila1900Mixtec	CORN STALK	rastrojo	nayama	nayama	93				belmar1902el-cuicateco		tepe03
+5486	SanJuanTepeuxila1900Cuicatec	CORN STALK	rastrojo	yabó	yabó	93				belmar1902el-cuicateco		tepe03
+5487	SanJuanTepeuxila1900Cuicatec	CORN STALK	rastrojo	nayama	nayama	93				belmar1902el-cuicateco		tepe03
 5998	SanAndresChicahuaxtlaTriqui_A	CORN STALK	rastrojo	gui'yo⁵³	gui'yo⁵³	93				good1978diccionario		chic12
 11834	SantaMariaAcatepecMixtec	CORN STALK	rastrojo	ña̧ma̧	ña̧ma̧	93				josserand1983mixtec		acat11
 11835	SanMiguelAchiutlaMixtec	CORN STALK	rastrojo	ña̧ma̧	ña̧ma̧	93				josserand1983mixtec		achi11
@@ -3929,7 +3929,7 @@ ID	DOCULECT	CONCEPT	SPANISH_GLOSS	VALUE	FORM	IDlist	CONCEPTICON_ID	LOAN	LOAN_SOU
 4792	XochapaMixtec	COTTON	algodón	kachí	kachí	144	1850			stark2013diccionario		xoch11
 5002	MagdalenaPenascoMixtec	COTTON	algodón	kachì	kachì	144	1850			hollenbach2017diccionario	{BA}	pena11
 5347	SantaMariaPapaloCuicatec	COTTON	algodón	ya̠³va̠³ cu⁴chi⁴	ya̠³va̠³-cu⁴chi⁴	144	1850			anderson1983diccionario		papa11
-5518	SanJuanTepeuxila1900Mixtec	COTTON	algodón	kuchi	kuchi	144	1850			belmar1902el-cuicateco		tepe03
+5518	SanJuanTepeuxila1900Cuicatec	COTTON	algodón	kuchi	kuchi	144	1850			belmar1902el-cuicateco		tepe03
 5783	Proto-Mixtec	COTTON	algodón	kàtìʔ	kàtìʔ	144	1850			swanton2020observaciones		prom01
 5784	AlcozaucaGuerreroMixtec	COTTON	algodón	ka¹ʧi⁴	ka¹ʧi⁴	144	1850			swanton2020observaciones		alco11
 5785	SantaMariaZacatepecMixtec	COTTON	algodón	ka²ti²¹ʔ	ka²ti²¹ʔ	144	1850			swanton2020observaciones		zaca11
@@ -4164,7 +4164,7 @@ ID	DOCULECT	CONCEPT	SPANISH_GLOSS	VALUE	FORM	IDlist	CONCEPTICON_ID	LOAN	LOAN_SOU
 5071	MagdalenaPenascoMixtec	DAY (24 HOURS)	día	kivì	kivì	200	1260			hollenbach2017diccionario	[BA]	pena11
 5192	SanEstebanAtatlahucaMixtec_A	DAY (24 HOURS)	día	quɨvɨ̄	quɨvɨ̄	200	1260			alexander1980gramatica	[C]	atat11
 5405	SantaMariaPapaloCuicatec	DAY (24 HOURS)	día, fecha	gu³vi³	gu³vi³	200	1260			anderson1983diccionario		papa11
-5564	SanJuanTepeuxila1900Mixtec	DAY (24 HOURS)	día	ngubi	ngubi	200	1260			belmar1902el-cuicateco		tepe03
+5564	SanJuanTepeuxila1900Cuicatec	DAY (24 HOURS)	día	ngubi	ngubi	200	1260			belmar1902el-cuicateco		tepe03
 6106	SanAndresChicahuaxtlaTriqui_A	DAY (24 HOURS)	día	güi³	güi³	200	1260			good1978diccionario		chic12
 6326	ElJicaralMixtec	DAY (24 HOURS)	día	ki̠í	ki̠í	200	1260			Emily John-Martin		jica13
 19411	SantaMariaAcatepecMixtec	DAY (24 HOURS)	día	kɨwɨ	kɨwɨ	200	1260			josserand1983mixtec		acat11
@@ -4358,7 +4358,7 @@ ID	DOCULECT	CONCEPT	SPANISH_GLOSS	VALUE	FORM	IDlist	CONCEPTICON_ID	LOAN	LOAN_SOU
 4911	MagdalenaPenascoMixtec	DEER	venado	isù	isù	61	1936			hollenbach2017diccionario	{BA}	pena11
 5112	SanEstebanAtatlahucaMixtec_A	DEER	venado	isu	isu	61	1936			alexander1980gramatica	[C]	atat11
 5260	SantaMariaPapaloCuicatec	DEER	venado	i³che¹⁴nu³	i³che¹⁴nu³	61	1936			anderson1983diccionario		papa11
-5459	SanJuanTepeuxila1900Mixtec	DEER	venado	idichianu	idi-chianu	61	1936			belmar1902el-cuicateco		tepe03
+5459	SanJuanTepeuxila1900Cuicatec	DEER	venado	idichianu	idi-chianu	61	1936			belmar1902el-cuicateco		tepe03
 5965	SanAndresChicahuaxtlaTriqui_A	DEER	venado	xutaj³	xutaj³	61	1936			good1978diccionario		chic12
 6175	ElJicaralMixtec	DEER	venado	isu	isu	61	1936			Emily John-Martin		jica13
 10217	SantaMariaAcatepecMixtec	DEER	venado	isu	isu	61	1936			josserand1983mixtec		acat11
@@ -4505,7 +4505,7 @@ ID	DOCULECT	CONCEPT	SPANISH_GLOSS	VALUE	FORM	IDlist	CONCEPTICON_ID	LOAN	LOAN_SOU
 4998	MagdalenaPenascoMixtec	DEW	rocío, gota	yúyú	yúyú	140	1977			hollenbach2017diccionario	[A]	pena11
 5149	SanEstebanAtatlahucaMixtec_A	DEW	rocío	yúyú	yúyú	140	1977			alexander1980gramatica	[B]	atat11
 5343	SantaMariaPapaloCuicatec	DEW	rocío	nu⁴ni⁴ d'i²v'i³yu³	nu⁴ni⁴-d'i²v'i³yu³	140	1977			anderson1983diccionario		papa11
-5515	SanJuanTepeuxila1900Mixtec	DEW	rocío	dibiiyu	dibiiyu	140	1977			belmar1902el-cuicateco		tepe03
+5515	SanJuanTepeuxila1900Cuicatec	DEW	rocío	dibiiyu	dibiiyu	140	1977			belmar1902el-cuicateco		tepe03
 5773	Proto-Mixtec	DEW	rocío	(ʔ)-jújóʔ	ʔ-jújóʔ	140	1977			swanton2020observaciones		prom01
 5774	AlcozaucaGuerreroMixtec	DEW	rocío	ju⁴ju⁴	ju⁴ju⁴	140	1977			swanton2020observaciones		alco11
 5775	SantaMariaZacatepecMixtec	DEW	rocío	ju²ju²ʔ	ju²ju²ʔ	140	1977			swanton2020observaciones		zaca11
@@ -4633,7 +4633,7 @@ ID	DOCULECT	CONCEPT	SPANISH_GLOSS	VALUE	FORM	IDlist	CONCEPTICON_ID	LOAN	LOAN_SOU
 4882	MagdalenaPenascoMixtec	DISEASE	enfermedad	kue'è	kue'è	33	1986			hollenbach2017diccionario	{BA}	pena11
 5099	SanEstebanAtatlahucaMixtec_A	DISEASE	enfermedad	cuehyɨ	cuehyɨ	33	1986			alexander1980gramatica	[A]	atat11
 5232	SantaMariaPapaloCuicatec	DISEASE	enfermedad	ca³'a³	ca³'a³	33	1986			anderson1983diccionario		papa11
-5442	SanJuanTepeuxila1900Mixtec	DISEASE	enfermedad	kai	kai	33	1986			belmar1902el-cuicateco		tepe03
+5442	SanJuanTepeuxila1900Cuicatec	DISEASE	enfermedad	kai	kai	33	1986			belmar1902el-cuicateco		tepe03
 5937	SanAndresChicahuaxtlaTriqui_A	DISEASE	enfermedad	xi'i⁵	xi'i⁵	33	1986			good1978diccionario		chic12
 6146	ElJicaralMixtec	DISEASE	enfermedad	kue̠'e̠	kue̠'e̠	33	1986			Emily John-Martin		jica13
 7873	SantaMariaAcatepecMixtec	DISEASE	enfermedad	kʷeʔe	kʷeʔe	33	1986			josserand1983mixtec		acat11
@@ -4802,7 +4802,7 @@ ID	DOCULECT	CONCEPT	SPANISH_GLOSS	VALUE	FORM	IDlist	CONCEPTICON_ID	LOAN	LOAN_SOU
 4918	MagdalenaPenascoMixtec	DOG	perro	lá-inà	lá-inà	68	2009			hollenbach2017diccionario		pena11
 5115	SanEstebanAtatlahucaMixtec_A	DOG	perro	ina	ina	68	2009			alexander1980gramatica	[C]	atat11
 5267	SantaMariaPapaloCuicatec	DOG	perro	y'a²na⁴	y'a²na⁴	68	2009			anderson1983diccionario		papa11
-5461	SanJuanTepeuxila1900Mixtec	DOG	perro	yana	yana	68	2009			belmar1902el-cuicateco		tepe03
+5461	SanJuanTepeuxila1900Cuicatec	DOG	perro	yana	yana	68	2009			belmar1902el-cuicateco		tepe03
 5654	Proto-Mixtec	DOG	perro	(tɨ¹-)ínà²	tɨ¹-ínà²	68	2009			swanton2020observaciones		prom01
 5655	AlcozaucaGuerreroMixtec	DOG	perro	ti²na²	t-i²na²	68	2009			swanton2020observaciones		alco11
 5656	SantaMariaZacatepecMixtec	DOG	perro	i²na²	i²na²	68	2009			swanton2020observaciones		zaca11
@@ -4830,8 +4830,8 @@ ID	DOCULECT	CONCEPT	SPANISH_GLOSS	VALUE	FORM	IDlist	CONCEPTICON_ID	LOAN	LOAN_SOU
 4361	SanJuanColoradoMixtec_A	DREAM	sueño	ñímaahná	ñímaahná	207	2374			stark1986diccionario		colo11
 5078	MagdalenaPenascoMixtec	DREAM	sueño	ñùmà'ná	ñùmà'ná	207	2374			hollenbach2017diccionario	[B]	pena11
 5411	SantaMariaPapaloCuicatec	DREAM	sueño, noche	yan³	yan³	207	2374			anderson1983diccionario		papa11
-5570	SanJuanTepeuxila1900Mixtec	DREAM	sueño	bad'iana	bad'iana	207	2374			belmar1902el-cuicateco		tepe03
-5571	SanJuanTepeuxila1900Mixtec	DREAM	sueño	badyauna	badyauna	207	2374			belmar1902el-cuicateco		tepe03
+5570	SanJuanTepeuxila1900Cuicatec	DREAM	sueño	bad'iana	bad'iana	207	2374			belmar1902el-cuicateco		tepe03
+5571	SanJuanTepeuxila1900Cuicatec	DREAM	sueño	badyauna	badyauna	207	2374			belmar1902el-cuicateco		tepe03
 5896	Proto-Mixtec	DREAM	sueño	(ᴮ)-xánì	ᴮ-xánì	207	2374			swanton2020observaciones		prom01
 5897	AlcozaucaGuerreroMixtec	DREAM	sueño	ʃa²ni²	ʃa²ni²	207	2374			swanton2020observaciones		alco11
 5898	SantaMariaZacatepecMixtec	DREAM	sueño	ʧa²ni²	ʧa²ni²	207	2374			swanton2020observaciones		zaca11
@@ -4862,7 +4862,7 @@ ID	DOCULECT	CONCEPT	SPANISH_GLOSS	VALUE	FORM	IDlist	CONCEPTICON_ID	LOAN	LOAN_SOU
 5009	MagdalenaPenascoMixtec	DUST	polvo, harina	yuchi	yuchi	151	2			hollenbach2017diccionario	[A]	pena11
 5010	MagdalenaPenascoMixtec	DUST	polvo	ñùyàká	ñù-yàká	151	2			hollenbach2017diccionario	[B]	pena11
 5354	SantaMariaPapaloCuicatec	DUST	polvo	yu⁴ni⁴	yu⁴ni⁴	151	2			anderson1983diccionario		papa11
-5524	SanJuanTepeuxila1900Mixtec	DUST	polvo	iyaka	iyaka	151	2			belmar1902el-cuicateco		tepe03
+5524	SanJuanTepeuxila1900Cuicatec	DUST	polvo	iyaka	iyaka	151	2			belmar1902el-cuicateco		tepe03
 6061	SanAndresChicahuaxtlaTriqui_A	DUST	polvo	yaj³ yo'o¹	yaj³-yo'o¹	151	2			good1978diccionario		chic12
 6276	ElJicaralMixtec	DUST	polvo	yuchí	yuchí	151	2			Emily John-Martin		jica13
 6277	ElJicaralMixtec	DUST	polvo	yáká	yáká	151	2			Emily John-Martin		jica13
@@ -4914,8 +4914,8 @@ ID	DOCULECT	CONCEPT	SPANISH_GLOSS	VALUE	FORM	IDlist	CONCEPTICON_ID	LOAN	LOAN_SOU
 4695	XochapaMixtec	EAR	oreja	so̠'o	so̠'o	24	1247			stark2013diccionario		xoch11
 4873	MagdalenaPenascoMixtec	EAR	oreja	sò'o	sò'o	24	1247			hollenbach2017diccionario	{A}	pena11
 5224	SantaMariaPapaloCuicatec	EAR	oreja	ven³	ven³	24	1247			anderson1983diccionario		papa11
-5432	SanJuanTepeuxila1900Mixtec	EAR	oreja	gaben	gaben	24	1247			belmar1902el-cuicateco		tepe03
-5433	SanJuanTepeuxila1900Mixtec	EAR	oreja	ben	ben	24	1247			belmar1902el-cuicateco		tepe03
+5432	SanJuanTepeuxila1900Cuicatec	EAR	oreja	gaben	gaben	24	1247			belmar1902el-cuicateco		tepe03
+5433	SanJuanTepeuxila1900Cuicatec	EAR	oreja	ben	ben	24	1247			belmar1902el-cuicateco		tepe03
 5927	SanAndresChicahuaxtlaTriqui_A	EAR	oreja	raquï'²	raquï'²	24	1247			good1978diccionario		chic12
 6137	ElJicaralMixtec	EAR	oreja	so̠'o	so̠'o	24	1247			Emily John-Martin		jica13
 7173	SantaMariaAcatepecMixtec	EAR	oreja	soʔo	soʔo	24	1247			josserand1983mixtec		acat11
@@ -5265,7 +5265,7 @@ ID	DOCULECT	CONCEPT	SPANISH_GLOSS	VALUE	FORM	IDlist	CONCEPTICON_ID	LOAN	LOAN_SOU
 5026	MagdalenaPenascoMixtec	EIGHT	ocho	unà	unà	164	1705			hollenbach2017diccionario		pena11
 5167	SanEstebanAtatlahucaMixtec_A	EIGHT	ocho	unā	unā	164	1705			alexander1980gramatica	[C]	atat11
 5367	SantaMariaPapaloCuicatec	EIGHT	ocho	ni³ni²	ni³ni²	164	1705			anderson1983diccionario		papa11
-5537	SanJuanTepeuxila1900Mixtec	EIGHT	ocho	nini	nini	164	1705			belmar1902el-cuicateco		tepe03
+5537	SanJuanTepeuxila1900Cuicatec	EIGHT	ocho	nini	nini	164	1705			belmar1902el-cuicateco		tepe03
 6074	SanAndresChicahuaxtlaTriqui_A	EIGHT	ocho	tïnj⁴	tïnj⁴	164	1705			good1978diccionario		chic12
 6290	ElJicaralMixtec	EIGHT	ocho	u̠na̠	u̠na̠	164	1705			Emily John-Martin		jica13
 16874	SantaMariaAcatepecMixtec	EIGHT	ocho	u̧ña̧	u̧ña̧	164	1705			josserand1983mixtec		acat11
@@ -5432,7 +5432,7 @@ ID	DOCULECT	CONCEPT	SPANISH_GLOSS	VALUE	FORM	IDlist	CONCEPTICON_ID	LOAN	LOAN_SOU
 4869	MagdalenaPenascoMixtec	FACE	cara	nuù	nuù	20	1560			hollenbach2017diccionario	[BA]	pena11
 5092	SanEstebanAtatlahucaMixtec_A	FACE	cara	nuū	nuū	20	1560			alexander1980gramatica	[C]	atat11
 5220	SantaMariaPapaloCuicatec	FACE	cara	nan³	nan³	20	1560			anderson1983diccionario		papa11
-5427	SanJuanTepeuxila1900Mixtec	FACE	cara	na	na	20	1560			belmar1902el-cuicateco		tepe03
+5427	SanJuanTepeuxila1900Cuicatec	FACE	cara	na	na	20	1560			belmar1902el-cuicateco		tepe03
 5923	SanAndresChicahuaxtlaTriqui_A	FACE	cara	riun'³⁴	riun'³⁴	20	1560			good1978diccionario		chic12
 6133	ElJicaralMixtec	FACE	cara	nu̠ú	nu̠ú	20	1560			Emily John-Martin		jica13
 20117	SanMartinDuraznosMixtec_A	FACE	cara	nùù	nùù	20	1560			hernandez2020san-martin		dura11
@@ -5440,7 +5440,7 @@ ID	DOCULECT	CONCEPT	SPANISH_GLOSS	VALUE	FORM	IDlist	CONCEPTICON_ID	LOAN	LOAN_SOU
 20485	SanPedroYosonamaMixtec	FACE	cara	nuu	nuu	20	1560			gittlen2016gramatica		yoso14
 20601	YucunanyMixtec	FACE	face	nùú	nùú	20	1560			salazar2020yucunani		yucu17
 20800	SanAndresYutatioMixtec	FACE	cara	noo̠	noo̠	20	1560			williams2017diccionario		yuta13
-21021	SanAndresChicahuaxtlaTriqui_B	FACE	cara	ri³jã³²	ri³yã³²	20	1560			hernandez-mendoza2020vocabulario		chic12
+21021	SanAndresChicahuaxtlaTriqui_B	FACE	cara	ri³jã³²	ri³jã³²	20	1560			hernandez-mendoza2020vocabulario		chic12
 21227	ChalcatongoHidalgoMixtec_A	FACE	face	nuù	nuù	20	1560			macaulay1996grammar		chal11
 21492	Proto-Mixtec	FACE	face	nùùʔ	nùùʔ	20				durr1987preliminary		prom01
 21569	SanMartinItunyosoTriqui	FACE	cara	rian³²	rian³²	20	1560			ChristianDiCanio		itun12
@@ -5469,7 +5469,7 @@ ID	DOCULECT	CONCEPT	SPANISH_GLOSS	VALUE	FORM	IDlist	CONCEPTICON_ID	LOAN	LOAN_SOU
 5060	MagdalenaPenascoMixtec	FAR	lejos, lejano	jíká	jíká	190	1406			hollenbach2017diccionario	[A]	pena11
 5185	SanEstebanAtatlahucaMixtec_A	FAR	lejos	jícá	jícá	190	1406			alexander1980gramatica	[B]	atat11
 5393	SantaMariaPapaloCuicatec	FAR	lejos	ye³'en²	ye³'en²	190	1406			anderson1983diccionario		papa11
-5557	SanJuanTepeuxila1900Mixtec	FAR	lejos	ñiai	ñiai	190	1406			belmar1902el-cuicateco		tepe03
+5557	SanJuanTepeuxila1900Cuicatec	FAR	lejos	ñiai	ñiai	190	1406			belmar1902el-cuicateco		tepe03
 6097	SanAndresChicahuaxtlaTriqui_A	FAR	lejos	gan'⁵	gan'⁵	190	1406			good1978diccionario		chic12
 6316	ElJicaralMixtec	FAR	lejos	xíka	xíka	190	1406			Emily John-Martin		jica13
 20293	SanMartinDuraznosMixtec_A	FAR	está lejos, lejos	xíká	xíká	190	1406			hernandez2020san-martin		dura11
@@ -5502,8 +5502,8 @@ ID	DOCULECT	CONCEPT	SPANISH_GLOSS	VALUE	FORM	IDlist	CONCEPTICON_ID	LOAN	LOAN_SOU
 4959	MagdalenaPenascoMixtec	FAT (FROM ANIMALS)	grasa, manteca	xè'en	xè'en	104	1282			hollenbach2017diccionario		pena11
 5133	SanEstebanAtatlahucaMixtec_A	FAT (FROM ANIMALS)	manteca	xēhen	xēhen	104	1282			alexander1980gramatica	[C]	atat11
 5304	SantaMariaPapaloCuicatec	FAT (FROM ANIMALS)	grasa, manteca	dun⁴	dun⁴	104	1282			anderson1983diccionario		papa11
-5492	SanJuanTepeuxila1900Mixtec	FAT (FROM ANIMALS)	grasa	ndun	ndun	104	1282			belmar1902el-cuicateco		tepe03
-5493	SanJuanTepeuxila1900Mixtec	FAT (FROM ANIMALS)	grasa	ndungé	ndungé	104	1282			belmar1902el-cuicateco		tepe03
+5492	SanJuanTepeuxila1900Cuicatec	FAT (FROM ANIMALS)	grasa	ndun	ndun	104	1282			belmar1902el-cuicateco		tepe03
+5493	SanJuanTepeuxila1900Cuicatec	FAT (FROM ANIMALS)	grasa	ndungé	ndungé	104	1282			belmar1902el-cuicateco		tepe03
 5703	Proto-Mixtec	FAT (FROM ANIMALS)	manteca	(ᴮ)-séʔẽ̀	ᴮ-séʔẽ̀	104	1282			swanton2020observaciones		prom01
 5704	AlcozaucaGuerreroMixtec	FAT (FROM ANIMALS)	manteca	ʃa²ʔã²	ʃa²ʔã²	104	1282			swanton2020observaciones		alco11
 5705	SantaMariaZacatepecMixtec	FAT (FROM ANIMALS)	manteca	ʃa²ʔã²	ʃa²ʔã²	104	1282			swanton2020observaciones		zaca11
@@ -5551,7 +5551,7 @@ ID	DOCULECT	CONCEPT	SPANISH_GLOSS	VALUE	FORM	IDlist	CONCEPTICON_ID	LOAN	LOAN_SOU
 5084	SanEstebanAtatlahucaMixtec_A	FATHER	padre	tátá	tátá	3	1217			alexander1980gramatica	[C]	atat11
 5202	SantaMariaPapaloCuicatec	FATHER	padre	chi³da³	chi³da³	3	1217			anderson1983diccionario		papa11
 5203	SantaMariaPapaloCuicatec	FATHER	padre	chi³du³	chi³du³	3	1217			anderson1983diccionario		papa11
-5414	SanJuanTepeuxila1900Mixtec	FATHER	padre	chida	chida	3	1217			belmar1902el-cuicateco		tepe03
+5414	SanJuanTepeuxila1900Cuicatec	FATHER	padre	chida	chida	3	1217			belmar1902el-cuicateco		tepe03
 5907	SanAndresChicahuaxtlaTriqui_A	FATHER	padre	dre'²	dre'²	3	1217			good1978diccionario		chic12
 6118	ElJicaralMixtec	FATHER	padre	táta	táta	3	1217			Emily John-Martin		jica13
 20102	SanMartinDuraznosMixtec_A	FATHER	padre	tátà	tátà	3	1217			hernandez2020san-martin		dura11
@@ -5592,8 +5592,8 @@ ID	DOCULECT	CONCEPT	SPANISH_GLOSS	VALUE	FORM	IDlist	CONCEPTICON_ID	LOAN	LOAN_SOU
 4226	SanJuanColoradoMixtec_A	FEATHER	pluma	tumi	tumi	77	1201			stark1986diccionario		colo11
 4930	MagdalenaPenascoMixtec	FEATHER	pluma	tnùmi	tnùmi	77	1201			hollenbach2017diccionario		pena11
 5276	SantaMariaPapaloCuicatec	FEATHER	pluma	plu²ma¹	plu²ma¹	77	1201	yes	Spanish	anderson1983diccionario		papa11
-5470	SanJuanTepeuxila1900Mixtec	FEATHER	pluma de escribir	indingún	indingún	77	1201			belmar1902el-cuicateco		tepe03
-5471	SanJuanTepeuxila1900Mixtec	FEATHER	pluma de escribir	duduiti	duduiti	77	1201			belmar1902el-cuicateco		tepe03
+5470	SanJuanTepeuxila1900Cuicatec	FEATHER	pluma de escribir	indingún	indingún	77	1201			belmar1902el-cuicateco		tepe03
+5471	SanJuanTepeuxila1900Cuicatec	FEATHER	pluma de escribir	duduiti	duduiti	77	1201			belmar1902el-cuicateco		tepe03
 5659	Proto-Mixtec	FEATHER	pluma	ᴮ-tówĩ̀	ᴮ-tówĩ̀	77	1201			swanton2020observaciones		prom01
 5660	AlcozaucaGuerreroMixtec	FEATHER	pluma	tu²mi²	tu²mi²	77	1201			swanton2020observaciones		alco11
 5661	SantaMariaZacatepecMixtec	FEATHER	pluma	tu²mi¹	tu²mi¹	77	1201			swanton2020observaciones		zaca11
@@ -5758,7 +5758,7 @@ ID	DOCULECT	CONCEPT	SPANISH_GLOSS	VALUE	FORM	IDlist	CONCEPTICON_ID	LOAN	LOAN_SOU
 5029	MagdalenaPenascoMixtec	FIFTEEN	quince	ja'ùn	ja'ùn	167	1709			hollenbach2017diccionario		pena11
 5170	SanEstebanAtatlahucaMixtec_A	FIFTEEN	quince	xahūn	xahūn	167	1709			alexander1980gramatica	[C]	atat11
 5370	SantaMariaPapaloCuicatec	FIFTEEN	quince	ndi³t'i³yun³	ndi³t'i³yun³	167	1709			anderson1983diccionario		papa11
-5540	SanJuanTepeuxila1900Mixtec	FIFTEEN	quince	nditiñu	nditiñu	167	1709			belmar1902el-cuicateco		tepe03
+5540	SanJuanTepeuxila1900Cuicatec	FIFTEEN	quince	nditiñu	nditiñu	167	1709			belmar1902el-cuicateco		tepe03
 6077	SanAndresChicahuaxtlaTriqui_A	FIFTEEN	quince	xinun'³	xinun'³	167	1709			good1978diccionario		chic12
 6293	ElJicaralMixtec	FIFTEEN	quince	xa̠'u̠n	xa̠'u̠n	167	1709			Emily John-Martin		jica13
 17105	SantaMariaAcatepecMixtec	FIFTEEN	quince	sa̧ʔu̧	sa̧ʔu̧	167	1709			josserand1983mixtec		acat11
@@ -5914,8 +5914,8 @@ ID	DOCULECT	CONCEPT	SPANISH_GLOSS	VALUE	FORM	IDlist	CONCEPTICON_ID	LOAN	LOAN_SOU
 4175	SanJuanColoradoMixtec_A	FINGERNAIL	uña	tyíñú yó	tyíñú	28	1258			stark1986diccionario		colo11
 4515	AlacatlatzalaMixtec_A	FINGERNAIL	uña	chíi̠n	chíi̠n	28	1258			zylstra2012gramatica		alac11
 4877	MagdalenaPenascoMixtec	FINGERNAIL	uña	tníì	tníì	28	1258			hollenbach2017diccionario	[BA]	pena11
-5437	SanJuanTepeuxila1900Mixtec	FINGERNAIL	uña	shubidu	shubidu	28	1258			belmar1902el-cuicateco		tepe03
-5438	SanJuanTepeuxila1900Mixtec	FINGERNAIL	uña	yubidu	yubidu	28	1258			belmar1902el-cuicateco		tepe03
+5437	SanJuanTepeuxila1900Cuicatec	FINGERNAIL	uña	shubidu	shubidu	28	1258			belmar1902el-cuicateco		tepe03
+5438	SanJuanTepeuxila1900Cuicatec	FINGERNAIL	uña	yubidu	yubidu	28	1258			belmar1902el-cuicateco		tepe03
 5603	Proto-Mixtec	FINGERNAIL	uña	ʔ-tìjĩ̀ʔ	ʔ-tìjĩ̀ʔ	28	1258			swanton2020observaciones		prom01
 5604	AlcozaucaGuerreroMixtec	FINGERNAIL	uña	ʧi⁴¹ĩ⁴	ʧi⁴¹ĩ⁴	28	1258			swanton2020observaciones		alco11
 5605	SantaMariaZacatepecMixtec	FINGERNAIL	uña	ti¹ĩ¹ʔ	ti¹ĩ¹ʔ	28	1258			swanton2020observaciones		zaca11
@@ -6081,7 +6081,7 @@ ID	DOCULECT	CONCEPT	SPANISH_GLOSS	VALUE	FORM	IDlist	CONCEPTICON_ID	LOAN	LOAN_SOU
 4773	XochapaMixtec	FIRE	lumbre, fuego	ñu̠'u̠	ñu̠'u̠	118	221			stark2013diccionario		xoch11
 4973	MagdalenaPenascoMixtec	FIRE	lumbre	ñu'ù	ñu'ù	118	221			hollenbach2017diccionario	{BA}	pena11
 5319	SantaMariaPapaloCuicatec	FIRE	lumbre, fuego	ya²'an⁴	ya²'an⁴	118	221			anderson1983diccionario		papa11
-5500	SanJuanTepeuxila1900Mixtec	FIRE	lumbre	ñíaa	ñíaa	118	221			belmar1902el-cuicateco		tepe03
+5500	SanJuanTepeuxila1900Cuicatec	FIRE	lumbre	ñíaa	ñíaa	118	221			belmar1902el-cuicateco		tepe03
 6024	SanAndresChicahuaxtlaTriqui_A	FIRE	lumbre, fuego	yan³'an⁴	yan³'an⁴	118	221			good1978diccionario		chic12
 6237	ElJicaralMixtec	FIRE	lumbre, fuego	ñu'u	ñu'u	118	221			Emily John-Martin		jica13
 6238	ElJicaralMixtec	FIRE	lumbre, fuego	ñu̠'u	ñu̠'u	118	221			Emily John-Martin		jica13
@@ -6248,7 +6248,7 @@ ID	DOCULECT	CONCEPT	SPANISH_GLOSS	VALUE	FORM	IDlist	CONCEPTICON_ID	LOAN	LOAN_SOU
 4902	MagdalenaPenascoMixtec	FISH	pez, pescado	tiaka	tiaka	52	227			hollenbach2017diccionario	[A]	pena11
 5107	SanEstebanAtatlahucaMixtec_A	FISH	pez	chācá	chācá	52	227			alexander1980gramatica	[B]	atat11
 5251	SantaMariaPapaloCuicatec	FISH	pez, pescado	y'a⁴ca⁴	y'a⁴ca⁴	52	227			anderson1983diccionario		papa11
-5452	SanJuanTepeuxila1900Mixtec	FISH	pez	dacha	dacha	52	227			belmar1902el-cuicateco		tepe03
+5452	SanJuanTepeuxila1900Cuicatec	FISH	pez	dacha	dacha	52	227			belmar1902el-cuicateco		tepe03
 5955	SanAndresChicahuaxtlaTriqui_A	FISH	pez, pescado	xucuaj³a	xu-cuaj³a	52	227			good1978diccionario		chic12
 6165	ElJicaralMixtec	FISH	pez, pescado	tia̠ká	tia̠ká	52	227			Emily John-Martin		jica13
 20149	SanMartinDuraznosMixtec_A	FISH	pez, pescado	txaká	txaká	52	227			hernandez2020san-martin		dura11
@@ -6298,7 +6298,7 @@ ID	DOCULECT	CONCEPT	SPANISH_GLOSS	VALUE	FORM	IDlist	CONCEPTICON_ID	LOAN	LOAN_SOU
 5023	MagdalenaPenascoMixtec	FIVE	cinco	u'ùn	u'ùn	161	493			hollenbach2017diccionario		pena11
 5164	SanEstebanAtatlahucaMixtec_A	FIVE	cinco	uhūn	uhūn	161	493			alexander1980gramatica	[C]	atat11
 5364	SantaMariaPapaloCuicatec	FIVE	cinco	gu³'un³	gu³'un³	161	493			anderson1983diccionario		papa11
-5534	SanJuanTepeuxila1900Mixtec	FIVE	cinco	hun	hun	161	493			belmar1902el-cuicateco		tepe03
+5534	SanJuanTepeuxila1900Cuicatec	FIVE	cinco	hun	hun	161	493			belmar1902el-cuicateco		tepe03
 5818	Proto-Mixtec	FIVE	cinco	òʔõ̀	òʔõ̀	161	493			swanton2020observaciones		prom01
 5819	AlcozaucaGuerreroMixtec	FIVE	cinco	u¹ʔũ¹	u¹ʔũ¹	161	493			swanton2020observaciones		alco11
 5820	SantaMariaZacatepecMixtec	FIVE	cinco	u²ʔũ²¹	u²ʔũ²¹	161	493			swanton2020observaciones		zaca11
@@ -6474,7 +6474,7 @@ ID	DOCULECT	CONCEPT	SPANISH_GLOSS	VALUE	FORM	IDlist	CONCEPTICON_ID	LOAN	LOAN_SOU
 4937	MagdalenaPenascoMixtec	FLOWER	flor	ità	ità	83	239			hollenbach2017diccionario		pena11
 5125	SanEstebanAtatlahucaMixtec_A	FLOWER	flor	ita	ita	83	239			alexander1980gramatica	[C]	atat11
 5283	SantaMariaPapaloCuicatec	FLOWER	flor	na̠⁴nda̠⁴	na̠⁴nda̠⁴	83	239			anderson1983diccionario		papa11
-5479	SanJuanTepeuxila1900Mixtec	FLOWER	flor	nanda	nanda	83	239			belmar1902el-cuicateco		tepe03
+5479	SanJuanTepeuxila1900Cuicatec	FLOWER	flor	nanda	nanda	83	239			belmar1902el-cuicateco		tepe03
 5679	Proto-Mixtec	FLOWER	flor	ítà	ítà	83	239			swanton2020observaciones		prom01
 5680	AlcozaucaGuerreroMixtec	FLOWER	flor	i³ta²	i³ta²	83	239			swanton2020observaciones		alco11
 5681	SantaMariaZacatepecMixtec	FLOWER	flor	i²ta²	i²ta²	83	239			swanton2020observaciones		zaca11
@@ -6506,7 +6506,7 @@ ID	DOCULECT	CONCEPT	SPANISH_GLOSS	VALUE	FORM	IDlist	CONCEPTICON_ID	LOAN	LOAN_SOU
 4302	SanJuanColoradoMixtec_A	FOAM	espuma	tiñùù	tiñùù	150	1768			stark1986diccionario		colo11
 5008	MagdalenaPenascoMixtec	FOAM	espuma	tì-iñù	tì-iñù	150	1768			hollenbach2017diccionario	{BA}	pena11
 5353	SantaMariaPapaloCuicatec	FOAM	espuma	yu⁴quien²⁴	yu⁴quien²⁴	150	1768			anderson1983diccionario		papa11
-5523	SanJuanTepeuxila1900Mixtec	FOAM	espuma	yain	yain	150	1768			belmar1902el-cuicateco		tepe03
+5523	SanJuanTepeuxila1900Cuicatec	FOAM	espuma	yain	yain	150	1768			belmar1902el-cuicateco		tepe03
 6060	SanAndresChicahuaxtlaTriqui_A	FOAM	espuma	atan'⁴an	atan'⁴an	150	1768			good1978diccionario		chic12
 6275	ElJicaralMixtec	FOAM	espuma	ñu̠ñu̠	ñu̠ñu̠	150	1768			Emily John-Martin		jica13
 15807	SantaMariaAcatepecMixtec	FOAM	espuma	tɨ̧ñɨ̧	tɨ̧ñɨ̧	150	1768			josserand1983mixtec		acat11
@@ -6678,7 +6678,7 @@ ID	DOCULECT	CONCEPT	SPANISH_GLOSS	VALUE	FORM	IDlist	CONCEPTICON_ID	LOAN	LOAN_SOU
 4881	MagdalenaPenascoMixtec	FOOT	pie	ja'à	ja'à	32	1301			hollenbach2017diccionario	[BA]	pena11
 5098	SanEstebanAtatlahucaMixtec_A	FOOT	pie	jehē	jehē	32	1301			alexander1980gramatica	[C]	atat11
 5231	SantaMariaPapaloCuicatec	FOOT	pie	ca̠³'a̠³	ca̠³'a̠³	32	1301			anderson1983diccionario		papa11
-5441	SanJuanTepeuxila1900Mixtec	FOOT	pie	kaa	kaa	32	1301			belmar1902el-cuicateco		tepe03
+5441	SanJuanTepeuxila1900Cuicatec	FOOT	pie	kaa	kaa	32	1301			belmar1902el-cuicateco		tepe03
 5936	SanAndresChicahuaxtlaTriqui_A	FOOT	pie	daco'²	daco'²	32	1301			good1978diccionario		chic12
 6145	ElJicaralMixtec	FOOT	pie	xa̠'á	xa̠'á	32	1301			Emily John-Martin		jica13
 7757	SantaMariaAcatepecMixtec	FOOT	pie	saʔa	saʔa	32	1301			josserand1983mixtec		acat11
@@ -6853,7 +6853,7 @@ ID	DOCULECT	CONCEPT	SPANISH_GLOSS	VALUE	FORM	IDlist	CONCEPTICON_ID	LOAN	LOAN_SOU
 5022	MagdalenaPenascoMixtec	FOUR	cuatro	kùun	kùun	160	1500			hollenbach2017diccionario	[A]	pena11
 5163	SanEstebanAtatlahucaMixtec_A	FOUR	cuatro	cuūn	cuūn	160	1500			alexander1980gramatica	[C]	atat11
 5363	SantaMariaPapaloCuicatec	FOUR	cuatro	cun⁴	cun⁴	160	1500			anderson1983diccionario		papa11
-5533	SanJuanTepeuxila1900Mixtec	FOUR	cuatro	hun	hun	160	1500			belmar1902el-cuicateco		tepe03
+5533	SanJuanTepeuxila1900Cuicatec	FOUR	cuatro	hun	hun	160	1500			belmar1902el-cuicateco		tepe03
 6070	SanAndresChicahuaxtlaTriqui_A	FOUR	cuatro	gan'⁵an³	gan'⁵an³	160	1500			good1978diccionario		chic12
 6286	ElJicaralMixtec	FOUR	cuatro	ko̠mí	ko̠mí	160	1500			Emily John-Martin		jica13
 16397	SantaMariaAcatepecMixtec	FOUR	cuatro	ku̧mi̧	ku̧mi̧	160	1500			josserand1983mixtec		acat11
@@ -7435,7 +7435,7 @@ ID	DOCULECT	CONCEPT	SPANISH_GLOSS	VALUE	FORM	IDlist	CONCEPTICON_ID	LOAN	LOAN_SOU
 5046	MagdalenaPenascoMixtec	GOOD	bueno	và'a	và'a	179	1035			hollenbach2017diccionario		pena11
 5180	SanEstebanAtatlahucaMixtec_A	GOOD	bueno	vāha	vāha	179	1035			alexander1980gramatica	[A]	atat11
 5382	SantaMariaPapaloCuicatec	GOOD	bueno	nd'a³²	nd'a³²	179	1035			anderson1983diccionario		papa11
-5549	SanJuanTepeuxila1900Mixtec	GOOD	bueno	daka	daka	179	1035			belmar1902el-cuicateco		tepe03
+5549	SanJuanTepeuxila1900Cuicatec	GOOD	bueno	daka	daka	179	1035			belmar1902el-cuicateco		tepe03
 6087	SanAndresChicahuaxtlaTriqui_A	GOOD	bueno	sa'⁵a	sa'⁵a	179	1035			good1978diccionario		chic12
 6305	ElJicaralMixtec	GOOD	bueno	va̠'a	va̠'a	179	1035			Emily John-Martin		jica13
 17798	SantaMariaAcatepecMixtec	GOOD	bueno	waʔa	waʔa	179	1035			josserand1983mixtec		acat11
@@ -7559,7 +7559,7 @@ ID	DOCULECT	CONCEPT	SPANISH_GLOSS	VALUE	FORM	IDlist	CONCEPTICON_ID	LOAN	LOAN_SOU
 4979	MagdalenaPenascoMixtec	GOURD BOWL	jícara, bandeja	ñajin	ñajin	124				hollenbach2017diccionario	[A]	pena11
 4980	MagdalenaPenascoMixtec	GOURD BOWL	jícara ovalada	tìkàsi	tì-kàsi	124				hollenbach2017diccionario	[A]	pena11
 5325	SantaMariaPapaloCuicatec	GOURD BOWL	jícara	ya³'a³	ya³'a³	124				anderson1983diccionario		papa11
-5504	SanJuanTepeuxila1900Mixtec	GOURD BOWL	jícara	yaai	yaai	124				belmar1902el-cuicateco		tepe03
+5504	SanJuanTepeuxila1900Cuicatec	GOURD BOWL	jícara	yaai	yaai	124				belmar1902el-cuicateco		tepe03
 5743	Proto-Mixtec	GOURD BOWL	jícara	jéxĩ́ʔ	jéxĩ́ʔ	124				swanton2020observaciones		prom01
 5744	AlcozaucaGuerreroMixtec	GOURD BOWL	jícara	ja³ʃĩ⁴	ja³ʃĩ⁴	124				swanton2020observaciones		alco11
 5745	SantaMariaZacatepecMixtec	GOURD BOWL	jícara	ja²ʧĩ²ʔ	ja²ʧĩ²ʔ	124				swanton2020observaciones		zaca11
@@ -7724,7 +7724,7 @@ ID	DOCULECT	CONCEPT	SPANISH_GLOSS	VALUE	FORM	IDlist	CONCEPTICON_ID	LOAN	LOAN_SOU
 5124	SanEstebanAtatlahucaMixtec_A	GRASS	zacate	ndayóhō	nda-yóhō	82	606			alexander1980gramatica	[C]	atat11
 5281	SantaMariaPapaloCuicatec	GRASS	zacate	ya²ma⁴	ya²ma⁴	82	606			anderson1983diccionario		papa11
 5282	SantaMariaPapaloCuicatec	GRASS	pasto, zacate	yu³ni¹	yu³ni¹	82	606			anderson1983diccionario		papa11
-5478	SanJuanTepeuxila1900Mixtec	GRASS	zacate, heno	yuni	yuni	82	606			belmar1902el-cuicateco		tepe03
+5478	SanJuanTepeuxila1900Cuicatec	GRASS	zacate, heno	yuni	yuni	82	606			belmar1902el-cuicateco		tepe03
 5674	Proto-Mixtec	GRASS	pasto	ítè	ítè	82	606			swanton2020observaciones		prom01
 5675	AlcozaucaGuerreroMixtec	GRASS	pasto	i³ca²	i³ca²	82	606			swanton2020observaciones		alco11
 5676	SantaMariaZacatepecMixtec	GRASS	pasto	i²ta²	i²ta²	82	606			swanton2020observaciones		zaca11
@@ -7807,7 +7807,7 @@ ID	DOCULECT	CONCEPT	SPANISH_GLOSS	VALUE	FORM	IDlist	CONCEPTICON_ID	LOAN	LOAN_SOU
 4621	AlacatlatzalaMixtec_A	GREEN	verde	kuii̠	kuii̠	153	1425			anderson2006vocabulario		alac11
 5012	MagdalenaPenascoMixtec	GREEN	verde	kuíá	kuíá	153	1425			hollenbach2017diccionario	[A]	pena11
 5356	SantaMariaPapaloCuicatec	GREEN	verde	cue³	cue³	153	1425			anderson1983diccionario		papa11
-5526	SanJuanTepeuxila1900Mixtec	GREEN	verde	kuee	kuee	153	1425			belmar1902el-cuicateco		tepe03
+5526	SanJuanTepeuxila1900Cuicatec	GREEN	verde	kuee	kuee	153	1425			belmar1902el-cuicateco		tepe03
 5803	Proto-Mixtec	GREEN	verde	ʔ-kʷììʔ	ʔ-kʷììʔ	153	1425			swanton2020observaciones		prom01
 5804	AlcozaucaGuerreroMixtec	GREEN	verde	kʷi⁴¹i⁴	kʷi⁴¹i⁴	153	1425			swanton2020observaciones		alco11
 5805	SantaMariaZacatepecMixtec	GREEN	verde	kʷi¹i¹ʔ	kʷi¹i¹ʔ	153	1425			swanton2020observaciones		zaca11
@@ -8121,8 +8121,8 @@ ID	DOCULECT	CONCEPT	SPANISH_GLOSS	VALUE	FORM	IDlist	CONCEPTICON_ID	LOAN	LOAN_SOU
 4690	XochapaMixtec	HAIR	pelo	ixí	ixí	19	1040			stark2013diccionario		xoch11
 4868	MagdalenaPenascoMixtec	HAIR	cabello	ixi	ixi	19	1040			hollenbach2017diccionario	[A]	pena11
 5219	SantaMariaPapaloCuicatec	HAIR	pelo	yu⁴du⁴	yu⁴du⁴	19	1040			anderson1983diccionario		papa11
-5425	SanJuanTepeuxila1900Mixtec	HAIR	pelo	yudutin	yudutin	19	1040			belmar1902el-cuicateco		tepe03
-5426	SanJuanTepeuxila1900Mixtec	HAIR	pelo	yuda	yuda	19	1040			belmar1902el-cuicateco		tepe03
+5425	SanJuanTepeuxila1900Cuicatec	HAIR	pelo	yudutin	yudutin	19	1040			belmar1902el-cuicateco		tepe03
+5426	SanJuanTepeuxila1900Cuicatec	HAIR	pelo	yuda	yuda	19	1040			belmar1902el-cuicateco		tepe03
 5588	Proto-Mixtec	HAIR	pelo	ísíʔ	ísíʔ	19	1040			swanton2020observaciones		prom01
 5589	AlcozaucaGuerreroMixtec	HAIR	pelo	i³ʃi⁴	i³ʃi⁴	19	1040			swanton2020observaciones		alco11
 5590	SantaMariaZacatepecMixtec	HAIR	pelo	i²ʃi²ʔ	i²ʃi²ʔ	19	1040			swanton2020observaciones		zaca11
@@ -8160,7 +8160,7 @@ ID	DOCULECT	CONCEPT	SPANISH_GLOSS	VALUE	FORM	IDlist	CONCEPTICON_ID	LOAN	LOAN_SOU
 4668	AlacatlatzalaMixtec_A	HALF	mitad	sava	sava	202	816			zylstra2012gramatica		alac11
 5073	MagdalenaPenascoMixtec	HALF	mitad, medio	sava	sava	202	816			hollenbach2017diccionario		pena11
 5407	SantaMariaPapaloCuicatec	HALF	mitad, medio	ma⁴'an³	ma⁴'an³	202	816			anderson1983diccionario		papa11
-5565	SanJuanTepeuxila1900Mixtec	HALF	mitad	maa	maa	202	816			belmar1902el-cuicateco		tepe03
+5565	SanJuanTepeuxila1900Cuicatec	HALF	mitad	maa	maa	202	816			belmar1902el-cuicateco		tepe03
 6108	SanAndresChicahuaxtlaTriqui_A	HALF	mitad	da'aj⁵	da'aj⁵	202	816			good1978diccionario		chic12
 6328	ElJicaralMixtec	HALF	mitad	sava	sava	202	816			Emily John-Martin		jica13
 19534	SantaMariaAcatepecMixtec	HALF	mitad	sawa	sawa	202	816			josserand1983mixtec		acat11
@@ -8334,7 +8334,7 @@ ID	DOCULECT	CONCEPT	SPANISH_GLOSS	VALUE	FORM	IDlist	CONCEPTICON_ID	LOAN	LOAN_SOU
 4876	MagdalenaPenascoMixtec	HAND	mano	nda'a	nda'a	27	1277			hollenbach2017diccionario	[A]	pena11
 5095	SanEstebanAtatlahucaMixtec_A	HAND	mano	ndaha	ndaha	27	1277			alexander1980gramatica	[A]	atat11
 5227	SantaMariaPapaloCuicatec	HAND	mano	ta̠²'a̠⁴	ta̠²'a̠⁴	27	1277			anderson1983diccionario		papa11
-5436	SanJuanTepeuxila1900Mixtec	HAND	mano	taa	taa	27	1277			belmar1902el-cuicateco		tepe03
+5436	SanJuanTepeuxila1900Cuicatec	HAND	mano	taa	taa	27	1277			belmar1902el-cuicateco		tepe03
 5930	SanAndresChicahuaxtlaTriqui_A	HAND	mano	ro'o'²	ro'o'²	27	1277			good1978diccionario		chic12
 6140	ElJicaralMixtec	HAND	mano	nta'á	nta'á	27	1277			Emily John-Martin		jica13
 20124	SanMartinDuraznosMixtec_A	HAND	mano	nta'à	nta'à	27	1277			hernandez2020san-martin		dura11
@@ -8361,7 +8361,7 @@ ID	DOCULECT	CONCEPT	SPANISH_GLOSS	VALUE	FORM	IDlist	CONCEPTICON_ID	LOAN	LOAN_SOU
 4534	AlacatlatzalaMixtec_A	HAWK	gavilán pollero	sí'ñá	sí'ñá	55	307			anderson2006vocabulario		alac11
 4905	MagdalenaPenascoMixtec	HAWK	gavilán	xí'ñá	xí'ñá	55	307			hollenbach2017diccionario	[A]	pena11
 5254	SantaMariaPapaloCuicatec	HAWK	gavilán	i³yun³	i³yun³	55	307			anderson1983diccionario		papa11
-5454	SanJuanTepeuxila1900Mixtec	HAWK	gavilán	iñu	iñu	55	307			belmar1902el-cuicateco		tepe03
+5454	SanJuanTepeuxila1900Cuicatec	HAWK	gavilán	iñu	iñu	55	307			belmar1902el-cuicateco		tepe03
 5958	SanAndresChicahuaxtlaTriqui_A	HAWK	gavilán	xinun'³un	xinun'³un	55	307	maybe	Mixtec?	good1978diccionario		chic12
 6169	ElJicaralMixtec	HAWK	gavilán	saa xí'ña	saa-xí'ña	55	307			Emily John-Martin		jica13
 9765	SantaMariaAcatepecMixtec	HAWK	gavilán	tasu	tasu	55	307			josserand1983mixtec		acat11
@@ -8664,7 +8664,7 @@ ID	DOCULECT	CONCEPT	SPANISH_GLOSS	VALUE	FORM	IDlist	CONCEPTICON_ID	LOAN	LOAN_SOU
 4922	MagdalenaPenascoMixtec	HEN	gallina	tíla	tíla	71	1514			hollenbach2017diccionario		pena11
 5118	SanEstebanAtatlahucaMixtec_A	HEN	gallina	ndují	ndují	71	1514			alexander1980gramatica	[B]	atat11
 5270	SantaMariaPapaloCuicatec	HEN	gallina	tu¹ta¹'an⁴	tu-¹ta¹'an⁴	71	1514			anderson1983diccionario		papa11
-5464	SanJuanTepeuxila1900Mixtec	HEN	gallina	tuu	tuu	71	1514			belmar1902el-cuicateco		tepe03
+5464	SanJuanTepeuxila1900Cuicatec	HEN	gallina	tuu	tuu	71	1514			belmar1902el-cuicateco		tepe03
 5975	SanAndresChicahuaxtlaTriqui_A	HEN	gallina	xuche⁴	xuche⁴	71	1514			good1978diccionario		chic12
 6186	ElJicaralMixtec	HEN	gallina	ntiuxí	ntiuxí	71	1514			Emily John-Martin		jica13
 20855	SanAndresYutatioMixtec	HEN	gallina	ti̠ño̠ó	ti̠-ño̠ó	71	1514			williams2017diccionario		yuta13
@@ -8707,7 +8707,7 @@ ID	DOCULECT	CONCEPT	SPANISH_GLOSS	VALUE	FORM	IDlist	CONCEPTICON_ID	LOAN	LOAN_SOU
 4934	MagdalenaPenascoMixtec	HERBACEOUS PLANT	hierba sin uso, maleza	yì'i	yì'i	81				hollenbach2017diccionario	{A}	pena11
 4935	MagdalenaPenascoMixtec	HERBACEOUS PLANT	hierba	yukù	yukù	81				hollenbach2017diccionario	{BA}	pena11
 5280	SantaMariaPapaloCuicatec	HERBACEOUS PLANT	hierba, hoja	ya⁴ta⁴	ya⁴ta⁴	81				anderson1983diccionario		papa11
-5477	SanJuanTepeuxila1900Mixtec	HERBACEOUS PLANT	hierba	yata	yata	81				belmar1902el-cuicateco		tepe03
+5477	SanJuanTepeuxila1900Cuicatec	HERBACEOUS PLANT	hierba	yata	yata	81				belmar1902el-cuicateco		tepe03
 5669	Proto-Mixtec	HERBACEOUS PLANT	hierba	jùkù	jùkù	81				swanton2020observaciones		prom01
 5670	AlcozaucaGuerreroMixtec	HERBACEOUS PLANT	hierba	i¹ku¹	i¹ku¹	81				swanton2020observaciones		alco11
 5671	SantaMariaZacatepecMixtec	HERBACEOUS PLANT	hierba	ju²ku²¹	ju²ku²¹	81				swanton2020observaciones		zaca11
@@ -8854,7 +8854,7 @@ ID	DOCULECT	CONCEPT	SPANISH_GLOSS	VALUE	FORM	IDlist	CONCEPTICON_ID	LOAN	LOAN_SOU
 4988	MagdalenaPenascoMixtec	HOLE	agujero, hoyo	yavì	yavì	130	1667			hollenbach2017diccionario	{BA}	pena11
 5146	SanEstebanAtatlahucaMixtec_A	HOLE	hoyo	yavū	yavū	130	1667			alexander1980gramatica	[C]	atat11
 5332	SantaMariaPapaloCuicatec	HOLE	agujero, hoyo	yi³va³	yi³va³	130	1667			anderson1983diccionario		papa11
-5506	SanJuanTepeuxila1900Mixtec	HOLE	agujero	iba	iba	130	1667			belmar1902el-cuicateco		tepe03
+5506	SanJuanTepeuxila1900Cuicatec	HOLE	agujero	iba	iba	130	1667			belmar1902el-cuicateco		tepe03
 6038	SanAndresChicahuaxtlaTriqui_A	HOLE	agujero, hoyo	yu'uj⁴u	yu'uj⁴u	130	1667			good1978diccionario		chic12
 6254	ElJicaralMixtec	HOLE	agujero, hoyo	ya̠vi̠	ya̠vi̠	130	1667			Emily John-Martin		jica13
 14346	SantaMariaAcatepecMixtec	HOLE	agujero	yawi	yawi	130	1667			josserand1983mixtec		acat11
@@ -8951,7 +8951,7 @@ ID	DOCULECT	CONCEPT	SPANISH_GLOSS	VALUE	FORM	IDlist	CONCEPTICON_ID	LOAN	LOAN_SOU
 4762	XochapaMixtec	HONEY	miel	ñuñú	ñuñú	103	942			stark2013diccionario		xoch11
 4958	MagdalenaPenascoMixtec	HONEY	miel	ndùxi	ndùxi	103	942			hollenbach2017diccionario		pena11
 5303	SantaMariaPapaloCuicatec	HONEY	miel, chahuistle	dan⁴³	dan⁴³	103	942			anderson1983diccionario		papa11
-5491	SanJuanTepeuxila1900Mixtec	HONEY	miel	ndii	ndii	103	942			belmar1902el-cuicateco		tepe03
+5491	SanJuanTepeuxila1900Cuicatec	HONEY	miel	ndii	ndii	103	942			belmar1902el-cuicateco		tepe03
 6008	SanAndresChicahuaxtlaTriqui_A	HONEY	miel	gatsi'⁴ij	gatsi'⁴ij	103	942			good1978diccionario		chic12
 6221	ElJicaralMixtec	HONEY	miel	ñu̠ñú	ñu̠ñú	103	942			Emily John-Martin		jica13
 12645	SantaMariaAcatepecMixtec	HONEY	miel	ñu̧ñu̧	ñu̧ñu̧	103	942			josserand1983mixtec		acat11
@@ -9106,7 +9106,7 @@ ID	DOCULECT	CONCEPT	SPANISH_GLOSS	VALUE	FORM	IDlist	CONCEPTICON_ID	LOAN	LOAN_SOU
 4929	MagdalenaPenascoMixtec	HORN (ANATOMY)	cuerno	ndiki	ndiki	76	1393			hollenbach2017diccionario	[A]	pena11
 5121	SanEstebanAtatlahucaMixtec_A	HORN (ANATOMY)	cuerno	ndɨquɨ	ndɨquɨ	76	1393			alexander1980gramatica	[A]	atat11
 5275	SantaMariaPapaloCuicatec	HORN (ANATOMY)	cuerno	du³ni³ni³	du³ni³ni³	76	1393			anderson1983diccionario		papa11
-5469	SanJuanTepeuxila1900Mixtec	HORN (ANATOMY)	cuerno	duniniti	dunin-iti	76	1393			belmar1902el-cuicateco		tepe03
+5469	SanJuanTepeuxila1900Cuicatec	HORN (ANATOMY)	cuerno	duniniti	dunin-iti	76	1393			belmar1902el-cuicateco		tepe03
 5980	SanAndresChicahuaxtlaTriqui_A	HORN (ANATOMY)	cuerno	si-cu¹ xuj³	si-cu¹-xuj³	76	1393			good1978diccionario		chic12
 6193	ElJicaralMixtec	HORN (ANATOMY)	cuerno	ntikí	ntikí	76	1393			Emily John-Martin		jica13
 6194	ElJicaralMixtec	HORN (ANATOMY)	cuerno	ntikín	ntikín	76	1393			Emily John-Martin		jica13
@@ -9259,7 +9259,7 @@ ID	DOCULECT	CONCEPT	SPANISH_GLOSS	VALUE	FORM	IDlist	CONCEPTICON_ID	LOAN	LOAN_SOU
 4737	XochapaMixtec	HORSE	caballo	kuái̠	kuái̠	73	615	yes	Colonial Spanish	stark2013diccionario		xoch11
 4926	MagdalenaPenascoMixtec	HORSE	caballo	kueyú	kueyú	73	615	yes	Colonial Spanish	hollenbach2017diccionario	[B]	pena11
 5272	SantaMariaPapaloCuicatec	HORSE	caballo, bestia	y'u²du⁴	y'u²du⁴	73	615			anderson1983diccionario		papa11
-5466	SanJuanTepeuxila1900Mixtec	HORSE	caballo	yudatin	yudatin	73	615			belmar1902el-cuicateco		tepe03
+5466	SanJuanTepeuxila1900Cuicatec	HORSE	caballo	yudatin	yudatin	73	615			belmar1902el-cuicateco		tepe03
 5977	SanAndresChicahuaxtlaTriqui_A	HORSE	caballo	guayu³	guayu³	73	615			good1978diccionario		chic12
 6189	ElJicaralMixtec	HORSE	caballo	kuáyu̠	kuáyu̠	73	615	yes	Colonial Spanish	Emily John-Martin		jica13
 20170	SanMartinDuraznosMixtec_A	HORSE	caballo	kuéì	kuéì	73	615	yes	Colonial Spanish	hernandez2020san-martin		dura11
@@ -9446,7 +9446,7 @@ ID	DOCULECT	CONCEPT	SPANISH_GLOSS	VALUE	FORM	IDlist	CONCEPTICON_ID	LOAN	LOAN_SOU
 4894	MagdalenaPenascoMixtec	HOUSE	casa	ve'e	ve'e	44	1252			hollenbach2017diccionario		pena11
 5103	SanEstebanAtatlahucaMixtec_A	HOUSE	casa	vehe	vehe	44	1252			alexander1980gramatica	[A]	atat11
 5243	SantaMariaPapaloCuicatec	HOUSE	casa	va⁴'a³	va⁴'a³	44	1252			anderson1983diccionario		papa11
-5446	SanJuanTepeuxila1900Mixtec	HOUSE	casa	bai	bai	44	1252			belmar1902el-cuicateco		tepe03
+5446	SanJuanTepeuxila1900Cuicatec	HOUSE	casa	bai	bai	44	1252			belmar1902el-cuicateco		tepe03
 5948	SanAndresChicahuaxtlaTriqui_A	HOUSE	casa	hue'³e	hue'³e	44	1252			good1978diccionario		chic12
 6157	ElJicaralMixtec	HOUSE	casa	ve'e	ve'e	44	1252			Emily John-Martin		jica13
 8759	SantaMariaAcatepecMixtec	HOUSE	casa	weʔe	weʔe	44	1252			josserand1983mixtec		acat11
@@ -9591,7 +9591,7 @@ ID	DOCULECT	CONCEPT	SPANISH_GLOSS	VALUE	FORM	IDlist	CONCEPTICON_ID	LOAN	LOAN_SOU
 4178	SanJuanColoradoMixtec_A	INTESTINES	tripas, intestinos	tsɨtɨ̀ yo	tsɨtɨ̀	31	1991			stark1986diccionario		colo11
 4880	MagdalenaPenascoMixtec	INTESTINES	tripas	jitì	jitì	31	1991			hollenbach2017diccionario	{BA}	pena11
 5230	SantaMariaPapaloCuicatec	INTESTINES	tripa, intestino	gue³te³	gue³te³	31	1991			anderson1983diccionario		papa11
-5440	SanJuanTepeuxila1900Mixtec	INTESTINES	tripa	ngati	ngati	31	1991			belmar1902el-cuicateco		tepe03
+5440	SanJuanTepeuxila1900Cuicatec	INTESTINES	tripa	ngati	ngati	31	1991			belmar1902el-cuicateco		tepe03
 5934	SanAndresChicahuaxtlaTriqui_A	INTESTINES	tripa	xichri'³i	xichri'³i	31	1991			good1978diccionario		chic12
 5935	SanAndresChicahuaxtlaTriqui_A	INTESTINES	tripa, intestino	xichi'⁴'i	xichi'⁴'i	31	1991			good1978diccionario		chic12
 6144	ElJicaralMixtec	INTESTINES	tripa, tripas	siti	siti	31	1991			Emily John-Martin		jica13
@@ -9825,8 +9825,8 @@ ID	DOCULECT	CONCEPT	SPANISH_GLOSS	VALUE	FORM	IDlist	CONCEPTICON_ID	LOAN	LOAN_SOU
 4128	SanAgustinChayucoMixtec	JEALOUS	celoso	cuiño	cuiño	188	2821			pensinger1974diccionario		chay11
 4478	SantaMariaZacatepecMixtec	JEALOUS	celoso	kuiñu	kuiñu	188	2821			towne2011gramatica		zaca11
 5058	MagdalenaPenascoMixtec	JEALOUS	celoso	kuéñú	kuéñú	188	2821			hollenbach2017diccionario	[B/A]	pena11
-5391	SantaMariaPapaloCuicatec	JEALOUS	celoso	nd'²ta³	nd'²ta³	188	2821			anderson1983diccionario		papa11
-5555	SanJuanTepeuxila1900Mixtec	JEALOUS	celoso	ndita	ndita	188	2821			belmar1902el-cuicateco		tepe03
+5391	SantaMariaPapaloCuicatec	JEALOUS	celoso	ndi'²ta³	ndi'²ta³	188	2821			anderson1983diccionario		papa11
+5555	SanJuanTepeuxila1900Cuicatec	JEALOUS	celoso	ndita	ndita	188	2821			belmar1902el-cuicateco		tepe03
 5847	Proto-Mixtec	JEALOUS	celoso	ʔ-kʷíjõ̀	ʔ-kʷíjõ̀	188	2821			swanton2020observaciones		prom01
 5848	AlcozaucaGuerreroMixtec	JEALOUS	celoso	kʷi⁴ɲu²	kʷi⁴ɲu²	188	2821			swanton2020observaciones		alco11
 5849	SantaMariaZacatepecMixtec	JEALOUS	celoso	kʷi²ɲu³	kʷi²ɲu³	188	2821			swanton2020observaciones		zaca11
@@ -9867,7 +9867,7 @@ ID	DOCULECT	CONCEPT	SPANISH_GLOSS	VALUE	FORM	IDlist	CONCEPTICON_ID	LOAN	LOAN_SOU
 4827	XochapaMixtec	LAZY	flojo	xu̠xán	xu̠xán	186	1564			stark2013diccionario		xoch11
 5055	MagdalenaPenascoMixtec	LAZY	flojo, perezoso	kúxí	kúxí	186	1564			hollenbach2017diccionario	[A]	pena11
 5389	SantaMariaPapaloCuicatec	LAZY	flojo	d'a⁴nd'i⁴	d'a⁴nd'i⁴	186	1564			anderson1983diccionario		papa11
-5554	SanJuanTepeuxila1900Mixtec	LAZY	flojo, perezoso	chidandi	chidandi	186	1564			belmar1902el-cuicateco		tepe03
+5554	SanJuanTepeuxila1900Cuicatec	LAZY	flojo, perezoso	chidandi	chidandi	186	1564			belmar1902el-cuicateco		tepe03
 5843	Proto-Mixtec	LAZY	flojo	(ʔ¹)-súxẽ́	ʔ¹-súxẽ́	186	1564			swanton2020observaciones		prom01
 5844	AlcozaucaGuerreroMixtec	LAZY	flojo	ʃu⁴ʃã³	ʃu⁴ʃã³	186	1564			swanton2020observaciones		alco11
 5845	SantaMariaZacatepecMixtec	LAZY	flojo	su²ʧã²	su²ʧã²	186	1564			swanton2020observaciones		zaca11
@@ -10003,7 +10003,7 @@ ID	DOCULECT	CONCEPT	SPANISH_GLOSS	VALUE	FORM	IDlist	CONCEPTICON_ID	LOAN	LOAN_SOU
 4994	MagdalenaPenascoMixtec	LIGHTNING	rayo, relámpago	tajan	tajan	136	1654			hollenbach2017diccionario		pena11
 5338	SantaMariaPapaloCuicatec	LIGHTNING	rayo	gu⁴	gu⁴	136	1654			anderson1983diccionario		papa11
 5339	SantaMariaPapaloCuicatec	LIGHTNING	rayo, relámpago	cu'a⁴³	cu'a⁴³	136	1654			anderson1983diccionario		papa11
-5511	SanJuanTepeuxila1900Mixtec	LIGHTNING	rayo	kuai	kuai	136	1654			belmar1902el-cuicateco		tepe03
+5511	SanJuanTepeuxila1900Cuicatec	LIGHTNING	rayo	kuai	kuai	136	1654			belmar1902el-cuicateco		tepe03
 5763	Proto-Mixtec	LIGHTNING	rayo	táxá	táxá	136	1654			swanton2020observaciones		prom01
 5764	AlcozaucaGuerreroMixtec	LIGHTNING	rayo	ta³ʃa³	ta³ʃa³	136	1654			swanton2020observaciones		alco11
 5765	SantaMariaZacatepecMixtec	LIGHTNING	rayo	ta²ʧa²	ta²ʧa²	136	1654			swanton2020observaciones		zaca11
@@ -10048,7 +10048,7 @@ ID	DOCULECT	CONCEPT	SPANISH_GLOSS	VALUE	FORM	IDlist	CONCEPTICON_ID	LOAN	LOAN_SOU
 5005	MagdalenaPenascoMixtec	LIME (MATERIAL)	cal	kakà	kakà	147	2540			hollenbach2017diccionario	{BA}	pena11
 5154	SanEstebanAtatlahucaMixtec_A	LIME (MATERIAL)	cal	caca	caca	147	2540			alexander1980gramatica	[C]	atat11
 5350	SantaMariaPapaloCuicatec	LIME (MATERIAL)	cal	ca³ca³	ca³ca³	147	2540			anderson1983diccionario		papa11
-5520	SanJuanTepeuxila1900Mixtec	LIME (MATERIAL)	cal	kaka	kaka	147	2540			belmar1902el-cuicateco		tepe03
+5520	SanJuanTepeuxila1900Cuicatec	LIME (MATERIAL)	cal	kaka	kaka	147	2540			belmar1902el-cuicateco		tepe03
 6057	SanAndresChicahuaxtlaTriqui_A	LIME (MATERIAL)	cal	nan'anj⁴an	nan'anj⁴an	147	2540			good1978diccionario		chic12
 6272	ElJicaralMixtec	LIME (MATERIAL)	cal	kaka	kaka	147	2540			Emily John-Martin		jica13
 20249	SanMartinDuraznosMixtec_A	LIME (MATERIAL)	cal	kaka	kaka	147	2540			hernandez2020san-martin		dura11
@@ -10069,7 +10069,7 @@ ID	DOCULECT	CONCEPT	SPANISH_GLOSS	VALUE	FORM	IDlist	CONCEPTICON_ID	LOAN	LOAN_SOU
 1795	SanAndresChicahuaxtla1890Triqui	LONG	largo	Chihiha	chihiha	177	1203			belmar1897ensayo		chic02
 1796	SanAndresChicahuaxtla1890Triqui	LONG	largo	Chehea	chehea	177	1203			belmar1897ensayo		chic02
 2004	SanPedroySanPabloTeposcolula1600Mixtec	LONG	largo como cordel o palo	cani	cani	177	1203			alvarado1593vocabulario		tepo01
-5548	SanJuanTepeuxila1900Mixtec	LONG	largo	chianu	chianu	177	1203			belmar1902el-cuicateco		tepe03
+5548	SanJuanTepeuxila1900Cuicatec	LONG	largo	chianu	chianu	177	1203			belmar1902el-cuicateco		tepe03
 6086	SanAndresChicahuaxtlaTriqui_A	LONG	largo	xe'e⁵³	xe'e⁵³	177	1203			good1978diccionario		chic12
 21731	SanMartinItunyosoTriqui	LONG	ser largo	che¹che¹	che¹che¹	177	1203			ChristianDiCanio		itun12
 21511	Proto-Mixtec	LONG (PLURAL)	long.SG	kaniʔ	kaniʔ	177				durr1987preliminary		prom01
@@ -10519,7 +10519,7 @@ ID	DOCULECT	CONCEPT	SPANISH_GLOSS	VALUE	FORM	IDlist	CONCEPTICON_ID	LOAN	LOAN_SOU
 4861	MagdalenaPenascoMixtec	MAN	hombre	tèe	tèe	13	1554			hollenbach2017diccionario		pena11
 5088	SanEstebanAtatlahucaMixtec_A	MAN	hombre	tēe	tēe	13	1554			alexander1980gramatica	[A]	atat11
 5212	SantaMariaPapaloCuicatec	MAN	hombre, varón	sa²'an⁴	sa²'an⁴	13	1554			anderson1983diccionario		papa11
-5420	SanJuanTepeuxila1900Mixtec	MAN	hombre	tsan	tsan	13	1554			belmar1902el-cuicateco		tepe03
+5420	SanJuanTepeuxila1900Cuicatec	MAN	hombre	tsan	tsan	13	1554			belmar1902el-cuicateco		tepe03
 5916	SanAndresChicahuaxtlaTriqui_A	MAN	hombre	si¹	si¹	13	1554			good1978diccionario		chic12
 6126	ElJicaralMixtec	MAN	hombre	tia̠a	tia̠a	13	1554			Emily John-Martin		jica13
 6570	SantaMariaAcatepecMixtec	MAN	hombre	ra-yɨɨ	ra-yɨɨ	13	1554			josserand1983mixtec		acat11
@@ -10692,7 +10692,7 @@ ID	DOCULECT	CONCEPT	SPANISH_GLOSS	VALUE	FORM	IDlist	CONCEPTICON_ID	LOAN	LOAN_SOU
 4710	XochapaMixtec	MAT	petate	iví	iví	47	195			stark2013diccionario		xoch11
 4897	MagdalenaPenascoMixtec	MAT	petate	yuu	yuu	47	195			hollenbach2017diccionario	[A]	pena11
 5246	SantaMariaPapaloCuicatec	MAT	petate	yi³va³	yi³va³	47	195			anderson1983diccionario		papa11
-5448	SanJuanTepeuxila1900Mixtec	MAT	petate	iba	iba	47	195			belmar1902el-cuicateco		tepe03
+5448	SanJuanTepeuxila1900Cuicatec	MAT	petate	iba	iba	47	195			belmar1902el-cuicateco		tepe03
 5631	Proto-Mixtec	MAT	petate	júwíʔ	júwíʔ	47	195			swanton2020observaciones		prom01
 5632	AlcozaucaGuerreroMixtec	MAT	petate	i³bi⁴	i³bi⁴	47	195			swanton2020observaciones		alco11
 5633	SantaMariaZacatepecMixtec	MAT	petate	ju²bi²ʔ	ju²bi²ʔ	47	195			swanton2020observaciones		zaca11
@@ -10872,7 +10872,7 @@ ID	DOCULECT	CONCEPT	SPANISH_GLOSS	VALUE	FORM	IDlist	CONCEPTICON_ID	LOAN	LOAN_SOU
 4969	MagdalenaPenascoMixtec	MEAT	carne	kùñu	kùñu	114	634			hollenbach2017diccionario		pena11
 5140	SanEstebanAtatlahucaMixtec_A	MEAT	carne	cūñu	cūñu	114	634			alexander1980gramatica	[C]	atat11
 5315	SantaMariaPapaloCuicatec	MEAT	carne	yu²ta⁴	yu²ta⁴	114	634			anderson1983diccionario		papa11
-5497	SanJuanTepeuxila1900Mixtec	MEAT	carne	yuta	yuta	114	634			belmar1902el-cuicateco		tepe03
+5497	SanJuanTepeuxila1900Cuicatec	MEAT	carne	yuta	yuta	114	634			belmar1902el-cuicateco		tepe03
 5718	Proto-Mixtec	MEAT	carne	(ᴮ)-kójõ̀	ᴮ-kójõ̀	114	634			swanton2020observaciones		prom01
 5719	AlcozaucaGuerreroMixtec	MEAT	carne	ku²ɲu²	ku²ɲu²	114	634			swanton2020observaciones		alco11
 5720	SantaMariaZacatepecMixtec	MEAT	carne	ku²ɲu²	ku²ɲu²	114	634			swanton2020observaciones		zaca11
@@ -11045,7 +11045,7 @@ ID	DOCULECT	CONCEPT	SPANISH_GLOSS	VALUE	FORM	IDlist	CONCEPTICON_ID	LOAN	LOAN_SOU
 4182	SanJuanColoradoMixtec_A	MEDICINE	medicina inyectable	tàtàn	tàtàn	34	1372			stark1986diccionario		colo11
 4385	SantaMariaZacatepecMixtec	MEDICINE	medicina	tatan	tatan	34	1372			towne2011gramatica		zaca11
 4520	AlacatlatzalaMixtec_A	MEDICINE	medicina	ta̠ta̠n	ta̠ta̠n	34	1372			zylstra2012gramatica		alac11
-4703	XochapaMixtec	MEDICINE	medicina	ta̠ta̠n	̠	34	1372			stark2013diccionario		xoch11
+4703	XochapaMixtec	MEDICINE	medicina	ta̠ta̠n	ta̠ta̠n	34	1372			stark2013diccionario		xoch11
 4883	MagdalenaPenascoMixtec	MEDICINE	medicina	jàtàtná	jà-tàtná	34	1372			hollenbach2017diccionario	[B]	pena11
 4884	MagdalenaPenascoMixtec	MEDICINE	medicina	tatnà	tatnà	34	1372			hollenbach2017diccionario	[BA]	pena11
 5100	SanEstebanAtatlahucaMixtec_A	MEDICINE	medicina	tajnā	tajnā	34	1372			alexander1980gramatica	[C]	atat11
@@ -11130,7 +11130,7 @@ ID	DOCULECT	CONCEPT	SPANISH_GLOSS	VALUE	FORM	IDlist	CONCEPTICON_ID	LOAN	LOAN_SOU
 5074	MagdalenaPenascoMixtec	MONEY	dinero	xù'un	xù'un	203	1559			hollenbach2017diccionario	[A]	pena11
 5195	SanEstebanAtatlahucaMixtec_A	MONEY	dinero	xūhún	xūhún	203	1559			alexander1980gramatica	[B]	atat11
 5408	SantaMariaPapaloCuicatec	MONEY	dinero	tu²mi⁴	tu²mi⁴	203	1559			anderson1983diccionario		papa11
-5566	SanJuanTepeuxila1900Mixtec	MONEY	dinero	tumi	tumi	203	1559			belmar1902el-cuicateco		tepe03
+5566	SanJuanTepeuxila1900Cuicatec	MONEY	dinero	tumi	tumi	203	1559			belmar1902el-cuicateco		tepe03
 6109	SanAndresChicahuaxtlaTriqui_A	MONEY	dinero	san'anj⁴an	san'anj⁴an	203	1559			good1978diccionario		chic12
 6329	ElJicaralMixtec	MONEY	dinero	xǔ'un	xǔ'un	203	1559			Emily John-Martin		jica13
 20306	SanMartinDuraznosMixtec_A	MONEY	dinero	shù'ún	shù'ún	203	1559			hernandez2020san-martin		dura11
@@ -11226,7 +11226,7 @@ ID	DOCULECT	CONCEPT	SPANISH_GLOSS	VALUE	FORM	IDlist	CONCEPTICON_ID	LOAN	LOAN_SOU
 4847	MagdalenaPenascoMixtec	MOTHER	madre	náà	náà	1	1216			hollenbach2017diccionario	[BA]	pena11
 5082	SanEstebanAtatlahucaMixtec_A	MOTHER	madre	náná	náná	1	1216			alexander1980gramatica	[C]	atat11
 5200	SantaMariaPapaloCuicatec	MOTHER	madre	cha³cu³	cha³cu³	1	1216			anderson1983diccionario		papa11
-5413	SanJuanTepeuxila1900Mixtec	MOTHER	madre	chaku	chaku	1	1216			belmar1902el-cuicateco		tepe03
+5413	SanJuanTepeuxila1900Cuicatec	MOTHER	madre	chaku	chaku	1	1216			belmar1902el-cuicateco		tepe03
 5906	SanAndresChicahuaxtlaTriqui_A	MOTHER	madre	nni'²	nni'²	1	1216			good1978diccionario		chic12
 6116	ElJicaralMixtec	MOTHER	madre	nána	nána	1	1216			Emily John-Martin		jica13
 20100	SanMartinDuraznosMixtec_A	MOTHER	madre	nánà	nánà	1	1216			hernandez2020san-martin		dura11
@@ -11443,7 +11443,7 @@ ID	DOCULECT	CONCEPT	SPANISH_GLOSS	VALUE	FORM	IDlist	CONCEPTICON_ID	LOAN	LOAN_SOU
 3221	LaBateaMixtec	MOUSE	ratón	tǐ'in	tǐ'in	60	1491			oxnard2020		mixt11
 4725	XochapaMixtec	MOUSE	ratón	tìín	tìín	60	1491			stark2013diccionario		xoch11
 5111	SanEstebanAtatlahucaMixtec_A	MOUSE	ratón	jnɨ́nɨ́	jnɨ́nɨ́	60	1491			alexander1980gramatica	[C]	atat11
-5457	SanJuanTepeuxila1900Mixtec	MOUSE	ratón	tindi	tindi	60	1491			belmar1902el-cuicateco		tepe03
+5457	SanJuanTepeuxila1900Cuicatec	MOUSE	ratón	tindi	tindi	60	1491			belmar1902el-cuicateco		tepe03
 5963	SanAndresChicahuaxtlaTriqui_A	MOUSE	ratón	xutu⁴ nij³	xutu⁴-nij³	60	1491			good1978diccionario		chic12
 20157	SanMartinDuraznosMixtec_A	MOUSE	ratón	txìín	txìín	60	1491			hernandez2020san-martin		dura11
 20502	SanPedroYosonamaMixtec	MOUSE	ratón	tniñi	tniñi	60	1491			gittlen2016gramatica		yoso14
@@ -11491,8 +11491,8 @@ ID	DOCULECT	CONCEPT	SPANISH_GLOSS	VALUE	FORM	IDlist	CONCEPTICON_ID	LOAN	LOAN_SOU
 4872	MagdalenaPenascoMixtec	MOUTH	boca	yu'u	yu'u	23	674			hollenbach2017diccionario	[M]	pena11
 5093	SanEstebanAtatlahucaMixtec_A	MOUTH	boca	yuhu	yuhu	23	674			alexander1980gramatica	[A]	atat11
 5223	SantaMariaPapaloCuicatec	MOUTH	boca	che³nde³	che³nde³	23	674			anderson1983diccionario		papa11
-5430	SanJuanTepeuxila1900Mixtec	MOUTH	boca	chende	chende	23	674			belmar1902el-cuicateco		tepe03
-5431	SanJuanTepeuxila1900Mixtec	MOUTH	boca	chindé	chindé	23	674			belmar1902el-cuicateco		tepe03
+5430	SanJuanTepeuxila1900Cuicatec	MOUTH	boca	chende	chende	23	674			belmar1902el-cuicateco		tepe03
+5431	SanJuanTepeuxila1900Cuicatec	MOUTH	boca	chindé	chindé	23	674			belmar1902el-cuicateco		tepe03
 5598	Proto-Mixtec	MOUTH	boca, borde	júʔúʔ	júʔúʔ	23	674			swanton2020observaciones		prom01
 5599	AlcozaucaGuerreroMixtec	MOUTH	boca, borde	ju³ʔu⁴	ju³ʔu⁴	23	674			swanton2020observaciones		alco11
 5600	SantaMariaZacatepecMixtec	MOUTH	boca, borde	ju²ʔu²ʔ	ju²ʔu²ʔ	23	674			swanton2020observaciones		zaca11
@@ -11629,7 +11629,7 @@ ID	DOCULECT	CONCEPT	SPANISH_GLOSS	VALUE	FORM	IDlist	CONCEPTICON_ID	LOAN	LOAN_SOU
 5007	MagdalenaPenascoMixtec	MUD	lodo	ndé'yǒ	ndé'yǒ	149	640			hollenbach2017diccionario	{BA}	pena11
 5155	SanEstebanAtatlahucaMixtec_A	MUD	lodo	ndehyū	ndehyū	149	640			alexander1980gramatica	[C]	atat11
 5352	SantaMariaPapaloCuicatec	MUD	lodo	yi⁴nche⁴te¹⁴	yi⁴nche⁴te¹⁴	149	640			anderson1983diccionario		papa11
-5522	SanJuanTepeuxila1900Mixtec	MUD	lodo	inchieti	inchieti	149	640			belmar1902el-cuicateco		tepe03
+5522	SanJuanTepeuxila1900Cuicatec	MUD	lodo	inchieti	inchieti	149	640			belmar1902el-cuicateco		tepe03
 6059	SanAndresChicahuaxtlaTriqui_A	MUD	lodo	siguë'³ë	siguë'³ë	149	640			good1978diccionario		chic12
 6274	ElJicaralMixtec	MUD	lodo	ntia̠'yu̠	ntia̠'yu̠	149	640			Emily John-Martin		jica13
 15684	SantaMariaAcatepecMixtec	MUD	lodo	ⁿǰaʔyu	ⁿǰaʔyu	149	640			josserand1983mixtec		acat11
@@ -11790,7 +11790,7 @@ ID	DOCULECT	CONCEPT	SPANISH_GLOSS	VALUE	FORM	IDlist	CONCEPTICON_ID	LOAN	LOAN_SOU
 4968	MagdalenaPenascoMixtec	MUSHROOM	hongo	ji'ì	ji'ì	113	641			hollenbach2017diccionario	{BA}	pena11
 5139	SanEstebanAtatlahucaMixtec_A	MUSHROOM	hongo	jihī	jihī	113	641			alexander1980gramatica	[C]	atat11
 5314	SantaMariaPapaloCuicatec	MUSHROOM	hongo	gue⁴'e⁴	gue⁴'e⁴	113	641			anderson1983diccionario		papa11
-5496	SanJuanTepeuxila1900Mixtec	MUSHROOM	hongo	ngee	ngee	113	641			belmar1902el-cuicateco		tepe03
+5496	SanJuanTepeuxila1900Cuicatec	MUSHROOM	hongo	ngee	ngee	113	641			belmar1902el-cuicateco		tepe03
 6019	SanAndresChicahuaxtlaTriqui_A	MUSHROOM	hongo	ran'an⁴³	ran'an⁴³	113	641			good1978diccionario		chic12
 6231	ElJicaralMixtec	MUSHROOM	hongo	xi̠'í	xi̠'í	113	641			Emily John-Martin		jica13
 6232	ElJicaralMixtec	MUSHROOM	hongo	xi̠'i	xi̠'i	113	641			Emily John-Martin		jica13
@@ -11843,7 +11843,7 @@ ID	DOCULECT	CONCEPT	SPANISH_GLOSS	VALUE	FORM	IDlist	CONCEPTICON_ID	LOAN	LOAN_SOU
 5059	MagdalenaPenascoMixtec	NEAR	cerca, cercano	yatni	yatni	189	1942			hollenbach2017diccionario		pena11
 5184	SanEstebanAtatlahucaMixtec_A	NEAR	cerca de, está cerca	yajni	yajni	189	1942			alexander1980gramatica	[A]	atat11
 5392	SantaMariaPapaloCuicatec	NEAR	cerca	chen²⁴	chen²⁴	189	1942			anderson1983diccionario		papa11
-5556	SanJuanTepeuxila1900Mixtec	NEAR	cerca	ninu	ninu	189	1942			belmar1902el-cuicateco		tepe03
+5556	SanJuanTepeuxila1900Cuicatec	NEAR	cerca	ninu	ninu	189	1942			belmar1902el-cuicateco		tepe03
 5852	Proto-Mixtec	NEAR	cerca	jétĩ́	jétĩ́	189	1942			swanton2020observaciones		prom01
 5853	AlcozaucaGuerreroMixtec	NEAR	cerca	ja³ʧĩ³	ja³ʧĩ³	189	1942			swanton2020observaciones		alco11
 5854	SantaMariaZacatepecMixtec	NEAR	cerca	ja²tĩ²	ja²tĩ²	189	1942			swanton2020observaciones		zaca11
@@ -11994,7 +11994,7 @@ ID	DOCULECT	CONCEPT	SPANISH_GLOSS	VALUE	FORM	IDlist	CONCEPTICON_ID	LOAN	LOAN_SOU
 4697	XochapaMixtec	NECK	cuello, pescuezo	su̠kún	su̠kún	26	1333			stark2013diccionario		xoch11
 4875	MagdalenaPenascoMixtec	NECK	cuello	sukùn	sukùn	26	1333			hollenbach2017diccionario	[BA]	pena11
 5226	SantaMariaPapaloCuicatec	NECK	cuello, garganta	da⁴ndu³	da⁴ndu³	26	1333			anderson1983diccionario		papa11
-5435	SanJuanTepeuxila1900Mixtec	NECK	cuello	ndandu	ndandu	26	1333			belmar1902el-cuicateco		tepe03
+5435	SanJuanTepeuxila1900Cuicatec	NECK	cuello	ndandu	ndandu	26	1333			belmar1902el-cuicateco		tepe03
 5929	SanAndresChicahuaxtlaTriqui_A	NECK	cuello	xio'²	xio'²	26	1333			good1978diccionario		chic12
 6139	ElJicaralMixtec	NECK	cuello	su̠kún	su̠kún	26	1333			Emily John-Martin		jica13
 7406	SantaMariaAcatepecMixtec	NECK	cuello	suku̧	suku̧	26	1333			josserand1983mixtec		acat11
@@ -12132,7 +12132,7 @@ ID	DOCULECT	CONCEPT	SPANISH_GLOSS	VALUE	FORM	IDlist	CONCEPTICON_ID	LOAN	LOAN_SOU
 4601	AlacatlatzalaMixtec_A	NET	red	ñono̠	ñono̠	131	2963			zylstra2012gramatica		alac11
 4989	MagdalenaPenascoMixtec	NET	red, bozal	ñuñu	ñuñu	131	2963			hollenbach2017diccionario	[A]	pena11
 5333	SantaMariaPapaloCuicatec	NET	red	ya⁴na⁴	ya⁴na⁴	131	2963			anderson1983diccionario		papa11
-5507	SanJuanTepeuxila1900Mixtec	NET	red	yana	yana	131	2963			belmar1902el-cuicateco		tepe03
+5507	SanJuanTepeuxila1900Cuicatec	NET	red	yana	yana	131	2963			belmar1902el-cuicateco		tepe03
 6039	SanAndresChicahuaxtlaTriqui_A	NET	red, ayate	nnanj³	nnanj³	131	2963			good1978diccionario		chic12
 6040	SanAndresChicahuaxtlaTriqui_A	NET	red	xinaj⁴	xinaj⁴	131	2963			good1978diccionario		chic12
 6255	ElJicaralMixtec	NET	red	nuñú	nuñú	131	2963			Emily John-Martin		jica13
@@ -12297,7 +12297,7 @@ ID	DOCULECT	CONCEPT	SPANISH_GLOSS	VALUE	FORM	IDlist	CONCEPTICON_ID	LOAN	LOAN_SOU
 4826	XochapaMixtec	NEW	nuevo	xàá	xàá	185	1231			stark2013diccionario		xoch11
 5054	MagdalenaPenascoMixtec	NEW	nuevo	jaa	jaa	185	1231			hollenbach2017diccionario	[A]	pena11
 5388	SantaMariaPapaloCuicatec	NEW	nuevo	ga⁴³	ga⁴³	185	1231			anderson1983diccionario		papa11
-5553	SanJuanTepeuxila1900Mixtec	NEW	nuevo	ngai	ngai	185	1231			belmar1902el-cuicateco		tepe03
+5553	SanJuanTepeuxila1900Cuicatec	NEW	nuevo	ngai	ngai	185	1231			belmar1902el-cuicateco		tepe03
 6093	SanAndresChicahuaxtlaTriqui_A	NEW	nuevo	naca⁵	naca⁵	185	1231			good1978diccionario		chic12
 6311	ElJicaralMixtec	NEW	nuevo	xaá	xaá	185	1231			Emily John-Martin		jica13
 20288	SanMartinDuraznosMixtec_A	NEW	nuevo	xàá	xàá	185	1231			hernandez2020san-martin		dura11
@@ -12334,7 +12334,7 @@ ID	DOCULECT	CONCEPT	SPANISH_GLOSS	VALUE	FORM	IDlist	CONCEPTICON_ID	LOAN	LOAN_SOU
 5069	MagdalenaPenascoMixtec	NIGHT	noche	jakuaà	jakuaà	198	1233			hollenbach2017diccionario	[BA]	pena11
 5402	SantaMariaPapaloCuicatec	NIGHT	noche	güi²nu⁴	güi²nu⁴	198	1233			anderson1983diccionario		papa11
 5403	SantaMariaPapaloCuicatec	NIGHT	noche	yan³	yan³	198	1233			anderson1983diccionario		papa11
-5563	SanJuanTepeuxila1900Mixtec	NIGHT	noche	ngaan	ngaan	198	1233			belmar1902el-cuicateco		tepe03
+5563	SanJuanTepeuxila1900Cuicatec	NIGHT	noche	ngaan	ngaan	198	1233			belmar1902el-cuicateco		tepe03
 6105	SanAndresChicahuaxtlaTriqui_A	NIGHT	noche	yan'⁵anj³	yan'⁵anj³	198	1233			good1978diccionario		chic12
 6324	ElJicaralMixtec	NIGHT	noche	ñǔu	ñǔu	198	1233			Emily John-Martin		jica13
 20301	SanMartinDuraznosMixtec_A	NIGHT	noche	xìkuaa	xìkuaa	198	1233			hernandez2020san-martin		dura11
@@ -12496,7 +12496,7 @@ ID	DOCULECT	CONCEPT	SPANISH_GLOSS	VALUE	FORM	IDlist	CONCEPTICON_ID	LOAN	LOAN_SOU
 5027	MagdalenaPenascoMixtec	NINE	nueve	iìn	iìn	165	1483			hollenbach2017diccionario		pena11
 5168	SanEstebanAtatlahucaMixtec_A	NINE	nueve	ɨɨn	ɨɨn	165	1483			alexander1980gramatica	[C]	atat11
 5368	SantaMariaPapaloCuicatec	NINE	nueve	nun³²	nun³²	165	1483			anderson1983diccionario		papa11
-5538	SanJuanTepeuxila1900Mixtec	NINE	nueve	nuu	nuu	165	1483			belmar1902el-cuicateco		tepe03
+5538	SanJuanTepeuxila1900Cuicatec	NINE	nueve	nuu	nuu	165	1483			belmar1902el-cuicateco		tepe03
 6075	SanAndresChicahuaxtlaTriqui_A	NINE	nueve	'ïn⁴	'ïn⁴	165	1483			good1978diccionario		chic12
 6291	ElJicaralMixtec	NINE	nueve	i̠i̠n	i̠i̠n	165	1483			Emily John-Martin		jica13
 20268	SanMartinDuraznosMixtec_A	NINE	nueve	ììn	ììn	165	1483			hernandez2020san-martin		dura11
@@ -12550,7 +12550,7 @@ ID	DOCULECT	CONCEPT	SPANISH_GLOSS	VALUE	FORM	IDlist	CONCEPTICON_ID	LOAN	LOAN_SOU
 4874	MagdalenaPenascoMixtec	NOSE	nariz	xitnì	xitnì	25	1221			hollenbach2017diccionario	[BA]	pena11
 5094	SanEstebanAtatlahucaMixtec_A	NOSE	nariz	xijnī	xijnī	25	1221			alexander1980gramatica	[C]	atat11
 5225	SantaMariaPapaloCuicatec	NOSE	nariz	du³tu³	du³tu³	25	1221			anderson1983diccionario		papa11
-5434	SanJuanTepeuxila1900Mixtec	NOSE	nariz	nduta	nduta	25	1221			belmar1902el-cuicateco		tepe03
+5434	SanJuanTepeuxila1900Cuicatec	NOSE	nariz	nduta	nduta	25	1221			belmar1902el-cuicateco		tepe03
 5928	SanAndresChicahuaxtlaTriqui_A	NOSE	nariz	daquïn'²	daquïn'²	25	1221			good1978diccionario		chic12
 6138	ElJicaralMixtec	NOSE	nariz	xi̠tín	xi̠tín	25	1221			Emily John-Martin		jica13
 7289	SantaMariaAcatepecMixtec	NOSE	nariz	siči̧	siči̧	25	1221			josserand1983mixtec		acat11
@@ -12720,7 +12720,7 @@ ID	DOCULECT	CONCEPT	SPANISH_GLOSS	VALUE	FORM	IDlist	CONCEPTICON_ID	LOAN	LOAN_SOU
 5190	SanEstebanAtatlahucaMixtec_A	NOW OR TODAY	ahora, hoy	vijna	vijna	197	2097			alexander1980gramatica	[A]	atat11
 5400	SantaMariaPapaloCuicatec	NOW OR TODAY	ahora	man³	man³	197	2097			anderson1983diccionario		papa11
 5401	SantaMariaPapaloCuicatec	NOW OR TODAY	hoy, de día	ma⁴gu³vi³	ma⁴-gu³vi³	197	2097			anderson1983diccionario		papa11
-5562	SanJuanTepeuxila1900Mixtec	NOW OR TODAY	ahora	man	man	197	2097			belmar1902el-cuicateco		tepe03
+5562	SanJuanTepeuxila1900Cuicatec	NOW OR TODAY	ahora	man	man	197	2097			belmar1902el-cuicateco		tepe03
 5876	Proto-Mixtec	NOW OR TODAY	ahora	wítĩ́	wítĩ́	197	2097			swanton2020observaciones		prom01
 5877	AlcozaucaGuerreroMixtec	NOW OR TODAY	ahora	bi³ʧi³	bi³ʧi³	197	2097			swanton2020observaciones		alco11
 5878	SantaMariaZacatepecMixtec	NOW OR TODAY	ahora	bi²tĩ²	bi²tĩ²	197	2097			swanton2020observaciones		zaca11
@@ -12881,7 +12881,7 @@ ID	DOCULECT	CONCEPT	SPANISH_GLOSS	VALUE	FORM	IDlist	CONCEPTICON_ID	LOAN	LOAN_SOU
 5018	MagdalenaPenascoMixtec	ONE	uno	in	in	157	1493			hollenbach2017diccionario		pena11
 5160	SanEstebanAtatlahucaMixtec_A	ONE	uno	ɨɨn	ɨɨn	157	1493			alexander1980gramatica	[A]	atat11
 5360	SantaMariaPapaloCuicatec	ONE	uno	a²ma²	a²ma²	157	1493			anderson1983diccionario		papa11
-5530	SanJuanTepeuxila1900Mixtec	ONE	uno	ama	ama	157	1493			belmar1902el-cuicateco		tepe03
+5530	SanJuanTepeuxila1900Cuicatec	ONE	uno	ama	ama	157	1493			belmar1902el-cuicateco		tepe03
 6067	SanAndresChicahuaxtlaTriqui_A	ONE	uno	'ngo⁵³	'ngo⁵³	157	1493			good1978diccionario		chic12
 6283	ElJicaralMixtec	ONE	uno	iin	iin	157	1493			Emily John-Martin		jica13
 20260	SanMartinDuraznosMixtec_A	ONE	uno	iin	iin	157	1493			hernandez2020san-martin		dura11
@@ -12903,7 +12903,7 @@ ID	DOCULECT	CONCEPT	SPANISH_GLOSS	VALUE	FORM	IDlist	CONCEPTICON_ID	LOAN	LOAN_SOU
 4268	SanJuanColoradoMixtec_A	OVEN	horno	tsìtùn	tsìtùn	117	1143			stark1986diccionario		colo11
 4972	MagdalenaPenascoMixtec	OVEN	horno	jitnù	jitnù	117	1143			hollenbach2017diccionario	{BA}	pena11
 5318	SantaMariaPapaloCuicatec	OVEN	horno	ho²rno⁴	ho²rno⁴	117	1143	yes	Spanish	anderson1983diccionario		papa11
-5499	SanJuanTepeuxila1900Mixtec	OVEN	horno	yutu	yutu	117	1143			belmar1902el-cuicateco		tepe03
+5499	SanJuanTepeuxila1900Cuicatec	OVEN	horno	yutu	yutu	117	1143			belmar1902el-cuicateco		tepe03
 5733	Proto-Mixtec	OVEN	horno	xìtũ̀̀	xìtũ̀̀	117	1143			swanton2020observaciones		prom01
 5734	AlcozaucaGuerreroMixtec	OVEN	horno	ʃi¹tũ¹	ʃi¹tũ¹	117	1143			swanton2020observaciones		alco11
 5735	SantaMariaZacatepecMixtec	OVEN	horno	ʧi²tũ²¹	ʧi²tũ²¹	117	1143			swanton2020observaciones		zaca11
@@ -13046,7 +13046,7 @@ ID	DOCULECT	CONCEPT	SPANISH_GLOSS	VALUE	FORM	IDlist	CONCEPTICON_ID	LOAN	LOAN_SOU
 4863	MagdalenaPenascoMixtec	OWNER	dueño	ito'ò	ito'ò	15	1036			hollenbach2017diccionario	[BA]	pena11
 4864	MagdalenaPenascoMixtec	OWNER	dueño	jito'ò	ji-to'ò	15	1036			hollenbach2017diccionario	[BA]	pena11
 5215	SantaMariaPapaloCuicatec	OWNER	dueño	'i⁴yan⁴ chin² ye⁴'en⁴	'i⁴yan⁴-chin²-ye⁴'en⁴	15	1036			anderson1983diccionario		papa11
-5422	SanJuanTepeuxila1900Mixtec	OWNER	dueño	ibi	ibi	15	1036			belmar1902el-cuicateco		tepe03
+5422	SanJuanTepeuxila1900Cuicatec	OWNER	dueño	ibi	ibi	15	1036			belmar1902el-cuicateco		tepe03
 5918	SanAndresChicahuaxtlaTriqui_A	OWNER	dueño	si¹ si-'yaj³	si¹-si-'yaj³	15	1036			good1978diccionario		chic12
 6128	ElJicaralMixtec	OWNER	dueño	xi̠tǒ'o	xi̠-tǒ'o	15	1036			Emily John-Martin		jica13
 6699	SantaMariaAcatepecMixtec	OWNER	dueño	čii-stoʔo	čii-stoʔo	15	1036			josserand1983mixtec		acat11
@@ -13185,7 +13185,7 @@ ID	DOCULECT	CONCEPT	SPANISH_GLOSS	VALUE	FORM	IDlist	CONCEPTICON_ID	LOAN	LOAN_SOU
 5004	MagdalenaPenascoMixtec	PAPER	papel	tutù	tutù	146	648			hollenbach2017diccionario	{BA}	pena11
 5153	SanEstebanAtatlahucaMixtec_A	PAPER	papel, libro	tutu	tutu	146	648			alexander1980gramatica	[C]	atat11
 5349	SantaMariaPapaloCuicatec	PAPER	papel	ca³ca³	ca³ca³	146	648			anderson1983diccionario		papa11
-5519	SanJuanTepeuxila1900Mixtec	PAPER	papel	kaka	kaka	146	648			belmar1902el-cuicateco		tepe03
+5519	SanJuanTepeuxila1900Cuicatec	PAPER	papel	kaka	kaka	146	648			belmar1902el-cuicateco		tepe03
 5793	Proto-Mixtec	PAPER	papel	tútù	tútù	146	648			swanton2020observaciones		prom01
 5794	AlcozaucaGuerreroMixtec	PAPER	papel	tu³tu²	tu³tu²	146	648			swanton2020observaciones		alco11
 5795	SantaMariaZacatepecMixtec	PAPER	papel	tu²tu²	tu²tu²	146	648			swanton2020observaciones		zaca11
@@ -13241,7 +13241,7 @@ ID	DOCULECT	CONCEPT	SPANISH_GLOSS	VALUE	FORM	IDlist	CONCEPTICON_ID	LOAN	LOAN_SOU
 4895	MagdalenaPenascoMixtec	PATH	camino	ichi	ichi	45	2252			hollenbach2017diccionario	[A]	pena11
 5104	SanEstebanAtatlahucaMixtec_A	PATH	camino	ichi	ichi	45	2252			alexander1980gramatica	[A]	atat11
 5244	SantaMariaPapaloCuicatec	PATH	camino	yu²ni²	yu²ni²	45	2252			anderson1983diccionario		papa11
-5447	SanJuanTepeuxila1900Mixtec	PATH	camino	yuni	yuni	45	2252			belmar1902el-cuicateco		tepe03
+5447	SanJuanTepeuxila1900Cuicatec	PATH	camino	yuni	yuni	45	2252			belmar1902el-cuicateco		tepe03
 5626	Proto-Mixtec	PATH	camino	ítíʔ	ítíʔ	45	2252			swanton2020observaciones		prom01
 5627	AlcozaucaGuerreroMixtec	PATH	camino	i³ʧi⁴	i³ʧi⁴	45	2252			swanton2020observaciones		alco11
 5628	SantaMariaZacatepecMixtec	PATH	camino	i²ti²ʔ	i²ti²ʔ	45	2252			swanton2020observaciones		zaca11
@@ -13281,7 +13281,7 @@ ID	DOCULECT	CONCEPT	SPANISH_GLOSS	VALUE	FORM	IDlist	CONCEPTICON_ID	LOAN	LOAN_SOU
 4925	MagdalenaPenascoMixtec	PIG	marrano, puerco	kinì	kinì	72	1337			hollenbach2017diccionario		pena11
 5119	SanEstebanAtatlahucaMixtec_A	PIG	marrano	quɨnɨ̄	quɨnɨ̄	72	1337			alexander1980gramatica	[C]	atat11
 5271	SantaMariaPapaloCuicatec	PIG	marrano	cu²chi¹	cu²chi¹	72	1337	yes	Spanish	anderson1983diccionario		papa11
-5465	SanJuanTepeuxila1900Mixtec	PIG	puerco	kunu	kunu	72	1337			belmar1902el-cuicateco		tepe03
+5465	SanJuanTepeuxila1900Cuicatec	PIG	puerco	kunu	kunu	72	1337			belmar1902el-cuicateco		tepe03
 5976	SanAndresChicahuaxtlaTriqui_A	PIG	marrano, puerco, cerdo	xaca¹	xaca¹	72	1337			good1978diccionario		chic12
 6187	ElJicaralMixtec	PIG	marrano, puerco, cerdo	kîni̠	kîni̠	72	1337			Emily John-Martin		jica13
 6188	ElJicaralMixtec	PIG	marrano, puerco, cerdo	kini̠	kini̠	72	1337			Emily John-Martin		jica13
@@ -13305,7 +13305,7 @@ ID	DOCULECT	CONCEPT	SPANISH_GLOSS	VALUE	FORM	IDlist	CONCEPTICON_ID	LOAN	LOAN_SOU
 4184	SanJuanColoradoMixtec_A	PIMPLE	grano	ndɨhyɨ	ndɨhyɨ	36	1809			stark1986diccionario		colo11
 4886	MagdalenaPenascoMixtec	PIMPLE	grano, roncha	ndì'yi	ndì'yi	36	1809			hollenbach2017diccionario		pena11
 5235	SantaMariaPapaloCuicatec	PIMPLE	grano	nd'u²v'i²	nd'u²v'i²	36	1809			anderson1983diccionario		papa11
-5443	SanJuanTepeuxila1900Mixtec	PIMPLE	grano del cuerpo	ndubi	ndubi	36	1809			belmar1902el-cuicateco		tepe03
+5443	SanJuanTepeuxila1900Cuicatec	PIMPLE	grano del cuerpo	ndubi	ndubi	36	1809			belmar1902el-cuicateco		tepe03
 5608	Proto-Mixtec	PIMPLE	grano	ⁿdɨ̀ʔjɨ́	ⁿdɨ̀ʔjɨ́	36	1809			swanton2020observaciones		prom01
 5609	AlcozaucaGuerreroMixtec	PIMPLE	grano	ⁿdi¹ʔi³	ⁿdi¹ʔi³	36	1809			swanton2020observaciones		alco11
 5610	SantaMariaZacatepecMixtec	PIMPLE	grano	ⁿdi²ʔi²¹	ⁿdi²ʔi²¹	36	1809			swanton2020observaciones		zaca11
@@ -13453,7 +13453,7 @@ ID	DOCULECT	CONCEPT	SPANISH_GLOSS	VALUE	FORM	IDlist	CONCEPTICON_ID	LOAN	LOAN_SOU
 4790	XochapaMixtec	PLAIN	llano	yosó	yosó	142	652			stark2013diccionario		xoch11
 5000	MagdalenaPenascoMixtec	PLAIN	llano	yoso	yoso	142	652			hollenbach2017diccionario	[A]	pena11
 5345	SantaMariaPapaloCuicatec	PLAIN	llanura, llano	yu²du⁴	yu²du⁴	142	652			anderson1983diccionario		papa11
-5516	SanJuanTepeuxila1900Mixtec	PLAIN	llano	yudu	yudu	142	652			belmar1902el-cuicateco		tepe03
+5516	SanJuanTepeuxila1900Cuicatec	PLAIN	llano	yudu	yudu	142	652			belmar1902el-cuicateco		tepe03
 6052	SanAndresChicahuaxtlaTriqui_A	PLAIN	llano	ta³	ta³	142	652			good1978diccionario		chic12
 6266	ElJicaralMixtec	PLAIN	llanura, llano	yosó	yosó	142	652			Emily John-Martin		jica13
 15120	SantaMariaAcatepecMixtec	PLAIN	llano	ⁿduʔwa	ⁿduʔwa	142	652			josserand1983mixtec		acat11
@@ -13610,7 +13610,7 @@ ID	DOCULECT	CONCEPT	SPANISH_GLOSS	VALUE	FORM	IDlist	CONCEPTICON_ID	LOAN	LOAN_SOU
 4978	MagdalenaPenascoMixtec	PLATE	plato	ko'ò	ko'ò	123	480			hollenbach2017diccionario	[BA]	pena11
 5142	SanEstebanAtatlahucaMixtec_A	PLATE	plato	cohō	cohō	123	480			alexander1980gramatica	[C]	atat11
 5324	SantaMariaPapaloCuicatec	PLATE	plato, traste	cu³'u³	cu³'u³	123	480			anderson1983diccionario		papa11
-5503	SanJuanTepeuxila1900Mixtec	PLATE	plato	kuú	kuú	123	480			belmar1902el-cuicateco		tepe03
+5503	SanJuanTepeuxila1900Cuicatec	PLATE	plato	kuú	kuú	123	480			belmar1902el-cuicateco		tepe03
 6030	SanAndresChicahuaxtlaTriqui_A	PLATE	plato	go'o³	go'o³	123	480			good1978diccionario		chic12
 6245	ElJicaralMixtec	PLATE	plato	ko̠'ó	ko̠'ó	123	480			Emily John-Martin		jica13
 20223	SanMartinDuraznosMixtec_A	PLATE	plato	kò'ò	kò'ò	123	480			hernandez2020san-martin		dura11
@@ -13659,7 +13659,7 @@ ID	DOCULECT	CONCEPT	SPANISH_GLOSS	VALUE	FORM	IDlist	CONCEPTICON_ID	LOAN	LOAN_SOU
 5031	MagdalenaPenascoMixtec	POOR	pobre	ndá'ví	ndá'ví	169	1674			hollenbach2017diccionario	[B]	pena11
 5172	SanEstebanAtatlahucaMixtec_A	POOR	pobre	ndáhú	ndáhú	169	1674			alexander1980gramatica	[B]	atat11
 5372	SantaMariaPapaloCuicatec	POOR	pobre	nda²chi¹⁴	nda²chi¹⁴	169	1674			anderson1983diccionario		papa11
-5542	SanJuanTepeuxila1900Mixtec	POOR	pobre	nguaa	nguaa	169	1674			belmar1902el-cuicateco		tepe03
+5542	SanJuanTepeuxila1900Cuicatec	POOR	pobre	nguaa	nguaa	169	1674			belmar1902el-cuicateco		tepe03
 5828	Proto-Mixtec	POOR	pobre	ʔ-ⁿdáʔwì	ʔ-ⁿdáʔwì	169	1674			swanton2020observaciones		prom01
 5829	AlcozaucaGuerreroMixtec	POOR	pobre	ⁿda⁴ʔbi²	ⁿda⁴ʔbi²	169	1674			swanton2020observaciones		alco11
 5830	SantaMariaZacatepecMixtec	POOR	pobre	ⁿda²ʔbi³	ⁿda²ʔbi³	169	1674			swanton2020observaciones		zaca11
@@ -14186,7 +14186,7 @@ ID	DOCULECT	CONCEPT	SPANISH_GLOSS	VALUE	FORM	IDlist	CONCEPTICON_ID	LOAN	LOAN_SOU
 4955	MagdalenaPenascoMixtec	PUMPKIN	calabaza	yikin	yikin	100	864			hollenbach2017diccionario	[A]	pena11
 5130	SanEstebanAtatlahucaMixtec_A	PUMPKIN	calabaza	yɨquɨn	yɨquɨn	100	864			alexander1980gramatica	[A]	atat11
 5300	SantaMariaPapaloCuicatec	PUMPKIN	calabaza	yu²cu⁴	yu²cu⁴	100	864			anderson1983diccionario		papa11
-5490	SanJuanTepeuxila1900Mixtec	PUMPKIN	calabaza	yuku	yuku	100	864			belmar1902el-cuicateco		tepe03
+5490	SanJuanTepeuxila1900Cuicatec	PUMPKIN	calabaza	yuku	yuku	100	864			belmar1902el-cuicateco		tepe03
 6005	SanAndresChicahuaxtlaTriqui_A	PUMPKIN	calabaza	can³	can³	100	864			good1978diccionario		chic12
 6218	ElJicaralMixtec	PUMPKIN	calabaza	ikín	ikín	100	864			Emily John-Martin		jica13
 12421	SantaMariaAcatepecMixtec	PUMPKIN	calabaza	yɨkɨ̧	yɨkɨ̧	100	864			josserand1983mixtec		acat11
@@ -14534,7 +14534,7 @@ ID	DOCULECT	CONCEPT	SPANISH_GLOSS	VALUE	FORM	IDlist	CONCEPTICON_ID	LOAN	LOAN_SOU
 4996	MagdalenaPenascoMixtec	RAIN (PRECIPITATION)	lluvia	savì	savì	138	658			hollenbach2017diccionario	[BA]	pena11
 5148	SanEstebanAtatlahucaMixtec_A	RAIN (PRECIPITATION)	lluvia	savū	savū	138	658			alexander1980gramatica	[C]	atat11
 5341	SantaMariaPapaloCuicatec	RAIN (PRECIPITATION)	lluvia	cu²vi⁴	cu²vi⁴	138	658			anderson1983diccionario		papa11
-5513	SanJuanTepeuxila1900Mixtec	RAIN (PRECIPITATION)	lluvia	kubi	kubi	138	658			belmar1902el-cuicateco		tepe03
+5513	SanJuanTepeuxila1900Cuicatec	RAIN (PRECIPITATION)	lluvia	kubi	kubi	138	658			belmar1902el-cuicateco		tepe03
 6048	SanAndresChicahuaxtlaTriqui_A	RAIN (PRECIPITATION)	lluvia	guman⁵³	guman⁵³	138	658			good1978diccionario		chic12
 6262	ElJicaralMixtec	RAIN (PRECIPITATION)	lluvia	sa̠ví	sa̠ví	138	658			Emily John-Martin		jica13
 14660	SantaMariaAcatepecMixtec	RAIN (PRECIPITATION)	lluvia	(ko̧o̧)-sawi	ko̧o̧-sawi	138	658			josserand1983mixtec		acat11
@@ -14673,7 +14673,7 @@ ID	DOCULECT	CONCEPT	SPANISH_GLOSS	VALUE	FORM	IDlist	CONCEPTICON_ID	LOAN	LOAN_SOU
 2403	MetlatonocMixtec	RAT	rat	tì̧ī̧	tì̧ī̧	60	1490			durr1987preliminary		metl11
 2404	SanJeronimoProgresoMixtec_B	RAT	rat	tì̧í̧	tì̧í̧	60	1490			durr1987preliminary		prog12
 2405	SantaMariaJicaltepecMixtec	RAT	rat	tɨ̄ñɨ́	tɨ̄ñɨ́	60	1490			durr1987preliminary		jica11
-5458	SanJuanTepeuxila1900Mixtec	RAT	rata	tiudi	tiudi	60	1490			belmar1902el-cuicateco		tepe03
+5458	SanJuanTepeuxila1900Cuicatec	RAT	rata	tiudi	tiudi	60	1490			belmar1902el-cuicateco		tepe03
 5964	SanAndresChicahuaxtlaTriqui_A	RAT	rata	xutu⁴ güi³⁵	xutu⁴-güi³⁵	60	1490			good1978diccionario		chic12
 10075	SantaMariaAcatepecMixtec	RAT	rata	tɨ̧ñɨ̧	tɨ̧ñɨ̧	60	1490			josserand1983mixtec		acat11
 10076	SanMiguelAchiutlaMixtec	RAT	rata	tni̧ñi̧	tni̧ñi̧	60	1490			josserand1983mixtec		achi11
@@ -14836,7 +14836,7 @@ ID	DOCULECT	CONCEPT	SPANISH_GLOSS	VALUE	FORM	IDlist	CONCEPTICON_ID	LOAN	LOAN_SOU
 4660	AlacatlatzalaMixtec_A	RAW	crudo	yí'í	yí'í	192	1959			anderson2006vocabulario		alac11
 5062	MagdalenaPenascoMixtec	RAW	crudo, verde (no maduro)	yí'í	yí'í	192	1959			hollenbach2017diccionario		pena11
 5395	SantaMariaPapaloCuicatec	RAW	crudo, verde, azul	cue³	cue³	192	1959			anderson1983diccionario		papa11
-5558	SanJuanTepeuxila1900Mixtec	RAW	crudo	kuee	kuee	192	1959			belmar1902el-cuicateco		tepe03
+5558	SanJuanTepeuxila1900Cuicatec	RAW	crudo	kuee	kuee	192	1959			belmar1902el-cuicateco		tepe03
 5861	Proto-Mixtec	RAW	crudo	(ʔ¹)-jɨ́ʔɨ́	ʔ¹-jɨ́ʔɨ́	192	1959			swanton2020observaciones		prom01
 5862	AlcozaucaGuerreroMixtec	RAW	crudo	i⁴ʔi³	i⁴ʔi³	192	1959			swanton2020observaciones		alco11
 5863	SantaMariaZacatepecMixtec	RAW	crudo	i²ʔi²	i²ʔi²	192	1959			swanton2020observaciones		zaca11
@@ -14890,7 +14890,7 @@ ID	DOCULECT	CONCEPT	SPANISH_GLOSS	VALUE	FORM	IDlist	CONCEPTICON_ID	LOAN	LOAN_SOU
 5011	MagdalenaPenascoMixtec	RED	rojo	kuá'á	kuá'á	152	156			hollenbach2017diccionario	{A}	pena11
 5156	SanEstebanAtatlahucaMixtec_A	RED	rojo	cuéhé	cuéhé	152	156			alexander1980gramatica	[B]	atat11
 5355	SantaMariaPapaloCuicatec	RED	rojo	cua̠¹'a̠⁴	cua̠¹'a̠⁴	152	156			anderson1983diccionario		papa11
-5525	SanJuanTepeuxila1900Mixtec	RED	rojo	kuaa	kuaa	152	156			belmar1902el-cuicateco		tepe03
+5525	SanJuanTepeuxila1900Cuicatec	RED	rojo	kuaa	kuaa	152	156			belmar1902el-cuicateco		tepe03
 5798	Proto-Mixtec	RED	rojo, colorado	ʔ-kʷéʔè	ʔ-kʷéʔè	152	156			swanton2020observaciones		prom01
 5799	AlcozaucaGuerreroMixtec	RED	rojo, colorado	kʷa⁴ʔa²	kʷa⁴ʔa²	152	156			swanton2020observaciones		alco11
 5800	SantaMariaZacatepecMixtec	RED	rojo, colorado	kʷa²ʔa³	kʷa²ʔa³	152	156			swanton2020observaciones		zaca11
@@ -15049,7 +15049,7 @@ ID	DOCULECT	CONCEPT	SPANISH_GLOSS	VALUE	FORM	IDlist	CONCEPTICON_ID	LOAN	LOAN_SOU
 5033	MagdalenaPenascoMixtec	RICH	rico	xikú	xikú	170	712			hollenbach2017diccionario	[B]	pena11
 5173	SanEstebanAtatlahucaMixtec_A	RICH	rico	cúcá	cúcá	170	712			alexander1980gramatica	[B]	atat11
 5373	SantaMariaPapaloCuicatec	RICH	rico	ri²cu⁴	ri²cu⁴	170	712	yes	Spanish	anderson1983diccionario		papa11
-5543	SanJuanTepeuxila1900Mixtec	RICH	rico	kuika	kuika	170	712			belmar1902el-cuicateco		tepe03
+5543	SanJuanTepeuxila1900Cuicatec	RICH	rico	kuika	kuika	170	712			belmar1902el-cuicateco		tepe03
 6080	SanAndresChicahuaxtlaTriqui_A	RICH	rico	xiru'ue⁴ sij³	xiru'ue⁴	170	712			good1978diccionario		chic12
 6296	ElJicaralMixtec	RICH	rico	kuíka	kuíka	170	712			Emily John-Martin		jica13
 20273	SanMartinDuraznosMixtec_A	RICH	rico	kuíká	kuíká	170	712			hernandez2020san-martin		dura11
@@ -15073,7 +15073,7 @@ ID	DOCULECT	CONCEPT	SPANISH_GLOSS	VALUE	FORM	IDlist	CONCEPTICON_ID	LOAN	LOAN_SOU
 4782	XochapaMixtec	RING	anillo	xè'é	xè'é	133	1374			stark2013diccionario		xoch11
 4991	MagdalenaPenascoMixtec	RING	anillo	xe'e	xe'e	133	1374			hollenbach2017diccionario	[A]	pena11
 5335	SantaMariaPapaloCuicatec	RING	anillo	cu⁴³ yi³nun³ ta̠³'a̠⁴	cu⁴³-yi³nun³-ta̠³'a̠⁴	133	1374			anderson1983diccionario		papa11
-5509	SanJuanTepeuxila1900Mixtec	RING	anillo	chinta	chinta	133	1374			belmar1902el-cuicateco		tepe03
+5509	SanJuanTepeuxila1900Cuicatec	RING	anillo	chinta	chinta	133	1374			belmar1902el-cuicateco		tepe03
 6042	SanAndresChicahuaxtlaTriqui_A	RING	anillo	se'ej⁵e	se'ej⁵e	133	1374			good1978diccionario		chic12
 6257	ElJicaralMixtec	RING	anillo	xe'é	xe'é	133	1374			Emily John-Martin		jica13
 20234	SanMartinDuraznosMixtec_A	RING	anillo	shé'è	shé'è	133	1374			hernandez2020san-martin		dura11
@@ -15117,7 +15117,7 @@ ID	DOCULECT	CONCEPT	SPANISH_GLOSS	VALUE	FORM	IDlist	CONCEPTICON_ID	LOAN	LOAN_SOU
 4788	XochapaMixtec	RIVER	río	i̠ta	i̠ta	139	666			stark2013diccionario		xoch11
 4997	MagdalenaPenascoMixtec	RIVER	río	yùte	yùte	139	666			hollenbach2017diccionario	{A}	pena11
 5342	SantaMariaPapaloCuicatec	RIVER	río	yi²cu²	yi²cu²	139	666			anderson1983diccionario		papa11
-5514	SanJuanTepeuxila1900Mixtec	RIVER	río	iku	iku	139	666			belmar1902el-cuicateco		tepe03
+5514	SanJuanTepeuxila1900Cuicatec	RIVER	río	iku	iku	139	666			belmar1902el-cuicateco		tepe03
 5768	Proto-Mixtec	RIVER	río	jùté	jùté	139	666			swanton2020observaciones		prom01
 5769	AlcozaucaGuerreroMixtec	RIVER	río	i¹ca³	i¹ca³	139	666			swanton2020observaciones		alco11
 5770	SantaMariaZacatepecMixtec	RIVER	río	ju²ʧa²¹	ju²ʧa²¹	139	666			swanton2020observaciones		zaca11
@@ -15285,7 +15285,7 @@ ID	DOCULECT	CONCEPT	SPANISH_GLOSS	VALUE	FORM	IDlist	CONCEPTICON_ID	LOAN	LOAN_SOU
 4921	MagdalenaPenascoMixtec	ROOSTER	gallo	lí'i	lí'i	70	1511			hollenbach2017diccionario		pena11
 5117	SanEstebanAtatlahucaMixtec_A	ROOSTER	gallo	líhli	líhli	70	1511			alexander1980gramatica	[C]	atat11
 5269	SantaMariaPapaloCuicatec	ROOSTER	gallo	tu¹sa¹'an⁴	tu-¹sa¹'an⁴	70	1511			anderson1983diccionario		papa11
-5463	SanJuanTepeuxila1900Mixtec	ROOSTER	gallo	tuutsan	tuu-tsan	70	1511			belmar1902el-cuicateco		tepe03
+5463	SanJuanTepeuxila1900Cuicatec	ROOSTER	gallo	tuutsan	tuu-tsan	70	1511			belmar1902el-cuicateco		tepe03
 5974	SanAndresChicahuaxtlaTriqui_A	ROOSTER	gallo	de'loj⁵o	de'loj⁵o	70	1511			good1978diccionario		chic12
 6184	ElJicaralMixtec	ROOSTER	gallo	chéle	chéle	70	1511			Emily John-Martin		jica13
 6185	ElJicaralMixtec	ROOSTER	gallo	chele	chele	70	1511			Emily John-Martin		jica13
@@ -15313,7 +15313,7 @@ ID	DOCULECT	CONCEPT	SPANISH_GLOSS	VALUE	FORM	IDlist	CONCEPTICON_ID	LOAN	LOAN_SOU
 4564	AlacatlatzalaMixtec_A	ROOT	raíz	tio̠'o	tio̠'o	85	670			anderson2006vocabulario		alac11
 4939	MagdalenaPenascoMixtec	ROOT	raíz	yo'o	yo'o	85	670			hollenbach2017diccionario	[A]	pena11
 5285	SantaMariaPapaloCuicatec	ROOT	raíz	d'i²yu²	d'i²yu²	85	670			anderson1983diccionario		papa11
-5480	SanJuanTepeuxila1900Mixtec	ROOT	raíz	diyú	diyú	85	670			belmar1902el-cuicateco		tepe03
+5480	SanJuanTepeuxila1900Cuicatec	ROOT	raíz	diyú	diyú	85	670			belmar1902el-cuicateco		tepe03
 5990	SanAndresChicahuaxtlaTriqui_A	ROOT	raíz, cuerda	ya'a⁴	ya'a⁴	85	670			good1978diccionario		chic12
 6203	ElJicaralMixtec	ROOT	raíz	tio̠'o	tio̠'o	85	670			Emily John-Martin		jica13
 20183	SanMartinDuraznosMixtec_A	ROOT	raíz	yò'o	yò'o	85	670			hernandez2020san-martin		dura11
@@ -15404,7 +15404,7 @@ ID	DOCULECT	CONCEPT	SPANISH_GLOSS	VALUE	FORM	IDlist	CONCEPTICON_ID	LOAN	LOAN_SOU
 4954	MagdalenaPenascoMixtec	SALT	sal	ñiì	ñiì	99	1274			hollenbach2017diccionario	[BA]	pena11
 5129	SanEstebanAtatlahucaMixtec_A	SALT	sal	ñɨɨ̄	ñɨɨ̄	99	1274			alexander1980gramatica	[C]	atat11
 5299	SantaMariaPapaloCuicatec	SALT	sal	yi⁴ma⁴	yi⁴ma⁴	99	1274			anderson1983diccionario		papa11
-5489	SanJuanTepeuxila1900Mixtec	SALT	sal	ima	ima	99	1274			belmar1902el-cuicateco		tepe03
+5489	SanJuanTepeuxila1900Cuicatec	SALT	sal	ima	ima	99	1274			belmar1902el-cuicateco		tepe03
 6004	SanAndresChicahuaxtlaTriqui_A	SALT	sal	yan³⁴	yan³⁴	99	1274			good1978diccionario		chic12
 6217	ElJicaralMixtec	SALT	sal	i̠ín	i̠ín	99	1274			Emily John-Martin		jica13
 12299	SantaMariaAcatepecMixtec	SALT	sal	ñɨ̧́ɨ̧́	ñɨ̧́ɨ̧́	99	1274			josserand1983mixtec		acat11
@@ -15838,7 +15838,7 @@ ID	DOCULECT	CONCEPT	SPANISH_GLOSS	VALUE	FORM	IDlist	CONCEPTICON_ID	LOAN	LOAN_SOU
 4906	MagdalenaPenascoMixtec	SCORPION	alacrán	tìsu'mà	tì-su'mà	56	1538			hollenbach2017diccionario	[BA]	pena11
 5109	SanEstebanAtatlahucaMixtec_A	SCORPION	alacrán	tɨsuhma	tɨsuhma	56	1538			alexander1980gramatica	[C]	atat11
 5255	SantaMariaPapaloCuicatec	SCORPION	alacrán	i³tde³'en⁴	i³t-de³'en⁴	56	1538			anderson1983diccionario		papa11
-5455	SanJuanTepeuxila1900Mixtec	SCORPION	alacrán	itidai	iti-dai	56	1538			belmar1902el-cuicateco		tepe03
+5455	SanJuanTepeuxila1900Cuicatec	SCORPION	alacrán	itidai	iti-dai	56	1538			belmar1902el-cuicateco		tepe03
 5959	SanAndresChicahuaxtlaTriqui_A	SCORPION	alacrán, escorpión	xiquïn⁴³	xiquïn⁴³	56	1538			good1978diccionario		chic12
 6170	ElJicaralMixtec	SCORPION	alacrán	ti̠sǒ'ma̠	ti̠-sǒ'ma̠	56	1538			Emily John-Martin		jica13
 9906	SantaMariaAcatepecMixtec	SCORPION	alacrán	tɨ-su̧ʔma̧	tɨ-su̧ʔma̧	56	1538			josserand1983mixtec		acat11
@@ -15964,7 +15964,7 @@ ID	DOCULECT	CONCEPT	SPANISH_GLOSS	VALUE	FORM	IDlist	CONCEPTICON_ID	LOAN	LOAN_SOU
 5025	MagdalenaPenascoMixtec	SEVEN	siete	ujà	ujà	163	1704			hollenbach2017diccionario		pena11
 5166	SanEstebanAtatlahucaMixtec_A	SEVEN	siete	uxā	uxā	163	1704			alexander1980gramatica	[C]	atat11
 5366	SantaMariaPapaloCuicatec	SEVEN	siete	nda⁴cha⁴	nda⁴cha⁴	163	1704			anderson1983diccionario		papa11
-5536	SanJuanTepeuxila1900Mixtec	SEVEN	siete	ndachia	ndachia	163	1704			belmar1902el-cuicateco		tepe03
+5536	SanJuanTepeuxila1900Cuicatec	SEVEN	siete	ndachia	ndachia	163	1704			belmar1902el-cuicateco		tepe03
 6073	SanAndresChicahuaxtlaTriqui_A	SEVEN	siete	chij⁴	chij⁴	163	1704			good1978diccionario		chic12
 6289	ElJicaralMixtec	SEVEN	siete	u̠xa̠	u̠xa̠	163	1704			Emily John-Martin		jica13
 16757	SantaMariaAcatepecMixtec	SEVEN	siete	usa	usa	163	1704			josserand1983mixtec		acat11
@@ -16122,7 +16122,7 @@ ID	DOCULECT	CONCEPT	SPANISH_GLOSS	VALUE	FORM	IDlist	CONCEPTICON_ID	LOAN	LOAN_SOU
 4927	MagdalenaPenascoMixtec	SHEEP	borrego, oveja	ndíkachi	ndí-kachi	74	1331			hollenbach2017diccionario		pena11
 5120	SanEstebanAtatlahucaMixtec_A	SHEEP	borrego	lanchi	lanchi	74	1331			alexander1980gramatica	[A]	atat11
 5273	SantaMariaPapaloCuicatec	SHEEP	borrego, oveja	i³tcu³⁴chi⁴	i³t-cu³⁴chi⁴	74	1331			anderson1983diccionario		papa11
-5467	SanJuanTepeuxila1900Mixtec	SHEEP	borrego, oveja	itikuchi	iti-kuchi	74	1331			belmar1902el-cuicateco		tepe03
+5467	SanJuanTepeuxila1900Cuicatec	SHEEP	borrego, oveja	itikuchi	iti-kuchi	74	1331			belmar1902el-cuicateco		tepe03
 5978	SanAndresChicahuaxtlaTriqui_A	SHEEP	borrego, oveja	matsïj⁴ï	matsïj⁴ï	74	1331			good1978diccionario		chic12
 6190	ElJicaralMixtec	SHEEP	borrego, oveja	lanchi	lanchi	74	1331			Emily John-Martin		jica13
 6191	ElJicaralMixtec	SHEEP	borrego, oveja	ntikachi	nti-kachi	74	1331			Emily John-Martin		jica13
@@ -16136,7 +16136,7 @@ ID	DOCULECT	CONCEPT	SPANISH_GLOSS	VALUE	FORM	IDlist	CONCEPTICON_ID	LOAN	LOAN_SOU
 8623	SanBartoloSoyaltepecMixtec	SHIRT	camisa	đu̧ʔnu̧	đu̧ʔnu̧	42	1622			josserand1983mixtec		soya11
 1644	SanAndresChicahuaxtla1890Triqui	SISTER	hermana	Chughueha	chughueha	10	1263			belmar1897ensayo		chic02
 5209	SantaMariaPapaloCuicatec	SISTER	hermana, hermanastra	ta¹'an⁴ vi²'i⁴	ta¹'an⁴-vi²'i⁴	10	1263			anderson1983diccionario		papa11
-5417	SanJuanTepeuxila1900Mixtec	SISTER	hermana	kaba	kaba	10	1263			belmar1902el-cuicateco		tepe03
+5417	SanJuanTepeuxila1900Cuicatec	SISTER	hermana	kaba	kaba	10	1263			belmar1902el-cuicateco		tepe03
 21554	SanMartinItunyosoTriqui	SISTER (OF MAN)	hermana de hombre	chi³ka⁴hbi⁴³	chi³ka⁴hbi⁴³	8				ChristianDiCanio		itun12
 9	AbasoloValleMixtec	SISTER (OF WOMAN)	hermana de mujer	ku'u	ku'u	10				galindo-sanchez2009vocabulario		abas11
 178	YoloxochitlMixtec	SISTER (OF WOMAN)	hermana de mujer	ku'¹bi¹	ku'¹bi¹	10				amith2020yoloxochitl		yolo12
@@ -16207,7 +16207,7 @@ ID	DOCULECT	CONCEPT	SPANISH_GLOSS	VALUE	FORM	IDlist	CONCEPTICON_ID	LOAN	LOAN_SOU
 5024	MagdalenaPenascoMixtec	SIX	seis	iñù	iñù	162	1703			hollenbach2017diccionario		pena11
 5165	SanEstebanAtatlahucaMixtec_A	SIX	seis	iñū	iñū	162	1703			alexander1980gramatica	[C]	atat11
 5365	SantaMariaPapaloCuicatec	SIX	seis	gan⁴	gan⁴	162	1703			anderson1983diccionario		papa11
-5535	SanJuanTepeuxila1900Mixtec	SIX	seis	han	han	162	1703			belmar1902el-cuicateco		tepe03
+5535	SanJuanTepeuxila1900Cuicatec	SIX	seis	han	han	162	1703			belmar1902el-cuicateco		tepe03
 5823	Proto-Mixtec	SIX	seis	ìjõ̀	ìjõ̀	162	1703			swanton2020observaciones		prom01
 5824	AlcozaucaGuerreroMixtec	SIX	seis	i¹ɲu¹	i¹ɲu¹	162	1703			swanton2020observaciones		alco11
 5825	SantaMariaZacatepecMixtec	SIX	seis	i²ɲu²¹	i²ɲu²¹	162	1703			swanton2020observaciones		zaca11
@@ -16625,8 +16625,8 @@ ID	DOCULECT	CONCEPT	SPANISH_GLOSS	VALUE	FORM	IDlist	CONCEPTICON_ID	LOAN	LOAN_SOU
 5041	MagdalenaPenascoMixtec	SMALL (SINGULAR)	pequeño, chico	lule	lule	175				hollenbach2017diccionario	[A]	pena11
 5177	SanEstebanAtatlahucaMixtec_A	SMALL (SINGULAR)	chico.SG	lulí	lulí	175				alexander1980gramatica	[B]	atat11
 5378	SantaMariaPapaloCuicatec	SMALL (SINGULAR)	chico.SG	l'in¹	l'in¹	175				anderson1983diccionario		papa11
-5546	SanJuanTepeuxila1900Mixtec	SMALL (SINGULAR)	pequeño	lin	lin	175				belmar1902el-cuicateco		tepe03
-5547	SanJuanTepeuxila1900Mixtec	SMALL (SINGULAR)	pequeño	dubi	dubi	175				belmar1902el-cuicateco		tepe03
+5546	SanJuanTepeuxila1900Cuicatec	SMALL (SINGULAR)	pequeño	lin	lin	175				belmar1902el-cuicateco		tepe03
+5547	SanJuanTepeuxila1900Cuicatec	SMALL (SINGULAR)	pequeño	dubi	dubi	175				belmar1902el-cuicateco		tepe03
 6085	SanAndresChicahuaxtlaTriqui_A	SMALL (SINGULAR)	pequeño, chico	sa³⁴ lij³	lij³	175				good1978diccionario		chic12
 6301	ElJicaralMixtec	SMALL (SINGULAR)	pequeño.SG, chico.SG	lo'o	lo'o	175				Emily John-Martin		jica13
 17667	SantaMariaAcatepecMixtec	SMALL (SINGULAR)	chico	či-waa	či-waa	175				josserand1983mixtec		acat11
@@ -16794,7 +16794,7 @@ ID	DOCULECT	CONCEPT	SPANISH_GLOSS	VALUE	FORM	IDlist	CONCEPTICON_ID	LOAN	LOAN_SOU
 4594	AlacatlatzalaMixtec_A	SMOKE (EXHAUST)	humo	ñi̠'ma̠	ñi̠'ma̠	121	778			zylstra2012gramatica		alac11
 4976	MagdalenaPenascoMixtec	SMOKE (EXHAUST)	humo	ñu'mà	ñu'mà	121	778			hollenbach2017diccionario	{BA}	pena11
 5322	SantaMariaPapaloCuicatec	SMOKE (EXHAUST)	humo	y'a³m'i³	y'a³m'i³	121	778			anderson1983diccionario		papa11
-5502	SanJuanTepeuxila1900Mixtec	SMOKE (EXHAUST)	humo	yami	yami	121	778			belmar1902el-cuicateco		tepe03
+5502	SanJuanTepeuxila1900Cuicatec	SMOKE (EXHAUST)	humo	yami	yami	121	778			belmar1902el-cuicateco		tepe03
 5738	Proto-Mixtec	SMOKE (EXHAUST)	humo	jùʔwẽ̀	jùʔwẽ̀	121	778			swanton2020observaciones		prom01
 5739	AlcozaucaGuerreroMixtec	SMOKE (EXHAUST)	humo	i¹ʔma¹	i¹ʔma¹	121	778			swanton2020observaciones		alco11
 5740	SantaMariaZacatepecMixtec	SMOKE (EXHAUST)	humo	ɲu²ʔma²¹	ɲu²ʔma²¹	121	778			swanton2020observaciones		zaca11
@@ -16956,7 +16956,7 @@ ID	DOCULECT	CONCEPT	SPANISH_GLOSS	VALUE	FORM	IDlist	CONCEPTICON_ID	LOAN	LOAN_SOU
 5063	MagdalenaPenascoMixtec	SMOOTH	liso	liì	liì	193	1234			hollenbach2017diccionario	[BA]	pena11
 5064	MagdalenaPenascoMixtec	SMOOTH	liso, resbaloso	tindí'ví	tindí'ví	193	1234			hollenbach2017diccionario	[A]	pena11
 5396	SantaMariaPapaloCuicatec	SMOOTH	liso	du⁴nu⁴	du⁴nu⁴	193	1234			anderson1983diccionario		papa11
-5559	SanJuanTepeuxila1900Mixtec	SMOOTH	liso	ndunu	ndunu	193	1234			belmar1902el-cuicateco		tepe03
+5559	SanJuanTepeuxila1900Cuicatec	SMOOTH	liso	ndunu	ndunu	193	1234			belmar1902el-cuicateco		tepe03
 6100	SanAndresChicahuaxtlaTriqui_A	SMOOTH	liso	nu'ui³	nu'ui³	193	1234			good1978diccionario		chic12
 6319	ElJicaralMixtec	SMOOTH	liso	nti'ví	nti'ví	193	1234			Emily John-Martin		jica13
 18762	SantaMariaAcatepecMixtec	SMOOTH	lisa, liso	ⁿdɨɨ	ⁿdɨɨ	193	1234			josserand1983mixtec		acat11
@@ -17122,7 +17122,7 @@ ID	DOCULECT	CONCEPT	SPANISH_GLOSS	VALUE	FORM	IDlist	CONCEPTICON_ID	LOAN	LOAN_SOU
 4903	MagdalenaPenascoMixtec	SNAKE	culebra, serpiente	koò	koò	53	730			hollenbach2017diccionario	[BA]	pena11
 5108	SanEstebanAtatlahucaMixtec_A	SNAKE	culebra	coō	coō	53	730			alexander1980gramatica	[C]	atat11
 5252	SantaMariaPapaloCuicatec	SNAKE	culebra, serpiente	cu²	cu²	53	730			anderson1983diccionario		papa11
-5453	SanJuanTepeuxila1900Mixtec	SNAKE	culebra, serpiente	kuu	kuu	53	730			belmar1902el-cuicateco		tepe03
+5453	SanJuanTepeuxila1900Cuicatec	SNAKE	culebra, serpiente	kuu	kuu	53	730			belmar1902el-cuicateco		tepe03
 5956	SanAndresChicahuaxtlaTriqui_A	SNAKE	culebra, serpiente	xucua¹	xu-cua¹	53	730			good1978diccionario		chic12
 6166	ElJicaralMixtec	SNAKE	culebra, serpiente	ko̠ó	ko̠ó	53	730			Emily John-Martin		jica13
 9555	SantaMariaAcatepecMixtec	SNAKE	culebra	koo	koo	53	730			josserand1983mixtec		acat11
@@ -17254,7 +17254,7 @@ ID	DOCULECT	CONCEPT	SPANISH_GLOSS	VALUE	FORM	IDlist	CONCEPTICON_ID	LOAN	LOAN_SOU
 4781	XochapaMixtec	SOAP	jabón	na̠má	na̠má	132	788			stark2013diccionario		xoch11
 4990	MagdalenaPenascoMixtec	SOAP	jabón	namà	namà	132	788			hollenbach2017diccionario	{BA}	pena11
 5334	SantaMariaPapaloCuicatec	SOAP	jabón	na²ma²	na²ma²	132	788			anderson1983diccionario		papa11
-5508	SanJuanTepeuxila1900Mixtec	SOAP	jabón	nama	nama	132	788			belmar1902el-cuicateco		tepe03
+5508	SanJuanTepeuxila1900Cuicatec	SOAP	jabón	nama	nama	132	788			belmar1902el-cuicateco		tepe03
 6041	SanAndresChicahuaxtlaTriqui_A	SOAP	jabón	mmi'³i	mmi'³i	132	788			good1978diccionario		chic12
 6256	ElJicaralMixtec	SOAP	jabón	na̠má	na̠má	132	788			Emily John-Martin		jica13
 20233	SanMartinDuraznosMixtec_A	SOAP	jabón	nàmà	nàmà	132	788			hernandez2020san-martin		dura11
@@ -17302,7 +17302,7 @@ ID	DOCULECT	CONCEPT	SPANISH_GLOSS	VALUE	FORM	IDlist	CONCEPTICON_ID	LOAN	LOAN_SOU
 4727	XochapaMixtec	SQUIRREL	ardilla	ndikuáñú	ndi-kuáñú	62	1628			stark2013diccionario		xoch11
 4912	MagdalenaPenascoMixtec	SQUIRREL	ardilla	kuèñu	kuèñu	62	1628			hollenbach2017diccionario		pena11
 5261	SantaMariaPapaloCuicatec	SQUIRREL	ardilla	i²yu¹⁴	i²yu¹⁴	62	1628			anderson1983diccionario		papa11
-5460	SanJuanTepeuxila1900Mixtec	SQUIRREL	ardilla	iyu	iyu	62	1628			belmar1902el-cuicateco		tepe03
+5460	SanJuanTepeuxila1900Cuicatec	SQUIRREL	ardilla	iyu	iyu	62	1628			belmar1902el-cuicateco		tepe03
 5649	Proto-Mixtec	SQUIRREL	ardilla	(ⁿdí)=(ʔ²)-kʷéjṍ	ⁿdí=ʔ²-kʷéjṍ	62	1628			swanton2020observaciones		prom01
 5650	AlcozaucaGuerreroMixtec	SQUIRREL	ardilla	ⁿdi³=kʷa⁴ɲu³	ⁿdi³-kʷa⁴ɲu³	62	1628			swanton2020observaciones		alco11
 5651	SantaMariaZacatepecMixtec	SQUIRREL	ardilla	kʷa²ɲu²	kʷa²ɲu²	62	1628			swanton2020observaciones		zaca11
@@ -17473,7 +17473,7 @@ ID	DOCULECT	CONCEPT	SPANISH_GLOSS	VALUE	FORM	IDlist	CONCEPTICON_ID	LOAN	LOAN_SOU
 5001	MagdalenaPenascoMixtec	STONE OR ROCK	piedra	yuù	yuù	143	2125			hollenbach2017diccionario	[BA]	pena11
 5151	SanEstebanAtatlahucaMixtec_A	STONE OR ROCK	piedra	yuū	yuū	143	2125			alexander1980gramatica	[C]	atat11
 5346	SantaMariaPapaloCuicatec	STONE OR ROCK	piedra	tu²⁴	tu²⁴	143	2125			anderson1983diccionario		papa11
-5517	SanJuanTepeuxila1900Mixtec	STONE OR ROCK	piedra	tuu	tuu	143	2125			belmar1902el-cuicateco		tepe03
+5517	SanJuanTepeuxila1900Cuicatec	STONE OR ROCK	piedra	tuu	tuu	143	2125			belmar1902el-cuicateco		tepe03
 5778	Proto-Mixtec	STONE OR ROCK	piedra	jùùʔ	jùùʔ	143	2125			swanton2020observaciones		prom01
 5779	AlcozaucaGuerreroMixtec	STONE OR ROCK	piedra	ju¹u⁴	ju¹u⁴	143	2125			swanton2020observaciones		alco11
 5780	SantaMariaZacatepecMixtec	STONE OR ROCK	piedra	ju²u²¹ʔ	ju²u²¹ʔ	143	2125			swanton2020observaciones		zaca11
@@ -17965,7 +17965,7 @@ ID	DOCULECT	CONCEPT	SPANISH_GLOSS	VALUE	FORM	IDlist	CONCEPTICON_ID	LOAN	LOAN_SOU
 4650	AlacatlatzalaMixtec_A	SWEET	dulce	visi	visi	180	717			zylstra2012gramatica		alac11
 5047	MagdalenaPenascoMixtec	SWEET	dulce	vixì	vixì	180	717			hollenbach2017diccionario		pena11
 5383	SantaMariaPapaloCuicatec	SWEET	dulce	ya³di³	ya³di³	180	717			anderson1983diccionario		papa11
-5550	SanJuanTepeuxila1900Mixtec	SWEET	dulce	chiadi	chiadi	180	717			belmar1902el-cuicateco		tepe03
+5550	SanJuanTepeuxila1900Cuicatec	SWEET	dulce	chiadi	chiadi	180	717			belmar1902el-cuicateco		tepe03
 6088	SanAndresChicahuaxtlaTriqui_A	SWEET	dulce	si³ tsi'ij³	si³-tsi'ij³	180	717			good1978diccionario		chic12
 6306	ElJicaralMixtec	SWEET	dulce	vi̠xi̠	vi̠xi̠	180	717			Emily John-Martin		jica13
 17888	SantaMariaAcatepecMixtec	SWEET	dulce	wiši	wiši	180	717			josserand1983mixtec		acat11
@@ -18266,7 +18266,7 @@ ID	DOCULECT	CONCEPT	SPANISH_GLOSS	VALUE	FORM	IDlist	CONCEPTICON_ID	LOAN	LOAN_SOU
 4742	XochapaMixtec	TAIL	cola	ndo'má	ndo'má	79	1220			stark2013diccionario		xoch11
 4932	MagdalenaPenascoMixtec	TAIL	cola	su'mà	su'mà	79	1220			hollenbach2017diccionario	[BA]	pena11
 5278	SantaMariaPapaloCuicatec	TAIL	cola	ndu²cu⁴de⁴'en³	ndu²cu⁴-de⁴'en³	79	1220			anderson1983diccionario		papa11
-5474	SanJuanTepeuxila1900Mixtec	TAIL	cola	ndukudaiiti	nduku-dai-iti	79	1220			belmar1902el-cuicateco		tepe03
+5474	SanJuanTepeuxila1900Cuicatec	TAIL	cola	ndukudaiiti	nduku-dai-iti	79	1220			belmar1902el-cuicateco		tepe03
 5983	SanAndresChicahuaxtlaTriqui_A	TAIL	cola	dune'³e xuj³	dune'³e-xuj³	79	1220			good1978diccionario		chic12
 6197	ElJicaralMixtec	TAIL	cola	nto'ó	nto'ó	79	1220			Emily John-Martin		jica13
 10898	SantaMariaAcatepecMixtec	TAIL	cola	su̧ʔma̧	su̧ʔma̧	79	1220			josserand1983mixtec		acat11
@@ -18409,7 +18409,7 @@ ID	DOCULECT	CONCEPT	SPANISH_GLOSS	VALUE	FORM	IDlist	CONCEPTICON_ID	LOAN	LOAN_SOU
 4572	AlacatlatzalaMixtec_A	TASSEL	espiga	yoko̠	yoko̠	95				anderson2006vocabulario		alac11
 4950	MagdalenaPenascoMixtec	TASSEL	espiga	yoko	yoko	95				hollenbach2017diccionario	[A]	pena11
 5295	SantaMariaPapaloCuicatec	TASSEL	espiga	ya²mi⁴	ya²mi⁴	95				anderson1983diccionario		papa11
-5488	SanJuanTepeuxila1900Mixtec	TASSEL	espiga	yami	yami	95				belmar1902el-cuicateco		tepe03
+5488	SanJuanTepeuxila1900Cuicatec	TASSEL	espiga	yami	yami	95				belmar1902el-cuicateco		tepe03
 6000	SanAndresChicahuaxtlaTriqui_A	TASSEL	espiga	ca³⁴	ca³⁴	95				good1978diccionario		chic12
 6213	ElJicaralMixtec	TASSEL	espiga	yokó	yokó	95				Emily John-Martin		jica13
 12009	SantaMariaAcatepecMixtec	TASSEL	espiga	yoko	yoko	95				josserand1983mixtec		acat11
@@ -18660,7 +18660,7 @@ ID	DOCULECT	CONCEPT	SPANISH_GLOSS	VALUE	FORM	IDlist	CONCEPTICON_ID	LOAN	LOAN_SOU
 5028	MagdalenaPenascoMixtec	TEN	diez	uxì	uxì	166	1515			hollenbach2017diccionario		pena11
 5169	SanEstebanAtatlahucaMixtec_A	TEN	diez	uxī	uxī	166	1515			alexander1980gramatica	[C]	atat11
 5369	SantaMariaPapaloCuicatec	TEN	diez	ndi³chi²	ndi³chi²	166	1515			anderson1983diccionario		papa11
-5539	SanJuanTepeuxila1900Mixtec	TEN	diez	ndichi	ndichi	166	1515			belmar1902el-cuicateco		tepe03
+5539	SanJuanTepeuxila1900Cuicatec	TEN	diez	ndichi	ndichi	166	1515			belmar1902el-cuicateco		tepe03
 6076	SanAndresChicahuaxtlaTriqui_A	TEN	diez	chi'⁴	chi'⁴	166	1515			good1978diccionario		chic12
 6292	ElJicaralMixtec	TEN	diez	u̠xi̠	u̠xi̠	166	1515			Emily John-Martin		jica13
 16988	SantaMariaAcatepecMixtec	TEN	diez	usi	usi	166	1515			josserand1983mixtec		acat11
@@ -18809,8 +18809,8 @@ ID	DOCULECT	CONCEPT	SPANISH_GLOSS	VALUE	FORM	IDlist	CONCEPTICON_ID	LOAN	LOAN_SOU
 4236	SanJuanColoradoMixtec_A	THORN	espina	iñu	iñu	86	124			stark1986diccionario		colo11
 4940	MagdalenaPenascoMixtec	THORN	espina	iñu	iñu	86	124			hollenbach2017diccionario	[A]	pena11
 5286	SantaMariaPapaloCuicatec	THORN	espina	yan²	yan²	86	124			anderson1983diccionario		papa11
-5481	SanJuanTepeuxila1900Mixtec	THORN	espina	yan	yan	86	124			belmar1902el-cuicateco		tepe03
-5482	SanJuanTepeuxila1900Mixtec	THORN	espina	nan	nan	86	124			belmar1902el-cuicateco		tepe03
+5481	SanJuanTepeuxila1900Cuicatec	THORN	espina	yan	yan	86	124			belmar1902el-cuicateco		tepe03
+5482	SanJuanTepeuxila1900Cuicatec	THORN	espina	nan	nan	86	124			belmar1902el-cuicateco		tepe03
 5684	Proto-Mixtec	THORN	espina	íjṍʔ	íjṍʔ	86	124			swanton2020observaciones		prom01
 5685	AlcozaucaGuerreroMixtec	THORN	espina	i³ɲu⁴	i³ɲu⁴	86	124			swanton2020observaciones		alco11
 5686	SantaMariaZacatepecMixtec	THORN	espina	i²ɲu²ʔ	i²ɲu²ʔ	86	124			swanton2020observaciones		zaca11
@@ -19017,7 +19017,7 @@ ID	DOCULECT	CONCEPT	SPANISH_GLOSS	VALUE	FORM	IDlist	CONCEPTICON_ID	LOAN	LOAN_SOU
 5020	MagdalenaPenascoMixtec	THREE	tres	unì	unì	159	492			hollenbach2017diccionario		pena11
 5162	SanEstebanAtatlahucaMixtec_A	THREE	tres	unī	unī	159	492			alexander1980gramatica	[C]	atat11
 5362	SantaMariaPapaloCuicatec	THREE	tres	i⁴nu⁴	i⁴nu⁴	159	492			anderson1983diccionario		papa11
-5532	SanJuanTepeuxila1900Mixtec	THREE	tres	inu	inu	159	492			belmar1902el-cuicateco		tepe03
+5532	SanJuanTepeuxila1900Cuicatec	THREE	tres	inu	inu	159	492			belmar1902el-cuicateco		tepe03
 6069	SanAndresChicahuaxtlaTriqui_A	THREE	tres	hua'⁵nï³	hua'⁵nï³	159	492			good1978diccionario		chic12
 6285	ElJicaralMixtec	THREE	tres	u̠ni̠	u̠ni̠	159	492			Emily John-Martin		jica13
 16277	SantaMariaAcatepecMixtec	THREE	tres	u̧ñi̧	u̧ñi̧	159	492			josserand1983mixtec		acat11
@@ -19177,7 +19177,7 @@ ID	DOCULECT	CONCEPT	SPANISH_GLOSS	VALUE	FORM	IDlist	CONCEPTICON_ID	LOAN	LOAN_SOU
 4961	MagdalenaPenascoMixtec	TOMATO	tomate, jitomate	tìnanà	tì-nanà	106	986			hollenbach2017diccionario	[BA]	pena11
 5135	SanEstebanAtatlahucaMixtec_A	TOMATO	jitomate	tɨnana	tɨ-nana	106	986			alexander1980gramatica	[C]	atat11
 5306	SantaMariaPapaloCuicatec	TOMATO	tomate	nd'a²tu⁴	nd'a²tu⁴	106	986			anderson1983diccionario		papa11
-5494	SanJuanTepeuxila1900Mixtec	TOMATO	tomate	ndatukua	ndatukua	106	986			belmar1902el-cuicateco		tepe03
+5494	SanJuanTepeuxila1900Cuicatec	TOMATO	tomate	ndatukua	ndatukua	106	986			belmar1902el-cuicateco		tepe03
 6011	SanAndresChicahuaxtlaTriqui_A	TOMATO	tomate	rinïj⁴ï	rinïj⁴ï	106	986			good1978diccionario		chic12
 6224	ElJicaralMixtec	TOMATO	tomate	ti̠naná	ti̠-naná	106	986			Emily John-Martin		jica13
 12888	SantaMariaAcatepecMixtec	TOMATO	jitomate	tɨ-na̧na̧	tɨ-na̧na̧	106	986			josserand1983mixtec		acat11
@@ -19302,7 +19302,7 @@ ID	DOCULECT	CONCEPT	SPANISH_GLOSS	VALUE	FORM	IDlist	CONCEPTICON_ID	LOAN	LOAN_SOU
 4692	XochapaMixtec	TONGUE	lengua	yâá	yâá	21	1205			stark2013diccionario		xoch11
 4870	MagdalenaPenascoMixtec	TONGUE	lengua	yáà	yáà	21	1205			hollenbach2017diccionario	[BA]	pena11
 5221	SantaMariaPapaloCuicatec	TONGUE	lengua	ch'i³ya³	ch'i³ya³	21	1205			anderson1983diccionario		papa11
-5428	SanJuanTepeuxila1900Mixtec	TONGUE	lengua	chiiya	chiiya	21	1205			belmar1902el-cuicateco		tepe03
+5428	SanJuanTepeuxila1900Cuicatec	TONGUE	lengua	chiiya	chiiya	21	1205			belmar1902el-cuicateco		tepe03
 5593	Proto-Mixtec	TONGUE	lengua	ʔ-jààʔ	ʔ-jààʔ	21	1205			swanton2020observaciones		prom01
 5594	AlcozaucaGuerreroMixtec	TONGUE	lengua	ja⁴¹a⁴	ja⁴¹a⁴	21	1205			swanton2020observaciones		alco11
 5595	SantaMariaZacatepecMixtec	TONGUE	lengua	ja¹a¹ʔ	ja¹a¹ʔ	21	1205			swanton2020observaciones		zaca11
@@ -19343,7 +19343,7 @@ ID	DOCULECT	CONCEPT	SPANISH_GLOSS	VALUE	FORM	IDlist	CONCEPTICON_ID	LOAN	LOAN_SOU
 4693	XochapaMixtec	TOOTH	diente	nu̠'u	nu̠'u	22	1380			stark2013diccionario		xoch11
 4871	MagdalenaPenascoMixtec	TOOTH	diente	nù'u	nù'u	22	1380			hollenbach2017diccionario		pena11
 5222	SantaMariaPapaloCuicatec	TOOTH	diente	d'i²yun²	d'i²yun²	22	1380			anderson1983diccionario		papa11
-5429	SanJuanTepeuxila1900Mixtec	TOOTH	diente	ndiñu	ndiñu	22	1380			belmar1902el-cuicateco		tepe03
+5429	SanJuanTepeuxila1900Cuicatec	TOOTH	diente	ndiñu	ndiñu	22	1380			belmar1902el-cuicateco		tepe03
 5925	SanAndresChicahuaxtlaTriqui_A	TOOTH	diente	yun'²	yun'²	22	1380			good1978diccionario		chic12
 6135	ElJicaralMixtec	TOOTH	diente	nu̠'u	nu̠'u	22	1380			Emily John-Martin		jica13
 6991	SantaMariaAcatepecMixtec	TOOTH	diente	no̧ʔo̧	no̧ʔo̧	22	1380			josserand1983mixtec		acat11
@@ -19491,7 +19491,7 @@ ID	DOCULECT	CONCEPT	SPANISH_GLOSS	VALUE	FORM	IDlist	CONCEPTICON_ID	LOAN	LOAN_SOU
 4947	MagdalenaPenascoMixtec	TORTILLA	tortilla	xità	xità	92				hollenbach2017diccionario	[BA]	pena11
 5128	SanEstebanAtatlahucaMixtec_A	TORTILLA	tortilla	staā	staā	92				alexander1980gramatica	[C]	atat11
 5292	SantaMariaPapaloCuicatec	TORTILLA	tortilla	yu⁴ndu⁴	yu⁴ndu⁴	92				anderson1983diccionario		papa11
-5485	SanJuanTepeuxila1900Mixtec	TORTILLA	tortilla	yundu	yundu	92				belmar1902el-cuicateco		tepe03
+5485	SanJuanTepeuxila1900Cuicatec	TORTILLA	tortilla	yundu	yundu	92				belmar1902el-cuicateco		tepe03
 5997	SanAndresChicahuaxtlaTriqui_A	TORTILLA	tortilla	chra³	chra³	92				good1978diccionario		chic12
 6210	ElJicaralMixtec	TORTILLA	tortilla	xi̠tá	xi̠tá	92				Emily John-Martin		jica13
 11712	SantaMariaAcatepecMixtec	TORTILLA	tortilla	šita	šita	92				josserand1983mixtec		acat11
@@ -19692,7 +19692,7 @@ ID	DOCULECT	CONCEPT	SPANISH_GLOSS	VALUE	FORM	IDlist	CONCEPTICON_ID	LOAN	LOAN_SOU
 4893	MagdalenaPenascoMixtec	TOWN OR VILLAGE	pueblo	ñuù	ñuù	43	3609			hollenbach2017diccionario		pena11
 5102	SanEstebanAtatlahucaMixtec_A	TOWN OR VILLAGE	pueblo	ñuu	ñuu	43	3609			alexander1980gramatica	[C]	atat11
 5242	SantaMariaPapaloCuicatec	TOWN OR VILLAGE	pueblo	yan²⁴	yan²⁴	43	3609			anderson1983diccionario		papa11
-5445	SanJuanTepeuxila1900Mixtec	TOWN OR VILLAGE	pueblo	yan	yan	43	3609			belmar1902el-cuicateco		tepe03
+5445	SanJuanTepeuxila1900Cuicatec	TOWN OR VILLAGE	pueblo	yan	yan	43	3609			belmar1902el-cuicateco		tepe03
 5621	Proto-Mixtec	TOWN OR VILLAGE	pueblo	júũ̀̀	júũ̀̀	43	3609			swanton2020observaciones		prom01
 5622	AlcozaucaGuerreroMixtec	TOWN OR VILLAGE	pueblo	ɲu³u²	ɲu³u²	43	3609			swanton2020observaciones		alco11
 5623	SantaMariaZacatepecMixtec	TOWN OR VILLAGE	pueblo	ɲu²u²	ɲu²u²	43	3609			swanton2020observaciones		zaca11
@@ -19865,8 +19865,8 @@ ID	DOCULECT	CONCEPT	SPANISH_GLOSS	VALUE	FORM	IDlist	CONCEPTICON_ID	LOAN	LOAN_SOU
 4933	MagdalenaPenascoMixtec	TREE	árbol, palo	yutnu	yutnu	80	906			hollenbach2017diccionario	[A]	pena11
 5123	SanEstebanAtatlahucaMixtec_A	TREE	árbol, palo	yujnu	yujnu	80	906			alexander1980gramatica	[A]	atat11
 5279	SantaMariaPapaloCuicatec	TREE	árbol, palo	ya²'an²	ya²'an²	80	906			anderson1983diccionario		papa11
-5475	SanJuanTepeuxila1900Mixtec	TREE	árbol, palo	ñiaan	ñiaan	80	906			belmar1902el-cuicateco		tepe03
-5476	SanJuanTepeuxila1900Mixtec	TREE	árbol, palo	yiaan	yiaan	80	906			belmar1902el-cuicateco		tepe03
+5475	SanJuanTepeuxila1900Cuicatec	TREE	árbol, palo	ñiaan	ñiaan	80	906			belmar1902el-cuicateco		tepe03
+5476	SanJuanTepeuxila1900Cuicatec	TREE	árbol, palo	yiaan	yiaan	80	906			belmar1902el-cuicateco		tepe03
 5664	Proto-Mixtec	TREE	árbol	jútṹʔ	jútṹʔ	80	906			swanton2020observaciones		prom01
 5665	AlcozaucaGuerreroMixtec	TREE	árbol	i³tũ⁴	i³tũ⁴	80	906			swanton2020observaciones		alco11
 5666	SantaMariaZacatepecMixtec	TREE	árbol	ju²tũ²ʔ	ju²tũ²ʔ	80	906			swanton2020observaciones		zaca11
@@ -20131,7 +20131,7 @@ ID	DOCULECT	CONCEPT	SPANISH_GLOSS	VALUE	FORM	IDlist	CONCEPTICON_ID	LOAN	LOAN_SOU
 5030	MagdalenaPenascoMixtec	TWENTY	veinte	okò	okò	168	1710			hollenbach2017diccionario		pena11
 5171	SanEstebanAtatlahucaMixtec_A	TWENTY	veinte	ocō	ocō	168	1710			alexander1980gramatica	[C]	atat11
 5371	SantaMariaPapaloCuicatec	TWENTY	veinte	ndi³cu²	ndi³cu²	168	1710			anderson1983diccionario		papa11
-5541	SanJuanTepeuxila1900Mixtec	TWENTY	veinte	ndiku	ndiku	168	1710			belmar1902el-cuicateco		tepe03
+5541	SanJuanTepeuxila1900Cuicatec	TWENTY	veinte	ndiku	ndiku	168	1710			belmar1902el-cuicateco		tepe03
 6078	SanAndresChicahuaxtlaTriqui_A	TWENTY	veinte	co⁴	co⁴	168	1710			good1978diccionario		chic12
 6294	ElJicaralMixtec	TWENTY	veinte	o̠ko̠	o̠ko̠	168	1710			Emily John-Martin		jica13
 20271	SanMartinDuraznosMixtec_A	TWENTY	veinte	òkò	òkò	168	1710			hernandez2020san-martin		dura11
@@ -20181,7 +20181,7 @@ ID	DOCULECT	CONCEPT	SPANISH_GLOSS	VALUE	FORM	IDlist	CONCEPTICON_ID	LOAN	LOAN_SOU
 5019	MagdalenaPenascoMixtec	TWO	dos	uù	uù	158	1498			hollenbach2017diccionario		pena11
 5161	SanEstebanAtatlahucaMixtec_A	TWO	dos	uū	uū	158	1498			alexander1980gramatica	[C]	atat11
 5361	SantaMariaPapaloCuicatec	TWO	dos	u⁴vi⁴	u⁴vi⁴	158	1498			anderson1983diccionario		papa11
-5531	SanJuanTepeuxila1900Mixtec	TWO	dos	ubi	ubi	158	1498			belmar1902el-cuicateco		tepe03
+5531	SanJuanTepeuxila1900Cuicatec	TWO	dos	ubi	ubi	158	1498			belmar1902el-cuicateco		tepe03
 5813	Proto-Mixtec	TWO	dos	ùwì	ùwì	158	1498			swanton2020observaciones		prom01
 5814	AlcozaucaGuerreroMixtec	TWO	dos	u¹bi¹	u¹bi¹	158	1498			swanton2020observaciones		alco11
 5815	SantaMariaZacatepecMixtec	TWO	dos	u²bi²¹	u²bi²¹	158	1498			swanton2020observaciones		zaca11
@@ -20491,7 +20491,7 @@ ID	DOCULECT	CONCEPT	SPANISH_GLOSS	VALUE	FORM	IDlist	CONCEPTICON_ID	LOAN	LOAN_SOU
 4684	XochapaMixtec	UNCLE	tío	xìtò	xìtò	12	1327			stark2013diccionario		xoch11
 4860	MagdalenaPenascoMixtec	UNCLE	tío	xitò	xitò	12	1327			hollenbach2017diccionario		pena11
 5211	SantaMariaPapaloCuicatec	UNCLE	tío	du²nu⁴	du²nu⁴	12	1327			anderson1983diccionario		papa11
-5419	SanJuanTepeuxila1900Mixtec	UNCLE	tío	dunu	dunu	12	1327			belmar1902el-cuicateco		tepe03
+5419	SanJuanTepeuxila1900Cuicatec	UNCLE	tío	dunu	dunu	12	1327			belmar1902el-cuicateco		tepe03
 5915	SanAndresChicahuaxtlaTriqui_A	UNCLE	tío	da'nï'²	da'nï'²	12	1327			good1978diccionario		chic12
 6125	ElJicaralMixtec	UNCLE	tío	xito	xito	12	1327			Emily John-Martin		jica13
 20109	SanMartinDuraznosMixtec_A	UNCLE	tío	shito	shito	12	1327			hernandez2020san-martin		dura11
@@ -20647,7 +20647,7 @@ ID	DOCULECT	CONCEPT	SPANISH_GLOSS	VALUE	FORM	IDlist	CONCEPTICON_ID	LOAN	LOAN_SOU
 4995	MagdalenaPenascoMixtec	WATER	agua	ndute	ndute	137	948			hollenbach2017diccionario	[A]	pena11
 5147	SanEstebanAtatlahucaMixtec_A	WATER	agua	ndute	ndute	137	948			alexander1980gramatica	[A]	atat11
 5340	SantaMariaPapaloCuicatec	WATER	agua	nu⁴ni⁴	nu⁴ni⁴	137	948			anderson1983diccionario		papa11
-5512	SanJuanTepeuxila1900Mixtec	WATER	agua	nuni	nuni	137	948			belmar1902el-cuicateco		tepe03
+5512	SanJuanTepeuxila1900Cuicatec	WATER	agua	nuni	nuni	137	948			belmar1902el-cuicateco		tepe03
 6047	SanAndresChicahuaxtlaTriqui_A	WATER	agua	nne³⁴	nne³⁴	137	948			good1978diccionario		chic12
 6261	ElJicaralMixtec	WATER	agua	ti̠kuǐi	ti̠kuǐi	137	948			Emily John-Martin		jica13
 14527	SantaMariaAcatepecMixtec	WATER	agua	ⁿduča	ⁿduča	137	948			josserand1983mixtec		acat11
@@ -20811,7 +20811,7 @@ ID	DOCULECT	CONCEPT	SPANISH_GLOSS	VALUE	FORM	IDlist	CONCEPTICON_ID	LOAN	LOAN_SOU
 4844	XochapaMixtec	WHEN	cuándo	maa	maa	208	1238			stark2013diccionario		xoch11
 5079	MagdalenaPenascoMixtec	WHEN	cuándo	ama	ama	208	1238			hollenbach2017diccionario	[A]	pena11
 5198	SanEstebanAtatlahucaMixtec_A	WHEN	cuándo	na	na	208	1238			alexander1980gramatica	[A]	atat11
-5572	SanJuanTepeuxila1900Mixtec	WHEN	cuándo	tiikuan	tiikuan	208	1238			belmar1902el-cuicateco		tepe03
+5572	SanJuanTepeuxila1900Cuicatec	WHEN	cuándo	tiikuan	tiikuan	208	1238			belmar1902el-cuicateco		tepe03
 5640	Proto-Mixtec	WHEN	cuándo	áwã́	áwã́	208	1238			swanton2020observaciones		prom01
 5641	AlcozaucaGuerreroMixtec	WHEN	cuándo	a³ma³	a³ma³	208	1238			swanton2020observaciones		alco11
 5642	SantaMariaZacatepecMixtec	WHEN	cuándo	a²ma²	a²ma²	208	1238			swanton2020observaciones		zaca11
@@ -20984,7 +20984,7 @@ ID	DOCULECT	CONCEPT	SPANISH_GLOSS	VALUE	FORM	IDlist	CONCEPTICON_ID	LOAN	LOAN_SOU
 5017	MagdalenaPenascoMixtec	WHITE	blanco, pálido	yaa	yaa	156	1335			hollenbach2017diccionario		pena11
 5159	SanEstebanAtatlahucaMixtec_A	WHITE	blanco	cuíjín	cuíjín	156	1335			alexander1980gramatica	[B]	atat11
 5359	SantaMariaPapaloCuicatec	WHITE	blanco	cua¹⁴	cua¹⁴	156	1335			anderson1983diccionario		papa11
-5529	SanJuanTepeuxila1900Mixtec	WHITE	blanco	kuá	kuá	156	1335			belmar1902el-cuicateco		tepe03
+5529	SanJuanTepeuxila1900Cuicatec	WHITE	blanco	kuá	kuá	156	1335			belmar1902el-cuicateco		tepe03
 6066	SanAndresChicahuaxtlaTriqui_A	WHITE	blanco	gatsi⁵³	gatsi⁵³	156	1335			good1978diccionario		chic12
 6282	ElJicaralMixtec	WHITE	blanco	yaa	yaa	156	1335			Emily John-Martin		jica13
 20259	SanMartinDuraznosMixtec_A	WHITE	blanco, vacío	yaa	yaa	156	1335			hernandez2020san-martin		dura11
@@ -21013,7 +21013,7 @@ ID	DOCULECT	CONCEPT	SPANISH_GLOSS	VALUE	FORM	IDlist	CONCEPTICON_ID	LOAN	LOAN_SOU
 4336	SanJuanColoradoMixtec_A	WIDE	ancho	quiihín	quiihín	184	1243			stark1986diccionario		colo11
 5053	MagdalenaPenascoMixtec	WIDE	ancho	jìté	jìté	184	1243			hollenbach2017diccionario	[B]	pena11
 5387	SantaMariaPapaloCuicatec	WIDE	ancho	ch'e⁴n'u⁴	ch'e⁴n'u⁴	184	1243			anderson1983diccionario		papa11
-5552	SanJuanTepeuxila1900Mixtec	WIDE	ancho	chanu	chanu	184	1243			belmar1902el-cuicateco		tepe03
+5552	SanJuanTepeuxila1900Cuicatec	WIDE	ancho	chanu	chanu	184	1243			belmar1902el-cuicateco		tepe03
 6092	SanAndresChicahuaxtlaTriqui_A	WIDE	ancho, amplio	gachra'⁴	gachra'⁴	184	1243			good1978diccionario		chic12
 6310	ElJicaralMixtec	WIDE	ancho	ntíka̠	ntíka̠	184	1243			Emily John-Martin		jica13
 20287	SanMartinDuraznosMixtec_A	WIDE	ancho	ntxíkà	ntxíkà	184	1243			hernandez2020san-martin		dura11
@@ -21039,8 +21039,8 @@ ID	DOCULECT	CONCEPT	SPANISH_GLOSS	VALUE	FORM	IDlist	CONCEPTICON_ID	LOAN	LOAN_SOU
 4931	MagdalenaPenascoMixtec	WING	ala	ndijìn	ndijìn	78	1257			hollenbach2017diccionario	[BA]	pena11
 5122	SanEstebanAtatlahucaMixtec_A	WING	ala	ndijēn	ndijēn	78	1257			alexander1980gramatica	[C]	atat11
 5277	SantaMariaPapaloCuicatec	WING	ala, brazo, paleta	gue⁴che³	gue⁴che³	78	1257			anderson1983diccionario		papa11
-5472	SanJuanTepeuxila1900Mixtec	WING	ala	ngechi	ngechi	78	1257			belmar1902el-cuicateco		tepe03
-5473	SanJuanTepeuxila1900Mixtec	WING	ala	ngaachi	ngaachi	78	1257			belmar1902el-cuicateco		tepe03
+5472	SanJuanTepeuxila1900Cuicatec	WING	ala	ngechi	ngechi	78	1257			belmar1902el-cuicateco		tepe03
+5473	SanJuanTepeuxila1900Cuicatec	WING	ala	ngaachi	ngaachi	78	1257			belmar1902el-cuicateco		tepe03
 5982	SanAndresChicahuaxtlaTriqui_A	WING	ala	si-gachi³ xuj³	si-gachi³-xuj³	78	1257			good1978diccionario		chic12
 6196	ElJicaralMixtec	WING	ala	nti̠xín	nti̠xín	78	1257			Emily John-Martin		jica13
 10810	SantaMariaAcatepecMixtec	WING	ala	ⁿdisi̧	ⁿdisi̧	78	1257			josserand1983mixtec		acat11
@@ -21174,7 +21174,7 @@ ID	DOCULECT	CONCEPT	SPANISH_GLOSS	VALUE	FORM	IDlist	CONCEPTICON_ID	LOAN	LOAN_SOU
 5089	SanEstebanAtatlahucaMixtec_A	WOMAN	mujer	ñahan	ñahan	14	962			alexander1980gramatica	[A]	atat11
 5213	SantaMariaPapaloCuicatec	WOMAN	mujer	nd'a̠³ta̠³	nd'a̠³ta̠³	14	962			anderson1983diccionario		papa11
 5214	SantaMariaPapaloCuicatec	WOMAN	mujer (informal)	ta¹'an⁴	ta¹'an⁴	14	962			anderson1983diccionario		papa11
-5421	SanJuanTepeuxila1900Mixtec	WOMAN	mujer	ndata	ndata	14	962			belmar1902el-cuicateco		tepe03
+5421	SanJuanTepeuxila1900Cuicatec	WOMAN	mujer	ndata	ndata	14	962			belmar1902el-cuicateco		tepe03
 5917	SanAndresChicahuaxtlaTriqui_A	WOMAN	mujer	si³ xana⁵	si³-xana⁵	14	962			good1978diccionario		chic12
 6127	ElJicaralMixtec	WOMAN	mujer	ñá sí'i	ñá-sí'i	14	962			Emily John-Martin		jica13
 20111	SanMartinDuraznosMixtec_A	WOMAN	mujer	ña'à	ña'à	14	962			hernandez2020san-martin		dura11
@@ -21223,7 +21223,7 @@ ID	DOCULECT	CONCEPT	SPANISH_GLOSS	VALUE	FORM	IDlist	CONCEPTICON_ID	LOAN	LOAN_SOU
 5076	MagdalenaPenascoMixtec	WORD	lengua, idioma	sa'àn	sa'àn	205	1599			hollenbach2017diccionario		pena11
 5197	SanEstebanAtatlahucaMixtec_A	WORD	palabra	jnūhun	jnūhun	205	1599			alexander1980gramatica	[A]	atat11
 5410	SantaMariaPapaloCuicatec	WORD	palabra	ndu³du³	ndu³du³	205	1599			anderson1983diccionario		papa11
-5568	SanJuanTepeuxila1900Mixtec	WORD	palabra	nduda	nduda	205	1599			belmar1902el-cuicateco		tepe03
+5568	SanJuanTepeuxila1900Cuicatec	WORD	palabra	nduda	nduda	205	1599			belmar1902el-cuicateco		tepe03
 5886	Proto-Mixtec	WORD	palabra	tòʔṍ	tòʔṍ	205	1599			swanton2020observaciones		prom01
 5887	AlcozaucaGuerreroMixtec	WORD	palabra	tu¹ʔũ³	tu¹ʔũ³	205	1599			swanton2020observaciones		alco11
 5888	SantaMariaZacatepecMixtec	WORD	palabra	tu²ʔũ²¹	tu²ʔũ²¹	205	1599			swanton2020observaciones		zaca11
@@ -21398,7 +21398,7 @@ ID	DOCULECT	CONCEPT	SPANISH_GLOSS	VALUE	FORM	IDlist	CONCEPTICON_ID	LOAN	LOAN_SOU
 5075	MagdalenaPenascoMixtec	WORKING OR WORK	trabajo	tniñu	tniñu	204	2281			hollenbach2017diccionario		pena11
 5196	SanEstebanAtatlahucaMixtec_A	WORKING OR WORK	trabajo	jniñu	jniñu	204	2281			alexander1980gramatica	[A]	atat11
 5409	SantaMariaPapaloCuicatec	WORKING OR WORK	trabajo	nti³yun³	nti³yun³	204	2281			anderson1983diccionario		papa11
-5567	SanJuanTepeuxila1900Mixtec	WORKING OR WORK	trabajo	ntiñu	ntiñu	204	2281			belmar1902el-cuicateco		tepe03
+5567	SanJuanTepeuxila1900Cuicatec	WORKING OR WORK	trabajo	ntiñu	ntiñu	204	2281			belmar1902el-cuicateco		tepe03
 5881	Proto-Mixtec	WORKING OR WORK	trabajo	tíjṍ	tíjṍ	204	2281			swanton2020observaciones		prom01
 5882	AlcozaucaGuerreroMixtec	WORKING OR WORK	trabajo	ʧi³ɲu³	ʧi³ɲu³	204	2281			swanton2020observaciones		alco11
 5883	SantaMariaZacatepecMixtec	WORKING OR WORK	trabajo	ti²ɲu²	ti²ɲu²	204	2281			swanton2020observaciones		zaca11
@@ -21576,7 +21576,7 @@ ID	DOCULECT	CONCEPT	SPANISH_GLOSS	VALUE	FORM	IDlist	CONCEPTICON_ID	LOAN	LOAN_SOU
 5067	MagdalenaPenascoMixtec	YEAR	año	kuiyà	kuiyà	196	1226			hollenbach2017diccionario	{BA}	pena11
 5189	SanEstebanAtatlahucaMixtec_A	YEAR	año	cuiyā	cuiyā	196	1226			alexander1980gramatica	[C]	atat11
 5399	SantaMariaPapaloCuicatec	YEAR	año	ndu²yu⁴	ndu²yu⁴	196	1226			anderson1983diccionario		papa11
-5561	SanJuanTepeuxila1900Mixtec	YEAR	año	nduyu	nduyu	196	1226			belmar1902el-cuicateco		tepe03
+5561	SanJuanTepeuxila1900Cuicatec	YEAR	año	nduyu	nduyu	196	1226			belmar1902el-cuicateco		tepe03
 6103	SanAndresChicahuaxtlaTriqui_A	YEAR	año	yo'³o	yo'³o	196	1226			good1978diccionario		chic12
 6322	ElJicaralMixtec	YEAR	año	kui̠ya̠	kui̠ya̠	196	1226			Emily John-Martin		jica13
 19108	SantaMariaAcatepecMixtec	YEAR	año	kʷiya	kʷiya	196	1226			josserand1983mixtec		acat11
@@ -21748,7 +21748,7 @@ ID	DOCULECT	CONCEPT	SPANISH_GLOSS	VALUE	FORM	IDlist	CONCEPTICON_ID	LOAN	LOAN_SOU
 5013	MagdalenaPenascoMixtec	YELLOW	amarillo	kuáán	kuáán	154	1424			hollenbach2017diccionario	{A}	pena11
 5157	SanEstebanAtatlahucaMixtec_A	YELLOW	amarillo	cuáán	cuáán	154	1424			alexander1980gramatica	[B]	atat11
 5357	SantaMariaPapaloCuicatec	YELLOW	amarillo	cuan²	cuan²	154	1424			anderson1983diccionario		papa11
-5527	SanJuanTepeuxila1900Mixtec	YELLOW	amarillo	kuan	kuan	154	1424			belmar1902el-cuicateco		tepe03
+5527	SanJuanTepeuxila1900Cuicatec	YELLOW	amarillo	kuan	kuan	154	1424			belmar1902el-cuicateco		tepe03
 5808	Proto-Mixtec	YELLOW	amarillo	ʔ-kʷáã̀	ʔ-kʷáã̀	154	1424			swanton2020observaciones		prom01
 5809	AlcozaucaGuerreroMixtec	YELLOW	amarillo	kʷa⁴ã²	kʷa⁴ã²	154	1424			swanton2020observaciones		alco11
 5810	SantaMariaZacatepecMixtec	YELLOW	amarillo	kʷa²ã³	kʷa²ã³	154	1424			swanton2020observaciones		zaca11
@@ -21916,7 +21916,7 @@ ID	DOCULECT	CONCEPT	SPANISH_GLOSS	VALUE	FORM	IDlist	CONCEPTICON_ID	LOAN	LOAN_SOU
 5066	MagdalenaPenascoMixtec	YESTERDAY	ayer	iku	iku	195	1174			hollenbach2017diccionario		pena11
 5188	SanEstebanAtatlahucaMixtec_A	YESTERDAY	ayer	icu	icu	195	1174			alexander1980gramatica	[A]	atat11
 5398	SantaMariaPapaloCuicatec	YESTERDAY	ayer	i⁴cu³	i⁴cu³	195	1174			anderson1983diccionario		papa11
-5560	SanJuanTepeuxila1900Mixtec	YESTERDAY	ayer	iku	iku	195	1174			belmar1902el-cuicateco		tepe03
+5560	SanJuanTepeuxila1900Cuicatec	YESTERDAY	ayer	iku	iku	195	1174			belmar1902el-cuicateco		tepe03
 5871	Proto-Mixtec	YESTERDAY	ayer	íkú-(ní)	íkú-ní	195	1174			swanton2020observaciones		prom01
 5872	AlcozaucaGuerreroMixtec	YESTERDAY	ayer	ku³ni³	ku³ni³	195	1174			swanton2020observaciones		alco11
 5873	SantaMariaZacatepecMixtec	YESTERDAY	ayer	i²ku²	i²ku²	195	1174			swanton2020observaciones		zaca11
