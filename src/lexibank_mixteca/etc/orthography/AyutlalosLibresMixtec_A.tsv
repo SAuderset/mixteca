@@ -18,7 +18,8 @@ ch	tʃ	5
 ā	a ³	29
 a	a ¹	22
 ^ch	tʃ	3
-tya	tʲ a ¹	3
+ty	tʲ
+^ty	tʲ
 $	NULL	4
 ^nd	ⁿd	12
 u	u ¹	17
@@ -64,4 +65,8 @@ kw	kʷ	1
 ^a	a ¹	1
 uun$	ũ ¹ ũ ¹	1
 āān	ã ³ ã ³	1
-ānh	ã ³ ʔ	
+ānh$	ã ³ ʔ
+inh$ 	ĩ ¹ ʔ
+īīnh$	ĩ ³ ĩ ³ ʔ
+
+
