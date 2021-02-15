@@ -1,6 +1,6 @@
 ID	DOCULECT	CONCEPT	SPANISH_GLOSS	VALUE	FORM	IDlist	CONCEPTICON_ID	LOAN	LOAN_SOURCE	SOURCE	FLOATTONE	VARIETY_CODE
-736	SanJeronimoProgresoMixtec_A	ALL DAY	day	ndīví	ndīví	200	1260			shields1988syntactic		prog12
 487	SantiagoJamiltepecMixtec_A	ALL DAY	all day	ndī-yāká	ndī-yāká	201				johnson1988syntactic		jami11
+736	SanJeronimoProgresoMixtec_A	ALL DAY	day	ndīví	ndīví	200	1260			shields1988syntactic		prog12
 2039	SanPedroySanPabloTeposcolula1600Mixtec	ALL DAY	todo el día	duvui	duvui	201				alvarado1593vocabulario		tepo01
 4354	SanJuanColoradoMixtec_A	ALL DAY	todo el día	nduví	nduví	201				stark1986diccionario		colo11
 4488	SantaMariaZacatepecMixtec	ALL DAY	todo el día	nduvi	nduvi	201				towne2011gramatica		zaca11
@@ -25,7 +25,7 @@ ID	DOCULECT	CONCEPT	SPANISH_GLOSS	VALUE	FORM	IDlist	CONCEPTICON_ID	LOAN	LOAN_SOU
 2343	SantaMariaPenolesMixtec	ANIMAL	animal	kɨ̀tɨ̀	kɨ̀tɨ̀	50	619			durr1987preliminary		peno11
 2344	SanPedroMolinosMixtec	ANIMAL	animal	kītī	kītī	50	619			durr1987preliminary		moli11
 2345	SantoTomasOcotepecMixtec_B	ANIMAL	animal	kītī	kītī	50	619			durr1987preliminary		ocot11
-2346	SanEstebanAtatlahucaMixtec_B	ANIMAL	animal	kɨ̄tɨ̄	kɨ̄tɨ̄	50	619			durr1987preliminary		atat11
+2346	SanEstebanAtatlahucaMixtec_C	ANIMAL	animal	kɨ̄tɨ̄	kɨ̄tɨ̄	50	619			durr1987preliminary		atat11
 2347	SanMiguelElGrandeMixtec_B	ANIMAL	animal	kɨ̄tɨ̄	kɨ̄tɨ̄	50	619			durr1987preliminary		gran11
 2348	SantiagoCacaloxtepecMixtec	ANIMAL	animal	kītì	kītì	50	619			durr1987preliminary		caca11
 2349	SanJeronimoXayacatlanMixtec	ANIMAL	animal	kīsì	kīsì	50	619			durr1987preliminary		xaya11
@@ -260,7 +260,7 @@ ID	DOCULECT	CONCEPT	SPANISH_GLOSS	VALUE	FORM	IDlist	CONCEPTICON_ID	LOAN	LOAN_SOU
 2099	SanJuanCoatzospamMixtec_B	AUNT	aunt	đíđí	đíđí	11	1272			durr1987preliminary		coat11
 2100	SanPedroMolinosMixtec	AUNT	aunt	sīsì	sīsì	11	1272			durr1987preliminary		moli11
 2101	SantoTomasOcotepecMixtec_B	AUNT	aunt	šīšì	šīšì	11	1272			durr1987preliminary		ocot11
-2102	SanEstebanAtatlahucaMixtec_B	AUNT	aunt	sīsī	sīsī	11	1272			durr1987preliminary		atat11
+2102	SanEstebanAtatlahucaMixtec_C	AUNT	aunt	sīsī	sīsī	11	1272			durr1987preliminary		atat11
 2103	SanMiguelElGrandeMixtec_B	AUNT	aunt	šīì	šīì	11	1272			durr1987preliminary		gran11
 2104	SantiagoCacaloxtepecMixtec	AUNT	aunt	đīđì	đīđì	11	1272			durr1987preliminary		caca11
 2105	SanJeronimoXayacatlanMixtec	AUNT	aunt	đīđī	đīđī	11	1272			durr1987preliminary		xaya11
@@ -439,7 +439,7 @@ ID	DOCULECT	CONCEPT	SPANISH_GLOSS	VALUE	FORM	IDlist	CONCEPTICON_ID	LOAN	LOAN_SOU
 2487	SantaMariaPenolesMixtec	BEAN	beans	ⁿdùčì	ⁿdùčì	96	832			durr1987preliminary		peno11
 2488	SanJuanCoatzospamMixtec_B	BEAN	beans	ⁿdùʔȼì	ⁿdùʔȼì	96	832			durr1987preliminary		coat11
 2489	SanPedroMolinosMixtec	BEAN	beans	ⁿdūčī	ⁿdūčī	96	832			durr1987preliminary		moli11
-2490	SanEstebanAtatlahucaMixtec_B	BEAN	beans	ⁿdūčī	ⁿdūčī	96	832			durr1987preliminary		atat11
+2490	SanEstebanAtatlahucaMixtec_C	BEAN	beans	ⁿdūčī	ⁿdūčī	96	832			durr1987preliminary		atat11
 2491	SanMiguelElGrandeMixtec_B	BEAN	beans	ⁿdūčī	ⁿdūčī	96	832			durr1987preliminary		gran11
 2492	SantiagoCacaloxtepecMixtec	BEAN	beans	ⁿdūčī	ⁿdūčī	96	832			durr1987preliminary		caca11
 2493	AyutlalosLibresMixtec_B	BEAN	beans	ⁿdùčíʔ	ⁿdùčíʔ	96	832			durr1987preliminary		ayut11
@@ -927,7 +927,7 @@ ID	DOCULECT	CONCEPT	SPANISH_GLOSS	VALUE	FORM	IDlist	CONCEPTICON_ID	LOAN	LOAN_SOU
 2229	SantaMariaPenolesMixtec	BELLY OR STOMACH	stomach	šɨ̀tɨ́	šɨ̀tɨ́	30	2114			durr1987preliminary		peno11
 2230	SanPedroMolinosMixtec	BELLY OR STOMACH	stomach	čìī	čìī	30	2114			durr1987preliminary		moli11
 2231	SantoTomasOcotepecMixtec_B	BELLY OR STOMACH	stomach	čìhī	čìhī	30	2114			durr1987preliminary		ocot11
-2232	SanEstebanAtatlahucaMixtec_B	BELLY OR STOMACH	stomach	čìhī	čìhī	30	2114			durr1987preliminary		atat11
+2232	SanEstebanAtatlahucaMixtec_C	BELLY OR STOMACH	stomach	čìhī	čìhī	30	2114			durr1987preliminary		atat11
 2233	SanMiguelElGrandeMixtec_B	BELLY OR STOMACH	stomach	čìī	čìī	30	2114			durr1987preliminary		gran11
 2234	SantiagoCacaloxtepecMixtec	BELLY OR STOMACH	stomach	tìšī	tìšī	30	2114			durr1987preliminary		caca11
 2235	MetlatonocMixtec	BELLY OR STOMACH	stomach	tīšī	tīšī	30	2114			durr1987preliminary		metl11
@@ -1006,7 +1006,7 @@ ID	DOCULECT	CONCEPT	SPANISH_GLOSS	VALUE	FORM	IDlist	CONCEPTICON_ID	LOAN	LOAN_SOU
 2820	SantaMariaPenolesMixtec	BIG (SINGULAR)	big.SG	kâʔnù	kâʔnù	173				durr1987preliminary		peno11
 2821	SanJuanCoatzospamMixtec_B	BIG (SINGULAR)	big.SG	kàʔnù̧	kàʔnù̧	173				durr1987preliminary		coat11
 2822	SantoTomasOcotepecMixtec_B	BIG (SINGULAR)	big.SG	káʔnū	káʔnū	173				durr1987preliminary		ocot11
-2823	SanEstebanAtatlahucaMixtec_B	BIG (SINGULAR)	big.SG	káʔnū	káʔnū	173				durr1987preliminary		atat11
+2823	SanEstebanAtatlahucaMixtec_C	BIG (SINGULAR)	big.SG	káʔnū	káʔnū	173				durr1987preliminary		atat11
 2824	SanMiguelElGrandeMixtec_B	BIG (SINGULAR)	big.SG	káʔnū	káʔnū	173				durr1987preliminary		gran11
 2825	MetlatonocMixtec	BIG (SINGULAR)	big.SG	káʔnū	káʔnū	173				durr1987preliminary		metl11
 2826	CahuatacheMixtec	BIG (SINGULAR)	big.SG	kāʔnō	kāʔnō	173				durr1987preliminary		cahu11
@@ -1175,7 +1175,7 @@ ID	DOCULECT	CONCEPT	SPANISH_GLOSS	VALUE	FORM	IDlist	CONCEPTICON_ID	LOAN	LOAN_SOU
 2355	SantaMariaPenolesMixtec	BIRD	bird	tɨ́-làá	tɨ́-làá	51	937			durr1987preliminary		peno11
 2356	SanJuanCoatzospamMixtec_B	BIRD	bird	làá	làá	51	937			durr1987preliminary		coat11
 2357	SantoTomasOcotepecMixtec_B	BIRD	bird	sāà	sāà	51	937			durr1987preliminary		ocot11
-2358	SanEstebanAtatlahucaMixtec_B	BIRD	bird	sāā	sāā	51	937			durr1987preliminary		atat11
+2358	SanEstebanAtatlahucaMixtec_C	BIRD	bird	sāā	sāā	51	937			durr1987preliminary		atat11
 2359	SanMiguelElGrandeMixtec_B	BIRD	bird	sāà	sāà	51	937			durr1987preliminary		gran11
 2360	SantiagoCacaloxtepecMixtec	BIRD	bird	tì-lāà	tì-lāà	51	937			durr1987preliminary		caca11
 2361	AyutlalosLibresMixtec_B	BIRD	bird	sàà	sàà	51	937			durr1987preliminary		ayut11
@@ -1461,7 +1461,7 @@ ID	DOCULECT	CONCEPT	SPANISH_GLOSS	VALUE	FORM	IDlist	CONCEPTICON_ID	LOAN	LOAN_SOU
 2719	SantaMariaPenolesMixtec	BLACK	black	tù̧ù̧	tù̧ù̧	155	163			durr1987preliminary		peno11
 2719	SantaMariaPenolesMixtec	BLACK	black	tù̧ù̧	tù̧ù̧	155	163			durr1987preliminary		peno11
 2720	SanPedroMolinosMixtec	BLACK	black	tū̧ū̧	tū̧ū̧	155	163			durr1987preliminary		moli11
-2721	SanEstebanAtatlahucaMixtec_B	BLACK	black	Nú̧ú̧	nú̧ú̧	155	163			durr1987preliminary		atat11
+2721	SanEstebanAtatlahucaMixtec_C	BLACK	black	Nú̧ú̧	nú̧ú̧	155	163			durr1987preliminary		atat11
 2722	SanMiguelElGrandeMixtec_B	BLACK	black	tú̧ú̧	tú̧ú̧	155	163			durr1987preliminary		gran11
 2723	AyutlalosLibresMixtec_B	BLACK	black	tù̧ú̧ʔ	tù̧ú̧ʔ	155	163			durr1987preliminary		ayut11
 2724	AlacatlatzalaMixtec_C	BLACK	black	tò̧ó̧	tò̧ó̧	155	163			durr1987preliminary		alac11
@@ -1878,7 +1878,7 @@ ID	DOCULECT	CONCEPT	SPANISH_GLOSS	VALUE	FORM	IDlist	CONCEPTICON_ID	LOAN	LOAN_SOU
 2144	SanJuanDiuxiMixtec_B	BONE	bone	žɨ̀kɨ̀	žɨ̀kɨ̀	18	1394			durr1987preliminary		diux11
 2145	SantaMariaPenolesMixtec	BONE	bone	žɨ̀kɨ̀	žɨ̀kɨ̀	18	1394			durr1987preliminary		peno11
 2145	SantaMariaPenolesMixtec	BONE	bone	žɨ̀kɨ̀	žɨ̀kɨ̀	18	1394			durr1987preliminary		peno11
-2146	SanEstebanAtatlahucaMixtec_B	BONE	bone	žɨ̄kɨ̄	žɨ̄kɨ̄	18	1394			durr1987preliminary		atat11
+2146	SanEstebanAtatlahucaMixtec_C	BONE	bone	žɨ̄kɨ̄	žɨ̄kɨ̄	18	1394			durr1987preliminary		atat11
 2147	SanMiguelElGrandeMixtec_B	BONE	bone	žɨ̄kɨ̄	žɨ̄kɨ̄	18	1394			durr1987preliminary		gran11
 2148	AyutlalosLibresMixtec_B	BONE	bone	ìkìʔ	ìkìʔ	18	1394			durr1987preliminary		ayut11
 2149	MetlatonocMixtec	BONE	bone	īkí	īkí	18	1394			durr1987preliminary		metl11
@@ -2058,7 +2058,7 @@ ID	DOCULECT	CONCEPT	SPANISH_GLOSS	VALUE	FORM	IDlist	CONCEPTICON_ID	LOAN	LOAN_SOU
 2075	SantaMariaPenolesMixtec	BROTHER (OF MAN)	brother of man	ñàní	ñàní	9	559			durr1987preliminary		peno11
 2076	SanJuanCoatzospamMixtec_B	BROTHER (OF MAN)	brother of man	éní̧	éní̧	9	559			durr1987preliminary		coat11
 2077	SantoTomasOcotepecMixtec_B	BROTHER (OF MAN)	brother of man	ñānì	ñānì	9	559			durr1987preliminary		ocot11
-2078	SanEstebanAtatlahucaMixtec_B	BROTHER (OF MAN)	brother of man	ñānī	ñānī	9	559			durr1987preliminary		atat11
+2078	SanEstebanAtatlahucaMixtec_C	BROTHER (OF MAN)	brother of man	ñānī	ñānī	9	559			durr1987preliminary		atat11
 2079	SanMiguelElGrandeMixtec_B	BROTHER (OF MAN)	brother of man	ñānì	ñānì	9	559			durr1987preliminary		gran11
 2080	SantiagoCacaloxtepecMixtec	BROTHER (OF MAN)	brother of man	ñāñī̧	ñāñī̧	9	559			durr1987preliminary		caca11
 2081	SanJeronimoXayacatlanMixtec	BROTHER (OF MAN)	brother of man	ñānī	ñānī	9	559			durr1987preliminary		xaya11
@@ -2465,7 +2465,7 @@ ID	DOCULECT	CONCEPT	SPANISH_GLOSS	VALUE	FORM	IDlist	CONCEPTICON_ID	LOAN	LOAN_SOU
 2050	SanJuanCoatzospamMixtec_B	CHILD (DESCENDANT)	child	íʔšá	íʔšá	5	1801			durr1987preliminary		coat11
 2051	SanPedroMolinosMixtec	CHILD (DESCENDANT)	child	sèʔē	sèʔē	5	1801			durr1987preliminary		moli11
 2052	SantoTomasOcotepecMixtec_B	CHILD (DESCENDANT)	child	sèʔē	sèʔē	5	1801			durr1987preliminary		ocot11
-2053	SanEstebanAtatlahucaMixtec_B	CHILD (DESCENDANT)	child	sèʔē	sèʔē	5	1801			durr1987preliminary		atat11
+2053	SanEstebanAtatlahucaMixtec_C	CHILD (DESCENDANT)	child	sèʔē	sèʔē	5	1801			durr1987preliminary		atat11
 2054	SanMiguelElGrandeMixtec_B	CHILD (DESCENDANT)	child	sèʔē	sèʔē	5	1801			durr1987preliminary		gran11
 2055	SantiagoCacaloxtepecMixtec	CHILD (DESCENDANT)	child	đèʔē	đèʔē	5	1801			durr1987preliminary		caca11
 2056	SanJeronimoXayacatlanMixtec	CHILD (DESCENDANT)	child	đèʔē	đèʔē	5	1801			durr1987preliminary		xaya11
@@ -2627,9 +2627,9 @@ ID	DOCULECT	CONCEPT	SPANISH_GLOSS	VALUE	FORM	IDlist	CONCEPTICON_ID	LOAN	LOAN_SOU
 20786	SanAndresYutatioMixtec	CHILD (DESCENDANT)	hijo/hija	de̠'e	de̠'e	5	1801			williams2017diccionario		yuta13
 21005	SanAndresChicahuaxtlaTriqui_B	CHILD (DESCENDANT)	hijo/hija	da³ˀnĩ³²	da³ˀnĩ³²	5	1801			hernandez-mendoza2020vocabulario		chic12
 21213	ChalcatongoHidalgoMixtec_A	CHILD (DESCENDANT)	son/daughter, child	seʔe	seʔe	5	1801			macaulay1996grammar		chal11
+21474	Proto-Mixtec	CHILD (DESCENDANT)	cross-sex sibling	kʷàʔá	kʷàʔá	8	1801			durr1987preliminary		prom01
 21475	Proto-Mixtec	CHILD (DESCENDANT)	child	sàʔyí	sàʔyí	5	1801			durr1987preliminary		prom01
 21553	SanMartinItunyosoTriqui	CHILD (DESCENDANT)	hijo/hija	ta³hninh⁵	ta³hninh⁵	5	1801			ChristianDiCanio		itun12
-21474	Proto-Mixtec	CHILD (DESCENDANT)	cross-sex sibling	kʷàʔá	kʷàʔá	8	1801			durr1987preliminary		prom01
 80	AbasoloValleMixtec	CHILI PEPPER	chile	ya'a	ya'a	98	919			galindo-sanchez2009vocabulario		abas11
 263	YoloxochitlMixtec	CHILI PEPPER	chile	ya'³a⁴	ya'³a⁴	98	919			amith2020yoloxochitl		yolo12
 424	SantiagoJamiltepecMixtec_A	CHILI PEPPER	chili pepper	yāhā	yāhā	98	919			johnson1988syntactic		jami11
@@ -2648,7 +2648,7 @@ ID	DOCULECT	CONCEPT	SPANISH_GLOSS	VALUE	FORM	IDlist	CONCEPTICON_ID	LOAN	LOAN_SOU
 2499	SantaMariaPenolesMixtec	CHILI PEPPER	chile	žàʔà	žàʔà	98	919			durr1987preliminary		peno11
 2500	SanJuanCoatzospamMixtec_B	CHILI PEPPER	chile	šàʔà	šàʔà	98	919			durr1987preliminary		coat11
 2501	SanPedroMolinosMixtec	CHILI PEPPER	chile	žāʔā	žāʔā	98	919			durr1987preliminary		moli11
-2502	SanEstebanAtatlahucaMixtec_B	CHILI PEPPER	chile	žāʔā	žāʔā	98	919			durr1987preliminary		atat11
+2502	SanEstebanAtatlahucaMixtec_C	CHILI PEPPER	chile	žāʔā	žāʔā	98	919			durr1987preliminary		atat11
 2503	SanMiguelElGrandeMixtec_B	CHILI PEPPER	chile	žāʔā	žāʔā	98	919			durr1987preliminary		gran11
 2504	CahuatacheMixtec	CHILI PEPPER	chile	yāʔā	yāʔā	98	919			durr1987preliminary		cahu11
 2505	SanJuanMixtepecMixtec	CHILI PEPPER	chile	yāʔá	yāʔá	98	919			durr1987preliminary		mixt11
@@ -2714,7 +2714,7 @@ ID	DOCULECT	CONCEPT	SPANISH_GLOSS	VALUE	FORM	IDlist	CONCEPTICON_ID	LOAN	LOAN_SOU
 2262	SanJuanCoatzospamMixtec_B	CLOTHES	clothes	đàʔmà̧	đàʔmà̧	39	1895			durr1987preliminary		coat11
 2263	SanPedroMolinosMixtec	CLOTHES	clothes	sāʔmā	sāʔmā	39	1895			durr1987preliminary		moli11
 2264	SantoTomasOcotepecMixtec_B	CLOTHES	clothes	sāʔmā	sāʔmā	39	1895			durr1987preliminary		ocot11
-2265	SanEstebanAtatlahucaMixtec_B	CLOTHES	clothes	sāʔmā	sāʔmā	39	1895			durr1987preliminary		atat11
+2265	SanEstebanAtatlahucaMixtec_C	CLOTHES	clothes	sāʔmā	sāʔmā	39	1895			durr1987preliminary		atat11
 2266	SanMiguelElGrandeMixtec_B	CLOTHES	clothes	sāʔmā	sāʔmā	39	1895			durr1987preliminary		gran11
 2267	SantiagoCacaloxtepecMixtec	CLOTHES	clothes	đāʔmà̧	đāʔmà̧	39	1895			durr1987preliminary		caca11
 2268	SanJeronimoXayacatlanMixtec	CLOTHES	clothes	đāʔmà̧	đāʔmà̧	39	1895			durr1987preliminary		xaya11
@@ -2890,7 +2890,7 @@ ID	DOCULECT	CONCEPT	SPANISH_GLOSS	VALUE	FORM	IDlist	CONCEPTICON_ID	LOAN	LOAN_SOU
 2806	SantaMariaPenolesMixtec	COLD	cold	ƀíšì̧	ƀíšì̧	171	1287			durr1987preliminary		peno11
 2807	SanJuanCoatzospamMixtec_B	COLD	cold	ƀíʔšǐ̧	ƀíʔšǐ̧	171	1287			durr1987preliminary		coat11
 2808	SanPedroMolinosMixtec	COLD	cold	ƀìxī̧	ƀìxī̧	171	1287			durr1987preliminary		moli11
-2809	SanEstebanAtatlahucaMixtec_B	COLD	cold	mìxī̧	mìxī̧	171	1287			durr1987preliminary		atat11
+2809	SanEstebanAtatlahucaMixtec_C	COLD	cold	mìxī̧	mìxī̧	171	1287			durr1987preliminary		atat11
 2810	SanMiguelElGrandeMixtec_B	COLD	cold	ƀìxī̧	ƀìxī̧	171	1287			durr1987preliminary		gran11
 2811	SantiagoCacaloxtepecMixtec	COLD	cold	ƀìšī	ƀìšī	171	1287			durr1987preliminary		caca11
 2812	SanJeronimoXayacatlanMixtec	COLD	cold	ƀìšī̧	ƀìšī̧	171	1287			durr1987preliminary		xaya11
@@ -3168,7 +3168,7 @@ ID	DOCULECT	CONCEPT	SPANISH_GLOSS	VALUE	FORM	IDlist	CONCEPTICON_ID	LOAN	LOAN_SOU
 21346	ChalcatongoHidalgoMixtec_A	COMB	comb	kúkà	kúkà	128	1475			macaulay1996grammar		chal11
 21496	Proto-Mixtec	COMB	comb	kùkà	kùkà	128	1475			durr1987preliminary		prom01
 21533	SantaMariaPenolesMixtec	COMB	comb	kúká	kúká	128				durr1987preliminary		peno11
-21534	SanEstebanAtatlahucaMixtec_B	COMB	comb	kūkà	kūkà	128	1475			durr1987preliminary		atat11
+21534	SanEstebanAtatlahucaMixtec_C	COMB	comb	kūkà	kūkà	128	1475			durr1987preliminary		atat11
 21535	SanMiguelElGrandeMixtec_B	COMB	comb	kūkà	kūkà	128				durr1987preliminary		gran11
 21536	SantiagoCacaloxtepecMixtec	COMB	comb	kùkà	kùkà	128				durr1987preliminary		caca11
 21537	AlacatlatzalaMixtec_C	COMB	comb	kʷìkà	kʷìkà	128	1475			durr1987preliminary		alac11
@@ -3188,7 +3188,7 @@ ID	DOCULECT	CONCEPT	SPANISH_GLOSS	VALUE	FORM	IDlist	CONCEPTICON_ID	LOAN	LOAN_SOU
 2534	SantaMariaPenolesMixtec	COOKING POT	clay pot	kɨ́đɨ̀	kɨ́đɨ̀	116	3653			durr1987preliminary		peno11
 2535	SanJuanCoatzospamMixtec_B	COOKING POT	clay pot	kɨ̀đɨ́	kɨ̀đɨ́	116	3653			durr1987preliminary		coat11
 2536	SanPedroMolinosMixtec	COOKING POT	clay pot	kìsī	kìsī	116	3653			durr1987preliminary		moli11
-2537	SanEstebanAtatlahucaMixtec_B	COOKING POT	clay pot	kɨ̀sɨ̄	kɨ̀sɨ̄	116	3653			durr1987preliminary		atat11
+2537	SanEstebanAtatlahucaMixtec_C	COOKING POT	clay pot	kɨ̀sɨ̄	kɨ̀sɨ̄	116	3653			durr1987preliminary		atat11
 2538	SanMiguelElGrandeMixtec_B	COOKING POT	clay pot	kɨ̀sɨ̄	kɨ̀sɨ̄	116	3653			durr1987preliminary		gran11
 2539	SantiagoCacaloxtepecMixtec	COOKING POT	clay pot	kìđī	kìđī	116	3653			durr1987preliminary		caca11
 2540	AyutlalosLibresMixtec_B	COOKING POT	clay pot	kìsì	kìsì	116	3653			durr1987preliminary		ayut11
@@ -3332,7 +3332,7 @@ ID	DOCULECT	CONCEPT	SPANISH_GLOSS	VALUE	FORM	IDlist	CONCEPTICON_ID	LOAN	LOAN_SOU
 2460	SantaMariaPenolesMixtec	CORN	corn	núní	núní	87	506			durr1987preliminary		peno11
 2461	SanPedroMolinosMixtec	CORN	corn	nùnì	nùnì	87	506			durr1987preliminary		moli11
 2462	SantoTomasOcotepecMixtec_B	CORN	corn	nùnì	nùnì	87	506			durr1987preliminary		ocot11
-2463	SanEstebanAtatlahucaMixtec_B	CORN	corn	nūnì	nūnì	87	506			durr1987preliminary		atat11
+2463	SanEstebanAtatlahucaMixtec_C	CORN	corn	nūnì	nūnì	87	506			durr1987preliminary		atat11
 2464	SanMiguelElGrandeMixtec_B	CORN	corn	nūnì	nūnì	87	506			durr1987preliminary		gran11
 2465	AyutlalosLibresMixtec_B	CORN	corn	nūnìʔ	nūnìʔ	87	506			durr1987preliminary		ayut11
 2466	MetlatonocMixtec	CORN	corn	nùnì	nùnì	87	506			durr1987preliminary		metl11
@@ -4076,7 +4076,7 @@ ID	DOCULECT	CONCEPT	SPANISH_GLOSS	VALUE	FORM	IDlist	CONCEPTICON_ID	LOAN	LOAN_SOU
 2065	SantaMariaPenolesMixtec	CROSS-SEX SIBLING	cross-sex sibling	kúʔà	kúʔà	8				durr1987preliminary		peno11
 2066	SanPedroMolinosMixtec	CROSS-SEX SIBLING	cross-sex sibling	kʷàʔā	kʷàʔā	8				durr1987preliminary		moli11
 2067	SantoTomasOcotepecMixtec_B	CROSS-SEX SIBLING	cross-sex sibling	kʷàʔā	kʷàʔā	8				durr1987preliminary		ocot11
-2068	SanEstebanAtatlahucaMixtec_B	CROSS-SEX SIBLING	cross-sex sibling	kʷàʔā	kʷàʔā	8				durr1987preliminary		atat11
+2068	SanEstebanAtatlahucaMixtec_C	CROSS-SEX SIBLING	cross-sex sibling	kʷàʔā	kʷàʔā	8				durr1987preliminary		atat11
 2069	SanMiguelElGrandeMixtec_B	CROSS-SEX SIBLING	cross-sex sibling	kʷàʔā	kʷàʔā	8				durr1987preliminary		gran11
 2070	SanJeronimoXayacatlanMixtec	CROSS-SEX SIBLING	cross-sex sibling	kùʔā	kùʔā	8				durr1987preliminary		xaya11
 2071	MetlatonocMixtec	CROSS-SEX SIBLING	cross-sex sibling	kūʔƀā	kūʔƀā	8				durr1987preliminary		metl11
@@ -4143,7 +4143,7 @@ ID	DOCULECT	CONCEPT	SPANISH_GLOSS	VALUE	FORM	IDlist	CONCEPTICON_ID	LOAN	LOAN_SOU
 1816	SanAndresChicahuaxtla1890Triqui	DAY (24 HOURS)	día	Kuuía	kuuía	200	1260			belmar1897ensayo		chic02
 2930	SanJuanDiuxiMixtec_B	DAY (24 HOURS)	day	kɨ́'ú	kɨ́ú	200	1260			durr1987preliminary		diux11
 2931	SanPedroMolinosMixtec	DAY (24 HOURS)	day	kìƀì	kìƀì	200	1260			durr1987preliminary		moli11
-2932	SanEstebanAtatlahucaMixtec_B	DAY (24 HOURS)	day	kɨ̄ƀɨ̀	kɨ̄ƀɨ̀	200	1260			durr1987preliminary		atat11
+2932	SanEstebanAtatlahucaMixtec_C	DAY (24 HOURS)	day	kɨ̄ƀɨ̀	kɨ̄ƀɨ̀	200	1260			durr1987preliminary		atat11
 2933	SanMiguelElGrandeMixtec_B	DAY (24 HOURS)	day	kɨ̄ƀɨ̀	kɨ̄ƀɨ̀	200	1260			durr1987preliminary		gran11
 2934	AlacatlatzalaMixtec_C	DAY (24 HOURS)	day	kìƀì	kìƀì	200	1260			durr1987preliminary		alac11
 2935	MetlatonocMixtec	DAY (24 HOURS)	day	kìƀì	kìƀì	200	1260			durr1987preliminary		metl11
@@ -4780,7 +4780,7 @@ ID	DOCULECT	CONCEPT	SPANISH_GLOSS	VALUE	FORM	IDlist	CONCEPTICON_ID	LOAN	LOAN_SOU
 2414	SanJuanCoatzospamMixtec_B	DOG	dog	t-ìná̧	t-ìná̧	68	2009			durr1987preliminary		coat11
 2415	SanPedroMolinosMixtec	DOG	dog	īnà	īnà	68	2009			durr1987preliminary		moli11
 2416	SantoTomasOcotepecMixtec_B	DOG	dog	t-īnà	t-īnà	68	2009			durr1987preliminary		ocot11
-2417	SanEstebanAtatlahucaMixtec_B	DOG	dog	īnā	īnā	68	2009			durr1987preliminary		atat11
+2417	SanEstebanAtatlahucaMixtec_C	DOG	dog	īnā	īnā	68	2009			durr1987preliminary		atat11
 2418	SanMiguelElGrandeMixtec_B	DOG	dog	īnà	īnà	68	2009			durr1987preliminary		gran11
 2419	SantiagoCacaloxtepecMixtec	DOG	dog	t-ì̧nā̧	t-ì̧nā̧	68	2009			durr1987preliminary		caca11
 2420	SanJeronimoXayacatlanMixtec	DOG	dog	sì-īnà	sì-īnà	68	2009			durr1987preliminary		xaya11
@@ -4844,7 +4844,6 @@ ID	DOCULECT	CONCEPT	SPANISH_GLOSS	VALUE	FORM	IDlist	CONCEPTICON_ID	LOAN	LOAN_SOU
 21208	SanAndresChicahuaxtlaTriqui_B	DREAM	sueño	ne³²ʰ	ne³²ʰ	207	2374			hernandez-mendoza2020vocabulario		chic12
 21433	ChalcatongoHidalgoMixtec_A	DREAM	dream	ñũʔnã́	ñũʔnã́	207	2374			macaulay1996grammar		chal11
 21762	SanMartinItunyosoTriqui	DREAM	sueño	nnej³	nnej³	207	2455			ChristianDiCanio		itun12
-13909	SantaMariaYucunicocoMixtec	DUST	polvo	čēʔè	čēʔè	122	2			josserand1983mixtec		yucu15
 122	AbasoloValleMixtec	DUST	polvo	yaka	yaka	151	2			galindo-sanchez2009vocabulario		abas11
 316	YoloxochitlMixtec	DUST	polvo	yu³chi⁴	yu³chi⁴	151	2			amith2020yoloxochitl		yolo12
 1090	AlacatlatzalaMixtec_B	DUST	dust	yāā	yāā	151	2			zylstra1991syntactic		alac11
@@ -4866,6 +4865,7 @@ ID	DOCULECT	CONCEPT	SPANISH_GLOSS	VALUE	FORM	IDlist	CONCEPTICON_ID	LOAN	LOAN_SOU
 6061	SanAndresChicahuaxtlaTriqui_A	DUST	polvo	yaj³ yo'o¹	yaj³-yo'o¹	151	2			good1978diccionario		chic12
 6276	ElJicaralMixtec	DUST	polvo	yuchí	yuchí	151	2			Emily John-Martin		jica13
 6277	ElJicaralMixtec	DUST	polvo	yáká	yáká	151	2			Emily John-Martin		jica13
+13909	SantaMariaYucunicocoMixtec	DUST	polvo	čēʔè	čēʔè	122	2			josserand1983mixtec		yucu15
 20254	SanMartinDuraznosMixtec_A	DUST	polvo	machi	machi	151	2			hernandez2020san-martin		dura11
 20730	YucunanyMixtec	DUST	dust, powder	ñu'ú	ñu'ú	151	2			salazar2020yucunani		yucu17
 20938	SanAndresYutatioMixtec	DUST	polvo	ño̠ya̠ká	ño̠ya̠ká	151	2			williams2017diccionario		yuta13
@@ -4895,7 +4895,7 @@ ID	DOCULECT	CONCEPT	SPANISH_GLOSS	VALUE	FORM	IDlist	CONCEPTICON_ID	LOAN	LOAN_SOU
 2195	SanJuanDiuxiMixtec_B	EAR	ear	đò'ʔó	đòʔó	24	1247			durr1987preliminary		diux11
 2196	SantaMariaPenolesMixtec	EAR	ear	đóʔò	đóʔò	24	1247			durr1987preliminary		peno11
 2196	SantaMariaPenolesMixtec	EAR	ear	đóʔò	đóʔò	24	1247			durr1987preliminary		peno11
-2197	SanEstebanAtatlahucaMixtec_B	EAR	ear	sòʔō	sòʔō	24	1247			durr1987preliminary		atat11
+2197	SanEstebanAtatlahucaMixtec_C	EAR	ear	sòʔō	sòʔō	24	1247			durr1987preliminary		atat11
 2198	SanMiguelElGrandeMixtec_B	EAR	ear	sòʔō	sòʔō	24	1247			durr1987preliminary		gran11
 2199	SantiagoCacaloxtepecMixtec	EAR	ear	đòʔō	đòʔō	24	1247			durr1987preliminary		caca11
 2200	AyutlalosLibresMixtec_B	EAR	ear	sōʔò	sōʔò	24	1247			durr1987preliminary		ayut11
@@ -5411,7 +5411,7 @@ ID	DOCULECT	CONCEPT	SPANISH_GLOSS	VALUE	FORM	IDlist	CONCEPTICON_ID	LOAN	LOAN_SOU
 2152	SanJuanCoatzospamMixtec_B	FACE	face	nú̧ǔ̧	nú̧ǔ̧	20	1560			durr1987preliminary		coat11
 2153	SanPedroMolinosMixtec	FACE	face	nùù	nùù	20	1560			durr1987preliminary		moli11
 2154	SantoTomasOcotepecMixtec_B	FACE	face	nùù	nùù	20	1560			durr1987preliminary		ocot11
-2155	SanEstebanAtatlahucaMixtec_B	FACE	face	nūù	nūù	20	1560			durr1987preliminary		atat11
+2155	SanEstebanAtatlahucaMixtec_C	FACE	face	nūù	nūù	20	1560			durr1987preliminary		atat11
 2156	SanMiguelElGrandeMixtec_B	FACE	face	nūù	nūù	20	1560			durr1987preliminary		gran11
 2157	SanJeronimoXayacatlanMixtec	FACE	face	nùù	nùù	20	1560			durr1987preliminary		xaya11
 2158	CahuatacheMixtec	FACE	face	nò̧ò̧	nò̧ò̧	20	1560			durr1987preliminary		cahu11
@@ -5895,7 +5895,7 @@ ID	DOCULECT	CONCEPT	SPANISH_GLOSS	VALUE	FORM	IDlist	CONCEPTICON_ID	LOAN	LOAN_SOU
 1160	SanJuanDiuxiMixtec_A	FINGERNAIL	fingernail	tnɨ́ñɨ	tnɨ́ñɨ	28	1258			kuiper1991syntactic		diux11
 1662	SanAndresChicahuaxtla1890Triqui	FINGERNAIL	uña	Kusitenha	kusitenha	28	1258			belmar1897ensayo		chic02
 2218	SanJuanCoatzospamMixtec_B	FINGERNAIL	fingernail	ȼì̧ì̧	ȼì̧ì̧	28	1258			durr1987preliminary		coat11
-2219	SanEstebanAtatlahucaMixtec_B	FINGERNAIL	fingernail	Ní̧í̧	ní̧í̧	28	1258			durr1987preliminary		atat11
+2219	SanEstebanAtatlahucaMixtec_C	FINGERNAIL	fingernail	Ní̧í̧	ní̧í̧	28	1258			durr1987preliminary		atat11
 2220	SanMiguelElGrandeMixtec_B	FINGERNAIL	fingernail	tíñū	tíñū	28	1258			durr1987preliminary		gran11
 2221	SantiagoCacaloxtepecMixtec	FINGERNAIL	fingernail	čí̧ì̧	čí̧ì̧	28	1258			durr1987preliminary		caca11
 2222	SanJeronimoXayacatlanMixtec	FINGERNAIL	fingernail	čī̧ī̧	čī̧ī̧	28	1258			durr1987preliminary		xaya11
@@ -6226,7 +6226,7 @@ ID	DOCULECT	CONCEPT	SPANISH_GLOSS	VALUE	FORM	IDlist	CONCEPTICON_ID	LOAN	LOAN_SOU
 2367	SantaMariaPenolesMixtec	FISH	fish	čáká	čáká	52	227			durr1987preliminary		peno11
 2368	SanJuanCoatzospamMixtec_B	FISH	fish	ȼàʔká	ȼàʔká	52	227			durr1987preliminary		coat11
 2369	SanPedroMolinosMixtec	FISH	fish	čākā	čākā	52	227			durr1987preliminary		moli11
-2370	SanEstebanAtatlahucaMixtec_B	FISH	fish	čàká	čàká	52	227			durr1987preliminary		atat11
+2370	SanEstebanAtatlahucaMixtec_C	FISH	fish	čàká	čàká	52	227			durr1987preliminary		atat11
 2371	SanMiguelElGrandeMixtec_B	FISH	fish	čáká	čáká	52	227			durr1987preliminary		gran11
 2372	SanMiguelElGrandeMixtec_B	FISH	fish	tɨ̄-žáká	tɨ̄-žáká	52	227			durr1987preliminary		gran11
 2373	SantiagoCacaloxtepecMixtec	FISH	fish	tì-žākā	tì-žākā	52	227			durr1987preliminary		caca11
@@ -6279,7 +6279,7 @@ ID	DOCULECT	CONCEPT	SPANISH_GLOSS	VALUE	FORM	IDlist	CONCEPTICON_ID	LOAN	LOAN_SOU
 2776	SantaMariaPenolesMixtec	FIVE	five	ú̧ʔú̧	ú̧ʔú̧	161	493			durr1987preliminary		peno11
 2777	SanJuanCoatzospamMixtec_B	FIVE	five	ú̧ʔǔ̧	ú̧ʔǔ̧	161	493			durr1987preliminary		coat11
 2778	SanPedroMolinosMixtec	FIVE	five	ù̧ʔù̧	ù̧ʔù̧	161	493			durr1987preliminary		moli11
-2779	SanEstebanAtatlahucaMixtec_B	FIVE	five	ū̧ʔù̧	ū̧ʔù̧	161	493			durr1987preliminary		atat11
+2779	SanEstebanAtatlahucaMixtec_C	FIVE	five	ū̧ʔù̧	ū̧ʔù̧	161	493			durr1987preliminary		atat11
 2780	SanMiguelElGrandeMixtec_B	FIVE	five	ū̧ʔù̧	ū̧ʔù̧	161	493			durr1987preliminary		gran11
 2781	CahuatacheMixtec	FIVE	five	ō̧ʔō̧	ō̧ʔō̧	161	493			durr1987preliminary		cahu11
 2782	SanJuanMixtepecMixtec	FIVE	five	ù̧ʔù̧	ù̧ʔù̧	161	493			durr1987preliminary		mixt11
@@ -6453,7 +6453,7 @@ ID	DOCULECT	CONCEPT	SPANISH_GLOSS	VALUE	FORM	IDlist	CONCEPTICON_ID	LOAN	LOAN_SOU
 2449	SanJuanCoatzospamMixtec_B	FLOWER	flower	làà	làà	83	239			durr1987preliminary		coat11
 2450	SanPedroMolinosMixtec	FLOWER	flower	ītà	ītà	83	239			durr1987preliminary		moli11
 2451	SantoTomasOcotepecMixtec_B	FLOWER	flower	ītà	ītà	83	239			durr1987preliminary		ocot11
-2452	SanEstebanAtatlahucaMixtec_B	FLOWER	flower	ītā	ītā	83	239			durr1987preliminary		atat11
+2452	SanEstebanAtatlahucaMixtec_C	FLOWER	flower	ītā	ītā	83	239			durr1987preliminary		atat11
 2453	SanMiguelElGrandeMixtec_B	FLOWER	flower	ītā	ītā	83	239			durr1987preliminary		gran11
 2454	AyutlalosLibresMixtec_B	FLOWER	flower	ìtà	ìtà	83	239			durr1987preliminary		ayut11
 2455	MetlatonocMixtec	FLOWER	flower	ītā	ītā	83	239			durr1987preliminary		metl11
@@ -6657,7 +6657,7 @@ ID	DOCULECT	CONCEPT	SPANISH_GLOSS	VALUE	FORM	IDlist	CONCEPTICON_ID	LOAN	LOAN_SOU
 2241	SantaMariaPenolesMixtec	FOOT	foot	sáʔá	sáʔá	32	1301			durr1987preliminary		peno11
 2241	SantaMariaPenolesMixtec	FOOT	foot	sáʔá	sáʔá	32	1301			durr1987preliminary		peno11
 2242	SantoTomasOcotepecMixtec_B	FOOT	foot	xèʔè	xèʔè	32	1301			durr1987preliminary		ocot11
-2243	SanEstebanAtatlahucaMixtec_B	FOOT	foot	xēʔè	xēʔè	32	1301			durr1987preliminary		atat11
+2243	SanEstebanAtatlahucaMixtec_C	FOOT	foot	xēʔè	xēʔè	32	1301			durr1987preliminary		atat11
 2244	SanMiguelElGrandeMixtec_B	FOOT	foot	xāʔà	xāʔà	32	1301			durr1987preliminary		gran11
 2245	SantiagoCacaloxtepecMixtec	FOOT	foot	sàʔà	sàʔà	32	1301			durr1987preliminary		caca11
 2246	AlacatlatzalaMixtec_C	FOOT	foot	šàʔà	šàʔà	32	1301			durr1987preliminary		alac11
@@ -6828,7 +6828,7 @@ ID	DOCULECT	CONCEPT	SPANISH_GLOSS	VALUE	FORM	IDlist	CONCEPTICON_ID	LOAN	LOAN_SOU
 2762	SanJuanCoatzospamMixtec_B	FOUR	four	kɨ́mǐ̧	kɨ́mǐ̧	160	1500			durr1987preliminary		coat11
 2763	SanPedroMolinosMixtec	FOUR	four	kù̧ù̧	kù̧ù̧	160	1500			durr1987preliminary		moli11
 2764	SantoTomasOcotepecMixtec_B	FOUR	four	kùmì	kùmì	160	1500			durr1987preliminary		ocot11
-2765	SanEstebanAtatlahucaMixtec_B	FOUR	four	kū̧ù̧	kū̧ù̧	160	1500			durr1987preliminary		atat11
+2765	SanEstebanAtatlahucaMixtec_C	FOUR	four	kū̧ù̧	kū̧ù̧	160	1500			durr1987preliminary		atat11
 2766	SanMiguelElGrandeMixtec_B	FOUR	four	kū̧ù̧	kū̧ù̧	160	1500			durr1987preliminary		gran11
 2767	SantiagoCacaloxtepecMixtec	FOUR	four	kòmì̧	kòmì̧	160	1500			durr1987preliminary		caca11
 2768	SanJeronimoXayacatlanMixtec	FOUR	four	kùmì	kùmì	160	1500			durr1987preliminary		xaya11
@@ -7410,7 +7410,7 @@ ID	DOCULECT	CONCEPT	SPANISH_GLOSS	VALUE	FORM	IDlist	CONCEPTICON_ID	LOAN	LOAN_SOU
 2865	SanJuanCoatzospamMixtec_B	GOOD	good	ƀáʔǎ	ƀáʔǎ	179	1035			durr1987preliminary		coat11
 2866	SanPedroMolinosMixtec	GOOD	good	ƀàʔā	ƀàʔā	179	1035			durr1987preliminary		moli11
 2867	SantoTomasOcotepecMixtec_B	GOOD	good	ƀàʔā	ƀàʔā	179	1035			durr1987preliminary		ocot11
-2868	SanEstebanAtatlahucaMixtec_B	GOOD	good	ƀàʔā	ƀàʔā	179	1035			durr1987preliminary		atat11
+2868	SanEstebanAtatlahucaMixtec_C	GOOD	good	ƀàʔā	ƀàʔā	179	1035			durr1987preliminary		atat11
 2869	SanMiguelElGrandeMixtec_B	GOOD	good	ƀàʔā	ƀàʔā	179	1035			durr1987preliminary		gran11
 2870	SantiagoCacaloxtepecMixtec	GOOD	good	ƀàʔā	ƀàʔā	179	1035			durr1987preliminary		caca11
 2871	SanJeronimoXayacatlanMixtec	GOOD	good	ƀàʔā	ƀàʔā	179	1035			durr1987preliminary		xaya11
@@ -7941,7 +7941,7 @@ ID	DOCULECT	CONCEPT	SPANISH_GLOSS	VALUE	FORM	IDlist	CONCEPTICON_ID	LOAN	LOAN_SOU
 2525	SantaMariaPenolesMixtec	GRIDDLE	comal	šíó	šíó	115				durr1987preliminary		peno11
 2525	SantaMariaPenolesMixtec	GRIDDLE	comal	šíó	šíó	115				durr1987preliminary		peno11
 2526	SanJuanCoatzospamMixtec_B	GRIDDLE	comal	šíǒ	šíǒ	115				durr1987preliminary		coat11
-2527	SanEstebanAtatlahucaMixtec_B	GRIDDLE	comal	xīžò	xīžò	115				durr1987preliminary		atat11
+2527	SanEstebanAtatlahucaMixtec_C	GRIDDLE	comal	xīžò	xīžò	115				durr1987preliminary		atat11
 2528	SanMiguelElGrandeMixtec_B	GRIDDLE	comal	xīò	xīò	115				durr1987preliminary		gran11
 2529	SantiagoCacaloxtepecMixtec	GRIDDLE	comal	šòò	šòò	115				durr1987preliminary		caca11
 2530	AlacatlatzalaMixtec_C	GRIDDLE	comal	šìyò	šìyò	115				durr1987preliminary		alac11
@@ -8311,7 +8311,7 @@ ID	DOCULECT	CONCEPT	SPANISH_GLOSS	VALUE	FORM	IDlist	CONCEPTICON_ID	LOAN	LOAN_SOU
 2205	SanJuanCoatzospamMixtec_B	HAND	hand	ⁿdàʔà	ⁿdàʔà	27	1277			durr1987preliminary		coat11
 2206	SanPedroMolinosMixtec	HAND	hand	ⁿdāʔā	ⁿdāʔā-	27	1277			durr1987preliminary		moli11
 2207	SantoTomasOcotepecMixtec_B	HAND	hand	ⁿdāʔá	ⁿdāʔá	27	1277			durr1987preliminary		ocot11
-2208	SanEstebanAtatlahucaMixtec_B	HAND	hand	ⁿdāʔā	ⁿdāʔā	27	1277			durr1987preliminary		atat11
+2208	SanEstebanAtatlahucaMixtec_C	HAND	hand	ⁿdāʔā	ⁿdāʔā	27	1277			durr1987preliminary		atat11
 2209	SanMiguelElGrandeMixtec_B	HAND	hand	ⁿdāʔā	ⁿdāʔā	27	1277			durr1987preliminary		gran11
 2210	SanJeronimoXayacatlanMixtec	HAND	hand	ⁿdāʔà	ⁿdāʔà-	27	1277			durr1987preliminary		xaya11
 2211	AyutlalosLibresMixtec_B	HAND	hand	ⁿdàʔáʔ	ⁿdàʔáʔ	27	1277			durr1987preliminary		ayut11
@@ -8673,7 +8673,7 @@ ID	DOCULECT	CONCEPT	SPANISH_GLOSS	VALUE	FORM	IDlist	CONCEPTICON_ID	LOAN	LOAN_SOU
 21508	Proto-Mixtec	HEN	(turkey) hen	tɨ-yuu̧ʔ	tɨ-yuu̧ʔ	71				durr1987preliminary		prom01
 21523	SanJuanCoatzospamMixtec_B	HEN	(turkey) hen	ȼú̧ǔ̧	ȼú̧ǔ̧	71				durr1987preliminary		coat11
 21524	SantoTomasOcotepecMixtec_B	HEN	(turkey) hen	čù̧ú̧	čù̧ú̧	71				durr1987preliminary		ocot11
-21525	SanEstebanAtatlahucaMixtec_B	HEN	(turkey) hen	čù̧ú̧	čù̧ú̧	71	1514			durr1987preliminary		atat11
+21525	SanEstebanAtatlahucaMixtec_C	HEN	(turkey) hen	čù̧ú̧	čù̧ú̧	71	1514			durr1987preliminary		atat11
 21526	SanMiguelElGrandeMixtec_B	HEN	(turkey) hen	čù̧ú̧	čù̧ú̧	71				durr1987preliminary		gran11
 21527	SanMiguelElGrandeMixtec_B	HEN	(turkey) hen	tī-ñùú	tī-ñùú	71				durr1987preliminary		gran11
 21528	SantiagoCacaloxtepecMixtec	HEN	(turkey) hen	čò̧ò̧	čò̧ò̧	71				durr1987preliminary		caca11
@@ -8689,7 +8689,7 @@ ID	DOCULECT	CONCEPT	SPANISH_GLOSS	VALUE	FORM	IDlist	CONCEPTICON_ID	LOAN	LOAN_SOU
 2439	SantaMariaPenolesMixtec	HERBACEOUS PLANT	herb, bush	žúkú	žúkú	81				durr1987preliminary		peno11
 2440	SanPedroMolinosMixtec	HERBACEOUS PLANT	herb, bush	žùkù	žùkù	81				durr1987preliminary		moli11
 2441	SantoTomasOcotepecMixtec_B	HERBACEOUS PLANT	herb, bush	žùkù	žùkù	81				durr1987preliminary		ocot11
-2442	SanEstebanAtatlahucaMixtec_B	HERBACEOUS PLANT	herb, bush	žūkù	žūkù	81				durr1987preliminary		atat11
+2442	SanEstebanAtatlahucaMixtec_C	HERBACEOUS PLANT	herb, bush	žūkù	žūkù	81				durr1987preliminary		atat11
 2443	SanMiguelElGrandeMixtec_B	HERBACEOUS PLANT	herb, bush	žūkù	žūkù	81				durr1987preliminary		gran11
 2444	CahuatacheMixtec	HERBACEOUS PLANT	herb, bush	yǜkǜ	yǜkǜ	81				durr1987preliminary		cahu11
 2445	SanAgustinChayucoMixtec	HERBACEOUS PLANT	herb, bush	yùkù	yùkù	81				durr1987preliminary		chay11
@@ -8834,7 +8834,7 @@ ID	DOCULECT	CONCEPT	SPANISH_GLOSS	VALUE	FORM	IDlist	CONCEPTICON_ID	LOAN	LOAN_SOU
 2566	SantaMariaPenolesMixtec	HOLE	hole	žàú	žàú	130	1667			durr1987preliminary		peno11
 2566	SantaMariaPenolesMixtec	HOLE	hole	žàú	žàú	130	1667			durr1987preliminary		peno11
 2567	SanJuanCoatzospamMixtec_B	HOLE	hole	šáƀǐ	šáƀǐ	130	1667			durr1987preliminary		coat11
-2568	SanEstebanAtatlahucaMixtec_B	HOLE	hole	žāū	žāū	130	1667			durr1987preliminary		atat11
+2568	SanEstebanAtatlahucaMixtec_C	HOLE	hole	žāū	žāū	130	1667			durr1987preliminary		atat11
 2569	SanMiguelElGrandeMixtec_B	HOLE	hole	žāù	žāù	130	1667			durr1987preliminary		gran11
 2570	SanJeronimoXayacatlanMixtec	HOLE	hole	yāƀī	yāƀī	130	1667			durr1987preliminary		xaya11
 2571	AlacatlatzalaMixtec_C	HOLE	hole	yāƀì	yāƀì	130	1667			durr1987preliminary		alac11
@@ -8842,7 +8842,7 @@ ID	DOCULECT	CONCEPT	SPANISH_GLOSS	VALUE	FORM	IDlist	CONCEPTICON_ID	LOAN	LOAN_SOU
 2573	SanJuanMixtepecMixtec	HOLE	hole	yàƀì	yàƀì	130	1667			durr1987preliminary		mixt11
 2574	SanJeronimoProgresoMixtec_B	HOLE	hole	žáƀì	žáƀì	130	1667			durr1987preliminary		prog12
 2575	SanAgustinChayucoMixtec	HOLE	hole	yāƀì	yāƀì	130	1667			durr1987preliminary		chay11
-2576	SanEstebanAtatlahucaMixtec_B	HOLE	hole	žāƀū	žāƀū	130	1667			durr1987preliminary		atat11
+2576	SanEstebanAtatlahucaMixtec_C	HOLE	hole	žāƀū	žāƀū	130	1667			durr1987preliminary		atat11
 3569	TlahuapaMixtec	HOLE	agujero	yàvì	yàvì	130	1667			oxnard2020		tlah11
 3570	PiedraAzulMixtec	HOLE	agujero	yavì	yavì	130	1667			oxnard2020		pied12
 3571	SanMarcoslaFlorMixtec	HOLE	agujero	yavì	yavì	130	1667			oxnard2020		flor12
@@ -9421,7 +9421,7 @@ ID	DOCULECT	CONCEPT	SPANISH_GLOSS	VALUE	FORM	IDlist	CONCEPTICON_ID	LOAN	LOAN_SOU
 2297	SanJuanCoatzospamMixtec_B	HOUSE	house	ƀìʔì	ƀìʔì	44	1252			durr1987preliminary		coat11
 2298	SanPedroMolinosMixtec	HOUSE	house	ƀēʔē	ƀēʔē	44	1252			durr1987preliminary		moli11
 2299	SantoTomasOcotepecMixtec_B	HOUSE	house	ƀēʔē	ƀēʔē	44	1252			durr1987preliminary		ocot11
-2300	SanEstebanAtatlahucaMixtec_B	HOUSE	house	ƀēʔē	ƀēʔē	44	1252			durr1987preliminary		atat11
+2300	SanEstebanAtatlahucaMixtec_C	HOUSE	house	ƀēʔē	ƀēʔē	44	1252			durr1987preliminary		atat11
 2301	SanMiguelElGrandeMixtec_B	HOUSE	house	ƀēʔē	ƀēʔē	44	1252			durr1987preliminary		gran11
 2302	SantiagoCacaloxtepecMixtec	HOUSE	house	ƀēʔē	ƀēʔē	44	1252			durr1987preliminary		caca11
 2303	SanJeronimoXayacatlanMixtec	HOUSE	house	ƀēʔē	ƀēʔē	44	1252			durr1987preliminary		xaya11
@@ -10028,7 +10028,7 @@ ID	DOCULECT	CONCEPT	SPANISH_GLOSS	VALUE	FORM	IDlist	CONCEPTICON_ID	LOAN	LOAN_SOU
 1962	SanPedroySanPabloTeposcolula1600Mixtec	LIME (MATERIAL)	cal	caca	caca	147	2540			alvarado1593vocabulario		tepo01
 2677	SantaMariaPenolesMixtec	LIME (MATERIAL)	lime	kàkà	kàkà	147	2540			durr1987preliminary		peno11
 2677	SantaMariaPenolesMixtec	LIME (MATERIAL)	lime	kàkà	kàkà	147	2540			durr1987preliminary		peno11
-2678	SanEstebanAtatlahucaMixtec_B	LIME (MATERIAL)	lime	kākā	kākā	147	2540			durr1987preliminary		atat11
+2678	SanEstebanAtatlahucaMixtec_C	LIME (MATERIAL)	lime	kākā	kākā	147	2540			durr1987preliminary		atat11
 2679	SanMiguelElGrandeMixtec_B	LIME (MATERIAL)	lime	kākà	kākà	147	2540			durr1987preliminary		gran11
 2680	AyutlalosLibresMixtec_B	LIME (MATERIAL)	lime	kàkà	kàkà	147	2540			durr1987preliminary		ayut11
 2681	MetlatonocMixtec	LIME (MATERIAL)	lime	kākā'	kākā'	147	2540			durr1987preliminary		metl11
@@ -10072,7 +10072,6 @@ ID	DOCULECT	CONCEPT	SPANISH_GLOSS	VALUE	FORM	IDlist	CONCEPTICON_ID	LOAN	LOAN_SOU
 5548	SanJuanTepeuxila1900Cuicatec	LONG	largo	chianu	chianu	177	1203			belmar1902el-cuicateco		tepe03
 6086	SanAndresChicahuaxtlaTriqui_A	LONG	largo	xe'e⁵³	xe'e⁵³	177	1203			good1978diccionario		chic12
 21731	SanMartinItunyosoTriqui	LONG	ser largo	che¹che¹	che¹che¹	177	1203			ChristianDiCanio		itun12
-21511	Proto-Mixtec	LONG (PLURAL)	long.SG	kaniʔ	kaniʔ	177				durr1987preliminary		prom01
 343	YoloxochitlMixtec	LONG (PLURAL)	largo.PL	na⁴ni²⁴	na⁴ni²⁴	178				amith2020yoloxochitl		yolo12
 473	SantiagoJamiltepecMixtec_A	LONG (PLURAL)	long.PL	nāñí	nāñí	178				johnson1988syntactic		jami11
 593	SantoTomasOcotepecMixtec_A	LONG (PLURAL)	long.PL	nání	nání	178				alexander1988syntactic		ocot11
@@ -10096,6 +10095,7 @@ ID	DOCULECT	CONCEPT	SPANISH_GLOSS	VALUE	FORM	IDlist	CONCEPTICON_ID	LOAN	LOAN_SOU
 20569	SanPedroYosonamaMixtec	LONG (PLURAL)	largo.PL	nani	nani	178				gittlen2016gramatica		yoso14
 20966	SanAndresYutatioMixtec	LONG (PLURAL)	largo.PL	náni̠	náni̠	178				williams2017diccionario		yuta13
 21399	ChalcatongoHidalgoMixtec_A	LONG (PLURAL)	long.PL	náni	náni	178				macaulay1996grammar		chal11
+21511	Proto-Mixtec	LONG (PLURAL)	long.SG	kaniʔ	kaniʔ	177				durr1987preliminary		prom01
 145	AbasoloValleMixtec	LONG (SINGULAR)	largo.SG	kani	kani	177				galindo-sanchez2009vocabulario		abas11
 342	YoloxochitlMixtec	LONG (SINGULAR)	largo.SG	ka⁴ni²⁴	ka⁴ni²⁴	177				amith2020yoloxochitl		yolo12
 472	SantiagoJamiltepecMixtec_A	LONG (SINGULAR)	long.SG	kāñí	kāñí	177				johnson1988syntactic		jami11
@@ -10112,7 +10112,7 @@ ID	DOCULECT	CONCEPT	SPANISH_GLOSS	VALUE	FORM	IDlist	CONCEPTICON_ID	LOAN	LOAN_SOU
 2854	SanJuanCoatzospamMixtec_B	LONG (SINGULAR)	long.SG	kànì̧	kànì̧	177				durr1987preliminary		coat11
 2855	SanPedroMolinosMixtec	LONG (SINGULAR)	long.SG	kání	kání	177				durr1987preliminary		moli11
 2856	SantoTomasOcotepecMixtec_B	LONG (SINGULAR)	long.SG	kání	kání	177				durr1987preliminary		ocot11
-2857	SanEstebanAtatlahucaMixtec_B	LONG (SINGULAR)	long.SG	kánī	kánī	177				durr1987preliminary		atat11
+2857	SanEstebanAtatlahucaMixtec_C	LONG (SINGULAR)	long.SG	kánī	kánī	177				durr1987preliminary		atat11
 2858	SanMiguelElGrandeMixtec_B	LONG (SINGULAR)	long.SG	kánī	kánī	177				durr1987preliminary		gran11
 2859	SantiagoCacaloxtepecMixtec	LONG (SINGULAR)	long.SG	kánì̧	kánì̧	177				durr1987preliminary		caca11
 2860	AyutlalosLibresMixtec_B	LONG (SINGULAR)	long.SG	kánìʔ	kánìʔ	177				durr1987preliminary		ayut11
@@ -10499,7 +10499,7 @@ ID	DOCULECT	CONCEPT	SPANISH_GLOSS	VALUE	FORM	IDlist	CONCEPTICON_ID	LOAN	LOAN_SOU
 2126	SantaMariaPenolesMixtec	MAN	man	téè	téè	13	1554			durr1987preliminary		peno11
 2127	SanPedroMolinosMixtec	MAN	man	tèē	tèē	13	1554			durr1987preliminary		moli11
 2128	SantoTomasOcotepecMixtec_B	MAN	man	tèē	tèē	13	1554			durr1987preliminary		ocot11
-2129	SanEstebanAtatlahucaMixtec_B	MAN	man	tèē	tèē	13	1554			durr1987preliminary		atat11
+2129	SanEstebanAtatlahucaMixtec_C	MAN	man	tèē	tèē	13	1554			durr1987preliminary		atat11
 2130	SanMiguelElGrandeMixtec_B	MAN	man	čàā	čàā	13	1554			durr1987preliminary		gran11
 2131	SanJeronimoXayacatlanMixtec	MAN	man	tʸàā	tʸàā	13	1554			durr1987preliminary		xaya11
 2132	AyutlalosLibresMixtec_B	MAN	man	tʸāà	tʸāà	13	1554			durr1987preliminary		ayut11
@@ -10672,7 +10672,7 @@ ID	DOCULECT	CONCEPT	SPANISH_GLOSS	VALUE	FORM	IDlist	CONCEPTICON_ID	LOAN	LOAN_SOU
 2322	SantaMariaPenolesMixtec	MAT	straw mat	žùù	žùù	47	195			durr1987preliminary		peno11
 2322	SantaMariaPenolesMixtec	MAT	straw mat	žùù	žùù	47	195			durr1987preliminary		peno11
 2323	SantoTomasOcotepecMixtec_B	MAT	straw mat	žūū	žūū	47	195			durr1987preliminary		ocot11
-2324	SanEstebanAtatlahucaMixtec_B	MAT	straw mat	žūū	žūū	47	195			durr1987preliminary		atat11
+2324	SanEstebanAtatlahucaMixtec_C	MAT	straw mat	žūū	žūū	47	195			durr1987preliminary		atat11
 2325	SanMiguelElGrandeMixtec_B	MAT	straw mat	žūū	žūū	47	195			durr1987preliminary		gran11
 2326	SantiagoCacaloxtepecMixtec	MAT	straw mat	žūù	žūù	47	195			durr1987preliminary		caca11
 2327	SanJeronimoXayacatlanMixtec	MAT	straw mat	yūì	yūì	47	195			durr1987preliminary		xaya11
@@ -10853,7 +10853,7 @@ ID	DOCULECT	CONCEPT	SPANISH_GLOSS	VALUE	FORM	IDlist	CONCEPTICON_ID	LOAN	LOAN_SOU
 2516	SantaMariaPenolesMixtec	MEAT	meat	kùñú	kùñú	114	634			durr1987preliminary		peno11
 2517	SanJuanCoatzospamMixtec_B	MEAT	meat	kùñú̧	kùñú̧	114	634			durr1987preliminary		coat11
 2518	SantoTomasOcotepecMixtec_B	MEAT	meat	kùñū	kùñū	114	634			durr1987preliminary		ocot11
-2519	SanEstebanAtatlahucaMixtec_B	MEAT	meat	kùñū	kùñū	114	634			durr1987preliminary		atat11
+2519	SanEstebanAtatlahucaMixtec_C	MEAT	meat	kùñū	kùñū	114	634			durr1987preliminary		atat11
 2520	SanMiguelElGrandeMixtec_B	MEAT	meat	kùñū	kùñū	114	634			durr1987preliminary		gran11
 2521	SantiagoCacaloxtepecMixtec	MEAT	meat	kò̧ñō̧	kò̧ñō̧	114	634			durr1987preliminary		caca11
 2522	AlacatlatzalaMixtec_C	MEAT	meat	kùñō̧	kùñō̧	114	634			durr1987preliminary		alac11
@@ -11029,7 +11029,7 @@ ID	DOCULECT	CONCEPT	SPANISH_GLOSS	VALUE	FORM	IDlist	CONCEPTICON_ID	LOAN	LOAN_SOU
 2251	SanJuanDiuxiMixtec_B	MEDICINE	medicine	tá'tná̧	tátná̧	34	1372			durr1987preliminary		diux11
 2252	SanPedroMolinosMixtec	MEDICINE	medicine	tàtà̧	tàtà̧	34	1372			durr1987preliminary		moli11
 2253	SantoTomasOcotepecMixtec_B	MEDICINE	medicine	tà̧tà̧	tà̧tà̧	34	1372			durr1987preliminary		ocot11
-2254	SanEstebanAtatlahucaMixtec_B	MEDICINE	medicine	tāNà	tāNà	34	1372			durr1987preliminary		atat11
+2254	SanEstebanAtatlahucaMixtec_C	MEDICINE	medicine	tāNà	tāNà	34	1372			durr1987preliminary		atat11
 2255	SanMiguelElGrandeMixtec_B	MEDICINE	medicine	tānà	tānà	34	1372			durr1987preliminary		gran11
 2256	SantiagoCacaloxtepecMixtec	MEDICINE	medicine	tàtà	tàtà-	34	1372			durr1987preliminary		caca11
 2257	MetlatonocMixtec	MEDICINE	medicine	tàtà̧	tàtà̧-	34	1372			durr1987preliminary		metl11
@@ -11073,7 +11073,7 @@ ID	DOCULECT	CONCEPT	SPANISH_GLOSS	VALUE	FORM	IDlist	CONCEPTICON_ID	LOAN	LOAN_SOU
 2650	SanJuanCoatzospamMixtec_B	METAL	metal	kàá	kàá	145	2244			durr1987preliminary		coat11
 2651	SanPedroMolinosMixtec	METAL	metal	kàā	kàā	145	2244			durr1987preliminary		moli11
 2652	SantoTomasOcotepecMixtec_B	METAL	metal	kàā	kàā	145	2244			durr1987preliminary		ocot11
-2653	SanEstebanAtatlahucaMixtec_B	METAL	metal	kàā	kàā	145	2244			durr1987preliminary		atat11
+2653	SanEstebanAtatlahucaMixtec_C	METAL	metal	kàā	kàā	145	2244			durr1987preliminary		atat11
 2654	SanMiguelElGrandeMixtec_B	METAL	metal	kàā	kàā	145	2244			durr1987preliminary		gran11
 2655	SantiagoCacaloxtepecMixtec	METAL	metal	kàā	kàā	145	2244			durr1987preliminary		caca11
 2656	SanJeronimoXayacatlanMixtec	METAL	metal	kàā	kàā	145	2244			durr1987preliminary		xaya11
@@ -11144,7 +11144,7 @@ ID	DOCULECT	CONCEPT	SPANISH_GLOSS	VALUE	FORM	IDlist	CONCEPTICON_ID	LOAN	LOAN_SOU
 21540	SanJuanCoatzospamMixtec_B	MONEY	precious metal	đyúʔǔ	đyúʔǔ	203				durr1987preliminary		coat11
 21541	SanPedroMolinosMixtec	MONEY	precious metal	šù̧ʔū̧	šù̧ʔū̧	203				durr1987preliminary		moli11
 21542	SantoTomasOcotepecMixtec_B	MONEY	precious metal	šù̧ʔú̧	šù̧ʔú̧	203				durr1987preliminary		ocot11
-21543	SanEstebanAtatlahucaMixtec_B	MONEY	precious metal	šù̧ʔú̧	šù̧ʔú̧	203	1559			durr1987preliminary		atat11
+21543	SanEstebanAtatlahucaMixtec_C	MONEY	precious metal	šù̧ʔú̧	šù̧ʔú̧	203	1559			durr1987preliminary		atat11
 21544	SanMiguelElGrandeMixtec_B	MONEY	precious metal	šù̧ʔú̧	šù̧ʔú̧	203				durr1987preliminary		gran11
 21545	AyutlalosLibresMixtec_B	MONEY	precious metal	šù̧ʔú̧ʔ	šù̧ʔú̧ʔ	203	1559			durr1987preliminary		ayut11
 21546	SanJuanMixtepecMixtec	MONEY	precious metal	šǔ̧ʔū̧	šǔ̧ʔū̧	203				durr1987preliminary		mixt11
@@ -11168,7 +11168,7 @@ ID	DOCULECT	CONCEPT	SPANISH_GLOSS	VALUE	FORM	IDlist	CONCEPTICON_ID	LOAN	LOAN_SOU
 2588	SantaMariaPenolesMixtec	MOON	moon	žóó	žóó	134	1313			durr1987preliminary		peno11
 2589	SanJuanCoatzospamMixtec_B	MOON	moon	šóǒ	šóǒ	134	1313			durr1987preliminary		coat11
 2590	SanPedroMolinosMixtec	MOON	moon	žòò	žòò-	134	1313			durr1987preliminary		moli11
-2591	SanEstebanAtatlahucaMixtec_B	MOON	moon	žōò	žōò	134	1313			durr1987preliminary		atat11
+2591	SanEstebanAtatlahucaMixtec_C	MOON	moon	žōò	žōò	134	1313			durr1987preliminary		atat11
 2592	SanMiguelElGrandeMixtec_B	MOON	moon	žōò	žōò	134	1313			durr1987preliminary		gran11
 2593	AlacatlatzalaMixtec_C	MOON	moon	yòò	yòò	134	1313			durr1987preliminary		alac11
 2594	CahuatacheMixtec	MOON	moon	yòò	yòò	134	1313			durr1987preliminary		cahu11
@@ -11275,7 +11275,7 @@ ID	DOCULECT	CONCEPT	SPANISH_GLOSS	VALUE	FORM	IDlist	CONCEPTICON_ID	LOAN	LOAN_SOU
 2618	SantaMariaPenolesMixtec	MOUNTAIN OR HILL	mountain	žùkù	žùkù	141	2118			durr1987preliminary		peno11
 2619	SanPedroMolinosMixtec	MOUNTAIN OR HILL	mountain	žūkū	žūkū	141	2118			durr1987preliminary		moli11
 2620	SantoTomasOcotepecMixtec_B	MOUNTAIN OR HILL	mountain	žūkū	žūkū	141	2118			durr1987preliminary		ocot11
-2621	SanEstebanAtatlahucaMixtec_B	MOUNTAIN OR HILL	mountain	žūkū	žūkū	141	2118			durr1987preliminary		atat11
+2621	SanEstebanAtatlahucaMixtec_C	MOUNTAIN OR HILL	mountain	žūkū	žūkū	141	2118			durr1987preliminary		atat11
 2622	SanMiguelElGrandeMixtec_B	MOUNTAIN OR HILL	mountain	žūkū	žūkū	141	2118			durr1987preliminary		gran11
 2623	CahuatacheMixtec	MOUNTAIN OR HILL	mountain	yǖkǜ	yǖkǜ	141	2118			durr1987preliminary		cahu11
 2624	SanJeronimoProgresoMixtec_B	MOUNTAIN OR HILL	mountain	žǘkǜ	žǘkǜ	141	2118			durr1987preliminary		prog12
@@ -11468,7 +11468,7 @@ ID	DOCULECT	CONCEPT	SPANISH_GLOSS	VALUE	FORM	IDlist	CONCEPTICON_ID	LOAN	LOAN_SOU
 2182	SanJuanCoatzospamMixtec_B	MOUTH	mouth	šùʔù	šùʔù	23	674			durr1987preliminary		coat11
 2183	SanPedroMolinosMixtec	MOUTH	mouth	žūʔū	žūʔū	23	674			durr1987preliminary		moli11
 2184	SantoTomasOcotepecMixtec_B	MOUTH	mouth	žūʔú	žūʔú	23	674			durr1987preliminary		ocot11
-2185	SanEstebanAtatlahucaMixtec_B	MOUTH	mouth	žūʔū	žūʔū	23	674			durr1987preliminary		atat11
+2185	SanEstebanAtatlahucaMixtec_C	MOUTH	mouth	žūʔū	žūʔū	23	674			durr1987preliminary		atat11
 2186	SanMiguelElGrandeMixtec_B	MOUTH	mouth	žūʔū	žūʔū	23	674			durr1987preliminary		gran11
 2187	SantiagoCacaloxtepecMixtec	MOUTH	mouth	žūʔū	žūʔū-	23	674			durr1987preliminary		caca11
 2188	AyutlalosLibresMixtec_B	MOUTH	mouth	yùʔúʔ	yùʔúʔ	23	674			durr1987preliminary		ayut11
@@ -11973,7 +11973,6 @@ ID	DOCULECT	CONCEPT	SPANISH_GLOSS	VALUE	FORM	IDlist	CONCEPTICON_ID	LOAN	LOAN_SOU
 21412	ChalcatongoHidalgoMixtec_A	NEAR	near	žani	žani	189	1942			macaulay1996grammar		chal11
 21742	SanMartinItunyosoTriqui	NEAR	cerca de, está cerca	ni³chunh³	ni³chunh³	189	1942			ChristianDiCanio		itun12
 21743	SanMartinItunyosoTriqui	NEAR	cerca de, está cerca	ni¹chrunh¹	ni¹chrunh¹	189	1942			ChristianDiCanio		itun12
-7466	SanAntonioNduayacoMixtec	NECK	cuello	θuku	θuku	25	1333			josserand1983mixtec		ndua11
 24	AbasoloValleMixtec	NECK	cuello	sukú	sukú	26	1333			galindo-sanchez2009vocabulario		abas11
 194	YoloxochitlMixtec	NECK	cuello	su¹kun⁴	su¹kun⁴	26	1333			amith2020yoloxochitl		yolo12
 513	SantoTomasOcotepecMixtec_A	NECK	neck	sukun	sukun	26	1333			alexander1988syntactic		ocot11
@@ -12057,6 +12056,7 @@ ID	DOCULECT	CONCEPT	SPANISH_GLOSS	VALUE	FORM	IDlist	CONCEPTICON_ID	LOAN	LOAN_SOU
 7463	SanSebastianMonteMixtec_B	NECK	cuello	hiko	hiko	26	1333			josserand1983mixtec		mont12
 7464	SantaLuciaMonteverdeMixtec	NECK	cuello	suku̧	suku̧	26	1333			josserand1983mixtec		mont13
 7465	SanLuisMoreliaMixtec	NECK	cuello	siko	siko	26	1333			josserand1983mixtec		more11
+7466	SanAntonioNduayacoMixtec	NECK	cuello	θuku	θuku	25	1333			josserand1983mixtec		ndua11
 7467	SanJorgeNuchitaMixtec	NECK	cuello	hiko	hiko	26	1333			josserand1983mixtec		nuch11
 7468	SantaCruzNundacoMixtec	NECK	cuello	suku	suku	26	1333			josserand1983mixtec		nund11
 7469	SantoDomingoNundoMixtec	NECK	cuello	suku̧	suku̧	26	1333			josserand1983mixtec		nund13
@@ -12277,7 +12277,7 @@ ID	DOCULECT	CONCEPT	SPANISH_GLOSS	VALUE	FORM	IDlist	CONCEPTICON_ID	LOAN	LOAN_SOU
 2890	SantaMariaPenolesMixtec	NEW	new	sàà	sàà	185	1231			durr1987preliminary		peno11
 2891	SanJuanCoatzospamMixtec_B	NEW	new	šèě	šèě	185	1231			durr1987preliminary		coat11
 2892	SantoTomasOcotepecMixtec_B	NEW	new	xēé	xēé	185	1231			durr1987preliminary		ocot11
-2893	SanEstebanAtatlahucaMixtec_B	NEW	new	xēé	xēé	185	1231			durr1987preliminary		atat11
+2893	SanEstebanAtatlahucaMixtec_C	NEW	new	xēé	xēé	185	1231			durr1987preliminary		atat11
 2894	SanMiguelElGrandeMixtec_B	NEW	new	xáá	xáá	185	1231			durr1987preliminary		gran11
 2895	SantiagoCacaloxtepecMixtec	NEW	new	sàà	sàà	185	1231			durr1987preliminary		caca11
 2896	AlacatlatzalaMixtec_C	NEW	new	šāá	šāá	185	1231			durr1987preliminary		alac11
@@ -12475,7 +12475,7 @@ ID	DOCULECT	CONCEPT	SPANISH_GLOSS	VALUE	FORM	IDlist	CONCEPTICON_ID	LOAN	LOAN_SOU
 2786	SantaMariaPenolesMixtec	NINE	nine	ɨ̧́ɨ̧́	ɨ̧́ɨ̧́	165	1483			durr1987preliminary		peno11
 2786	SantaMariaPenolesMixtec	NINE	nine	ɨ̧́ɨ̧́	ɨ̧́ɨ̧́	165	1483			durr1987preliminary		peno11
 2787	SanPedroMolinosMixtec	NINE	nine	ì̧ì̧	ì̧ì̧	165	1483			durr1987preliminary		moli11
-2788	SanEstebanAtatlahucaMixtec_B	NINE	nine	ɨ̄ɨ̧̀	ɨ̄ɨ̧̀	165	1483			durr1987preliminary		atat11
+2788	SanEstebanAtatlahucaMixtec_C	NINE	nine	ɨ̄ɨ̧̀	ɨ̄ɨ̧̀	165	1483			durr1987preliminary		atat11
 2789	SanMiguelElGrandeMixtec_B	NINE	nine	ɨ̄ɨ̧̀	ɨ̄ɨ̧̀	165	1483			durr1987preliminary		gran11
 2790	SantiagoCacaloxtepecMixtec	NINE	nine	ì̧ì̧	ì̧ì̧	165	1483			durr1987preliminary		caca11
 2791	SanJeronimoXayacatlanMixtec	NINE	nine	ì̧ì̧	ì̧ì̧	165	1483			durr1987preliminary		xaya11
@@ -12695,7 +12695,7 @@ ID	DOCULECT	CONCEPT	SPANISH_GLOSS	VALUE	FORM	IDlist	CONCEPTICON_ID	LOAN	LOAN_SOU
 2917	SantaMariaPenolesMixtec	NOW OR TODAY	now	ƀìtà̧	ƀìtà̧	197	2097			durr1987preliminary		peno11
 2917	SantaMariaPenolesMixtec	NOW OR TODAY	now	ƀìtà̧	ƀìtà̧	197	2097			durr1987preliminary		peno11
 2918	SanPedroMolinosMixtec	NOW OR TODAY	now	ƀītā̧	ƀītā̧	197	2097			durr1987preliminary		moli11
-2919	SanEstebanAtatlahucaMixtec_B	NOW OR TODAY	now	ƀīNā	ƀīNā	197	2097			durr1987preliminary		atat11
+2919	SanEstebanAtatlahucaMixtec_C	NOW OR TODAY	now	ƀīNā	ƀīNā	197	2097			durr1987preliminary		atat11
 2920	SanMiguelElGrandeMixtec_B	NOW OR TODAY	now	ƀīnā	ƀīnā	197	2097			durr1987preliminary		gran11
 2921	SanMiguelElGrandeMixtec_B	NOW OR TODAY	now	ƀītā̧	ƀītā̧	197	2097			durr1987preliminary		gran11
 2922	SantiagoCacaloxtepecMixtec	NOW OR TODAY	now	ƀīčī	ƀīčī	197	2097			durr1987preliminary		caca11
@@ -12857,7 +12857,7 @@ ID	DOCULECT	CONCEPT	SPANISH_GLOSS	VALUE	FORM	IDlist	CONCEPTICON_ID	LOAN	LOAN_SOU
 2736	SantaMariaPenolesMixtec	ONE	one	ɨ̧̀ɨ̧̀	ɨ̧̀ɨ̧̀	157	1493			durr1987preliminary		peno11
 2736	SantaMariaPenolesMixtec	ONE	one	ɨ̧̀ɨ̧̀	ɨ̧̀ɨ̧̀	157	1493			durr1987preliminary		peno11
 2737	SanPedroMolinosMixtec	ONE	one	ī̧ī̧	ī̧ī̧	157	1493			durr1987preliminary		moli11
-2738	SanEstebanAtatlahucaMixtec_B	ONE	one	ī̧ī̧	ī̧ī̧	157	1493			durr1987preliminary		atat11
+2738	SanEstebanAtatlahucaMixtec_C	ONE	one	ī̧ī̧	ī̧ī̧	157	1493			durr1987preliminary		atat11
 2739	SanMiguelElGrandeMixtec_B	ONE	one	ī̧ī̧	ī̧ī̧	157	1493			durr1987preliminary		gran11
 2740	SantiagoCacaloxtepecMixtec	ONE	one	ī̧ī̧	ī̧ī̧	157	1493			durr1987preliminary		caca11
 2741	SanJeronimoXayacatlanMixtec	ONE	one	ī̧ī̧	ī̧ī̧	157	1493			durr1987preliminary		xaya11
@@ -13163,7 +13163,7 @@ ID	DOCULECT	CONCEPT	SPANISH_GLOSS	VALUE	FORM	IDlist	CONCEPTICON_ID	LOAN	LOAN_SOU
 2664	SantaMariaPenolesMixtec	PAPER	paper	tùtú	tùtú	146	648			durr1987preliminary		peno11
 2665	SanJuanCoatzospamMixtec_B	PAPER	paper	túʔtú	túʔtú	146	648			durr1987preliminary		coat11
 2666	SanPedroMolinosMixtec	PAPER	paper	tūtù	tūtù	146	648			durr1987preliminary		moli11
-2667	SanEstebanAtatlahucaMixtec_B	PAPER	paper	tūtū	tūtū	146	648			durr1987preliminary		atat11
+2667	SanEstebanAtatlahucaMixtec_C	PAPER	paper	tūtū	tūtū	146	648			durr1987preliminary		atat11
 2668	SanMiguelElGrandeMixtec_B	PAPER	paper	tūtù	tūtù	146	648			durr1987preliminary		gran11
 2669	SantiagoCacaloxtepecMixtec	PAPER	paper	tūtù	tūtù	146	648			durr1987preliminary		caca11
 2670	SanJeronimoXayacatlanMixtec	PAPER	paper	tūtū	tūtū	146	648			durr1987preliminary		xaya11
@@ -13221,7 +13221,7 @@ ID	DOCULECT	CONCEPT	SPANISH_GLOSS	VALUE	FORM	IDlist	CONCEPTICON_ID	LOAN	LOAN_SOU
 2312	SantaMariaPenolesMixtec	PATH	road	ìčì	ìčì	45	2252			durr1987preliminary		peno11
 2313	SanPedroMolinosMixtec	PATH	road	īčī	īčī	45	2252			durr1987preliminary		moli11
 2314	SantoTomasOcotepecMixtec_B	PATH	road	īčī	īčī	45	2252			durr1987preliminary		ocot11
-2315	SanEstebanAtatlahucaMixtec_B	PATH	road	īčī	īčī	45	2252			durr1987preliminary		atat11
+2315	SanEstebanAtatlahucaMixtec_C	PATH	road	īčī	īčī	45	2252			durr1987preliminary		atat11
 2316	SanMiguelElGrandeMixtec_B	PATH	road	īčī	īčī	45	2252			durr1987preliminary		gran11
 2317	MetlatonocMixtec	PATH	road	īčí	īčí	45	2252			durr1987preliminary		metl11
 2318	CahuatacheMixtec	PATH	road	yīčī	yīčī	45	2252			durr1987preliminary		cahu11
@@ -13640,7 +13640,7 @@ ID	DOCULECT	CONCEPT	SPANISH_GLOSS	VALUE	FORM	IDlist	CONCEPTICON_ID	LOAN	LOAN_SOU
 2797	SanJuanCoatzospamMixtec_B	POOR	poor	ⁿdàʔƀí	ⁿdàʔƀí	169	1674			durr1987preliminary		coat11
 2798	SanPedroMolinosMixtec	POOR	poor	ⁿdáʔƀí	ⁿdáʔƀí	169	1674			durr1987preliminary		moli11
 2799	SantoTomasOcotepecMixtec_B	POOR	poor	ⁿdáʔƀí	ⁿdáʔƀí	169	1674			durr1987preliminary		ocot11
-2800	SanEstebanAtatlahucaMixtec_B	POOR	poor	ⁿdáʔú	ⁿdáʔú	169	1674			durr1987preliminary		atat11
+2800	SanEstebanAtatlahucaMixtec_C	POOR	poor	ⁿdáʔú	ⁿdáʔú	169	1674			durr1987preliminary		atat11
 2801	SanMiguelElGrandeMixtec_B	POOR	poor	ⁿdáʔú	ⁿdáʔú	169	1674			durr1987preliminary		gran11
 2802	SanJeronimoXayacatlanMixtec	POOR	poor	ⁿdàʔƀí	ⁿdàʔƀí	169	1674			durr1987preliminary		xaya11
 2803	AyutlalosLibresMixtec_B	POOR	poor	ⁿdàʔwí	ⁿdàʔwí	169	1674			durr1987preliminary		ayut11
@@ -14668,7 +14668,7 @@ ID	DOCULECT	CONCEPT	SPANISH_GLOSS	VALUE	FORM	IDlist	CONCEPTICON_ID	LOAN	LOAN_SOU
 1685	SanAndresChicahuaxtla1890Triqui	RAT	rata	Chuutughui	chuutughui	60	1490			belmar1897ensayo		chic02
 2400	SantaMariaPenolesMixtec	RAT	rat	tɨ̀ñɨ̀	tɨ̀ñɨ̀	60	1490			durr1987preliminary		peno11
 2400	SantaMariaPenolesMixtec	RAT	rat	tɨ̀ñɨ̀	tɨ̀ñɨ̀	60	1490			durr1987preliminary		peno11
-2401	SanEstebanAtatlahucaMixtec_B	RAT	rat	Nɨ́ñɨ́	nɨ́ñɨ́	60	1490			durr1987preliminary		atat11
+2401	SanEstebanAtatlahucaMixtec_C	RAT	rat	Nɨ́ñɨ́	nɨ́ñɨ́	60	1490			durr1987preliminary		atat11
 2402	SanMiguelElGrandeMixtec_B	RAT	rat	tɨ̄ní	tɨ̄ní	60	1490			durr1987preliminary		gran11
 2403	MetlatonocMixtec	RAT	rat	tì̧ī̧	tì̧ī̧	60	1490			durr1987preliminary		metl11
 2404	SanJeronimoProgresoMixtec_B	RAT	rat	tì̧í̧	tì̧í̧	60	1490			durr1987preliminary		prog12
@@ -15098,7 +15098,7 @@ ID	DOCULECT	CONCEPT	SPANISH_GLOSS	VALUE	FORM	IDlist	CONCEPTICON_ID	LOAN	LOAN_SOU
 2608	SantaMariaPenolesMixtec	RIVER	river	žútè	žútè	139	666			durr1987preliminary		peno11
 2609	SanPedroMolinosMixtec	RIVER	river	žùtē	žùtē	139	666			durr1987preliminary		moli11
 2610	SantoTomasOcotepecMixtec_B	RIVER	river	žùtē	žùtē	139	666			durr1987preliminary		ocot11
-2611	SanEstebanAtatlahucaMixtec_B	RIVER	river	žùtē	žùtē	139	666			durr1987preliminary		atat11
+2611	SanEstebanAtatlahucaMixtec_C	RIVER	river	žùtē	žùtē	139	666			durr1987preliminary		atat11
 2612	SanMiguelElGrandeMixtec_B	RIVER	river	žùčā	žùčā	139	666			durr1987preliminary		gran11
 2613	MetlatonocMixtec	RIVER	river	ítʸā	ítʸā	139	666			durr1987preliminary		metl11
 2614	CahuatacheMixtec	RIVER	river	yǜtā	yǜtā	139	666			durr1987preliminary		cahu11
@@ -15338,7 +15338,7 @@ ID	DOCULECT	CONCEPT	SPANISH_GLOSS	VALUE	FORM	IDlist	CONCEPTICON_ID	LOAN	LOAN_SOU
 2554	SantaMariaPenolesMixtec	ROPE	rope	žòʔò	žòʔò	129	1218			durr1987preliminary		peno11
 2555	SanJuanCoatzospamMixtec_B	ROPE	rope	šòʔò	šòʔò	129	1218			durr1987preliminary		coat11
 2556	SanPedroMolinosMixtec	ROPE	rope	žōʔō	žōʔō	129	1218			durr1987preliminary		moli11
-2557	SanEstebanAtatlahucaMixtec_B	ROPE	rope	žōʔō	žōʔō	129	1218			durr1987preliminary		atat11
+2557	SanEstebanAtatlahucaMixtec_C	ROPE	rope	žōʔō	žōʔō	129	1218			durr1987preliminary		atat11
 2558	SanMiguelElGrandeMixtec_B	ROPE	rope	žōʔō	žōʔō	129	1218			durr1987preliminary		gran11
 2559	SantiagoCacaloxtepecMixtec	ROPE	rope	žōʔò	žōʔò	129	1218			durr1987preliminary		caca11
 2560	SanJeronimoXayacatlanMixtec	ROPE	rope	yōʔò	yōʔò	129	1218			durr1987preliminary		xaya11
@@ -15664,7 +15664,7 @@ ID	DOCULECT	CONCEPT	SPANISH_GLOSS	VALUE	FORM	IDlist	CONCEPTICON_ID	LOAN	LOAN_SOU
 1389	SantiagoYosonduaMixtec_A	SANDAL	sandal, sandals	ndíÑña	ndíÑña	40				farris1992syntactic		yoso11
 1520	SanJuanCopalaTriqui	SANDAL	sandal, sandals	kanx³	kanx³	40				hollenbach1992syntactic		copa11
 2273	SanJuanCoatzospamMixtec_B	SANDAL	sandal	ⁿdíʔšȩ̌	ⁿdíʔšȩ̌	40				durr1987preliminary		coat11
-2274	SanEstebanAtatlahucaMixtec_B	SANDAL	sandal	ⁿdīxȩ̀	ⁿdīxȩ̀	40				durr1987preliminary		atat11
+2274	SanEstebanAtatlahucaMixtec_C	SANDAL	sandal	ⁿdīxȩ̀	ⁿdīxȩ̀	40				durr1987preliminary		atat11
 2275	SanMiguelElGrandeMixtec_B	SANDAL	sandal	ⁿdīxà̧	ⁿdīxà̧	40				durr1987preliminary		gran11
 2276	SantiagoCacaloxtepecMixtec	SANDAL	sandal	ⁿdìsà	ⁿdìsà	40				durr1987preliminary		caca11
 2277	SanJeronimoXayacatlanMixtec	SANDAL	sandal	ⁿdìsà̧	ⁿdìsà̧	40				durr1987preliminary		xaya11
@@ -16154,7 +16154,7 @@ ID	DOCULECT	CONCEPT	SPANISH_GLOSS	VALUE	FORM	IDlist	CONCEPTICON_ID	LOAN	LOAN_SOU
 2087	SantaMariaPenolesMixtec	SISTER (OF WOMAN)	sister of woman	kúʔú	kúʔú	10				durr1987preliminary		peno11
 2088	SanPedroMolinosMixtec	SISTER (OF WOMAN)	sister of woman	kùʔù	kùʔù	10				durr1987preliminary		moli11
 2089	SantoTomasOcotepecMixtec_B	SISTER (OF WOMAN)	sister of woman	kùʔù	kùʔù	10				durr1987preliminary		ocot11
-2090	SanEstebanAtatlahucaMixtec_B	SISTER (OF WOMAN)	sister of woman	kùʔù	kùʔù	10				durr1987preliminary		atat11
+2090	SanEstebanAtatlahucaMixtec_C	SISTER (OF WOMAN)	sister of woman	kùʔù	kùʔù	10				durr1987preliminary		atat11
 2091	SanMiguelElGrandeMixtec_B	SISTER (OF WOMAN)	sister of woman	kùʔù	kùʔù	10				durr1987preliminary		gran11
 2092	SantiagoCacaloxtepecMixtec	SISTER (OF WOMAN)	sister of woman	kùʔù	kùʔù	10				durr1987preliminary		caca11
 2093	SanJeronimoXayacatlanMixtec	SISTER (OF WOMAN)	sister of woman	kùʔù	kùʔù	10				durr1987preliminary		xaya11
@@ -16599,7 +16599,7 @@ ID	DOCULECT	CONCEPT	SPANISH_GLOSS	VALUE	FORM	IDlist	CONCEPTICON_ID	LOAN	LOAN_SOU
 2833	SanJuanCoatzospamMixtec_B	SMALL (SINGULAR)	little.SG	lùʔⁿdí	lùʔⁿdí	175				durr1987preliminary		coat11
 2834	SanPedroMolinosMixtec	SMALL (SINGULAR)	little.SG	lūlī	lūlī	175				durr1987preliminary		moli11
 2835	SantoTomasOcotepecMixtec_B	SMALL (SINGULAR)	little.SG	lūlí	lūlí	175				durr1987preliminary		ocot11
-2836	SanEstebanAtatlahucaMixtec_B	SMALL (SINGULAR)	little.SG	lùlí	lùlí	175				durr1987preliminary		atat11
+2836	SanEstebanAtatlahucaMixtec_C	SMALL (SINGULAR)	little.SG	lùlí	lùlí	175				durr1987preliminary		atat11
 2837	SanMiguelElGrandeMixtec_B	SMALL (SINGULAR)	little.SG	lúlí	lúlí	175				durr1987preliminary		gran11
 2838	SantiagoCacaloxtepecMixtec	SMALL (SINGULAR)	little.SG	līlūū	līlūū	175				durr1987preliminary		caca11
 2839	AyutlalosLibresMixtec_B	SMALL (SINGULAR)	little.SG	lúlú	lúlú	175				durr1987preliminary		ayut11
@@ -17098,7 +17098,7 @@ ID	DOCULECT	CONCEPT	SPANISH_GLOSS	VALUE	FORM	IDlist	CONCEPTICON_ID	LOAN	LOAN_SOU
 2380	SantaMariaPenolesMixtec	SNAKE	snake	kóó	kóó	53	730			durr1987preliminary		peno11
 2381	SanJuanCoatzospamMixtec_B	SNAKE	snake	kóǒ	kóǒ	53	730			durr1987preliminary		coat11
 2382	SanPedroMolinosMixtec	SNAKE	snake	kòò	kòò	53	730			durr1987preliminary		moli11
-2383	SanEstebanAtatlahucaMixtec_B	SNAKE	snake	kōò	kōò	53	730			durr1987preliminary		atat11
+2383	SanEstebanAtatlahucaMixtec_C	SNAKE	snake	kōò	kōò	53	730			durr1987preliminary		atat11
 2384	SanMiguelElGrandeMixtec_B	SNAKE	snake	kōò	kōò	53	730			durr1987preliminary		gran11
 2385	SantiagoCacaloxtepecMixtec	SNAKE	snake	kòò	kòò	53	730			durr1987preliminary		caca11
 2386	SanJeronimoXayacatlanMixtec	SNAKE	snake	kòò	kòò	53	730			durr1987preliminary		xaya11
@@ -17237,7 +17237,7 @@ ID	DOCULECT	CONCEPT	SPANISH_GLOSS	VALUE	FORM	IDlist	CONCEPTICON_ID	LOAN	LOAN_SOU
 2577	SantaMariaPenolesMixtec	SOAP	soap	námá	námá	132	788			durr1987preliminary		peno11
 2577	SantaMariaPenolesMixtec	SOAP	soap	námá	námá	132	788			durr1987preliminary		peno11
 2578	SanPedroMolinosMixtec	SOAP	soap	nàmà	nàmà	132	788			durr1987preliminary		moli11
-2579	SanEstebanAtatlahucaMixtec_B	SOAP	soap	nāmà	nāmà	132	788			durr1987preliminary		atat11
+2579	SanEstebanAtatlahucaMixtec_C	SOAP	soap	nāmà	nāmà	132	788			durr1987preliminary		atat11
 2580	SanMiguelElGrandeMixtec_B	SOAP	soap	nāmà	nāmà	132	788			durr1987preliminary		gran11
 2581	SantiagoCacaloxtepecMixtec	SOAP	soap	nàmà	nàmà-	132	788			durr1987preliminary		caca11
 2582	AyutlalosLibresMixtec_B	SOAP	soap	nāmàʔ	nāmàʔ	132	788			durr1987preliminary		ayut11
@@ -17449,7 +17449,7 @@ ID	DOCULECT	CONCEPT	SPANISH_GLOSS	VALUE	FORM	IDlist	CONCEPTICON_ID	LOAN	LOAN_SOU
 2627	SantaMariaPenolesMixtec	STONE OR ROCK	stone	žúú	žúú	143	2125			durr1987preliminary		peno11
 2628	SanJuanCoatzospamMixtec_B	STONE OR ROCK	stone	šúǔ	šúǔ	143	2125			durr1987preliminary		coat11
 2629	SantoTomasOcotepecMixtec_B	STONE OR ROCK	stone	žùù	žùù	143	2125			durr1987preliminary		ocot11
-2630	SanEstebanAtatlahucaMixtec_B	STONE OR ROCK	stone	žūù	žūù	143	2125			durr1987preliminary		atat11
+2630	SanEstebanAtatlahucaMixtec_C	STONE OR ROCK	stone	žūù	žūù	143	2125			durr1987preliminary		atat11
 2631	SanMiguelElGrandeMixtec_B	STONE OR ROCK	stone	žūù	žūù	143	2125			durr1987preliminary		gran11
 2632	SantiagoCacaloxtepecMixtec	STONE OR ROCK	stone	žùù	žùù	143	2125			durr1987preliminary		caca11
 2633	SanJeronimoXayacatlanMixtec	STONE OR ROCK	stone	yùù	yùù-	143	2125			durr1987preliminary		xaya11
@@ -17784,7 +17784,7 @@ ID	DOCULECT	CONCEPT	SPANISH_GLOSS	VALUE	FORM	IDlist	CONCEPTICON_ID	LOAN	LOAN_SOU
 2507	SanJuanDiuxiMixtec_B	SUGAR CANE	cane	ⁿdó'ó	ⁿdóó	102	146			durr1987preliminary		diux11
 2508	SantaMariaPenolesMixtec	SUGAR CANE	cane	tù-žòò	tù-žòò	102	146			durr1987preliminary		peno11
 2508	SantaMariaPenolesMixtec	SUGAR CANE	cane	tù-žòò	tù-žòò	102	146			durr1987preliminary		peno11
-2509	SanEstebanAtatlahucaMixtec_B	SUGAR CANE	cane	ⁿdōò	ⁿdōò	102	146			durr1987preliminary		atat11
+2509	SanEstebanAtatlahucaMixtec_C	SUGAR CANE	cane	ⁿdōò	ⁿdōò	102	146			durr1987preliminary		atat11
 2510	SanMiguelElGrandeMixtec_B	SUGAR CANE	cane	ⁿdōò	ⁿdōò	102	146			durr1987preliminary		gran11
 2511	SantiagoCacaloxtepecMixtec	SUGAR CANE	cane	ⁿdòò	ⁿdòò	102	146			durr1987preliminary		caca11
 2512	CahuatacheMixtec	SUGAR CANE	cane	ⁿdòò	ⁿdòò	102	146			durr1987preliminary		cahu11
@@ -17947,7 +17947,7 @@ ID	DOCULECT	CONCEPT	SPANISH_GLOSS	VALUE	FORM	IDlist	CONCEPTICON_ID	LOAN	LOAN_SOU
 2880	SantaMariaPenolesMixtec	SWEET	sweet	sá-ƀìdí	ƀìdí	180	717			durr1987preliminary		peno11
 2881	SanJuanCoatzospamMixtec_B	SWEET	sweet	ƀí̧dǐ̧	ƀí̧dǐ̧	180	717			durr1987preliminary		coat11
 2882	SanPedroMolinosMixtec	SWEET	sweet	ƀìšì	ƀìšì	180	717			durr1987preliminary		moli11
-2883	SanEstebanAtatlahucaMixtec_B	SWEET	sweet	ƀīšì	ƀīšì	180	717			durr1987preliminary		atat11
+2883	SanEstebanAtatlahucaMixtec_C	SWEET	sweet	ƀīšì	ƀīšì	180	717			durr1987preliminary		atat11
 2884	SanMiguelElGrandeMixtec_B	SWEET	sweet	ƀīšì	ƀīšì	180	717			durr1987preliminary		gran11
 2885	SantiagoCacaloxtepecMixtec	SWEET	sweet	ƀìđì	ƀìđì	180	717			durr1987preliminary		caca11
 2886	SanJeronimoXayacatlanMixtec	SWEET	sweet	ƀìđì	ƀìđì	180	717			durr1987preliminary		xaya11
@@ -18837,7 +18837,7 @@ ID	DOCULECT	CONCEPT	SPANISH_GLOSS	VALUE	FORM	IDlist	CONCEPTICON_ID	LOAN	LOAN_SOU
 2546	SantaMariaPenolesMixtec	THREAD	thread	žúʔá	žúʔá	127	1161			durr1987preliminary		peno11
 2546	SantaMariaPenolesMixtec	THREAD	thread	žúʔá	žúʔá	127	1161			durr1987preliminary		peno11
 2547	SanJuanCoatzospamMixtec_B	THREAD	thread	šúʔƀé	šúʔƀé	127	1161			durr1987preliminary		coat11
-2548	SanEstebanAtatlahucaMixtec_B	THREAD	thread	žūʔƀà	žūʔƀà	127	1161			durr1987preliminary		atat11
+2548	SanEstebanAtatlahucaMixtec_C	THREAD	thread	žūʔƀà	žūʔƀà	127	1161			durr1987preliminary		atat11
 2549	SanMiguelElGrandeMixtec_B	THREAD	thread	žūʔà	žūʔà	127	1161			durr1987preliminary		gran11
 2550	SantiagoCacaloxtepecMixtec	THREAD	thread	žùʔà	žùʔà	127	1161			durr1987preliminary		caca11
 2551	SanJeronimoXayacatlanMixtec	THREAD	thread	yùʔà	yùʔà	127	1161			durr1987preliminary		xaya11
@@ -19286,7 +19286,7 @@ ID	DOCULECT	CONCEPT	SPANISH_GLOSS	VALUE	FORM	IDlist	CONCEPTICON_ID	LOAN	LOAN_SOU
 2163	SantaMariaPenolesMixtec	TONGUE	tongue	žâá	žâá	21	1205			durr1987preliminary		peno11
 2163	SantaMariaPenolesMixtec	TONGUE	tongue	žâá	žâá	21	1205			durr1987preliminary		peno11
 2164	SantoTomasOcotepecMixtec_B	TONGUE	tongue	žáá	žáá	21	1205			durr1987preliminary		ocot11
-2165	SanEstebanAtatlahucaMixtec_B	TONGUE	tongue	žáá	žáá	21	1205			durr1987preliminary		atat11
+2165	SanEstebanAtatlahucaMixtec_C	TONGUE	tongue	žáá	žáá	21	1205			durr1987preliminary		atat11
 2166	SanMiguelElGrandeMixtec_B	TONGUE	tongue	žáā	žáā	21	1205			durr1987preliminary		gran11
 2167	SantiagoCacaloxtepecMixtec	TONGUE	tongue	žáà	žáà	21	1205			durr1987preliminary		caca11
 2168	SanJeronimoXayacatlanMixtec	TONGUE	tongue	yàá	yàá	21	1205			durr1987preliminary		xaya11
@@ -19328,7 +19328,7 @@ ID	DOCULECT	CONCEPT	SPANISH_GLOSS	VALUE	FORM	IDlist	CONCEPTICON_ID	LOAN	LOAN_SOU
 2174	SantaMariaPenolesMixtec	TOOTH	tooth	nú̧ʔù̧	nú̧ʔù̧	22	1380			durr1987preliminary		peno11
 2175	SanJuanCoatzospamMixtec_B	TOOTH	tooth	nù̧ʔú̧	nù̧ʔú̧	22	1380			durr1987preliminary		coat11
 2176	SanPedroMolinosMixtec	TOOTH	tooth	nù̧ʔū̧	nù̧ʔū̧	22	1380			durr1987preliminary		moli11
-2177	SanEstebanAtatlahucaMixtec_B	TOOTH	tooth	Nù̧ʔū̧	Nù̧ʔū̧	22	1380			durr1987preliminary		atat11
+2177	SanEstebanAtatlahucaMixtec_C	TOOTH	tooth	Nù̧ʔū̧	Nù̧ʔū̧	22	1380			durr1987preliminary		atat11
 2178	SanMiguelElGrandeMixtec_B	TOOTH	tooth	nù̧ʔū̧	nù̧ʔū̧	22	1380			durr1987preliminary		gran11
 2179	SantiagoCacaloxtepecMixtec	TOOTH	tooth	nò̧ʔō̧	nò̧ʔō̧	22	1380			durr1987preliminary		caca11
 2180	CahuatacheMixtec	TOOTH	tooth	nò̧ʔō̧	nò̧ʔō̧	22	1380			durr1987preliminary		cahu11
@@ -19464,7 +19464,7 @@ ID	DOCULECT	CONCEPT	SPANISH_GLOSS	VALUE	FORM	IDlist	CONCEPTICON_ID	LOAN	LOAN_SOU
 2472	SanJuanCoatzospamMixtec_B	TORTILLA	tortilla	íʔtǎ	íʔtǎ	92				durr1987preliminary		coat11
 2473	SanPedroMolinosMixtec	TORTILLA	tortilla	stàà	stàà	92				durr1987preliminary		moli11
 2474	SantoTomasOcotepecMixtec_B	TORTILLA	tortilla	šìtà	šìtà	92				durr1987preliminary		ocot11
-2475	SanEstebanAtatlahucaMixtec_B	TORTILLA	tortilla	stāà	stāà	92				durr1987preliminary		atat11
+2475	SanEstebanAtatlahucaMixtec_C	TORTILLA	tortilla	stāà	stāà	92				durr1987preliminary		atat11
 2476	SanMiguelElGrandeMixtec_B	TORTILLA	tortilla	stāà	stāà	92				durr1987preliminary		gran11
 2477	SantiagoCacaloxtepecMixtec	TORTILLA	tortilla	đìtà	đìtà-	92				durr1987preliminary		caca11
 2478	SanJeronimoXayacatlanMixtec	TORTILLA	tortilla	đìtà	đìtà-	92				durr1987preliminary		xaya11
@@ -19627,7 +19627,6 @@ ID	DOCULECT	CONCEPT	SPANISH_GLOSS	VALUE	FORM	IDlist	CONCEPTICON_ID	LOAN	LOAN_SOU
 21304	ChalcatongoHidalgoMixtec_A	TORTILLA	tortilla	staà	staà	92				macaulay1996grammar		chal11
 21488	Proto-Mixtec	TORTILLA	tortilla	sìtàʔ	sìtàʔ	92				durr1987preliminary		prom01
 21646	SanMartinItunyosoTriqui	TORTILLA	tortilla	cchra³	cchra³	92				ChristianDiCanio		itun12
-21682	SanMartinItunyosoTriqui	TORTILLA BASKET	tenate	yo⁴	yo⁴	125				ChristianDiCanio		itun12
 103	AbasoloValleMixtec	TORTILLA BASKET	tenate	nto'ó	nto'ó		1539			galindo-sanchez2009vocabulario		abas11
 288	YoloxochitlMixtec	TORTILLA BASKET	tenate	ndo'¹o⁴	ndo'¹o⁴		1539			amith2020yoloxochitl		yolo12
 3546	TlahuapaMixtec	TORTILLA BASKET	tenate	ndò'ó	ndò'ó		1539			oxnard2020		tlah11
@@ -19648,6 +19647,7 @@ ID	DOCULECT	CONCEPT	SPANISH_GLOSS	VALUE	FORM	IDlist	CONCEPTICON_ID	LOAN	LOAN_SOU
 20402	SantoDomingoHuendioMixtec	TORTILLA BASKET	tenate	ndo'o	ndo'o		1539			becerra-roldan2015un-estudio		huen11
 20529	SanPedroYosonamaMixtec	TORTILLA BASKET	tenate	ndo'o	ndo'o		1539			gittlen2016gramatica		yoso14
 20912	SanAndresYutatioMixtec	TORTILLA BASKET	tenate	ndo'o̠	ndo'o̠		1539			williams2017diccionario		yuta13
+21682	SanMartinItunyosoTriqui	TORTILLA BASKET	tenate	yo⁴	yo⁴	125				ChristianDiCanio		itun12
 207	YoloxochitlMixtec	TORTILLA CLOTH	servilleta	sa'³ma⁴	sa'³ma⁴	39				amith2020yoloxochitl		yolo12
 770	AyutlalosLibresMixtec_A	TORTILLA CLOTH	tortilla cloth	sahmāh	sahmāh	39				hills1990syntactic		ayut11
 33	AbasoloValleMixtec	TOWN OR VILLAGE	pueblo	ñuu	ñuu	43	3609			galindo-sanchez2009vocabulario		abas11
@@ -19669,7 +19669,7 @@ ID	DOCULECT	CONCEPT	SPANISH_GLOSS	VALUE	FORM	IDlist	CONCEPTICON_ID	LOAN	LOAN_SOU
 2283	SanJuanCoatzospamMixtec_B	TOWN OR VILLAGE	town	ñù̧ú̧	ñù̧ú̧	43	3609			durr1987preliminary		coat11
 2284	SanPedroMolinosMixtec	TOWN OR VILLAGE	town	ñùù	ñùù	43	3609			durr1987preliminary		moli11
 2285	SantoTomasOcotepecMixtec_B	TOWN OR VILLAGE	town	ñūù	ñūù	43	3609			durr1987preliminary		ocot11
-2286	SanEstebanAtatlahucaMixtec_B	TOWN OR VILLAGE	town	ñūū	ñūū	43	3609			durr1987preliminary		atat11
+2286	SanEstebanAtatlahucaMixtec_C	TOWN OR VILLAGE	town	ñūū	ñūū	43	3609			durr1987preliminary		atat11
 2287	SanMiguelElGrandeMixtec_B	TOWN OR VILLAGE	town	ñūù	ñūù	43	3609			durr1987preliminary		gran11
 2288	SantiagoCacaloxtepecMixtec	TOWN OR VILLAGE	town	ñō̧ò̧	ñō̧ò̧	43	3609			durr1987preliminary		caca11
 2289	AyutlalosLibresMixtec_B	TOWN OR VILLAGE	town	ñùù	ñùù	43	3609			durr1987preliminary		ayut11
@@ -19846,7 +19846,7 @@ ID	DOCULECT	CONCEPT	SPANISH_GLOSS	VALUE	FORM	IDlist	CONCEPTICON_ID	LOAN	LOAN_SOU
 2428	SantaMariaPenolesMixtec	TREE	tree	žùtù̧	žùtù̧	80	906			durr1987preliminary		peno11
 2429	SanPedroMolinosMixtec	TREE	tree	žūtū̧	žūtū̧	80	906			durr1987preliminary		moli11
 2430	SantoTomasOcotepecMixtec_B	TREE	tree	ñū̧tū̧	ñū̧tū̧	80	906			durr1987preliminary		ocot11
-2431	SanEstebanAtatlahucaMixtec_B	TREE	tree	žūNū	žūNū	80	906			durr1987preliminary		atat11
+2431	SanEstebanAtatlahucaMixtec_C	TREE	tree	žūNū	žūNū	80	906			durr1987preliminary		atat11
 2432	SanMiguelElGrandeMixtec_B	TREE	tree	žūnū	žūnū	80	906			durr1987preliminary		gran11
 2433	SantiagoCacaloxtepecMixtec	TREE	tree	žītò̧	žītò̧	80	906			durr1987preliminary		caca11
 2434	AyutlalosLibresMixtec_B	TREE	tree	ìtú̧ʔ	ìtú̧ʔ	80	906			durr1987preliminary		ayut11
@@ -20161,7 +20161,7 @@ ID	DOCULECT	CONCEPT	SPANISH_GLOSS	VALUE	FORM	IDlist	CONCEPTICON_ID	LOAN	LOAN_SOU
 2750	SantaMariaPenolesMixtec	TWO	two	úú	úú	158	1498			durr1987preliminary		peno11
 2751	SanJuanCoatzospamMixtec_B	TWO	two	úƀǐ	úƀǐ	158	1498			durr1987preliminary		coat11
 2752	SanPedroMolinosMixtec	TWO	two	ùù	ùù	158	1498			durr1987preliminary		moli11
-2753	SanEstebanAtatlahucaMixtec_B	TWO	two	ūù	ūù	158	1498			durr1987preliminary		atat11
+2753	SanEstebanAtatlahucaMixtec_C	TWO	two	ūù	ūù	158	1498			durr1987preliminary		atat11
 2754	SanMiguelElGrandeMixtec_B	TWO	two	ūù	ūù	158	1498			durr1987preliminary		gran11
 2755	SanJeronimoXayacatlanMixtec	TWO	two	ùì	ùì	158	1498			durr1987preliminary		xaya11
 2756	AyutlalosLibresMixtec_B	TWO	two	ūwì	ūwì	158	1498			durr1987preliminary		ayut11
@@ -20470,7 +20470,7 @@ ID	DOCULECT	CONCEPT	SPANISH_GLOSS	VALUE	FORM	IDlist	CONCEPTICON_ID	LOAN	LOAN_SOU
 2113	SanJuanCoatzospamMixtec_B	UNCLE	uncle	đító	đító	12	1327			durr1987preliminary		coat11
 2114	SanPedroMolinosMixtec	UNCLE	uncle	stōò	stōò	12	1327			durr1987preliminary		moli11
 2115	SantoTomasOcotepecMixtec_B	UNCLE	uncle	šītò	šītò	12	1327			durr1987preliminary		ocot11
-2116	SanEstebanAtatlahucaMixtec_B	UNCLE	uncle	stōō	stōō	12	1327			durr1987preliminary		atat11
+2116	SanEstebanAtatlahucaMixtec_C	UNCLE	uncle	stōō	stōō	12	1327			durr1987preliminary		atat11
 2117	SanMiguelElGrandeMixtec_B	UNCLE	uncle	stōò	stōò	12	1327			durr1987preliminary		gran11
 2118	SantiagoCacaloxtepecMixtec	UNCLE	uncle	đītò	đītò	12	1327			durr1987preliminary		caca11
 2119	SanJeronimoXayacatlanMixtec	UNCLE	uncle	đītò	đītò	12	1327			durr1987preliminary		xaya11
@@ -20588,7 +20588,6 @@ ID	DOCULECT	CONCEPT	SPANISH_GLOSS	VALUE	FORM	IDlist	CONCEPTICON_ID	LOAN	LOAN_SOU
 21041	SanAndresChicahuaxtlaTriqui_B	URINE	orina	ne³² # ri¹ˀi¹	ne³²-ri¹ˀi¹	38	1142			hernandez-mendoza2020vocabulario		chic12
 21248	ChalcatongoHidalgoMixtec_A	URINE	urine	tíšešé	tí-šešé	38	1142			macaulay1996grammar		chal11
 21587	SanMartinItunyosoTriqui	URINE	orina	nne³² ri¹hi¹	nne³²-ri¹hi¹	38	1142			ChristianDiCanio		itun12
-9899	SantaMariaYucuhitiMixtec	VULTURE	zopilote grande	čìī-žāʔā	čìī-žāʔā	55	1185			josserand1983mixtec		yucu12
 234	YoloxochitlMixtec	VULTURE	zopilote	pi³lo⁴	pi³lo⁴	67	1185	yes	Nahuatl	amith2020yoloxochitl		yolo12
 1184	SanJuanDiuxiMixtec_A	VULTURE	turkey vulture	chó'kó	chókó	67	1185			kuiper1991syntactic		diux11
 1691	SanAndresChicahuaxtla1890Triqui	VULTURE	zopilote	Chaatru	chaatru	67	1185			belmar1897ensayo		chic02
@@ -20605,6 +20604,7 @@ ID	DOCULECT	CONCEPT	SPANISH_GLOSS	VALUE	FORM	IDlist	CONCEPTICON_ID	LOAN	LOAN_SOU
 5266	SantaMariaPapaloCuicatec	VULTURE	zopilote	s'i³cu³	s'i³cu³	67	1185			anderson1983diccionario		papa11
 5971	SanAndresChicahuaxtlaTriqui_A	VULTURE	zopilote	xachru¹	xachru¹	67	1185			good1978diccionario		chic12
 6181	ElJicaralMixtec	VULTURE	zopilote	lanko	lanko	67	1185			Emily John-Martin		jica13
+9899	SantaMariaYucuhitiMixtec	VULTURE	zopilote grande	čìī-žāʔā	čìī-žāʔā	55	1185			josserand1983mixtec		yucu12
 20164	SanMartinDuraznosMixtec_A	VULTURE	zopilote	lònchi	lònchi	67	1185	yes	Nahuatl (not sure)	hernandez2020san-martin		dura11
 20649	YucunanyMixtec	VULTURE	vulture	lóchí	lóchí	67	1185	yes	Nahuatl	salazar2020yucunani		yucu17
 20851	SanAndresYutatioMixtec	VULTURE	zopilote	ti̠yo̠kó	ti̠-yo̠kó	67	1185			williams2017diccionario		yuta13
@@ -20628,7 +20628,7 @@ ID	DOCULECT	CONCEPT	SPANISH_GLOSS	VALUE	FORM	IDlist	CONCEPTICON_ID	LOAN	LOAN_SOU
 2600	SanJuanCoatzospamMixtec_B	WATER	water	ⁿdùʔtè	ⁿdùʔtè	137	948			durr1987preliminary		coat11
 2601	SanPedroMolinosMixtec	WATER	water	ⁿdūtē	ⁿdūtē	137	948			durr1987preliminary		moli11
 2602	SantoTomasOcotepecMixtec_B	WATER	water	ⁿdūtē	ⁿdūtē	137	948			durr1987preliminary		ocot11
-2603	SanEstebanAtatlahucaMixtec_B	WATER	water	ⁿdūtē	ⁿdūtē	137	948			durr1987preliminary		atat11
+2603	SanEstebanAtatlahucaMixtec_C	WATER	water	ⁿdūtē	ⁿdūtē	137	948			durr1987preliminary		atat11
 2604	SanMiguelElGrandeMixtec_B	WATER	water	ⁿdūčā	ⁿdūčā	137	948			durr1987preliminary		gran11
 2605	AyutlalosLibresMixtec_B	WATER	water	ti kʷii	ti-kʷii	137	948			durr1987preliminary		ayut11
 2606	CahuatacheMixtec	WATER	water	ta kʷiyi	ta-kʷiyi	137	948			durr1987preliminary		cahu11
@@ -20966,7 +20966,7 @@ ID	DOCULECT	CONCEPT	SPANISH_GLOSS	VALUE	FORM	IDlist	CONCEPTICON_ID	LOAN	LOAN_SOU
 2728	SantaMariaPenolesMixtec	WHITE	white	kʷîší̧	kʷîší̧	156	1335			durr1987preliminary		peno11
 2729	SanJuanCoatzospamMixtec_B	WHITE	white	kʷìʔší̧	kʷìʔší̧	156	1335			durr1987preliminary		coat11
 2730	SantoTomasOcotepecMixtec_B	WHITE	white	kʷīxí̧	kʷīxí̧	156	1335			durr1987preliminary		ocot11
-2731	SanEstebanAtatlahucaMixtec_B	WHITE	white	kʷíxí̧	kʷíxí̧	156	1335			durr1987preliminary		atat11
+2731	SanEstebanAtatlahucaMixtec_C	WHITE	white	kʷíxí̧	kʷíxí̧	156	1335			durr1987preliminary		atat11
 2732	SanMiguelElGrandeMixtec_B	WHITE	white	kʷíxí̧	kʷíxí̧	156	1335			durr1987preliminary		gran11
 2733	SantiagoCacaloxtepecMixtec	WHITE	white	kúší	kúší	156	1335			durr1987preliminary		caca11
 2734	SanJuanMixtepecMixtec	WHITE	white	kʷíȼì	kʷíȼì	156	1335			durr1987preliminary		mixt11
@@ -21155,7 +21155,7 @@ ID	DOCULECT	CONCEPT	SPANISH_GLOSS	VALUE	FORM	IDlist	CONCEPTICON_ID	LOAN	LOAN_SOU
 1648	SanAndresChicahuaxtla1890Triqui	WOMAN	mujer	Tsichunaha	tsichunaha	14	962			belmar1897ensayo		chic02
 1840	SanPedroySanPabloTeposcolula1600Mixtec	WOMAN	mujer	ñahadzehe	ñaha-dzehe	14	962			alvarado1593vocabulario		tepo01
 2136	SanPedroMolinosMixtec	WOMAN	woman	ñā̧ʔā̧	ñā̧ʔā̧	14	962			durr1987preliminary		moli11
-2137	SanEstebanAtatlahucaMixtec_B	WOMAN	woman	ñā̧ʔā̧	ñā̧ʔā̧	14	962			durr1987preliminary		atat11
+2137	SanEstebanAtatlahucaMixtec_C	WOMAN	woman	ñā̧ʔā̧	ñā̧ʔā̧	14	962			durr1987preliminary		atat11
 2138	SanMiguelElGrandeMixtec_B	WOMAN	woman	ñā̧ʔā̧	ñā̧ʔā̧	14	962			durr1987preliminary		gran11
 2139	SanJeronimoXayacatlanMixtec	WOMAN	woman	ñā̧ʔà̧	ñā̧ʔà̧	14	962			durr1987preliminary		xaya11
 2140	CahuatacheMixtec	WOMAN	woman	ñāʔà	ñāʔà	14	962			durr1987preliminary		cahu11
@@ -21201,7 +21201,7 @@ ID	DOCULECT	CONCEPT	SPANISH_GLOSS	VALUE	FORM	IDlist	CONCEPTICON_ID	LOAN	LOAN_SOU
 2953	SantaMariaPenolesMixtec	WORD	word	túʔù̧	túʔù̧	205	1599			durr1987preliminary		peno11
 2953	SantaMariaPenolesMixtec	WORD	word	túʔù̧	túʔù̧	205	1599			durr1987preliminary		peno11
 2954	SanJuanCoatzospamMixtec_B	WORD	word	tù̧ʔú̧	tù̧ʔú̧	205	1599			durr1987preliminary		coat11
-2955	SanEstebanAtatlahucaMixtec_B	WORD	word	Nù̧ʔū̧	nù̧ʔū̧	205	1599			durr1987preliminary		atat11
+2955	SanEstebanAtatlahucaMixtec_C	WORD	word	Nù̧ʔū̧	nù̧ʔū̧	205	1599			durr1987preliminary		atat11
 2956	SanMiguelElGrandeMixtec_B	WORD	word	tù̧ʔū̧	tù̧ʔū̧	205	1599			durr1987preliminary		gran11
 2957	AyutlalosLibresMixtec_B	WORD	word	tù̧ʔù̧	tù̧ʔù̧	205	1599			durr1987preliminary		ayut11
 2958	MetlatonocMixtec	WORD	word	tù̧ʔū̧	tù̧ʔū̧	205	1599			durr1987preliminary		metl11
@@ -21374,7 +21374,7 @@ ID	DOCULECT	CONCEPT	SPANISH_GLOSS	VALUE	FORM	IDlist	CONCEPTICON_ID	LOAN	LOAN_SOU
 2941	SanJuanCoatzospamMixtec_B	WORKING OR WORK	work	ȼìñù	ȼìñù	204	2281			durr1987preliminary		coat11
 2942	SanPedroMolinosMixtec	WORKING OR WORK	work	tī̧ñū̧	tī̧ñū̧	204	2281			durr1987preliminary		moli11
 2943	SantoTomasOcotepecMixtec_B	WORKING OR WORK	work	tīñū	tīñū	204	2281			durr1987preliminary		ocot11
-2944	SanEstebanAtatlahucaMixtec_B	WORKING OR WORK	work	Nīñū	nīñū	204	2281			durr1987preliminary		atat11
+2944	SanEstebanAtatlahucaMixtec_C	WORKING OR WORK	work	Nīñū	nīñū	204	2281			durr1987preliminary		atat11
 2945	SanMiguelElGrandeMixtec_B	WORKING OR WORK	work	tīñū	tīñū	204	2281			durr1987preliminary		gran11
 2946	SantiagoCacaloxtepecMixtec	WORKING OR WORK	work	čō̧ō̧	čō̧ō̧	204	2281			durr1987preliminary		caca11
 2947	SanJeronimoXayacatlanMixtec	WORKING OR WORK	work	čū̧ū̧	čū̧ū̧	204	2281			durr1987preliminary		xaya11
@@ -21725,7 +21725,7 @@ ID	DOCULECT	CONCEPT	SPANISH_GLOSS	VALUE	FORM	IDlist	CONCEPTICON_ID	LOAN	LOAN_SOU
 2707	SantaMariaPenolesMixtec	YELLOW	yellow	kʷâ̧á̧	kʷâ̧á̧	154	1424			durr1987preliminary		peno11
 2707	SantaMariaPenolesMixtec	YELLOW	yellow	kʷâ̧á̧	kʷâ̧á̧	154	1424			durr1987preliminary		peno11
 2708	SanJuanCoatzospamMixtec_B	YELLOW	yellow	kʷà̧á̧	kʷà̧á̧	154	1424			durr1987preliminary		coat11
-2709	SanEstebanAtatlahucaMixtec_B	YELLOW	yellow	kʷá̧á̧	kʷá̧á̧	154	1424			durr1987preliminary		atat11
+2709	SanEstebanAtatlahucaMixtec_C	YELLOW	yellow	kʷá̧á̧	kʷá̧á̧	154	1424			durr1987preliminary		atat11
 2710	SanMiguelElGrandeMixtec_B	YELLOW	yellow	kʷá̧á̧	kʷá̧á̧	154	1424			durr1987preliminary		gran11
 2711	SantiagoCacaloxtepecMixtec	YELLOW	yellow	kʷà̧á̧	kʷà̧á̧	154	1424			durr1987preliminary		caca11
 2712	SanJeronimoXayacatlanMixtec	YELLOW	yellow	kʷà̧á̧	kʷà̧á̧	154	1424			durr1987preliminary		xaya11
@@ -21899,7 +21899,7 @@ ID	DOCULECT	CONCEPT	SPANISH_GLOSS	VALUE	FORM	IDlist	CONCEPTICON_ID	LOAN	LOAN_SOU
 2901	SantaMariaPenolesMixtec	YESTERDAY	yesterday	ìkù	ìkù	195	1174			durr1987preliminary		peno11
 2902	SanPedroMolinosMixtec	YESTERDAY	yesterday	īkū	īkū	195	1174			durr1987preliminary		moli11
 2903	SantoTomasOcotepecMixtec_B	YESTERDAY	yesterday	īkū	īkū	195	1174			durr1987preliminary		ocot11
-2904	SanEstebanAtatlahucaMixtec_B	YESTERDAY	yesterday	īkū	īkū	195	1174			durr1987preliminary		atat11
+2904	SanEstebanAtatlahucaMixtec_C	YESTERDAY	yesterday	īkū	īkū	195	1174			durr1987preliminary		atat11
 2905	SanMiguelElGrandeMixtec_B	YESTERDAY	yesterday	īkū	īkū	195	1174			durr1987preliminary		gran11
 2906	SanJeronimoXayacatlanMixtec	YESTERDAY	yesterday	īkū	īkū	195	1174			durr1987preliminary		xaya11
 2907	SantaMariaJicaltepecMixtec	YESTERDAY	yesterday	ìkù	ìkù	195	1174			durr1987preliminary		jica11
