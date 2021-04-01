@@ -1,156 +1,156 @@
-ID,Name,Glottocode,Glottolog_Name,ISO639P3code,Macroarea,Latitude,Longitude,Family,Location,SubGroup,Number
-AbasoloValleMixtec,AbasoloValleMixtec,mixt1425,,mix,,17.78287,-95.54381,,Abasolo del Valle,Mixtec,1
-SantaMariaAcatepecMixtec,SantaMariaAcatepecMixtec,sant1441,,mtu,,16.76337,-97.98945,,Santa María Acatepec,Mixtec,2
-SanMiguelAchiutlaMixtec,SanMiguelAchiutlaMixtec,sanm1292,,xtm,,17.3065,-97.48886,,San Miguel Achiutla,Mixtec,3
-SantaCatarinaAdequezMixtec,SantaCatarinaAdequezMixtec,,,,,17.43688,-97.14695,,Santa Catarina Adequez,Mixtec,4
-SanMiguelAhuehuetitlanMixtec,SanMiguelAhuehuetitlanMixtec,sila1250,,mks,,17.67151,-98.32045,,San Miguel Ahuehuetitlán,Mixtec,5
-AlacatlatzalaMixtec_A,AlacatlatzalaMixtec_A,alac1244,,mim,,17.25,-98.58,,Alacatlatzala,Mixtec,6
-AlacatlatzalaMixtec_B,AlacatlatzalaMixtec_B,alac1244,,mim,,17.25,-98.58,,Alacatlatzala,Mixtec,7
-AlacatlatzalaMixtec_C,AlacatlatzalaMixtec_C,alac1244,,mim,,17.25,-98.58,,Alacatlatzala,Mixtec,8
-AlcozaucaGuerreroMixtec,AlcozaucaGuerreroMixtec,alco1235,,xta,,17.3687,-98.3969,,Alcozáuca de Guerrero,Mixtec,9
-SanMiguelAmatitlanMixtec,SanMiguelAmatitlanMixtec,,,,,17.89179,-98.02529,,San Miguel Amatitlán,Mixtec,10
-SantaMariaApazcoMixtec,SantaMariaApazcoMixtec,apas1235,,mip,,17.6143,-97.0657,,Santa María Apazco,Mixtec,13
-SantiagoApoalaMixtec,SantiagoApoalaMixtec,apas1235,,mip,,17.6143,-97.0657,,Santiago Apoala,Mixtec,14
-SanEstebanAtatlahucaMixtec_A,SanEstebanAtatlahucaMixtec_A,atat1238,,mib,,17.07133,-97.67753,,San Esteban Atatlahuca,Mixtec,16
-SanEstebanAtatlahucaMixtec_B,SanEstebanAtatlahucaMixtec_B,atat1238,,mib,,17.07133,-97.67753,,San Esteban Atatlahuca,Mixtec,17
-SanAgustinAtenangoMixtec,SanAgustinAtenangoMixtec,,,,,17.61188,-98.01527,,San Agustín Atenango,Mixtec,18
-SanPedroAtoyacMixtec,SanPedroAtoyacMixtec,,,,,16.48865,-97.9864,,San Pedro Atoyac,Mixtec,20
-AyutlalosLibresMixtec_A,AyutlalosLibresMixtec_A,ayut1236,,miy,,16.8833,-98.9916,,Ayutla de los Libres,Mixtec,21
-AyutlalosLibresMixtec_B,AyutlalosLibresMixtec_B,ayut1236,,miy,,16.8833,-98.9916,,Ayutla de los Libres,Mixtec,22
-LaBateaMixtec,LaBateaMixtec,mixt1425,,mix,,17.35948,-97.83233,,La Batea,Mixtec,23
-SantaCruzBravoMixtec,SantaCruzBravoMixtec,,,,,17.58093,-98.22383,,Santa Cruz de Bravo,Mixtec,24
-SantiagoCacaloxtepecMixtec,SantiagoCacaloxtepecMixtec,caca1250,,miu,,17.7248,-97.7637,,Santiago Cacaloxtepec,Mixtec,25
-CahuatacheMixtec,CahuatacheMixtec,alac1244,,mim,,17.41506,-98.53192,,Cahuatache,Mixtec,26
-ChalcatongoHidalgoMixtec_A,ChalcatongoHidalgoMixtec_A,sanm1296,,mig,,17.03226,-97.57074,,Chalcatongo de Hidalgo,Mixtec,27
-ChalcatongoHidalgoMixtec_B,ChalcatongoHidalgoMixtec_B,sanm1296,,mig,,17.03226,-97.57074,,Chalcatongo de Hidalgo,Mixtec,28
-SanAgustinChayucoMixtec,SanAgustinChayucoMixtec,chay1249,,mih,,16.42,-97.83,,San Agustín Chayuco,Mixtec,29
-SanPedroChayucoMixtec,SanPedroChayucoMixtec,,,,,17.21534,-97.99416,,San Pedro Chayuco,Mixtec,30
-SantiagoChazumbaMixtec,SantiagoChazumbaMixtec,chaz1235,,xtb,,18.1541,-97.7873,,Santiago Chazumba,Mixtec,31
-SanAndresChicahuaxtla1890Triqui,SanAndresChicahuaxtla1890Triqui,chic1273,,trs,,17.15612,-97.84007,,San Andrés Chicahuaxtla 1890,Triqui,32
-SanMiguelChicahuaMixtec,SanMiguelChicahuaMixtec,,,,,17.63719,-97.19479,,San Miguel Chicahua,Mixtec,33
-SanAndresChicahuaxtlaTriqui_A,SanAndresChicahuaxtlaTriqui_A,chic1273,,trs,,17.15612,-97.84007,,San Andrés Chicahuaxtla,Triqui,34
-SanAndresChicahuaxtlaTriqui_B,SanAndresChicahuaxtlaTriqui_B,chic1273,,trs,,17.15612,-97.84007,,San Andrés Chicahuaxtla,Triqui,35
-ChigmecatitlanMixtec,ChigmecatitlanMixtec,chig1239,,mii,,18.6303,-98.1046,,Chigmecatitlán,Mixtec,36
-SanJuanCoatzospamMixtec_A,SanJuanCoatzospamMixtec_A,coat1241,,miz,,18.04875,-96.76363,,San Juan Coatzóspam,Mixtec,37
-SanJuanCoatzospamMixtec_B,SanJuanCoatzospamMixtec_B,coat1241,,miz,,18.04875,-96.76363,,San Juan Coatzóspam,Mixtec,38
-CoicoyanlasFloresMixtec,CoicoyanlasFloresMixtec,coic1238,,jmx,,17.27301,-98.27588,,Coicoyán de las Flores,Mixtec,39
-SanJuanColoradoMixtec_A,SanJuanColoradoMixtec_A,sanj1281,,mjc,,16.46073,-97.95446,,San Juan Colorado,Mixtec,40
-SanJuanColoradoMixtec_B,SanJuanColoradoMixtec_B,sanj1281,,mjc,,16.46073,-97.95446,,San Juan Colorado,Mixtec,41
-ConcepcionPapaloCuicatec,ConcepcionPapaloCuicatec,tepe1280,,cux,,17.84172,-96.8813,,Concepción Pápalo,Cuicatec,42
-SanJuanCopalaTriqui,SanJuanCopalaTriqui,copa1237,,trc,,17.187222,-97.962778,,San Juan Copala,Triqui,43
-CosoltepecMixtec,CosoltepecMixtec,chaz1235,,xtb,,18.14291,-97.79059,,Cosoltepec,Mixtec,44
-SanPedroCoxcaltepecCantarosMixtec,SanPedroCoxcaltepecCantarosMixtec,,,,,17.49922,-97.13893,,San Pedro Coxcaltepec Cántaros,Mixtec,45
-SanCristobalJamiltepecMixtec,SanCristobalJamiltepecMixtec,chay1249,,mih,,16.48433,-97.86594,,San Cristóbal (Jamiltepec),Mixtec,46
-CuatzoquitengoMixtec,CuatzoquitengoMixtec,cuat1239,,mim,,17.28835,-98.61552,,Cuatzoquitengo,Mixtec,47
-SantaAnaCuauhtemocMixtec,SantaAnaCuauhtemocMixtec,cuya1240,,xtu,,17.98379,-96.79439,,Santa Ana Cuauhtémoc,Mixtec,48
-CuilapamGuerreroMixtec,CuilapamGuerreroMixtec,,,,,17.04496,-97.75798,,Cuilapam de Guerrero,Mixtec,49
-CuyamecalcoVillaZaragozaMixtec,CuyamecalcoVillaZaragozaMixtec,cuya1240,,xtu,,18.0821,-96.7314,,Cuyamecalco Villa de Zaragoza,Mixtec,50
-SanJuanDiuxiMixtec_A,SanJuanDiuxiMixtec_A,diux1236,,xtd,,17.3596,-97.3861,,San Juan Diuxi,Mixtec,51
-SanJuanDiuxiMixtec_B,SanJuanDiuxiMixtec_B,diux1236,,xtd,,17.3596,-97.3861,,San Juan Diuxi,Mixtec,52
-SanMartinDuraznosMixtec_A,SanMartinDuraznosMixtec_A,juxt1235,,vmc,,17.30502,-98.10188,,San Martín Duraznos,Mixtec,53
-SanMartinDuraznosMixtec_B,SanMartinDuraznosMixtec_B,juxt1235,,vmc,,17.30502,-98.10188,,San Martín Duraznos,Mixtec,54
-SanMartinEstadoMixtec,SanMartinEstadoMixtec,,,,,17.56721,-98.17607,,San Martín del Estado,Mixtec,55
-SantaCatarinaEstetlaMixtec,SantaCatarinaEstetlaMixtec,peno1244,,mil,,17.02627,-97.0974,,Santa Catarina Estetla,Mixtec,56
-SanFranciscolasFloresMixtec,SanFranciscolasFloresMixtec,,,,,17.777,-98.031,,San Francisco de las Flores,Mixtec,57
-SanMarcoslaFlorMixtec,SanMarcoslaFlorMixtec,sanm1291,,jmx,,17.418889,-98.268611,,San Marcos de la Flor,Mixtec,58
-SanMiguelElGrandeMixtec_A,SanMiguelElGrandeMixtec_A,sanm1295,,mig,,17.04688,-97.62248,,San Miguel El Grande,Mixtec,59
-SanMiguelElGrandeMixtec_B,SanMiguelElGrandeMixtec_B,sanm1295,,mig,,17.04688,-97.62248,,San Miguel El Grande,Mixtec,60
-GuadalupeVillahermosaMixtec,GuadalupeVillahermosaMixtec,,,,,17.75898,-98.01539,,Guadalupe Villahermosa (El Portesuelo),Mixtec,62
-SantoDomingoHuendioMixtec,SantoDomingoHuendioMixtec,sant1440,,xtm,,17.25296,-97.5054,,Santo Domingo Huendio,Mixtec,63
-SantaMariaHuazolotitlanMixtec,SantaMariaHuazolotitlanMixtec,,,,,16.3019,-97.91488,,Santa María Huazolotitlán,Mixtec,65
-SanAntonioHuitepecMixtec,SanAntonioHuitepecMixtec,huit1252,,mxs,,16.9476,-97.1236,,San Antonio Huitepec,Mixtec,66
-SantaCruzItundujiaMixtec,SantaCruzItundujiaMixtec,itun1239,,mce,,16.77876,-97.59753,,Santa Cruz Itundujia,Mixtec,67
-SanMartinItunyosoTriqui,SanMartinItunyosoTriqui,sanm1298,,trq,,17.22887,-97.88125,,San Martín Itunyoso,Triqui,68
-IxpantepecNievesMixtec,IxpantepecNievesMixtec,sila1250,,mks,,17.50717,-98.04556,,Ixpantepec Nieves,Mixtec,69
-SantiagoIxtayutlaMixtec,SantiagoIxtayutlaMixtec,ixta1235,,vmj,,16.5774,-97.5759,,Santiago Ixtayutla,Mixtec,70
-SantiagoIxtaltepecMixtec,SantiagoIxtaltepecMixtec,,,,,17.54171,-97.11437,,Santiago Ixtaltepec,Mixtec,71
-SanMiguelIxtapamMixtec,SanMiguelIxtapamMixtec,,,,,18.80685,-100.15039,,San Miguel Ixtapam,Mixtec,72
-SantiagoJamiltepecMixtec_A,SantiagoJamiltepecMixtec_A,jami1235,,mxt,,16.2279,-97.8417,,Santiago Jamiltepec,Mixtec,73
-SantiagoJamiltepecMixtec_B,SantiagoJamiltepecMixtec_B,jami1235,,mxt,,16.2279,-97.8417,,Santiago Jamiltepec,Mixtec,74
-SanFranciscoJaltepetongoMixtec,SanFranciscoJaltepetongoMixtec,,,,,17.38592,-97.26345,,San Francisco Jaltepetongo,Mixtec,75
-SantaMariaJicaltepecMixtec,SantaMariaJicaltepecMixtec,pino1237,,mio,,16.38086,-98.04128,,Santa María Jicaltepec,Mixtec,76
-SanPedroJicayanMixtec,SanPedroJicayanMixtec,,,,,16.45235,-98.0151,,San Pedro Jicayán,Mixtec,77
-ElJicaralMixtec,ElJicaralMixtec,coic1238,,jmx,,17.12602,-98.196842,,El Jicaral,Mixtec,78
-SanPedroJocotipacMixtec,SanPedroJocotipacMixtec,,,,,17.7687,-97.07983,,San Pedro Jocotipac,Mixtec,79
-SantiagoJuxtlahuacaMixtec,SantiagoJuxtlahuacaMixtec,juxt1235,,vmc,,17.3518,-98.0146,,Santiago Juxtlahuaca,Mixtec,80
-SanLorenzoMixtec,SanLorenzoMixtec,,,,,17.66757,-98.11901,,San Lorenzo,Mixtec,81
-SantaCatarinaMechoacanMixtec,SantaCatarinaMechoacanMixtec,chay1249,,mih,,16.33471,-97.83626,,Santa Catarina Mechoacán,Mixtec,82
-MetlatonocMixtec,MetlatonocMixtec,metl1238,,mxv,,17.1947,-98.3514,,Metlatónoc,Mixtec,83
-ElRosarioMicaltepecMixtec,ElRosarioMicaltepecMixtec,,,,,18.04537,-97.85057,,El Rosario Micaltepec,Mixtec,84
-SanJuanMixtepecMixtec,SanJuanMixtepecMixtec,mixt1425,,mix,,17.3317,-97.8791,,San Juan Mixtepec,Mixtec,86
-SanPedroMolinosMixtec,SanPedroMolinosMixtec,sanp1259,,mig,,17.10495,-97.54152,,San Pedro Molinos,Mixtec,87
-SanSebastianMonteMixtec_A,SanSebastianMonteMixtec_A,sila1250,,mks,,17.6793,-98.02259,,San Sebastián del Monte,Mixtec,89
-SanSebastianMonteMixtec_B,SanSebastianMonteMixtec_B,sila1250,,mks,,17.6793,-98.02259,,San Sebastián del Monte,Mixtec,90
-SantaLuciaMonteverdeMixtec,SantaLuciaMonteverdeMixtec,sant1439,,mdv,,16.9969,-97.6277,,Santa Lucía Monteverde,Mixtec,91
-SanAgustinMonteLobosMixtec,SanAgustinMonteLobosMixtec,,,,,17.63031,-97.28821,,San Agustín Monte Lobos,Mixtec,92
-SanLuisMoreliaMixtec,SanLuisMoreliaMixtec,tama1339,,vmx,,17.70342,-98.21456,,San Luis Morelia,Mixtec,93
-SanAntonioNduayacoMixtec,SanAntonioNduayacoMixtec,apas1235,,mip,,17.68547,-97.14745,,San Antonio Nduayaco,Mixtec,94
-SanJorgeNuchitaMixtec,SanJorgeNuchitaMixtec,sila1250,,mks,,17.65569,-98.10499,,San Jorge Nuchita,Mixtec,96
-SantaCruzNundacoMixtec,SantaCruzNundacoMixtec,,,,,17.17339,-97.72325,,Santa Cruz Nundaco,Mixtec,98
-SantiagoNundicheMixtec,SantiagoNundicheMixtec,nort2985,,xtn,,17.3312,-97.67444,,Santiago Nundiche,Mixtec,99
-SantoDomingoNundoMixtec,SantoDomingoNundoMixtec,,,,,17.60855,-97.68566,,Santo Domingo Nundo,Mixtec,100
-SantaMariaNutioMixtec,SantaMariaNutioMixtec,,,,,16.48542,-97.90405,,Santa María Nutio,Mixtec,101
-SantoDomingoNuxaaMixtec,SantoDomingoNuxaaMixtec,,,,,17.21663,-97.12285,,Santo Domingo Nuxaá,Mixtec,102
-SanAndresNuxinoMixtec,SanAndresNuxinoMixtec,,,,,17.23883,-97.10497,,San Andrés Nuxiño,Mixtec,103
-SantiagoNuyooMixtec,SantiagoNuyooMixtec,nuyo1238,,meh,,17.0147,-97.76674,,Santiago Nuyoó,Mixtec,104
-SantoTomasOcotepecMixtec_A,SantoTomasOcotepecMixtec_A,ocot1243,,mie,,17.14419,-97.76322,,Santo Tomás Ocotepec,Mixtec,105
-SantoTomasOcotepecMixtec_B,SantoTomasOcotepecMixtec_B,ocot1243,,mie,,17.14419,-97.76322,,Santo Tomás Ocotepec,Mixtec,106
-SantaMariaPapaloCuicatec,SantaMariaPapaloCuicatec,sant1437,,cux,,17.26813,-96.56338,,Santa María Pápalo,Cuicatec,107
-MagdalenaPenascoMixtec,MagdalenaPenascoMixtec,magd1235,,xtm,,17.2837,-97.5413,,Magdalena Peñasco,Mixtec,108
-SanMateoPenascoMixtec,SanMateoPenascoMixtec,sanm1293,,xtm,,17.15127,-97.53321,,San Mateo Peñasco,Mixtec,109
-SantaMariaPenolesMixtec,SantaMariaPenolesMixtec,sant1445,,mil,,17.07959,-97.00272,,Santa María Peñoles,Mixtec,110
-SanMiguelPiedrasMixtec,SanMiguelPiedrasMixtec,sanm1294,,xtp,,16.9944,-97.2056,,San Miguel Piedras,Mixtec,114
-PiedraAzulMixtec,PiedraAzulMixtec,,,,,17.380833,-98.185833,,Piedra Azul,Mixtec,115
-SantiagoPinotepaNacionalMixtec,SantiagoPinotepaNacionalMixtec,pino1237,,mio,,16.3043,-97.9966,,Santiago Pinotepa Nacional,Mixtec,117
-PinotepaDonLuisMixtec,PinotepaDonLuisMixtec,pino1237,,mio,,16.42666,-97.97647,,Pinotepa de Don Luis,Mixtec,118
-SanMiguelProgresoMixtec,SanMiguelProgresoMixtec,,,,,17.1743,-97.79838,,San Miguel Progreso,Mixtec,121
-SanJeronimoProgresoMixtec_A,SanJeronimoProgresoMixtec_A,sila1250,,mks,,17.44616,-98.15466,,San Jerónimo Progreso,Mixtec,122
-SanJeronimoProgresoMixtec_B,SanJeronimoProgresoMixtec_B,sila1250,,mks,,17.44616,-98.15466,,San Jerónimo Progreso,Mixtec,123
-Proto-Mixtec,Proto-Mixtec,mixt1427,,,,,,,Proto-Mixtec,Mixtec,124
-SantosReyesTepejilloMixtec,SantosReyesTepejilloMixtec,,,,,17.43262,-97.93997,,Santos Reyes Tepejillo,Mixtec,126
-SanFranciscoSayultepecMixtec,SanFranciscoSayultepecMixtec,pino1237,,mio,,16.59537,-98.12933,,San Francisco Sayultepec,Mixtec,127
-SanMateoSindihuiMixtec,SanMateoSindihuiMixtec,sind1277,,xts,,17.02,-97.3036,,San Mateo Sindihui,Mixtec,129
-SanJoseSinicahuaMixtec,SanJoseSinicahuaMixtec,sini1243,,xti,,17.2218,-97.5904,,San José Sinicahua,Mixtec,130
-SanJeronimoSosolaMixtec,SanJeronimoSosolaMixtec,,,,,17.36657,-97.03295,,San Jerónimo Sosola,Mixtec,131
-SanBartoloSoyaltepecMixtec,SanBartoloSoyaltepecMixtec,soya1236,,vmq,,17.5892,-97.1921,,San Bartolo Soyaltepec,Mixtec,132
-SanJuanTamazolaMixtec,SanJuanTamazolaMixtec,tama1339,,vmx,,17.1258,-97.0998,,San Juan Tamazola,Mixtec,133
-SantiagoTamazolaMixtec,SantiagoTamazolaMixtec,,,,,17.67041,-98.2216,,Santiago Tamazola,Mixtec,134
-SantaMariaTataltepecMixtec,SantaMariaTataltepecMixtec,sant1444,,,,17.14222,-97.39407,,Santa María Tataltepec,Mixtec,135
-SanSebastianTecomaxtlahuacaMixtec,SanSebastianTecomaxtlahuacaMixtec,,,,,17.34568,-98.0312,,San Sebastián Tecomaxtlahuaca,Mixtec,136
-SanJuanTeitaMixtec,SanJuanTeitaMixtec,sanj1282,,xtj,,17.1542,-97.3899,,San Juan Teita,Mixtec,137
-LosTejocotesMixtec,LosTejocotesMixtec,,,,,17.31342,-97.89609,,Los Tejocotes,Mixtec,138
-SanJuanTepeuxila1900Cuicatec,SanJuanTepeuxila1900Cuicatec,tepe1280,,cux,,18.72299,-95.84118,,San Juan Tepeuxila 1900,Cuicatec,141
-TepejilloMixtec,TepejilloMixtec,,,,,18.05265,-97.83906,,Tepejillo,Mixtec,142
-SanAntonioTepetlapaMixtec,SanAntonioTepetlapaMixtec,,,,,16.54182,-98.06578,,San Antonio Tepetlapa,Mixtec,143
-SanPedroySanPabloTeposcolula1600Mixtec,SanPedroySanPabloTeposcolula1600Mixtec,,,,,17.51167,-97.48883,,San Pedro y San Pablo Teposcolula 1600,Mixtec,145
-SanPedroySanPabloTeposcolulaMixtec,SanPedroySanPabloTeposcolulaMixtec,,,,,17.51167,-97.48883,,San Pedro y San Pablo Teposcolula,Mixtec,146
-SanPedroTidaaMixtec,SanPedroTidaaMixtec,tida1235,,mtx,,17.4142,-97.3333,,San Pedro Tidaá,Mixtec,150
-SantiagoTilantongoMixtec,SantiagoTilantongoMixtec,diux1236,,xtd,,17.3596,-97.3861,,Santiago Tilantongo,Mixtec,152
-SanAgustinTlacotepecMixtec,SanAgustinTlacotepecMixtec,sana1284,,xtm,,17.20365,-97.51853,,San Agustín Tlacotepec,Mixtec,154
-SanMiguelTlacotepecMixtec,SanMiguelTlacotepecMixtec,,,,,17.45511,-98.00552,,San Miguel Tlacotepec,Mixtec,155
-TlahuapaMixtec,TlahuapaMixtec,alco1235,,xta,,17.37553,-98.33826,,Tlahuapa,Mixtec,156
-SantaCatarinaTlaltempanMixtec,SantaCatarinaTlaltempanMixtec,,,,,18.61485,-98.08867,,Santa Catarina Tlaltempan,Mixtec,157
-SantiagoTlazoyaltepecMixtec,SantiagoTlazoyaltepecMixtec,sant1446,,mqh,,17.0274,-96.99583,,Santiago Tlazoyaltepec,Mixtec,158
-SantaMariaTonahuixtlaMixtec,SantaMariaTonahuixtlaMixtec,,,,,18.20057,-97.89437,,Santa María Tonahuixtla,Mixtec,160
-TotoltepecGuerreroMixtec,TotoltepecGuerreroMixtec,chaz1235,,xtb,,18.22581,-97.85526,,Totoltepec de Guerrero,Mixtec,162
-VillaTututepecMelchorOcampoMixtec,VillaTututepecMelchorOcampoMixtec,tutu1243,,mtu,,16.12968,-97.60452,,Villa de Tututepec de Melchor Ocampo,Mixtec,163
-SanJeronimoXayacatlanMixtec,SanJeronimoXayacatlanMixtec,south3001,,mit,,18.22159,-97.91563,,San Jerónimo Xayacatlán,Mixtec,165
-XayacatlanBravoMixtec,XayacatlanBravoMixtec,south3001,,mit,,18.2353,-97.97435,,Xayacatlán de Bravo,Mixtec,166
-XochapaMixtec,XochapaMixtec,xoch1238,,xta,,17.38134,-98.44988,,Xochapa,Mixtec,167
-SantaMariaYolotepecMixtec,SantaMariaYolotepecMixtec,taca1257,,xtt,,16.9648,-97.4537,,Santa María Yolotepec,Mixtec,168
-YoloxochitlMixtec,YoloxochitlMixtec,yolo1241,,xty,,16.8059,-98.6293,,Yoloxochitl,Mixtec,169
-SantiagoYosonduaMixtec_A,SantiagoYosonduaMixtec_A,yoso1239,,mpm,,16.9042,-97.5018,,Santiago Yosondúa,Mixtec,170
-SantiagoYosonduaMixtec_B,SantiagoYosonduaMixtec_B,yoso1239,,mpm,,16.9042,-97.5018,,Santiago Yosondúa,Mixtec,171
-SanPedroYosonamaMixtec,SanPedroYosonamaMixtec,yoso1238,,xtn,,17.4272,-97.77267,,San Pedro Yosoñama,Mixtec,174
-SanBartolomeYucuaneMixtec,SanBartolomeYucuaneMixtec,yucu1250,,mvg,,17.2832,-97.4285,,San Bartolomé Yucuañe,Mixtec,175
-SantaMariaYucuhitiMixtec,SantaMariaYucuhitiMixtec,yucu1249,,meh,,17.03036,-97.78237,,Santa María Yucuhiti,Mixtec,176
-YucunutiBenitoJuarezMixtec,YucunutiBenitoJuarezMixtec,yucu1251,,mxb,,17.63409,-97.89151,,Yucuñuti de Benito Juárez,Mixtec,177
-SanPedroYucunamaMixtec,SanPedroYucunamaMixtec,,,,,17.56221,-97.48291,,San Pedro Yucunama,Mixtec,178
-SantaMariaYucunicocoMixtec,SantaMariaYucunicocoMixtec,,,,,17.2372,-97.91806,,Santa María Yucunicoco,Mixtec,179
-YucuquimiOcampoMixtec,YucuquimiOcampoMixtec,,,,,17.57853,-97.89014,,Yucuquimi de Ocampo,Mixtec,180
-YucunanyMixtec,YucunanyMixtec,mixt1425,,mix,,17.300827,-97.893888,,Yucunany,Mixtec,181
-YutanduchiGuerreroMixtec,YutanduchiGuerreroMixtec,yuta1240,,mab,,17.0311,-97.2293,,Yutanduchi de Guerrero,Mixtec,182
-SanJuanYutaMixtec,SanJuanYutaMixtec,,,,,17.02228,-97.17054,,San Juan Yuta,Mixtec,183
-SanAndresYutatioMixtec,SanAndresYutatioMixtec,,,,,17.60626,-97.89428,,San Andrés Yutatío,Mixtec,184
-SantaMariaZacatepecMixtec,SantaMariaZacatepecMixtec,sant1436,,mza,,16.7003,-97.9484,,Santa María Zacatepec,Mixtec,185
-ZapotitlanPalmasMixtec,ZapotitlanPalmasMixtec,,,,,17.88959,-97.82406,,Zapotitlán Palmas,Mixtec,187
+"ID","Name","Glottocode","Glottolog_Name","ISO639P3code","Macroarea","Latitude","Longitude","Family","Location","SubGroup","Number"
+"AbasoloValleMixtec","AbasoloValleMixtec","mixt1425",,"mix",,17.78287,-95.54381,,"Abasolo del Valle","Mixtec",1
+"SantaMariaAcatepecMixtec","SantaMariaAcatepecMixtec","sant1441",,"mtu",,16.76337,-97.98945,,"Santa María Acatepec","Mixtec",2
+"SanMiguelAchiutlaMixtec","SanMiguelAchiutlaMixtec","sanm1292",,"xtm",,17.3065,-97.48886,,"San Miguel Achiutla","Mixtec",3
+"SantaCatarinaAdequezMixtec","SantaCatarinaAdequezMixtec",,,,,17.43688,-97.14695,,"Santa Catarina Adequez","Mixtec",4
+"SanMiguelAhuehuetitlanMixtec","SanMiguelAhuehuetitlanMixtec","sila1250",,"mks",,17.67151,-98.32045,,"San Miguel Ahuehuetitlán","Mixtec",5
+"AlacatlatzalaMixtec_A","AlacatlatzalaMixtec_A","alac1244",,"mim",,17.25,-98.58,,"Alacatlatzala","Mixtec",6
+"AlacatlatzalaMixtec_B","AlacatlatzalaMixtec_B","alac1244",,"mim",,17.25,-98.58,,"Alacatlatzala","Mixtec",7
+"AlacatlatzalaMixtec_C","AlacatlatzalaMixtec_C","alac1244",,"mim",,17.25,-98.58,,"Alacatlatzala","Mixtec",8
+"AlcozaucaGuerreroMixtec","AlcozaucaGuerreroMixtec","alco1235",,"xta",,17.3687,-98.3969,,"Alcozáuca de Guerrero","Mixtec",9
+"SanMiguelAmatitlanMixtec","SanMiguelAmatitlanMixtec",,,,,17.89179,-98.02529,,"San Miguel Amatitlán","Mixtec",10
+"SantaMariaApazcoMixtec","SantaMariaApazcoMixtec","apas1235",,"mip",,17.6143,-97.0657,,"Santa María Apazco","Mixtec",13
+"SantiagoApoalaMixtec","SantiagoApoalaMixtec","apas1235",,"mip",,17.6143,-97.0657,,"Santiago Apoala","Mixtec",14
+"SanEstebanAtatlahucaMixtec_A","SanEstebanAtatlahucaMixtec_A","atat1238",,"mib",,17.07133,-97.67753,,"San Esteban Atatlahuca","Mixtec",16
+"SanEstebanAtatlahucaMixtec_B","SanEstebanAtatlahucaMixtec_B","atat1238",,"mib",,17.07133,-97.67753,,"San Esteban Atatlahuca","Mixtec",17
+"SanAgustinAtenangoMixtec","SanAgustinAtenangoMixtec",,,,,17.61188,-98.01527,,"San Agustín Atenango","Mixtec",18
+"SanPedroAtoyacMixtec","SanPedroAtoyacMixtec",,,,,16.48865,-97.9864,,"San Pedro Atoyac","Mixtec",20
+"AyutlalosLibresMixtec_A","AyutlalosLibresMixtec_A","ayut1236",,"miy",,16.8833,-98.9916,,"Ayutla de los Libres","Mixtec",21
+"AyutlalosLibresMixtec_B","AyutlalosLibresMixtec_B","ayut1236",,"miy",,16.8833,-98.9916,,"Ayutla de los Libres","Mixtec",22
+"LaBateaMixtec","LaBateaMixtec","mixt1425",,"mix",,17.35948,-97.83233,,"La Batea","Mixtec",23
+"SantaCruzBravoMixtec","SantaCruzBravoMixtec",,,,,17.58093,-98.22383,,"Santa Cruz de Bravo","Mixtec",24
+"SantiagoCacaloxtepecMixtec","SantiagoCacaloxtepecMixtec","caca1250",,"miu",,17.7248,-97.7637,,"Santiago Cacaloxtepec","Mixtec",25
+"CahuatacheMixtec","CahuatacheMixtec","alac1244",,"mim",,17.41506,-98.53192,,"Cahuatache","Mixtec",26
+"ChalcatongoHidalgoMixtec_A","ChalcatongoHidalgoMixtec_A","sanm1296",,"mig",,17.03226,-97.57074,,"Chalcatongo de Hidalgo","Mixtec",27
+"ChalcatongoHidalgoMixtec_B","ChalcatongoHidalgoMixtec_B","sanm1296",,"mig",,17.03226,-97.57074,,"Chalcatongo de Hidalgo","Mixtec",28
+"SanAgustinChayucoMixtec","SanAgustinChayucoMixtec","chay1249",,"mih",,16.42,-97.83,,"San Agustín Chayuco","Mixtec",29
+"SanPedroChayucoMixtec","SanPedroChayucoMixtec",,,,,17.21534,-97.99416,,"San Pedro Chayuco","Mixtec",30
+"SantiagoChazumbaMixtec","SantiagoChazumbaMixtec","chaz1235",,"xtb",,18.1541,-97.7873,,"Santiago Chazumba","Mixtec",31
+"SanAndresChicahuaxtla1890Triqui","SanAndresChicahuaxtla1890Triqui","chic1273",,"trs",,17.15612,-97.84007,,"San Andrés Chicahuaxtla 1890","Triqui",32
+"SanMiguelChicahuaMixtec","SanMiguelChicahuaMixtec",,,,,17.63719,-97.19479,,"San Miguel Chicahua","Mixtec",33
+"SanAndresChicahuaxtlaTriqui_A","SanAndresChicahuaxtlaTriqui_A","chic1273",,"trs",,17.15612,-97.84007,,"San Andrés Chicahuaxtla","Triqui",34
+"SanAndresChicahuaxtlaTriqui_B","SanAndresChicahuaxtlaTriqui_B","chic1273",,"trs",,17.15612,-97.84007,,"San Andrés Chicahuaxtla","Triqui",35
+"ChigmecatitlanMixtec","ChigmecatitlanMixtec","chig1239",,"mii",,18.6303,-98.1046,,"Chigmecatitlán","Mixtec",36
+"SanJuanCoatzospamMixtec_A","SanJuanCoatzospamMixtec_A","coat1241",,"miz",,18.04875,-96.76363,,"San Juan Coatzóspam","Mixtec",37
+"SanJuanCoatzospamMixtec_B","SanJuanCoatzospamMixtec_B","coat1241",,"miz",,18.04875,-96.76363,,"San Juan Coatzóspam","Mixtec",38
+"CoicoyanlasFloresMixtec","CoicoyanlasFloresMixtec","coic1238",,"jmx",,17.27301,-98.27588,,"Coicoyán de las Flores","Mixtec",39
+"SanJuanColoradoMixtec_A","SanJuanColoradoMixtec_A","sanj1281",,"mjc",,16.46073,-97.95446,,"San Juan Colorado","Mixtec",40
+"SanJuanColoradoMixtec_B","SanJuanColoradoMixtec_B","sanj1281",,"mjc",,16.46073,-97.95446,,"San Juan Colorado","Mixtec",41
+"ConcepcionPapaloCuicatec","ConcepcionPapaloCuicatec","tepe1280",,"cux",,17.84172,-96.8813,,"Concepción Pápalo","Cuicatec",42
+"SanJuanCopalaTriqui","SanJuanCopalaTriqui","copa1237",,"trc",,17.187222,-97.962778,,"San Juan Copala","Triqui",43
+"CosoltepecMixtec","CosoltepecMixtec","chaz1235",,"xtb",,18.14291,-97.79059,,"Cosoltepec","Mixtec",44
+"SanPedroCoxcaltepecCantarosMixtec","SanPedroCoxcaltepecCantarosMixtec",,,,,17.49922,-97.13893,,"San Pedro Coxcaltepec Cántaros","Mixtec",45
+"SanCristobalJamiltepecMixtec","SanCristobalJamiltepecMixtec","chay1249",,"mih",,16.48433,-97.86594,,"San Cristóbal (Jamiltepec)","Mixtec",46
+"CuatzoquitengoMixtec","CuatzoquitengoMixtec","cuat1239",,"mim",,17.28835,-98.61552,,"Cuatzoquitengo","Mixtec",47
+"SantaAnaCuauhtemocMixtec","SantaAnaCuauhtemocMixtec","cuya1240",,"xtu",,17.98379,-96.79439,,"Santa Ana Cuauhtémoc","Mixtec",48
+"CuilapamGuerreroMixtec","CuilapamGuerreroMixtec",,,,,17.04496,-97.75798,,"Cuilapam de Guerrero","Mixtec",49
+"CuyamecalcoVillaZaragozaMixtec","CuyamecalcoVillaZaragozaMixtec","cuya1240",,"xtu",,18.0821,-96.7314,,"Cuyamecalco Villa de Zaragoza","Mixtec",50
+"SanJuanDiuxiMixtec_A","SanJuanDiuxiMixtec_A","diux1236",,"xtd",,17.3596,-97.3861,,"San Juan Diuxi","Mixtec",51
+"SanJuanDiuxiMixtec_B","SanJuanDiuxiMixtec_B","diux1236",,"xtd",,17.3596,-97.3861,,"San Juan Diuxi","Mixtec",52
+"SanMartinDuraznosMixtec_A","SanMartinDuraznosMixtec_A","juxt1235",,"vmc",,17.30502,-98.10188,,"San Martín Duraznos","Mixtec",53
+"SanMartinDuraznosMixtec_B","SanMartinDuraznosMixtec_B","juxt1235",,"vmc",,17.30502,-98.10188,,"San Martín Duraznos","Mixtec",54
+"SanMartinEstadoMixtec","SanMartinEstadoMixtec",,,,,17.56721,-98.17607,,"San Martín del Estado","Mixtec",55
+"SantaCatarinaEstetlaMixtec","SantaCatarinaEstetlaMixtec","peno1244",,"mil",,17.02627,-97.0974,,"Santa Catarina Estetla","Mixtec",56
+"SanFranciscolasFloresMixtec","SanFranciscolasFloresMixtec",,,,,17.777,-98.031,,"San Francisco de las Flores","Mixtec",57
+"SanMarcoslaFlorMixtec","SanMarcoslaFlorMixtec","sanm1291",,"jmx",,17.418889,-98.268611,,"San Marcos de la Flor","Mixtec",58
+"SanMiguelElGrandeMixtec_A","SanMiguelElGrandeMixtec_A","sanm1295",,"mig",,17.04688,-97.62248,,"San Miguel El Grande","Mixtec",59
+"SanMiguelElGrandeMixtec_B","SanMiguelElGrandeMixtec_B","sanm1295",,"mig",,17.04688,-97.62248,,"San Miguel El Grande","Mixtec",60
+"GuadalupeVillahermosaMixtec","GuadalupeVillahermosaMixtec",,,,,17.75898,-98.01539,,"Guadalupe Villahermosa (El Portesuelo)","Mixtec",62
+"SantoDomingoHuendioMixtec","SantoDomingoHuendioMixtec","sant1440",,"xtm",,17.25296,-97.5054,,"Santo Domingo Huendio","Mixtec",63
+"SantaMariaHuazolotitlanMixtec","SantaMariaHuazolotitlanMixtec",,,,,16.3019,-97.91488,,"Santa María Huazolotitlán","Mixtec",65
+"SanAntonioHuitepecMixtec","SanAntonioHuitepecMixtec","huit1252",,"mxs",,16.9476,-97.1236,,"San Antonio Huitepec","Mixtec",66
+"SantaCruzItundujiaMixtec","SantaCruzItundujiaMixtec","itun1239",,"mce",,16.77876,-97.59753,,"Santa Cruz Itundujia","Mixtec",67
+"SanMartinItunyosoTriqui","SanMartinItunyosoTriqui","sanm1298",,"trq",,17.22887,-97.88125,,"San Martín Itunyoso","Triqui",68
+"IxpantepecNievesMixtec","IxpantepecNievesMixtec","sila1250",,"mks",,17.50717,-98.04556,,"Ixpantepec Nieves","Mixtec",69
+"SantiagoIxtayutlaMixtec","SantiagoIxtayutlaMixtec","ixta1235",,"vmj",,16.5774,-97.5759,,"Santiago Ixtayutla","Mixtec",70
+"SantiagoIxtaltepecMixtec","SantiagoIxtaltepecMixtec",,,,,17.54171,-97.11437,,"Santiago Ixtaltepec","Mixtec",71
+"SanMiguelIxtapamMixtec","SanMiguelIxtapamMixtec",,,,,18.80685,-100.15039,,"San Miguel Ixtapam","Mixtec",72
+"SantiagoJamiltepecMixtec_A","SantiagoJamiltepecMixtec_A","jami1235",,"mxt",,16.2279,-97.8417,,"Santiago Jamiltepec","Mixtec",73
+"SantiagoJamiltepecMixtec_B","SantiagoJamiltepecMixtec_B","jami1235",,"mxt",,16.2279,-97.8417,,"Santiago Jamiltepec","Mixtec",74
+"SanFranciscoJaltepetongoMixtec","SanFranciscoJaltepetongoMixtec",,,,,17.38592,-97.26345,,"San Francisco Jaltepetongo","Mixtec",75
+"SantaMariaJicaltepecMixtec","SantaMariaJicaltepecMixtec","pino1237",,"mio",,16.38086,-98.04128,,"Santa María Jicaltepec","Mixtec",76
+"SanPedroJicayanMixtec","SanPedroJicayanMixtec",,,,,16.45235,-98.0151,,"San Pedro Jicayán","Mixtec",77
+"ElJicaralMixtec","ElJicaralMixtec","coic1238",,"jmx",,17.12602,-98.196842,,"El Jicaral","Mixtec",78
+"SanPedroJocotipacMixtec","SanPedroJocotipacMixtec",,,,,17.7687,-97.07983,,"San Pedro Jocotipac","Mixtec",79
+"SantiagoJuxtlahuacaMixtec","SantiagoJuxtlahuacaMixtec","juxt1235",,"vmc",,17.3518,-98.0146,,"Santiago Juxtlahuaca","Mixtec",80
+"SanLorenzoMixtec","SanLorenzoMixtec",,,,,17.66757,-98.11901,,"San Lorenzo","Mixtec",81
+"SantaCatarinaMechoacanMixtec","SantaCatarinaMechoacanMixtec","chay1249",,"mih",,16.33471,-97.83626,,"Santa Catarina Mechoacán","Mixtec",82
+"MetlatonocMixtec","MetlatonocMixtec","metl1238",,"mxv",,17.1947,-98.3514,,"Metlatónoc","Mixtec",83
+"ElRosarioMicaltepecMixtec","ElRosarioMicaltepecMixtec",,,,,18.04537,-97.85057,,"El Rosario Micaltepec","Mixtec",84
+"SanJuanMixtepecMixtec","SanJuanMixtepecMixtec","mixt1425",,"mix",,17.3317,-97.8791,,"San Juan Mixtepec","Mixtec",86
+"SanPedroMolinosMixtec","SanPedroMolinosMixtec","sanp1259",,"mig",,17.10495,-97.54152,,"San Pedro Molinos","Mixtec",87
+"SanSebastianMonteMixtec_A","SanSebastianMonteMixtec_A","sila1250",,"mks",,17.6793,-98.02259,,"San Sebastián del Monte","Mixtec",89
+"SanSebastianMonteMixtec_B","SanSebastianMonteMixtec_B","sila1250",,"mks",,17.6793,-98.02259,,"San Sebastián del Monte","Mixtec",90
+"SantaLuciaMonteverdeMixtec","SantaLuciaMonteverdeMixtec","sant1439",,"mdv",,16.9969,-97.6277,,"Santa Lucía Monteverde","Mixtec",91
+"SanAgustinMonteLobosMixtec","SanAgustinMonteLobosMixtec",,,,,17.63031,-97.28821,,"San Agustín Monte Lobos","Mixtec",92
+"SanLuisMoreliaMixtec","SanLuisMoreliaMixtec","tama1339",,"vmx",,17.70342,-98.21456,,"San Luis Morelia","Mixtec",93
+"SanAntonioNduayacoMixtec","SanAntonioNduayacoMixtec","apas1235",,"mip",,17.68547,-97.14745,,"San Antonio Nduayaco","Mixtec",94
+"SanJorgeNuchitaMixtec","SanJorgeNuchitaMixtec","sila1250",,"mks",,17.65569,-98.10499,,"San Jorge Nuchita","Mixtec",96
+"SantaCruzNundacoMixtec","SantaCruzNundacoMixtec",,,,,17.17339,-97.72325,,"Santa Cruz Nundaco","Mixtec",98
+"SantiagoNundicheMixtec","SantiagoNundicheMixtec","nort2985",,"xtn",,17.3312,-97.67444,,"Santiago Nundiche","Mixtec",99
+"SantoDomingoNundoMixtec","SantoDomingoNundoMixtec",,,,,17.60855,-97.68566,,"Santo Domingo Nundo","Mixtec",100
+"SantaMariaNutioMixtec","SantaMariaNutioMixtec",,,,,16.48542,-97.90405,,"Santa María Nutio","Mixtec",101
+"SantoDomingoNuxaaMixtec","SantoDomingoNuxaaMixtec",,,,,17.21663,-97.12285,,"Santo Domingo Nuxaá","Mixtec",102
+"SanAndresNuxinoMixtec","SanAndresNuxinoMixtec",,,,,17.23883,-97.10497,,"San Andrés Nuxiño","Mixtec",103
+"SantiagoNuyooMixtec","SantiagoNuyooMixtec","nuyo1238",,"meh",,17.0147,-97.76674,,"Santiago Nuyoó","Mixtec",104
+"SantoTomasOcotepecMixtec_A","SantoTomasOcotepecMixtec_A","ocot1243",,"mie",,17.14419,-97.76322,,"Santo Tomás Ocotepec","Mixtec",105
+"SantoTomasOcotepecMixtec_B","SantoTomasOcotepecMixtec_B","ocot1243",,"mie",,17.14419,-97.76322,,"Santo Tomás Ocotepec","Mixtec",106
+"SantaMariaPapaloCuicatec","SantaMariaPapaloCuicatec","sant1437",,"cux",,17.26813,-96.56338,,"Santa María Pápalo","Cuicatec",107
+"MagdalenaPenascoMixtec","MagdalenaPenascoMixtec","magd1235",,"xtm",,17.2837,-97.5413,,"Magdalena Peñasco","Mixtec",108
+"SanMateoPenascoMixtec","SanMateoPenascoMixtec","sanm1293",,"xtm",,17.15127,-97.53321,,"San Mateo Peñasco","Mixtec",109
+"SantaMariaPenolesMixtec","SantaMariaPenolesMixtec","sant1445",,"mil",,17.07959,-97.00272,,"Santa María Peñoles","Mixtec",110
+"SanMiguelPiedrasMixtec","SanMiguelPiedrasMixtec","sanm1294",,"xtp",,16.9944,-97.2056,,"San Miguel Piedras","Mixtec",114
+"PiedraAzulMixtec","PiedraAzulMixtec",,,,,17.380833,-98.185833,,"Piedra Azul","Mixtec",115
+"SantiagoPinotepaNacionalMixtec","SantiagoPinotepaNacionalMixtec","pino1237",,"mio",,16.3043,-97.9966,,"Santiago Pinotepa Nacional","Mixtec",117
+"PinotepaDonLuisMixtec","PinotepaDonLuisMixtec","pino1237",,"mio",,16.42666,-97.97647,,"Pinotepa de Don Luis","Mixtec",118
+"SanMiguelProgresoMixtec","SanMiguelProgresoMixtec",,,,,17.1743,-97.79838,,"San Miguel Progreso","Mixtec",121
+"SanJeronimoProgresoMixtec_A","SanJeronimoProgresoMixtec_A","sila1250",,"mks",,17.44616,-98.15466,,"San Jerónimo Progreso","Mixtec",122
+"SanJeronimoProgresoMixtec_B","SanJeronimoProgresoMixtec_B","sila1250",,"mks",,17.44616,-98.15466,,"San Jerónimo Progreso","Mixtec",123
+"Proto-Mixtec","Proto-Mixtec","mixt1427",,,,,,,"Proto-Mixtec","Mixtec",124
+"SantosReyesTepejilloMixtec","SantosReyesTepejilloMixtec",,,,,17.43262,-97.93997,,"Santos Reyes Tepejillo","Mixtec",126
+"SanFranciscoSayultepecMixtec","SanFranciscoSayultepecMixtec","pino1237",,"mio",,16.59537,-98.12933,,"San Francisco Sayultepec","Mixtec",127
+"SanMateoSindihuiMixtec","SanMateoSindihuiMixtec","sind1277",,"xts",,17.02,-97.3036,,"San Mateo Sindihui","Mixtec",129
+"SanJoseSinicahuaMixtec","SanJoseSinicahuaMixtec","sini1243",,"xti",,17.2218,-97.5904,,"San José Sinicahua","Mixtec",130
+"SanJeronimoSosolaMixtec","SanJeronimoSosolaMixtec",,,,,17.36657,-97.03295,,"San Jerónimo Sosola","Mixtec",131
+"SanBartoloSoyaltepecMixtec","SanBartoloSoyaltepecMixtec","soya1236",,"vmq",,17.5892,-97.1921,,"San Bartolo Soyaltepec","Mixtec",132
+"SanJuanTamazolaMixtec","SanJuanTamazolaMixtec","tama1339",,"vmx",,17.1258,-97.0998,,"San Juan Tamazola","Mixtec",133
+"SantiagoTamazolaMixtec","SantiagoTamazolaMixtec",,,,,17.67041,-98.2216,,"Santiago Tamazola","Mixtec",134
+"SantaMariaTataltepecMixtec","SantaMariaTataltepecMixtec","sant1444",,,,17.14222,-97.39407,,"Santa María Tataltepec","Mixtec",135
+"SanSebastianTecomaxtlahuacaMixtec","SanSebastianTecomaxtlahuacaMixtec",,,,,17.34568,-98.0312,,"San Sebastián Tecomaxtlahuaca","Mixtec",136
+"SanJuanTeitaMixtec","SanJuanTeitaMixtec","sanj1282",,"xtj",,17.1542,-97.3899,,"San Juan Teita","Mixtec",137
+"LosTejocotesMixtec","LosTejocotesMixtec",,,,,17.31342,-97.89609,,"Los Tejocotes","Mixtec",138
+"SanJuanTepeuxila1900Cuicatec","SanJuanTepeuxila1900Cuicatec","tepe1280",,"cux",,18.72299,-95.84118,,"San Juan Tepeuxila 1900","Cuicatec",141
+"TepejilloMixtec","TepejilloMixtec",,,,,18.05265,-97.83906,,"Tepejillo","Mixtec",142
+"SanAntonioTepetlapaMixtec","SanAntonioTepetlapaMixtec",,,,,16.54182,-98.06578,,"San Antonio Tepetlapa","Mixtec",143
+"SanPedroySanPabloTeposcolula1600Mixtec","SanPedroySanPabloTeposcolula1600Mixtec",,,,,17.51167,-97.48883,,"San Pedro y San Pablo Teposcolula 1600","Mixtec",145
+"SanPedroySanPabloTeposcolulaMixtec","SanPedroySanPabloTeposcolulaMixtec",,,,,17.51167,-97.48883,,"San Pedro y San Pablo Teposcolula","Mixtec",146
+"SanPedroTidaaMixtec","SanPedroTidaaMixtec","tida1235",,"mtx",,17.4142,-97.3333,,"San Pedro Tidaá","Mixtec",150
+"SantiagoTilantongoMixtec","SantiagoTilantongoMixtec","diux1236",,"xtd",,17.3596,-97.3861,,"Santiago Tilantongo","Mixtec",152
+"SanAgustinTlacotepecMixtec","SanAgustinTlacotepecMixtec","sana1284",,"xtm",,17.20365,-97.51853,,"San Agustín Tlacotepec","Mixtec",154
+"SanMiguelTlacotepecMixtec","SanMiguelTlacotepecMixtec",,,,,17.45511,-98.00552,,"San Miguel Tlacotepec","Mixtec",155
+"TlahuapaMixtec","TlahuapaMixtec","alco1235",,"xta",,17.37553,-98.33826,,"Tlahuapa","Mixtec",156
+"SantaCatarinaTlaltempanMixtec","SantaCatarinaTlaltempanMixtec",,,,,18.61485,-98.08867,,"Santa Catarina Tlaltempan","Mixtec",157
+"SantiagoTlazoyaltepecMixtec","SantiagoTlazoyaltepecMixtec","sant1446",,"mqh",,17.0274,-96.99583,,"Santiago Tlazoyaltepec","Mixtec",158
+"SantoDomingoTonahuixtlaMixtec","SantoDomingoTonahuixtlaMixtec",,,,,18.20212,-97.89593,,"Santo Domingo Tonahuixtla","Mixtec",160
+"TotoltepecGuerreroMixtec","TotoltepecGuerreroMixtec","chaz1235",,"xtb",,18.22581,-97.85526,,"Totoltepec de Guerrero","Mixtec",162
+"VillaTututepecMelchorOcampoMixtec","VillaTututepecMelchorOcampoMixtec","tutu1243",,"mtu",,16.12968,-97.60452,,"Villa de Tututepec de Melchor Ocampo","Mixtec",163
+"SanJeronimoXayacatlanMixtec","SanJeronimoXayacatlanMixtec","south3001",,"mit",,18.22159,-97.91563,,"San Jerónimo Xayacatlán","Mixtec",165
+"XayacatlanBravoMixtec","XayacatlanBravoMixtec","south3001",,"mit",,18.2353,-97.97435,,"Xayacatlán de Bravo","Mixtec",166
+"XochapaMixtec","XochapaMixtec","xoch1238",,"xta",,17.38134,-98.44988,,"Xochapa","Mixtec",167
+"SantaMariaYolotepecMixtec","SantaMariaYolotepecMixtec","taca1257",,"xtt",,16.9648,-97.4537,,"Santa María Yolotepec","Mixtec",168
+"YoloxochitlMixtec","YoloxochitlMixtec","yolo1241",,"xty",,16.8059,-98.6293,,"Yoloxochitl","Mixtec",169
+"SantiagoYosonduaMixtec_A","SantiagoYosonduaMixtec_A","yoso1239",,"mpm",,16.9042,-97.5018,,"Santiago Yosondúa","Mixtec",170
+"SantiagoYosonduaMixtec_B","SantiagoYosonduaMixtec_B","yoso1239",,"mpm",,16.9042,-97.5018,,"Santiago Yosondúa","Mixtec",171
+"SanPedroYosonamaMixtec","SanPedroYosonamaMixtec","yoso1238",,"xtn",,17.4272,-97.77267,,"San Pedro Yosoñama","Mixtec",174
+"SanBartolomeYucuaneMixtec","SanBartolomeYucuaneMixtec","yucu1250",,"mvg",,17.2832,-97.4285,,"San Bartolomé Yucuañe","Mixtec",175
+"SantaMariaYucuhitiMixtec","SantaMariaYucuhitiMixtec","yucu1249",,"meh",,17.03036,-97.78237,,"Santa María Yucuhiti","Mixtec",176
+"YucunutiBenitoJuarezMixtec","YucunutiBenitoJuarezMixtec","yucu1251",,"mxb",,17.63409,-97.89151,,"Yucuñuti de Benito Juárez","Mixtec",177
+"SanPedroYucunamaMixtec","SanPedroYucunamaMixtec",,,,,17.56221,-97.48291,,"San Pedro Yucunama","Mixtec",178
+"SantaMariaYucunicocoMixtec","SantaMariaYucunicocoMixtec",,,,,17.2372,-97.91806,,"Santa María Yucunicoco","Mixtec",179
+"YucuquimiOcampoMixtec","YucuquimiOcampoMixtec",,,,,17.57853,-97.89014,,"Yucuquimi de Ocampo","Mixtec",180
+"YucunanyMixtec","YucunanyMixtec","mixt1425",,"mix",,17.300827,-97.893888,,"Yucunany","Mixtec",181
+"YutanduchiGuerreroMixtec","YutanduchiGuerreroMixtec","yuta1240",,"mab",,17.0311,-97.2293,,"Yutanduchi de Guerrero","Mixtec",182
+"SanJuanYutaMixtec","SanJuanYutaMixtec",,,,,17.02228,-97.17054,,"San Juan Yuta","Mixtec",183
+"SanAndresYutatioMixtec","SanAndresYutatioMixtec",,,,,17.60626,-97.89428,,"San Andrés Yutatío","Mixtec",184
+"SantaMariaZacatepecMixtec","SantaMariaZacatepecMixtec","sant1436",,"mza",,16.7003,-97.9484,,"Santa María Zacatepec","Mixtec",185
+"ZapotitlanPalmasMixtec","ZapotitlanPalmasMixtec",,,,,17.88959,-97.82406,,"Zapotitlán Palmas","Mixtec",187
