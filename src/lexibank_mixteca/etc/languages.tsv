@@ -20,8 +20,8 @@
 19	"SanAgustinAtenangoMixtec"	"San Agustín Atenango"	"Mixtec"	17.61188	-98.01527		
 20	"AtlamajalcingoMonteMixtec"	"Atlamajalcingo del Monte"	"Mixtec"	17.31173	-98.60758	"atla1271"	"mim"
 21	"SanPedroAtoyacMixtec"	"San Pedro Atoyac"	"Mixtec"	16.48865	-97.9864		
-22	"AyutlalosLibresMixtec_A"	"Ayutla de los Libres"	"Mixtec"	16.8833	-98.9916	"ayut1236"	"miy"
-23	"AyutlalosLibresMixtec_B"	"Ayutla de los Libres"	"Mixtec"	16.8833	-98.9916	"ayut1236"	"miy"
+22	"Tepango_A"	"Tepango"	"Mixtec"	16.90322	-99.08613	"ayut1236"	"miy"
+23	"Tepango_B"	"Tepango"	"Mixtec"	16.90322	-99.08613	"ayut1236"	"miy"
 24	"LaBateaMixtec"	"La Batea"	"Mixtec"	17.35948	-97.83233	"mixt1425"	"mix"
 25	"SantaCruzBravoMixtec"	"Santa Cruz de Bravo"	"Mixtec"	17.58093	-98.22383		
 26	"SantiagoCacaloxtepecMixtec"	"Santiago Cacaloxtepec"	"Mixtec"	17.7248	-97.7637	"caca1250"	"miu"
@@ -35,7 +35,7 @@
 34	"SanMiguelChicahuaMixtec"	"San Miguel Chicahua"	"Mixtec"	17.63719	-97.19479		
 35	"SanAndresChicahuaxtlaTriqui_A"	"San Andrés Chicahuaxtla"	"Triqui"	17.15612	-97.84007	"chic1273"	"trs"
 36	"SanAndresChicahuaxtlaTriqui_B"	"San Andrés Chicahuaxtla"	"Triqui"	17.15612	-97.84007	"chic1273"	"trs"
-37	"ChigmecatitlanMixtec"	"Chigmecatitlán"	"Mixtec"	18.6303	-98.1046	"chig1239"	"mii"
+37	"SantaMariaChigmecatitlanMixtec"	"Santa María Chigmecatitlán"	"Mixtec"	18.6303	-98.1046	"chig1239"	"mii"
 38	"SanJuanCoatzospamMixtec_A"	"San Juan Coatzóspam"	"Mixtec"	18.04875	-96.76363	"coat1241"	"miz"
 39	"SanJuanCoatzospamMixtec_B"	"San Juan Coatzóspam"	"Mixtec"	18.04875	-96.76363	"coat1241"	"miz"
 40	"CoicoyanlasFloresMixtec"	"Coicoyán de las Flores"	"Mixtec"	17.27301	-98.27588	"coic1238"	"jmx"
