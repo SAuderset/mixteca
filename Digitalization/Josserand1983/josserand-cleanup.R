@@ -81,12 +81,12 @@ conc.sub <- conc %>% select(ID, Josserand_Code) %>%
 
 # add to new column via lookup, convert to lowercase first
 joss.m <- joss.f %>% mutate(DOCULECT = tolower(DOCULECT)) %>% mutate(DOCULECT = stri_trans_nfkc(DOCULECT))
-joss.m <- joss.f %>% right_join(conc.sub, by = c("DOCULECT"="Josserand_Code"))
-
+glimpse(joss.m)
+joss.m <- left_join(joss.m, conc.sub, by = c("DOCULECT"="Josserand_Code"))
 
 # split cells with / into two rows
 # clean out leading and trailing spaces, delete spaces before and after =,
-joss.f <- joss.f %>% 
+joss.m <- joss.m %>% 
   mutate(VALUE = str_remove_all(VALUE, "\\*")) %>%
   mutate(VALUE = str_replace_all(VALUE, " =", "=")) %>%
   mutate(VALUE = str_replace_all(VALUE, "= ", "=")) %>%
@@ -94,18 +94,18 @@ joss.f <- joss.f %>%
   mutate(VALUE = str_replace_all(VALUE, "/ ", "/")) %>%
   separate_rows(VALUE, sep = "/") %>%
   mutate(VALUE = trimws(VALUE, which = "both"))
-glimpse(joss.f)
+glimpse(joss.m)
 
 # clean up
-joss.fexp <- joss.f %>% select(IDjoss, CODEjoss = DOCULECT, GLOSSenglish = GLOSS_E, GLOSSspanish = GLOSS_S, VALUE)
+joss.mexp <- joss.m %>% select(IDjoss, CODEjoss = DOCULECT, GLOSSenglish = GLOSS_E, GLOSSspanish = GLOSS_S, VALUE)
 
 # export to file
-write_csv(joss.fexp, "josserand1983_long.csv")
+write_csv(joss.mexp, "josserand1983_long.csv")
 
 # further clean up for my use
 # remove [] from entries, remove asterisk from protoforms
 #  convert other spaces to -
-joss.f2 <- joss.f %>% 
+joss.f2 <- joss.m %>% 
   mutate(VALUE = str_remove_all(VALUE, "\\[")) %>%
   mutate(VALUE = str_remove_all(VALUE, "\\]")) %>%
   mutate(VALUE = str_replace_all(VALUE, " ", "-"))

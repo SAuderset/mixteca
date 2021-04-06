@@ -161,27 +161,27 @@
 160	"SantaMariaTonahuixtlaMixtec"	"Santa María Tonahuixtla"	"Mixtec"	18.20057	-97.89437		
 161	"TototepecMixtec"	"Tototepec"	"Mixtec"	17.43238	-98.58289	"toto1307"	"mim"
 162	"TotoltepecGuerreroMixtec"	"Totoltepec de Guerrero"	"Mixtec"	18.22581	-97.85526	"chaz1235"	"xtb"
-164	"SanPedroTututepecMixtec"	"San Pedro Tututepec"	"Mixtec"	16.12987	-97.6085	"tutu1243"	"mtu"
-165	"SanJeronimoXayacatlanMixtec"	"San Jerónimo Xayacatlán"	"Mixtec"	18.22159	-97.91563	"south3001"	"mit"
-166	"XayacatlanBravoMixtec"	"Xayacatlán de Bravo"	"Mixtec"	18.2353	-97.97435	"south3001"	"mit"
-167	"XochapaMixtec"	"Xochapa"	"Mixtec"	17.38134	-98.44988	"xoch1238"	"xta"
-168	"SantaMariaYolotepecMixtec"	"Santa María Yolotepec"	"Mixtec"	16.9648	-97.4537	"taca1257"	"xtt"
-169	"YoloxochitlMixtec"	"Yoloxochitl"	"Mixtec"	16.8059	-98.6293	"yolo1241"	"xty"
-170	"SantiagoYosonduaMixtec_A"	"Santiago Yosondúa"	"Mixtec"	16.9042	-97.5018	"yoso1239"	"mpm"
-171	"SantiagoYosonduaMixtec_B"	"Santiago Yosondúa"	"Mixtec"	16.9042	-97.5018	"yoso1239"	"mpm"
-172	"SantaMariaYosoyuaMixtec"	"Santa María Yosoyúa"	"Mixtec"	17.11985	-97.51553	"sant1442"	
-173	"SantaCatarinaYosonotuMixtec"	"Santa Catarina Yosonotú"	"Mixtec"	17.02073	-97.66201	"sant1438"	
-174	"SanPedroYosonamaMixtec"	"San Pedro Yosoñama"	"Mixtec"	17.4272	-97.77267	"yoso1238"	"xtn"
-175	"SanBartolomeYucuaneMixtec"	"San Bartolomé Yucuañe"	"Mixtec"	17.2832	-97.4285	"yucu1250"	"mvg"
-176	"SantaMariaYucuhitiMixtec"	"Santa María Yucuhiti"	"Mixtec"	17.03036	-97.78237	"yucu1249"	"meh"
-177	"YucunutiBenitoJuarezMixtec"	"Yucuñuti de Benito Juárez"	"Mixtec"	17.63409	-97.89151	"yucu1251"	"mxb"
-178	"SanPedroYucunamaMixtec"	"San Pedro Yucunama"	"Mixtec"	17.56221	-97.48291		
-179	"SantaMariaYucunicocoMixtec"	"Santa María Yucunicoco"	"Mixtec"	17.2372	-97.91806		
-180	"YucuquimiOcampoMixtec"	"Yucuquimi de Ocampo"	"Mixtec"	17.57853	-97.89014		
-181	"YucunanyMixtec"	"Yucunany"	"Mixtec"	17.300827	-97.893888	"mixt1425"	"mix"
-182	"YutanduchiGuerreroMixtec"	"Yutanduchi de Guerrero"	"Mixtec"	17.0311	-97.2293	"yuta1240"	"mab"
-183	"SanJuanYutaMixtec"	"San Juan Yuta"	"Mixtec"	17.02228	-97.17054		
-184	"SanAndresYutatioMixtec"	"San Andrés Yutatío"	"Mixtec"	17.60626	-97.89428		
-185	"SantaMariaZacatepecMixtec"	"Santa María Zacatepec"	"Mixtec"	16.7003	-97.9484	"sant1436"	"mza"
-186	"SanSimonZahuatlanMixtec"	"San Simón Zahuatlán"	"Mixtec"	17.8291	-98.00505	"sans1274"	
-187	"ZapotitlanPalmasMixtec"	"Zapotitlán Palmas"	"Mixtec"	17.88959	-97.82406		
+163	"SanPedroTututepecMixtec"	"San Pedro Tututepec"	"Mixtec"	16.12987	-97.6085	"tutu1243"	"mtu"
+164	"SanJeronimoXayacatlanMixtec"	"San Jerónimo Xayacatlán"	"Mixtec"	18.22159	-97.91563	"south3001"	"mit"
+165	"XayacatlanBravoMixtec"	"Xayacatlán de Bravo"	"Mixtec"	18.2353	-97.97435	"south3001"	"mit"
+166	"XochapaMixtec"	"Xochapa"	"Mixtec"	17.38134	-98.44988	"xoch1238"	"xta"
+167	"SantaMariaYolotepecMixtec"	"Santa María Yolotepec"	"Mixtec"	16.9648	-97.4537	"taca1257"	"xtt"
+168	"YoloxochitlMixtec"	"Yoloxochitl"	"Mixtec"	16.8059	-98.6293	"yolo1241"	"xty"
+169	"SantiagoYosonduaMixtec_A"	"Santiago Yosondúa"	"Mixtec"	16.9042	-97.5018	"yoso1239"	"mpm"
+170	"SantiagoYosonduaMixtec_B"	"Santiago Yosondúa"	"Mixtec"	16.9042	-97.5018	"yoso1239"	"mpm"
+171	"SantaMariaYosoyuaMixtec"	"Santa María Yosoyúa"	"Mixtec"	17.11985	-97.51553	"sant1442"	
+172	"SantaCatarinaYosonotuMixtec"	"Santa Catarina Yosonotú"	"Mixtec"	17.02073	-97.66201	"sant1438"	
+173	"SanPedroYosonamaMixtec"	"San Pedro Yosoñama"	"Mixtec"	17.4272	-97.77267	"yoso1238"	"xtn"
+174	"SanBartolomeYucuaneMixtec"	"San Bartolomé Yucuañe"	"Mixtec"	17.2832	-97.4285	"yucu1250"	"mvg"
+175	"SantaMariaYucuhitiMixtec"	"Santa María Yucuhiti"	"Mixtec"	17.03036	-97.78237	"yucu1249"	"meh"
+176	"YucunutiBenitoJuarezMixtec"	"Yucuñuti de Benito Juárez"	"Mixtec"	17.63409	-97.89151	"yucu1251"	"mxb"
+177	"SanPedroYucunamaMixtec"	"San Pedro Yucunama"	"Mixtec"	17.56221	-97.48291		
+178	"SantaMariaYucunicocoMixtec"	"Santa María Yucunicoco"	"Mixtec"	17.2372	-97.91806		
+179	"YucuquimiOcampoMixtec"	"Yucuquimi de Ocampo"	"Mixtec"	17.57853	-97.89014		
+180	"YucunanyMixtec"	"Yucunany"	"Mixtec"	17.300827	-97.893888	"mixt1425"	"mix"
+181	"YutanduchiGuerreroMixtec"	"Yutanduchi de Guerrero"	"Mixtec"	17.0311	-97.2293	"yuta1240"	"mab"
+182	"SanJuanYutaMixtec"	"San Juan Yuta"	"Mixtec"	17.02228	-97.17054		
+183	"SanAndresYutatioMixtec"	"San Andrés Yutatío"	"Mixtec"	17.60626	-97.89428		
+184	"SantaMariaZacatepecMixtec"	"Santa María Zacatepec"	"Mixtec"	16.7003	-97.9484	"sant1436"	"mza"
+185	"SanSimonZahuatlanMixtec"	"San Simón Zahuatlán"	"Mixtec"	17.8291	-98.00505	"sans1274"	
+186	"ZapotitlanPalmasMixtec"	"Zapotitlán Palmas"	"Mixtec"	17.88959	-97.82406		

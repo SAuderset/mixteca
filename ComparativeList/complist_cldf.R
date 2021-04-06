@@ -7,16 +7,16 @@ library(stringi)
 wl <- read_tsv("mixt_complist.tsv")
 
 # read modified list
-wl_mod <- read_tsv("/Users/auderset/Documents/GitHub/mixteca/src/lexibank_mixteca/raw/mixt_complist_clean.tsv")
+wl_mod <- read_tsv("../src/lexibank_mixteca/raw/mixt_complist_clean.tsv")
 
 # language list
-lang <- read_tsv("/Users/auderset/Documents/GitHub/mixteca/src/lexibank_mixteca/etc/languages.tsv")
+lang <- read_tsv("../src/lexibank_mixteca/etc/languages.tsv")
 
 # concept list
-conc <- read_tsv("/Users/auderset/Documents/GitHub/mixteca/src/lexibank_mixteca/etc/concepts.tsv")
+conc <- read_tsv("../src/lexibank_mixteca/etc/concepts.tsv")
 
 # concordance
-cord <- read_tsv("/Users/auderset/Documents/GitHub/mixteca/MetaInfo/mixtecan_concordance.tsv")
+cord <- read_tsv("../MetaInfo/mixtecan_concordance.tsv")
 
 
 # add new lang identifiers and move codes to new column
