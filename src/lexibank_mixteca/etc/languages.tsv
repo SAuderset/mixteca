@@ -20,8 +20,8 @@
 19	"SanAgustinAtenangoMixtec"	"San Agustín Atenango"	"Mixtec"	17.61188	-98.01527		
 20	"AtlamajalcingoMonteMixtec"	"Atlamajalcingo del Monte"	"Mixtec"	17.31173	-98.60758	"atla1271"	"mim"
 21	"SanPedroAtoyacMixtec"	"San Pedro Atoyac"	"Mixtec"	16.48865	-97.9864		
-22	"Tepango_A"	"Tepango"	"Mixtec"	16.90322	-99.08613	"ayut1236"	"miy"
-23	"Tepango_B"	"Tepango"	"Mixtec"	16.90322	-99.08613	"ayut1236"	"miy"
+22	"TepangoMixtec_A"	"Tepango"	"Mixtec"	16.90322	-99.08613	"ayut1236"	"miy"
+23	"TepangoMixtec_B"	"Tepango"	"Mixtec"	16.90322	-99.08613	"ayut1236"	"miy"
 24	"LaBateaMixtec"	"La Batea"	"Mixtec"	17.35948	-97.83233	"mixt1425"	"mix"
 25	"SantaCruzBravoMixtec"	"Santa Cruz de Bravo"	"Mixtec"	17.58093	-98.22383		
 26	"SantiagoCacaloxtepecMixtec"	"Santiago Cacaloxtepec"	"Mixtec"	17.7248	-97.7637	"caca1250"	"miu"
@@ -158,7 +158,7 @@
 157	"SantaCatarinaTlaltempanMixtec"	"Santa Catarina Tlaltempan"	"Mixtec"	18.61485	-98.08867		
 158	"SantiagoTlazoyaltepecMixtec"	"Santiago Tlazoyaltepec"	"Mixtec"	17.0274	-96.99583	"sant1446"	"mqh"
 159	"SantiagoTlazoyaltepecMixtec"	"Santiago Tlazoyaltepec"	"Mixtec"	17.02704	-96.9783	"tlaz1235"	"mqh"
-160	"SantaMariaTonahuixtlaMixtec"	"Santa María Tonahuixtla"	"Mixtec"	18.20057	-97.89437		
+160	"SantoDomingoTonahuixtlaMixtec"	"Santo Domingo Tonahuixtla"	"Mixtec"	18.20057	-97.89437		
 161	"TototepecMixtec"	"Tototepec"	"Mixtec"	17.43238	-98.58289	"toto1307"	"mim"
 162	"TotoltepecGuerreroMixtec"	"Totoltepec de Guerrero"	"Mixtec"	18.22581	-97.85526	"chaz1235"	"xtb"
 164	"SanPedroTututepecMixtec"	"San Pedro Tututepec"	"Mixtec"	16.12987	-97.6085	"tutu1243"	"mtu"
