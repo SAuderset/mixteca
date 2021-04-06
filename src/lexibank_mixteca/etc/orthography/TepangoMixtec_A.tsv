@@ -1,0 +1,70 @@
+Grapheme	IPA	Frequency
+^k	k	10
+i	i ¹	35
+t	t	16
+ī	i ³	35
+h$	ʔ	62
+^s	s	12
+-	+	4
+nd	ⁿd	1
+ō	o ³	5
+k	k	14
+o	o ¹	7
+^sh	ʃ	11
+sh	ʃ	12
+i$	i ¹	12
+^t	t	14
+ch	tʃ	5
+ā	a ³	29
+a	a ¹	22
+^ch	tʃ	3
+ty	tʲ
+^ty	tʲ
+$	NULL	4
+^nd	ⁿd	12
+u	u ¹	17
+^ñ	ɲ	5
+ū	u ³	16
+h	ʔ	31
+m	m	8
+in$	ĩ ¹	5
+^n	n	11
+n	n	16
+e$	e ¹	5
+a$	a ¹	14
+^kw	kʷ	9
+^i	i ¹	15
+^m	m	2
+ūn$	ũ ³	1
+^y	j	11
+o$	o ¹	6
+^v	β	8
+s	s	5
+u$	u ¹	11
+v	β	10
+y	j	6
+^ū	u ³	6
+ny	nʲ	1
+ā$	a ³	1
+un$	ũ ¹	3
+an$	ã ¹	1
+ē	e ³	3
+ī$	i ³	3
+e	e ¹	1
+īn$	ĩ ³	3
+ū$	u ³	2
+ñ	ɲ	3
+^ī	i ³	4
+á$	a ⁵	2
+ē$	e ³	1
+l	l	2
+^l	l	1
+^ā	a ³	1
+^ō	o ³	1
+kw	kʷ	1
+^a	a ¹	1
+uun$	ũ ¹ ũ ¹	1
+āān	ã ³ ã ³	1
+ānh$	ã ³ ʔ
+inh$ 	ĩ ¹ ʔ
+īīnh$	ĩ ³ ĩ ³ ʔ
