@@ -7,7 +7,6 @@
     "dc:isVersionOf": null,
     "dc:license": "https://creativecommons.org/licenses/by/4.0/",
     "dc:related": null,
-    "dc:source": "sources.bib",
     "dc:title": "CLDF dataset supplementing Audersets's \"Mixteca\"",
     "prov:wasDerivedFrom": [
         {
@@ -26,7 +25,7 @@
             "rdf:type": "prov:Entity",
             "dc:title": "CLTS",
             "rdf:about": "https://github.com/cldf-clts/clts",
-            "dc:created": "v1.4-108-g56bba2b"
+            "dc:created": "v1.4-161-g8b92f99"
         }
     ],
     "prov:wasGeneratedBy": [
@@ -47,7 +46,7 @@
     "tables": [
         {
             "dc:conformsTo": "http://cldf.clld.org/v1.0/terms.rdf#FormTable",
-            "dc:extent": 21726,
+            "dc:extent": 0,
             "tableSchema": {
                 "columns": [
                     {
@@ -158,7 +157,7 @@
         },
         {
             "dc:conformsTo": "http://cldf.clld.org/v1.0/terms.rdf#LanguageTable",
-            "dc:extent": 155,
+            "dc:extent": 0,
             "tableSchema": {
                 "columns": [
                     {
@@ -236,7 +235,7 @@
         },
         {
             "dc:conformsTo": "http://cldf.clld.org/v1.0/terms.rdf#ParameterTable",
-            "dc:extent": 276,
+            "dc:extent": 0,
             "tableSchema": {
                 "columns": [
                     {
