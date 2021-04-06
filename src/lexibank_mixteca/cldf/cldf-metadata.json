@@ -7,6 +7,7 @@
     "dc:isVersionOf": null,
     "dc:license": "https://creativecommons.org/licenses/by/4.0/",
     "dc:related": null,
+    "dc:source": "sources.bib",
     "dc:title": "CLDF dataset supplementing Audersets's \"Mixteca\"",
     "prov:wasDerivedFrom": [
         {
