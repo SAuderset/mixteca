@@ -1,213 +1,213 @@
-IDlist	GLOSS	VALUE	FORM	ID	NOTES	LOAN	LOAN_SOURCE	DOCULECT	SOURCE
-1	mother	ðɨ́hî		1139				diux11	kuiper1991syntactic
-2	mother!, mom!	nána		1140				diux11	kuiper1991syntactic
-3	father	taā		1141				diux11	kuiper1991syntactic
-4	father!, dad!	táta		1142				diux11	kuiper1991syntactic
-5	son/daughter, child	ðichí		1143				diux11	kuiper1991syntactic
-5	son/daughter, child	ðahyá		1144				diux11	kuiper1991syntactic
-6	son	$						diux11	kuiper1991syntactic
-7	daughter	$						diux11	kuiper1991syntactic
-8	cross-sex sibling	$						diux11	kuiper1991syntactic
-9	brother of man	ñá'ní		1145				diux11	kuiper1991syntactic
-10	sister of woman	kú'hú		1146				diux11	kuiper1991syntactic
-11	aunt	ðíðî		1147				diux11	kuiper1991syntactic
-12	uncle	ðítô		1148				diux11	kuiper1991syntactic
-13	man	té-yɨ̄ɨ	té-yɨ̄ɨ	1149	male-?			diux11	kuiper1991syntactic
-14	woman	ña-ðíhî	ña-ðíhî	1150	female-?			diux11	kuiper1991syntactic
-15	owner, boss	shtóho		1151				diux11	kuiper1991syntactic
-16	priest	ðutú		1152				diux11	kuiper1991syntactic
-17	blood	ñí'ñí	ñíñí	1153	tones are not basic form, only appears in one example			diux11	kuiper1991syntactic
-18	bone	$						diux11	kuiper1991syntactic
-19	hair	íðí		1154				diux11	kuiper1991syntactic
-20	face	nūú		1155				diux11	kuiper1991syntactic
-21	tongue	$						diux11	kuiper1991syntactic
-22	tooth	$						diux11	kuiper1991syntactic
-23	mouth	yūhu		1156				diux11	kuiper1991syntactic
-24	ear	ðóho		1157				diux11	kuiper1991syntactic
-25	nose	ðínhni		1158				diux11	kuiper1991syntactic
-26	neck	$						diux11	kuiper1991syntactic
-27	hand	ndāha		1159	not sure about basic tones			diux11	kuiper1991syntactic
-28	fingernail	tnɨ́ñɨ		1160	only as part of tɨ-tnɨ́ñɨ ‘mouse'			diux11	kuiper1991syntactic
-29	back	yátâ		1161				diux11	kuiper1991syntactic
-30	stomach	shiti		1162				diux11	kuiper1991syntactic
-31	intestine, guts	$						diux11	kuiper1991syntactic
-32	foot	shéhê		1163				diux11	kuiper1991syntactic
-33	illness, sickness	kwehe		1164	not sure about tones			diux11	kuiper1991syntactic
-34	medicine	tátná		1165	not sure about tones			diux11	kuiper1991syntactic
-35	swelling	$						diux11	kuiper1991syntactic
-36	pimple	$						diux11	kuiper1991syntactic
-37	pus	$						diux11	kuiper1991syntactic
-38	urine	$						diux11	kuiper1991syntactic
-39	cloth, clothes, clothing	ðanhma		1166				diux11	kuiper1991syntactic
-40	sandal, sandals	ndíshâ		1167				diux11	kuiper1991syntactic
-41	pants	shá'tú	shátú	1168	not basic tones			diux11	kuiper1991syntactic
-42	blouse	ðún'hnú	ðúnhnú	1169	not basic tones			diux11	kuiper1991syntactic
-43	town	ñûû		1170				diux11	kuiper1991syntactic
-44	house	vēhe		1171				diux11	kuiper1991syntactic
-45	road	īchi		1172				diux11	kuiper1991syntactic
-46	post	$						diux11	kuiper1991syntactic
-47	mat, sleeping mat, straw mat	yúú		1173	not basic tones			diux11	kuiper1991syntactic
-48	bed	$						diux11	kuiper1991syntactic
-49	chair	siyá		1174	Sp. silla	yes	Spanish	diux11	kuiper1991syntactic
-50	animal	kɨ̄tɨ		1175				diux11	kuiper1991syntactic
-51	bird	chiliðáá		1176	not basic tones; looks like a compound			diux11	kuiper1991syntactic
-52	fish	chāka		1177	not basic tones probably			diux11	kuiper1991syntactic
-53	snake	kó'ó		1178	not basic tones probably			diux11	kuiper1991syntactic
-54	frog	$						diux11	kuiper1991syntactic
-55	hawk	$						diux11	kuiper1991syntactic
-56	scorpion	$						diux11	kuiper1991syntactic
-57	cockroach	$						diux11	kuiper1991syntactic
-58	grasshopper	$						diux11	kuiper1991syntactic
-59	bee	tndáka	tn-dáka	1179	animal-fish; not entirely sure about segmentation			diux11	kuiper1991syntactic
-59	bee	ñú'ñú	ñúñú	1180	don't know what the difference is to the other one			diux11	kuiper1991syntactic
-60	mouse	tɨ-tnɨ́ñɨ	tɨ-tnɨ́ñɨ	1181	animal-fingernail			diux11	kuiper1991syntactic
-61	deer	í'ðú	íðú	1182	deleted accent mark			diux11	kuiper1991syntactic
-62	squirrel	$						diux11	kuiper1991syntactic
-63	skunk	$						diux11	kuiper1991syntactic
-64	(o)possum	$						diux11	kuiper1991syntactic
-65	raccoon	$						diux11	kuiper1991syntactic
-66	rabbit	konexó		1183	Sp. conejo	yes	Spanish	diux11	kuiper1991syntactic
-67	turkey vulture	chó'kó	chókó	1184	not basic tones			diux11	kuiper1991syntactic
-68	dog	í'ná	íná	1185				diux11	kuiper1991syntactic
-68	dog	ti-hînâ	ti-hînâ	1186	animal-dog; not sure what the difference is to the other one			diux11	kuiper1991syntactic
-69	cat	vílu		1187				diux11	kuiper1991syntactic
-70	rooster	lihí		1188				diux11	kuiper1991syntactic
-71	chicken	chūún		1189				diux11	kuiper1991syntactic
-72	pig	$						diux11	kuiper1991syntactic
-73	horse	$						diux11	kuiper1991syntactic
-74	sheep	t-káchi	t-káchi	1190	animal-cotton			diux11	kuiper1991syntactic
-75	ant	$						diux11	kuiper1991syntactic
-76	horn (anatomy)	$						diux11	kuiper1991syntactic
-77	feather	$						diux11	kuiper1991syntactic
-78	wing	$						diux11	kuiper1991syntactic
-79	tail	ðú'hán	ðúhán	1191	not basic tones			diux11	kuiper1991syntactic
-80	tree	yūtnu		1192	basic tones			diux11	kuiper1991syntactic
-81	herb	$						diux11	kuiper1991syntactic
-82	grass	$						diux11	kuiper1991syntactic
-83	flower	ita		1193				diux11	kuiper1991syntactic
-84	maguey, century plant	yáú		1194				diux11	kuiper1991syntactic
-85	root	yoho		1195				diux11	kuiper1991syntactic
-86	thorn	íñú		1196	not basic tones			diux11	kuiper1991syntactic
-87	corn	núnî		1197				diux11	kuiper1991syntactic
-88	cornfield	ítû		1198				diux11	kuiper1991syntactic
-89	ear of corn	ñɨ́ñɨ́		1199				diux11	kuiper1991syntactic
-90	nixtamal	$						diux11	kuiper1991syntactic
-91	corn dough, tortilla dough	yūsha		1200				diux11	kuiper1991syntactic
-92	tortilla	ðítâ		1201				diux11	kuiper1991syntactic
-93	cleared field, cornstalk	$						diux11	kuiper1991syntactic
-94	furrow, planting row	$						diux11	kuiper1991syntactic
-95	tassel, maize spike	$						diux11	kuiper1991syntactic
-96	legume	nduchi		1202				diux11	kuiper1991syntactic
-97	green bean	ndí'chí	ndíchí	1203	not basic tones, deleted accent mark			diux11	kuiper1991syntactic
-98	chili pepper	yáhá		1204				diux11	kuiper1991syntactic
-99	salt	ñɨ́'ɨ́	ñɨ́ɨ́	1205	not basic tones			diux11	kuiper1991syntactic
-100	squash	$						diux11	kuiper1991syntactic
-101	chayote squash	$						diux11	kuiper1991syntactic
-102	sugar cane	$						diux11	kuiper1991syntactic
-103	honey	$						diux11	kuiper1991syntactic
-104	lard, grease	ðé'hén	ðéhén	1206	not basic tones			diux11	kuiper1991syntactic
-105	egg	ndɨu		1207				diux11	kuiper1991syntactic
-106	tomato	t-nána	t-nána	1208	spherical-?			diux11	kuiper1991syntactic
-107	edible tuber	$						diux11	kuiper1991syntactic
-108	avocado	tɨ́chɨ		1209	only in tnu-tɨ́chɨ ‘avocado tree'			diux11	kuiper1991syntactic
-109	banana	kwí'hí	kwíhí	1210	not basic tones			diux11	kuiper1991syntactic
-110	prickly pear cactus	víhndê		1211				diux11	kuiper1991syntactic
-111	mamey	$						diux11	kuiper1991syntactic
-112	custard apple	$						diux11	kuiper1991syntactic
-113	mushroom	$						diux11	kuiper1991syntactic
-114	meat	kú'ñú	kúñú	1212	not basic tones			diux11	kuiper1991syntactic
-115	griddle	$						diux11	kuiper1991syntactic
-116	pot	kɨ́ðɨ̂		1213				diux11	kuiper1991syntactic
-117	oven	$						diux11	kuiper1991syntactic
-118	fire	ñúhû		1214				diux11	kuiper1991syntactic
-119	ash	$						diux11	kuiper1991syntactic
-120	charcoal	$						diux11	kuiper1991syntactic
-121	smoke	$						diux11	kuiper1991syntactic
-122	garbage, trash	mí'hí		1215				diux11	kuiper1991syntactic
-123	plate	kóhô		1216	not basic tones			diux11	kuiper1991syntactic
-124	gourd, gourd bowl	$						diux11	kuiper1991syntactic
-125	basket	yɨ̄ka		1217				diux11	kuiper1991syntactic
-126	box, trunk	shá'tnú	shátnú	1218	not basic tones			diux11	kuiper1991syntactic
-127	thread	$						diux11	kuiper1991syntactic
-128	comb	$						diux11	kuiper1991syntactic
-129	rope	yóhó		1219				diux11	kuiper1991syntactic
-130	hole	yɨ́hɨ		1220	only in compound yu-yau-yɨ́hɨ mouth-hole-tiger ‘edge of the tiger's hole'			diux11	kuiper1991syntactic
-131	net, net bag	ñúnú		1221				diux11	kuiper1991syntactic
-132	soap	ná'má		1222				diux11	kuiper1991syntactic
-133	ring	$						diux11	kuiper1991syntactic
-134	moon	yôô		1223				diux11	kuiper1991syntactic
-135	cloud	víkô		1224				diux11	kuiper1991syntactic
-136	lightning	$						diux11	kuiper1991syntactic
-137	water	ndūte		1225				diux11	kuiper1991syntactic
-138	rain (precipitation)	ðá'ú	ðáú	1226				diux11	kuiper1991syntactic
-139	river	yūte		1227				diux11	kuiper1991syntactic
-140	dew	$						diux11	kuiper1991syntactic
-141	mountain	yūku		1228				diux11	kuiper1991syntactic
-142	plain, flatland, lowland	$						diux11	kuiper1991syntactic
-143	stone, rock	yûû		1229				diux11	kuiper1991syntactic
-144	cotton	káchi		1230	only as part of t-káchi ‘sheep'			diux11	kuiper1991syntactic
-145	metal	kaa		1231				diux11	kuiper1991syntactic
-146	paper	tūtû		1232				diux11	kuiper1991syntactic
-147	lime (material)	$						diux11	kuiper1991syntactic
-148	wax	ñú'á	ñúá	1233				diux11	kuiper1991syntactic
-149	mud	ndehyû		1234				diux11	kuiper1991syntactic
-150	foam	$						diux11	kuiper1991syntactic
-151	dust	$		1235				diux11	kuiper1991syntactic
-152	red	kwéhe		1236	not basic tones			diux11	kuiper1991syntactic
-153	green	kwīī		1237	not basic tones			diux11	kuiper1991syntactic
-154	yellow	kwāan		1238	not basic tones			diux11	kuiper1991syntactic
-155	black	tnúū		1239				diux11	kuiper1991syntactic
-156	white	kwishí		1240				diux11	kuiper1991syntactic
-157	one	ɨ̄ɨ̄n		1241	basic tones			diux11	kuiper1991syntactic
-158	two	úû		1242	basic tones			diux11	kuiper1991syntactic
-159	three	únî		1243	basic tones			diux11	kuiper1991syntactic
-160	four	kóôn		1244	basic tones			diux11	kuiper1991syntactic
-161	five	óhôn		1245	basic tones			diux11	kuiper1991syntactic
-162	six	íñû		1246	basic tones			diux11	kuiper1991syntactic
-163	seven	úshâ		1247	basic tones			diux11	kuiper1991syntactic
-164	eight	únâ		1248	basic tones			diux11	kuiper1991syntactic
-165	nine	ɨ́ɨ̂n		1249	basic tones			diux11	kuiper1991syntactic
-166	ten	úshî		1250	basic tones			diux11	kuiper1991syntactic
-167	fifteen	shánhûn		1251	basic tones			diux11	kuiper1991syntactic
-168	twenty	ókô		1252	basic tones			diux11	kuiper1991syntactic
-169	poor	ndahú		1253				diux11	kuiper1991syntactic
-170	rich	$						diux11	kuiper1991syntactic
-171	cold	víshî		1254				diux11	kuiper1991syntactic
-172	hot	ínhní		1255	not basic tones			diux11	kuiper1991syntactic
-173	big.SG	kánhnu		1256	basic tones			diux11	kuiper1991syntactic
-174	big.PL	nánhnu		1257	basic tones			diux11	kuiper1991syntactic
-175	small.SG	luchī		1258	basic tones			diux11	kuiper1991syntactic
-176	small.PL	kwechī		1259	basic tones			diux11	kuiper1991syntactic
-177	long.SG	kaní		1260	basic tones			diux11	kuiper1991syntactic
-178	long.PL	naní		1261	basic tones			diux11	kuiper1991syntactic
-179	good	váhâ		1262				diux11	kuiper1991syntactic
-180	sweet	víðî		1263				diux11	kuiper1991syntactic
-181	salty	$						diux11	kuiper1991syntactic
-182	bitter	$			only verb kúhvâ ‘be bitter' 			diux11	kuiper1991syntactic
-183	tasty, delicious	aðɨ̄		1264	not basic tones			diux11	kuiper1991syntactic
-184	wide	nunu		1265	basic tones			diux11	kuiper1991syntactic
-185	new	$						diux11	kuiper1991syntactic
-186	lazy	kúðí		1266	not basic tones			diux11	kuiper1991syntactic
-187	ugly	kwihá		1267				diux11	kuiper1991syntactic
-188	jealous	kwiñā		1268				diux11	kuiper1991syntactic
-189	near	yátní		1269				diux11	kuiper1991syntactic
-190	far	shíká		1270				diux11	kuiper1991syntactic
-191	heavy	vēé		1271	not basic tones			diux11	kuiper1991syntactic
-192	raw	$						diux11	kuiper1991syntactic
-193	smooth	$						diux11	kuiper1991syntactic
-194	slow	kweē		1272				diux11	kuiper1991syntactic
-195	yesterday	íkú		1273				diux11	kuiper1991syntactic
-196	year	kwi'á	kwiá	1274				diux11	kuiper1991syntactic
-197	now, today	vítna		1275				diux11	kuiper1991syntactic
-198	night, blind	kwaá		1276	the gloss is ‘blind', but in the free translation ‘night' in all examples			diux11	kuiper1991syntactic
-199	night time, at night	niu		1277				diux11	kuiper1991syntactic
-200	day	kɨ̄ú		1278				diux11	kuiper1991syntactic
-201	day time	ndúú		1279				diux11	kuiper1991syntactic
-202	half, middle	ðáva		1280				diux11	kuiper1991syntactic
-203	money	tviní		1281	from Old Sp. tomín	yes	Old Spanish	diux11	kuiper1991syntactic
-204	work	tniū		1282				diux11	kuiper1991syntactic
-205	word	tnúhû		1283				diux11	kuiper1991syntactic
-206	fault, sin	kwéchí		1284	not basic tones			diux11	kuiper1991syntactic
-207	dream	$			verb is listed			diux11	kuiper1991syntactic
-208	when	ná		1285	not sure if this used as a question too			diux11	kuiper1991syntactic
-209	song, music	yáa		1286	only as part of tnu-yáa wood-music ‘oak'			diux11	kuiper1991syntactic
+IDlist	GLOSS	VALUE	FORM	NOTES	LOAN	LOAN_SOURCE	DOCULECT	SOURCE
+1	mother	ðɨ́hî					diux11	kuiper1991syntactic
+2	mother!, mom!	nána					diux11	kuiper1991syntactic
+3	father	taā					diux11	kuiper1991syntactic
+4	father!, dad!	táta					diux11	kuiper1991syntactic
+5	son/daughter, child	ðichí					diux11	kuiper1991syntactic
+5	son/daughter, child	ðahyá					diux11	kuiper1991syntactic
+6	son	$					diux11	kuiper1991syntactic
+7	daughter	$					diux11	kuiper1991syntactic
+8	cross-sex sibling	$					diux11	kuiper1991syntactic
+9	brother of man	ñá'ní					diux11	kuiper1991syntactic
+10	sister of woman	kú'hú					diux11	kuiper1991syntactic
+11	aunt	ðíðî					diux11	kuiper1991syntactic
+12	uncle	ðítô					diux11	kuiper1991syntactic
+13	man	té-yɨ̄ɨ	té-yɨ̄ɨ	male-?			diux11	kuiper1991syntactic
+14	woman	ña-ðíhî	ña-ðíhî	female-?			diux11	kuiper1991syntactic
+15	owner, boss	shtóho					diux11	kuiper1991syntactic
+16	priest	ðutú					diux11	kuiper1991syntactic
+17	blood	ñí'ñí	ñíñí	tones are not basic form, only appears in one example			diux11	kuiper1991syntactic
+18	bone	$					diux11	kuiper1991syntactic
+19	hair	íðí					diux11	kuiper1991syntactic
+20	face	nūú					diux11	kuiper1991syntactic
+21	tongue	$					diux11	kuiper1991syntactic
+22	tooth	$					diux11	kuiper1991syntactic
+23	mouth	yūhu					diux11	kuiper1991syntactic
+24	ear	ðóho					diux11	kuiper1991syntactic
+25	nose	ðínhni					diux11	kuiper1991syntactic
+26	neck	$					diux11	kuiper1991syntactic
+27	hand	ndāha		not sure about basic tones			diux11	kuiper1991syntactic
+28	fingernail	tnɨ́ñɨ		only as part of tɨ-tnɨ́ñɨ ‘mouse'			diux11	kuiper1991syntactic
+29	back	yátâ					diux11	kuiper1991syntactic
+30	stomach	shiti					diux11	kuiper1991syntactic
+31	intestine, guts	$					diux11	kuiper1991syntactic
+32	foot	shéhê					diux11	kuiper1991syntactic
+33	illness, sickness	kwehe		not sure about tones			diux11	kuiper1991syntactic
+34	medicine	tátná		not sure about tones			diux11	kuiper1991syntactic
+35	swelling	$					diux11	kuiper1991syntactic
+36	pimple	$					diux11	kuiper1991syntactic
+37	pus	$					diux11	kuiper1991syntactic
+38	urine	$					diux11	kuiper1991syntactic
+39	cloth, clothes, clothing	ðanhma					diux11	kuiper1991syntactic
+40	sandal, sandals	ndíshâ					diux11	kuiper1991syntactic
+41	pants	shá'tú	shátú	not basic tones			diux11	kuiper1991syntactic
+42	blouse	ðún'hnú	ðúnhnú	not basic tones			diux11	kuiper1991syntactic
+43	town	ñûû					diux11	kuiper1991syntactic
+44	house	vēhe					diux11	kuiper1991syntactic
+45	road	īchi					diux11	kuiper1991syntactic
+46	post	$					diux11	kuiper1991syntactic
+47	mat, sleeping mat, straw mat	yúú		not basic tones			diux11	kuiper1991syntactic
+48	bed	$					diux11	kuiper1991syntactic
+49	chair	siyá		Sp. silla	yes	Spanish	diux11	kuiper1991syntactic
+50	animal	kɨ̄tɨ					diux11	kuiper1991syntactic
+51	bird	chiliðáá		not basic tones; looks like a compound			diux11	kuiper1991syntactic
+52	fish	chāka		not basic tones probably			diux11	kuiper1991syntactic
+53	snake	kó'ó		not basic tones probably			diux11	kuiper1991syntactic
+54	frog	$					diux11	kuiper1991syntactic
+55	hawk	$					diux11	kuiper1991syntactic
+56	scorpion	$					diux11	kuiper1991syntactic
+57	cockroach	$					diux11	kuiper1991syntactic
+58	grasshopper	$					diux11	kuiper1991syntactic
+59	bee	tndáka	tn-dáka	animal-fish; not entirely sure about segmentation			diux11	kuiper1991syntactic
+59	bee	ñú'ñú	ñúñú	don't know what the difference is to the other one			diux11	kuiper1991syntactic
+60	mouse	tɨ-tnɨ́ñɨ	tɨ-tnɨ́ñɨ	animal-fingernail			diux11	kuiper1991syntactic
+61	deer	í'ðú	íðú	deleted accent mark			diux11	kuiper1991syntactic
+62	squirrel	$					diux11	kuiper1991syntactic
+63	skunk	$					diux11	kuiper1991syntactic
+64	(o)possum	$					diux11	kuiper1991syntactic
+65	raccoon	$					diux11	kuiper1991syntactic
+66	rabbit	konexó		Sp. conejo	yes	Spanish	diux11	kuiper1991syntactic
+67	turkey vulture	chó'kó	chókó	not basic tones			diux11	kuiper1991syntactic
+68	dog	í'ná	íná				diux11	kuiper1991syntactic
+68	dog	ti-hînâ	ti-hînâ	animal-dog; not sure what the difference is to the other one			diux11	kuiper1991syntactic
+69	cat	vílu					diux11	kuiper1991syntactic
+70	rooster	lihí					diux11	kuiper1991syntactic
+71	chicken	chūún					diux11	kuiper1991syntactic
+72	pig	$					diux11	kuiper1991syntactic
+73	horse	$					diux11	kuiper1991syntactic
+74	sheep	t-káchi	t-káchi	animal-cotton			diux11	kuiper1991syntactic
+75	ant	$					diux11	kuiper1991syntactic
+76	horn (anatomy)	$					diux11	kuiper1991syntactic
+77	feather	$					diux11	kuiper1991syntactic
+78	wing	$					diux11	kuiper1991syntactic
+79	tail	ðú'hán	ðúhán	not basic tones			diux11	kuiper1991syntactic
+80	tree	yūtnu		basic tones			diux11	kuiper1991syntactic
+81	herb	$					diux11	kuiper1991syntactic
+82	grass	$					diux11	kuiper1991syntactic
+83	flower	ita					diux11	kuiper1991syntactic
+84	maguey, century plant	yáú					diux11	kuiper1991syntactic
+85	root	yoho					diux11	kuiper1991syntactic
+86	thorn	íñú		not basic tones			diux11	kuiper1991syntactic
+87	corn	núnî					diux11	kuiper1991syntactic
+88	cornfield	ítû					diux11	kuiper1991syntactic
+89	ear of corn	ñɨ́ñɨ́					diux11	kuiper1991syntactic
+90	nixtamal	$					diux11	kuiper1991syntactic
+91	corn dough, tortilla dough	yūsha					diux11	kuiper1991syntactic
+92	tortilla	ðítâ					diux11	kuiper1991syntactic
+93	cleared field, cornstalk	$					diux11	kuiper1991syntactic
+94	furrow, planting row	$					diux11	kuiper1991syntactic
+95	tassel, maize spike	$					diux11	kuiper1991syntactic
+96	legume	nduchi					diux11	kuiper1991syntactic
+97	green bean	ndí'chí	ndíchí	not basic tones, deleted accent mark			diux11	kuiper1991syntactic
+98	chili pepper	yáhá					diux11	kuiper1991syntactic
+99	salt	ñɨ́'ɨ́	ñɨ́ɨ́	not basic tones			diux11	kuiper1991syntactic
+100	squash	$					diux11	kuiper1991syntactic
+101	chayote squash	$					diux11	kuiper1991syntactic
+102	sugar cane	$					diux11	kuiper1991syntactic
+103	honey	$					diux11	kuiper1991syntactic
+104	lard, grease	ðé'hén	ðéhén	not basic tones			diux11	kuiper1991syntactic
+105	egg	ndɨu					diux11	kuiper1991syntactic
+106	tomato	t-nána	t-nána	spherical-?			diux11	kuiper1991syntactic
+107	edible tuber	$					diux11	kuiper1991syntactic
+108	avocado	tɨ́chɨ		only in tnu-tɨ́chɨ ‘avocado tree'			diux11	kuiper1991syntactic
+109	banana	kwí'hí	kwíhí	not basic tones			diux11	kuiper1991syntactic
+110	prickly pear cactus	víhndê					diux11	kuiper1991syntactic
+111	mamey	$					diux11	kuiper1991syntactic
+112	custard apple	$					diux11	kuiper1991syntactic
+113	mushroom	$					diux11	kuiper1991syntactic
+114	meat	kú'ñú	kúñú	not basic tones			diux11	kuiper1991syntactic
+115	griddle	$					diux11	kuiper1991syntactic
+116	pot	kɨ́ðɨ̂					diux11	kuiper1991syntactic
+117	oven	$					diux11	kuiper1991syntactic
+118	fire	ñúhû					diux11	kuiper1991syntactic
+119	ash	$					diux11	kuiper1991syntactic
+120	charcoal	$					diux11	kuiper1991syntactic
+121	smoke	$					diux11	kuiper1991syntactic
+122	garbage, trash	mí'hí					diux11	kuiper1991syntactic
+123	plate	kóhô		not basic tones			diux11	kuiper1991syntactic
+124	gourd, gourd bowl	$					diux11	kuiper1991syntactic
+125	basket	yɨ̄ka					diux11	kuiper1991syntactic
+126	box, trunk	shá'tnú	shátnú	not basic tones			diux11	kuiper1991syntactic
+127	thread	$					diux11	kuiper1991syntactic
+128	comb	$					diux11	kuiper1991syntactic
+129	rope	yóhó					diux11	kuiper1991syntactic
+130	hole	yɨ́hɨ		only in compound yu-yau-yɨ́hɨ mouth-hole-tiger ‘edge of the tiger's hole'			diux11	kuiper1991syntactic
+131	net, net bag	ñúnú					diux11	kuiper1991syntactic
+132	soap	ná'má					diux11	kuiper1991syntactic
+133	ring	$					diux11	kuiper1991syntactic
+134	moon	yôô					diux11	kuiper1991syntactic
+135	cloud	víkô					diux11	kuiper1991syntactic
+136	lightning	$					diux11	kuiper1991syntactic
+137	water	ndūte					diux11	kuiper1991syntactic
+138	rain (precipitation)	ðá'ú	ðáú				diux11	kuiper1991syntactic
+139	river	yūte					diux11	kuiper1991syntactic
+140	dew	$					diux11	kuiper1991syntactic
+141	mountain	yūku					diux11	kuiper1991syntactic
+142	plain, flatland, lowland	$					diux11	kuiper1991syntactic
+143	stone, rock	yûû					diux11	kuiper1991syntactic
+144	cotton	káchi		only as part of t-káchi ‘sheep'			diux11	kuiper1991syntactic
+145	metal	kaa					diux11	kuiper1991syntactic
+146	paper	tūtû					diux11	kuiper1991syntactic
+147	lime (material)	$					diux11	kuiper1991syntactic
+148	wax	ñú'á	ñúá				diux11	kuiper1991syntactic
+149	mud	ndehyû					diux11	kuiper1991syntactic
+150	foam	$					diux11	kuiper1991syntactic
+151	dust	$					diux11	kuiper1991syntactic
+152	red	kwéhe		not basic tones			diux11	kuiper1991syntactic
+153	green	kwīī		not basic tones			diux11	kuiper1991syntactic
+154	yellow	kwāan		not basic tones			diux11	kuiper1991syntactic
+155	black	tnúū					diux11	kuiper1991syntactic
+156	white	kwishí					diux11	kuiper1991syntactic
+157	one	ɨ̄ɨ̄n		basic tones			diux11	kuiper1991syntactic
+158	two	úû		basic tones			diux11	kuiper1991syntactic
+159	three	únî		basic tones			diux11	kuiper1991syntactic
+160	four	kóôn		basic tones			diux11	kuiper1991syntactic
+161	five	óhôn		basic tones			diux11	kuiper1991syntactic
+162	six	íñû		basic tones			diux11	kuiper1991syntactic
+163	seven	úshâ		basic tones			diux11	kuiper1991syntactic
+164	eight	únâ		basic tones			diux11	kuiper1991syntactic
+165	nine	ɨ́ɨ̂n		basic tones			diux11	kuiper1991syntactic
+166	ten	úshî		basic tones			diux11	kuiper1991syntactic
+167	fifteen	shánhûn		basic tones			diux11	kuiper1991syntactic
+168	twenty	ókô		basic tones			diux11	kuiper1991syntactic
+169	poor	ndahú					diux11	kuiper1991syntactic
+170	rich	$					diux11	kuiper1991syntactic
+171	cold	víshî					diux11	kuiper1991syntactic
+172	hot	ínhní		not basic tones			diux11	kuiper1991syntactic
+173	big.SG	kánhnu		basic tones			diux11	kuiper1991syntactic
+174	big.PL	nánhnu		basic tones			diux11	kuiper1991syntactic
+175	small.SG	luchī		basic tones			diux11	kuiper1991syntactic
+176	small.PL	kwechī		basic tones			diux11	kuiper1991syntactic
+177	long.SG	kaní		basic tones			diux11	kuiper1991syntactic
+178	long.PL	naní		basic tones			diux11	kuiper1991syntactic
+179	good	váhâ					diux11	kuiper1991syntactic
+180	sweet	víðî					diux11	kuiper1991syntactic
+181	salty	$					diux11	kuiper1991syntactic
+182	bitter	$		only verb kúhvâ ‘be bitter' 			diux11	kuiper1991syntactic
+183	tasty, delicious	aðɨ̄		not basic tones			diux11	kuiper1991syntactic
+184	wide	nunu		basic tones			diux11	kuiper1991syntactic
+185	new	$					diux11	kuiper1991syntactic
+186	lazy	kúðí		not basic tones			diux11	kuiper1991syntactic
+187	ugly	kwihá					diux11	kuiper1991syntactic
+188	jealous	kwiñā					diux11	kuiper1991syntactic
+189	near	yátní					diux11	kuiper1991syntactic
+190	far	shíká					diux11	kuiper1991syntactic
+191	heavy	vēé		not basic tones			diux11	kuiper1991syntactic
+192	raw	$					diux11	kuiper1991syntactic
+193	smooth	$					diux11	kuiper1991syntactic
+194	slow	kweē					diux11	kuiper1991syntactic
+195	yesterday	íkú					diux11	kuiper1991syntactic
+196	year	kwi'á	kwiá				diux11	kuiper1991syntactic
+197	now, today	vítna					diux11	kuiper1991syntactic
+198	night, blind	kwaá		the gloss is ‘blind', but in the free translation ‘night' in all examples			diux11	kuiper1991syntactic
+199	night time, at night	niu					diux11	kuiper1991syntactic
+200	day	kɨ̄ú					diux11	kuiper1991syntactic
+201	day time	ndúú					diux11	kuiper1991syntactic
+202	half, middle	ðáva					diux11	kuiper1991syntactic
+203	money	tviní		from Old Sp. tomín	yes	Old Spanish	diux11	kuiper1991syntactic
+204	work	tniū					diux11	kuiper1991syntactic
+205	word	tnúhû					diux11	kuiper1991syntactic
+206	fault, sin	kwéchí		not basic tones			diux11	kuiper1991syntactic
+207	dream	$		verb is listed			diux11	kuiper1991syntactic
+208	when	ná		not sure if this used as a question too			diux11	kuiper1991syntactic
+209	song, music	yáa		only as part of tnu-yáa wood-music ‘oak'			diux11	kuiper1991syntactic

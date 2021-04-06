@@ -1,216 +1,216 @@
-IDlist	CATEGORY	GLOSS	VALUE	FORM	ID	NOTES	LOAN	LOAN_SOURCE	DOCULECT	SOURCE
-1	kinship	madre	nánà		20100				dura11	hernandez2020san-martin
-2	kinship	mamá!	náná		20101				dura11	hernandez2020san-martin
-3	kinship	padre	tátà		20102				dura11	hernandez2020san-martin
-4	kinship	papá!	tátá		20103		yes	Spanish	dura11	hernandez2020san-martin
-5	kinship	hijo/hija	se'e		20104				dura11	hernandez2020san-martin
-6	kinship	hijo	$						dura11	hernandez2020san-martin
-7	kinship	hija	$						dura11	hernandez2020san-martin
-8	kinship	hermana/hermano de otro genero	kò'va		20105				dura11	hernandez2020san-martin
-9	kinship	hermano de hombre	ñani		20106				dura11	hernandez2020san-martin
-10	kinship	hermana de mujer	kì'vì		20107				dura11	hernandez2020san-martin
-11	kinship	tía	shishi		20108				dura11	hernandez2020san-martin
-12	kinship	tío	shito		20109				dura11	hernandez2020san-martin
-13	person	hombre	txàa		20110				dura11	hernandez2020san-martin
-14	person	mujer	ña'à		20111				dura11	hernandez2020san-martin
-15	person	dueño	sito'o		20112				dura11	hernandez2020san-martin
-16	person	sacerdote	sìtì		20113				dura11	hernandez2020san-martin
-17	body	sangre	nìì		20114				dura11	hernandez2020san-martin
-18	body	hueso	ko'nto		20115				dura11	hernandez2020san-martin
-19	body	pelo	ishì		20116				dura11	hernandez2020san-martin
-20	body	cara	nùù		20117				dura11	hernandez2020san-martin
-21	body	lengua	yáà		20118				dura11	hernandez2020san-martin
-22	body	diente	nù'un		20119				dura11	hernandez2020san-martin
-23	body	boca	yi'ì		20120				dura11	hernandez2020san-martin
-24	body	oreja	sò'o		20121				dura11	hernandez2020san-martin
-25	body	nariz	xìtxì		20122				dura11	hernandez2020san-martin
-26	body	cuello, garganta	sùkùn		20123				dura11	hernandez2020san-martin
-27	body	mano	nta'à		20124				dura11	hernandez2020san-martin
-28	body	uña	chíìn		20125				dura11	hernandez2020san-martin
-29	body	espalda	sàtà		20126				dura11	hernandez2020san-martin
-30	body	estómago	txìxin		20127				dura11	hernandez2020san-martin
-31	body	tripa, tripas	xitxi		20128				dura11	hernandez2020san-martin
-32	body	pie	xa'à		20129				dura11	hernandez2020san-martin
-33	body	enfermedad	kuè'è		20130				dura11	hernandez2020san-martin
-34	body	medicina	tàtàn		20131				dura11	hernandez2020san-martin
-35	body	hinchazón	kuiñu		20132				dura11	hernandez2020san-martin
-36	body	grano	ntxì'i		20133				dura11	hernandez2020san-martin
-37	body	pus, materia	lakuàn		20134				dura11	hernandez2020san-martin
-38	body	orina	txìsháshá	txì-sháshá	20135	liquid-pee(v)			dura11	hernandez2020san-martin
-39	clothing	ropa	txikòtò	txi-kòtò	20136				dura11	hernandez2020san-martin
-40	clothing	huarache	íntxixàn		20137				dura11	hernandez2020san-martin
-41	clothing	pantalón	xati		20138				dura11	hernandez2020san-martin
-42	clothing	huipil	shìkùn		20139				dura11	hernandez2020san-martin
-43	living	pueblo	ñuu		20140				dura11	hernandez2020san-martin
-44	living	casa	ve'e		20141				dura11	hernandez2020san-martin
-45	living	camino	ichì		20142				dura11	hernandez2020san-martin
-46	living	horcón	sì'ìn		20143				dura11	hernandez2020san-martin
-47	living	petate	yivì		20144				dura11	hernandez2020san-martin
-48	living	cama, lecho	xìto		20145				dura11	hernandez2020san-martin
-49	living	silla	txeì		20146				dura11	hernandez2020san-martin
-50	animal	animal	kitxì		20147				dura11	hernandez2020san-martin
-51	animal	pájaro	laa		20148				dura11	hernandez2020san-martin
-52	animal	pez, pescado	txaká		20149				dura11	hernandez2020san-martin
-53	animal	culebra, serpiente	kòò		20150				dura11	hernandez2020san-martin
-54	animal	rana	lá'và		20151				dura11	hernandez2020san-martin
-55	animal	gavilán	shá'án		20152				dura11	hernandez2020san-martin
-56	animal	alacrán	txìsu'mà	txì-su'mà	20153	animal-tail			dura11	hernandez2020san-martin
-57	animal	cucaracha	txé'é		20154				dura11	hernandez2020san-martin
-58	animal	chapulín	txìka		20155				dura11	hernandez2020san-martin
-59	animal	abeja	ñùñù		20156				dura11	hernandez2020san-martin
-60	animal	ratón	txìín		20157				dura11	hernandez2020san-martin
-61	animal	venado	isi		20158				dura11	hernandez2020san-martin
-62	animal	ardilla	ntxikuání	ntxi-kuání	20159				dura11	hernandez2020san-martin
-63	animal	zorrillo	txìnì'ín 	txì-nì'ín 	20160	animal-?			dura11	hernandez2020san-martin
-64	animal	tlacuache	lánko		20161		maybe		dura11	hernandez2020san-martin
-65	animal	mapache	ma'à		20162				dura11	hernandez2020san-martin
-66	animal	conejo	leso		20163		yes	Colonial Spanish	dura11	hernandez2020san-martin
-67	animal	zopilote	lònchi		20164		yes	Nahuatl (not sure)	dura11	hernandez2020san-martin
-68	animal	perro	txìna	tx-ìna	20165				dura11	hernandez2020san-martin
-69	animal	gato	chítí		20166				dura11	hernandez2020san-martin
-70	animal	gallo	chéle		20167				dura11	hernandez2020san-martin
-71	animal	gallina, pollo	ntuxí		20168				dura11	hernandez2020san-martin
-72	animal	marrano, puerco, cerdo	kóchí		20169		yes	Spanish	dura11	hernandez2020san-martin
-73	animal	caballo	kuéì		20170		yes	Colonial Spanish	dura11	hernandez2020san-martin
-74	animal	borrego, oveja	lánchí		20171		yes	not sure	dura11	hernandez2020san-martin
-75	animal	hormiga	txokó		20172				dura11	hernandez2020san-martin
-76	animal	cuerno	ntxikìn		20173				dura11	hernandez2020san-martin
-77	animal	pluma	tùmi		20174				dura11	hernandez2020san-martin
-78	animal	ala	ntxìxìn		20175				dura11	hernandez2020san-martin
-79	animal	cola	nto'ò		20176				dura11	hernandez2020san-martin
-80	plant	árbol, palo	itùn		20177				dura11	hernandez2020san-martin
-81	plant	hierba	yìkì		20178				dura11	hernandez2020san-martin
-82	plant	zacate	ntáyò'o	ntá-yò'o	20179				dura11	hernandez2020san-martin
-82	plant	zacate, pasto	itxa		20180				dura11	hernandez2020san-martin
-83	plant	flor	ita		20181				dura11	hernandez2020san-martin
-84	plant	maguey	yavì		20182				dura11	hernandez2020san-martin
-85	plant	raíz	yò'o		20183				dura11	hernandez2020san-martin
-86	plant	espina	iñù		20184				dura11	hernandez2020san-martin
-87	corn	maíz en grano	nùnì		20185				dura11	hernandez2020san-martin
-88	corn	milpa	iti		20186				dura11	hernandez2020san-martin
-89	corn	elote	nchishì		20187				dura11	hernandez2020san-martin
-90	corn	nixtamal	xá'á		20188				dura11	hernandez2020san-martin
-91	corn	masa	yixàn		20189				dura11	hernandez2020san-martin
-92	corn	tortilla	shìtà		20190				dura11	hernandez2020san-martin
-93	corn	rastrojo (en general)	takà		20191				dura11	hernandez2020san-martin
-93		rastrojo (de milpa)	ñàmà		20192				dura11	hernandez2020san-martin
-94	corn	surco	yikùn		20193				dura11	hernandez2020san-martin
-95	corn	espiga	yokò		20194				dura11	hernandez2020san-martin
-96	food	frijol(es)	ntuchì		20195				dura11	hernandez2020san-martin
-97	food	ejote	nchìchi		20196				dura11	hernandez2020san-martin
-98	food	chile	ya'à		20197				dura11	hernandez2020san-martin
-99	food	sal	nìì		20198				dura11	hernandez2020san-martin
-100	food	calabaza	yikìn		20199				dura11	hernandez2020san-martin
-101	food	chayote	nañà		20200				dura11	hernandez2020san-martin
-102	food	caña	ntòò		20201				dura11	hernandez2020san-martin
-103	food	miel	ntùshi		20202				dura11	hernandez2020san-martin
-104	food	grasa, manteca	shà'an		20203				dura11	hernandez2020san-martin
-105	food	blanquillo, huevo	ntxìvì		20204				dura11	hernandez2020san-martin
-106	food	tomate	txìnana	txì-nana	20205	round-			dura11	hernandez2020san-martin
-107	food	camote	ña'mi		20206				dura11	hernandez2020san-martin
-108	food	aguacate	chìchí		20207				dura11	hernandez2020san-martin
-109	food	plátano	ntxikà		20208				dura11	hernandez2020san-martin
-110	food	nopal	tùvì'ntxá	tù-vì'ntxá	20209	wood-			dura11	hernandez2020san-martin
-111	food	mamey	ntxìká xa'à		20210	banana-foot			dura11	hernandez2020san-martin
-111		zapote negro	ntòko tùún		20211	custard.apple-black			dura11	hernandez2020san-martin
-112	food	chirimoya	ntokò		20212				dura11	hernandez2020san-martin
-113	food	hongo	xì'ì		20213				dura11	hernandez2020san-martin
-114	food	carne	kùñu		20214				dura11	hernandez2020san-martin
-115	cooking	comal	xòò		20215				dura11	hernandez2020san-martin
-116	cooking	olla	kìsi		20216				dura11	hernandez2020san-martin
-117	cooking	horno	xìtùn		20217				dura11	hernandez2020san-martin
-118	cooking	lumbre, fuego	ñu'u		20218				dura11	hernandez2020san-martin
-119	cooking	ceniza	yàà		20219				dura11	hernandez2020san-martin
-120	cooking	carbón	tùùn		20220				dura11	hernandez2020san-martin
-121	cooking	humo	ñù'mà		20221				dura11	hernandez2020san-martin
-122	cooking	basura	chè'è		20222				dura11	hernandez2020san-martin
-123	cooking	plato	kò'ò		20223				dura11	hernandez2020san-martin
-124	container	jícara	yaxì		20224				dura11	hernandez2020san-martin
-125	container	canasta	tìká		20225				dura11	hernandez2020san-martin
-125		tenate	ntò'ò		20226				dura11	hernandez2020san-martin
-126	container	cajón, baúl	xàtùn		20227				dura11	hernandez2020san-martin
-127	thing	hilo	yò'và		20228				dura11	hernandez2020san-martin
-128	thing	peine	kuìkà		20229				dura11	hernandez2020san-martin
-129	thing	mecate, cuerda	yo'ò		20230				dura11	hernandez2020san-martin
-130	thing	agujero, hoyo	yavì		20231				dura11	hernandez2020san-martin
-131	thing	red	yátí		20232				dura11	hernandez2020san-martin
-132	thing	jabón	nàmà		20233				dura11	hernandez2020san-martin
-133	thing	anillo	shé'è		20234				dura11	hernandez2020san-martin
-134	nature	luna	yòò		20235				dura11	hernandez2020san-martin
-135	nature	nube	vìkò		20236				dura11	hernandez2020san-martin
-136	nature	rayo, relámpago	xí'ì ntxìtxà		20237				dura11	hernandez2020san-martin
-136		truenos	taxa		20238				dura11	hernandez2020san-martin
-137	nature	agua	txìkuìí	txì-kuìí	20239	liquid-			dura11	hernandez2020san-martin
-138	nature	lluvia	sàvì		20240				dura11	hernandez2020san-martin
-139	nature	río	yìtxa		20241				dura11	hernandez2020san-martin
-140	nature	rocío	yíyí		20242				dura11	hernandez2020san-martin
-141	nature	montaña, monte	yikì		20243				dura11	hernandez2020san-martin
-142	nature	llanura, cerro donde hay una pastura	yosò		20244				dura11	hernandez2020san-martin
-143	nature	piedra	yìì		20245				dura11	hernandez2020san-martin
-144	material	algodón	kàchì		20246				dura11	hernandez2020san-martin
-145	material	fierro	kàa		20247				dura11	hernandez2020san-martin
-146	material	papel	titi		20248				dura11	hernandez2020san-martin
-147	material	cal	kaka		20249				dura11	hernandez2020san-martin
-148	material	cera	ñùmà		20250				dura11	hernandez2020san-martin
-149	material	lodo (con agua)	là'là		20251				dura11	hernandez2020san-martin
-149		barro	ntxè'ì 		20252				dura11	hernandez2020san-martin
-150	material	espuma	chìñù		20253				dura11	hernandez2020san-martin
-151	material	polvo	machi		20254				dura11	hernandez2020san-martin
-152	color	rojo	kuá'á		20255				dura11	hernandez2020san-martin
-153	color	verde	kuíì		20256				dura11	hernandez2020san-martin
-154	color	amarillo	kuáán		20257				dura11	hernandez2020san-martin
-155	color	negro	tùún		20258				dura11	hernandez2020san-martin
-156	color	blanco, vacío	yaa		20259				dura11	hernandez2020san-martin
-157	number	uno	iin		20260				dura11	hernandez2020san-martin
-158	number	dos	ìvì		20261				dura11	hernandez2020san-martin
-159	number	tres	ùnì		20262				dura11	hernandez2020san-martin
-160	number	cuatro	kòmì		20263				dura11	hernandez2020san-martin
-161	number	cinco	ùn'ùn		20264				dura11	hernandez2020san-martin
-162	number	seis	ìñù 		20265				dura11	hernandez2020san-martin
-163	number	siete	ìxà		20266				dura11	hernandez2020san-martin
-164	number	ocho	ùnà		20267				dura11	hernandez2020san-martin
-165	number	nueve	ììn		20268				dura11	hernandez2020san-martin
-166	number	diez	ìxì		20269				dura11	hernandez2020san-martin
-167	number	quince	xà'ùn		20270				dura11	hernandez2020san-martin
-168	number	veinte	òkò		20271				dura11	hernandez2020san-martin
-169	property	pobre	ntá'ví		20272				dura11	hernandez2020san-martin
-170	property	rico	kuíká		20273				dura11	hernandez2020san-martin
-171	property	frío	vìxin		20274				dura11	hernandez2020san-martin
-172	property	está caliente, caliente	ì'ní		20275				dura11	hernandez2020san-martin
-173	property	grande.SG	ká'nu		20276				dura11	hernandez2020san-martin
-174	property	grande.PL	ná'nu		20277				dura11	hernandez2020san-martin
-175	property	pequeño.SG, chico.SG	lo'o		20278				dura11	hernandez2020san-martin
-176	property	pequeño.PL, chico.PL	válí		20279				dura11	hernandez2020san-martin
-177	property	largo.SG	kánì		20280				dura11	hernandez2020san-martin
-178	property	largo.PL	nánì		20281				dura11	hernandez2020san-martin
-179	property	bueno	và'a		20282				dura11	hernandez2020san-martin
-180	property	dulce	vìshì		20283				dura11	hernandez2020san-martin
-181	property	salado	ò'và		20284				dura11	hernandez2020san-martin
-182	property	amargo	òvà		20285				dura11	hernandez2020san-martin
-183	property	sabroso	àsì		20286				dura11	hernandez2020san-martin
-184	property	ancho	ntxíkà		20287				dura11	hernandez2020san-martin
-185	property	nuevo	xàá		20288				dura11	hernandez2020san-martin
-186	property	flojo	kúshí		20289				dura11	hernandez2020san-martin
-187	property	feo	kini		20290				dura11	hernandez2020san-martin
-188	property	celoso	kuíñú		20291				dura11	hernandez2020san-martin
-189	property	cerca de, está cerca	yatxi		20292				dura11	hernandez2020san-martin
-190	property	está lejos, lejos	xíká		20293				dura11	hernandez2020san-martin
-191	property	pesado	vèe		20294				dura11	hernandez2020san-martin
-192	property	crudo	yí'í		20295				dura11	hernandez2020san-martin
-193	property	liso	ntxi'ví		20296				dura11	hernandez2020san-martin
-194	property	despacio	kueé		20297				dura11	hernandez2020san-martin
-195	time	ayer	kuni		20298				dura11	hernandez2020san-martin
-196	time	año	kuìà		20299				dura11	hernandez2020san-martin
-197	time	ahora, hoy	vitxi		20300				dura11	hernandez2020san-martin
-198	time	noche	xìkuaa		20301				dura11	hernandez2020san-martin
-199	time	de noche	ñùú		20302				dura11	hernandez2020san-martin
-200	time	día, fecha	kìì		20303				dura11	hernandez2020san-martin
-201	time	de día	ntiví		20304				dura11	hernandez2020san-martin
-202	abstract	mitad	sava		20305				dura11	hernandez2020san-martin
-203	abstract	dinero	shù'ún		20306				dura11	hernandez2020san-martin
-204	abstract	trabajo	chuun		20307				dura11	hernandez2020san-martin
-205	abstract	palabra	tù'un		20308				dura11	hernandez2020san-martin
-206	abstract	culpa	kuàchi		20309				dura11	hernandez2020san-martin
-207	abstract	sueño	mà'ná		20310				dura11	hernandez2020san-martin
-208	abstract	cuándo	ñama		20311				dura11	hernandez2020san-martin
-209	abstract	canción, música	yaa		20312				dura11	hernandez2020san-martin
+IDlist	CATEGORY	GLOSS	VALUE	ID	NOTES	LOAN	LOAN_SOURCE	DOCULECT	SOURCE
+1	kinship	madre	nánà	20100				dura11	hernandez2020san-martin
+2	kinship	mamá!	náná	20101				dura11	hernandez2020san-martin
+3	kinship	padre	tátà	20102				dura11	hernandez2020san-martin
+4	kinship	papá!	tátá	20103		yes	Spanish	dura11	hernandez2020san-martin
+5	kinship	hijo/hija	se'e	20104				dura11	hernandez2020san-martin
+6	kinship	hijo	$					dura11	hernandez2020san-martin
+7	kinship	hija	$					dura11	hernandez2020san-martin
+8	kinship	hermana/hermano de otro genero	kò'va	20105				dura11	hernandez2020san-martin
+9	kinship	hermano de hombre	ñani	20106				dura11	hernandez2020san-martin
+10	kinship	hermana de mujer	kì'vì	20107				dura11	hernandez2020san-martin
+11	kinship	tía	shishi	20108				dura11	hernandez2020san-martin
+12	kinship	tío	shito	20109				dura11	hernandez2020san-martin
+13	person	hombre	txàa	20110				dura11	hernandez2020san-martin
+14	person	mujer	ña'à	20111				dura11	hernandez2020san-martin
+15	person	dueño	sito'o	20112				dura11	hernandez2020san-martin
+16	person	sacerdote	sìtì	20113				dura11	hernandez2020san-martin
+17	body	sangre	nìì	20114				dura11	hernandez2020san-martin
+18	body	hueso	ko'nto	20115				dura11	hernandez2020san-martin
+19	body	pelo	ishì	20116				dura11	hernandez2020san-martin
+20	body	cara	nùù	20117				dura11	hernandez2020san-martin
+21	body	lengua	yáà	20118				dura11	hernandez2020san-martin
+22	body	diente	nù'un	20119				dura11	hernandez2020san-martin
+23	body	boca	yi'ì	20120				dura11	hernandez2020san-martin
+24	body	oreja	sò'o	20121				dura11	hernandez2020san-martin
+25	body	nariz	xìtxì	20122				dura11	hernandez2020san-martin
+26	body	cuello, garganta	sùkùn	20123				dura11	hernandez2020san-martin
+27	body	mano	nta'à	20124				dura11	hernandez2020san-martin
+28	body	uña	chíìn	20125				dura11	hernandez2020san-martin
+29	body	espalda	sàtà	20126				dura11	hernandez2020san-martin
+30	body	estómago	txìxin	20127				dura11	hernandez2020san-martin
+31	body	tripa, tripas	xitxi	20128				dura11	hernandez2020san-martin
+32	body	pie	xa'à	20129				dura11	hernandez2020san-martin
+33	body	enfermedad	kuè'è	20130				dura11	hernandez2020san-martin
+34	body	medicina	tàtàn	20131				dura11	hernandez2020san-martin
+35	body	hinchazón	kuiñu	20132				dura11	hernandez2020san-martin
+36	body	grano	ntxì'i	20133				dura11	hernandez2020san-martin
+37	body	pus, materia	lakuàn	20134				dura11	hernandez2020san-martin
+38	body	orina	txìsháshá	20135	liquid-pee(v)			dura11	hernandez2020san-martin
+39	clothing	ropa	txikòtò	20136				dura11	hernandez2020san-martin
+40	clothing	huarache	íntxixàn	20137				dura11	hernandez2020san-martin
+41	clothing	pantalón	xati	20138				dura11	hernandez2020san-martin
+42	clothing	huipil	shìkùn	20139				dura11	hernandez2020san-martin
+43	living	pueblo	ñuu	20140				dura11	hernandez2020san-martin
+44	living	casa	ve'e	20141				dura11	hernandez2020san-martin
+45	living	camino	ichì	20142				dura11	hernandez2020san-martin
+46	living	horcón	sì'ìn	20143				dura11	hernandez2020san-martin
+47	living	petate	yivì	20144				dura11	hernandez2020san-martin
+48	living	cama, lecho	xìto	20145				dura11	hernandez2020san-martin
+49	living	silla	txeì	20146				dura11	hernandez2020san-martin
+50	animal	animal	kitxì	20147				dura11	hernandez2020san-martin
+51	animal	pájaro	laa	20148				dura11	hernandez2020san-martin
+52	animal	pez, pescado	txaká	20149				dura11	hernandez2020san-martin
+53	animal	culebra, serpiente	kòò	20150				dura11	hernandez2020san-martin
+54	animal	rana	lá'và	20151				dura11	hernandez2020san-martin
+55	animal	gavilán	shá'án	20152				dura11	hernandez2020san-martin
+56	animal	alacrán	txìsu'mà	20153	animal-tail			dura11	hernandez2020san-martin
+57	animal	cucaracha	txé'é	20154				dura11	hernandez2020san-martin
+58	animal	chapulín	txìka	20155				dura11	hernandez2020san-martin
+59	animal	abeja	ñùñù	20156				dura11	hernandez2020san-martin
+60	animal	ratón	txìín	20157				dura11	hernandez2020san-martin
+61	animal	venado	isi	20158				dura11	hernandez2020san-martin
+62	animal	ardilla	ntxikuání	20159				dura11	hernandez2020san-martin
+63	animal	zorrillo	txìnì'ín 	20160	animal-?			dura11	hernandez2020san-martin
+64	animal	tlacuache	lánko	20161		maybe		dura11	hernandez2020san-martin
+65	animal	mapache	ma'à	20162				dura11	hernandez2020san-martin
+66	animal	conejo	leso	20163		yes	Colonial Spanish	dura11	hernandez2020san-martin
+67	animal	zopilote	lònchi	20164		yes	Nahuatl (not sure)	dura11	hernandez2020san-martin
+68	animal	perro	txìna	20165				dura11	hernandez2020san-martin
+69	animal	gato	chítí	20166				dura11	hernandez2020san-martin
+70	animal	gallo	chéle	20167				dura11	hernandez2020san-martin
+71	animal	gallina, pollo	ntuxí	20168				dura11	hernandez2020san-martin
+72	animal	marrano, puerco, cerdo	kóchí	20169		yes	Spanish	dura11	hernandez2020san-martin
+73	animal	caballo	kuéì	20170		yes	Colonial Spanish	dura11	hernandez2020san-martin
+74	animal	borrego, oveja	lánchí	20171		yes	not sure	dura11	hernandez2020san-martin
+75	animal	hormiga	txokó	20172				dura11	hernandez2020san-martin
+76	animal	cuerno	ntxikìn	20173				dura11	hernandez2020san-martin
+77	animal	pluma	tùmi	20174				dura11	hernandez2020san-martin
+78	animal	ala	ntxìxìn	20175				dura11	hernandez2020san-martin
+79	animal	cola	nto'ò	20176				dura11	hernandez2020san-martin
+80	plant	árbol, palo	itùn	20177				dura11	hernandez2020san-martin
+81	plant	hierba	yìkì	20178				dura11	hernandez2020san-martin
+82	plant	zacate	ntáyò'o	20179				dura11	hernandez2020san-martin
+82	plant	zacate, pasto	itxa	20180				dura11	hernandez2020san-martin
+83	plant	flor	ita	20181				dura11	hernandez2020san-martin
+84	plant	maguey	yavì	20182				dura11	hernandez2020san-martin
+85	plant	raíz	yò'o	20183				dura11	hernandez2020san-martin
+86	plant	espina	iñù	20184				dura11	hernandez2020san-martin
+87	corn	maíz en grano	nùnì	20185				dura11	hernandez2020san-martin
+88	corn	milpa	iti	20186				dura11	hernandez2020san-martin
+89	corn	elote	nchishì	20187				dura11	hernandez2020san-martin
+90	corn	nixtamal	xá'á	20188				dura11	hernandez2020san-martin
+91	corn	masa	yixàn	20189				dura11	hernandez2020san-martin
+92	corn	tortilla	shìtà	20190				dura11	hernandez2020san-martin
+93	corn	rastrojo (en general)	takà	20191				dura11	hernandez2020san-martin
+93		rastrojo (de milpa)	ñàmà	20192				dura11	hernandez2020san-martin
+94	corn	surco	yikùn	20193				dura11	hernandez2020san-martin
+95	corn	espiga	yokò	20194				dura11	hernandez2020san-martin
+96	food	frijol(es)	ntuchì	20195				dura11	hernandez2020san-martin
+97	food	ejote	nchìchi	20196				dura11	hernandez2020san-martin
+98	food	chile	ya'à	20197				dura11	hernandez2020san-martin
+99	food	sal	nìì	20198				dura11	hernandez2020san-martin
+100	food	calabaza	yikìn	20199				dura11	hernandez2020san-martin
+101	food	chayote	nañà	20200				dura11	hernandez2020san-martin
+102	food	caña	ntòò	20201				dura11	hernandez2020san-martin
+103	food	miel	ntùshi	20202				dura11	hernandez2020san-martin
+104	food	grasa, manteca	shà'an	20203				dura11	hernandez2020san-martin
+105	food	blanquillo, huevo	ntxìvì	20204				dura11	hernandez2020san-martin
+106	food	tomate	txìnana	20205	round-			dura11	hernandez2020san-martin
+107	food	camote	ña'mi	20206				dura11	hernandez2020san-martin
+108	food	aguacate	chìchí	20207				dura11	hernandez2020san-martin
+109	food	plátano	ntxikà	20208				dura11	hernandez2020san-martin
+110	food	nopal	tùvì'ntxá	20209	wood-			dura11	hernandez2020san-martin
+111	food	mamey	ntxìká xa'à	20210	banana-foot			dura11	hernandez2020san-martin
+111		zapote negro	ntòko tùún	20211	custard.apple-black			dura11	hernandez2020san-martin
+112	food	chirimoya	ntokò	20212				dura11	hernandez2020san-martin
+113	food	hongo	xì'ì	20213				dura11	hernandez2020san-martin
+114	food	carne	kùñu	20214				dura11	hernandez2020san-martin
+115	cooking	comal	xòò	20215				dura11	hernandez2020san-martin
+116	cooking	olla	kìsi	20216				dura11	hernandez2020san-martin
+117	cooking	horno	xìtùn	20217				dura11	hernandez2020san-martin
+118	cooking	lumbre, fuego	ñu'u	20218				dura11	hernandez2020san-martin
+119	cooking	ceniza	yàà	20219				dura11	hernandez2020san-martin
+120	cooking	carbón	tùùn	20220				dura11	hernandez2020san-martin
+121	cooking	humo	ñù'mà	20221				dura11	hernandez2020san-martin
+122	cooking	basura	chè'è	20222				dura11	hernandez2020san-martin
+123	cooking	plato	kò'ò	20223				dura11	hernandez2020san-martin
+124	container	jícara	yaxì	20224				dura11	hernandez2020san-martin
+125	container	canasta	tìká	20225				dura11	hernandez2020san-martin
+125		tenate	ntò'ò	20226				dura11	hernandez2020san-martin
+126	container	cajón, baúl	xàtùn	20227				dura11	hernandez2020san-martin
+127	thing	hilo	yò'và	20228				dura11	hernandez2020san-martin
+128	thing	peine	kuìkà	20229				dura11	hernandez2020san-martin
+129	thing	mecate, cuerda	yo'ò	20230				dura11	hernandez2020san-martin
+130	thing	agujero, hoyo	yavì	20231				dura11	hernandez2020san-martin
+131	thing	red	yátí	20232				dura11	hernandez2020san-martin
+132	thing	jabón	nàmà	20233				dura11	hernandez2020san-martin
+133	thing	anillo	shé'è	20234				dura11	hernandez2020san-martin
+134	nature	luna	yòò	20235				dura11	hernandez2020san-martin
+135	nature	nube	vìkò	20236				dura11	hernandez2020san-martin
+136	nature	rayo, relámpago	xí'ì ntxìtxà	20237				dura11	hernandez2020san-martin
+136		truenos	taxa	20238				dura11	hernandez2020san-martin
+137	nature	agua	txìkuìí	20239	liquid-			dura11	hernandez2020san-martin
+138	nature	lluvia	sàvì	20240				dura11	hernandez2020san-martin
+139	nature	río	yìtxa	20241				dura11	hernandez2020san-martin
+140	nature	rocío	yíyí	20242				dura11	hernandez2020san-martin
+141	nature	montaña, monte	yikì	20243				dura11	hernandez2020san-martin
+142	nature	llanura, cerro donde hay una pastura	yosò	20244				dura11	hernandez2020san-martin
+143	nature	piedra	yìì	20245				dura11	hernandez2020san-martin
+144	material	algodón	kàchì	20246				dura11	hernandez2020san-martin
+145	material	fierro	kàa	20247				dura11	hernandez2020san-martin
+146	material	papel	titi	20248				dura11	hernandez2020san-martin
+147	material	cal	kaka	20249				dura11	hernandez2020san-martin
+148	material	cera	ñùmà	20250				dura11	hernandez2020san-martin
+149	material	lodo (con agua)	là'là	20251				dura11	hernandez2020san-martin
+149		barro	ntxè'ì 	20252				dura11	hernandez2020san-martin
+150	material	espuma	chìñù	20253				dura11	hernandez2020san-martin
+151	material	polvo	machi	20254				dura11	hernandez2020san-martin
+152	color	rojo	kuá'á	20255				dura11	hernandez2020san-martin
+153	color	verde	kuíì	20256				dura11	hernandez2020san-martin
+154	color	amarillo	kuáán	20257				dura11	hernandez2020san-martin
+155	color	negro	tùún	20258				dura11	hernandez2020san-martin
+156	color	blanco, vacío	yaa	20259				dura11	hernandez2020san-martin
+157	number	uno	iin	20260				dura11	hernandez2020san-martin
+158	number	dos	ìvì	20261				dura11	hernandez2020san-martin
+159	number	tres	ùnì	20262				dura11	hernandez2020san-martin
+160	number	cuatro	kòmì	20263				dura11	hernandez2020san-martin
+161	number	cinco	ùn'ùn	20264				dura11	hernandez2020san-martin
+162	number	seis	ìñù 	20265				dura11	hernandez2020san-martin
+163	number	siete	ìxà	20266				dura11	hernandez2020san-martin
+164	number	ocho	ùnà	20267				dura11	hernandez2020san-martin
+165	number	nueve	ììn	20268				dura11	hernandez2020san-martin
+166	number	diez	ìxì	20269				dura11	hernandez2020san-martin
+167	number	quince	xà'ùn	20270				dura11	hernandez2020san-martin
+168	number	veinte	òkò	20271				dura11	hernandez2020san-martin
+169	property	pobre	ntá'ví	20272				dura11	hernandez2020san-martin
+170	property	rico	kuíká	20273				dura11	hernandez2020san-martin
+171	property	frío	vìxin	20274				dura11	hernandez2020san-martin
+172	property	está caliente, caliente	ì'ní	20275				dura11	hernandez2020san-martin
+173	property	grande.SG	ká'nu	20276				dura11	hernandez2020san-martin
+174	property	grande.PL	ná'nu	20277				dura11	hernandez2020san-martin
+175	property	pequeño.SG, chico.SG	lo'o	20278				dura11	hernandez2020san-martin
+176	property	pequeño.PL, chico.PL	válí	20279				dura11	hernandez2020san-martin
+177	property	largo.SG	kánì	20280				dura11	hernandez2020san-martin
+178	property	largo.PL	nánì	20281				dura11	hernandez2020san-martin
+179	property	bueno	và'a	20282				dura11	hernandez2020san-martin
+180	property	dulce	vìshì	20283				dura11	hernandez2020san-martin
+181	property	salado	ò'và	20284				dura11	hernandez2020san-martin
+182	property	amargo	òvà	20285				dura11	hernandez2020san-martin
+183	property	sabroso	àsì	20286				dura11	hernandez2020san-martin
+184	property	ancho	ntxíkà	20287				dura11	hernandez2020san-martin
+185	property	nuevo	xàá	20288				dura11	hernandez2020san-martin
+186	property	flojo	kúshí	20289				dura11	hernandez2020san-martin
+187	property	feo	kini	20290				dura11	hernandez2020san-martin
+188	property	celoso	kuíñú	20291				dura11	hernandez2020san-martin
+189	property	cerca de, está cerca	yatxi	20292				dura11	hernandez2020san-martin
+190	property	está lejos, lejos	xíká	20293				dura11	hernandez2020san-martin
+191	property	pesado	vèe	20294				dura11	hernandez2020san-martin
+192	property	crudo	yí'í	20295				dura11	hernandez2020san-martin
+193	property	liso	ntxi'ví	20296				dura11	hernandez2020san-martin
+194	property	despacio	kueé	20297				dura11	hernandez2020san-martin
+195	time	ayer	kuni	20298				dura11	hernandez2020san-martin
+196	time	año	kuìà	20299				dura11	hernandez2020san-martin
+197	time	ahora, hoy	vitxi	20300				dura11	hernandez2020san-martin
+198	time	noche	xìkuaa	20301				dura11	hernandez2020san-martin
+199	time	de noche	ñùú	20302				dura11	hernandez2020san-martin
+200	time	día, fecha	kìì	20303				dura11	hernandez2020san-martin
+201	time	de día	ntiví	20304				dura11	hernandez2020san-martin
+202	abstract	mitad	sava	20305				dura11	hernandez2020san-martin
+203	abstract	dinero	shù'ún	20306				dura11	hernandez2020san-martin
+204	abstract	trabajo	chuun	20307				dura11	hernandez2020san-martin
+205	abstract	palabra	tù'un	20308				dura11	hernandez2020san-martin
+206	abstract	culpa	kuàchi	20309				dura11	hernandez2020san-martin
+207	abstract	sueño	mà'ná	20310				dura11	hernandez2020san-martin
+208	abstract	cuándo	ñama	20311				dura11	hernandez2020san-martin
+209	abstract	canción, música	yaa	20312				dura11	hernandez2020san-martin

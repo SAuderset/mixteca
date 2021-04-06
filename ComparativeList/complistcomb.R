@@ -14,12 +14,12 @@ glimpse(wl)
 
 # restructure, delete rows with NA
 wl1 <- wl %>% select(DOCULECT, GLOSS, VALUE, FORM, IDlist, NOTES, LOAN, LOAN_SOURCE, SOURCE) %>%
-  filter(VALUE!="$") %>% 
-  mutate(ID = 1:nrow(wl1))
+  filter(VALUE!="$")
+wl1 <- wl1 %>% mutate(ID = 1:nrow(wl1))
 glimpse(wl1)
 
 unique(wl1$SOURCE)
-unique(wl1$DOCULECT)
+sort(unique(wl1$DOCULECT))
 
 # move floating tones in Hollenbach 2013/pena11 to new column
 hb <- wl1 %>% filter(SOURCE=="hollenbach2017diccionario" | SOURCE=="alexander1980gramatica") %>% 
@@ -69,16 +69,11 @@ wl3 <- select(wl3, ID, DOCULECT, GLOSS:IDlist, LOAN:FLOATTONE) %>% distinct()
 glimpse(wl3)
 head(wl3)
 
-# check for duplicate IDs after every list to avoid issues!
-wl3 %>% count(ID) %>% filter(n > 1)
-
 
 # check for NA in identifier columns
 which(is.na(wl3$ID))
 which(is.na(wl3$DOCULECT))
 which(is.na(wl3$IDlist))
-wl3[19869, ]
-
 
 # sort by list item, then variety
 wl3 <- wl3 %>% arrange(IDlist, DOCULECT)
@@ -98,10 +93,9 @@ ctdf
 table(wl$LOAN)
 # ca. 270
 
-
 # total varieties
 length(unique(wl3$DOCULECT))
-# 137
+# 140
 
 # entries per variety
 ev <- wl3 %>% group_by(DOCULECT) %>% summarise(entries = n()) %>% arrange(desc(entries))

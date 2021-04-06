@@ -1,240 +1,240 @@
-IDlist	CATEGORY	GLOSS	VALUE	FORM	ID	NOTES	LOAN	LOAN_SOURCE	DOCULECT	SOURCE
-1	kinship	mother	náa		21211				chal11	macaulay1996grammar
-2	kinship	mother!, mom!	$						chal11	macaulay1996grammar
-3	kinship	father	táa		21212				chal11	macaulay1996grammar
-4	kinship	father!, dad!	$						chal11	macaulay1996grammar
-5	kinship	son/daughter, child	seʔe		21213				chal11	macaulay1996grammar
-6	kinship	son	sežíí	se-žíí	21214				chal11	macaulay1996grammar
-7	kinship	daughter	sesɨ́ʔɨ́	se-sɨ́ʔɨ́	21215				chal11	macaulay1996grammar
-8	kinship	cross-sex sibling	kʷàʔa		21216				chal11	macaulay1996grammar
-9	kinship	brother of man	ñáni		21217				chal11	macaulay1996grammar
-10	kinship	sister of woman	kúʔu		21218				chal11	macaulay1996grammar
-11	kinship	aunt	šiì		21219				chal11	macaulay1996grammar
-12	kinship	uncle	stoò		21220				chal11	macaulay1996grammar
-13	person	man	čàà		21221				chal11	macaulay1996grammar
-14	person	woman	ñãʔã		21222				chal11	macaulay1996grammar
-15	person	owner, boss	$						chal11	macaulay1996grammar
-16	person	priest	sutù		21223				chal11	macaulay1996grammar
-17	body	blood	nɨ́ñɨ̀		21224				chal11	macaulay1996grammar
-18	body	bone	žɨkɨ		21225				chal11	macaulay1996grammar
-19	body	hair	iši		21226				chal11	macaulay1996grammar
-20	body	face	nuù		21227				chal11	macaulay1996grammar
-21	body	tongue	žaa		21228				chal11	macaulay1996grammar
-22	body	tooth	nũʔũ		21229				chal11	macaulay1996grammar
-23	body	mouth	žuʔu		21230				chal11	macaulay1996grammar
-24	body	ear	soʔo		21231				chal11	macaulay1996grammar
-25	body	nose	kutu		21232				chal11	macaulay1996grammar
-26	body	neck	sũkũ̀		21233				chal11	macaulay1996grammar
-27	body	hand	ndaʔa		21234				chal11	macaulay1996grammar
-28	body	fingernail	tĩ́žṍ		21235				chal11	macaulay1996grammar
-28	body	fingernail	tĩ́žṹ		21236				chal11	macaulay1996grammar
-28	body	fingernail	tĩ́ĩ		21237				chal11	macaulay1996grammar
-28	body	fingernail	tĩ́ĩ́		21238				chal11	macaulay1996grammar
-29	body	back	žata		21239				chal11	macaulay1996grammar
-30	body	stomach, belly	čìì		21240				chal11	macaulay1996grammar
-31	body	intestine, guts	xɨ́tɨ̀		21241				chal11	macaulay1996grammar
-32	body	foot	xaʔà		21242				chal11	macaulay1996grammar
-33	body	illness, sickness	kʷeʔè		21243				chal11	macaulay1996grammar
-34	body	medicine, remedy	táná		21244				chal11	macaulay1996grammar
-35	body	swelling	$						chal11	macaulay1996grammar
-36	body	pimple	ndɨʔžɨ́		21245				chal11	macaulay1996grammar
-37	body	pus	lakʷa		21246				chal11	macaulay1996grammar
-37	body	pus	lákʷá		21247				chal11	macaulay1996grammar
-38	body	urine	tíšešé	tí-šešé	21248				chal11	macaulay1996grammar
-39	clothing	dress, cloth, clothing	saʔma		21249				chal11	macaulay1996grammar
-40	clothing	sandal, sandals	ndĩxã̀		21250				chal11	macaulay1996grammar
-41	clothing	pants	$						chal11	macaulay1996grammar
-42	clothing	blouse, woven blouse	$						chal11	macaulay1996grammar
-43	living	village, town	ñũũ̀		21251				chal11	macaulay1996grammar
-44	living	house	beʔe		21252				chal11	macaulay1996grammar
-45	living	path, road, trail	iči		21253				chal11	macaulay1996grammar
-46	living	post							chal11	macaulay1996grammar
-47	living	mat, sleeping mat, straw mat	žuu		21254				chal11	macaulay1996grammar
-48	living	bed	xito		21255				chal11	macaulay1996grammar
-49	living	stool, bench	téžu		21256				chal11	macaulay1996grammar
-50	animal	animal	kɨtɨ		21257				chal11	macaulay1996grammar
-51	animal	bird	saà		21258				chal11	macaulay1996grammar
-52	animal	fish	čáká		21259				chal11	macaulay1996grammar
-53	animal	snake	kòò		21260				chal11	macaulay1996grammar
-53	animal	snake	koò		21261				chal11	macaulay1996grammar
-54	animal	frog	sáʔba		21262				chal11	macaulay1996grammar
-55	animal	sparrow hawk, eagle	šĩ́ʔã		21263				chal11	macaulay1996grammar
-56	animal	scorpion	tɨsúʔmá	tɨ-súʔmá	21264				chal11	macaulay1996grammar
-57	animal	cockroach	titeʔé	ti-teʔé	21265				chal11	macaulay1996grammar
-58	animal	grasshopper	tɨkà		21266				chal11	macaulay1996grammar
-58	animal	grasshopper	tɨkàà	tɨ-kàà	21267				chal11	macaulay1996grammar
-58	animal	grasshopper	tɨká		21268				chal11	macaulay1996grammar
-59	animal	bee	timí		21269				chal11	macaulay1996grammar
-59	animal	bee	timíí		21270				chal11	macaulay1996grammar
-60	animal	mouse, rat	tiñí		21271				chal11	macaulay1996grammar
-60	animal	mouse, rat	tɨ̃ñɨ̃́ɨ̃́		21272				chal11	macaulay1996grammar
-61	animal	deer	isù		21273				chal11	macaulay1996grammar
-62	animal	squirrel	$						chal11	macaulay1996grammar
-63	animal	skunk	čɨ̃́ʔɨ̃́		21274				chal11	macaulay1996grammar
-63	animal	skunk	čɨ̃ʔɨ̃́		21275				chal11	macaulay1996grammar
-64	animal	opossum	xàkò		21276		yes	Spanish	chal11	macaulay1996grammar
-64	animal	opossum	xàko		21277		yes	Spanish	chal11	macaulay1996grammar
-65	animal	raccoon	$						chal11	macaulay1996grammar
-66	animal	rabbit	isò		21278				chal11	macaulay1996grammar
-66	animal	rabbit	isù		21279				chal11	macaulay1996grammar
-67	animal	vulture	$						chal11	macaulay1996grammar
-68	animal	dog	inà		21280				chal11	macaulay1996grammar
-69	animal	cat	bílu		21281				chal11	macaulay1996grammar
-70	animal	rooster	líʔi		21282				chal11	macaulay1996grammar
-71	animal	hen, chicken	čũ̀ũ̀		21283				chal11	macaulay1996grammar
-72	animal	pig	kɨnɨ̀		21284				chal11	macaulay1996grammar
-73	animal	horse	kʷažú		21285		yes	Spanish	chal11	macaulay1996grammar
-74	animal	sheep	rɨɨ̀		21286	from borrego	yes	Spanish	chal11	macaulay1996grammar
-75	animal	ant	čókó		21287				chal11	macaulay1996grammar
-76	animal	horn (anatomy)	ndɨkɨ		21288				chal11	macaulay1996grammar
-77	animal	feather	tũ̀ũ̀		21289				chal11	macaulay1996grammar
-78	animal	wing	ndíxì		21290				chal11	macaulay1996grammar
-79	animal	tail	súʔma		21291				chal11	macaulay1996grammar
-80	plant	tree	žṹnṹ		21292				chal11	macaulay1996grammar
-81	plant	herb	žukù		21293				chal11	macaulay1996grammar
-82	plant	grass	ičá		21294				chal11	macaulay1996grammar
-82	plant	grass	íčà		21295				chal11	macaulay1996grammar
-83	plant	flower	ità		21296				chal11	macaulay1996grammar
-84	plant	maguey, century plant	žáú		21297				chal11	macaulay1996grammar
-85	plant	root	žoʔo		21298				chal11	macaulay1996grammar
-86	plant	thorn	ĩ́ñṹ		21299				chal11	macaulay1996grammar
-87	corn	grain of corn	nunì		21300				chal11	macaulay1996grammar
-88	corn	cornfield	itù		21301				chal11	macaulay1996grammar
-89	corn	ear of corn	nɨ́ñɨ́		21302				chal11	macaulay1996grammar
-90	corn	nixtamal	$						chal11	macaulay1996grammar
-91	corn	corn dough	žuša		21303				chal11	macaulay1996grammar
-92	corn	tortilla	staà		21304				chal11	macaulay1996grammar
-93	corn	cleared field, cornstalk	$						chal11	macaulay1996grammar
-94	corn	furrow, planting row	$						chal11	macaulay1996grammar
-95	corn	tassel, maize spike	žóko		21305				chal11	macaulay1996grammar
-95	corn	tassel, maize spike	tɨkàžóko	tɨkà-žóko	21306				chal11	macaulay1996grammar
-96	food	bean	nduči		21307				chal11	macaulay1996grammar
-97	food	green bean	ndìči		21308				chal11	macaulay1996grammar
-98	food	chili pepper	žaʔa		21309				chal11	macaulay1996grammar
-99	food	salt	saù		21310				chal11	macaulay1996grammar
-100	food	squash, pumpkin	žɨ́kɨ		21311				chal11	macaulay1996grammar
-101	food	chayote squash	nã́ñã́		21312				chal11	macaulay1996grammar
-102	food	cane, cornstalk	ndoò		21313				chal11	macaulay1996grammar
-103	food	honey	nduši		21314				chal11	macaulay1996grammar
-104	food	fat, lard, grease	šãʔã		21315				chal11	macaulay1996grammar
-105	food	egg	ndɨù		21316				chal11	macaulay1996grammar
-106	food	tomato	tènana	tè-nana	21317				chal11	macaulay1996grammar
-106	food	tomato	tɨ̀nana	tɨ̀-nana	21318				chal11	macaulay1996grammar
-107	food	sweet potato	ñã́ʔmĩ		21319				chal11	macaulay1996grammar
-108	food	avocado	tɨčɨ́		21320				chal11	macaulay1996grammar
-109	food	banana	ndíká		21321				chal11	macaulay1996grammar
-110	food	prickly pear cactus	bíʔža		21322				chal11	macaulay1996grammar
-110	food	prickly pear cactus	bíʔnža		21323				chal11	macaulay1996grammar
-111	food	zapote	ndoko		21324				chal11	macaulay1996grammar
-112	food	chirimoya	ĩ́ñṹ		21325				chal11	macaulay1996grammar
-113	food	mushroom	xiʔi		21326				chal11	macaulay1996grammar
-114	food	meat	kũ̀ñũ̀		21327				chal11	macaulay1996grammar
-115	cooking	griddle	šiò		21328				chal11	macaulay1996grammar
-115	cooking	griddle	šoò		21329				chal11	macaulay1996grammar
-116	cooking	pot, cooking pot	kɨsɨ		21330				chal11	macaulay1996grammar
-117	cooking	oven	šinù		21331				chal11	macaulay1996grammar
-117	cooking	oven	xinù		21332				chal11	macaulay1996grammar
-118	cooking	fire	ñṹʔũ̀		21333				chal11	macaulay1996grammar
-119	cooking	ash	žàà		21334				chal11	macaulay1996grammar
-120	cooking	charcoal	tɨkàži	tɨ-kàži	21335				chal11	macaulay1996grammar
-120	cooking	charcoal	tikàží	ti-kàží	21336				chal11	macaulay1996grammar
-120	cooking	charcoal	tekàži	te-kàži	21337				chal11	macaulay1996grammar
-121	cooking	smoke	ñṹʔmā		21338				chal11	macaulay1996grammar
-122	cooking	garbage, trash	miʔí		21339				chal11	macaulay1996grammar
-123	cooking	plate	koʔò		21340				chal11	macaulay1996grammar
-124	container	gourd bowl	žáʔu		21341				chal11	macaulay1996grammar
-125	container	basket	xìka		21342				chal11	macaulay1996grammar
-125		basket with carrying strap	ndoʔò		21343				chal11	macaulay1996grammar
-126	container	box	kaxá		21344		yes	Spanish	chal11	macaulay1996grammar
-127	thing	thread	žuʔà		21345				chal11	macaulay1996grammar
-128	thing	comb	kúkà		21346				chal11	macaulay1996grammar
-129	thing	rope	žoʔo		21347				chal11	macaulay1996grammar
-130	thing	hole	žaù		21348				chal11	macaulay1996grammar
-131	thing	net	ñũnũ		21349				chal11	macaulay1996grammar
-132	thing	soap	namà		21350				chal11	macaulay1996grammar
-133	thing	ring	šéʔé		21351				chal11	macaulay1996grammar
-134	nature	moon	žoò		21352				chal11	macaulay1996grammar
-135	nature	cloud	bíkò		21353				chal11	macaulay1996grammar
-136	nature	lightning	ndežú		21354				chal11	macaulay1996grammar
-136	nature	lightning	taxa		21355				chal11	macaulay1996grammar
-137	nature	water	nduča		21356				chal11	macaulay1996grammar
-138	nature	rain (precipitation)	saù		21357				chal11	macaulay1996grammar
-139	nature	river	žuča		21358				chal11	macaulay1996grammar
-140	nature	dew	$						chal11	macaulay1996grammar
-141	nature	mountain, hill, forrest	žúkú		21359				chal11	macaulay1996grammar
-142	nature	plain, countryside	nduʔà		21360				chal11	macaulay1996grammar
-143	nature	stone, rock	žuù		21361				chal11	macaulay1996grammar
-144	material	cotton	kačì		21362				chal11	macaulay1996grammar
-145	material	iron, bell	kaa		21363				chal11	macaulay1996grammar
-146	material	paper	tutù		21364				chal11	macaulay1996grammar
-147	material	lime (material)	kakà		21365				chal11	macaulay1996grammar
-148	material	beeswax, wax	ñuʔmà		21366				chal11	macaulay1996grammar
-149	material	mud	ndéʔžu		21367				chal11	macaulay1996grammar
-150	material	foam	tiʔíñu		21368				chal11	macaulay1996grammar
-151	material	dust	tɨkačá		21369				chal11	macaulay1996grammar
-151	material	dust	tɨkačaà		21370				chal11	macaulay1996grammar
-152	color	red	ñũñũ		21371				chal11	macaulay1996grammar
-153	color	green, blue	kʷíi		21372				chal11	macaulay1996grammar
-154	color	yellow	kʷãã́		21373				chal11	macaulay1996grammar
-155	color	black	tũ̀ũ̀		21374				chal11	macaulay1996grammar
-156	color	white	kʷĩxĩ́		21375				chal11	macaulay1996grammar
-157	number	one	ɨ́ɨ́		21376				chal11	macaulay1996grammar
-158	number	two	uù		21377				chal11	macaulay1996grammar
-159	number	three	unì		21378				chal11	macaulay1996grammar
-160	number	four	kũũ̀		21379				chal11	macaulay1996grammar
-161	number	five	ṹʔũ		21380				chal11	macaulay1996grammar
-162	number	six	ĩ́ñũ		21381				chal11	macaulay1996grammar
-163	number	seven	úšia		21382				chal11	macaulay1996grammar
-163	number	seven	úša		21383				chal11	macaulay1996grammar
-164	number	eight	unà		21384				chal11	macaulay1996grammar
-165	number	nine	ɨ̃́ɨ̃		21385				chal11	macaulay1996grammar
-166	number	ten	ušì		21386				chal11	macaulay1996grammar
-167	number	fifteen	šĩã́ʔũ		21387				chal11	macaulay1996grammar
-168	number	twenty	okò		21388				chal11	macaulay1996grammar
-169	property	poor	ndáʔu		21389				chal11	macaulay1996grammar
-170	property	rich	kúká		21390				chal11	macaulay1996grammar
-171	property	cold	bĩ̀xĩ		21391				chal11	macaulay1996grammar
-172	property	hot	ñíʔní		21392				chal11	macaulay1996grammar
-173	property	big.SG	kã́ʔnũ		21393				chal11	macaulay1996grammar
-174	property	big.PL	nã́ʔnũ		21394				chal11	macaulay1996grammar
-175	property	small	lúlí		21395				chal11	macaulay1996grammar
-175		small	tíʔlu		21396				chal11	macaulay1996grammar
-176	property	small, thin	kʷáčí		21397				chal11	macaulay1996grammar
-177	property	long.SG	káni		21398				chal11	macaulay1996grammar
-178	property	long.PL	náni		21399				chal11	macaulay1996grammar
-179	property	good	bàʔà		21400				chal11	macaulay1996grammar
-180	property	sweet	bĩšĩ̀		21401				chal11	macaulay1996grammar
-181	property	salty	uʔà		21402				chal11	macaulay1996grammar
-182	property	bitter	uà		21403				chal11	macaulay1996grammar
-183	property	tasty, delicious	ãsũ̀		21404				chal11	macaulay1996grammar
-184	property	wide	xičá		21405				chal11	macaulay1996grammar
-184	property	wide	xíčá		21406				chal11	macaulay1996grammar
-185	property	new	xáá		21407				chal11	macaulay1996grammar
-186	property	lazy	kúší		21408				chal11	macaulay1996grammar
-187	property	ugly	ñáka		21409				chal11	macaulay1996grammar
-188	property	jealous	kʷĩ́ñĩ́		21410				chal11	macaulay1996grammar
-188	property	jealous	kʷĩ́ñɨ̃́		21411				chal11	macaulay1996grammar
-189	property	near	žani		21412				chal11	macaulay1996grammar
-190	property	far	xíká		21413				chal11	macaulay1996grammar
-191	property	heavy	bèè		21414				chal11	macaulay1996grammar
-192	property	raw	žíʔí		21415				chal11	macaulay1996grammar
-192	property	raw	žɨʔɨ́		21416				chal11	macaulay1996grammar
-193	property	smooth, soft	bitá		21417				chal11	macaulay1996grammar
-194	property	slow	kʷéé		21418				chal11	macaulay1996grammar
-195	time	yesterday	íkú		21419				chal11	macaulay1996grammar
-196	time	year	ndɨkɨ		21420				chal11	macaulay1996grammar
-196		year, age	kʷíža		21421				chal11	macaulay1996grammar
-196		year, age	kʷía		21422				chal11	macaulay1996grammar
-197	time	now, today	bína		21423				chal11	macaulay1996grammar
-198	time	night	kɨ́ʔu		21424				chal11	macaulay1996grammar
-199	time	night time	xa-kʷáá		21425				chal11	macaulay1996grammar
-200	time	day	kɨù		21426				chal11	macaulay1996grammar
-201	time	day time	ndúú		21427				chal11	macaulay1996grammar
-202	abstract	half, middle	saʔba		21428				chal11	macaulay1996grammar
-203	abstract	money	šũʔũ		21429				chal11	macaulay1996grammar
-204	abstract	work	tĩũ		21430				chal11	macaulay1996grammar
-205	abstract	word	tũʔṹ		21431				chal11	macaulay1996grammar
-206	abstract	fault, cause	kʷàčì		21432				chal11	macaulay1996grammar
-207	abstract	dream	ñũʔnã́		21433				chal11	macaulay1996grammar
-208	abstract	when	nama		21434				chal11	macaulay1996grammar
-209	abstract	song, music	žaà		21435				chal11	macaulay1996grammar
+IDlist	CATEGORY	GLOSS	VALUE	ID	NOTES	LOAN	LOAN_SOURCE	DOCULECT	SOURCE
+1	kinship	mother	náa	21211				chal11	macaulay1996grammar
+2	kinship	mother!, mom!	$					chal11	macaulay1996grammar
+3	kinship	father	táa	21212				chal11	macaulay1996grammar
+4	kinship	father!, dad!	$					chal11	macaulay1996grammar
+5	kinship	son/daughter, child	seʔe	21213				chal11	macaulay1996grammar
+6	kinship	son	sežíí	21214				chal11	macaulay1996grammar
+7	kinship	daughter	sesɨ́ʔɨ́	21215				chal11	macaulay1996grammar
+8	kinship	cross-sex sibling	kʷàʔa	21216				chal11	macaulay1996grammar
+9	kinship	brother of man	ñáni	21217				chal11	macaulay1996grammar
+10	kinship	sister of woman	kúʔu	21218				chal11	macaulay1996grammar
+11	kinship	aunt	šiì	21219				chal11	macaulay1996grammar
+12	kinship	uncle	stoò	21220				chal11	macaulay1996grammar
+13	person	man	čàà	21221				chal11	macaulay1996grammar
+14	person	woman	ñãʔã	21222				chal11	macaulay1996grammar
+15	person	owner, boss	$					chal11	macaulay1996grammar
+16	person	priest	sutù	21223				chal11	macaulay1996grammar
+17	body	blood	nɨ́ñɨ̀	21224				chal11	macaulay1996grammar
+18	body	bone	žɨkɨ	21225				chal11	macaulay1996grammar
+19	body	hair	iši	21226				chal11	macaulay1996grammar
+20	body	face	nuù	21227				chal11	macaulay1996grammar
+21	body	tongue	žaa	21228				chal11	macaulay1996grammar
+22	body	tooth	nũʔũ	21229				chal11	macaulay1996grammar
+23	body	mouth	žuʔu	21230				chal11	macaulay1996grammar
+24	body	ear	soʔo	21231				chal11	macaulay1996grammar
+25	body	nose	kutu	21232				chal11	macaulay1996grammar
+26	body	neck	sũkũ̀	21233				chal11	macaulay1996grammar
+27	body	hand	ndaʔa	21234				chal11	macaulay1996grammar
+28	body	fingernail	tĩ́žṍ	21235				chal11	macaulay1996grammar
+28	body	fingernail	tĩ́žṹ	21236				chal11	macaulay1996grammar
+28	body	fingernail	tĩ́ĩ	21237				chal11	macaulay1996grammar
+28	body	fingernail	tĩ́ĩ́	21238				chal11	macaulay1996grammar
+29	body	back	žata	21239				chal11	macaulay1996grammar
+30	body	stomach, belly	čìì	21240				chal11	macaulay1996grammar
+31	body	intestine, guts	xɨ́tɨ̀	21241				chal11	macaulay1996grammar
+32	body	foot	xaʔà	21242				chal11	macaulay1996grammar
+33	body	illness, sickness	kʷeʔè	21243				chal11	macaulay1996grammar
+34	body	medicine, remedy	táná	21244				chal11	macaulay1996grammar
+35	body	swelling	$					chal11	macaulay1996grammar
+36	body	pimple	ndɨʔžɨ́	21245				chal11	macaulay1996grammar
+37	body	pus	lakʷa	21246				chal11	macaulay1996grammar
+37	body	pus	lákʷá	21247				chal11	macaulay1996grammar
+38	body	urine	tíšešé	21248				chal11	macaulay1996grammar
+39	clothing	dress, cloth, clothing	saʔma	21249				chal11	macaulay1996grammar
+40	clothing	sandal, sandals	ndĩxã̀	21250				chal11	macaulay1996grammar
+41	clothing	pants	$					chal11	macaulay1996grammar
+42	clothing	blouse, woven blouse	$					chal11	macaulay1996grammar
+43	living	village, town	ñũũ̀	21251				chal11	macaulay1996grammar
+44	living	house	beʔe	21252				chal11	macaulay1996grammar
+45	living	path, road, trail	iči	21253				chal11	macaulay1996grammar
+46	living	post						chal11	macaulay1996grammar
+47	living	mat, sleeping mat, straw mat	žuu	21254				chal11	macaulay1996grammar
+48	living	bed	xito	21255				chal11	macaulay1996grammar
+49	living	stool, bench	téžu	21256				chal11	macaulay1996grammar
+50	animal	animal	kɨtɨ	21257				chal11	macaulay1996grammar
+51	animal	bird	saà	21258				chal11	macaulay1996grammar
+52	animal	fish	čáká	21259				chal11	macaulay1996grammar
+53	animal	snake	kòò	21260				chal11	macaulay1996grammar
+53	animal	snake	koò	21261				chal11	macaulay1996grammar
+54	animal	frog	sáʔba	21262				chal11	macaulay1996grammar
+55	animal	sparrow hawk, eagle	šĩ́ʔã	21263				chal11	macaulay1996grammar
+56	animal	scorpion	tɨsúʔmá	21264				chal11	macaulay1996grammar
+57	animal	cockroach	titeʔé	21265				chal11	macaulay1996grammar
+58	animal	grasshopper	tɨkà	21266				chal11	macaulay1996grammar
+58	animal	grasshopper	tɨkàà	21267				chal11	macaulay1996grammar
+58	animal	grasshopper	tɨká	21268				chal11	macaulay1996grammar
+59	animal	bee	timí	21269				chal11	macaulay1996grammar
+59	animal	bee	timíí	21270				chal11	macaulay1996grammar
+60	animal	mouse, rat	tiñí	21271				chal11	macaulay1996grammar
+60	animal	mouse, rat	tɨ̃ñɨ̃́ɨ̃́	21272				chal11	macaulay1996grammar
+61	animal	deer	isù	21273				chal11	macaulay1996grammar
+62	animal	squirrel	$					chal11	macaulay1996grammar
+63	animal	skunk	čɨ̃́ʔɨ̃́	21274				chal11	macaulay1996grammar
+63	animal	skunk	čɨ̃ʔɨ̃́	21275				chal11	macaulay1996grammar
+64	animal	opossum	xàkò	21276		yes	Spanish	chal11	macaulay1996grammar
+64	animal	opossum	xàko	21277		yes	Spanish	chal11	macaulay1996grammar
+65	animal	raccoon	$					chal11	macaulay1996grammar
+66	animal	rabbit	isò	21278				chal11	macaulay1996grammar
+66	animal	rabbit	isù	21279				chal11	macaulay1996grammar
+67	animal	vulture	$					chal11	macaulay1996grammar
+68	animal	dog	inà	21280				chal11	macaulay1996grammar
+69	animal	cat	bílu	21281				chal11	macaulay1996grammar
+70	animal	rooster	líʔi	21282				chal11	macaulay1996grammar
+71	animal	hen, chicken	čũ̀ũ̀	21283				chal11	macaulay1996grammar
+72	animal	pig	kɨnɨ̀	21284				chal11	macaulay1996grammar
+73	animal	horse	kʷažú	21285		yes	Spanish	chal11	macaulay1996grammar
+74	animal	sheep	rɨɨ̀	21286	from borrego	yes	Spanish	chal11	macaulay1996grammar
+75	animal	ant	čókó	21287				chal11	macaulay1996grammar
+76	animal	horn (anatomy)	ndɨkɨ	21288				chal11	macaulay1996grammar
+77	animal	feather	tũ̀ũ̀	21289				chal11	macaulay1996grammar
+78	animal	wing	ndíxì	21290				chal11	macaulay1996grammar
+79	animal	tail	súʔma	21291				chal11	macaulay1996grammar
+80	plant	tree	žṹnṹ	21292				chal11	macaulay1996grammar
+81	plant	herb	žukù	21293				chal11	macaulay1996grammar
+82	plant	grass	ičá	21294				chal11	macaulay1996grammar
+82	plant	grass	íčà	21295				chal11	macaulay1996grammar
+83	plant	flower	ità	21296				chal11	macaulay1996grammar
+84	plant	maguey, century plant	žáú	21297				chal11	macaulay1996grammar
+85	plant	root	žoʔo	21298				chal11	macaulay1996grammar
+86	plant	thorn	ĩ́ñṹ	21299				chal11	macaulay1996grammar
+87	corn	grain of corn	nunì	21300				chal11	macaulay1996grammar
+88	corn	cornfield	itù	21301				chal11	macaulay1996grammar
+89	corn	ear of corn	nɨ́ñɨ́	21302				chal11	macaulay1996grammar
+90	corn	nixtamal	$					chal11	macaulay1996grammar
+91	corn	corn dough	žuša	21303				chal11	macaulay1996grammar
+92	corn	tortilla	staà	21304				chal11	macaulay1996grammar
+93	corn	cleared field, cornstalk	$					chal11	macaulay1996grammar
+94	corn	furrow, planting row	$					chal11	macaulay1996grammar
+95	corn	tassel, maize spike	žóko	21305				chal11	macaulay1996grammar
+95	corn	tassel, maize spike	tɨkàžóko	21306				chal11	macaulay1996grammar
+96	food	bean	nduči	21307				chal11	macaulay1996grammar
+97	food	green bean	ndìči	21308				chal11	macaulay1996grammar
+98	food	chili pepper	žaʔa	21309				chal11	macaulay1996grammar
+99	food	salt	saù	21310				chal11	macaulay1996grammar
+100	food	squash, pumpkin	žɨ́kɨ	21311				chal11	macaulay1996grammar
+101	food	chayote squash	nã́ñã́	21312				chal11	macaulay1996grammar
+102	food	cane, cornstalk	ndoò	21313				chal11	macaulay1996grammar
+103	food	honey	nduši	21314				chal11	macaulay1996grammar
+104	food	fat, lard, grease	šãʔã	21315				chal11	macaulay1996grammar
+105	food	egg	ndɨù	21316				chal11	macaulay1996grammar
+106	food	tomato	tènana	21317				chal11	macaulay1996grammar
+106	food	tomato	tɨ̀nana	21318				chal11	macaulay1996grammar
+107	food	sweet potato	ñã́ʔmĩ	21319				chal11	macaulay1996grammar
+108	food	avocado	tɨčɨ́	21320				chal11	macaulay1996grammar
+109	food	banana	ndíká	21321				chal11	macaulay1996grammar
+110	food	prickly pear cactus	bíʔža	21322				chal11	macaulay1996grammar
+110	food	prickly pear cactus	bíʔnža	21323				chal11	macaulay1996grammar
+111	food	zapote	ndoko	21324				chal11	macaulay1996grammar
+112	food	chirimoya	ĩ́ñṹ	21325				chal11	macaulay1996grammar
+113	food	mushroom	xiʔi	21326				chal11	macaulay1996grammar
+114	food	meat	kũ̀ñũ̀	21327				chal11	macaulay1996grammar
+115	cooking	griddle	šiò	21328				chal11	macaulay1996grammar
+115	cooking	griddle	šoò	21329				chal11	macaulay1996grammar
+116	cooking	pot, cooking pot	kɨsɨ	21330				chal11	macaulay1996grammar
+117	cooking	oven	šinù	21331				chal11	macaulay1996grammar
+117	cooking	oven	xinù	21332				chal11	macaulay1996grammar
+118	cooking	fire	ñṹʔũ̀	21333				chal11	macaulay1996grammar
+119	cooking	ash	žàà	21334				chal11	macaulay1996grammar
+120	cooking	charcoal	tɨkàži	21335				chal11	macaulay1996grammar
+120	cooking	charcoal	tikàží	21336				chal11	macaulay1996grammar
+120	cooking	charcoal	tekàži	21337				chal11	macaulay1996grammar
+121	cooking	smoke	ñṹʔmā	21338				chal11	macaulay1996grammar
+122	cooking	garbage, trash	miʔí	21339				chal11	macaulay1996grammar
+123	cooking	plate	koʔò	21340				chal11	macaulay1996grammar
+124	container	gourd bowl	žáʔu	21341				chal11	macaulay1996grammar
+125	container	basket	xìka	21342				chal11	macaulay1996grammar
+125		basket with carrying strap	ndoʔò	21343				chal11	macaulay1996grammar
+126	container	box	kaxá	21344		yes	Spanish	chal11	macaulay1996grammar
+127	thing	thread	žuʔà	21345				chal11	macaulay1996grammar
+128	thing	comb	kúkà	21346				chal11	macaulay1996grammar
+129	thing	rope	žoʔo	21347				chal11	macaulay1996grammar
+130	thing	hole	žaù	21348				chal11	macaulay1996grammar
+131	thing	net	ñũnũ	21349				chal11	macaulay1996grammar
+132	thing	soap	namà	21350				chal11	macaulay1996grammar
+133	thing	ring	šéʔé	21351				chal11	macaulay1996grammar
+134	nature	moon	žoò	21352				chal11	macaulay1996grammar
+135	nature	cloud	bíkò	21353				chal11	macaulay1996grammar
+136	nature	lightning	ndežú	21354				chal11	macaulay1996grammar
+136	nature	lightning	taxa	21355				chal11	macaulay1996grammar
+137	nature	water	nduča	21356				chal11	macaulay1996grammar
+138	nature	rain (precipitation)	saù	21357				chal11	macaulay1996grammar
+139	nature	river	žuča	21358				chal11	macaulay1996grammar
+140	nature	dew	$					chal11	macaulay1996grammar
+141	nature	mountain, hill, forrest	žúkú	21359				chal11	macaulay1996grammar
+142	nature	plain, countryside	nduʔà	21360				chal11	macaulay1996grammar
+143	nature	stone, rock	žuù	21361				chal11	macaulay1996grammar
+144	material	cotton	kačì	21362				chal11	macaulay1996grammar
+145	material	iron, bell	kaa	21363				chal11	macaulay1996grammar
+146	material	paper	tutù	21364				chal11	macaulay1996grammar
+147	material	lime (material)	kakà	21365				chal11	macaulay1996grammar
+148	material	beeswax, wax	ñuʔmà	21366				chal11	macaulay1996grammar
+149	material	mud	ndéʔžu	21367				chal11	macaulay1996grammar
+150	material	foam	tiʔíñu	21368				chal11	macaulay1996grammar
+151	material	dust	tɨkačá	21369				chal11	macaulay1996grammar
+151	material	dust	tɨkačaà	21370				chal11	macaulay1996grammar
+152	color	red	ñũñũ	21371				chal11	macaulay1996grammar
+153	color	green, blue	kʷíi	21372				chal11	macaulay1996grammar
+154	color	yellow	kʷãã́	21373				chal11	macaulay1996grammar
+155	color	black	tũ̀ũ̀	21374				chal11	macaulay1996grammar
+156	color	white	kʷĩxĩ́	21375				chal11	macaulay1996grammar
+157	number	one	ɨ́ɨ́	21376				chal11	macaulay1996grammar
+158	number	two	uù	21377				chal11	macaulay1996grammar
+159	number	three	unì	21378				chal11	macaulay1996grammar
+160	number	four	kũũ̀	21379				chal11	macaulay1996grammar
+161	number	five	ṹʔũ	21380				chal11	macaulay1996grammar
+162	number	six	ĩ́ñũ	21381				chal11	macaulay1996grammar
+163	number	seven	úšia	21382				chal11	macaulay1996grammar
+163	number	seven	úša	21383				chal11	macaulay1996grammar
+164	number	eight	unà	21384				chal11	macaulay1996grammar
+165	number	nine	ɨ̃́ɨ̃	21385				chal11	macaulay1996grammar
+166	number	ten	ušì	21386				chal11	macaulay1996grammar
+167	number	fifteen	šĩã́ʔũ	21387				chal11	macaulay1996grammar
+168	number	twenty	okò	21388				chal11	macaulay1996grammar
+169	property	poor	ndáʔu	21389				chal11	macaulay1996grammar
+170	property	rich	kúká	21390				chal11	macaulay1996grammar
+171	property	cold	bĩ̀xĩ	21391				chal11	macaulay1996grammar
+172	property	hot	ñíʔní	21392				chal11	macaulay1996grammar
+173	property	big.SG	kã́ʔnũ	21393				chal11	macaulay1996grammar
+174	property	big.PL	nã́ʔnũ	21394				chal11	macaulay1996grammar
+175	property	small	lúlí	21395				chal11	macaulay1996grammar
+175		small	tíʔlu	21396				chal11	macaulay1996grammar
+176	property	small, thin	kʷáčí	21397				chal11	macaulay1996grammar
+177	property	long.SG	káni	21398				chal11	macaulay1996grammar
+178	property	long.PL	náni	21399				chal11	macaulay1996grammar
+179	property	good	bàʔà	21400				chal11	macaulay1996grammar
+180	property	sweet	bĩšĩ̀	21401				chal11	macaulay1996grammar
+181	property	salty	uʔà	21402				chal11	macaulay1996grammar
+182	property	bitter	uà	21403				chal11	macaulay1996grammar
+183	property	tasty, delicious	ãsũ̀	21404				chal11	macaulay1996grammar
+184	property	wide	xičá	21405				chal11	macaulay1996grammar
+184	property	wide	xíčá	21406				chal11	macaulay1996grammar
+185	property	new	xáá	21407				chal11	macaulay1996grammar
+186	property	lazy	kúší	21408				chal11	macaulay1996grammar
+187	property	ugly	ñáka	21409				chal11	macaulay1996grammar
+188	property	jealous	kʷĩ́ñĩ́	21410				chal11	macaulay1996grammar
+188	property	jealous	kʷĩ́ñɨ̃́	21411				chal11	macaulay1996grammar
+189	property	near	žani	21412				chal11	macaulay1996grammar
+190	property	far	xíká	21413				chal11	macaulay1996grammar
+191	property	heavy	bèè	21414				chal11	macaulay1996grammar
+192	property	raw	žíʔí	21415				chal11	macaulay1996grammar
+192	property	raw	žɨʔɨ́	21416				chal11	macaulay1996grammar
+193	property	smooth, soft	bitá	21417				chal11	macaulay1996grammar
+194	property	slow	kʷéé	21418				chal11	macaulay1996grammar
+195	time	yesterday	íkú	21419				chal11	macaulay1996grammar
+196	time	year	ndɨkɨ	21420				chal11	macaulay1996grammar
+196		year, age	kʷíža	21421				chal11	macaulay1996grammar
+196		year, age	kʷía	21422				chal11	macaulay1996grammar
+197	time	now, today	bína	21423				chal11	macaulay1996grammar
+198	time	night	kɨ́ʔu	21424				chal11	macaulay1996grammar
+199	time	night time	xa-kʷáá	21425				chal11	macaulay1996grammar
+200	time	day	kɨù	21426				chal11	macaulay1996grammar
+201	time	day time	ndúú	21427				chal11	macaulay1996grammar
+202	abstract	half, middle	saʔba	21428				chal11	macaulay1996grammar
+203	abstract	money	šũʔũ	21429				chal11	macaulay1996grammar
+204	abstract	work	tĩũ	21430				chal11	macaulay1996grammar
+205	abstract	word	tũʔṹ	21431				chal11	macaulay1996grammar
+206	abstract	fault, cause	kʷàčì	21432				chal11	macaulay1996grammar
+207	abstract	dream	ñũʔnã́	21433				chal11	macaulay1996grammar
+208	abstract	when	nama	21434				chal11	macaulay1996grammar
+209	abstract	song, music	žaà	21435				chal11	macaulay1996grammar

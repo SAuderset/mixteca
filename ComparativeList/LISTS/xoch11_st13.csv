@@ -1,219 +1,219 @@
-IDlist	CATEGORY	GLOSS	VALUE	FORM	ID	NOTES	LOAN	LOAN_SOURCE	DOCULECT	SOURCE
-1	kinship	madre	nána		4674				xoch11	stark2013diccionario
-1	kinship	madre	si'í		4675				xoch11	stark2013diccionario
-2	kinship	mamá!	$						xoch11	stark2013diccionario
-3	kinship	padre	ivá		4676				xoch11	stark2013diccionario
-3	kinship	padre	táta		4677				xoch11	stark2013diccionario
-4	kinship	papá!	$						xoch11	stark2013diccionario
-5	kinship	hijo/hija	se̠'e		4678				xoch11	stark2013diccionario
-6	kinship	hijo	$						xoch11	stark2013diccionario
-7	kinship	hija	$						xoch11	stark2013diccionario
-8	kinship	hermana/hermano de otro genero	ku̠'va		4679				xoch11	stark2013diccionario
-9	kinship	hermano de hombre	ñani		4680				xoch11	stark2013diccionario
-9	kinship	hermano de hombre	yani		4681				xoch11	stark2013diccionario
-10	kinship	hermana de mujer	ku̠'vi̠		4682				xoch11	stark2013diccionario
-11	kinship	tía	xìxì		4683				xoch11	stark2013diccionario
-12	kinship	tío	xìtò		4684				xoch11	stark2013diccionario
-13	person	hombre	ta̠a		4685				xoch11	stark2013diccionario
-14	person	mujer	ña'á		4686				xoch11	stark2013diccionario
-15	person	dueño	$						xoch11	stark2013diccionario
-16	person	sacerdote	su̠tu̠		4687				xoch11	stark2013diccionario
-17	body	sangre	ni̠í		4688				xoch11	stark2013diccionario
-18	body	hueso	leke		4689				xoch11	stark2013diccionario
-19	body	pelo	ixí		4690				xoch11	stark2013diccionario
-20	body	cara	nu̠ú		4691				xoch11	stark2013diccionario
-21	body	lengua	yâá		4692				xoch11	stark2013diccionario
-22	body	diente	nu̠'u		4693				xoch11	stark2013diccionario
-23	body	boca	yu'ú		4694				xoch11	stark2013diccionario
-24	body	oreja	so̠'o		4695				xoch11	stark2013diccionario
-25	body	nariz	xi̠tín		4696				xoch11	stark2013diccionario
-26	body	cuello, pescuezo	su̠kún		4697				xoch11	stark2013diccionario
-27	body	mano	nda'á		4698				xoch11	stark2013diccionario
-28	body	uña	$						xoch11	stark2013diccionario
-29	body	espalda	sa̠tá		4699				xoch11	stark2013diccionario
-30	body	vientre, estómago	ti̠xin		4700				xoch11	stark2013diccionario
-31	body	tripa, tripas	$						xoch11	stark2013diccionario
-32	body	pie	xa̠'á		4701				xoch11	stark2013diccionario
-33	body	enfermedad	kue̠'e̠		4702				xoch11	stark2013diccionario
-34	body	medicina	ta̠ta̠n	̠	4703				xoch11	stark2013diccionario
-35	body	hinchazón	$						xoch11	stark2013diccionario
-36	body	grano	$						xoch11	stark2013diccionario
-37	body	pus, materia	$						xoch11	stark2013diccionario
-38	body	orina	$						xoch11	stark2013diccionario
-39	clothing	ropa	ti̠ko̠to̠		4704				xoch11	stark2013diccionario
-39	clothing	ropa	to̠to̠		4705				xoch11	stark2013diccionario
-40	clothing	huarache	ndu̠xán		4706				xoch11	stark2013diccionario
-41	clothing	pantalón	$						xoch11	stark2013diccionario
-42	clothing	huipil	$						xoch11	stark2013diccionario
-43	living	pueblo	ñùù		4707				xoch11	stark2013diccionario
-44	living	casa	ve'e		4708				xoch11	stark2013diccionario
-45	living	camino	ichí		4709				xoch11	stark2013diccionario
-46	living	horcón	$						xoch11	stark2013diccionario
-47	living	petate	iví		4710				xoch11	stark2013diccionario
-48	living	cama	xi̠to		4711				xoch11	stark2013diccionario
-49	living	silla	ta̠i̠		4712				xoch11	stark2013diccionario
-50	animal	animal	kití		4713				xoch11	stark2013diccionario
-51	animal	pájaro	sàà		4714				xoch11	stark2013diccionario
-52	animal	pez, pescado	tiàká		4715				xoch11	stark2013diccionario
-53	animal	culebra, serpiente	ko̠ó		4716				xoch11	stark2013diccionario
-54	animal	rana	sa̠'va̠		4717				xoch11	stark2013diccionario
-55	animal	gavilán, águila	tasún		4718				xoch11	stark2013diccionario
-56	animal	alacrán	tisǒ'ma	ti-sǒ'ma	4719	animal-tail; but see difference in consonant			xoch11	stark2013diccionario
-57	animal	cucaracha	tike'lé	ti-ke'lé	4720	animal-?			xoch11	stark2013diccionario
-57	animal	cucaracha	tite'é	ti-te'é	4721	animal-?			xoch11	stark2013diccionario
-58	animal	chapulín	tìkà ndiamá	tìkà-ndiamá	4722				xoch11	stark2013diccionario
-59	animal	abeja	tíñuñú	tí-ñuñú	4723	animal-honey			xoch11	stark2013diccionario
-59	animal	abeja	ñuñú		4724	honey			xoch11	stark2013diccionario
-60	animal	ratón	tìín		4725				xoch11	stark2013diccionario
-61	animal	venado	isu		4726				xoch11	stark2013diccionario
-62	animal	ardilla	ndikuáñú	ndi-kuáñú	4727				xoch11	stark2013diccionario
-63	animal	zorrillo	tì'ín		4728				xoch11	stark2013diccionario
-64	animal	tlacuache	xa̠ko		4729				xoch11	stark2013diccionario
-65	animal	mapache	$						xoch11	stark2013diccionario
-66	animal	conejo	leko		4730				xoch11	stark2013diccionario
-67	animal	zopilote	mbelo		4731				xoch11	stark2013diccionario
-68	animal	perro	tìnà	t-ìnà	4732	animal-dog			xoch11	stark2013diccionario
-69	animal	gato	vilú		4733				xoch11	stark2013diccionario
-70	animal	gallo	che'le		4734				xoch11	stark2013diccionario
-71	animal	gallina, pollo	nduxí		4735				xoch11	stark2013diccionario
-72	animal	marrano, cochino	ki̠ni̠		4736				xoch11	stark2013diccionario
-73	animal	caballo	kuái̠		4737		yes	Colonial Spanish	xoch11	stark2013diccionario
-74	animal	borrego, oveja	levo		4738		maybe	Colonial Spanish	xoch11	stark2013diccionario
-75	animal	hormiga	tio̠kó		4739				xoch11	stark2013diccionario
-76	animal	cuerno	ndikín		4740				xoch11	stark2013diccionario
-77	animal	pluma	$						xoch11	stark2013diccionario
-78	animal	ala	ndi̠xín		4741				xoch11	stark2013diccionario
-79	animal	cola	ndo'má		4742				xoch11	stark2013diccionario
-80	plant	árbol, palo	itún		4743				xoch11	stark2013diccionario
-81	plant	hierba, quelite	iva		4744				xoch11	stark2013diccionario
-82	plant	zacate	ndió'o		4745				xoch11	stark2013diccionario
-83	plant	flor	ita		4746				xoch11	stark2013diccionario
-84	plant	maguey	yaví		4747				xoch11	stark2013diccionario
-85	plant	raíz	$						xoch11	stark2013diccionario
-86	plant	espina	$						xoch11	stark2013diccionario
-87	corn	maíz en grano	nu̠ní		4748				xoch11	stark2013diccionario
-88	corn	milpa	itu		4749				xoch11	stark2013diccionario
-89	corn	elote	ndixín		4750				xoch11	stark2013diccionario
-90	corn	nixtamal	xá'a		4751				xoch11	stark2013diccionario
-91	corn	masa	uxán		4752				xoch11	stark2013diccionario
-92	corn	tortilla	xi̠tá		4753				xoch11	stark2013diccionario
-93	corn	rastrojo	$						xoch11	stark2013diccionario
-94	corn	surco	$						xoch11	stark2013diccionario
-95	corn	espiga	$						xoch11	stark2013diccionario
-96	food	frijol(es)	nduchí		4754				xoch11	stark2013diccionario
-97	food	ejote	ndìchì		4755				xoch11	stark2013diccionario
-98	food	chile	ya'á		4756				xoch11	stark2013diccionario
-99	food	sal	i̠ín		4757				xoch11	stark2013diccionario
-99	food	sal	ñi̠í		4758				xoch11	stark2013diccionario
-100	food	calabaza	ikín		4759				xoch11	stark2013diccionario
-101	food	chayote	nañá		4760				xoch11	stark2013diccionario
-102	food	caña	ndo̠ó		4761				xoch11	stark2013diccionario
-103	food	miel	ñuñú		4762				xoch11	stark2013diccionario
-104	food	grasa, manteca	xà'àn		4763				xoch11	stark2013diccionario
-105	food	blanquillo, huevo	ndi̠ví		4764				xoch11	stark2013diccionario
-106	food	tomate	tinaná	ti-naná	4765	round-tomato			xoch11	stark2013diccionario
-107	food	camote	ña'mi		4766				xoch11	stark2013diccionario
-108	food	aguacate	tìchí		4767				xoch11	stark2013diccionario
-109	food	plátano	chi̠ta̠ 		4768				xoch11	stark2013diccionario
-110	food	nopal	vi̠'ndá		4769				xoch11	stark2013diccionario
-111	food	mamey, zapote	ndiká xa̠'a̠	ndiká-xa̠'a̠	5081				xoch11	stark2013diccionario
-112	food	chirimoya	$						xoch11	stark2013diccionario
-113	food	hongo	$						xoch11	stark2013diccionario
-114	food	carne	kùñù		4770				xoch11	stark2013diccionario
-115	cooking	comal	xi̠yó		4771				xoch11	stark2013diccionario
-116	cooking	olla	ki̠si		4772				xoch11	stark2013diccionario
-117	cooking	horno	$						xoch11	stark2013diccionario
-118	cooking	lumbre, fuego	ñu̠'u̠		4773				xoch11	stark2013diccionario
-119	cooking	ceniza	ya̠á		4774				xoch11	stark2013diccionario
-120	cooking	carbón	$						xoch11	stark2013diccionario
-121	cooking	humo	$						xoch11	stark2013diccionario
-122	cooking	basura	mì'í		4775				xoch11	stark2013diccionario
-123	cooking	plato	ko̠'ó		4776				xoch11	stark2013diccionario
-124	container	jícara	$						xoch11	stark2013diccionario
-125	container	tenate	ndo̠'ó		4777				xoch11	stark2013diccionario
-126	container	cajón (de madera)	xa̠tún		4778				xoch11	stark2013diccionario
-127	thing	hilo	$						xoch11	stark2013diccionario
-128	thing	peine	$						xoch11	stark2013diccionario
-129	thing	mecate, cuerda	yo'ó		4779				xoch11	stark2013diccionario
-130	thing	agujero	ya̠vi̠		4780	only in one example			xoch11	stark2013diccionario
-131	thing	red	$						xoch11	stark2013diccionario
-132	thing	jabón	na̠má		4781				xoch11	stark2013diccionario
-133	thing	anillo	xè'é		4782				xoch11	stark2013diccionario
-134	nature	luna	yo̠ó		4783				xoch11	stark2013diccionario
-135	nature	nube	vi̠kó		4784				xoch11	stark2013diccionario
-136	nature	rayo, relámpago	taxan		4785				xoch11	stark2013diccionario
-137	nature	agua	tìkuíi		4786				xoch11	stark2013diccionario
-138	nature	lluvia	sa̠ví		4787				xoch11	stark2013diccionario
-139	nature	río	i̠ta		4788				xoch11	stark2013diccionario
-140	nature	rocío	$						xoch11	stark2013diccionario
-141	nature	cerro	ikú		4789				xoch11	stark2013diccionario
-142	nature	llano	yosó		4790	from example			xoch11	stark2013diccionario
-143	nature	piedra	yu̠ú		4791				xoch11	stark2013diccionario
-144	material	algodón	kachí		4792				xoch11	stark2013diccionario
-145	material	campana	kàà		4793				xoch11	stark2013diccionario
-146	material	papel	tùtù		4794				xoch11	stark2013diccionario
-147	material	cal	kàkà		4795				xoch11	stark2013diccionario
-148	material	cera	$						xoch11	stark2013diccionario
-149	material	lodo	nda̠'i̠		4796				xoch11	stark2013diccionario
-150	material	espuma	$						xoch11	stark2013diccionario
-151	material	polvo	$						xoch11	stark2013diccionario
-152	color	rojo, colorado	kuá'a		4797				xoch11	stark2013diccionario
-153	color	verde	$						xoch11	stark2013diccionario
-154	color	amarillo	kuáan		4798				xoch11	stark2013diccionario
-155	color	negro	ndáá		4799				xoch11	stark2013diccionario
-156	color	blanco	yaa		4800				xoch11	stark2013diccionario
-157	number	uno	iin		4801				xoch11	stark2013diccionario
-158	number	dos	u̠vi̠		4802				xoch11	stark2013diccionario
-159	number	tres	u̠ni̠		4803				xoch11	stark2013diccionario
-160	number	cuatro	ku̠mí		4804				xoch11	stark2013diccionario
-161	number	cinco	u̠'u̠n		4805				xoch11	stark2013diccionario
-162	number	seis	i̠ñu̠		4806				xoch11	stark2013diccionario
-163	number	siete	u̠xa̠		4807				xoch11	stark2013diccionario
-164	number	ocho	u̠na̠		4808				xoch11	stark2013diccionario
-165	number	nueve	i̠i̠n		4809				xoch11	stark2013diccionario
-166	number	diez	u̠xi̠		4810				xoch11	stark2013diccionario
-167	number	quince	xa̠'u̠n		4811				xoch11	stark2013diccionario
-168	number	veinte	o̠ko̠		4812				xoch11	stark2013diccionario
-169	property	pobre	ndá'vi		4813				xoch11	stark2013diccionario
-170	property	rico	kuíká		4814				xoch11	stark2013diccionario
-171	property	frío	vi̠xin		4815				xoch11	stark2013diccionario
-172	property	está caliente, caliente	i'ní		4816				xoch11	stark2013diccionario
-173	property	grande.SG	ká'nú		4817				xoch11	stark2013diccionario
-174	property	grande.PL	ná'nú		4818				xoch11	stark2013diccionario
-175	property	pequeño.SG, chico.SG	lo'o		4819				xoch11	stark2013diccionario
-176	property	pequeño.PL, chico.PL	válí		4820				xoch11	stark2013diccionario
-177	property	largo.SG	kâní		4821				xoch11	stark2013diccionario
-178	property	largo.PL	nâní		4822				xoch11	stark2013diccionario
-179	property	bueno	va̠'a		4823				xoch11	stark2013diccionario
-180	property	dulce	$						xoch11	stark2013diccionario
-181	property	salado	u̠'va̠		4824				xoch11	stark2013diccionario
-182	property	amargo	$						xoch11	stark2013diccionario
-183	property	sabroso	ya̠sín		4825				xoch11	stark2013diccionario
-184	property	ancho	$			in examples only			xoch11	stark2013diccionario
-185	property	nuevo	xàá		4826				xoch11	stark2013diccionario
-186	property	flojo	xu̠xán		4827				xoch11	stark2013diccionario
-186	property	flojo de cosa	taya		4828				xoch11	stark2013diccionario
-187	property	feo	kini		4829				xoch11	stark2013diccionario
-188	property	celoso	$						xoch11	stark2013diccionario
-189	property	cerca	yati		4830				xoch11	stark2013diccionario
-190	property	lejos	xíká		4831				xoch11	stark2013diccionario
-191	property	pesado	ve̠e		4832				xoch11	stark2013diccionario
-192	property	crudo	$						xoch11	stark2013diccionario
-193	property	liso	$						xoch11	stark2013diccionario
-194	property	despacio	kuee		4833				xoch11	stark2013diccionario
-195	time	ayer	kuni		4834				xoch11	stark2013diccionario
-196	time	año	kui̠ya̠		4835				xoch11	stark2013diccionario
-197	time	ahora, hoy	vitin		4836				xoch11	stark2013diccionario
-198	time	noche	ñǔu		4837				xoch11	stark2013diccionario
-199	time	de noche	$						xoch11	stark2013diccionario
-200	time	día	ki̠ví		4838				xoch11	stark2013diccionario
-201	time	de día	nduví		4839				xoch11	stark2013diccionario
-202	abstract	mitad	$						xoch11	stark2013diccionario
-203	abstract	dinero	xù'ún		4840				xoch11	stark2013diccionario
-204	abstract	trabajo	chiñu		4841				xoch11	stark2013diccionario
-205	abstract	palabra	tu̠'un		4842				xoch11	stark2013diccionario
-206	abstract	culpa	$						xoch11	stark2013diccionario
-207	abstract	sueño	$						xoch11	stark2013diccionario
-208	abstract	cuándo	ama		4843				xoch11	stark2013diccionario
-208	abstract	cuándo	maa		4844				xoch11	stark2013diccionario
-209	abstract	canción, música	yaa		4845				xoch11	stark2013diccionario
+IDlist	CATEGORY	GLOSS	VALUE	ID	NOTES	LOAN	LOAN_SOURCE	DOCULECT	SOURCE
+1	kinship	madre	nána	4674				xoch11	stark2013diccionario
+1	kinship	madre	si'í	4675				xoch11	stark2013diccionario
+2	kinship	mamá!	$					xoch11	stark2013diccionario
+3	kinship	padre	ivá	4676				xoch11	stark2013diccionario
+3	kinship	padre	táta	4677				xoch11	stark2013diccionario
+4	kinship	papá!	$					xoch11	stark2013diccionario
+5	kinship	hijo/hija	se̠'e	4678				xoch11	stark2013diccionario
+6	kinship	hijo	$					xoch11	stark2013diccionario
+7	kinship	hija	$					xoch11	stark2013diccionario
+8	kinship	hermana/hermano de otro genero	ku̠'va	4679				xoch11	stark2013diccionario
+9	kinship	hermano de hombre	ñani	4680				xoch11	stark2013diccionario
+9	kinship	hermano de hombre	yani	4681				xoch11	stark2013diccionario
+10	kinship	hermana de mujer	ku̠'vi̠	4682				xoch11	stark2013diccionario
+11	kinship	tía	xìxì	4683				xoch11	stark2013diccionario
+12	kinship	tío	xìtò	4684				xoch11	stark2013diccionario
+13	person	hombre	ta̠a	4685				xoch11	stark2013diccionario
+14	person	mujer	ña'á	4686				xoch11	stark2013diccionario
+15	person	dueño	$					xoch11	stark2013diccionario
+16	person	sacerdote	su̠tu̠	4687				xoch11	stark2013diccionario
+17	body	sangre	ni̠í	4688				xoch11	stark2013diccionario
+18	body	hueso	leke	4689				xoch11	stark2013diccionario
+19	body	pelo	ixí	4690				xoch11	stark2013diccionario
+20	body	cara	nu̠ú	4691				xoch11	stark2013diccionario
+21	body	lengua	yâá	4692				xoch11	stark2013diccionario
+22	body	diente	nu̠'u	4693				xoch11	stark2013diccionario
+23	body	boca	yu'ú	4694				xoch11	stark2013diccionario
+24	body	oreja	so̠'o	4695				xoch11	stark2013diccionario
+25	body	nariz	xi̠tín	4696				xoch11	stark2013diccionario
+26	body	cuello, pescuezo	su̠kún	4697				xoch11	stark2013diccionario
+27	body	mano	nda'á	4698				xoch11	stark2013diccionario
+28	body	uña	$					xoch11	stark2013diccionario
+29	body	espalda	sa̠tá	4699				xoch11	stark2013diccionario
+30	body	vientre, estómago	ti̠xin	4700				xoch11	stark2013diccionario
+31	body	tripa, tripas	$					xoch11	stark2013diccionario
+32	body	pie	xa̠'á	4701				xoch11	stark2013diccionario
+33	body	enfermedad	kue̠'e̠	4702				xoch11	stark2013diccionario
+34	body	medicina	ta̠ta̠n	4703				xoch11	stark2013diccionario
+35	body	hinchazón	$					xoch11	stark2013diccionario
+36	body	grano	$					xoch11	stark2013diccionario
+37	body	pus, materia	$					xoch11	stark2013diccionario
+38	body	orina	$					xoch11	stark2013diccionario
+39	clothing	ropa	ti̠ko̠to̠	4704				xoch11	stark2013diccionario
+39	clothing	ropa	to̠to̠	4705				xoch11	stark2013diccionario
+40	clothing	huarache	ndu̠xán	4706				xoch11	stark2013diccionario
+41	clothing	pantalón	$					xoch11	stark2013diccionario
+42	clothing	huipil	$					xoch11	stark2013diccionario
+43	living	pueblo	ñùù	4707				xoch11	stark2013diccionario
+44	living	casa	ve'e	4708				xoch11	stark2013diccionario
+45	living	camino	ichí	4709				xoch11	stark2013diccionario
+46	living	horcón	$					xoch11	stark2013diccionario
+47	living	petate	iví	4710				xoch11	stark2013diccionario
+48	living	cama	xi̠to	4711				xoch11	stark2013diccionario
+49	living	silla	ta̠i̠	4712				xoch11	stark2013diccionario
+50	animal	animal	kití	4713				xoch11	stark2013diccionario
+51	animal	pájaro	sàà	4714				xoch11	stark2013diccionario
+52	animal	pez, pescado	tiàká	4715				xoch11	stark2013diccionario
+53	animal	culebra, serpiente	ko̠ó	4716				xoch11	stark2013diccionario
+54	animal	rana	sa̠'va̠	4717				xoch11	stark2013diccionario
+55	animal	gavilán, águila	tasún	4718				xoch11	stark2013diccionario
+56	animal	alacrán	tisǒ'ma	4719	animal-tail; but see difference in consonant			xoch11	stark2013diccionario
+57	animal	cucaracha	tike'lé	4720	animal-?			xoch11	stark2013diccionario
+57	animal	cucaracha	tite'é	4721	animal-?			xoch11	stark2013diccionario
+58	animal	chapulín	tìkà ndiamá	4722				xoch11	stark2013diccionario
+59	animal	abeja	tíñuñú	4723	animal-honey			xoch11	stark2013diccionario
+59	animal	abeja	ñuñú	4724	honey			xoch11	stark2013diccionario
+60	animal	ratón	tìín	4725				xoch11	stark2013diccionario
+61	animal	venado	isu	4726				xoch11	stark2013diccionario
+62	animal	ardilla	ndikuáñú	4727				xoch11	stark2013diccionario
+63	animal	zorrillo	tì'ín	4728				xoch11	stark2013diccionario
+64	animal	tlacuache	xa̠ko	4729				xoch11	stark2013diccionario
+65	animal	mapache	$					xoch11	stark2013diccionario
+66	animal	conejo	leko	4730				xoch11	stark2013diccionario
+67	animal	zopilote	mbelo	4731				xoch11	stark2013diccionario
+68	animal	perro	tìnà	4732	animal-dog			xoch11	stark2013diccionario
+69	animal	gato	vilú	4733				xoch11	stark2013diccionario
+70	animal	gallo	che'le	4734				xoch11	stark2013diccionario
+71	animal	gallina, pollo	nduxí	4735				xoch11	stark2013diccionario
+72	animal	marrano, cochino	ki̠ni̠	4736				xoch11	stark2013diccionario
+73	animal	caballo	kuái̠	4737		yes	Colonial Spanish	xoch11	stark2013diccionario
+74	animal	borrego, oveja	levo	4738		maybe	Colonial Spanish	xoch11	stark2013diccionario
+75	animal	hormiga	tio̠kó	4739				xoch11	stark2013diccionario
+76	animal	cuerno	ndikín	4740				xoch11	stark2013diccionario
+77	animal	pluma	$					xoch11	stark2013diccionario
+78	animal	ala	ndi̠xín	4741				xoch11	stark2013diccionario
+79	animal	cola	ndo'má	4742				xoch11	stark2013diccionario
+80	plant	árbol, palo	itún	4743				xoch11	stark2013diccionario
+81	plant	hierba, quelite	iva	4744				xoch11	stark2013diccionario
+82	plant	zacate	ndió'o	4745				xoch11	stark2013diccionario
+83	plant	flor	ita	4746				xoch11	stark2013diccionario
+84	plant	maguey	yaví	4747				xoch11	stark2013diccionario
+85	plant	raíz	$					xoch11	stark2013diccionario
+86	plant	espina	$					xoch11	stark2013diccionario
+87	corn	maíz en grano	nu̠ní	4748				xoch11	stark2013diccionario
+88	corn	milpa	itu	4749				xoch11	stark2013diccionario
+89	corn	elote	ndixín	4750				xoch11	stark2013diccionario
+90	corn	nixtamal	xá'a	4751				xoch11	stark2013diccionario
+91	corn	masa	uxán	4752				xoch11	stark2013diccionario
+92	corn	tortilla	xi̠tá	4753				xoch11	stark2013diccionario
+93	corn	rastrojo	$					xoch11	stark2013diccionario
+94	corn	surco	$					xoch11	stark2013diccionario
+95	corn	espiga	$					xoch11	stark2013diccionario
+96	food	frijol(es)	nduchí	4754				xoch11	stark2013diccionario
+97	food	ejote	ndìchì	4755				xoch11	stark2013diccionario
+98	food	chile	ya'á	4756				xoch11	stark2013diccionario
+99	food	sal	i̠ín	4757				xoch11	stark2013diccionario
+99	food	sal	ñi̠í	4758				xoch11	stark2013diccionario
+100	food	calabaza	ikín	4759				xoch11	stark2013diccionario
+101	food	chayote	nañá	4760				xoch11	stark2013diccionario
+102	food	caña	ndo̠ó	4761				xoch11	stark2013diccionario
+103	food	miel	ñuñú	4762				xoch11	stark2013diccionario
+104	food	grasa, manteca	xà'àn	4763				xoch11	stark2013diccionario
+105	food	blanquillo, huevo	ndi̠ví	4764				xoch11	stark2013diccionario
+106	food	tomate	tinaná	4765	round-tomato			xoch11	stark2013diccionario
+107	food	camote	ña'mi	4766				xoch11	stark2013diccionario
+108	food	aguacate	tìchí	4767				xoch11	stark2013diccionario
+109	food	plátano	chi̠ta̠ 	4768				xoch11	stark2013diccionario
+110	food	nopal	vi̠'ndá	4769				xoch11	stark2013diccionario
+111	food	mamey, zapote	ndiká xa̠'a̠	5081				xoch11	stark2013diccionario
+112	food	chirimoya	$					xoch11	stark2013diccionario
+113	food	hongo	$					xoch11	stark2013diccionario
+114	food	carne	kùñù	4770				xoch11	stark2013diccionario
+115	cooking	comal	xi̠yó	4771				xoch11	stark2013diccionario
+116	cooking	olla	ki̠si	4772				xoch11	stark2013diccionario
+117	cooking	horno	$					xoch11	stark2013diccionario
+118	cooking	lumbre, fuego	ñu̠'u̠	4773				xoch11	stark2013diccionario
+119	cooking	ceniza	ya̠á	4774				xoch11	stark2013diccionario
+120	cooking	carbón	$					xoch11	stark2013diccionario
+121	cooking	humo	$					xoch11	stark2013diccionario
+122	cooking	basura	mì'í	4775				xoch11	stark2013diccionario
+123	cooking	plato	ko̠'ó	4776				xoch11	stark2013diccionario
+124	container	jícara	$					xoch11	stark2013diccionario
+125	container	tenate	ndo̠'ó	4777				xoch11	stark2013diccionario
+126	container	cajón (de madera)	xa̠tún	4778				xoch11	stark2013diccionario
+127	thing	hilo	$					xoch11	stark2013diccionario
+128	thing	peine	$					xoch11	stark2013diccionario
+129	thing	mecate, cuerda	yo'ó	4779				xoch11	stark2013diccionario
+130	thing	agujero	ya̠vi̠	4780	only in one example			xoch11	stark2013diccionario
+131	thing	red	$					xoch11	stark2013diccionario
+132	thing	jabón	na̠má	4781				xoch11	stark2013diccionario
+133	thing	anillo	xè'é	4782				xoch11	stark2013diccionario
+134	nature	luna	yo̠ó	4783				xoch11	stark2013diccionario
+135	nature	nube	vi̠kó	4784				xoch11	stark2013diccionario
+136	nature	rayo, relámpago	taxan	4785				xoch11	stark2013diccionario
+137	nature	agua	tìkuíi	4786				xoch11	stark2013diccionario
+138	nature	lluvia	sa̠ví	4787				xoch11	stark2013diccionario
+139	nature	río	i̠ta	4788				xoch11	stark2013diccionario
+140	nature	rocío	$					xoch11	stark2013diccionario
+141	nature	cerro	ikú	4789				xoch11	stark2013diccionario
+142	nature	llano	yosó	4790	from example			xoch11	stark2013diccionario
+143	nature	piedra	yu̠ú	4791				xoch11	stark2013diccionario
+144	material	algodón	kachí	4792				xoch11	stark2013diccionario
+145	material	campana	kàà	4793				xoch11	stark2013diccionario
+146	material	papel	tùtù	4794				xoch11	stark2013diccionario
+147	material	cal	kàkà	4795				xoch11	stark2013diccionario
+148	material	cera	$					xoch11	stark2013diccionario
+149	material	lodo	nda̠'i̠	4796				xoch11	stark2013diccionario
+150	material	espuma	$					xoch11	stark2013diccionario
+151	material	polvo	$					xoch11	stark2013diccionario
+152	color	rojo, colorado	kuá'a	4797				xoch11	stark2013diccionario
+153	color	verde	$					xoch11	stark2013diccionario
+154	color	amarillo	kuáan	4798				xoch11	stark2013diccionario
+155	color	negro	ndáá	4799				xoch11	stark2013diccionario
+156	color	blanco	yaa	4800				xoch11	stark2013diccionario
+157	number	uno	iin	4801				xoch11	stark2013diccionario
+158	number	dos	u̠vi̠	4802				xoch11	stark2013diccionario
+159	number	tres	u̠ni̠	4803				xoch11	stark2013diccionario
+160	number	cuatro	ku̠mí	4804				xoch11	stark2013diccionario
+161	number	cinco	u̠'u̠n	4805				xoch11	stark2013diccionario
+162	number	seis	i̠ñu̠	4806				xoch11	stark2013diccionario
+163	number	siete	u̠xa̠	4807				xoch11	stark2013diccionario
+164	number	ocho	u̠na̠	4808				xoch11	stark2013diccionario
+165	number	nueve	i̠i̠n	4809				xoch11	stark2013diccionario
+166	number	diez	u̠xi̠	4810				xoch11	stark2013diccionario
+167	number	quince	xa̠'u̠n	4811				xoch11	stark2013diccionario
+168	number	veinte	o̠ko̠	4812				xoch11	stark2013diccionario
+169	property	pobre	ndá'vi	4813				xoch11	stark2013diccionario
+170	property	rico	kuíká	4814				xoch11	stark2013diccionario
+171	property	frío	vi̠xin	4815				xoch11	stark2013diccionario
+172	property	está caliente, caliente	i'ní	4816				xoch11	stark2013diccionario
+173	property	grande.SG	ká'nú	4817				xoch11	stark2013diccionario
+174	property	grande.PL	ná'nú	4818				xoch11	stark2013diccionario
+175	property	pequeño.SG, chico.SG	lo'o	4819				xoch11	stark2013diccionario
+176	property	pequeño.PL, chico.PL	válí	4820				xoch11	stark2013diccionario
+177	property	largo.SG	kâní	4821				xoch11	stark2013diccionario
+178	property	largo.PL	nâní	4822				xoch11	stark2013diccionario
+179	property	bueno	va̠'a	4823				xoch11	stark2013diccionario
+180	property	dulce	$					xoch11	stark2013diccionario
+181	property	salado	u̠'va̠	4824				xoch11	stark2013diccionario
+182	property	amargo	$					xoch11	stark2013diccionario
+183	property	sabroso	ya̠sín	4825				xoch11	stark2013diccionario
+184	property	ancho	$		in examples only			xoch11	stark2013diccionario
+185	property	nuevo	xàá	4826				xoch11	stark2013diccionario
+186	property	flojo	xu̠xán	4827				xoch11	stark2013diccionario
+186	property	flojo de cosa	taya	4828				xoch11	stark2013diccionario
+187	property	feo	kini	4829				xoch11	stark2013diccionario
+188	property	celoso	$					xoch11	stark2013diccionario
+189	property	cerca	yati	4830				xoch11	stark2013diccionario
+190	property	lejos	xíká	4831				xoch11	stark2013diccionario
+191	property	pesado	ve̠e	4832				xoch11	stark2013diccionario
+192	property	crudo	$					xoch11	stark2013diccionario
+193	property	liso	$					xoch11	stark2013diccionario
+194	property	despacio	kuee	4833				xoch11	stark2013diccionario
+195	time	ayer	kuni	4834				xoch11	stark2013diccionario
+196	time	año	kui̠ya̠	4835				xoch11	stark2013diccionario
+197	time	ahora, hoy	vitin	4836				xoch11	stark2013diccionario
+198	time	noche	ñǔu	4837				xoch11	stark2013diccionario
+199	time	de noche	$					xoch11	stark2013diccionario
+200	time	día	ki̠ví	4838				xoch11	stark2013diccionario
+201	time	de día	nduví	4839				xoch11	stark2013diccionario
+202	abstract	mitad	$					xoch11	stark2013diccionario
+203	abstract	dinero	xù'ún	4840				xoch11	stark2013diccionario
+204	abstract	trabajo	chiñu	4841				xoch11	stark2013diccionario
+205	abstract	palabra	tu̠'un	4842				xoch11	stark2013diccionario
+206	abstract	culpa	$					xoch11	stark2013diccionario
+207	abstract	sueño	$					xoch11	stark2013diccionario
+208	abstract	cuándo	ama	4843				xoch11	stark2013diccionario
+208	abstract	cuándo	maa	4844				xoch11	stark2013diccionario
+209	abstract	canción, música	yaa	4845				xoch11	stark2013diccionario

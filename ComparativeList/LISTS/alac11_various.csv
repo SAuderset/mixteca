@@ -1,214 +1,214 @@
-IDlist	GLOSS	VALUE	FORM	ID	NOTES	LOAN	LOAN_SOURCE	DOCULECT	SOURCE
-1	madre	si'í		4494				alac11	zylstra2012gramatica
-2	mamá!	nana		4495				alac11	zylstra2012gramatica
-3	padre	yivá		4496				alac11	zylstra2012gramatica
-4	papá!	tata		4497				alac11	zylstra2012gramatica
-5	hijo/hija	sa̠'ya		4498				alac11	zylstra2012gramatica
-6	hijo	$						alac11	zylstra2012gramatica
-7	hija	$						alac11	zylstra2012gramatica
-8	hermana/hermano de otro genero	ki̠'va̠		4499				alac11	zylstra2012gramatica
-9	hermano de hombre	ñani		4500				alac11	zylstra2012gramatica
-10	hermana de mujer	ki̠'vi̠		4501				alac11	zylstra2012gramatica
-11	tía	sisi		4502				alac11	zylstra2012gramatica
-12	tío	sito		4503				alac11	zylstra2012gramatica
-13	hombre	ta̠a		4504				alac11	zylstra2012gramatica
-14	mujer	ña'a̠n		4505				alac11	zylstra2012gramatica
-15	dueño	$						alac11	zylstra2012gramatica
-16	sacerdote	su̠tu̠		4506				alac11	zylstra2012gramatica
-17	sangre	$		4507				alac11	zylstra2012gramatica
-18	hueso	leke		4508				alac11	zylstra2012gramatica
-19	pelo	yisi̠		4509				alac11	zylstra2012gramatica
-20	cara	no̠o̠		4510				alac11	zylstra2012gramatica
-21	lengua	$						alac11	zylstra2012gramatica
-22	diente	no'o̠n		4511				alac11	zylstra2012gramatica
-23	boca	yu'u̠		4512				alac11	zylstra2012gramatica
-24	oreja	so̠'o		4513				alac11	zylstra2012gramatica
-25	nariz	$						alac11	zylstra2012gramatica
-26	cuello	$						alac11	zylstra2012gramatica
-27	mano	nda'a̠		4514				alac11	zylstra2012gramatica
-28	uña	chíi̠n		4515				alac11	zylstra2012gramatica
-29	espalda	sa̠ta̠		4516				alac11	zylstra2012gramatica
-30	panza, barriga	ti̠xin		4517				alac11	zylstra2012gramatica
-31	tripa, tripas	$						alac11	zylstra2012gramatica
-32	pie	xa̠'a̠		4518				alac11	zylstra2012gramatica
-33	enfermedad	kue̠'e̠		4519				alac11	zylstra2012gramatica
-34	medicina	ta̠ta̠n		4520				alac11	zylstra2012gramatica
-35	hinchazón	$						alac11	zylstra2012gramatica
-36	grano	$						alac11	zylstra2012gramatica
-37	pus, materia	$						alac11	zylstra2012gramatica
-38	orina	$						alac11	zylstra2012gramatica
-39	ropa	tiko̠to̠		4521				alac11	zylstra2012gramatica
-40	huarache	ndu̠xa̠n		4522				alac11	zylstra2012gramatica
-41	pantalón	xati		4523				alac11	zylstra2012gramatica
-42	huipil	$						alac11	zylstra2012gramatica
-43	pueblo	ñoo		4524				alac11	zylstra2012gramatica
-44	casa	ve'e		4525				alac11	zylstra2012gramatica
-45	camino	yichi̠		4526				alac11	zylstra2012gramatica
-46	horcón	$						alac11	zylstra2012gramatica
-47	petate	$						alac11	zylstra2012gramatica
-48	cama	xi̠to		4527				alac11	zylstra2012gramatica
-49	silla	táyi̠		4528				alac11	zylstra2012gramatica
-50	animal	kiti̠		4529				alac11	zylstra2012gramatica
-51	pájaro	saa		4530				alac11	zylstra2012gramatica
-52	pescado	tia̠ká		4531				alac11	anderson2006vocabulario
-53	culebra, serpiente	ko̠o̠		4532				alac11	zylstra2012gramatica
-54	rana	sa'va̠		4533				alac11	zylstra2012gramatica
-55	gavilán pollero	sí'ñá		4534				alac11	anderson2006vocabulario
-56	alacrán	tísi̠'ma	tí-si̠'ma	4535	animal-tail			alac11	zylstra2012gramatica
-57	cucaracha	ti̠un		4536				alac11	anderson2006vocabulario
-58	chapulín	ti̠ka		4537				alac11	anderson2006vocabulario
-59	abeja	tí-ñóño̠	tí-ñóño̠	4538	animal-honey			alac11	zylstra2012gramatica
-60	ratón, rata	ti̠ín		4539				alac11	zylstra2012gramatica
-61	venado	yusu		4540				alac11	zylstra2012gramatica
-62	ardilla	ndikuáño	ndi-kuáño	4541	animal?-?			alac11	anderson2006vocabulario
-63	zorrillo	ti̠'ín		4542				alac11	zylstra2012gramatica
-64	tlacuache	xáko		4543				alac11	zylstra2012gramatica
-65	mapache	yii mató'on	yii-mató'on	4544	tejón-?			alac11	anderson2006vocabulario
-66	conejo	tí-leson	tí-leson	4545	animal-rabbit			alac11	zylstra2012gramatica
-66	conejo	leson		4546				alac11	anderson2006vocabulario
-67	zopilote	tio̠ko chée	tio̠ko-chée	4547	?-big			alac11	zylstra2012gramatica
-68	perro	ina		4548				alac11	zylstra2012gramatica
-69	gato	míxtón		4549		yes	Colonial Spanish?	alac11	zylstra2012gramatica
-70	gallo	nduxú chée	nduxú-chée	4550	chicken-big			alac11	zylstra2012gramatica
-71	gallina	nduxú		4551				alac11	zylstra2012gramatica
-72	marrano	kini̠		4552				alac11	zylstra2012gramatica
-73	caballo	kuáyí		4553		yes	Colonial Spanish	alac11	zylstra2012gramatica
-74	borrego	ndikachi	ndi-kachi	4554	animal?-cotton			alac11	zylstra2012gramatica
-75	hormiga	tio̠ko		4555				alac11	anderson2006vocabulario
-76	cuerno	$						alac11	zylstra2012gramatica
-77	pluma	$						alac11	zylstra2012gramatica
-78	ala	ndixi̠n		4556	only in one example			alac11	anderson2006vocabulario
-79	cola	si̠'ma̠		4557				alac11	zylstra2012gramatica
-80	árbol, palo	yito̠n		4558				alac11	zylstra2012gramatica
-81	hierba	ku'u̠		4559				alac11	zylstra2012gramatica
-82	zacate de milpa	ndáyo'o	ndá-yo'o	4560	hand-?			alac11	anderson2006vocabulario
-82	zacate	yita		4561				alac11	anderson2006vocabulario
-83	flor	yita		4562				alac11	zylstra2012gramatica
-84	maguey	yavi̠		4563				alac11	anderson2006vocabulario
-85	raíz	tio̠'o		4564				alac11	anderson2006vocabulario
-86	espina	$						alac11	zylstra2012gramatica
-87	maíz	no̠ni̠		4565				alac11	zylstra2012gramatica
-88	milpa	yutu		4566				alac11	zylstra2012gramatica
-89	elote	ndisi̠		4567				alac11	anderson2006vocabulario
-90	nixtamal	xá'á		4568				alac11	zylstra2012gramatica
-91	masa	yuxa̠n		4569				alac11	zylstra2012gramatica
-92	tortilla	si̠ta̠		4570				alac11	zylstra2012gramatica
-93	rastrojo	$						alac11	zylstra2012gramatica
-94	surco, zanja	chi̠chi		4571				alac11	anderson2006vocabulario
-95	espiga	yoko̠		4572				alac11	anderson2006vocabulario
-96	frijol(es)	nduchu̠		4573				alac11	zylstra2012gramatica
-97	ejote	ndi̠chi		4574				alac11	anderson2006vocabulario
-98	chile	ya'a̠		4575				alac11	zylstra2012gramatica
-99	sal	ñi̠i̠		4576				alac11	zylstra2012gramatica
-100	calabaza	yiki̠n		4577				alac11	anderson2006vocabulario
-101	chayote	naña̠		4578				alac11	anderson2006vocabulario
-102	caña	ndo̠o̠		4579				alac11	anderson2006vocabulario
-103	miel	ño̠ño̠		4580				alac11	zylstra2012gramatica
-104	grasa	sa̠'an		4581				alac11	zylstra2012gramatica
-105	huevo	ndi̠vi̠		4582				alac11	zylstra2012gramatica
-106	tomate	tinana	ti-nana	4583	round?-?			alac11	anderson2006vocabulario
-107	camote	ñá'mi		4584				alac11	anderson2006vocabulario
-108	aguacate	ti̠chí		4585				alac11	zylstra2012gramatica
-109	plátano	chita̠		4586				alac11	zylstra2012gramatica
-110	nopal	vi̠'nda̠		4587				alac11	anderson2006vocabulario
-111	mamey	ndika̠		4588				alac11	anderson2006vocabulario
-112	chirimoya	$						alac11	zylstra2012gramatica
-113	hongo	$						alac11	zylstra2012gramatica
-114	carne	ko̠ñu		4589				alac11	zylstra2012gramatica
-115	comal	xi̠yo̠		4590				alac11	zylstra2012gramatica
-116	olla	ki̠si		4591				alac11	zylstra2012gramatica
-117	horno	$						alac11	zylstra2012gramatica
-118	lumbre, fuego	ño'o̠n		4592				alac11	zylstra2012gramatica
-119	ceniza (del brasero)	ya̠a̠ nó'o		4593				alac11	anderson2006vocabulario
-120	carbón	$						alac11	zylstra2012gramatica
-121	humo	ñi̠'ma̠		4594				alac11	zylstra2012gramatica
-122	basura	mi̠'ín		4595				alac11	zylstra2012gramatica
-123	plato	ko̠'o̠		4596				alac11	zylstra2012gramatica
-124	jícara	yaxi̠n		4597				alac11	zylstra2012gramatica
-125	canasta	chikiva̠		4598				alac11	zylstra2012gramatica
-126	cajón	xato̠n		4599		yes	Spanish	alac11	zylstra2012gramatica
-127	hilo	$						alac11	zylstra2012gramatica
-128	peine	$						alac11	zylstra2012gramatica
-129	mecate	yo'o̠		4600				alac11	zylstra2012gramatica
-130	agujero, hoyo	$						alac11	zylstra2012gramatica
-131	red	ñono̠		4601				alac11	zylstra2012gramatica
-132	jabón	nama̠		4602				alac11	zylstra2012gramatica
-133	anillo	se'e		4603				alac11	zylstra2012gramatica
-134	luna	yo̠o̠		4604				alac11	zylstra2012gramatica
-135	nube	vi̠ko̠		4605				alac11	anderson2006vocabulario
-136	relámpago	taxa		4606				alac11	zylstra2012gramatica
-137	agua	takui̠i		4607				alac11	zylstra2012gramatica
-138	lluvia	sa̠vi̠		4608				alac11	zylstra2012gramatica
-139	río	yu̠ta		4609				alac11	zylstra2012gramatica
-140	rocío	yúyú		4610				alac11	anderson2006vocabulario
-141	cerro	yuku̠		4611				alac11	anderson2006vocabulario
-142	llano	yoso̠		4612				alac11	anderson2006vocabulario
-143	piedra	yu̠u̠		4613				alac11	zylstra2012gramatica
-144	algodón	$						alac11	zylstra2012gramatica
-145	fierro	ka̠a		4614				alac11	zylstra2012gramatica
-146	papel	tutu		4615				alac11	zylstra2012gramatica
-147	cal	kaka		4616				alac11	anderson2006vocabulario
-148	cera	ñima		4617				alac11	zylstra2012gramatica
-149	lodo	nda̠'yi̠		4618				alac11	zylstra2012gramatica
-150	espuma	$						alac11	zylstra2012gramatica
-151	polvo	ya̠a̠		4619				alac11	anderson2006vocabulario
-152	rojo	kuá'á		4620				alac11	zylstra2012gramatica
-153	verde	kuii̠		4621				alac11	anderson2006vocabulario
-154	amarillo	kuáán		4622				alac11	zylstra2012gramatica
-155	negro	to̠ón		4623				alac11	zylstra2012gramatica
-156	blanco	yaa		4624				alac11	zylstra2012gramatica
-157	uno	ñii		4625				alac11	zylstra2012gramatica
-158	dos	o̠vi̠		4626				alac11	zylstra2012gramatica
-159	tres	u̠ni̠		4627				alac11	zylstra2012gramatica
-160	cuatro	ko̠mi̠		4628				alac11	zylstra2012gramatica
-161	cinco	o̠'o̠n		4629				alac11	zylstra2012gramatica
-162	seis	i̠ño̠		4630				alac11	zylstra2012gramatica
-163	siete	u̠xa̠		4631				alac11	zylstra2012gramatica
-164	ocho	o̠na̠		4632				alac11	zylstra2012gramatica
-165	nueve	i̠i̠n		4633				alac11	zylstra2012gramatica
-166	diez	u̠xu̠		4634				alac11	zylstra2012gramatica
-167	quince	xa̠'u̠n		4635				alac11	zylstra2012gramatica
-168	veinte	o̠ko̠		4636				alac11	zylstra2012gramatica
-169	pobre	ndá'ví		4637				alac11	zylstra2012gramatica
-170	rico	kuíká		4638				alac11	zylstra2012gramatica
-171	frío	vi̠xin		4639				alac11	zylstra2012gramatica
-172	está caliente, caliente	ñi'ní		4640				alac11	zylstra2012gramatica
-173	grande.SG	ká'no		4641				alac11	zylstra2012gramatica
-173	grande.SG	chée		4642				alac11	zylstra2012gramatica
-174	grande.PL	ná'no		4643				alac11	zylstra2012gramatica
-175	pequeño.SG	lo'o		4644				alac11	zylstra2012gramatica
-176	pequeño.PL	válí		4645				alac11	zylstra2012gramatica
-176	pequeño.PL	kuálí		4646				alac11	zylstra2012gramatica
-177	largo.SG	káni̠		4647				alac11	zylstra2012gramatica
-178	largo.PL	náni̠		4648				alac11	zylstra2012gramatica
-179	bueno	va̠'a		4649				alac11	zylstra2012gramatica
-180	dulce	visi		4650	only in an example			alac11	zylstra2012gramatica
-181	salado	yo̠'va̠		4651				alac11	zylstra2012gramatica
-182	amargo	yo̠va̠		4652				alac11	anderson2006vocabulario
-183	sabroso	ya̠si̠n		4653				alac11	anderson2006vocabulario
-184	ancho	$						alac11	zylstra2012gramatica
-185	nuevo	xa̠á		4654				alac11	zylstra2012gramatica
-186	flojo	xúxán		4655				alac11	zylstra2012gramatica
-187	feo	kini		4656				alac11	zylstra2012gramatica
-188	celoso	$						alac11	zylstra2012gramatica
-189	cerca	yatin		4657				alac11	zylstra2012gramatica
-190	lejos	xíká		4658				alac11	zylstra2012gramatica
-191	pesado	veé		4659				alac11	zylstra2012gramatica
-192	crudo	yí'í		4660				alac11	anderson2006vocabulario
-193	liso	$						alac11	zylstra2012gramatica
-194	despacio	kueé		4661				alac11	zylstra2012gramatica
-195	ayer	koni		4662				alac11	zylstra2012gramatica
-196	año	kui̠ya̠		4663				alac11	zylstra2012gramatica
-197	ahora, hoy	vitin		4664				alac11	zylstra2012gramatica
-198	noche	ñoó		4665				alac11	zylstra2012gramatica
-199	de noche	$						alac11	zylstra2012gramatica
-200	día	ki̠vi̠		4666				alac11	zylstra2012gramatica
-201	de día	ndiví		4667				alac11	zylstra2012gramatica
-202	mitad	sava		4668				alac11	zylstra2012gramatica
-203	dinero	si̠'ún		4669				alac11	zylstra2012gramatica
-204	trabajo	chiño		4670				alac11	zylstra2012gramatica
-205	palabra	to̠'on		4671				alac11	zylstra2012gramatica
-206	culpa	kua̠chi		4672				alac11	zylstra2012gramatica
-207	sueño	$						alac11	zylstra2012gramatica
-208	cuándo	ama		4673				alac11	zylstra2012gramatica
-209	canción, música	$						alac11	zylstra2012gramatica
+IDlist	GLOSS	VALUE	FORM	NOTES	LOAN	LOAN_SOURCE	DOCULECT	SOURCE
+1	madre	si'í					alac11	zylstra2012gramatica
+2	mamá!	nana					alac11	zylstra2012gramatica
+3	padre	yivá					alac11	zylstra2012gramatica
+4	papá!	tata					alac11	zylstra2012gramatica
+5	hijo/hija	sa̠'ya					alac11	zylstra2012gramatica
+6	hijo	$					alac11	zylstra2012gramatica
+7	hija	$					alac11	zylstra2012gramatica
+8	hermana/hermano de otro genero	ki̠'va̠					alac11	zylstra2012gramatica
+9	hermano de hombre	ñani					alac11	zylstra2012gramatica
+10	hermana de mujer	ki̠'vi̠					alac11	zylstra2012gramatica
+11	tía	sisi					alac11	zylstra2012gramatica
+12	tío	sito					alac11	zylstra2012gramatica
+13	hombre	ta̠a					alac11	zylstra2012gramatica
+14	mujer	ña'a̠n					alac11	zylstra2012gramatica
+15	dueño	$					alac11	zylstra2012gramatica
+16	sacerdote	su̠tu̠					alac11	zylstra2012gramatica
+17	sangre	$					alac11	zylstra2012gramatica
+18	hueso	leke					alac11	zylstra2012gramatica
+19	pelo	yisi̠					alac11	zylstra2012gramatica
+20	cara	no̠o̠					alac11	zylstra2012gramatica
+21	lengua	$					alac11	zylstra2012gramatica
+22	diente	no'o̠n					alac11	zylstra2012gramatica
+23	boca	yu'u̠					alac11	zylstra2012gramatica
+24	oreja	so̠'o					alac11	zylstra2012gramatica
+25	nariz	$					alac11	zylstra2012gramatica
+26	cuello	$					alac11	zylstra2012gramatica
+27	mano	nda'a̠					alac11	zylstra2012gramatica
+28	uña	chíi̠n					alac11	zylstra2012gramatica
+29	espalda	sa̠ta̠					alac11	zylstra2012gramatica
+30	panza, barriga	ti̠xin					alac11	zylstra2012gramatica
+31	tripa, tripas	$					alac11	zylstra2012gramatica
+32	pie	xa̠'a̠					alac11	zylstra2012gramatica
+33	enfermedad	kue̠'e̠					alac11	zylstra2012gramatica
+34	medicina	ta̠ta̠n					alac11	zylstra2012gramatica
+35	hinchazón	$					alac11	zylstra2012gramatica
+36	grano	$					alac11	zylstra2012gramatica
+37	pus, materia	$					alac11	zylstra2012gramatica
+38	orina	$					alac11	zylstra2012gramatica
+39	ropa	tiko̠to̠					alac11	zylstra2012gramatica
+40	huarache	ndu̠xa̠n					alac11	zylstra2012gramatica
+41	pantalón	xati					alac11	zylstra2012gramatica
+42	huipil	$					alac11	zylstra2012gramatica
+43	pueblo	ñoo					alac11	zylstra2012gramatica
+44	casa	ve'e					alac11	zylstra2012gramatica
+45	camino	yichi̠					alac11	zylstra2012gramatica
+46	horcón	$					alac11	zylstra2012gramatica
+47	petate	$					alac11	zylstra2012gramatica
+48	cama	xi̠to					alac11	zylstra2012gramatica
+49	silla	táyi̠					alac11	zylstra2012gramatica
+50	animal	kiti̠					alac11	zylstra2012gramatica
+51	pájaro	saa					alac11	zylstra2012gramatica
+52	pescado	tia̠ká					alac11	anderson2006vocabulario
+53	culebra, serpiente	ko̠o̠					alac11	zylstra2012gramatica
+54	rana	sa'va̠					alac11	zylstra2012gramatica
+55	gavilán pollero	sí'ñá					alac11	anderson2006vocabulario
+56	alacrán	tísi̠'ma	tí-si̠'ma	animal-tail			alac11	zylstra2012gramatica
+57	cucaracha	ti̠un					alac11	anderson2006vocabulario
+58	chapulín	ti̠ka					alac11	anderson2006vocabulario
+59	abeja	tí-ñóño̠	tí-ñóño̠	animal-honey			alac11	zylstra2012gramatica
+60	ratón, rata	ti̠ín					alac11	zylstra2012gramatica
+61	venado	yusu					alac11	zylstra2012gramatica
+62	ardilla	ndikuáño	ndi-kuáño	animal?-?			alac11	anderson2006vocabulario
+63	zorrillo	ti̠'ín					alac11	zylstra2012gramatica
+64	tlacuache	xáko					alac11	zylstra2012gramatica
+65	mapache	yii mató'on	yii-mató'on	tejón-?			alac11	anderson2006vocabulario
+66	conejo	tí-leson	tí-leson	animal-rabbit			alac11	zylstra2012gramatica
+66	conejo	leson					alac11	anderson2006vocabulario
+67	zopilote	tio̠ko chée	tio̠ko-chée	?-big			alac11	zylstra2012gramatica
+68	perro	ina					alac11	zylstra2012gramatica
+69	gato	míxtón			yes	Colonial Spanish?	alac11	zylstra2012gramatica
+70	gallo	nduxú chée	nduxú-chée	chicken-big			alac11	zylstra2012gramatica
+71	gallina	nduxú					alac11	zylstra2012gramatica
+72	marrano	kini̠					alac11	zylstra2012gramatica
+73	caballo	kuáyí			yes	Colonial Spanish	alac11	zylstra2012gramatica
+74	borrego	ndikachi	ndi-kachi	animal?-cotton			alac11	zylstra2012gramatica
+75	hormiga	tio̠ko					alac11	anderson2006vocabulario
+76	cuerno	$					alac11	zylstra2012gramatica
+77	pluma	$					alac11	zylstra2012gramatica
+78	ala	ndixi̠n		only in one example			alac11	anderson2006vocabulario
+79	cola	si̠'ma̠					alac11	zylstra2012gramatica
+80	árbol, palo	yito̠n					alac11	zylstra2012gramatica
+81	hierba	ku'u̠					alac11	zylstra2012gramatica
+82	zacate de milpa	ndáyo'o	ndá-yo'o	hand-?			alac11	anderson2006vocabulario
+82	zacate	yita					alac11	anderson2006vocabulario
+83	flor	yita					alac11	zylstra2012gramatica
+84	maguey	yavi̠					alac11	anderson2006vocabulario
+85	raíz	tio̠'o					alac11	anderson2006vocabulario
+86	espina	$					alac11	zylstra2012gramatica
+87	maíz	no̠ni̠					alac11	zylstra2012gramatica
+88	milpa	yutu					alac11	zylstra2012gramatica
+89	elote	ndisi̠					alac11	anderson2006vocabulario
+90	nixtamal	xá'á					alac11	zylstra2012gramatica
+91	masa	yuxa̠n					alac11	zylstra2012gramatica
+92	tortilla	si̠ta̠					alac11	zylstra2012gramatica
+93	rastrojo	$					alac11	zylstra2012gramatica
+94	surco, zanja	chi̠chi					alac11	anderson2006vocabulario
+95	espiga	yoko̠					alac11	anderson2006vocabulario
+96	frijol(es)	nduchu̠					alac11	zylstra2012gramatica
+97	ejote	ndi̠chi					alac11	anderson2006vocabulario
+98	chile	ya'a̠					alac11	zylstra2012gramatica
+99	sal	ñi̠i̠					alac11	zylstra2012gramatica
+100	calabaza	yiki̠n					alac11	anderson2006vocabulario
+101	chayote	naña̠					alac11	anderson2006vocabulario
+102	caña	ndo̠o̠					alac11	anderson2006vocabulario
+103	miel	ño̠ño̠					alac11	zylstra2012gramatica
+104	grasa	sa̠'an					alac11	zylstra2012gramatica
+105	huevo	ndi̠vi̠					alac11	zylstra2012gramatica
+106	tomate	tinana	ti-nana	round?-?			alac11	anderson2006vocabulario
+107	camote	ñá'mi					alac11	anderson2006vocabulario
+108	aguacate	ti̠chí					alac11	zylstra2012gramatica
+109	plátano	chita̠					alac11	zylstra2012gramatica
+110	nopal	vi̠'nda̠					alac11	anderson2006vocabulario
+111	mamey	ndika̠					alac11	anderson2006vocabulario
+112	chirimoya	$					alac11	zylstra2012gramatica
+113	hongo	$					alac11	zylstra2012gramatica
+114	carne	ko̠ñu					alac11	zylstra2012gramatica
+115	comal	xi̠yo̠					alac11	zylstra2012gramatica
+116	olla	ki̠si					alac11	zylstra2012gramatica
+117	horno	$					alac11	zylstra2012gramatica
+118	lumbre, fuego	ño'o̠n					alac11	zylstra2012gramatica
+119	ceniza (del brasero)	ya̠a̠ nó'o					alac11	anderson2006vocabulario
+120	carbón	$					alac11	zylstra2012gramatica
+121	humo	ñi̠'ma̠					alac11	zylstra2012gramatica
+122	basura	mi̠'ín					alac11	zylstra2012gramatica
+123	plato	ko̠'o̠					alac11	zylstra2012gramatica
+124	jícara	yaxi̠n					alac11	zylstra2012gramatica
+125	canasta	chikiva̠					alac11	zylstra2012gramatica
+126	cajón	xato̠n			yes	Spanish	alac11	zylstra2012gramatica
+127	hilo	$					alac11	zylstra2012gramatica
+128	peine	$					alac11	zylstra2012gramatica
+129	mecate	yo'o̠					alac11	zylstra2012gramatica
+130	agujero, hoyo	$					alac11	zylstra2012gramatica
+131	red	ñono̠					alac11	zylstra2012gramatica
+132	jabón	nama̠					alac11	zylstra2012gramatica
+133	anillo	se'e					alac11	zylstra2012gramatica
+134	luna	yo̠o̠					alac11	zylstra2012gramatica
+135	nube	vi̠ko̠					alac11	anderson2006vocabulario
+136	relámpago	taxa					alac11	zylstra2012gramatica
+137	agua	takui̠i					alac11	zylstra2012gramatica
+138	lluvia	sa̠vi̠					alac11	zylstra2012gramatica
+139	río	yu̠ta					alac11	zylstra2012gramatica
+140	rocío	yúyú					alac11	anderson2006vocabulario
+141	cerro	yuku̠					alac11	anderson2006vocabulario
+142	llano	yoso̠					alac11	anderson2006vocabulario
+143	piedra	yu̠u̠					alac11	zylstra2012gramatica
+144	algodón	$					alac11	zylstra2012gramatica
+145	fierro	ka̠a					alac11	zylstra2012gramatica
+146	papel	tutu					alac11	zylstra2012gramatica
+147	cal	kaka					alac11	anderson2006vocabulario
+148	cera	ñima					alac11	zylstra2012gramatica
+149	lodo	nda̠'yi̠					alac11	zylstra2012gramatica
+150	espuma	$					alac11	zylstra2012gramatica
+151	polvo	ya̠a̠					alac11	anderson2006vocabulario
+152	rojo	kuá'á					alac11	zylstra2012gramatica
+153	verde	kuii̠					alac11	anderson2006vocabulario
+154	amarillo	kuáán					alac11	zylstra2012gramatica
+155	negro	to̠ón					alac11	zylstra2012gramatica
+156	blanco	yaa					alac11	zylstra2012gramatica
+157	uno	ñii					alac11	zylstra2012gramatica
+158	dos	o̠vi̠					alac11	zylstra2012gramatica
+159	tres	u̠ni̠					alac11	zylstra2012gramatica
+160	cuatro	ko̠mi̠					alac11	zylstra2012gramatica
+161	cinco	o̠'o̠n					alac11	zylstra2012gramatica
+162	seis	i̠ño̠					alac11	zylstra2012gramatica
+163	siete	u̠xa̠					alac11	zylstra2012gramatica
+164	ocho	o̠na̠					alac11	zylstra2012gramatica
+165	nueve	i̠i̠n					alac11	zylstra2012gramatica
+166	diez	u̠xu̠					alac11	zylstra2012gramatica
+167	quince	xa̠'u̠n					alac11	zylstra2012gramatica
+168	veinte	o̠ko̠					alac11	zylstra2012gramatica
+169	pobre	ndá'ví					alac11	zylstra2012gramatica
+170	rico	kuíká					alac11	zylstra2012gramatica
+171	frío	vi̠xin					alac11	zylstra2012gramatica
+172	está caliente, caliente	ñi'ní					alac11	zylstra2012gramatica
+173	grande.SG	ká'no					alac11	zylstra2012gramatica
+173	grande.SG	chée					alac11	zylstra2012gramatica
+174	grande.PL	ná'no					alac11	zylstra2012gramatica
+175	pequeño.SG	lo'o					alac11	zylstra2012gramatica
+176	pequeño.PL	válí					alac11	zylstra2012gramatica
+176	pequeño.PL	kuálí					alac11	zylstra2012gramatica
+177	largo.SG	káni̠					alac11	zylstra2012gramatica
+178	largo.PL	náni̠					alac11	zylstra2012gramatica
+179	bueno	va̠'a					alac11	zylstra2012gramatica
+180	dulce	visi		only in an example			alac11	zylstra2012gramatica
+181	salado	yo̠'va̠					alac11	zylstra2012gramatica
+182	amargo	yo̠va̠					alac11	anderson2006vocabulario
+183	sabroso	ya̠si̠n					alac11	anderson2006vocabulario
+184	ancho	$					alac11	zylstra2012gramatica
+185	nuevo	xa̠á					alac11	zylstra2012gramatica
+186	flojo	xúxán					alac11	zylstra2012gramatica
+187	feo	kini					alac11	zylstra2012gramatica
+188	celoso	$					alac11	zylstra2012gramatica
+189	cerca	yatin					alac11	zylstra2012gramatica
+190	lejos	xíká					alac11	zylstra2012gramatica
+191	pesado	veé					alac11	zylstra2012gramatica
+192	crudo	yí'í					alac11	anderson2006vocabulario
+193	liso	$					alac11	zylstra2012gramatica
+194	despacio	kueé					alac11	zylstra2012gramatica
+195	ayer	koni					alac11	zylstra2012gramatica
+196	año	kui̠ya̠					alac11	zylstra2012gramatica
+197	ahora, hoy	vitin					alac11	zylstra2012gramatica
+198	noche	ñoó					alac11	zylstra2012gramatica
+199	de noche	$					alac11	zylstra2012gramatica
+200	día	ki̠vi̠					alac11	zylstra2012gramatica
+201	de día	ndiví					alac11	zylstra2012gramatica
+202	mitad	sava					alac11	zylstra2012gramatica
+203	dinero	si̠'ún					alac11	zylstra2012gramatica
+204	trabajo	chiño					alac11	zylstra2012gramatica
+205	palabra	to̠'on					alac11	zylstra2012gramatica
+206	culpa	kua̠chi					alac11	zylstra2012gramatica
+207	sueño	$					alac11	zylstra2012gramatica
+208	cuándo	ama					alac11	zylstra2012gramatica
+209	canción, música	$					alac11	zylstra2012gramatica

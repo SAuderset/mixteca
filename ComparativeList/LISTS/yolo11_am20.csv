@@ -1,213 +1,213 @@
-IDlist	GLOSS	VALUE	FORM	ID	NOTES	LOAN	LOAN_SOURCE	DOCULECT	SOURCE
-1	madre	si'³i⁴		173				yolo11	amith2020yoloxochitl
-2	mamá!	$						yolo11	amith2020yoloxochitl
-3	padre	yu³ba⁴		174				yolo11	amith2020yoloxochitl
-4	papá!	$						yolo11	amith2020yoloxochitl
-5	hijo/hija	se'¹e³		175				yolo11	amith2020yoloxochitl
-6	hijo	$						yolo11	amith2020yoloxochitl
-7	hija	$						yolo11	amith2020yoloxochitl
-8	hermana/hermano de otro genero	ku'¹ba³		176				yolo11	amith2020yoloxochitl
-9	hermano de hombre	ya³ni²		177				yolo11	amith2020yoloxochitl
-10	hermana de mujer	ku'¹bi¹		178				yolo11	amith2020yoloxochitl
-11	tía	xi³xi²		179				yolo11	amith2020yoloxochitl
-12	tío	xi³to²		180				yolo11	amith2020yoloxochitl
-13	hombre	ta¹a³		181				yolo11	amith2020yoloxochitl
-14	mujer	ña'³a⁴		182				yolo11	amith2020yoloxochitl
-15	dueño	is¹to'³o²		183				yolo11	amith2020yoloxochitl
-16	sacerdote	su¹tu¹		184				yolo11	amith2020yoloxochitl
-17	sangre	ni¹i⁴		185				yolo11	amith2020yoloxochitl
-18	hueso	i³ki⁴		186				yolo11	amith2020yoloxochitl
-19	cabello	i³xi⁴		187				yolo11	amith2020yoloxochitl
-20	cara	nu¹⁴u³		188				yolo11	amith2020yoloxochitl
-21	lengua	ya⁴a²⁴		189				yolo11	amith2020yoloxochitl
-22	diente	nu'¹u³		190				yolo11	amith2020yoloxochitl
-23	boca	yu'³u⁴		191				yolo11	amith2020yoloxochitl
-24	oreja	so'¹o³		192	de un animal			yolo11	amith2020yoloxochitl
-25	nariz	is¹tin⁴		193				yolo11	amith2020yoloxochitl
-26	cuello	su¹kun⁴		194				yolo11	amith2020yoloxochitl
-27	mano	nda'³a⁴		195				yolo11	amith2020yoloxochitl
-28	uña	chi⁴in²⁴		196				yolo11	amith2020yoloxochitl
-29	espalda	sa¹ta⁴		197				yolo11	amith2020yoloxochitl
-30	barriga	ti¹xin³		198				yolo11	amith2020yoloxochitl
-31	tripa, tripas	si³ti²		199				yolo11	amith2020yoloxochitl
-32	pie	xa'¹a⁴		200				yolo11	amith2020yoloxochitl
-33	enfermedad	kwe'¹e¹		201				yolo11	amith2020yoloxochitl
-34	medicina	ta¹tan⁴		202				yolo11	amith2020yoloxochitl
-35	hinchazón	kwi³ñu³		203				yolo11	amith2020yoloxochitl
-36	grano pequeño	ndi'¹i³		204	also: granos de la piel			yolo11	amith2020yoloxochitl
-36	grano relativamente grande	ndu¹xa¹		205	also: grano de la piel			yolo11	amith2020yoloxochitl
-37	pus, materia	nda³kwa⁴		206				yolo11	amith2020yoloxochitl
-38	orina	$						yolo11	amith2020yoloxochitl
-39	servilleta	sa'³ma⁴		207				yolo11	amith2020yoloxochitl
-40	huarache	ndi¹xan⁴		208				yolo11	amith2020yoloxochitl
-41	pantalón	$						yolo11	amith2020yoloxochitl
-42	huipil	xi¹kun¹		209				yolo11	amith2020yoloxochitl
-43	pueblo	ñu³u²		210				yolo11	amith2020yoloxochitl
-44	casa	be'³e³		211				yolo11	amith2020yoloxochitl
-45	camino	i³chi⁴		212				yolo11	amith2020yoloxochitl
-46	horcón	tu⁴-si'¹in¹	tu⁴-si'¹in¹	213	wood-horqueta			yolo11	amith2020yoloxochitl
-47	petate	yu³bi⁴		214				yolo11	amith2020yoloxochitl
-48	cama	is¹to³		215				yolo11	amith2020yoloxochitl
-49	silla	ta³yu²		216				yolo11	amith2020yoloxochitl
-50	animal	ki³ti⁴		217				yolo11	amith2020yoloxochitl
-51	pájaro	sa³a²		218				yolo11	amith2020yoloxochitl
-52	pez	tia¹ka⁴		219				yolo11	amith2020yoloxochitl
-53	serpiente	ko¹o⁴		220				yolo11	amith2020yoloxochitl
-54	rana	sa'³ba²		221				yolo11	amith2020yoloxochitl
-55	gavilán	ta¹su'⁴u⁴		222				yolo11	amith2020yoloxochitl
-56	alacrán	ti¹su'³ma²	ti¹-su'³ma²	223	animal-tail			yolo11	amith2020yoloxochitl
-57	cucaracha	ti¹te'¹e⁴	ti¹-te'¹e⁴	224	animal-?			yolo11	amith2020yoloxochitl
-58	chapulín	ti¹ka³²		225				yolo11	amith2020yoloxochitl
-59	abeja	ñu¹ñu⁴		226	término general para abejas que no pican, esto es, de la tribu Meliponini			yolo11	amith2020yoloxochitl
-60	ratón, rata	ti¹⁴in³		227				yolo11	amith2020yoloxochitl
-61	venado	i³su²		228				yolo11	amith2020yoloxochitl
-62	ardilla	ndi³kwa⁴ñu³	ndi³-kwa⁴ñu³	229				yolo11	amith2020yoloxochitl
-63	zorrillo	ti'¹in⁴		230				yolo11	amith2020yoloxochitl
-64	tlacuache	xa¹ko³²		231				yolo11	amith2020yoloxochitl
-65	mapache	ti¹ma'⁴a²	ti¹-ma'⁴a²	232	animal-?			yolo11	amith2020yoloxochitl
-66	conejo	ku³ni⁴jo²		233	from Sp. conejo	yes	Spanish	yolo11	amith2020yoloxochitl
-67	zopilote	pi³lo⁴		234	from Nahuatl tsopi:lo:tl	yes	Nahuatl	yolo11	amith2020yoloxochitl
-68	perro	i³na²		235				yolo11	amith2020yoloxochitl
-69	gato domestico	mis⁴tun²		236		yes	Colonial Spanish	yolo11	amith2020yoloxochitl
-70	gallo	ndu³xi⁴ che⁴e¹³	ndu³xi⁴-che⁴e¹³	237	chicken-male			yolo11	amith2020yoloxochitl
-71	gallina	ndu³xi⁴		238				yolo11	amith2020yoloxochitl
-72	marrano	ki³ni²		239				yolo11	amith2020yoloxochitl
-73	caballo	kwa⁴yu²		240		yes	Colonial Spanish	yolo11	amith2020yoloxochitl
-74	borrego	ndi³ka³chi³	ndi³-ka³chi³	241	?-cotton			yolo11	amith2020yoloxochitl
-75	hormiga	tio¹ko⁴		242				yolo11	amith2020yoloxochitl
-76	cuerno	ndi³ki⁴		243				yolo11	amith2020yoloxochitl
-77	pluma	tu¹mi³²		244				yolo11	amith2020yoloxochitl
-78	ala	ndi¹xin⁴		245				yolo11	amith2020yoloxochitl
-79	cola	su'¹ma⁴		246				yolo11	amith2020yoloxochitl
-80	árbol	i³tun⁴		247				yolo11	amith2020yoloxochitl
-81	hierba	$						yolo11	amith2020yoloxochitl
-82	sacate, pasto	i³ta²		248	same as 80			yolo11	amith2020yoloxochitl
-83	flor	i³ta²		249	same as 79			yolo11	amith2020yoloxochitl
-84	maguey	$						yolo11	amith2020yoloxochitl
-85	raíz	tio'¹o³		250				yolo11	amith2020yoloxochitl
-86	espina	i³ñu⁴		251				yolo11	amith2020yoloxochitl
-87	maíz desgranado	nu¹ni⁴		252				yolo11	amith2020yoloxochitl
-88	milpa	i³tu²		253				yolo11	amith2020yoloxochitl
-89	elote	ndi³xi⁴		254				yolo11	amith2020yoloxochitl
-90	nixtamal	xa'⁴a²		255				yolo11	amith2020yoloxochitl
-91	masa	yu³xan⁴		256				yolo11	amith2020yoloxochitl
-92	tortilla	is¹ta⁴		257				yolo11	amith2020yoloxochitl
-93	rastrojo	ya¹ma⁴		258	guamile, terreno de sembrado después de haberse levantado la cosecha quedando el puro rastrojo			yolo11	amith2020yoloxochitl
-94	surco	yu³kun²		259				yolo11	amith2020yoloxochitl
-95	espiga	yo³ko⁴		260				yolo11	amith2020yoloxochitl
-96	frijol(es)	ndu³chi⁴		261				yolo11	amith2020yoloxochitl
-97	ejote, vaina	ndi³chi²		262				yolo11	amith2020yoloxochitl
-98	chile	ya'³a⁴		263				yolo11	amith2020yoloxochitl
-99	sal	i¹in⁴		264				yolo11	amith2020yoloxochitl
-100	calabaza	i³kin⁴		265				yolo11	amith2020yoloxochitl
-101	chayote	$						yolo11	amith2020yoloxochitl
-102	caña dulce	ndo¹o⁴		267				yolo11	amith2020yoloxochitl
-103	miel	ñu¹ñu⁴		268				yolo11	amith2020yoloxochitl
-104	manteca	xa'³an²		269				yolo11	amith2020yoloxochitl
-105	huevo	ndi¹bi⁴		270				yolo11	amith2020yoloxochitl
-106	tomate	ti¹na³na⁴		271				yolo11	amith2020yoloxochitl
-107	camote	ya'³mi²		272				yolo11	amith2020yoloxochitl
-108	aguacate	ti¹⁴chi³		273				yolo11	amith2020yoloxochitl
-109	plátano	chi³ta²		274	see also 109			yolo11	amith2020yoloxochitl
-110	nopal	mi'¹nda⁴		275				yolo11	amith2020yoloxochitl
-111	mamey, zapote	ndi³ka⁴		276	in other pueblos: plátano			yolo11	amith2020yoloxochitl
-112	chirimoya	$						yolo11	amith2020yoloxochitl
-113	hongo	xi'¹i⁴		277				yolo11	amith2020yoloxochitl
-114	carne	ku³ñu²		278				yolo11	amith2020yoloxochitl
-115	comal	xi¹yo⁴		279				yolo11	amith2020yoloxochitl
-116	olla	ki¹si³		280				yolo11	amith2020yoloxochitl
-117	horno	$						yolo11	amith2020yoloxochitl
-118	lumbre, fuego	ñu'³u²		281				yolo11	amith2020yoloxochitl
-119	ceniza	ya¹a⁴		282				yolo11	amith2020yoloxochitl
-120	carbón	tu¹un⁴		283				yolo11	amith2020yoloxochitl
-121	humo	yu'¹ma¹		284				yolo11	amith2020yoloxochitl
-122	basura	mi'¹⁴i⁴		285				yolo11	amith2020yoloxochitl
-123	plato	ko'¹o⁴		286				yolo11	amith2020yoloxochitl
-124	jícara redonda	ya³xin⁴		287				yolo11	amith2020yoloxochitl
-125	tenate	ndo'¹o⁴		288	canastita en que se sirven las tortillas calientes			yolo11	amith2020yoloxochitl
-126	cajón	xa¹tun⁴		289				yolo11	amith2020yoloxochitl
-127	hilo	yu'¹ba¹		290				yolo11	amith2020yoloxochitl
-128	peine	bi¹ka¹		291				yolo11	amith2020yoloxochitl
-129	mecate	yo'³o⁴		292				yolo11	amith2020yoloxochitl
-130	hoyo	ya³bi²		293				yolo11	amith2020yoloxochitl
-131	red	yu³nu⁴		294				yolo11	amith2020yoloxochitl
-132	jabón	na¹ma⁴		295				yolo11	amith2020yoloxochitl
-133	anillo	xe'³e⁴		296				yolo11	amith2020yoloxochitl
-134	luna	yo¹o⁴		297				yolo11	amith2020yoloxochitl
-135	nube	bi¹ko⁴		298				yolo11	amith2020yoloxochitl
-136	rayo, relámpago	ñu'³u² sa¹bi⁴	ñu'³u²-sa¹bi⁴	299	fire-rain			yolo11	amith2020yoloxochitl
-137	agua	ta¹kwi⁴²		300				yolo11	amith2020yoloxochitl
-138	lluvia	sa¹bi⁴		301				yolo11	amith2020yoloxochitl
-139	río	i¹ta³		302				yolo11	amith2020yoloxochitl
-140	rocío	yu⁴yu⁴		303				yolo11	amith2020yoloxochitl
-141	cerro	yu³ku⁴		304				yolo11	amith2020yoloxochitl
-142	llanura	i¹⁴ni³		305				yolo11	amith2020yoloxochitl
-142	llano	yo³so⁴		306				yolo11	amith2020yoloxochitl
-143	piedra	yu¹u⁴		307				yolo11	amith2020yoloxochitl
-144	algodón	ka¹chi⁴		308				yolo11	amith2020yoloxochitl
-145	metal	ka³a²		309				yolo11	amith2020yoloxochitl
-146	papel	tu³tu²		310				yolo11	amith2020yoloxochitl
-147	cal	ka³ka²		311				yolo11	amith2020yoloxochitl
-148	cera	yu¹ma⁴		312				yolo11	amith2020yoloxochitl
-149	lodo	nda'¹yu¹		313				yolo11	amith2020yoloxochitl
-150	espuma	ñu¹ñu¹		314	de jabón, de cacao			yolo11	amith2020yoloxochitl
-150	espuma	pe¹le¹		315	de agua etc.			yolo11	amith2020yoloxochitl
-151	polvo	yu³chi⁴		316				yolo11	amith2020yoloxochitl
-152	rojo	kwa'⁴a¹		317				yolo11	amith2020yoloxochitl
-153	verde	kwi⁴i²⁴		318				yolo11	amith2020yoloxochitl
-154	amarillo	kwa⁴an²		319				yolo11	amith2020yoloxochitl
-155	negro	nda⁴a⁴		320				yolo11	amith2020yoloxochitl
-156	blanco	ya³a³		321	also: limpio			yolo11	amith2020yoloxochitl
-157	uno	i³in³		322				yolo11	amith2020yoloxochitl
-158	dos	u¹bi¹		323				yolo11	amith2020yoloxochitl
-159	tres	u¹ni¹		324				yolo11	amith2020yoloxochitl
-160	cuatro	ku¹mi⁴		325				yolo11	amith2020yoloxochitl
-161	cinco	u'¹un¹		326				yolo11	amith2020yoloxochitl
-162	seis	i¹ñu¹		327				yolo11	amith2020yoloxochitl
-163	siete	u¹xa¹		328				yolo11	amith2020yoloxochitl
-164	ocho	u¹na¹		329				yolo11	amith2020yoloxochitl
-165	nueve	i¹in¹		330				yolo11	amith2020yoloxochitl
-166	diez	u¹xi¹		331				yolo11	amith2020yoloxochitl
-167	quince	xa'¹un¹		332				yolo11	amith2020yoloxochitl
-168	veinte	o¹ko¹		333				yolo11	amith2020yoloxochitl
-169	pobre	nda'⁴bi²		334				yolo11	amith2020yoloxochitl
-170	rico	bi⁴ka³		335				yolo11	amith2020yoloxochitl
-171	frío	bi¹xin³		336				yolo11	amith2020yoloxochitl
-172	caliente	ni'³ni⁴		337				yolo11	amith2020yoloxochitl
-173	grande.SG	ka'⁴nu³		338				yolo11	amith2020yoloxochitl
-174	grande.PL	na'⁴nu³		339				yolo11	amith2020yoloxochitl
-175	pequeño.SG	lu³lu³		340				yolo11	amith2020yoloxochitl
-176	pequeño.PL	ba⁴li⁴		341				yolo11	amith2020yoloxochitl
-177	largo.SG	ka⁴ni²⁴		342				yolo11	amith2020yoloxochitl
-178	largo.PL	na⁴ni²⁴		343				yolo11	amith2020yoloxochitl
-179	bueno	ba'¹a³		344				yolo11	amith2020yoloxochitl
-180	dulce	bi¹xi¹		345				yolo11	amith2020yoloxochitl
-181	salado	u'¹ba¹		346				yolo11	amith2020yoloxochitl
-182	amargo	u¹ba¹		347				yolo11	amith2020yoloxochitl
-183	sabroso	ya¹sin⁴		348				yolo11	amith2020yoloxochitl
-184	ancho	ndi⁴ka¹		349				yolo11	amith2020yoloxochitl
-185	nuevo	xa¹⁴a³		350				yolo11	amith2020yoloxochitl
-186	flojo	xu⁴xan³		351				yolo11	amith2020yoloxochitl
-187	feo	ki³ni³		352				yolo11	amith2020yoloxochitl
-188	celoso	kwi⁴ñu²		353				yolo11	amith2020yoloxochitl
-189	cerca	ya³tin³		354				yolo11	amith2020yoloxochitl
-190	lejos	xi⁴ka³		355				yolo11	amith2020yoloxochitl
-191	pesado	be¹e³		356				yolo11	amith2020yoloxochitl
-192	crudo	i'⁴i³		357				yolo11	amith2020yoloxochitl
-193	liso	ndi³i⁴		358				yolo11	amith2020yoloxochitl
-194	despacio	kwe⁴e²		359				yolo11	amith2020yoloxochitl
-195	ayer	i³ku³		360				yolo11	amith2020yoloxochitl
-196	año	kwi¹ya¹		361				yolo11	amith2020yoloxochitl
-197	ahora	bi³tin³		362				yolo11	amith2020yoloxochitl
-198	noche	ñu³u⁴²		363				yolo11	amith2020yoloxochitl
-199	de noche, toda la noche	ni³ñu²u²		364				yolo11	amith2020yoloxochitl
-200	día	ki¹bi⁴		365				yolo11	amith2020yoloxochitl
-201	de día	ndu³bi⁴		366				yolo11	amith2020yoloxochitl
-202	mitad	sa³ba³		367				yolo11	amith2020yoloxochitl
-203	dinero	xu'¹⁴un⁴		368				yolo11	amith2020yoloxochitl
-204	trabajo	chi³ñu³		369				yolo11	amith2020yoloxochitl
-205	palabra	tu'¹un³		370				yolo11	amith2020yoloxochitl
-206	culpa	kwa¹chi³		371				yolo11	amith2020yoloxochitl
-207	sueño	xa¹³ni²		372				yolo11	amith2020yoloxochitl
-208	cuándo	a³ma³		373				yolo11	amith2020yoloxochitl
-209	canción	ya³a²		374				yolo11	amith2020yoloxochitl
+IDlist	GLOSS	VALUE	FORM	NOTES	LOAN	LOAN_SOURCE	DOCULECT	SOURCE
+1	madre	si'³i⁴					yolo11	amith2020yoloxochitl
+2	mamá!	$					yolo11	amith2020yoloxochitl
+3	padre	yu³ba⁴					yolo11	amith2020yoloxochitl
+4	papá!	$					yolo11	amith2020yoloxochitl
+5	hijo/hija	se'¹e³					yolo11	amith2020yoloxochitl
+6	hijo	$					yolo11	amith2020yoloxochitl
+7	hija	$					yolo11	amith2020yoloxochitl
+8	hermana/hermano de otro genero	ku'¹ba³					yolo11	amith2020yoloxochitl
+9	hermano de hombre	ya³ni²					yolo11	amith2020yoloxochitl
+10	hermana de mujer	ku'¹bi¹					yolo11	amith2020yoloxochitl
+11	tía	xi³xi²					yolo11	amith2020yoloxochitl
+12	tío	xi³to²					yolo11	amith2020yoloxochitl
+13	hombre	ta¹a³					yolo11	amith2020yoloxochitl
+14	mujer	ña'³a⁴					yolo11	amith2020yoloxochitl
+15	dueño	is¹to'³o²					yolo11	amith2020yoloxochitl
+16	sacerdote	su¹tu¹					yolo11	amith2020yoloxochitl
+17	sangre	ni¹i⁴					yolo11	amith2020yoloxochitl
+18	hueso	i³ki⁴					yolo11	amith2020yoloxochitl
+19	cabello	i³xi⁴					yolo11	amith2020yoloxochitl
+20	cara	nu¹⁴u³					yolo11	amith2020yoloxochitl
+21	lengua	ya⁴a²⁴					yolo11	amith2020yoloxochitl
+22	diente	nu'¹u³					yolo11	amith2020yoloxochitl
+23	boca	yu'³u⁴					yolo11	amith2020yoloxochitl
+24	oreja	so'¹o³		de un animal			yolo11	amith2020yoloxochitl
+25	nariz	is¹tin⁴					yolo11	amith2020yoloxochitl
+26	cuello	su¹kun⁴					yolo11	amith2020yoloxochitl
+27	mano	nda'³a⁴					yolo11	amith2020yoloxochitl
+28	uña	chi⁴in²⁴					yolo11	amith2020yoloxochitl
+29	espalda	sa¹ta⁴					yolo11	amith2020yoloxochitl
+30	barriga	ti¹xin³					yolo11	amith2020yoloxochitl
+31	tripa, tripas	si³ti²					yolo11	amith2020yoloxochitl
+32	pie	xa'¹a⁴					yolo11	amith2020yoloxochitl
+33	enfermedad	kwe'¹e¹					yolo11	amith2020yoloxochitl
+34	medicina	ta¹tan⁴					yolo11	amith2020yoloxochitl
+35	hinchazón	kwi³ñu³					yolo11	amith2020yoloxochitl
+36	grano pequeño	ndi'¹i³		also: granos de la piel			yolo11	amith2020yoloxochitl
+36	grano relativamente grande	ndu¹xa¹		also: grano de la piel			yolo11	amith2020yoloxochitl
+37	pus, materia	nda³kwa⁴					yolo11	amith2020yoloxochitl
+38	orina	$					yolo11	amith2020yoloxochitl
+39	servilleta	sa'³ma⁴					yolo11	amith2020yoloxochitl
+40	huarache	ndi¹xan⁴					yolo11	amith2020yoloxochitl
+41	pantalón	$					yolo11	amith2020yoloxochitl
+42	huipil	xi¹kun¹					yolo11	amith2020yoloxochitl
+43	pueblo	ñu³u²					yolo11	amith2020yoloxochitl
+44	casa	be'³e³					yolo11	amith2020yoloxochitl
+45	camino	i³chi⁴					yolo11	amith2020yoloxochitl
+46	horcón	tu⁴-si'¹in¹	tu⁴-si'¹in¹	wood-horqueta			yolo11	amith2020yoloxochitl
+47	petate	yu³bi⁴					yolo11	amith2020yoloxochitl
+48	cama	is¹to³					yolo11	amith2020yoloxochitl
+49	silla	ta³yu²					yolo11	amith2020yoloxochitl
+50	animal	ki³ti⁴					yolo11	amith2020yoloxochitl
+51	pájaro	sa³a²					yolo11	amith2020yoloxochitl
+52	pez	tia¹ka⁴					yolo11	amith2020yoloxochitl
+53	serpiente	ko¹o⁴					yolo11	amith2020yoloxochitl
+54	rana	sa'³ba²					yolo11	amith2020yoloxochitl
+55	gavilán	ta¹su'⁴u⁴					yolo11	amith2020yoloxochitl
+56	alacrán	ti¹su'³ma²	ti¹-su'³ma²	animal-tail			yolo11	amith2020yoloxochitl
+57	cucaracha	ti¹te'¹e⁴	ti¹-te'¹e⁴	animal-?			yolo11	amith2020yoloxochitl
+58	chapulín	ti¹ka³²					yolo11	amith2020yoloxochitl
+59	abeja	ñu¹ñu⁴		término general para abejas que no pican, esto es, de la tribu Meliponini			yolo11	amith2020yoloxochitl
+60	ratón, rata	ti¹⁴in³					yolo11	amith2020yoloxochitl
+61	venado	i³su²					yolo11	amith2020yoloxochitl
+62	ardilla	ndi³kwa⁴ñu³	ndi³-kwa⁴ñu³				yolo11	amith2020yoloxochitl
+63	zorrillo	ti'¹in⁴					yolo11	amith2020yoloxochitl
+64	tlacuache	xa¹ko³²					yolo11	amith2020yoloxochitl
+65	mapache	ti¹ma'⁴a²	ti¹-ma'⁴a²	animal-?			yolo11	amith2020yoloxochitl
+66	conejo	ku³ni⁴jo²		from Sp. conejo	yes	Spanish	yolo11	amith2020yoloxochitl
+67	zopilote	pi³lo⁴		from Nahuatl tsopi:lo:tl	yes	Nahuatl	yolo11	amith2020yoloxochitl
+68	perro	i³na²					yolo11	amith2020yoloxochitl
+69	gato domestico	mis⁴tun²			yes	Colonial Spanish	yolo11	amith2020yoloxochitl
+70	gallo	ndu³xi⁴ che⁴e¹³	ndu³xi⁴-che⁴e¹³	chicken-male			yolo11	amith2020yoloxochitl
+71	gallina	ndu³xi⁴					yolo11	amith2020yoloxochitl
+72	marrano	ki³ni²					yolo11	amith2020yoloxochitl
+73	caballo	kwa⁴yu²			yes	Colonial Spanish	yolo11	amith2020yoloxochitl
+74	borrego	ndi³ka³chi³	ndi³-ka³chi³	?-cotton			yolo11	amith2020yoloxochitl
+75	hormiga	tio¹ko⁴					yolo11	amith2020yoloxochitl
+76	cuerno	ndi³ki⁴					yolo11	amith2020yoloxochitl
+77	pluma	tu¹mi³²					yolo11	amith2020yoloxochitl
+78	ala	ndi¹xin⁴					yolo11	amith2020yoloxochitl
+79	cola	su'¹ma⁴					yolo11	amith2020yoloxochitl
+80	árbol	i³tun⁴					yolo11	amith2020yoloxochitl
+81	hierba	$					yolo11	amith2020yoloxochitl
+82	sacate, pasto	i³ta²		same as 80			yolo11	amith2020yoloxochitl
+83	flor	i³ta²		same as 79			yolo11	amith2020yoloxochitl
+84	maguey	$					yolo11	amith2020yoloxochitl
+85	raíz	tio'¹o³					yolo11	amith2020yoloxochitl
+86	espina	i³ñu⁴					yolo11	amith2020yoloxochitl
+87	maíz desgranado	nu¹ni⁴					yolo11	amith2020yoloxochitl
+88	milpa	i³tu²					yolo11	amith2020yoloxochitl
+89	elote	ndi³xi⁴					yolo11	amith2020yoloxochitl
+90	nixtamal	xa'⁴a²					yolo11	amith2020yoloxochitl
+91	masa	yu³xan⁴					yolo11	amith2020yoloxochitl
+92	tortilla	is¹ta⁴					yolo11	amith2020yoloxochitl
+93	rastrojo	ya¹ma⁴		guamile, terreno de sembrado después de haberse levantado la cosecha quedando el puro rastrojo			yolo11	amith2020yoloxochitl
+94	surco	yu³kun²					yolo11	amith2020yoloxochitl
+95	espiga	yo³ko⁴					yolo11	amith2020yoloxochitl
+96	frijol(es)	ndu³chi⁴					yolo11	amith2020yoloxochitl
+97	ejote, vaina	ndi³chi²					yolo11	amith2020yoloxochitl
+98	chile	ya'³a⁴					yolo11	amith2020yoloxochitl
+99	sal	i¹in⁴					yolo11	amith2020yoloxochitl
+100	calabaza	i³kin⁴					yolo11	amith2020yoloxochitl
+101	chayote	$					yolo11	amith2020yoloxochitl
+102	caña dulce	ndo¹o⁴					yolo11	amith2020yoloxochitl
+103	miel	ñu¹ñu⁴					yolo11	amith2020yoloxochitl
+104	manteca	xa'³an²					yolo11	amith2020yoloxochitl
+105	huevo	ndi¹bi⁴					yolo11	amith2020yoloxochitl
+106	tomate	ti¹na³na⁴					yolo11	amith2020yoloxochitl
+107	camote	ya'³mi²					yolo11	amith2020yoloxochitl
+108	aguacate	ti¹⁴chi³					yolo11	amith2020yoloxochitl
+109	plátano	chi³ta²		see also 109			yolo11	amith2020yoloxochitl
+110	nopal	mi'¹nda⁴					yolo11	amith2020yoloxochitl
+111	mamey, zapote	ndi³ka⁴		in other pueblos: plátano			yolo11	amith2020yoloxochitl
+112	chirimoya	$					yolo11	amith2020yoloxochitl
+113	hongo	xi'¹i⁴					yolo11	amith2020yoloxochitl
+114	carne	ku³ñu²					yolo11	amith2020yoloxochitl
+115	comal	xi¹yo⁴					yolo11	amith2020yoloxochitl
+116	olla	ki¹si³					yolo11	amith2020yoloxochitl
+117	horno	$					yolo11	amith2020yoloxochitl
+118	lumbre, fuego	ñu'³u²					yolo11	amith2020yoloxochitl
+119	ceniza	ya¹a⁴					yolo11	amith2020yoloxochitl
+120	carbón	tu¹un⁴					yolo11	amith2020yoloxochitl
+121	humo	yu'¹ma¹					yolo11	amith2020yoloxochitl
+122	basura	mi'¹⁴i⁴					yolo11	amith2020yoloxochitl
+123	plato	ko'¹o⁴					yolo11	amith2020yoloxochitl
+124	jícara redonda	ya³xin⁴					yolo11	amith2020yoloxochitl
+125	tenate	ndo'¹o⁴		canastita en que se sirven las tortillas calientes			yolo11	amith2020yoloxochitl
+126	cajón	xa¹tun⁴					yolo11	amith2020yoloxochitl
+127	hilo	yu'¹ba¹					yolo11	amith2020yoloxochitl
+128	peine	bi¹ka¹					yolo11	amith2020yoloxochitl
+129	mecate	yo'³o⁴					yolo11	amith2020yoloxochitl
+130	hoyo	ya³bi²					yolo11	amith2020yoloxochitl
+131	red	yu³nu⁴					yolo11	amith2020yoloxochitl
+132	jabón	na¹ma⁴					yolo11	amith2020yoloxochitl
+133	anillo	xe'³e⁴					yolo11	amith2020yoloxochitl
+134	luna	yo¹o⁴					yolo11	amith2020yoloxochitl
+135	nube	bi¹ko⁴					yolo11	amith2020yoloxochitl
+136	rayo, relámpago	ñu'³u² sa¹bi⁴	ñu'³u²-sa¹bi⁴	fire-rain			yolo11	amith2020yoloxochitl
+137	agua	ta¹kwi⁴²					yolo11	amith2020yoloxochitl
+138	lluvia	sa¹bi⁴					yolo11	amith2020yoloxochitl
+139	río	i¹ta³					yolo11	amith2020yoloxochitl
+140	rocío	yu⁴yu⁴					yolo11	amith2020yoloxochitl
+141	cerro	yu³ku⁴					yolo11	amith2020yoloxochitl
+142	llanura	i¹⁴ni³					yolo11	amith2020yoloxochitl
+142	llano	yo³so⁴					yolo11	amith2020yoloxochitl
+143	piedra	yu¹u⁴					yolo11	amith2020yoloxochitl
+144	algodón	ka¹chi⁴					yolo11	amith2020yoloxochitl
+145	metal	ka³a²					yolo11	amith2020yoloxochitl
+146	papel	tu³tu²					yolo11	amith2020yoloxochitl
+147	cal	ka³ka²					yolo11	amith2020yoloxochitl
+148	cera	yu¹ma⁴					yolo11	amith2020yoloxochitl
+149	lodo	nda'¹yu¹					yolo11	amith2020yoloxochitl
+150	espuma	ñu¹ñu¹		de jabón, de cacao			yolo11	amith2020yoloxochitl
+150	espuma	pe¹le¹		de agua etc.			yolo11	amith2020yoloxochitl
+151	polvo	yu³chi⁴					yolo11	amith2020yoloxochitl
+152	rojo	kwa'⁴a¹					yolo11	amith2020yoloxochitl
+153	verde	kwi⁴i²⁴					yolo11	amith2020yoloxochitl
+154	amarillo	kwa⁴an²					yolo11	amith2020yoloxochitl
+155	negro	nda⁴a⁴					yolo11	amith2020yoloxochitl
+156	blanco	ya³a³		also: limpio			yolo11	amith2020yoloxochitl
+157	uno	i³in³					yolo11	amith2020yoloxochitl
+158	dos	u¹bi¹					yolo11	amith2020yoloxochitl
+159	tres	u¹ni¹					yolo11	amith2020yoloxochitl
+160	cuatro	ku¹mi⁴					yolo11	amith2020yoloxochitl
+161	cinco	u'¹un¹					yolo11	amith2020yoloxochitl
+162	seis	i¹ñu¹					yolo11	amith2020yoloxochitl
+163	siete	u¹xa¹					yolo11	amith2020yoloxochitl
+164	ocho	u¹na¹					yolo11	amith2020yoloxochitl
+165	nueve	i¹in¹					yolo11	amith2020yoloxochitl
+166	diez	u¹xi¹					yolo11	amith2020yoloxochitl
+167	quince	xa'¹un¹					yolo11	amith2020yoloxochitl
+168	veinte	o¹ko¹					yolo11	amith2020yoloxochitl
+169	pobre	nda'⁴bi²					yolo11	amith2020yoloxochitl
+170	rico	bi⁴ka³					yolo11	amith2020yoloxochitl
+171	frío	bi¹xin³					yolo11	amith2020yoloxochitl
+172	caliente	ni'³ni⁴					yolo11	amith2020yoloxochitl
+173	grande.SG	ka'⁴nu³					yolo11	amith2020yoloxochitl
+174	grande.PL	na'⁴nu³					yolo11	amith2020yoloxochitl
+175	pequeño.SG	lu³lu³					yolo11	amith2020yoloxochitl
+176	pequeño.PL	ba⁴li⁴					yolo11	amith2020yoloxochitl
+177	largo.SG	ka⁴ni²⁴					yolo11	amith2020yoloxochitl
+178	largo.PL	na⁴ni²⁴					yolo11	amith2020yoloxochitl
+179	bueno	ba'¹a³					yolo11	amith2020yoloxochitl
+180	dulce	bi¹xi¹					yolo11	amith2020yoloxochitl
+181	salado	u'¹ba¹					yolo11	amith2020yoloxochitl
+182	amargo	u¹ba¹					yolo11	amith2020yoloxochitl
+183	sabroso	ya¹sin⁴					yolo11	amith2020yoloxochitl
+184	ancho	ndi⁴ka¹					yolo11	amith2020yoloxochitl
+185	nuevo	xa¹⁴a³					yolo11	amith2020yoloxochitl
+186	flojo	xu⁴xan³					yolo11	amith2020yoloxochitl
+187	feo	ki³ni³					yolo11	amith2020yoloxochitl
+188	celoso	kwi⁴ñu²					yolo11	amith2020yoloxochitl
+189	cerca	ya³tin³					yolo11	amith2020yoloxochitl
+190	lejos	xi⁴ka³					yolo11	amith2020yoloxochitl
+191	pesado	be¹e³					yolo11	amith2020yoloxochitl
+192	crudo	i'⁴i³					yolo11	amith2020yoloxochitl
+193	liso	ndi³i⁴					yolo11	amith2020yoloxochitl
+194	despacio	kwe⁴e²					yolo11	amith2020yoloxochitl
+195	ayer	i³ku³					yolo11	amith2020yoloxochitl
+196	año	kwi¹ya¹					yolo11	amith2020yoloxochitl
+197	ahora	bi³tin³					yolo11	amith2020yoloxochitl
+198	noche	ñu³u⁴²					yolo11	amith2020yoloxochitl
+199	de noche, toda la noche	ni³ñu²u²					yolo11	amith2020yoloxochitl
+200	día	ki¹bi⁴					yolo11	amith2020yoloxochitl
+201	de día	ndu³bi⁴					yolo11	amith2020yoloxochitl
+202	mitad	sa³ba³					yolo11	amith2020yoloxochitl
+203	dinero	xu'¹⁴un⁴					yolo11	amith2020yoloxochitl
+204	trabajo	chi³ñu³					yolo11	amith2020yoloxochitl
+205	palabra	tu'¹un³					yolo11	amith2020yoloxochitl
+206	culpa	kwa¹chi³					yolo11	amith2020yoloxochitl
+207	sueño	xa¹³ni²					yolo11	amith2020yoloxochitl
+208	cuándo	a³ma³					yolo11	amith2020yoloxochitl
+209	canción	ya³a²					yolo11	amith2020yoloxochitl

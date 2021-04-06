@@ -1,212 +1,212 @@
-IDlist	CATEGORY	GLOSS	VALUE	FORM	ID	NOTES	LOAN	LOAN_SOURCE	DOCULECT	SOURCE
-1	kinship	madre	nana		20471	tones not marked throughout			yoso14	gittlen2016gramatica
-2	kinship	mamá!	nana		20472				yoso14	gittlen2016gramatica
-3	kinship	padre	tata		20473				yoso14	gittlen2016gramatica
-4	kinship	papá!	$						yoso14	gittlen2016gramatica
-5	kinship	hijo/hija	se'e		20474				yoso14	gittlen2016gramatica
-6	kinship	hijo	$						yoso14	gittlen2016gramatica
-7	kinship	hija	$						yoso14	gittlen2016gramatica
-8	kinship	hermana/hermano de otro genero	kua'a		20475				yoso14	gittlen2016gramatica
-9	kinship	hermano de hombre	ñani		20476				yoso14	gittlen2016gramatica
-10	kinship	hermana de mujer	ku'u		20477				yoso14	gittlen2016gramatica
-11	kinship	tía	xixi		20478				yoso14	gittlen2016gramatica
-12	kinship	tío	xtoo		20479				yoso14	gittlen2016gramatica
-13	person	hombre	tee		20480				yoso14	gittlen2016gramatica
-14	person	mujer	ña'a		20481				yoso14	gittlen2016gramatica
-15	person	dueño	$						yoso14	gittlen2016gramatica
-16	person	sacerdote	sutu		20482				yoso14	gittlen2016gramatica
-17	body	sangre	$						yoso14	gittlen2016gramatica
-18	body	hueso	yiki		20483				yoso14	gittlen2016gramatica
-19	body	pelo	ixi		20484				yoso14	gittlen2016gramatica
-20	body	cara	nuu		20485				yoso14	gittlen2016gramatica
-21	body	lengua	$						yoso14	gittlen2016gramatica
-22	body	diente	$						yoso14	gittlen2016gramatica
-23	body	boca	yu'u		20486				yoso14	gittlen2016gramatica
-24	body	oreja	so'o		20487				yoso14	gittlen2016gramatica
-25	body	nariz	$						yoso14	gittlen2016gramatica
-26	body	cuello	sukun		20488				yoso14	gittlen2016gramatica
-27	body	mano	nda'a		20489				yoso14	gittlen2016gramatica
-28	body	uña	$						yoso14	gittlen2016gramatica
-29	body	espalda	yata		20490				yoso14	gittlen2016gramatica
-30	body	barriga	chii		20491				yoso14	gittlen2016gramatica
-31	body	tripa, tripas	$						yoso14	gittlen2016gramatica
-32	body	pie	ja'a		20492				yoso14	gittlen2016gramatica
-33	body	enfermedad	$						yoso14	gittlen2016gramatica
-34	body	medicina	tatna		20493				yoso14	gittlen2016gramatica
-35	body	hinchazón	$						yoso14	gittlen2016gramatica
-36	body	grano	$						yoso14	gittlen2016gramatica
-37	body	pus, materia	$						yoso14	gittlen2016gramatica
-38	body	orina	$						yoso14	gittlen2016gramatica
-39	clothing	ropa	sa'un		20494				yoso14	gittlen2016gramatica
-40	clothing	huarache	$						yoso14	gittlen2016gramatica
-41	clothing	pantalón	$						yoso14	gittlen2016gramatica
-42	clothing	huipil	$						yoso14	gittlen2016gramatica
-43	living	pueblo	ñuu		20495				yoso14	gittlen2016gramatica
-44	living	casa	ve'e		20496				yoso14	gittlen2016gramatica
-45	living	camino	ichi		20497				yoso14	gittlen2016gramatica
-46	living	horcón	$						yoso14	gittlen2016gramatica
-47	living	petate	yuu		20498				yoso14	gittlen2016gramatica
-48	living	cama, lecho	$						yoso14	gittlen2016gramatica
-49	living	banquito, banco, silla	$						yoso14	gittlen2016gramatica
-50	animal	animal	kiti		20499				yoso14	gittlen2016gramatica
-51	animal	pájaro	tisaa		20500				yoso14	gittlen2016gramatica
-52	animal	pez, pescado	$						yoso14	gittlen2016gramatica
-53	animal	culebra, serpiente	koo		20501				yoso14	gittlen2016gramatica
-54	animal	rana	$						yoso14	gittlen2016gramatica
-55	animal	gavilán	$						yoso14	gittlen2016gramatica
-56	animal	alacrán	$						yoso14	gittlen2016gramatica
-57	animal	cucaracha	$						yoso14	gittlen2016gramatica
-58	animal	chapulín	$						yoso14	gittlen2016gramatica
-59	animal	abeja	$						yoso14	gittlen2016gramatica
-60	animal	ratón	tniñi		20502				yoso14	gittlen2016gramatica
-61	animal	venado	isu		20503				yoso14	gittlen2016gramatica
-62	animal	ardilla	$						yoso14	gittlen2016gramatica
-63	animal	zorrillo	$						yoso14	gittlen2016gramatica
-64	animal	tlacuache	$						yoso14	gittlen2016gramatica
-65	animal	mapache	$						yoso14	gittlen2016gramatica
-66	animal	conejo	$						yoso14	gittlen2016gramatica
-67	animal	zopilote	$						yoso14	gittlen2016gramatica
-68	animal	perro	ti'ina		20504				yoso14	gittlen2016gramatica
-69	animal	gato	vilu		20505				yoso14	gittlen2016gramatica
-70	animal	gallo	$						yoso14	gittlen2016gramatica
-71	animal	pollo	chiuun		20506				yoso14	gittlen2016gramatica
-72	animal	marrano, puerco, cerdo	$						yoso14	gittlen2016gramatica
-73	animal	caballo	kuai		20507		yes	Colonial Spanish	yoso14	gittlen2016gramatica
-74	animal	borrego, oveja	ndikachi		20508				yoso14	gittlen2016gramatica
-75	animal	hormiga	$						yoso14	gittlen2016gramatica
-76	animal	cuerno	ndiki		20509				yoso14	gittlen2016gramatica
-77	animal	pluma	$						yoso14	gittlen2016gramatica
-78	animal	ala	$						yoso14	gittlen2016gramatica
-79	animal	cola	ndo'o		20510				yoso14	gittlen2016gramatica
-80	plant	árbol, palo	yutnu		20511				yoso14	gittlen2016gramatica
-81	plant	hierba	$						yoso14	gittlen2016gramatica
-82	plant	zacate, pasto	$						yoso14	gittlen2016gramatica
-83	plant	flor	ita		20512				yoso14	gittlen2016gramatica
-84	plant	maguey	$						yoso14	gittlen2016gramatica
-85	plant	raíz	$						yoso14	gittlen2016gramatica
-86	plant	espina	$						yoso14	gittlen2016gramatica
-87	corn	maíz en grano	nuni		20513				yoso14	gittlen2016gramatica
-88	corn	milpa	itu		20514				yoso14	gittlen2016gramatica
-89	corn	elote	$						yoso14	gittlen2016gramatica
-90	corn	nixtamal	$						yoso14	gittlen2016gramatica
-91	corn	masa	$						yoso14	gittlen2016gramatica
-92	corn	tortilla	xtaa		20515				yoso14	gittlen2016gramatica
-93	corn	rastrojo	$						yoso14	gittlen2016gramatica
-94	corn	surco	$						yoso14	gittlen2016gramatica
-95	corn	espiga	$						yoso14	gittlen2016gramatica
-96	food	frijol(es)	nduchi		20516				yoso14	gittlen2016gramatica
-97	food	ejote	$						yoso14	gittlen2016gramatica
-98	food	chile	ya'a		20517				yoso14	gittlen2016gramatica
-99	food	sal	ñii		20518				yoso14	gittlen2016gramatica
-100	food	calabaza	yikin		20519				yoso14	gittlen2016gramatica
-101	food	chayote	$						yoso14	gittlen2016gramatica
-102	food	caña	ndoo		20520				yoso14	gittlen2016gramatica
-103	food	miel	$						yoso14	gittlen2016gramatica
-104	food	grasa	xe'en		20521				yoso14	gittlen2016gramatica
-105	food	blanquillo, huevo	$						yoso14	gittlen2016gramatica
-106	food	tomate	$						yoso14	gittlen2016gramatica
-107	food	camote	$						yoso14	gittlen2016gramatica
-108	food	aguacate	$						yoso14	gittlen2016gramatica
-109	food	plátano	$						yoso14	gittlen2016gramatica
-110	food	nopal	$						yoso14	gittlen2016gramatica
-111	food	mamey, zapote	$						yoso14	gittlen2016gramatica
-112	food	chirimoya	$						yoso14	gittlen2016gramatica
-113	food	hongo	$						yoso14	gittlen2016gramatica
-114	food	carne	kuñu		20522				yoso14	gittlen2016gramatica
-115	cooking	comal	$						yoso14	gittlen2016gramatica
-116	cooking	olla	$						yoso14	gittlen2016gramatica
-117	cooking	horno	jitnu		20523				yoso14	gittlen2016gramatica
-118	cooking	lumbre, fuego	$						yoso14	gittlen2016gramatica
-119	cooking	ceniza	$						yoso14	gittlen2016gramatica
-120	cooking	carbón	$						yoso14	gittlen2016gramatica
-121	cooking	humo	ñua'a		20524				yoso14	gittlen2016gramatica
-122	cooking	basura	mi'i		20525				yoso14	gittlen2016gramatica
-123	cooking	plato	ko'o		20526				yoso14	gittlen2016gramatica
-124	container	jícara	yajin		20527				yoso14	gittlen2016gramatica
-125	container	canasta,	chika		20528				yoso14	gittlen2016gramatica
-125		tenate	ndo'o		20529				yoso14	gittlen2016gramatica
-126	container	caja	jatnu		20530				yoso14	gittlen2016gramatica
-127	thing	hilo	yua'a		20531				yoso14	gittlen2016gramatica
-128	thing	peine	$						yoso14	gittlen2016gramatica
-129	thing	mecate, cuerda	$						yoso14	gittlen2016gramatica
-130	thing	hoyo	yau		20532				yoso14	gittlen2016gramatica
-131	thing	red	$						yoso14	gittlen2016gramatica
-132	thing	jabón	nama		20533				yoso14	gittlen2016gramatica
-133	thing	anillo	$						yoso14	gittlen2016gramatica
-134	nature	luna	$						yoso14	gittlen2016gramatica
-135	nature	nube	viko		20534				yoso14	gittlen2016gramatica
-136	nature	rayo, relámpago	$						yoso14	gittlen2016gramatica
-137	nature	agua	ndute		20535				yoso14	gittlen2016gramatica
-138	nature	lluvia	sau		20536				yoso14	gittlen2016gramatica
-139	nature	río	yute		20537				yoso14	gittlen2016gramatica
-140	nature	rocío	$						yoso14	gittlen2016gramatica
-141	nature	monte	yuku		20538				yoso14	gittlen2016gramatica
-142	nature	llano	yoso		20539				yoso14	gittlen2016gramatica
-143	nature	piedra	yuu		20540				yoso14	gittlen2016gramatica
-144	material	algodón	kachi		20541				yoso14	gittlen2016gramatica
-145	material	fierro	$						yoso14	gittlen2016gramatica
-146	material	papel	tutu		20542				yoso14	gittlen2016gramatica
-147	material	cal	$						yoso14	gittlen2016gramatica
-148	material	cera	$						yoso14	gittlen2016gramatica
-149	material	lodo	$						yoso14	gittlen2016gramatica
-150	material	espuma	$						yoso14	gittlen2016gramatica
-151	material	polvo	$						yoso14	gittlen2016gramatica
-152	color	rojo	kua'a		20543				yoso14	gittlen2016gramatica
-153	color	verde	kuii		20544				yoso14	gittlen2016gramatica
-154	color	amarillo	kuaan		20545				yoso14	gittlen2016gramatica
-155	color	negro	nde'i		20546				yoso14	gittlen2016gramatica
-156	color	blanco	yaa		20547				yoso14	gittlen2016gramatica
-156		blanco	kuijin		20548				yoso14	gittlen2016gramatica
-157	number	uno	in		20549				yoso14	gittlen2016gramatica
-158	number	dos	uu		20550				yoso14	gittlen2016gramatica
-159	number	tres	uni		20551				yoso14	gittlen2016gramatica
-160	number	cuatro	kuun		20552				yoso14	gittlen2016gramatica
-161	number	cinco	u'un		20553				yoso14	gittlen2016gramatica
-162	number	seis	iñu		20554				yoso14	gittlen2016gramatica
-163	number	siete	uja		20555				yoso14	gittlen2016gramatica
-164	number	ocho	una		20556				yoso14	gittlen2016gramatica
-165	number	nueve	iin		20557				yoso14	gittlen2016gramatica
-166	number	diez	uxi		20558				yoso14	gittlen2016gramatica
-167	number	quince	xa'un		20559				yoso14	gittlen2016gramatica
-168	number	veinte	oko		20560				yoso14	gittlen2016gramatica
-169	property	pobre	nda'u		20561				yoso14	gittlen2016gramatica
-170	property	rico	kuika		20562				yoso14	gittlen2016gramatica
-171	property	frío	$						yoso14	gittlen2016gramatica
-172	property	está caliente, caliente	i'ni		20563				yoso14	gittlen2016gramatica
-173	property	grande.SG	ka'nu		20564				yoso14	gittlen2016gramatica
-174	property	grande.PL	na'nu		20565				yoso14	gittlen2016gramatica
-175	property	pequeño.SG, chico.SG	luluu		20566				yoso14	gittlen2016gramatica
-176	property	pequeño.PL	kueli		20567				yoso14	gittlen2016gramatica
-177	property	largo.SG	kani		20568				yoso14	gittlen2016gramatica
-178	property	largo.PL	nani		20569				yoso14	gittlen2016gramatica
-179	property	bueno	va'a		20570				yoso14	gittlen2016gramatica
-180	property	dulce	vixin		20571				yoso14	gittlen2016gramatica
-181	property	salado	axe		20572				yoso14	gittlen2016gramatica
-182	property	amargo	$						yoso14	gittlen2016gramatica
-183	property	sabroso	asin		20573				yoso14	gittlen2016gramatica
-184	property	ancho	$						yoso14	gittlen2016gramatica
-185	property	nuevo	$						yoso14	gittlen2016gramatica
-186	property	flojo	$						yoso14	gittlen2016gramatica
-187	property	feo	nde'e		20574				yoso14	gittlen2016gramatica
-188	property	celoso	$						yoso14	gittlen2016gramatica
-189	property	cerca de, está cerca	yatni		20575				yoso14	gittlen2016gramatica
-190	property	está lejos, lejos	$						yoso14	gittlen2016gramatica
-191	property	pesado	$						yoso14	gittlen2016gramatica
-192	property	crudo	$						yoso14	gittlen2016gramatica
-193	property	liso	$						yoso14	gittlen2016gramatica
-194	property	despacio	$						yoso14	gittlen2016gramatica
-195	time	ayer	iku		20576				yoso14	gittlen2016gramatica
-196	time	año	kuia		20577				yoso14	gittlen2016gramatica
-197	time	ahora, hoy	vitna		20578				yoso14	gittlen2016gramatica
-198	time	noche	xini		20579				yoso14	gittlen2016gramatica
-199	time	de noche	$						yoso14	gittlen2016gramatica
-200	time	día	kiuu		20580				yoso14	gittlen2016gramatica
-201	time	de día	$						yoso14	gittlen2016gramatica
-202	abstract	mitad	$						yoso14	gittlen2016gramatica
-203	abstract	dinero	xu'un		20581				yoso14	gittlen2016gramatica
-204	abstract	trabajo	tniuu		20582				yoso14	gittlen2016gramatica
-205	abstract	palabra	$						yoso14	gittlen2016gramatica
-206	abstract	culpa	$						yoso14	gittlen2016gramatica
-207	abstract	sueño	jani		20583				yoso14	gittlen2016gramatica
-208	abstract	cuándo	$						yoso14	gittlen2016gramatica
-209	abstract	canción, música	$						yoso14	gittlen2016gramatica
+IDlist	CATEGORY	GLOSS	VALUE	ID	NOTES	LOAN	LOAN_SOURCE	DOCULECT	SOURCE
+1	kinship	madre	nana	20471	tones not marked throughout			yoso14	gittlen2016gramatica
+2	kinship	mamá!	nana	20472				yoso14	gittlen2016gramatica
+3	kinship	padre	tata	20473				yoso14	gittlen2016gramatica
+4	kinship	papá!	$					yoso14	gittlen2016gramatica
+5	kinship	hijo/hija	se'e	20474				yoso14	gittlen2016gramatica
+6	kinship	hijo	$					yoso14	gittlen2016gramatica
+7	kinship	hija	$					yoso14	gittlen2016gramatica
+8	kinship	hermana/hermano de otro genero	kua'a	20475				yoso14	gittlen2016gramatica
+9	kinship	hermano de hombre	ñani	20476				yoso14	gittlen2016gramatica
+10	kinship	hermana de mujer	ku'u	20477				yoso14	gittlen2016gramatica
+11	kinship	tía	xixi	20478				yoso14	gittlen2016gramatica
+12	kinship	tío	xtoo	20479				yoso14	gittlen2016gramatica
+13	person	hombre	tee	20480				yoso14	gittlen2016gramatica
+14	person	mujer	ña'a	20481				yoso14	gittlen2016gramatica
+15	person	dueño	$					yoso14	gittlen2016gramatica
+16	person	sacerdote	sutu	20482				yoso14	gittlen2016gramatica
+17	body	sangre	$					yoso14	gittlen2016gramatica
+18	body	hueso	yiki	20483				yoso14	gittlen2016gramatica
+19	body	pelo	ixi	20484				yoso14	gittlen2016gramatica
+20	body	cara	nuu	20485				yoso14	gittlen2016gramatica
+21	body	lengua	$					yoso14	gittlen2016gramatica
+22	body	diente	$					yoso14	gittlen2016gramatica
+23	body	boca	yu'u	20486				yoso14	gittlen2016gramatica
+24	body	oreja	so'o	20487				yoso14	gittlen2016gramatica
+25	body	nariz	$					yoso14	gittlen2016gramatica
+26	body	cuello	sukun	20488				yoso14	gittlen2016gramatica
+27	body	mano	nda'a	20489				yoso14	gittlen2016gramatica
+28	body	uña	$					yoso14	gittlen2016gramatica
+29	body	espalda	yata	20490				yoso14	gittlen2016gramatica
+30	body	barriga	chii	20491				yoso14	gittlen2016gramatica
+31	body	tripa, tripas	$					yoso14	gittlen2016gramatica
+32	body	pie	ja'a	20492				yoso14	gittlen2016gramatica
+33	body	enfermedad	$					yoso14	gittlen2016gramatica
+34	body	medicina	tatna	20493				yoso14	gittlen2016gramatica
+35	body	hinchazón	$					yoso14	gittlen2016gramatica
+36	body	grano	$					yoso14	gittlen2016gramatica
+37	body	pus, materia	$					yoso14	gittlen2016gramatica
+38	body	orina	$					yoso14	gittlen2016gramatica
+39	clothing	ropa	sa'un	20494				yoso14	gittlen2016gramatica
+40	clothing	huarache	$					yoso14	gittlen2016gramatica
+41	clothing	pantalón	$					yoso14	gittlen2016gramatica
+42	clothing	huipil	$					yoso14	gittlen2016gramatica
+43	living	pueblo	ñuu	20495				yoso14	gittlen2016gramatica
+44	living	casa	ve'e	20496				yoso14	gittlen2016gramatica
+45	living	camino	ichi	20497				yoso14	gittlen2016gramatica
+46	living	horcón	$					yoso14	gittlen2016gramatica
+47	living	petate	yuu	20498				yoso14	gittlen2016gramatica
+48	living	cama, lecho	$					yoso14	gittlen2016gramatica
+49	living	banquito, banco, silla	$					yoso14	gittlen2016gramatica
+50	animal	animal	kiti	20499				yoso14	gittlen2016gramatica
+51	animal	pájaro	tisaa	20500				yoso14	gittlen2016gramatica
+52	animal	pez, pescado	$					yoso14	gittlen2016gramatica
+53	animal	culebra, serpiente	koo	20501				yoso14	gittlen2016gramatica
+54	animal	rana	$					yoso14	gittlen2016gramatica
+55	animal	gavilán	$					yoso14	gittlen2016gramatica
+56	animal	alacrán	$					yoso14	gittlen2016gramatica
+57	animal	cucaracha	$					yoso14	gittlen2016gramatica
+58	animal	chapulín	$					yoso14	gittlen2016gramatica
+59	animal	abeja	$					yoso14	gittlen2016gramatica
+60	animal	ratón	tniñi	20502				yoso14	gittlen2016gramatica
+61	animal	venado	isu	20503				yoso14	gittlen2016gramatica
+62	animal	ardilla	$					yoso14	gittlen2016gramatica
+63	animal	zorrillo	$					yoso14	gittlen2016gramatica
+64	animal	tlacuache	$					yoso14	gittlen2016gramatica
+65	animal	mapache	$					yoso14	gittlen2016gramatica
+66	animal	conejo	$					yoso14	gittlen2016gramatica
+67	animal	zopilote	$					yoso14	gittlen2016gramatica
+68	animal	perro	ti'ina	20504				yoso14	gittlen2016gramatica
+69	animal	gato	vilu	20505				yoso14	gittlen2016gramatica
+70	animal	gallo	$					yoso14	gittlen2016gramatica
+71	animal	pollo	chiuun	20506				yoso14	gittlen2016gramatica
+72	animal	marrano, puerco, cerdo	$					yoso14	gittlen2016gramatica
+73	animal	caballo	kuai	20507		yes	Colonial Spanish	yoso14	gittlen2016gramatica
+74	animal	borrego, oveja	ndikachi	20508				yoso14	gittlen2016gramatica
+75	animal	hormiga	$					yoso14	gittlen2016gramatica
+76	animal	cuerno	ndiki	20509				yoso14	gittlen2016gramatica
+77	animal	pluma	$					yoso14	gittlen2016gramatica
+78	animal	ala	$					yoso14	gittlen2016gramatica
+79	animal	cola	ndo'o	20510				yoso14	gittlen2016gramatica
+80	plant	árbol, palo	yutnu	20511				yoso14	gittlen2016gramatica
+81	plant	hierba	$					yoso14	gittlen2016gramatica
+82	plant	zacate, pasto	$					yoso14	gittlen2016gramatica
+83	plant	flor	ita	20512				yoso14	gittlen2016gramatica
+84	plant	maguey	$					yoso14	gittlen2016gramatica
+85	plant	raíz	$					yoso14	gittlen2016gramatica
+86	plant	espina	$					yoso14	gittlen2016gramatica
+87	corn	maíz en grano	nuni	20513				yoso14	gittlen2016gramatica
+88	corn	milpa	itu	20514				yoso14	gittlen2016gramatica
+89	corn	elote	$					yoso14	gittlen2016gramatica
+90	corn	nixtamal	$					yoso14	gittlen2016gramatica
+91	corn	masa	$					yoso14	gittlen2016gramatica
+92	corn	tortilla	xtaa	20515				yoso14	gittlen2016gramatica
+93	corn	rastrojo	$					yoso14	gittlen2016gramatica
+94	corn	surco	$					yoso14	gittlen2016gramatica
+95	corn	espiga	$					yoso14	gittlen2016gramatica
+96	food	frijol(es)	nduchi	20516				yoso14	gittlen2016gramatica
+97	food	ejote	$					yoso14	gittlen2016gramatica
+98	food	chile	ya'a	20517				yoso14	gittlen2016gramatica
+99	food	sal	ñii	20518				yoso14	gittlen2016gramatica
+100	food	calabaza	yikin	20519				yoso14	gittlen2016gramatica
+101	food	chayote	$					yoso14	gittlen2016gramatica
+102	food	caña	ndoo	20520				yoso14	gittlen2016gramatica
+103	food	miel	$					yoso14	gittlen2016gramatica
+104	food	grasa	xe'en	20521				yoso14	gittlen2016gramatica
+105	food	blanquillo, huevo	$					yoso14	gittlen2016gramatica
+106	food	tomate	$					yoso14	gittlen2016gramatica
+107	food	camote	$					yoso14	gittlen2016gramatica
+108	food	aguacate	$					yoso14	gittlen2016gramatica
+109	food	plátano	$					yoso14	gittlen2016gramatica
+110	food	nopal	$					yoso14	gittlen2016gramatica
+111	food	mamey, zapote	$					yoso14	gittlen2016gramatica
+112	food	chirimoya	$					yoso14	gittlen2016gramatica
+113	food	hongo	$					yoso14	gittlen2016gramatica
+114	food	carne	kuñu	20522				yoso14	gittlen2016gramatica
+115	cooking	comal	$					yoso14	gittlen2016gramatica
+116	cooking	olla	$					yoso14	gittlen2016gramatica
+117	cooking	horno	jitnu	20523				yoso14	gittlen2016gramatica
+118	cooking	lumbre, fuego	$					yoso14	gittlen2016gramatica
+119	cooking	ceniza	$					yoso14	gittlen2016gramatica
+120	cooking	carbón	$					yoso14	gittlen2016gramatica
+121	cooking	humo	ñua'a	20524				yoso14	gittlen2016gramatica
+122	cooking	basura	mi'i	20525				yoso14	gittlen2016gramatica
+123	cooking	plato	ko'o	20526				yoso14	gittlen2016gramatica
+124	container	jícara	yajin	20527				yoso14	gittlen2016gramatica
+125	container	canasta,	chika	20528				yoso14	gittlen2016gramatica
+125		tenate	ndo'o	20529				yoso14	gittlen2016gramatica
+126	container	caja	jatnu	20530				yoso14	gittlen2016gramatica
+127	thing	hilo	yua'a	20531				yoso14	gittlen2016gramatica
+128	thing	peine	$					yoso14	gittlen2016gramatica
+129	thing	mecate, cuerda	$					yoso14	gittlen2016gramatica
+130	thing	hoyo	yau	20532				yoso14	gittlen2016gramatica
+131	thing	red	$					yoso14	gittlen2016gramatica
+132	thing	jabón	nama	20533				yoso14	gittlen2016gramatica
+133	thing	anillo	$					yoso14	gittlen2016gramatica
+134	nature	luna	$					yoso14	gittlen2016gramatica
+135	nature	nube	viko	20534				yoso14	gittlen2016gramatica
+136	nature	rayo, relámpago	$					yoso14	gittlen2016gramatica
+137	nature	agua	ndute	20535				yoso14	gittlen2016gramatica
+138	nature	lluvia	sau	20536				yoso14	gittlen2016gramatica
+139	nature	río	yute	20537				yoso14	gittlen2016gramatica
+140	nature	rocío	$					yoso14	gittlen2016gramatica
+141	nature	monte	yuku	20538				yoso14	gittlen2016gramatica
+142	nature	llano	yoso	20539				yoso14	gittlen2016gramatica
+143	nature	piedra	yuu	20540				yoso14	gittlen2016gramatica
+144	material	algodón	kachi	20541				yoso14	gittlen2016gramatica
+145	material	fierro	$					yoso14	gittlen2016gramatica
+146	material	papel	tutu	20542				yoso14	gittlen2016gramatica
+147	material	cal	$					yoso14	gittlen2016gramatica
+148	material	cera	$					yoso14	gittlen2016gramatica
+149	material	lodo	$					yoso14	gittlen2016gramatica
+150	material	espuma	$					yoso14	gittlen2016gramatica
+151	material	polvo	$					yoso14	gittlen2016gramatica
+152	color	rojo	kua'a	20543				yoso14	gittlen2016gramatica
+153	color	verde	kuii	20544				yoso14	gittlen2016gramatica
+154	color	amarillo	kuaan	20545				yoso14	gittlen2016gramatica
+155	color	negro	nde'i	20546				yoso14	gittlen2016gramatica
+156	color	blanco	yaa	20547				yoso14	gittlen2016gramatica
+156		blanco	kuijin	20548				yoso14	gittlen2016gramatica
+157	number	uno	in	20549				yoso14	gittlen2016gramatica
+158	number	dos	uu	20550				yoso14	gittlen2016gramatica
+159	number	tres	uni	20551				yoso14	gittlen2016gramatica
+160	number	cuatro	kuun	20552				yoso14	gittlen2016gramatica
+161	number	cinco	u'un	20553				yoso14	gittlen2016gramatica
+162	number	seis	iñu	20554				yoso14	gittlen2016gramatica
+163	number	siete	uja	20555				yoso14	gittlen2016gramatica
+164	number	ocho	una	20556				yoso14	gittlen2016gramatica
+165	number	nueve	iin	20557				yoso14	gittlen2016gramatica
+166	number	diez	uxi	20558				yoso14	gittlen2016gramatica
+167	number	quince	xa'un	20559				yoso14	gittlen2016gramatica
+168	number	veinte	oko	20560				yoso14	gittlen2016gramatica
+169	property	pobre	nda'u	20561				yoso14	gittlen2016gramatica
+170	property	rico	kuika	20562				yoso14	gittlen2016gramatica
+171	property	frío	$					yoso14	gittlen2016gramatica
+172	property	está caliente, caliente	i'ni	20563				yoso14	gittlen2016gramatica
+173	property	grande.SG	ka'nu	20564				yoso14	gittlen2016gramatica
+174	property	grande.PL	na'nu	20565				yoso14	gittlen2016gramatica
+175	property	pequeño.SG, chico.SG	luluu	20566				yoso14	gittlen2016gramatica
+176	property	pequeño.PL	kueli	20567				yoso14	gittlen2016gramatica
+177	property	largo.SG	kani	20568				yoso14	gittlen2016gramatica
+178	property	largo.PL	nani	20569				yoso14	gittlen2016gramatica
+179	property	bueno	va'a	20570				yoso14	gittlen2016gramatica
+180	property	dulce	vixin	20571				yoso14	gittlen2016gramatica
+181	property	salado	axe	20572				yoso14	gittlen2016gramatica
+182	property	amargo	$					yoso14	gittlen2016gramatica
+183	property	sabroso	asin	20573				yoso14	gittlen2016gramatica
+184	property	ancho	$					yoso14	gittlen2016gramatica
+185	property	nuevo	$					yoso14	gittlen2016gramatica
+186	property	flojo	$					yoso14	gittlen2016gramatica
+187	property	feo	nde'e	20574				yoso14	gittlen2016gramatica
+188	property	celoso	$					yoso14	gittlen2016gramatica
+189	property	cerca de, está cerca	yatni	20575				yoso14	gittlen2016gramatica
+190	property	está lejos, lejos	$					yoso14	gittlen2016gramatica
+191	property	pesado	$					yoso14	gittlen2016gramatica
+192	property	crudo	$					yoso14	gittlen2016gramatica
+193	property	liso	$					yoso14	gittlen2016gramatica
+194	property	despacio	$					yoso14	gittlen2016gramatica
+195	time	ayer	iku	20576				yoso14	gittlen2016gramatica
+196	time	año	kuia	20577				yoso14	gittlen2016gramatica
+197	time	ahora, hoy	vitna	20578				yoso14	gittlen2016gramatica
+198	time	noche	xini	20579				yoso14	gittlen2016gramatica
+199	time	de noche	$					yoso14	gittlen2016gramatica
+200	time	día	kiuu	20580				yoso14	gittlen2016gramatica
+201	time	de día	$					yoso14	gittlen2016gramatica
+202	abstract	mitad	$					yoso14	gittlen2016gramatica
+203	abstract	dinero	xu'un	20581				yoso14	gittlen2016gramatica
+204	abstract	trabajo	tniuu	20582				yoso14	gittlen2016gramatica
+205	abstract	palabra	$					yoso14	gittlen2016gramatica
+206	abstract	culpa	$					yoso14	gittlen2016gramatica
+207	abstract	sueño	jani	20583				yoso14	gittlen2016gramatica
+208	abstract	cuándo	$					yoso14	gittlen2016gramatica
+209	abstract	canción, música	$					yoso14	gittlen2016gramatica
