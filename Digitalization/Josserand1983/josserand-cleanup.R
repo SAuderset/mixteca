@@ -4,7 +4,7 @@ library(tidyverse)
 library(stringi)
 
 # read in raw data
-setwd("/Users/auderset/Documents/GitHub/mixteca/Digitalization/Josserand1983/")
+setwd("/Users/auderset/Desktop/Thesis/mixteca/Digitalization/Josserand1983/")
 
 joss <- list.files(pattern = "\\w+_raw.csv$") %>% map_df(~read_csv(.))
 glimpse(joss)
@@ -30,6 +30,7 @@ joss.t$GLOSS_E <- rep(as.character(eng[ ,-1]), (nrow(joss.t)/188))
 joss.t$GLOSS_S <- rep(as.character(spa[, -1]), (nrow(joss.t)/188))
 glimpse(joss.t)
 head(joss.t)
+sort(unique(joss.t$ID))
 
 # rename and reorder columns
 joss.f <- joss.t %>% select(IDjoss, GLOSS_E, GLOSS_S, VALUE, DOCULECT = ID)
@@ -38,7 +39,7 @@ glimpse(joss.f)
 
 ### create version to merge with the comparative list ###
 # read in my list
-tmpl <- read_tsv("/Users/auderset/Documents/GitHub/mixteca/ComparativeList/LISTS/template.csv")
+tmpl <- read_tsv("/Users/auderset/Desktop/Thesis/mixteca/ComparativeList/LISTS/template.csv")
 # select relevant cols
 tmpl <- tmpl %>% select(IDlist, GLOSS, GLOSS_1)
 glimpse(tmpl)
@@ -68,18 +69,19 @@ glimpse(joss.f)
 
 # add the doculects with my identifiers
 # read in concordance file
-conc <- read_csv("/Users/auderset/Documents/GitHub/mixteca/MetaInfo/mixtecan_concordance.csv")
+conc <- read_tsv("/Users/auderset/Desktop/Thesis/mixteca/MetaInfo/mixtecan_concordance.tsv")
+conc <- conc %>% mutate(Josserand_Code = stri_trans_nfkc(Josserand_Code))
 glimpse(conc)
 
 sort(unique(joss.f$DOCULECT))
 # subset just id and josserand_code
-conc.sub <- conc %>% select(id, josserand_code) %>% 
-  filter(!is.na(josserand_code)) %>%
-  separate_rows(josserand_code, sep = ",")
+conc.sub <- conc %>% select(ID, Josserand_Code) %>% 
+  filter(!is.na(Josserand_Code)) %>%
+  separate_rows(Josserand_Code, sep = ",")
 
 # add to new column via lookup, convert to lowercase first
-joss.f <- joss.f %>% mutate(DOCULECT = tolower(DOCULECT))
-joss.f <- joss.f %>% right_join(conc.sub, by = c("DOCULECT"="josserand_code"))
+joss.m <- joss.f %>% mutate(DOCULECT = tolower(DOCULECT)) %>% mutate(DOCULECT = stri_trans_nfkc(DOCULECT))
+joss.m <- joss.f %>% right_join(conc.sub, by = c("DOCULECT"="Josserand_Code"))
 
 
 # split cells with / into two rows
@@ -113,10 +115,11 @@ joss.e <- joss.f2 %>% filter(!is.na(IDlist)) %>%
   filter(DOCULECT!="Spanish") %>%
   filter(DOCULECT!="English") %>%
   filter(!is.na(VALUE)) %>%
-  select(IDlist, GLOSS_EL, GLOSS_E, GLOSS_SL, GLOSS_S, VALUE, DOCULECT = id, IDjoss, CODEjoss = DOCULECT) %>% mutate(IDlist = as.double(IDlist)) %>%
+  select(IDlist, GLOSS_EL, GLOSS_E, GLOSS_SL, GLOSS_S, VALUE, DOCULECT = ID, IDjoss, CODEjoss = DOCULECT) %>% mutate(IDlist = as.double(IDlist)) %>%
   distinct() %>%
   arrange(IDlist)
 glimpse(joss.e)
+sort(unique(joss.e$DOCULECT))
 
 # export to file
 write_csv(joss.e, "josserand_complist-out.csv")

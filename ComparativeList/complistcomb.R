@@ -2,7 +2,8 @@
 
 library(tidyverse)
 library(stringi)
-library(here)
+
+setwd("/Users/auderset/Desktop/Thesis/mixteca/ComparativeList")
 
 
 # read in all files (except template file)
@@ -12,16 +13,13 @@ head(wl)
 glimpse(wl)
 
 # restructure, delete rows with NA
-wl1 <- wl %>% select(ID, DOCULECT, GLOSS, VALUE, FORM, IDlist, NOTES, LOAN, LOAN_SOURCE, SOURCE) %>%
-  filter(VALUE!="$")
+wl1 <- wl %>% select(DOCULECT, GLOSS, VALUE, FORM, IDlist, NOTES, LOAN, LOAN_SOURCE, SOURCE) %>%
+  filter(VALUE!="$") %>% 
+  mutate(ID = 1:nrow(wl1))
 glimpse(wl1)
 
 unique(wl1$SOURCE)
-
-# subset with just loanwords for meeting
-loans <- wl1 %>% filter(!is.na(LOAN))
-write_csv(loans, "loanwords.csv")
-
+unique(wl1$DOCULECT)
 
 # move floating tones in Hollenbach 2013/pena11 to new column
 hb <- wl1 %>% filter(SOURCE=="hollenbach2017diccionario" | SOURCE=="alexander1980gramatica") %>% 
@@ -122,18 +120,18 @@ max(wl3$ID, na.rm = TRUE)
 # 21764
 
 
-### export single sheets for orthography profiles
-# make named list
-group_names <- wl3 %>% group_keys(DOCULECT) %>% pull(1)
-docugroups <- wl3 %>% group_split(DOCULECT) %>% set_names(group_names)
-# solution from here: https://martinctc.github.io/blog/vignette-write-and-read-multiple-excel-files-with-purrr/
-# Step 1
-# Define a function for exporting csv with the desired file names and into the right path
-profiles_tsv <- function(data, names){ 
-  folder_path <- "/Users/auderset/Documents/GitHub/mixteca/ComparativeList/ProfileLists/"
-  write_tsv(data, paste0(folder_path, "profile-basis-", names, ".tsv"))
-}
-# Step 2
-list(data = docugroups,
-     names = names(docugroups)) %>% pmap(profiles_tsv)
+# ### export single sheets for orthography profiles
+# # make named list
+# group_names <- wl3 %>% group_keys(DOCULECT) %>% pull(1)
+# docugroups <- wl3 %>% group_split(DOCULECT) %>% set_names(group_names)
+# # solution from here: https://martinctc.github.io/blog/vignette-write-and-read-multiple-excel-files-with-purrr/
+# # Step 1
+# # Define a function for exporting csv with the desired file names and into the right path
+# profiles_tsv <- function(data, names){ 
+#   folder_path <- "/Users/auderset/Documents/GitHub/mixteca/ComparativeList/ProfileLists/"
+#   write_tsv(data, paste0(folder_path, "profile-basis-", names, ".tsv"))
+# }
+# # Step 2
+# list(data = docugroups,
+#      names = names(docugroups)) %>% pmap(profiles_tsv)
 
