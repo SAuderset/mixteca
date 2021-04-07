@@ -5,50 +5,50 @@
 
 | Segment | Occurrence | BIPA | CLTS SoundClass |
 |:----------|-------------:|:-------|:------------------|
-| i | 10448 | ✓ | ✓ |
-| a | 9676 | ✓ | ✓ |
-| u | 6778 | ✓ | ✓ |
-| ³ | 6379 | ✓ | ✓ |
-| ʔ | 6243 | ✓ | ✓ |
+| i | 10449 | ✓ | ✓ |
+| a | 9704 | ✓ | ✓ |
+| u | 6728 | ✓ | ✓ |
+| ³ | 6349 | ✓ | ✓ |
+| ʔ | 6255 | ✓ | ✓ |
 | ¹ | 6096 | ✓ | ✓ |
-| ũ | 4098 | ✓ | ✓ |
+| ũ | 4141 | ✓ | ✓ |
 | t | 4039 | ✓ | ✓ |
-| k | 3964 | ✓ | ✓ |
-| ĩ | 3433 | ✓ | ✓ |
-| o | 3347 | ✓ | ✓ |
+| k | 3932 | ✓ | ✓ |
+| ĩ | 3436 | ✓ | ✓ |
+| o | 3344 | ✓ | ✓ |
 | ⁵ | 3222 | ✓ | ✓ |
-| n | 3145 | ✓ | ✓ |
-| e | 2938 | ✓ | ✓ |
+| n | 3142 | ✓ | ✓ |
+| e | 2935 | ✓ | ✓ |
 | ɲ | 2485 | ✓ | ✓ |
-| ã | 2369 | ✓ | ✓ |
-| j | 2363 | ✓ | ✓ |
+| j | 2356 | ✓ | ✓ |
+| ã | 2347 | ✓ | ✓ |
 | ⁿd | 2256 | ✓ | ✓ |
 | s | 2099 | ✓ | ✓ |
-| β | 1959 | ✓ | ✓ |
+| β | 1961 | ✓ | ✓ |
 | ʃ | 1832 | ✓ | ✓ |
 | tʃ | 1771 | ✓ | ✓ |
 | + | 1665 | ✓ | ✓ |
-| kʷ | 1630 | ✓ | ✓ |
+| kʷ | 1662 | ✓ | ✓ |
 | ʒ | 1557 | ✓ | ✓ |
 | m | 1280 | ✓ | ✓ |
-| ɨ | 1140 | ✓ | ✓ |
+| ɨ | 1137 | ✓ | ✓ |
 | ð | 1110 | ✓ | ✓ |
-| w | 973 | ✓ | ✓ |
+| w | 982 | ✓ | ✓ |
 | l | 648 | ✓ | ✓ |
-| õ | 645 | ✓ | ✓ |
-| ɨ̃ | 454 | ✓ | ✓ |
+| õ | 648 | ✓ | ✓ |
+| ɨ̃ | 455 | ✓ | ✓ |
 | x | 385 | ✓ | ✓ |
 | h | 358 | ✓ | ✓ |
 | tʲ | 349 | ✓ | ✓ |
 | ¹⁵ | 341 | ✓ | ✓ |
 | ts | 311 | ✓ | ✓ |
-| ² | 245 | ✓ | ✓ |
-| ẽ | 232 | ✓ | ✓ |
+| ² | 244 | ✓ | ✓ |
+| ẽ | 233 | ✓ | ✓ |
 | tⁿ | 230 | ✓ | ✓ |
 | ɦ | 181 | ✓ | ✓ |
 | ⁴ | 175 | ✓ | ✓ |
 | ʉ | 159 | ✓ | ✓ |
-| ³² | 136 | ✓ | ✓ |
+| ³² | 137 | ✓ | ✓ |
 | n̥ | 133 | ✓ | ✓ |
 | ʂ | 128 | ✓ | ✓ |
 | ⁵¹ | 125 | ✓ | ✓ |
@@ -58,12 +58,12 @@
 | r | 89 | ✓ | ✓ |
 | g | 87 | ✓ | ✓ |
 | ⁿtʃ | 85 | ✓ | ✓ |
-| u̧ | 76 | ? | ? |
 | d | 63 | ✓ | ✓ |
 | ʈʂ | 62 | ✓ | ✓ |
 | θ | 57 | ✓ | ✓ |
 | ³¹ | 53 | ✓ | ✓ |
-| j̃ | 45 | ✓ | ✓ |
+| j̃ | 52 | ✓ | ✓ |
+| u̧ | 52 | ? | ? |
 | nː | 38 | ✓ | ✓ |
 | ə̃ | 35 | ✓ | ✓ |
 | ⁿs | 34 | ✓ | ✓ |
@@ -98,8 +98,6 @@
 | jː | 9 | ✓ | ✓ |
 | nʲ | 9 | ✓ | ✓ |
 | ʐ | 9 | ✓ | ✓ |
-| ˀw | 9 | ✓ | ✓ |
-| <<̧>> | 8 | ? | ? |
 | kː | 8 | ✓ | ✓ |
 | wː | 8 | ✓ | ✓ |
 | ᵐb | 8 | ✓ | ✓ |
@@ -131,7 +129,7 @@
 | ə | 3 | ✓ | ✓ |
 | ʈʂː | 3 | ✓ | ✓ |
 | ʔw | 3 | ? | ? |
-| ᶜn/c | 3 | ✓ | ✓ |
+| ᶜn | 3 | ? | ? |
 | ⁿdʑ | 3 | ✓ | ✓ |
 | ⁿj | 3 | ✓ | ✓ |
 | ⁿsʲ | 3 | ✓ | ✓ |
@@ -145,7 +143,6 @@
 | oː | 2 | ✓ | ✓ |
 | uː | 2 | ✓ | ✓ |
 | u̧u̧ | 2 | ? | ? |
-| v | 2 | ✓ | ✓ |
 | z | 2 | ✓ | ✓ |
 | ²³ | 2 | ✓ | ✓ |
 | ³⁴ | 2 | ✓ | ✓ |
@@ -155,7 +152,6 @@
 | ŋ | 2 | ✓ | ✓ |
 | ũ̥ | 2 | ✓ | ✓ |
 | ɨ̄ | 2 | ✓ | ✓ |
-| ˀn | 2 | ✓ | ✓ |
 | θʲ | 2 | ✓ | ✓ |
 | a̧a̧ | 1 | ? | ? |
 | dʲ | 1 | ✓ | ✓ |
@@ -164,7 +160,6 @@
 | hː | 1 | ✓ | ✓ |
 | kːʷ | 1 | ✓ | ✓ |
 | o̥ | 1 | ✓ | ✓ |
-| un | 1 | ? | ? |
 | é | 1 | ✓ | ✓ |
 | ĩː | 1 | ✓ | ✓ |
 | ĩ̥ | 1 | ✓ | ✓ |
@@ -176,15 +171,15 @@
 | ʔʲ | 1 | ✓ | ✓ |
 | ʔⁿ | 1 | ✓ | ✓ |
 | ʰɲ | 1 | ✓ | ✓ |
-| ˀⁿɡ | 1 | ✓ | ✓ |
 | βʲ | 1 | ✓ | ✓ |
 | ẽ̥ | 1 | ✓ | ✓ |
 | ⁴³¹/⁴¹ | 1 | ✓ | ✓ |
 | ⁵³ | 1 | ✓ | ✓ |
 | ⁿgʷ | 1 | ✓ | ✓ |
 | ⁿt | 1 | ✓ | ✓ |
+| ⁿɡ | 1 | ✓ | ✓ |
 
-(178 rows)
+(173 rows)
 
 
 
@@ -200,7 +195,7 @@
 ## Words with invalid segments (up to 100 only)
 
 | ID | LANGUAGE | CONCEPT | FORM | SEGMENTS |
-|:-----------------------------------------------------|:------------------------------|:---------------------|:---------|:--------------------------------------------|
+|:-----------------------------------------------------|:------------------------------|:---------------------|:----------|:--------------------------------------------|
 | AlacatlatzalaMixtec_A-25_disease-1 | AlacatlatzalaMixtec_A | 25_disease | kue̠'e̠ | kʷ e ³ <s> <<̠>> </s> ʔ e ¹ |
 | ChalcatongoHidalgoMixtec_A-104_townorvillage-1 | ChalcatongoHidalgoMixtec_A | 104_townorvillage | ñũũ̀ | ɲ ũ ³ ũ ³ <s> <<̀>> </s> |
 | ChalcatongoHidalgoMixtec_A-10_black-1 | ChalcatongoHidalgoMixtec_A | 10_black | tũ̀ũ̀ | t ũ ³ <s> <<̀>> </s> ũ ³ <s> <<̀>> </s> |
@@ -217,19 +212,17 @@
 | ChalcatongoHidalgoMixtec_A-7_bigplural-1 | ChalcatongoHidalgoMixtec_A | 7_bigplural | nã́ʔnũ | n ã ³ <s> <<́>> </s> ʔ n ũ ³ |
 | ChalcatongoHidalgoMixtec_A-8_bigsingular-1 | ChalcatongoHidalgoMixtec_A | 8_bigsingular | kã́ʔnũ | k ã ³ <s> <<́>> </s> ʔ n ũ ³ |
 | ChalcatongoHidalgoMixtec_A-98_tasty-1 | ChalcatongoHidalgoMixtec_A | 98_tasty | ãsũ̀ | ã ³ s ũ ³ <s> <<̀>> </s> |
-| SanJuanNumiMixtec-104_townorvillage-1 | SanJuanNumiMixtec | 104_townorvillage | ñu̧u̧ | ɲ <s> u̧ </s> <s> u̧ </s> |
+| SanJuanNumiMixtec-104_townorvillage-1 | SanJuanNumiMixtec | 104_townorvillage | ñu̧u̧ | ɲ <s> u̧ </s> ũ |
 | SanJuanNumiMixtec-122_beeswax-1 | SanJuanNumiMixtec | 122_beeswax | yu̧ma̧ | j <s> u̧ </s> m ã |
-| SanJuanNumiMixtec-12_brotherofman-1 | SanJuanNumiMixtec | 12_brotherofman | y̧a̧ni̧ | j <s> <<̧>> </s> ã n ĩ |
-| SanJuanNumiMixtec-134_fire-1 | SanJuanNumiMixtec | 134_fire | ñu̧ʔu̧ | ɲ <s> u̧ </s> ʔ <s> u̧ </s> |
-| SanJuanNumiMixtec-159_blousewoven-1 | SanJuanNumiMixtec | 159_blousewoven | su̧ʔnu̧ | s <s> u̧ </s> ʔ n <s> u̧ </s> |
-| SanJuanNumiMixtec-165_foam-1 | SanJuanNumiMixtec | 165_foam | ti-i̧ñu̧ | t i + ĩ ɲ <s> u̧ </s> |
-| SanJuanNumiMixtec-179_net-1 | SanJuanNumiMixtec | 179_net | y̧u̧nu̧ | j <s> <<̧>> </s> <s> u̧ </s> n <s> u̧ </s> |
-| SanJuanNumiMixtec-188_smokeexhaust-1 | SanJuanNumiMixtec | 188_smokeexhaust | y̧u̧ʔa̧ | j <s> <<̧>> </s> <s> u̧ </s> ʔ ã |
-| SanJuanNumiMixtec-204_cornstalk-1 | SanJuanNumiMixtec | 204_cornstalk | y̧a̧ma̧ | j <s> <<̧>> </s> ã m ã |
-| SanJuanNumiMixtec-54_meat-1 | SanJuanNumiMixtec | 54_meat | ku̧ñu̧ | k <s> u̧ </s> ɲ <s> u̧ </s> |
+| SanJuanNumiMixtec-134_fire-1 | SanJuanNumiMixtec | 134_fire | ñu̧ʔu̧ | ɲ <s> u̧ </s> ʔ ũ |
+| SanJuanNumiMixtec-159_blousewoven-1 | SanJuanNumiMixtec | 159_blousewoven | su̧ʔnu̧ | s <s> u̧ </s> ʔ n ũ |
+| SanJuanNumiMixtec-179_net-1 | SanJuanNumiMixtec | 179_net | ỹu̧nu̧ | j̃ <s> u̧ </s> n ũ |
+| SanJuanNumiMixtec-188_smokeexhaust-1 | SanJuanNumiMixtec | 188_smokeexhaust | ỹu̧ʔa̧ | j̃ <s> u̧ </s> ʔ ã |
+| SanJuanNumiMixtec-54_meat-1 | SanJuanNumiMixtec | 54_meat | ku̧ñu̧ | k <s> u̧ </s> ɲ ũ |
 | SanJuanNumiMixtec-89_scorpion-1 | SanJuanNumiMixtec | 89_scorpion | ti-su̧ʔa̧ | t i + s <s> u̧ </s> ʔ ã |
-| SanJuanNumiMixtec-8_bigsingular-1 | SanJuanNumiMixtec | 8_bigsingular | kaʔnu̧ | k a ʔ n <s> u̧ </s> |
-| SanJuanNumiMixtec-92_six-1 | SanJuanNumiMixtec | 92_six | i̧ñu̧ | ĩ ɲ <s> u̧ </s> |
+| SanMartinItunyosoTriqui-12_brotherofman-1 | SanMartinItunyosoTriqui | 12_brotherofman | cnanj⁵ | <s> ᶜn </s> ə̃ ɦ ⁵ |
+| SanMartinItunyosoTriqui-31_fatfromanimals-1 | SanMartinItunyosoTriqui | 31_fatfromanimals | cna³min³² | <s> ᶜn </s> a ³ m ĩ ³² |
+| SanMartinItunyosoTriqui-77_possum-1 | SanMartinItunyosoTriqui | 77_possum | cna⁴kinj⁴ | <s> ᶜn </s> a ⁴ k ĩ ɦ ⁴ |
 | SantaMariaPapaloCuicatec-83_red-1 | SantaMariaPapaloCuicatec | 83_red | cua̠¹'a̠⁴ | kʷ a <s> <<̠>> </s> ⁵ ʔ ɑ ¹ |
 | SantoDomingoTonahuixtlaMixtec-101_three-1 | SantoDomingoTonahuixtlaMixtec | 101_three | u̧ni̧ | <s> u̧ </s> n <s> i̧ </s> |
 | SantoDomingoTonahuixtlaMixtec-102_tomato-1 | SantoDomingoTonahuixtlaMixtec | 102_tomato | si-na̧na̧ | s i + n <s> a̧ </s> n <s> a̧ </s> |
@@ -256,6 +249,7 @@
 | SantoDomingoTonahuixtlaMixtec-158_blood-1 | SantoDomingoTonahuixtlaMixtec | 158_blood | nì̧ì̧ | n <s> ì̧ì̧ </s> |
 | SantoDomingoTonahuixtlaMixtec-159_blousewoven-1 | SantoDomingoTonahuixtlaMixtec | 159_blousewoven | đu̧ʔnu̧ | <s> đ </s> <s> u̧ </s> ʔ n <s> u̧ </s> |
 | SantoDomingoTonahuixtlaMixtec-15_childdescendant-1 | SantoDomingoTonahuixtlaMixtec | 15_childdescendant | đeʔe | <s> đ </s> e ʔ e |
+| SantoDomingoTonahuixtlaMixtec-160_cold-1 | SantoDomingoTonahuixtlaMixtec | 160_cold | wiši̧ | w i <s> š </s> <s> i̧ </s> |
 | SantoDomingoTonahuixtlaMixtec-164_feather-1 | SantoDomingoTonahuixtlaMixtec | 164_feather | tu̧mi̧ | t <s> u̧ </s> m <s> i̧ </s> |
 | SantoDomingoTonahuixtlaMixtec-165_foam-1 | SantoDomingoTonahuixtlaMixtec | 165_foam | či-ʔi̧u̧ | <s> č </s> i + ʔ <s> i̧ </s> <s> u̧ </s> |
 | SantoDomingoTonahuixtlaMixtec-167_furrow-1 | SantoDomingoTonahuixtlaMixtec | 167_furrow | yuku̧ | y u k <s> u̧ </s> |
@@ -292,6 +286,7 @@
 | SantoDomingoTonahuixtlaMixtec-67_nighttime-1 | SantoDomingoTonahuixtlaMixtec | 67_nighttime | ni̧u̧-yaka | n <s> i̧ </s> <s> u̧ </s> + y a k a |
 | SantoDomingoTonahuixtlaMixtec-69_nose-1 | SantoDomingoTonahuixtlaMixtec | 69_nose | đitni̧ | <s> đ </s> i t n <s> i̧ </s> |
 | SantoDomingoTonahuixtlaMixtec-70_nowortoday-1 | SantoDomingoTonahuixtlaMixtec | 70_nowortoday | witni̧ | w i t n <s> i̧ </s> |
+| SantoDomingoTonahuixtlaMixtec-76_poor-1 | SantoDomingoTonahuixtlaMixtec | 76_poor | ⁿdaʔwi | ⁿd a <s> ʔw </s> i |
 | SantoDomingoTonahuixtlaMixtec-78_pricklypearcactus-1 | SantoDomingoTonahuixtlaMixtec | 78_pricklypearcactus | wi̧ʔⁿdʸa | w <s> i̧ </s> ʔⁿ dʲ a |
 | SantoDomingoTonahuixtlaMixtec-79_priest-1 | SantoDomingoTonahuixtlaMixtec | 79_priest | đutu | <s> đ </s> u t u |
 | SantoDomingoTonahuixtlaMixtec-80_pumpkin-1 | SantoDomingoTonahuixtlaMixtec | 80_pumpkin | iki̧ | i k <s> i̧ </s> |

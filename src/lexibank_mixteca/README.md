@@ -14,8 +14,8 @@ Available online at https://github.com/sauderset/mixteca
 ![Glottolog: 76%](https://img.shields.io/badge/Glottolog-76%25-yellow.svg "Glottolog: 76%")
 ![Concepticon: 92%](https://img.shields.io/badge/Concepticon-92%25-green.svg "Concepticon: 92%")
 ![Source: 100%](https://img.shields.io/badge/Source-100%25-brightgreen.svg "Source: 100%")
-![BIPA: 89%](https://img.shields.io/badge/BIPA-89%25-yellowgreen.svg "BIPA: 89%")
-![CLTS SoundClass: 89%](https://img.shields.io/badge/CLTS%20SoundClass-89%25-yellowgreen.svg "CLTS SoundClass: 89%")
+![BIPA: 90%](https://img.shields.io/badge/BIPA-90%25-yellowgreen.svg "BIPA: 90%")
+![CLTS SoundClass: 90%](https://img.shields.io/badge/CLTS%20SoundClass-90%25-yellowgreen.svg "CLTS SoundClass: 90%")
 
 - **Varieties:** 157
 - **Concepts:** 277
@@ -23,6 +23,6 @@ Available online at https://github.com/sauderset/mixteca
 - **Sources:** 38
 - **Synonymy:** 1.10
 - **Invalid lexemes:** 0
-- **Tokens:** 107,353
-- **Segments:** 178 (19 BIPA errors, 19 CTLS sound class errors, 157 CLTS modified)
-- **Inventory size (avg):** 32.85
+- **Tokens:** 107,296
+- **Segments:** 173 (18 BIPA errors, 18 CTLS sound class errors, 153 CLTS modified)
+- **Inventory size (avg):** 32.82
