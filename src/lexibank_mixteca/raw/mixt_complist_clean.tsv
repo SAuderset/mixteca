@@ -4592,7 +4592,7 @@ ID	DOCULECT	CONCEPT	SPANISH_GLOSS	VALUE	FORM	IDlist	CONCEPTICON_ID	LOAN	LOAN_SOU
 4557	AlacatlatzalaMixtec_A	DOG	perro	ina	ina	68	2009			zylstra2012gramatica		alac11
 4558	MagdalenaPenascoMixtec	HALF	mitad, medio	sava	sava	202	816			hollenbach2017diccionario		pena11
 4559	CahuatacheMixtec	YEAR	año	kʷiya	kʷiya	196	1226			josserand1983mixtec		cahu11
-4560	SanJuanNumiMixtec	BROTHER (OF MAN)	hermano de hombre	y̧a̧ni̧	y̧a̧ni̧	9	559			josserand1983mixtec		numi11
+4560	SanJuanNumiMixtec	BROTHER (OF MAN)	hermano de hombre	ỹa̧ni̧	ỹa̧ni̧	9	559			josserand1983mixtec		numi11
 4561	SanJeronimoProgresoMixtec_B	SQUIRREL	ardilla	ⁿdi-kʷa̧ni̧	ⁿdi-kʷa̧ni̧	62	1628			josserand1983mixtec		prog12
 4562	SantaMariaJicaltepecMixtec	HONEY	miel	ⁿduši	ⁿduši	103	942			josserand1983mixtec		jica11
 4563	SanAgustinChayucoMixtec	AVOCADO	aguacate	tyītyí	tyītyí	108	3725			pensinger1974diccionario		chay11
@@ -9882,7 +9882,7 @@ ID	DOCULECT	CONCEPT	SPANISH_GLOSS	VALUE	FORM	IDlist	CONCEPTICON_ID	LOAN	LOAN_SOU
 9701	SanMarcoslaFlorMixtec	SUGAR CANE	caña	ntojǒ	ntojǒ	102	146			oxnard2020		flor12
 9702	SantaCatarinaMechoacanMixtec	YELLOW	amarillo	kʷa̧a̧	kʷa̧a̧	154	1424			josserand1983mixtec		mech11
 9703	GuadalupeVillahermosaMixtec	FOAM	espuma	čí-ʔì̧ñù̧	čí-ʔì̧ñù̧	150	1768			josserand1983mixtec		guad11
-9704	SanJuanNumiMixtec	CORN STALK	rastrojo	y̧a̧ma̧	y̧a̧ma̧	93				josserand1983mixtec		numi11
+9704	SanJuanNumiMixtec	CORN STALK	rastrojo	ỹa̧ma̧	ỹa̧ma̧	93				josserand1983mixtec		numi11
 9705	SanPedroTututepecMixtec	GREEN BEAN	ejote	ⁿdʸitʸi	ⁿdʸitʸi	97				josserand1983mixtec		tutu12
 9706	SanSebastianMonteMixtec_A	ONE	uno	iin	iin	157	1493			oxnard2020		mont12
 9707	SantaLuciaMonteverdeMixtec	BEESWAX	cera	ỹu̧ma̧	ỹu̧ma̧	148	1931			josserand1983mixtec		mont13
@@ -10817,7 +10817,7 @@ ID	DOCULECT	CONCEPT	SPANISH_GLOSS	VALUE	FORM	IDlist	CONCEPTICON_ID	LOAN	LOAN_SOU
 10619	SantaCatarinaMechoacanMixtec	EIGHT	ocho	u̧ña̧	u̧ña̧	164	1705			josserand1983mixtec		mech11
 10620	MetlatonocMixtec	STOMACH	estómago	sītī-tīšī	sītī-tīšī	31	819			josserand1983mixtec		metl11
 10621	GuadalupeVillahermosaMixtec	FIVE	cinco	ʔu̧ʔu̧	ʔu̧ʔu̧	161	493			josserand1983mixtec		guad11
-10622	SanJuanNumiMixtec	SMOKE (EXHAUST)	humo	y̧u̧ʔa̧	y̧u̧ʔa̧	121	778			josserand1983mixtec		numi11
+10622	SanJuanNumiMixtec	SMOKE (EXHAUST)	humo	ỹu̧ʔa̧	ỹu̧ʔa̧	121	778			josserand1983mixtec		numi11
 10623	SanPedroTututepecMixtec	OVEN	horno	čitu̧	čitu̧	117	1143			josserand1983mixtec		tutu12
 10624	SanSebastianMonteMixtec_A	SMALL (SINGULAR)	pequeño.SG	ló'ò	ló'ò	175				oxnard2020		mont12
 10625	SantaLuciaMonteverdeMixtec	FOUR	cuatro	ku̧u̧	ku̧u̧	160	1500			josserand1983mixtec		mont13
@@ -11061,7 +11061,7 @@ ID	DOCULECT	CONCEPT	SPANISH_GLOSS	VALUE	FORM	IDlist	CONCEPTICON_ID	LOAN	LOAN_SOU
 10859	SantaCatarinaMechoacanMixtec	FIFTEEN	quince	ča̧ʔu̧	ča̧ʔu̧	167	1709			josserand1983mixtec		mech11
 10860	MetlatonocMixtec	FOOT	pie	šàʔā	šàʔā	32	1301			josserand1983mixtec		metl11
 10861	GuadalupeVillahermosaMixtec	SEVEN	siete	ʔùsà	ʔùsà	163	1704			josserand1983mixtec		guad11
-10862	SanJuanNumiMixtec	NET	red	y̧u̧nu̧	y̧u̧nu̧	131	2963			josserand1983mixtec		numi11
+10862	SanJuanNumiMixtec	NET	red	ỹu̧nu̧	ỹu̧nu̧	131	2963			josserand1983mixtec		numi11
 10863	SanPedroTututepecMixtec	GARBAGE	basura	mi̧ʔi̧	mi̧ʔi̧	122	909			josserand1983mixtec		tutu12
 10864	SanSebastianMonteMixtec_A	SALTY	salado	ìvà	ìvà	181	1091			oxnard2020		mont12
 10865	SantaLuciaMonteverdeMixtec	SIX	seis	i̧ñu̧	i̧ñu̧	162	1703			josserand1983mixtec		mont13
@@ -19930,7 +19930,7 @@ ID	DOCULECT	CONCEPT	SPANISH_GLOSS	VALUE	FORM	IDlist	CONCEPTICON_ID	LOAN	LOAN_SOU
 19564	PiedraAzulMixtec	BLACK	negro	tùjǔn	tùjǔn	155	163			oxnard2020		pied12
 19565	SanMartinDuraznosMixtec_A	DEW	rocío	yíyí	yíyí	140	1977			hernandez2020san-martin		dura11
 19566	SanSebastianMonteMixtec_A	ROPE	mecate	yo'ò	yo'ò	129	1218			oxnard2020		mont12
-19567	SanJuanNumiMixtec	TOWN OR VILLAGE	pueblo	y̧u̧u̧	ỹu̧u̧	43	3609			josserand1983mixtec		numi11
+19567	SanJuanNumiMixtec	TOWN OR VILLAGE	pueblo	ỹu̧u̧	ỹu̧u̧	43	3609			josserand1983mixtec		numi11
 19568	TepejilloMixtec	NOW OR TODAY	hoy	wiči	wiči	197	2097			josserand1983mixtec		tepe11
 19569	PiedraAzulMixtec	BLACK	negro	ntsiayì	ntsiayì	155	163			oxnard2020		pied12
 19570	SanMartinDuraznosMixtec_A	MOUNTAIN OR HILL	montaña, monte	yikì	yikì	141	2118			hernandez2020san-martin		dura11
@@ -20051,7 +20051,7 @@ ID	DOCULECT	CONCEPT	SPANISH_GLOSS	VALUE	FORM	IDlist	CONCEPTICON_ID	LOAN	LOAN_SOU
 19685	PiedraAzulMixtec	SALTY	salado	ò'và	ò'và	181	1091			oxnard2020		pied12
 19686	SanMartinDuraznosMixtec_A	SEVEN	siete	ìxà	ìxà	163	1704			hernandez2020san-martin		dura11
 19687	SanSebastianMonteMixtec_A	FIVE	cinco	ò'òn	ò'òn	161	493			oxnard2020		mont12
-19688	SanJuanNumiMixtec	SALT	sal	y̧i̧i̧	y̧i̧i̧	99	1274			josserand1983mixtec		numi11
+19688	SanJuanNumiMixtec	SALT	sal	ỹi̧i̧	ỹi̧i̧	99	1274			josserand1983mixtec		numi11
 19689	TlahuapaMixtec	TOOTH	diente	ñù'un	ñù'un	22	1380			oxnard2020		tlah11
 19690	PiedraAzulMixtec	BITTER	amargo	òvà	òvà	182	887			oxnard2020		pied12
 19691	SanMartinDuraznosMixtec_A	EIGHT	ocho	ùnà	ùnà	164	1705			hernandez2020san-martin		dura11
@@ -20074,7 +20074,7 @@ ID	DOCULECT	CONCEPT	SPANISH_GLOSS	VALUE	FORM	IDlist	CONCEPTICON_ID	LOAN	LOAN_SOU
 19708	PiedraAzulMixtec	NEW	nuevo	xàá	xàá	185	1231			oxnard2020		pied12
 19709	SanMartinDuraznosMixtec_A	TWENTY	veinte	òkò	òkò	168	1710			hernandez2020san-martin		dura11
 19710	SanSebastianMonteMixtec_A	FIFTEEN	quince	sà'òn	sà'òn	167	1709			oxnard2020		mont12
-19711	SanJuanNumiMixtec	MEAT	carne	ku̧y̧u̧	ku̧y̧u̧	114	2615			josserand1983mixtec		numi11
+19711	SanJuanNumiMixtec	MEAT	carne	ku̧ỹu̧	ku̧ỹu̧	114	2615			josserand1983mixtec		numi11
 19712	TlahuapaMixtec	HAND	mano	nda'á	nda'á	27	1277			oxnard2020		tlah11
 19713	PiedraAzulMixtec	LAZY	flojo	xúxan	xúxan	186	1564			oxnard2020		pied12
 19714	SanMartinDuraznosMixtec_A	POOR	pobre	ntá'ví	ntá'ví	169	1674			hernandez2020san-martin		dura11
@@ -20097,7 +20097,7 @@ ID	DOCULECT	CONCEPT	SPANISH_GLOSS	VALUE	FORM	IDlist	CONCEPTICON_ID	LOAN	LOAN_SOU
 19731	PiedraAzulMixtec	FAR	lejos	xìka	xìka	190	1406			oxnard2020		pied12
 19732	SanMartinDuraznosMixtec_A	BIG (SINGULAR)	grande.SG	ká'nu	ká'nu	173				hernandez2020san-martin		dura11
 19733	SanSebastianMonteMixtec_A	BIG (SINGULAR)	grande.SG	káno	káno	173				oxnard2020		mont12
-19734	SanJuanNumiMixtec	FIRE	lumbre	y̧u̧ʔu̧	ỹu̧ʔu̧	118	221			josserand1983mixtec		numi11
+19734	SanJuanNumiMixtec	FIRE	lumbre	ỹu̧ʔu̧	ỹu̧ʔu̧	118	221			josserand1983mixtec		numi11
 19735	TlahuapaMixtec	FOOT	pie	xa'á	xa'á	32	1301			oxnard2020		tlah11
 19736	PiedraAzulMixtec	HEAVY	pesado	vèje	vèje	191	1210			oxnard2020		pied12
 19737	SanMartinDuraznosMixtec_A	BIG (PLURAL)	grande.PL	ná'nu	ná'nu	174				hernandez2020san-martin		dura11
@@ -20170,7 +20170,7 @@ ID	DOCULECT	CONCEPT	SPANISH_GLOSS	VALUE	FORM	IDlist	CONCEPTICON_ID	LOAN	LOAN_SOU
 19804	PiedraAzulMixtec	WORKING OR WORK	trabajo	chuun	chuun	204	2281			oxnard2020		pied12
 19805	SanMartinDuraznosMixtec_A	JEALOUS	celoso	kuíñú	kuíñú	188	2821			hernandez2020san-martin		dura11
 19806	SanSebastianMonteMixtec_A	NOW OR TODAY	ahora, hoy	viti	viti	197	2097			oxnard2020		mont12
-19807	SanJuanNumiMixtec	SIX	seis	i̧y̧u̧	i̧y̧u̧	162	1703			josserand1983mixtec		numi11
+19807	SanJuanNumiMixtec	SIX	seis	i̧ỹu̧	i̧ỹu̧	162	1703			josserand1983mixtec		numi11
 19808	TlahuapaMixtec	MAT	petate	yuví	yuví	47	195			oxnard2020		tlah11
 19809	PiedraAzulMixtec	WORD	palabra	tù'un	tù'un	205	1599			oxnard2020		pied12
 19810	SanMartinDuraznosMixtec_A	NEAR	cerca de, está cerca	yatxi	yatxi	189	1942			hernandez2020san-martin		dura11
