@@ -21,7 +21,7 @@ packaging==20.3
 pandas==1.0.3
 pluggy==0.13.1
 purl==1.5
-py==1.8.1
+py==1.10.0
 pybtex==0.22.2
 pycldf==1.17.0
 -e git+https://github.com/cldf-clts/pyclts@5b8159dd63914f504ef3d31cc43b77f78570f646#egg=pyclts
