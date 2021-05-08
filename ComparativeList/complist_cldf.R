@@ -33,7 +33,6 @@ conc <- conc %>% mutate(ENGLISHlow = tolower(ENGLISH))
 wl_new4 <- left_join(wl_new3, conc, by = c("GLOSS" = "ENGLISHlow"), keep = TRUE)
 glimpse(wl_new4)
 
-?left_join
 
 # rename and rearrange for manual cleanup
 wl_new5 <- wl_new4 %>% unite(ENGLISH, c("ENGLISH.x", "ENGLISH.y"), sep = "", na.rm = TRUE, remove = TRUE) %>% unite(ENGLISH_NEW, c("ENGLISH_NEW.x", "ENGLISH_NEW.y"), sep = "", na.rm = TRUE, remove = TRUE) %>% unite(CONCEPTICON_ID, c("CONCEPTICON_ID.x", "CONCEPTICON_ID.y"), sep = "", na.rm = TRUE, remove = TRUE) %>% unite(CONCEPTICON_GLOSS, c("CONCEPTICON_GLOSS.x", "CONCEPTICON_GLOSS.y"), sep = "", na.rm = TRUE, remove = TRUE) %>% unite(NUMBER, c("NUMBER.x", "NUMBER.y"), sep = "", na.rm = TRUE, remove = TRUE) %>% unite(SPANISH, c("SPANISH.x", "SPANISH.y"), sep = "", na.rm = TRUE, remove = TRUE)
@@ -42,7 +41,7 @@ glimpse(wl_new5)
 
 wl_new6 <- wl_new5 %>% select(ID, DOCULECT = DOCULECTNEW, CONCEPT = ENGLISH, SPANISH_GLOSS = SPANISH, GLOSS, VALUE, FORM, IDlist, CONCEPTICON_ID, LOAN, LOAN_SOURCE, SOURCE, FLOATTONE, VARIETY_CODE = DOCULECT)
 glimpse(wl_new6)
-
+glimpse(wl_mod)
 
 # export
 write_tsv(wl_new6, "mixt_complist_addons.tsv")
